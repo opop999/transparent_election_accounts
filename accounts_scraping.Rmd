@@ -8,15 +8,17 @@ output: html_document
 Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh.cz/seznam/ofzvu/2021ps)
 
 1.  ANO 2011
--   https://www.kb.cz/cs/transparentni-ucty/ano-2011-parlamentni-volby-2021-ano-2011-czk
+-   https://www.kb.cz/cs/transparentni-ucty/4090453
 -   4090453/0100
 
 2.  Piráti-STAN
 -   https://wiki.pirati.cz/ft/start
+-   https://ib.fio.cz/ib/transparent?a=2601909155
 -   2601909155/2010
 
 3.  ODS, KDU-ČSL, TOP 09
 -   https://www.ods.cz/o-nas/financovani
+-   https://ib.fio.cz/ib/transparent?a=-48
 -   2701915288/2010
 
 4.  SPD
@@ -28,6 +30,7 @@ Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh
 -   https://www.cssd.cz/volby-2016/transparentni-ucet-cssd/transparentni-ucet-cssd/
 
 6.  KSČM
+-   https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303
 -   217343303/0300
 -   https://www.kscm.cz/cs/nase-strana/financovani-strany
 
@@ -38,6 +41,7 @@ Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh
 
 8.  Strana Zelených
 -   https://www.zeleni.cz/transparentni-financovani/
+-   https://ib.fio.cz/ib/transparent?a=2801916675
 -   2801916675/2010
 
 9.  PŘÍSAHA
@@ -50,78 +54,91 @@ Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh
 ```{r}
 library(rvest)
 library(tidyverse)
-library(janitor)
 ```
 
-SCRAPING FIO ÚČTŮ
+# SCRAPING FIO ÚČTŮ
 
+## Funkce pro scraping FIO
 ```{r}
-parties_names <- c("pirati_stan", 
-                   "ods_kdu_top",
-                   "spd", 
-                   "cssd",
-                   "trikolora",
-                   "zeleni",
-                   "prisaha")
+# Funkce pro scraping vsech zvolenych uctu
+# Argument funkce "parties_accounts_links" akceptuje vektor s odkazy na FIO bankovni ucty
+# Argument funkce "parties_names" akceptuje jmena stran - jejich format je volitelny, ale poradi musi byt shodne s "parties_accounts_links"
 
-parties_accounts_links <- c("https://ib.fio.cz/ib/transparent?a=2601909155", 
-                            "https://ib.fio.cz/ib/transparent?a=-48", 
-                            "https://ib.fio.cz/ib/transparent?a=-49", 
-                            "https://ib.fio.cz/ib/transparent?a=-50", 
-                            "https://ib.fio.cz/ib/transparent?a=2001915105", 
-                            "https://ib.fio.cz/ib/transparent?a=2801916675", 
-                            "https://ib.fio.cz/ib/transparent?a=2201968914")
+scrape_fio <- function(parties_accounts_links, parties_names) {
   
-
-scrape_fio <- function(parties_accounts_links) {
-  
-for (i in 1:7) {
-  
-page <- read_html(parties_accounts_links[i])
-
-fio_tables <- page %>% html_table(header = TRUE, dec = ",")
-
-table_transactions <- fio_tables[[2]]
-
-table_transactions <- table_transactions %>% clean_names()
-
-write_csv(table_transactions, "fio.csv")
- 
+              for (i in 1:length(parties_names)) {
+              page <- read_html(parties_accounts_links[i])
+              fio_tables <- page %>% html_table(header = TRUE, dec = ",")
+              table_transactions <- fio_tables[[2]]
+              colnames(table_transactions) <- c("datum",
+                                                "castka",
+                                                "typ",
+                                                "nazev_protiuctu",
+                                                "zprava_pro_prijemce",
+                                                "ks",
+                                                "vs",
+                                                "ss",
+                                                "poznamka")
+              myfile <- paste0(parties_names[i], ".csv")
+              write_excel_csv(table_transactions, file = myfile)
 }   
 }
 
+###############
+
+# Funkce pro scraping vsech zvolenych uctu s cilem ulozeni souhrnu jejich stavu do jedne tabulky
+
+scrape_fio_summary <- function(parties_accounts_links, parties_names) {
+
+summary_list <- list()
+
+  for (i in 1:length(parties_names)) {
+
+                        page <- read_html(parties_accounts_links[i])
+                        fio_tables <- page %>% html_table(header = TRUE, dec = ",")
+                        table_party_summary <- fio_tables[[1]]
+                        table_party_summary <- table_party_summary %>% slice(1) %>% as.character()
+                        summary_list[[parties_names[i]]] <- table_party_summary
+      }
+
+table_total_summary <- as_tibble(t(as_tibble(summary_list)), rownames = "strana")
+colnames(table_total_summary) <- c("strana", "stav_leden_2021", "stav_dnes", "suma_prijmu", "suma_vydaju", "suma_celkem", "bezny_zustatek") 
+write_excel_csv(table_total_summary, file = "aktualni_stav_vsech_uctu.csv")
+}
+
+```
+
+## Vstupy pro funkce FIO
+
+```{r}
+names <- c("pirati_stan", 
+           "ods_kdu_top09",
+           "spd", 
+           "cssd",
+           "trikolora",
+           "zeleni",
+           "prisaha")
+
+links <- c("https://ib.fio.cz/ib/transparent?a=2601909155&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=-48&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=-49&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=-50&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=2001915105&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=2801916675&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021")
+
+scrape_fio(parties_accounts_links = links, parties_names = names)
 
 
-scrape_fio(parties_accounts_links)
+scrape_fio_summary(parties_accounts_links = links, parties_names = names)
 
 
+```
 
 
+# SCRAPING ČSOB ÚČTŮ
 
-
-  
-# &f=01.01.2021&t=08.06.2021
-
-
-
-page <- read_html("https://ib.fio.cz/ib/transparent?a=2601909155")
-
-tables_list <- page %>% html_table(header = TRUE, dec = ",")
-
-table_transactions <- tables_list[[2]]
-
-table_account_status <- tables_list[[1]]
-
-
-# Prevod nazvu sloupcu do strojove citelne podoby
-
-table_transactions <- table_transactions %>% clean_names()
-
-
-
-
-glimpse(table_transactions)
-
+```{r}
 
 
 
@@ -129,10 +146,13 @@ glimpse(table_transactions)
 
 
 
-SCRAPING ČSOB ÚČTŮ
+# SCRAPING KB ÚČTŮ
+
+```{r}
+
+page <- read_html("https://www.kb.cz/cs/transparentni-ucty/4090453")
 
 
 
-
-SCRAPING KB ÚČTŮ
+```
 
