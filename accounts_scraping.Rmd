@@ -5,4 +5,134 @@ date: "8 6 2021"
 output: html_document
 ---
 
+Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh.cz/seznam/ofzvu/2021ps)
+
+1.  ANO 2011
+-   https://www.kb.cz/cs/transparentni-ucty/ano-2011-parlamentni-volby-2021-ano-2011-czk
+-   4090453/0100
+
+2.  Piráti-STAN
+-   https://wiki.pirati.cz/ft/start
+-   2601909155/2010
+
+3.  ODS, KDU-ČSL, TOP 09
+-   https://www.ods.cz/o-nas/financovani
+-   2701915288/2010
+
+4.  SPD
+-   https://ib.fio.cz/ib/transparent?a=-49
+-   https://www.spd.cz/o-nas/volby-do-poslanecke-snemovny-2021/
+
+5.  ČSSD
+-   https://ib.fio.cz/ib/transparent?a=-50
+-   https://www.cssd.cz/volby-2016/transparentni-ucet-cssd/transparentni-ucet-cssd/
+
+6.  KSČM
+-   217343303/0300
+-   https://www.kscm.cz/cs/nase-strana/financovani-strany
+
+7.  Trikolóra
+-   2001915105/2010
+-   https://ib.fio.cz/ib/transparent?a=2001915105
+-   https://www.volimtrikoloru.cz/archiv/financovani
+
+8.  Strana Zelených
+-   https://www.zeleni.cz/transparentni-financovani/
+-   2801916675/2010
+
+9.  PŘÍSAHA
+-   https://www.prisaha.cz/financovani
+-   https://ib.fio.cz/ib/transparent?a=2201968914
+-   2201968914/2010
+
+
+
+```{r}
+library(rvest)
+library(tidyverse)
+library(janitor)
+```
+
+SCRAPING FIO ÚČTŮ
+
+```{r}
+parties_names <- c("pirati_stan", 
+                   "ods_kdu_top",
+                   "spd", 
+                   "cssd",
+                   "trikolora",
+                   "zeleni",
+                   "prisaha")
+
+parties_accounts_links <- c("https://ib.fio.cz/ib/transparent?a=2601909155", 
+                            "https://ib.fio.cz/ib/transparent?a=-48", 
+                            "https://ib.fio.cz/ib/transparent?a=-49", 
+                            "https://ib.fio.cz/ib/transparent?a=-50", 
+                            "https://ib.fio.cz/ib/transparent?a=2001915105", 
+                            "https://ib.fio.cz/ib/transparent?a=2801916675", 
+                            "https://ib.fio.cz/ib/transparent?a=2201968914")
+  
+
+scrape_fio <- function(parties_accounts_links) {
+  
+for (i in 1:7) {
+  
+page <- read_html(parties_accounts_links[i])
+
+fio_tables <- page %>% html_table(header = TRUE, dec = ",")
+
+table_transactions <- fio_tables[[2]]
+
+table_transactions <- table_transactions %>% clean_names()
+
+write_csv(table_transactions, "fio.csv")
+ 
+}   
+}
+
+
+
+scrape_fio(parties_accounts_links)
+
+
+
+
+
+
+  
+# &f=01.01.2021&t=08.06.2021
+
+
+
+page <- read_html("https://ib.fio.cz/ib/transparent?a=2601909155")
+
+tables_list <- page %>% html_table(header = TRUE, dec = ",")
+
+table_transactions <- tables_list[[2]]
+
+table_account_status <- tables_list[[1]]
+
+
+# Prevod nazvu sloupcu do strojove citelne podoby
+
+table_transactions <- table_transactions %>% clean_names()
+
+
+
+
+glimpse(table_transactions)
+
+
+
+
+```
+
+
+
+SCRAPING ČSOB ÚČTŮ
+
+
+
+
+SCRAPING KB ÚČTŮ
 
