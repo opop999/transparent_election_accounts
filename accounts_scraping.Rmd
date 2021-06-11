@@ -139,6 +139,11 @@ scrape_fio_summary(parties_accounts_links = links, parties_names = names)
 # SCRAPING ČSOB ÚČTŮ
 
 ```{r}
+page <- read_html("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+
+download.file("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303", "csob.html")
+
+
 
 
 
@@ -149,8 +154,109 @@ scrape_fio_summary(parties_accounts_links = links, parties_names = names)
 # SCRAPING KB ÚČTŮ
 
 ```{r}
+library(jsonlite)
+library(httr)
 
 page <- read_html("https://www.kb.cz/cs/transparentni-ucty/4090453")
+
+scrape_kb_summary <- as.data.frame(fromJSON("https://www.kb.cz/transparentsapi/balance/4090453"))
+
+
+
+
+
+
+
+
+
+
+
+
+
+link <- "https://www.kb.cz/cs/transparentni-ucty/4090453"
+page <- read_html(link)
+
+
+date <- page %>% html_nodes(".nth-child(2)") %>% html_text()
+amount <- page %>% html_nodes(".amount_value") %>% html_text()
+type <- page %>% html_nodes(".amount_value+ td") %>% html_text()
+message <- page %>% html_nodes(".transparent-account__note") %>% html_text()
+
+
+
+pageview_response <- GET("https://www.kb.cz/transparentsapi/transactions/4090453")
+
+pageview_data <- content(pageview_response)
+
+http_error(pageview_response)
+http_type(pageview_response)
+
+tabulka <- tibble(pageview_data[[2]])
+
+
+
+
+pageview_response <- GET("https://www.kb.cz/transparentsapi/transactions/4090453", query = list("pageSize=75"))
+
+pageview_data <- content(pageview_response)
+
+
+# config = list(token = "MZsy5sFESYqU7MawXZgR_w")
+post_result <- POST("https://www.kb.cz/transparentsapi/transactions/4090453", body = "api: {
+            info: '/transparentsapi/balance/4090453',
+            list: '/transparentsapi/transactions/4090453',
+            pageSize: 50
+        }")
+
+
+http_error(post_result)
+
+
+
+
+
+```
+
+
+```{r}
+# CSOB Using Selenium
+remDr <- remoteDriver(
+  remoteServerAddr = "localhost",
+  port = 4445L,
+  browserName = "firefox"
+)
+
+remDr$open()
+remDr$getStatus()
+remDr$copy()
+remDr$getAllCookies()
+remDr$deleteAllCookies()
+remDr$server$stop()
+remDr$quit()
+
+remDr$getCurrentUrl()
+
+
+remDr$navigate("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+webElem <- remDr$findElement(using = "name", "dateFilter")  
+
+
+
+
+remDr$navigate("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+
+
+webElem <- remDr$findElement(using = "name", "dateFilter")  
+
+
+webElem$clickElement()
+
+webElem$sendKeysToElement(list("\uE007"))
+
+
+
+webElem <- remDr$findElement(using = "css", ".pdp-pagination-next a")  
+
 
 
 
