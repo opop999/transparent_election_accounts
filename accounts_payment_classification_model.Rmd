@@ -1,0 +1,256 @@
+---
+title: "Account Payments Classification: Naive Bayes, SVM"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+
+excel_sheets("kv_20_ucty.xlsx")
+
+```
+
+# Extracting relevant sheets for machine learning algoritm + preprocessing
+
+```{r}
+# For the machine learning task, we only extract columns of interest
+
+ano <- read_excel("kv_20_ucty.xlsx", sheet = 3, skip = 4,
+                  col_names = c("index",
+                                "datum",
+                                "castka",
+                                "protiucet",
+                                "zprava_1",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1",
+                                "extra_2")) %>% 
+        transmute(zprava = zprava_1, typ = as.factor(typ)) %>%  
+        mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+pirati <- read_excel("kv_20_ucty.xlsx", sheet = 4, skip = 4,
+                  col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1",
+                                "extra_2")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2),
+                    typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+cssd <- read_excel("kv_20_ucty.xlsx", sheet = 5, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1",
+                                "extra_2",
+                                "extra_3")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2), typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+
+kdu_csl <- read_excel("kv_20_ucty.xlsx", sheet = 6, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1",
+                                "extra_2",
+                                "extra_3")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2), typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+kscm <- read_excel("kv_20_ucty.xlsx", sheet = 7, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1",
+                                "extra_2")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2), typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+ods <- read_excel("kv_20_ucty.xlsx", sheet = 8, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1",
+                                "extra_2")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2), typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+  
+stan <- read_excel("kv_20_ucty.xlsx", sheet = 9, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2), typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+  
+spd <- read_excel("kv_20_ucty.xlsx", sheet = 10, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "zprava_2",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod")) %>% 
+          transmute(zprava = paste(zprava_1, zprava_2), typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+  
+top09 <- read_excel("kv_20_ucty.xlsx", sheet = 11, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "protiucet",
+                                "zprava_1",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod",
+                                "extra_1")) %>% 
+          transmute(zprava = zprava_1, typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+  
+trikolora <- read_excel("kv_20_ucty.xlsx", sheet = 12, skip = 4,
+                   col_names = c("index",
+                                "datum",
+                                "castka",
+                                "zprava_1",
+                                "extra_1",
+                                "typ",
+                                "typ_dlouhy",
+                                "strana_koalice",
+                                "subjekt",
+                                "kod")) %>% 
+          transmute(zprava = zprava_1, typ = as.factor(typ)) %>%  
+          mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+
+# ADD following accounts: 208, 215, 216, 217, 218  
+
+
+
+# kdu_201 <- read_excel("kv_20_ucty.xlsx", sheet = 12, skip = 4,
+#                    col_names = c("index",
+#                                 "datum",
+#                                 "castka",
+#                                 "zprava_1",
+#                                 "extra_1",
+#                                 "typ",
+#                                 "typ_dlouhy",
+#                                 "strana_koalice",
+#                                 "subjekt",
+#                                 "kod")) %>% 
+#           transmute(zprava = zprava_1, typ = as.factor(typ)) %>%  
+#           mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+# 
+# 
+# trikolora_206 <- read_excel("kv_20_ucty.xlsx", sheet = 12, skip = 4,
+#                    col_names = c("index",
+#                                 "datum",
+#                                 "castka",
+#                                 "zprava_1",
+#                                 "extra_1",
+#                                 "typ",
+#                                 "typ_dlouhy",
+#                                 "strana_koalice",
+#                                 "subjekt",
+#                                 "kod")) %>% 
+#           transmute(zprava = zprava_1, typ = as.factor(typ)) %>%  
+#           mutate(firma = str_extract(string = zprava, pattern = "(?<=ICO|ico|ico.|ICO.)[0-9]{8}"))
+
+
+```
+
+
+# Binding all datasets to one, further processing
+
+```{r}
+# For this dataset, we also exclude the extracted company information and lowercase
+
+ml_dataset <- bind_rows(ano, pirati, cssd, kdu_csl, kscm, ods, stan, spd, top09, trikolora) %>% 
+              select(-firma) %>% 
+              mutate(zprava = str_to_lower(zprava))
+  
+# How many factor levels of "typ" we have?
+ml_dataset  %>% 
+  group_by(typ) %>% 
+  count() %>% 
+  arrange(desc(n))
+  
+# One category is accidentally capitalized...
+ml_dataset  %>%
+  filter(typ == "O")
+
+#...so we merge it with the noncapitalized category, together with g category
+ml_dataset <- ml_dataset %>% 
+  mutate(typ = fct_collapse(typ, "o" = "O", "d" = "g"))
+
+# How many factor levels of "typ" we have now?
+ml_dataset  %>% 
+  group_by(typ) %>% 
+  count() %>% 
+  arrange(desc(n))
+
+```
+
+
+# Work in progress: extraction of companies using regex
+
+```{r}
+# Extracting companies
+
+ml_dataset_companies <- ml_dataset %>% 
+                        mutate(firma = str_extract(string = zprava, pattern = "(sro|s/.r/.o/.|a/.s/.)"))
+
+# pattern = "w*.w*(sro|s.r.o.|a.s.)"
+
+```
+
