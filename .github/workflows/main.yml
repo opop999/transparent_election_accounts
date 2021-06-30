@@ -5,7 +5,7 @@ name: transparent_accounts_scrape
 # Controls when the action will run.
 on:
   schedule:
-    - cron:  '30 6 * * *'
+    - cron:  '30 4 * * *'
     
 jobs: 
   autoscrape:
