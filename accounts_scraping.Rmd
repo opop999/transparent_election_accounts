@@ -79,7 +79,7 @@ scrape_fio <- function(parties_accounts_links, parties_names) {
                                                 "vs",
                                                 "ss",
                                                 "poznamka")
-              myfile <- paste0(parties_names[i], ".csv")
+              myfile <- paste0("ucty_komplet/", parties_names[i], ".csv")
               write_excel_csv(table_transactions, file = myfile)
 }   
 }
@@ -103,7 +103,7 @@ summary_list <- list()
 
 table_total_summary <- as_tibble(t(as_tibble(summary_list)), rownames = "strana")
 colnames(table_total_summary) <- c("strana", "stav_leden_2021", "stav_dnes", "suma_prijmu", "suma_vydaju", "suma_celkem", "bezny_zustatek") 
-write_excel_csv(table_total_summary, file = "aktualni_stav_vsech_uctu.csv")
+write_excel_csv(table_total_summary, file = "ucty_komplet/aktualni_stav_vsech_uctu.csv")
 }
 
 ```
@@ -136,22 +136,7 @@ scrape_fio_summary(parties_accounts_links = links, parties_names = names)
 ```
 
 
-# SCRAPING ČSOB ÚČTŮ
-
-```{r}
-page <- read_html("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
-
-download.file("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303", "csob.html")
-
-
-
-
-
-```
-
-
-
-# SCRAPING KB ÚČTŮ
+# WORK IN PROGRESS: SCRAPING KB ÚČTŮ
 
 ```{r}
 library(jsonlite)
@@ -160,17 +145,6 @@ library(httr)
 page <- read_html("https://www.kb.cz/cs/transparentni-ucty/4090453")
 
 scrape_kb_summary <- as.data.frame(fromJSON("https://www.kb.cz/transparentsapi/balance/4090453"))
-
-
-
-
-
-
-
-
-
-
-
 
 
 link <- "https://www.kb.cz/cs/transparentni-ucty/4090453"
@@ -182,8 +156,6 @@ amount <- page %>% html_nodes(".amount_value") %>% html_text()
 type <- page %>% html_nodes(".amount_value+ td") %>% html_text()
 message <- page %>% html_nodes(".transparent-account__note") %>% html_text()
 
-
-
 pageview_response <- GET("https://www.kb.cz/transparentsapi/transactions/4090453")
 
 pageview_data <- content(pageview_response)
@@ -192,8 +164,6 @@ http_error(pageview_response)
 http_type(pageview_response)
 
 tabulka <- tibble(pageview_data[[2]])
-
-
 
 
 pageview_response <- GET("https://www.kb.cz/transparentsapi/transactions/4090453", query = list("pageSize=75"))
@@ -211,14 +181,17 @@ post_result <- POST("https://www.kb.cz/transparentsapi/transactions/4090453", bo
 
 http_error(post_result)
 
-
-
-
-
 ```
 
+# WORK IN PROGRESS: SCRAPING ČSOB ÚČTŮ
 
 ```{r}
+# Standart scraping - access blocked
+page <- read_html("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+
+download.file("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303", "csob.html")
+
+
 # CSOB Using Selenium
 remDr <- remoteDriver(
   remoteServerAddr = "localhost",
@@ -236,29 +209,18 @@ remDr$quit()
 
 remDr$getCurrentUrl()
 
-
 remDr$navigate("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
 webElem <- remDr$findElement(using = "name", "dateFilter")  
 
-
-
-
 remDr$navigate("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
 
-
 webElem <- remDr$findElement(using = "name", "dateFilter")  
-
 
 webElem$clickElement()
 
 webElem$sendKeysToElement(list("\uE007"))
 
-
-
 webElem <- remDr$findElement(using = "css", ".pdp-pagination-next a")  
-
-
-
 
 ```
 
