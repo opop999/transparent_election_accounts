@@ -1,6 +1,6 @@
 # Automated election accounts scraping with GitHub Actions
 
-name: transparent_accounts_scrape
+name: Transparent Accounts Scrape with R-Lib
 
 # Controls when the action will run.
 on:
