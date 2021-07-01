@@ -1,4 +1,4 @@
-[![GitHub_Actions_Automation](https://github.com/opop999/transparent_election_accounts/actions/workflows/main.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/main.yml)
+[![transparent_accounts_scrape](https://github.com/opop999/transparent_election_accounts/actions/workflows/main.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/main.yml)
 
 # Transparent election accounts extraction and analysis
 ## Czech parliamentary elections 2021
@@ -14,4 +14,3 @@
 
 ### Current status (1 July 2021):
 -We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger.
-
