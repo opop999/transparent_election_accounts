@@ -1,6 +1,6 @@
 # Automated election accounts scraping with GitHub Actions
 
-name: transparent_accounts_scrape_with_docker
+name: Transparent Accounts Scrape with Docker Image
 
 # Controls when the action will run.
 on:
@@ -15,11 +15,11 @@ jobs:
     runs-on: ubuntu-latest
     container: rocker/tidyverse
 
-    # Load repo and run the script
+    # Load repo and run the scraping script
     steps:
     - uses: actions/checkout@v2
-    - name: Docker Test
-      run: Rscript docker_test.R
+    - name: Scrape
+      run: Rscript fio_scraping_script.R
       
  # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
