@@ -12,18 +12,17 @@ on:
 jobs: 
   autoscrape:
     # The type of runner that the job will run on
-    runs-on: ubuntu-20.04
+    runs-on: macOS-latest
 
     # Load repo and install R
     steps:
-    - uses: actions/checkout@master
-    - uses: r-lib/actions/setup-r@master
+    - uses: actions/checkout@v2
+    - uses: r-lib/actions/setup-r@v1
 
     # Set-up R
     - name: Install packages
       run: |
-        R -e 'install.packages("tidyverse")'
-        R -e 'install.packages("rvest")'
+        Rscript -e 'install.packages(c("tidyverse", "rvest"))'
     # Run R script
     - name: Scrape
       run: Rscript fio_scraping_script.R
