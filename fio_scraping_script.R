@@ -11,6 +11,12 @@ library(tidyverse)
 
 scrape_fio <- function(parties_accounts_links, parties_names) {
   
+  if (!dir.exists(dir_name)) {
+    dir.create(dir_name)
+  } else {
+    print("output directory already exists")  
+  }
+  
   for (i in 1:length(parties_names)) {
     page <- read_html(parties_accounts_links[i])
     fio_tables <- page %>% html_table(header = TRUE, dec = ",")
@@ -24,7 +30,7 @@ scrape_fio <- function(parties_accounts_links, parties_names) {
                                       "vs",
                                       "ss",
                                       "poznamka")
-    myfile <- paste0("test/", parties_names[i], ".csv")
+    myfile <- paste0(dir_name, "/", parties_names[i], ".csv")
     write_excel_csv(table_transactions, file = myfile)
   }   
 }
@@ -37,6 +43,12 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
   
   summary_list <- list()
   
+  if (!dir.exists(dir_name)) {
+    dir.create(dir_name)
+  } else {
+    print("output directory already exists")  
+  }
+  
   for (i in 1:length(parties_names)) {
     
     page <- read_html(parties_accounts_links[i])
@@ -47,12 +59,21 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
   }
   
   table_total_summary <- as_tibble(t(as_tibble(summary_list)), rownames = "strana")
-  colnames(table_total_summary) <- c("strana", "stav_leden_2021", "stav_dnes", "suma_prijmu", "suma_vydaju", "suma_celkem", "bezny_zustatek") 
-  write_excel_csv(table_total_summary, file = "test/aktualni_stav_vsech_uctu.csv")
+  colnames(table_total_summary) <- c("strana",
+                                     "stav_leden_2021",
+                                     "stav_dnes",
+                                     "suma_prijmu",
+                                     "suma_vydaju",
+                                     "suma_celkem",
+                                     "bezny_zustatek")
+  myfile <- paste0(dir_name, "/aktualni_stav_vsech_uctu.csv")
+  write_excel_csv(table_total_summary, file = myfile)
 }
 
 
 ## Vstupy pro funkce FIO
+
+dir_name <- "test" # Specifikace nazvu slozky, kam budou csv soubory ulozeny
 
 names <- c("pirati_stan", 
            "ods_kdu_top09",
