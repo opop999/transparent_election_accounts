@@ -1,6 +1,7 @@
 [![GitHub_Actions_Automation](https://github.com/opop999/transparent_election_accounts/actions/workflows/main.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/main.yml)
 
-# Transparent election accounts extraction and analysis: Czech parliamentary elections 2021
+# Transparent election accounts extraction and analysis
+## Czech parliamentary elections 2021
 
 ### Goal: To have an automated workflow, which would inform analysts covering the financing of the Czech 2021 parliamentary elections. This would ideally include:
 -Extraction of the raw tables with transactions data, providing complete information.
