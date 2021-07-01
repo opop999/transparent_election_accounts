@@ -22,7 +22,7 @@ jobs:
     # Set-up R
     - name: Install packages
       run: |
-        Rscript -e 'install.packages(c("tidyverse", "rvest"))'
+        Rscript -e 'install.packages(c("dplyr", "rvest", "readr"))'
     # Run R script
     - name: Scrape
       run: Rscript fio_scraping_script.R
@@ -32,7 +32,7 @@ jobs:
       run: |
         git config --local user.name actions-user
         git config --local user.email "actions@github.com"
-        git add data/*
+        git add data/data_full/*
         git commit -am "GH ACTION Headlines $(date)"
         git push origin master
       env:
