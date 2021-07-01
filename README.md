@@ -1,4 +1,5 @@
 [![Transparent Accounts Scrape with R-Lib](https://github.com/opop999/transparent_election_accounts/actions/workflows/r-lib.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/r-lib.yml)
+
 [![Transparent Accounts Scrape with Docker Image](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker.yml)
 
 # Transparent election accounts extraction and analysis
@@ -14,4 +15,4 @@
 -Training and deployement of a classification model to help identify transaction types. 
 
 ### Current status (1 July 2021):
--We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger.
+-We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger. We can use the R-Lib repository for GH Actions (on macOS-latest), but, for better compatibility, we chose an appropriate Docker container (rocker/tidyverse on ubuntu-latest).
