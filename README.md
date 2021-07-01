@@ -1,5 +1,3 @@
-[![Transparent Accounts Scrape with R-Lib](https://github.com/opop999/transparent_election_accounts/actions/workflows/r-lib.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/r-lib.yml)
-
 [![Transparent Accounts Scrape with Docker Image](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker.yml)
 
 # Transparent election accounts extraction and analysis
