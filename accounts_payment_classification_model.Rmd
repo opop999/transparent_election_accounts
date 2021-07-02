@@ -5,6 +5,7 @@ output: html_document
 
 ```{r}
 library(tidyverse)
+library(readxl)
 
 excel_sheets("kv_20_ucty.xlsx")
 
