@@ -4,7 +4,7 @@
 
 # This repository is part of a [umbrella project](https://github.com/opop999?tab=projects) of the 2021 pre-election monitoring by the Czech chapter of Transparency International.
 
-## Goal: Extraction and analysis of transparent election bank accounts of political parties/movements 
+## Goal: Extraction & analysis of transparent election bank accounts of political parties/movements 
 
 ### We aim for an automated workflow, which would inform analysts covering the financing of the Czech 2021 parliamentary elections. This would ideally include:
 -Extraction of the raw tables with transactions data, providing complete information. To this end, we directly scrape the bank accounts using Rvest package. In the automatization part, we use GitHub Actions which run using a [Docker container](https://hub.docker.com/u/rocker) to provide better compatibility and robustness.
