@@ -76,7 +76,7 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
 
 ## Vstupy pro funkce FIO
 
-dir_name <- "ucty_komplet" # Specifikace nazvu slozky, kam budou csv soubory ulozeny
+dir_name <- "data" # Specifikace nazvu slozky, kam budou csv soubory ulozeny
 
 names <- c(
   "pirati_stan",
