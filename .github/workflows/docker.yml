@@ -19,14 +19,14 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Scrape
-      run: Rscript fio_scraping_script.R
+      run: Rscript 01_scrape_fio_accounts.R
       
  # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
       run: |
         git config --local user.name actions-user
         git config --local user.email "actions@github.com"
-        git add ucty_komplet/*
+        git add data/*
         git commit -am "GH Action $(date)"
         git push origin master
       env:
