@@ -1,0 +1,41 @@
+---
+title: "Transparent Bank Accounts Key Insights Summary"
+date: "Last updated `r format (Sys.time(),'%d. %m. %Y')`"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+
+
+```
+
+Summary 1
+=====================================
+
+
+Column
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+
+
+```
+
+Column 
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+
+```
+
+Summary 2
+=====================================
+

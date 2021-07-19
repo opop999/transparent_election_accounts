@@ -1,0 +1,245 @@
+---
+title: "TI Accounts scraping"
+author: "Ondrej Pekacek"
+date: "8 6 2021"
+output: html_document
+---
+
+Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh.cz/seznam/ofzvu/2021ps)
+
+1.  ANO 2011
+-   https://www.kb.cz/cs/transparentni-ucty/4090453
+-   4090453/0100
+
+2.  Piráti-STAN
+-   https://wiki.pirati.cz/ft/start
+-   https://ib.fio.cz/ib/transparent?a=2601909155
+-   2601909155/2010
+
+3.  ODS, KDU-ČSL, TOP 09
+-   https://www.ods.cz/o-nas/financovani
+-   https://ib.fio.cz/ib/transparent?a=-48
+-   2701915288/2010
+
+4.  SPD
+-   https://ib.fio.cz/ib/transparent?a=-49
+-   https://www.spd.cz/o-nas/volby-do-poslanecke-snemovny-2021/
+
+5.  ČSSD
+-   https://ib.fio.cz/ib/transparent?a=-50
+-   https://www.cssd.cz/volby-2016/transparentni-ucet-cssd/transparentni-ucet-cssd/
+
+6.  KSČM
+-   https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303
+-   217343303/0300
+-   https://www.kscm.cz/cs/nase-strana/financovani-strany
+
+7.  Trikolóra
+-   2001915105/2010
+-   https://ib.fio.cz/ib/transparent?a=2001915105
+-   https://www.volimtrikoloru.cz/archiv/financovani
+
+8.  Strana Zelených
+-   https://www.zeleni.cz/transparentni-financovani/
+-   https://ib.fio.cz/ib/transparent?a=2801916675
+-   2801916675/2010
+
+9.  PŘÍSAHA
+-   https://www.prisaha.cz/financovani
+-   https://ib.fio.cz/ib/transparent?a=2201968914
+-   2201968914/2010
+
+
+
+```{r}
+library(rvest)
+library(tidyverse)
+```
+
+# SCRAPING FIO ÚČTŮ
+
+## Funkce pro scraping FIO
+```{r}
+# Funkce pro scraping vsech zvolenych uctu
+# Argument funkce "parties_accounts_links" akceptuje vektor s odkazy na FIO bankovni ucty
+# Argument funkce "parties_names" akceptuje jmena stran - jejich format je volitelny, ale poradi musi byt shodne s "parties_accounts_links"
+
+scrape_fio <- function(parties_accounts_links, parties_names) {
+  
+  if (!dir.exists(dir_name)) {
+    dir.create(dir_name)
+  } else {
+    print("output directory already exists")  
+  }
+  
+  for (i in 1:length(parties_names)) {
+    page <- read_html(parties_accounts_links[i])
+    fio_tables <- page %>% html_table(header = TRUE, dec = ",")
+    table_transactions <- fio_tables[[2]]
+    colnames(table_transactions) <- c("datum",
+                                      "castka",
+                                      "typ",
+                                      "nazev_protiuctu",
+                                      "zprava_pro_prijemce",
+                                      "ks",
+                                      "vs",
+                                      "ss",
+                                      "poznamka")
+    myfile <- paste0(dir_name, "/", parties_names[i], ".csv")
+    write_excel_csv(table_transactions, file = myfile)
+  }   
+}
+
+###############
+
+# Funkce pro scraping vsech zvolenych uctu s cilem ulozeni souhrnu jejich stavu do jedne tabulky
+
+scrape_fio_summary <- function(parties_accounts_links, parties_names) {
+  
+  summary_list <- list()
+  
+  if (!dir.exists(dir_name)) {
+    dir.create(dir_name)
+  } else {
+    print("output directory already exists")  
+  }
+  
+  for (i in 1:length(parties_names)) {
+    
+    page <- read_html(parties_accounts_links[i])
+    fio_tables <- page %>% html_table(header = TRUE, dec = ",")
+    table_party_summary <- fio_tables[[1]]
+    table_party_summary <- table_party_summary %>% slice(1) %>% as.character()
+    summary_list[[parties_names[i]]] <- table_party_summary
+  }
+  
+  table_total_summary <- as_tibble(t(as_tibble(summary_list)), rownames = "strana")
+  colnames(table_total_summary) <- c("strana",
+                                     "stav_leden_2021",
+                                     "stav_dnes",
+                                     "suma_prijmu",
+                                     "suma_vydaju",
+                                     "suma_celkem",
+                                     "bezny_zustatek")
+  myfile <- paste0(dir_name, "/aktualni_stav_vsech_uctu.csv")
+  write_excel_csv(table_total_summary, file = myfile)
+}
+
+```
+
+## Vstupy pro funkce FIO
+
+```{r}
+dir_name <- "test" # Specifikace nazvu slozky, kam budou csv soubory ulozeny
+
+names <- c("pirati_stan", 
+           "ods_kdu_top09",
+           "spd", 
+           "cssd",
+           "trikolora",
+           "zeleni",
+           "prisaha")
+
+links <- c("https://ib.fio.cz/ib/transparent?a=2601909155&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=-48&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=-49&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=-50&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=2001915105&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=2801916675&f=01.01.2021", 
+           "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021")
+
+scrape_fio(parties_accounts_links = links, parties_names = names)
+
+scrape_fio_summary(parties_accounts_links = links, parties_names = names)
+
+```
+
+
+# WORK IN PROGRESS: SCRAPING KB ÚČTŮ
+
+```{r}
+library(jsonlite)
+library(httr)
+
+page <- read_html("https://www.kb.cz/cs/transparentni-ucty/4090453")
+
+scrape_kb_summary <- as.data.frame(fromJSON("https://www.kb.cz/transparentsapi/balance/4090453"))
+
+
+link <- "https://www.kb.cz/cs/transparentni-ucty/4090453"
+page <- read_html(link)
+
+
+date <- page %>% html_nodes(".nth-child(2)") %>% html_text()
+amount <- page %>% html_nodes(".amount_value") %>% html_text()
+type <- page %>% html_nodes(".amount_value+ td") %>% html_text()
+message <- page %>% html_nodes(".transparent-account__note") %>% html_text()
+
+pageview_response <- GET("https://www.kb.cz/transparentsapi/transactions/4090453")
+
+pageview_data <- content(pageview_response)
+
+http_error(pageview_response)
+http_type(pageview_response)
+
+tabulka <- tibble(pageview_data[[2]])
+
+
+pageview_response <- GET("https://www.kb.cz/transparentsapi/transactions/4090453", query = list("pageSize=75"))
+
+pageview_data <- content(pageview_response)
+
+
+# config = list(token = "MZsy5sFESYqU7MawXZgR_w")
+post_result <- POST("https://www.kb.cz/transparentsapi/transactions/4090453", body = "api: {
+            info: '/transparentsapi/balance/4090453',
+            list: '/transparentsapi/transactions/4090453',
+            pageSize: 50
+        }")
+
+
+http_error(post_result)
+
+```
+
+# WORK IN PROGRESS: SCRAPING ČSOB ÚČTŮ
+
+```{r}
+# Standart scraping - access blocked
+page <- read_html("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+
+download.file("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303", "csob.html")
+
+
+# CSOB Using Selenium
+remDr <- remoteDriver(
+  remoteServerAddr = "localhost",
+  port = 4445L,
+  browserName = "firefox"
+)
+
+remDr$open()
+remDr$getStatus()
+remDr$copy()
+remDr$getAllCookies()
+remDr$deleteAllCookies()
+remDr$server$stop()
+remDr$quit()
+
+remDr$getCurrentUrl()
+
+remDr$navigate("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+webElem <- remDr$findElement(using = "name", "dateFilter")  
+
+remDr$navigate("https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303")
+
+webElem <- remDr$findElement(using = "name", "dateFilter")  
+
+webElem$clickElement()
+
+webElem$sendKeysToElement(list("\uE007"))
+
+webElem <- remDr$findElement(using = "css", ".pdp-pagination-next a")  
+
+```
+
