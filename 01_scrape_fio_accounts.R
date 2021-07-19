@@ -1,10 +1,12 @@
+# SCRAPING OF FIO BANK ACCOUNTS
+
+## 1. Loading the required R libraries
 library(rvest)
 library(dplyr)
 library(readr)
+library(stringr)
 
-# SCRAPING OF FIO BANK ACCOUNTS
-
-## 1. Function for scraping of the transparent bank accounts based in FIO bank
+## 2. Function for scraping of the transparent bank accounts based in FIO bank
 
 # Argument "parties_accounts_links" accepts vector with url links to FIO accounts
 # "parties_names" accepts parties' names - order must match "parties_accounts_links"
@@ -35,14 +37,22 @@ scrape_fio <- function(parties_accounts_links, parties_names) {
       "ss",
       "poznamka"
     )
+    
+    table_transactions <- table_transactions %>% 
+      mutate(
+        castka = str_replace_all(string = castka, pattern = "[,]", replacement = "."),
+        castka = as.numeric(str_replace_all(string = castka, pattern = "(\\s+|[a-zA-Z])", replacement = ""))
+      )
+    
     myfile <- paste0(dir_name, "/", parties_names[i], ".csv")
     write_excel_csv(table_transactions, file = myfile)
 
     # With each iteration of loop, we append the complete dataset
-    table_transactions <- table_transactions %>% mutate(id = parties_names[i])
+    table_transactions <- table_transactions %>% mutate(id = parties_names[i],
+                                                        datum = as.Date(datum, format = "%d.%m.%y"))
     merged_dataset <- bind_rows(merged_dataset, table_transactions)
   }
-
+  # We are saving the merged dataframes as CSV and RDS file (for speed in R)
   myfile_merged_csv <- paste0(dir_name, "/merged_data.csv")
   myfile_merged_rds <- paste0(dir_name, "/merged_data.rds")
   write_excel_csv(x = merged_dataset, file = myfile_merged_csv)
@@ -51,7 +61,7 @@ scrape_fio <- function(parties_accounts_links, parties_names) {
 
 ###############
 
-# 2. Function scrapes selected accounts summaries and saves them into one file
+# 3. Function scrapes selected accounts summaries and saves them into one file
 
 scrape_fio_summary <- function(parties_accounts_links, parties_names) {
   summary_list <- list()
@@ -82,11 +92,16 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
     "suma_celkem",
     "bezny_zustatek"
   )
-  myfile <- paste0(dir_name, "/aktualni_stav_vsech_uctu.csv")
+  
+  table_total_summary <- table_total_summary %>% 
+    mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "[,]", replacement = "."))) %>% 
+    mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "(\\s+|[a-zA-Z])", replacement = "")))
+  
+  myfile <- paste0(dir_name, "/current_accounts_overview.csv")
   write_excel_csv(table_total_summary, file = myfile)
 }
 
-## Inputs for the FIO scraping function
+## 4. Inputs for the FIO scraping function
 
 dir_name <- "data" # Specify the folder, where the tables will be saved
 
@@ -109,6 +124,8 @@ links <- c(
   "https://ib.fio.cz/ib/transparent?a=2801916675&f=01.01.2021",
   "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021"
 )
+
+## 5. Running both of the functions 
 
 scrape_fio(parties_accounts_links = links, parties_names = names)
 
