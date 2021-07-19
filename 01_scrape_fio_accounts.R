@@ -2,22 +2,25 @@ library(rvest)
 library(dplyr)
 library(readr)
 
-# SCRAPING FIO ÚČTŮ
+# SCRAPING OF FIO BANK ACCOUNTS
 
-## Funkce pro scraping FIO
+## 1. Function for scraping of the transparent bank accounts based in FIO bank
 
-# Funkce pro scraping vsech zvolenych uctu
-# Argument funkce "parties_accounts_links" akceptuje vektor s odkazy na FIO bankovni ucty
-# Argument funkce "parties_names" akceptuje jmena stran - jejich format je volitelny, ale poradi musi byt shodne s "parties_accounts_links"
+# Argument "parties_accounts_links" accepts vector with url links to FIO accounts
+# "parties_names" accepts parties' names - order must match "parties_accounts_links"
 
 scrape_fio <- function(parties_accounts_links, parties_names) {
+  # We initialize empty dataset to which we add rows with each loop iteration
+  merged_dataset <- tibble()
+
+  # We have to create a desired directory, if one does not yet exist
   if (!dir.exists(dir_name)) {
     dir.create(dir_name)
   } else {
-    print("output directory already exists")
+    print("Output directory already exists")
   }
 
-  for (i in 1:length(parties_names)) {
+  for (i in seq_len(length(parties_names))) {
     page <- read_html(parties_accounts_links[i])
     fio_tables <- page %>% html_table(header = TRUE, dec = ",")
     table_transactions <- fio_tables[[2]]
@@ -34,12 +37,21 @@ scrape_fio <- function(parties_accounts_links, parties_names) {
     )
     myfile <- paste0(dir_name, "/", parties_names[i], ".csv")
     write_excel_csv(table_transactions, file = myfile)
+
+    # With each iteration of loop, we append the complete dataset
+    table_transactions <- table_transactions %>% mutate(id = parties_names[i])
+    merged_dataset <- bind_rows(merged_dataset, table_transactions)
   }
+
+  myfile_merged_csv <- paste0(dir_name, "/merged_data.csv")
+  myfile_merged_rds <- paste0(dir_name, "/merged_data.rds")
+  write_excel_csv(x = merged_dataset, file = myfile_merged_csv)
+  saveRDS(object = merged_dataset, file = myfile_merged_rds, compress = FALSE)
 }
 
 ###############
 
-# Funkce pro scraping vsech zvolenych uctu s cilem ulozeni souhrnu jejich stavu do jedne tabulky
+# 2. Function scrapes selected accounts summaries and saves them into one file
 
 scrape_fio_summary <- function(parties_accounts_links, parties_names) {
   summary_list <- list()
@@ -47,10 +59,10 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
   if (!dir.exists(dir_name)) {
     dir.create(dir_name)
   } else {
-    print("output directory already exists")
+    print("Output directory already exists")
   }
 
-  for (i in 1:length(parties_names)) {
+  for (i in seq_len(length(parties_names))) {
     page <- read_html(parties_accounts_links[i])
     fio_tables <- page %>% html_table(header = TRUE, dec = ",")
     table_party_summary <- fio_tables[[1]]
@@ -74,9 +86,9 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
   write_excel_csv(table_total_summary, file = myfile)
 }
 
-## Vstupy pro funkce FIO
+## Inputs for the FIO scraping function
 
-dir_name <- "data" # Specifikace nazvu slozky, kam budou csv soubory ulozeny
+dir_name <- "data" # Specify the folder, where the tables will be saved
 
 names <- c(
   "pirati_stan",
