@@ -26,7 +26,7 @@ jobs:
       run: |
         git config --local user.name actions-user
         git config --local user.email "actions@github.com"
-        git add ucty_komplet/*
+        git add data/*
         git commit -am "GH Action $(date)"
         git push origin master
       env:
