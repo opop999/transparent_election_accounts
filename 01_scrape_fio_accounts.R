@@ -1,10 +1,18 @@
 # SCRAPING OF FIO BANK ACCOUNTS
 
 ## 1. Loading the required R libraries
-library(rvest)
-library(dplyr)
-library(readr)
-library(stringr)
+
+# Package names
+packages <- c("rvest", "dplyr", "readr", "stringr")
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+# Packages loading
+invisible(lapply(packages, library, character.only = TRUE))
 
 ## 2. Function for scraping of the transparent bank accounts based in FIO bank
 
@@ -37,19 +45,21 @@ scrape_fio <- function(parties_accounts_links, parties_names) {
       "ss",
       "poznamka"
     )
-    
-    table_transactions <- table_transactions %>% 
+
+    table_transactions <- table_transactions %>%
       mutate(
         castka = str_replace_all(string = castka, pattern = "[,]", replacement = "."),
         castka = as.numeric(str_replace_all(string = castka, pattern = "(\\s+|[a-zA-Z])", replacement = ""))
       )
-    
+
     myfile <- paste0(dir_name, "/", parties_names[i], ".csv")
     write_excel_csv(table_transactions, file = myfile)
 
     # With each iteration of loop, we append the complete dataset
-    table_transactions <- table_transactions %>% mutate(id = parties_names[i],
-                                                        datum = as.Date(datum, format = "%d.%m.%y"))
+    table_transactions <- table_transactions %>% mutate(
+      id = parties_names[i],
+      datum = as.Date(datum, format = "%d.%m.%y")
+    )
     merged_dataset <- bind_rows(merged_dataset, table_transactions)
   }
   # We are saving the merged dataframes as CSV and RDS file (for speed in R)
@@ -92,11 +102,11 @@ scrape_fio_summary <- function(parties_accounts_links, parties_names) {
     "suma_celkem",
     "bezny_zustatek"
   )
-  
-  table_total_summary <- table_total_summary %>% 
-    mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "[,]", replacement = "."))) %>% 
+
+  table_total_summary <- table_total_summary %>%
+    mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "[,]", replacement = "."))) %>%
     mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "(\\s+|[a-zA-Z])", replacement = "")))
-  
+
   myfile <- paste0(dir_name, "/current_accounts_overview.csv")
   write_excel_csv(table_total_summary, file = myfile)
 }
@@ -125,7 +135,7 @@ links <- c(
   "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021"
 )
 
-## 5. Running both of the functions 
+## 5. Running both of the functions
 
 scrape_fio(parties_accounts_links = links, parties_names = names)
 
