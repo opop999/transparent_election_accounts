@@ -1,11 +1,16 @@
 ---
-title: "Transparent Bank Accounts Key Insights Summary"
+title: "Transparent Bank Accounts Key Insights"
 date: "Last updated `r format (Sys.time(),'%d. %m. %Y')`"
+author: Ondrej Pekacek/TI CZ
 output: 
   flexdashboard::flex_dashboard:
+    logo: "data/logo_ti.png"
+    theme: cosmo
     orientation: columns
     vertical_layout: fill
-    source_code: embed
+    source_code: https://github.com/opop999/transparent_election_accounts
+    navbar:
+      - {title: "About", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/snemovna2021"}
 ---
 
 ```{r setup, include=FALSE}

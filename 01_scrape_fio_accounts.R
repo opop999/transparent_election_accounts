@@ -35,21 +35,21 @@ scrape_fio <- function(accounts) {
     fio_tables <- page %>% html_table(header = TRUE, dec = ",")
     table_transactions <- fio_tables[[2]]
     colnames(table_transactions) <- c(
-      "datum",
-      "castka",
-      "typ",
-      "nazev_protiuctu",
-      "zprava_pro_prijemce",
+      "date",
+      "amount",
+      "type",
+      "contra_account_name",
+      "message_for_recipient",
       "ks",
       "vs",
       "ss",
-      "poznamka"
+      "note"
     )
     
     table_transactions <- table_transactions %>%
       mutate(
-        castka = str_replace_all(string = castka, pattern = "[,]", replacement = "."),
-        castka = as.numeric(str_replace_all(string = castka, pattern = "(\\s+|[a-zA-Z])", replacement = ""))
+        amount = str_replace_all(string = amount, pattern = "[,]", replacement = "."),
+        amount = as.numeric(str_replace_all(string = amount, pattern = "(\\s+|[a-zA-Z])", replacement = ""))
       )
     
     myfile <- paste0(dir_name, "/", accounts[[1]][i], ".csv")
@@ -57,8 +57,8 @@ scrape_fio <- function(accounts) {
     
     # With each iteration of loop, we append the complete dataset
     table_transactions <- table_transactions %>% mutate(
-      id = accounts[[1]][i],
-      datum = as.Date(datum, format = "%d.%m.%y")
+      entity_name = accounts[[1]][i],
+      date = as.Date(date, format = "%d.%m.%Y")
     )
     merged_dataset <- bind_rows(merged_dataset, table_transactions)
   }
@@ -92,15 +92,15 @@ scrape_fio_summary <- function(accounts) {
     summary_list[[accounts[[1]][i]]] <- table_party_summary
   }
   
-  table_total_summary <- as_tibble(t(as_tibble(summary_list)), rownames = "strana")
+  table_total_summary <- as_tibble(t(as_tibble(summary_list)), rownames = "entity")
   colnames(table_total_summary) <- c(
-    "strana",
-    "stav_leden_2021",
-    "stav_dnes",
-    "suma_prijmu",
-    "suma_vydaju",
-    "suma_celkem",
-    "bezny_zustatek"
+    "entity",
+    "balance_january_2021",
+    "balance_today",
+    "sum_income",
+    "sum_costs",
+    "sum_total",
+    "current_balance"
   )
   
   table_total_summary <- table_total_summary %>%

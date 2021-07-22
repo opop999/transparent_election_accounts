@@ -1,4 +1,4 @@
-﻿"datum","castka","typ","nazev_protiuctu","zprava_pro_prijemce","ks","vs","ss","poznamka"
+﻿"date","amount","type","contra_account_name","message_for_recipient","ks","vs","ss","note"
 "20.07.2021",-50000,"Platba převodem uvnitř banky","","ČSSD",308,2021032,NA,"provocation s.r.o., grafické práce, fotky"
 "20.07.2021",-121000,"Bezhotovostní platba","","ČSSD",308,210231,NA,"NMS Market Research s.r.o., průzkumy"
 "20.07.2021",-5318359,"Bezhotovostní platba","","ČSSD",308,22021,NA,"Ewing s.r.o., 2. část zálohy dle smlouvy"

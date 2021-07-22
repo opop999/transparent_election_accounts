@@ -1,4 +1,4 @@
-﻿"datum","castka","typ","nazev_protiuctu","zprava_pro_prijemce","ks","vs","ss","poznamka"
+﻿"date","amount","type","contra_account_name","message_for_recipient","ks","vs","ss","note"
 "21.07.2021",-1021,"Bezhotovostní platba","","Bohemia Properties a.s., ubytování",308,1271146,100,"Bohemia Properties a.s., ubytování"
 "21.07.2021",-25000,"Bezhotovostní platba","","Ondřej Březina, prezentace projektu",308,20210004,800,"Ondřej Březina, prezentace projektu"
 "21.07.2021",-9850,"Bezhotovostní platba","","Bohemia Properties a.s.,občerstvení",308,1271091,100,"Bohemia Properties a.s.,občerstvení"

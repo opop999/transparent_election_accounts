@@ -1,7 +1,7 @@
 ## 1. Load the required R libraries
 
 # Package names
-packages <- c("tidyr", "dplyr", "readr", "stringr")
+packages <- c("tidyr", "dplyr", "readr", "stringr", "lubridate")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -19,15 +19,60 @@ full_transactions_table <- readRDS("data/merged_data.rds")
 if (!dir.exists("data/summary_tables")) {
   dir.create("data/summary_tables")
 } else {
-  print("output directory already exists")
+  print("Output directory already exists")
 }
 
+summary_table_total_spend <- full_transactions_table %>%
+  filter(amount < 0) %>%
+  transmute(date,
+            spend_million = abs(amount) / 1000000,
+            entity_name = as.factor(entity_name),
+            entity_id = as.numeric(entity_name)) %>%
+  group_by(entity_name, entity_id) %>%
+  summarise(total_spend_million = sum(spend_million)) %>%
+  arrange(desc(total_spend_million)) %>%
+  ungroup()
+
 transactions_summary <- full_transactions_table %>%
-  filter(castka < 0) %>% 
-  transmute(datum, vydaj_mil = abs(castka)/1000000, id = as.factor(id)) %>% 
-  arrange(datum) %>% 
-  group_by(id) %>% 
-  mutate(kumulativni_vydaje_mil = cumsum(vydaj_mil))
+  filter(amount < 0) %>%
+  transmute(date,
+            spend_million = abs(amount) / 1000000,
+            entity_name = as.factor(entity_name),
+            entity_id = as.numeric(entity_name)) %>%
+  arrange(date) %>%
+  group_by(entity_name) %>%
+  mutate(cumulative_spend_million = cumsum(spend_million)) %>% 
+  ungroup()
+
+
+
+election_date <- as.Date("2021-10-08")
+
+spend_over_time <- ggplotly(
+  transactions_summary %>%
+    ggplot(aes(x = date, y = cumulative_spend_million, color = entity_name)) +
+    geom_line() +
+    geom_vline(aes(xintercept = as.numeric(election_date)), color = "#db1d0b") +
+    geom_text(aes(x = election_date, y = 0, label = "elections"), color = "#03457f", size = 4, angle = 90, vjust = -0.4, hjust = 0) +
+    theme_minimal() +
+    scale_y_continuous(
+      breaks = seq(0, 1000, 100),
+      labels = seq(0, 1000, 100)
+    ) +
+    scale_x_date(date_breaks = "1 months", date_labels = "%m") +
+    coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-26"))) +
+    theme(legend.title = element_blank()) +
+    xlab(element_blank()) +
+    ylab(element_blank()) +
+    ggtitle("Political party cumulative spending (millions CZK), January 2021-present")
+)
+
+spend_over_time
+
+
+
+
+
 
 #  dplyr::filter(datum %in% as.Date(seq(as.Date("2021-01-01"), as.Date("2021-10-08"), by = "7 days")))
   
@@ -48,10 +93,6 @@ ggplot(transactions_summary_weeks, aes(x = week, y = kumulativni_vydaje_mil, col
 transactions_summary_weeks <- transactions_summary %>% 
   mutate(week = floor_date(datum, 
                            unit = "week"))
-
-
-
-
   # zacatek <- as.Date("2021-06-01")
   # konec <- as.Date("2021-05-08")
   # 
@@ -66,21 +107,3 @@ transactions_summary_weeks <- transactions_summary %>%
 # xlim(as.Date("2021-01-01"), as.Date("2021-12-31")) +
 # limits = c(as.Date("2021-01-01"), as.Date("2021-12-31"))) +
   
-  group_by(page_name, page_id) %>%
-  summarise(
-    total_ads = n(),
-    unique_ads = n_distinct(ad_creative_body),
-    percent_unique = round(unique_ads / total_ads, digits = 3),
-    # lower_spend = sum(spend_lower, na.rm = TRUE),
-    # upper_spend = sum(spend_upper, na.rm = TRUE),
-    avg_spend = round(((sum(spend_lower, na.rm = TRUE) + sum(spend_upper, na.rm = TRUE)) / 2), digits = 0),
-    per_ad_avg_spend = round(avg_spend / total_ads, digits = 0),
-    # total_lower_impressions = sum(impressions_lower, na.rm = TRUE),
-    # total_upper_impressions = sum(impressions_upper, na.rm = TRUE),
-    total_avg_impressions = round(((sum(impressions_lower, na.rm = TRUE) + sum(impressions_upper, na.rm = TRUE)) / 2), digits = 0),
-    per_ad_avg_impression = round(total_avg_impressions / total_ads, digits = 0),
-    total_min_reach = sum(potential_reach_lower, na.rm = TRUE),
-    per_ad_min_reach = round(total_min_reach / total_ads, digits = 0),
-    avg_ad_runtime = round(mean(ad_delivery_stop_time - ad_delivery_start_time, na.rm = TRUE), digits = 1)
-  ) %>%
-  arrange(desc(total_ads))
