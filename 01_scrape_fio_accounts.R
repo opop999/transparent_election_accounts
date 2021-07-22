@@ -116,7 +116,7 @@ scrape_fio_summary <- function(accounts) {
 dir_name <- "data" # Specify the folder, where the tables will be saved
 
 # Load the external list containing names and links of the bank accounts
-accounts <- readRDS("accounts_fio.rds")
+accounts <- readRDS("data/accounts_fio.rds")
 
 ## 5. Running both of the functions
 

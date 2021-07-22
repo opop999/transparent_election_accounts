@@ -23,4 +23,4 @@ accounts_fio <- list(
  )
 )
 
-saveRDS(accounts_fio, "accounts_fio.rds", compress = FALSE)
+saveRDS(accounts_fio, "data/accounts_fio.rds", compress = FALSE)
