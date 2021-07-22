@@ -19,3 +19,17 @@
 -We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger. We can use the R-Lib repository for GH Actions (on macOS-latest), but, for better compatibility, we chose an appropriate Docker container (rocker/tidyverse on ubuntu-latest).
 
 -We have sychronized the structure of the repository with other repositories under the pre-election monitoring umbrella
+
+### Target transparent bank accounts (incomplete list - work in progress):
+
+| **POLITICAL SUBJECT**                 | **URL**                                                   | **WORKS?**              |
+| :---                                  | :---                                                      | :---                    |
+| Piráti a Starostové                   | <https://ib.fio.cz/ib/transparent?a=2601909155>           | TRUE                    |
+| ODS, KDU-ČSL a TOP 09                 | <https://ib.fio.cz/ib/transparent?a=-48>                  | TRUE                    |
+| SPD                                   | <https://ib.fio.cz/ib/transparent?a=-49>                  | TRUE                    |
+| ČSSD                                  | <https://ib.fio.cz/ib/transparent?a=-50>                  | TRUE                    |
+| Trikolóra                             | <https://ib.fio.cz/ib/transparent?a=2001915105>           | TRUE                    |
+| Strana zelených                       | <https://ib.fio.cz/ib/transparent?a=2801916675>           | TRUE                    |
+| Přísaha                               | <https://ib.fio.cz/ib/transparent?a=2201968914>           | TRUE                    |
+| ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4090453>            | NOT YET                 |
+| KSČM                                  | <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303>                        | NOT YET                 |
