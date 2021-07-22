@@ -1,16 +1,26 @@
-library(dplyr)
-library(readr)
-library(tidyr)
-library(stringr)
+## 1. Load the required R libraries
 
+# Package names
+packages <- c("tidyr", "dplyr", "readr", "stringr")
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+# Packages loading
+invisible(lapply(packages, library, character.only = TRUE))
+
+# Load the table created in the previous step
 full_transactions_table <- readRDS("data/merged_data.rds")
 
+# Create a desired output directory, if one does not yet exist
 if (!dir.exists("data/summary_tables")) {
   dir.create("data/summary_tables")
 } else {
   print("output directory already exists")
 }
-
 
 transactions_summary <- full_transactions_table %>%
   filter(castka < 0) %>% 
@@ -19,11 +29,9 @@ transactions_summary <- full_transactions_table %>%
   group_by(id) %>% 
   mutate(kumulativni_vydaje_mil = cumsum(vydaj_mil))
 
- 
 #  dplyr::filter(datum %in% as.Date(seq(as.Date("2021-01-01"), as.Date("2021-10-08"), by = "7 days")))
   
   
-
 seq(as.Date("2021-01-01"), as.Date("2021-10-08"), by = "7 days")
   
 
