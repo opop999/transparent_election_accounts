@@ -1,5 +1,5 @@
 ---
-title: "Transparent Bank Accounts Key Insights"
+title: "TRANSPARENT BANK ACCOUNTS"
 date: "Last updated `r format (Sys.time(),'%d. %m. %Y')`"
 author: Ondrej Pekacek/TI CZ
 output: 
@@ -14,33 +14,172 @@ output:
 ---
 
 ```{r setup, include=FALSE}
+# Disable scientific notation of numbers
+options(scipen = 999)
+
+# Package names
+packages <- c("flexdashboard", "dplyr", "ggplot2", "plotly", "forcats", "htmlwidgets", "tidyr", "RColorBrewer", "stringr")
+
+# Install packages not yet installed
+installed_packages <- packages %in% rownames(installed.packages())
+if (any(installed_packages == FALSE)) {
+  install.packages(packages[!installed_packages])
+}
+
+# Packages loading
+invisible(lapply(packages, library, character.only = TRUE))
+
+summary_dataset <- readRDS(file = "data/summary_tables/total_spend_summary.rds")
+time_dataset <- readRDS(file = "data/summary_tables/time_summary.rds")
+
+# Specify output directory for individual html plots (to be embedded to website)
+directory <- "data/html_plots"
+
+# Check whether output directory exists to save individual plots
+if (!dir.exists(directory)) {
+  dir.create(directory)
+} else {
+  print("Output directory already exists")
+}
 
 
 ```
 
-Summary 1
+Total spending
 =====================================
 
 
 Column
 -----------------------------------------------------------------------
 
-### Chart A
+### Total spending
 
 ```{r}
+plot_total_spending <- ggplotly(
+  summary_dataset %>%
+  ggplot(aes(x = reorder(entity_name, desc(total_spend_million)), y = total_spend_million)) +
+  geom_col(fill = "#db1d0b") +
+  scale_y_continuous(
+    breaks = seq(0, 200, 10),
+    labels = seq(0, 200, 10)) +
+  theme_minimal() +
+  xlab(element_blank()) +
+  ylab("CZK million") +
+  ggtitle("Total spending on transparent accounts since 1.1.2021")
+  )
 
+plot_total_spending
+
+htmlwidgets::saveWidget(plot_total_spending, file = paste0(directory, "/plot_total_spending.html"))
 
 ```
 
-Column 
+Across time
+=====================================
+
+
+Column
 -----------------------------------------------------------------------
 
-### Chart B
+### Total spending across time
 
 ```{r}
+spend_over_time <- ggplotly(
+  time_dataset %>%
+    mutate(
+      ad_creation_time_week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
+      cumulative_spend_million = round(cumulative_spend_million, digits = 3)
+    ) %>%
+    group_by(entity_name, ad_creation_time_week) %>% 
+    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = ad_creation_time_week, y = end_of_week_million_spend, color = entity_name)) +
+    geom_line() +
+    geom_point(size = 0.8) +
+    geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
+    geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+    theme_minimal() +
+    scale_y_continuous(
+      breaks = seq(0, 200, 10),
+      labels = seq(0, 200, 10)
+    ) +
+    scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
+    coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
+    theme(legend.title = element_blank()) +
+    xlab(element_blank()) +
+    ylab("CZK million") +
+    ggtitle("Spending on transparent accounts, January 2021-present")
+)
+
+spend_over_time
+
+htmlwidgets::saveWidget(spend_over_time, file = paste0(directory, "/plot_spend_over_time.html"))
+
 
 ```
 
-Summary 2
-=====================================
+
+
+```{r silent export, include=FALSE}
+# Specify the function parameters
+export_individual_plots <- function(custom_palette, parties_names, parties_names_title, directory) {
+
+# Check if palette contains enough colors for all of the plots
+  if (length(custom_palette) >= length(levels(time_dataset$entity_name))) {
+print("Palette lenght check PASS")
+} else {
+stop("Palette lenght check FAIL")
+}
+
+for (i in seq_len(length(levels(time_dataset$entity_name)))) {
+
+  time_spend_one_party <- ggplotly(
+    time_dataset %>%
+    filter(entity_id == i) %>% 
+    mutate(
+      ad_creation_time_week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
+      cumulative_spend_million = round(cumulative_spend_million, digits = 3)
+    ) %>%
+    group_by(entity_name, ad_creation_time_week) %>% 
+    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = ad_creation_time_week, y = end_of_week_million_spend, color = entity_name)) +
+    geom_line() +
+    geom_point(size = 0.8) +
+    scale_color_manual(values = custom_palette[i]) +
+    geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
+    geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+    theme_minimal() +
+    scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
+    coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
+    theme(legend.position = "none") +
+    xlab(element_blank()) +
+    ylab("CZK million") +
+    ggtitle(paste("Spending of party", parties_names_title[i], "on transparent accounts, January 2021-present")))
+  
+  htmlwidgets::saveWidget(time_spend_one_party, file = paste0(directory, "/", parties_names[i], "_", "plot_spend_over_time.html"))
+
+
+}
+
+}  
+
+# Create long palette so each account has a unique color
+custom_palette <- brewer.pal(8, "Dark2") 
+custom_palette <- colorRampPalette(custom_palette)(16)
+
+# Extract name of parties to be used in labeling
+parties_names <- levels(time_dataset$entity_name) 
+parties_names_title <- parties_names %>% 
+  str_replace_all(pattern = "_", replacement = " ") %>% 
+  str_to_upper()
+
+# Run the function
+export_individual_plots(custom_palette = custom_palette,
+                        parties_names = parties_names,
+                        parties_names_title = parties_names_title,
+                        directory = directory)
+
+```
+
 
