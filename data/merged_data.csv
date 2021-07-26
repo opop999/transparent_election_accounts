@@ -1,4 +1,10 @@
 ﻿date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-07-26,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 25.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 25.7.2021, částka  15000.00 CZK",pirati_stan
+2021-07-26,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 25.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 25.7.2021, částka  15000.00 CZK",pirati_stan
+2021-07-26,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 24.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 24.7.2021, částka  15000.00 CZK",pirati_stan
+2021-07-26,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 24.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 24.7.2021, částka  15000.00 CZK",pirati_stan
+2021-07-26,-500,Karetní transakce,,"Nákup: FACEBK *QRE8V6FVY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  500.00 CZK",NA,8267,NA,"Nákup: FACEBK *QRE8V6FVY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  500.00 CZK",pirati_stan
+2021-07-26,-20000,Karetní transakce,,"Nákup: FACEBK *JS66K6TVF2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  20000.00 CZK",NA,8267,NA,"Nákup: FACEBK *JS66K6TVF2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  20000.00 CZK",pirati_stan
 2021-07-26,2795,Bezhotovostní příjem,"Hypoteční banka, a.s",Neexistující účet - číslo účtu 000000-2800088628,6,12,42021,"Hypoteční banka, a.s",pirati_stan
 2021-07-24,-181.46,Karetní transakce,,"Nákup: FACEBK *MXA4V5PRG2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  181.46 CZK",NA,6835,NA,"Nákup: FACEBK *MXA4V5PRG2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  181.46 CZK",pirati_stan
 2021-07-24,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 23.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 23.7.2021, částka  15000.00 CZK",pirati_stan
@@ -1050,6 +1056,16 @@
 2021-01-26,-4840,Bezhotovostní platba,,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",NA,113,NA,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",pirati_stan
 2021-01-06,-9,Poplatek - platební karta,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",NA,8267,NA,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",pirati_stan
 2021-01-05,99000,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI,NA,NA,NA,Převod na účet 2601909155 PIRÁTI,pirati_stan
+2021-07-26,-1385358.91,Bezhotovostní platba,,,308,401210967,1114,,ods_kdu_top09
+2021-07-26,1400000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,NA,NA,NA,1114-převod financí,ods_kdu_top09
+2021-07-26,-8501,Bezhotovostní platba,,,0,220001,2200,,ods_kdu_top09
+2021-07-26,-1900,Bezhotovostní platba,,,0,9030000146,2200,,ods_kdu_top09
+2021-07-26,-150,Platba převodem uvnitř banky,,,308,121078,68800,,ods_kdu_top09
+2021-07-26,-440,Platba převodem uvnitř banky,,,308,121077,68800,,ods_kdu_top09
+2021-07-26,-30500,Bezhotovostní platba,,,308,20210701,3000,,ods_kdu_top09
+2021-07-26,-150040,Bezhotovostní platba,,,308,2101011,1114,"1114-Daylight film s.r.o., TV spoty Spolu",ods_kdu_top09
+2021-07-26,-25000,Bezhotovostní platba,,,308,20210009,1114,"1114-Anna Shavit , konzultační činnost",ods_kdu_top09
+2021-07-26,200000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,NA,NA,NA,1114-převod financí,ods_kdu_top09
 2021-07-23,-130,Okamžitá odchozí platba,,,308,2111400004,2600,2600-Město Louny - odebraná elektřina-stánek,ods_kdu_top09
 2021-07-23,-78045,Platba převodem uvnitř banky,,,308,210055,1114,1114-Magnas Media s.r.o. - správa a nastavení FB profilu SPOLU21,ods_kdu_top09
 2021-07-23,-3354.12,Okamžitá odchozí platba,,,0,2197003988,2300,2300-VLTAVA-LABE-MEDIA -záloha na inzerci,ods_kdu_top09
@@ -1326,6 +1342,7 @@
 2021-01-27,-500,Okamžitá odchozí platba,,,0,1260000540,3200,"3200-Úřad městské části , zábor",ods_kdu_top09
 2021-01-25,-1331,Okamžitá odchozí platba,,registrace domény spolu.tv,558,5210129474,NA,registrace domény spolu.tv,ods_kdu_top09
 2021-01-25,5000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,NA,NA,NA,1114-převod financí,ods_kdu_top09
+2021-07-26,-20000,Karetní transakce,,"Nákup: FACEBK *6KYPK6PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",NA,3344,NA,"Nákup: FACEBK *6KYPK6PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",spd
 2021-07-23,-3971.7,Karetní transakce,,"Nákup: FACEBK *ERPK743Z62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.7.2021, částka  3971.70 CZK",NA,3344,NA,"Nákup: FACEBK *ERPK743Z62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.7.2021, částka  3971.70 CZK",spd
 2021-07-21,-1021,Bezhotovostní platba,,"Bohemia Properties a.s., ubytování",308,1271146,100,"Bohemia Properties a.s., ubytování",spd
 2021-07-21,-25000,Bezhotovostní platba,,"Ondřej Březina, prezentace projektu",308,20210004,800,"Ondřej Březina, prezentace projektu, digitální marketing",spd
@@ -1583,6 +1600,9 @@
 2021-01-20,-726,Bezhotovostní platba,,Olomoucký - pronájem rekl. plochy,308,1035000018,NA,Olomoucký - pronájem rekl. plochy,spd
 2021-01-20,-1486727,Bezhotovostní platba,,pronájem reklamních panelů,308,310210001,NA,pronájem reklamních panelů,spd
 2021-01-20,3000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,NA,NA,NA,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-07-26,-2132.88,Karetní transakce,,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK",NA,5794,NA,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK",cssd
+2021-07-26,-115434,Bezhotovostní platba,,ČSSD,308,2120002,NA,"Bohumír Fasner, záloha na výlep plakátů, Královéhradecký kraj",cssd
+2021-07-26,-20000,Karetní transakce,,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",cssd
 2021-07-20,-50000,Platba převodem uvnitř banky,,ČSSD,308,2021032,NA,"provocation s.r.o., grafické práce, fotky",cssd
 2021-07-20,-121000,Bezhotovostní platba,,ČSSD,308,210231,NA,"NMS Market Research s.r.o., průzkumy",cssd
 2021-07-20,-5318359,Bezhotovostní platba,,ČSSD,308,22021,NA,"Ewing s.r.o., 2. část zálohy dle smlouvy",cssd
@@ -1775,6 +1795,7 @@
 2021-06-04,-15000,Okamžitá odchozí platba,,"FA 19/2021 - výroba 7 videí pro kampaň ""Ulice pro lidi""",NA,192021,64,JMK - Jan Fuksa,zeleni
 2021-06-04,15000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,NA,NA,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-01-06,100,Platba převodem uvnitř banky,Strana zelených,převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu),NA,NA,NA,převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu),zeleni
+2021-07-26,-24200,Karetní transakce,,"Nákup: FACEBK *FRU785XE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  24200.00 CZK",NA,8013,NA,"Nákup: FACEBK *FRU785XE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  24200.00 CZK",prisaha
 2021-07-17,-24200,Karetní transakce,,"Nákup: FACEBK *G9RH84FE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 16.7.2021, částka  24200.00 CZK",NA,8013,NA,"Nákup: FACEBK *G9RH84FE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 16.7.2021, částka  24200.00 CZK",prisaha
 2021-07-14,-142500,Bezhotovostní platba,,Fakturujeme Vám Monitoring webu a Průzkum 04 - 06.2021.Přijemce Šimway sro,NA,202188,308,Fakturujeme Vám Monitoring webu a Průzkum 04 - 06.2021.Přijemce Šimway sro,prisaha
 2021-07-14,-103500,Bezhotovostní platba,,Fakturujeme Vám 150ks Bannerů a 300ks Kniha Šlachta - Čas na odvahu. Příjemce Šimwaysro,NA,202187,NA,Fakturujeme Vám 150ks Bannerů a 300ks Kniha Šlachta - Čas na odvahu. Příjemce Šimwaysro,prisaha
