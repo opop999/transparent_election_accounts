@@ -128,7 +128,9 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
   if (length(custom_palette) >= length(levels(time_dataset$entity_name))) {
 print("Palette lenght check PASS")
 } else {
-stop("Palette lenght check FAIL")
+print("Palette lenght check FAILED, increasing palette lenght with interpolation")
+# If check is not passed, create longer palette so each account has a unique color
+custom_palette <- colorRampPalette(custom_palette)(length(levels(time_dataset$entity_name)))
 }
 
 for (i in seq_len(length(levels(time_dataset$entity_name)))) {
@@ -164,9 +166,8 @@ for (i in seq_len(length(levels(time_dataset$entity_name)))) {
 
 }  
 
-# Create long palette so each account has a unique color
+# Select appropriate palette
 custom_palette <- brewer.pal(8, "Dark2") 
-custom_palette <- colorRampPalette(custom_palette)(16)
 
 # Extract name of parties to be used in labeling
 parties_names <- levels(time_dataset$entity_name) 
