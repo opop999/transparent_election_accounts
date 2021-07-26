@@ -87,13 +87,13 @@ Column
 spend_over_time <- ggplotly(
   time_dataset %>%
     mutate(
-      ad_creation_time_week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
+      week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
       cumulative_spend_million = round(cumulative_spend_million, digits = 3)
     ) %>%
-    group_by(entity_name, ad_creation_time_week) %>% 
+    group_by(entity_name, week) %>% 
     summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>% 
     ungroup() %>% 
-    ggplot(aes(x = ad_creation_time_week, y = end_of_week_million_spend, color = entity_name)) +
+    ggplot(aes(x = week, y = end_of_week_million_spend, color = entity_name)) +
     geom_line() +
     geom_point(size = 0.8) +
     geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
@@ -105,7 +105,7 @@ spend_over_time <- ggplotly(
     ) +
     scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
     coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
-    theme(legend.title = element_blank()) +
+    theme(legend.title = element_blank(), axis.text.x = element_text(angle = 45, hjust = 1)) +
     xlab(element_blank()) +
     ylab("CZK million") +
     ggtitle("Spending on transparent accounts, January 2021-present")
@@ -124,47 +124,75 @@ htmlwidgets::saveWidget(spend_over_time, file = paste0(directory, "/plot_spend_o
 # Specify the function parameters
 export_individual_plots <- function(custom_palette, parties_names, parties_names_title, directory) {
 
-# Check if palette contains enough colors for all of the plots
+  # Check if palette contains enough colors for all of the plots
   if (length(custom_palette) >= length(levels(time_dataset$entity_name))) {
-print("Palette lenght check PASS")
-} else {
-print("Palette lenght check FAILED, increasing palette lenght with interpolation")
-# If check is not passed, create longer palette so each account has a unique color
-custom_palette <- colorRampPalette(custom_palette)(length(levels(time_dataset$entity_name)))
+    print("Palette lenght check PASS")
+  } else {
+    print("Palette lenght check FAILED, increasing palette lenght with interpolation")
+    # If check is not passed, create longer palette so each account has a unique color
+    custom_palette <- colorRampPalette(custom_palette)(length(levels(time_dataset$entity_name)))
+  }
+
+  for (i in seq_len(length(levels(time_dataset$entity_name)))) {
+
+    # Exporting individual cumulative spending graphs
+    time_spend_one_party <- ggplotly(
+      time_dataset %>%
+        filter(entity_id == i) %>%
+        mutate(
+          week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
+          cumulative_spend_million = round(cumulative_spend_million, digits = 3)
+        ) %>%
+        group_by(entity_name, week) %>%
+        summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>%
+        ungroup() %>%
+        ggplot(aes(x = week, y = end_of_week_million_spend, color = entity_name)) +
+        geom_line() +
+        geom_point(size = 0.8) +
+        scale_color_manual(values = custom_palette[i]) +
+        geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
+        geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+        theme_minimal() +
+        scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
+        coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
+        theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
+        xlab(element_blank()) +
+        ylab("CZK million") +
+        ggtitle(paste("Cumulative spending of ", parties_names_title[i], "since January 2021"))
+    )
+
+    htmlwidgets::saveWidget(time_spend_one_party, file = paste0(directory, "/individual_cumulative/", parties_names[i], "_", "plot_spend_over_time.html"))
+
+    # Exporting individual weekly spending graphs
+    weekly_spend_one_party <- ggplotly(
+      time_dataset %>%
+        filter(entity_id == i) %>%
+        mutate(
+          week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
+        ) %>%
+        group_by(week) %>%
+        summarise(by_week_million_spend = round(sum(spend_million), digits = 3)) %>%
+        ungroup() %>%
+        ggplot(aes(x = week, y = by_week_million_spend)) +
+        geom_col(fill = custom_palette[i]) +
+        scale_y_continuous(
+          breaks = seq(0, 100, 0.5),
+          labels = seq(0, 100, 0.5)
+        ) +
+        geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
+        geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+        theme_minimal() +
+        scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
+        coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = FALSE) +
+        theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
+        xlab(element_blank()) +
+        ylab("CZK million") +
+        ggtitle(paste("Weekly spending of ", parties_names_title[i], "since January 2021"))
+    )
+
+    htmlwidgets::saveWidget(weekly_spend_one_party, file = paste0(directory, "/individual_weekly/", parties_names[i], "_", "plot_spend_weekly.html"))
+  }
 }
-
-for (i in seq_len(length(levels(time_dataset$entity_name)))) {
-
-  time_spend_one_party <- ggplotly(
-    time_dataset %>%
-    filter(entity_id == i) %>% 
-    mutate(
-      ad_creation_time_week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4,
-      cumulative_spend_million = round(cumulative_spend_million, digits = 3)
-    ) %>%
-    group_by(entity_name, ad_creation_time_week) %>% 
-    summarise(end_of_week_million_spend = max(cumulative_spend_million)) %>% 
-    ungroup() %>% 
-    ggplot(aes(x = ad_creation_time_week, y = end_of_week_million_spend, color = entity_name)) +
-    geom_line() +
-    geom_point(size = 0.8) +
-    scale_color_manual(values = custom_palette[i]) +
-    geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
-    geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
-    theme_minimal() +
-    scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
-    coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
-    theme(legend.position = "none") +
-    xlab(element_blank()) +
-    ylab("CZK million") +
-    ggtitle(paste("Spending of party", parties_names_title[i], "on transparent accounts, January 2021-present")))
-  
-  htmlwidgets::saveWidget(time_spend_one_party, file = paste0(directory, "/", parties_names[i], "_", "plot_spend_over_time.html"))
-
-
-}
-
-}  
 
 # Select appropriate palette
 custom_palette <- brewer.pal(8, "Dark2") 
@@ -182,5 +210,6 @@ export_individual_plots(custom_palette = custom_palette,
                         directory = directory)
 
 ```
+
 
 
