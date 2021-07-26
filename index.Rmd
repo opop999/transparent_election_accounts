@@ -42,6 +42,19 @@ if (!dir.exists(directory)) {
   print("Output directory already exists")
 }
 
+# Repeat the check for subdirectories
+if (!dir.exists(paste0(directory, "/individual_weekly"))) {
+  dir.create(paste0(directory, "/individual_weekly"))
+} else {
+  print("Output directory already exists")
+}
+
+# Repeat the check for subdirectories
+if (!dir.exists(paste0(directory, "/individual_cumulative"))) {
+  dir.create(paste0(directory, "/individual_cumulative"))
+} else {
+  print("Output directory already exists")
+}
 
 ```
 
@@ -57,16 +70,20 @@ Column
 ```{r}
 plot_total_spending <- ggplotly(
   summary_dataset %>%
-  ggplot(aes(x = reorder(entity_name, desc(total_spend_million)), y = total_spend_million)) +
-  geom_col(fill = "#db1d0b") +
-  scale_y_continuous(
-    breaks = seq(0, 200, 10),
-    labels = seq(0, 200, 10)) +
-  theme_minimal() +
-  xlab(element_blank()) +
-  ylab("CZK million") +
-  ggtitle("Total spending on transparent accounts since 1.1.2021")
-  )
+    ggplot(aes(x = reorder(entity_name, desc(total_spend_million)), y = total_spend_million)) +
+    geom_col(fill = "#db1d0b") +
+    scale_y_continuous(
+      breaks = seq(0, 200, 10),
+      labels = seq(0, 200, 10)
+    ) +
+    scale_x_discrete(labels = (levels(reorder(summary_dataset$entity_name, desc(summary_dataset$total_spend_million))) %>%
+      str_replace_all(pattern = "_", replacement = " ") %>%
+      str_to_upper())) +
+    theme_minimal() +
+    xlab(element_blank()) +
+    ylab("CZK million") +
+    ggtitle("Total spending on transparent accounts since 1.1.2021")
+)
 
 plot_total_spending
 
