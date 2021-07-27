@@ -1067,6 +1067,15 @@
 2021-01-26,-4840,Bezhotovostní platba,,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",NA,113,NA,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",pirati_stan
 2021-01-06,-9,Poplatek - platební karta,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",NA,8267,NA,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",pirati_stan
 2021-01-05,99000,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI,NA,NA,NA,Převod na účet 2601909155 PIRÁTI,pirati_stan
+2021-07-27,-3354.12,Okamžitá odchozí platba,,,308,2197004040,2300,"2300-VLTAVA LABE MEDIA a.s., inzerce v ČK deníku",ods_kdu_top09
+2021-07-27,-1475.6,Bezhotovostní platba,,,0,26072021,3100,"3100-Navrátilová Jana , PHM",ods_kdu_top09
+2021-07-27,-500,Bezhotovostní platba,,,0,2101975,3100,"3100-Fraisová Eva, správní poplatek",ods_kdu_top09
+2021-07-27,-2031.7,Bezhotovostní platba,,,0,17052021,3100,3100-Zukalová Věra - PHM,ods_kdu_top09
+2021-07-27,-2006,Bezhotovostní platba,,,308,3,2300,"2300-Jan Pešek , PHM",ods_kdu_top09
+2021-07-27,-5000,Bezhotovostní platba,,,308,9712000137,2300,"2300-Město Dačice, pronájem divadlo",ods_kdu_top09
+2021-07-27,-6000,Bezhotovostní platba,,,308,9707000326,2300,"2300-Město Dačice , pronájem Letní kino",ods_kdu_top09
+2021-07-27,-1880,Bezhotovostní platba,,,308,21152,2300,"2300-Tomáš Přibyl,inzerce",ods_kdu_top09
+2021-07-27,-3500,Platba převodem uvnitř banky,,,308,21005,2300,"2300-Ondřej Kostiha, grafický návrh",ods_kdu_top09
 2021-07-26,-11250,Okamžitá odchozí platba,,,3558,8603283630,1111,"1114-Kooperativa pojišťovna  a.s,., pojištění",ods_kdu_top09
 2021-07-26,-1385358.91,Bezhotovostní platba,,,308,401210967,1114,"1114-Svoboda Press, tisk volební noviny",ods_kdu_top09
 2021-07-26,1400000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,NA,NA,NA,1114-převod financí,ods_kdu_top09
@@ -1612,6 +1621,7 @@
 2021-01-20,-726,Bezhotovostní platba,,Olomoucký - pronájem rekl. plochy,308,1035000018,NA,Olomoucký - pronájem rekl. plochy,spd
 2021-01-20,-1486727,Bezhotovostní platba,,pronájem reklamních panelů,308,310210001,NA,pronájem reklamních panelů,spd
 2021-01-20,3000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,NA,NA,NA,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-07-27,-9,Poplatek - platební karta,,"Poplatek - dotaz na zůstatek v ATM: CSOB 0455 ZLIN, Zlin, CZE, dne 26.7.2021",NA,9268,NA,"Poplatek - dotaz na zůstatek v ATM: CSOB 0455 ZLIN, Zlin, CZE, dne 26.7.2021",cssd
 2021-07-26,-2132.88,Karetní transakce,,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK",NA,5794,NA,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK",cssd
 2021-07-26,-115434,Bezhotovostní platba,,ČSSD,308,2120002,NA,"Bohumír Fasner, záloha na výlep plakátů, Královéhradecký kraj",cssd
 2021-07-26,-20000,Karetní transakce,,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",cssd
@@ -1702,6 +1712,20 @@
 2021-02-22,284000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,ČSSD Praha,cssd
 2021-02-15,-24200,Bezhotovostní platba,,ČSSD Praha,308,21009,1,Herzmann s.r.o. - projekt Český volič,cssd
 2021-02-15,25000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků z ÚS,cssd
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Moravskoslezský kraj,558,8288909,NA,příspěvek na volební náklady - Moravskoslezský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Zlínský kraj,558,8288909,NA,příspěvek na volební náklady - Zlínský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Olomoucký kraj,558,8288909,NA,příspěvek na volební náklady - Olomoucký kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Jihomoravský kraj,558,8288909,NA,příspěvek na volební náklady - Jihomoravský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Kraj vysočina,558,8288909,NA,příspěvek na volební náklady - Kraj vysočina,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Pardubický kraj,558,8288909,NA,příspěvek na volební náklady - Pardubický kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Královéhradecký kraj,558,8288909,NA,příspěvek na volební náklady - Královéhradecký kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Ústecký kraj,558,8288909,NA,příspěvek na volební náklady - Ústecký kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Liberecký kraj,558,8288909,NA,příspěvek na volební náklady - Liberecký kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Karlovarský kraj,558,8288909,NA,příspěvek na volební náklady - Karlovarský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Plzeňský kraj,558,8288909,NA,příspěvek na volební náklady - Plzeňský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Jihočeský kraj,558,8288909,NA,příspěvek na volební náklady - Jihočeský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Středočeský kraj,558,8288909,NA,příspěvek na volební náklady - Středočeský kraj,trikolora
+2021-07-27,-19000,Bezhotovostní platba,,příspěvek na volební náklady - Kraj Praha,558,8288909,NA,příspěvek na volební náklady - Kraj Praha,trikolora
 2021-07-26,-4740,Platba převodem uvnitř banky,,platba za hostingy webových stránek,308,20210034,NA,platba za hostingy webových stránek,trikolora
 2021-07-26,-17940,Platba převodem uvnitř banky,,právní služby ve věci ochranné známky,308,37222021,NA,právní služby ve věci ochranné známky,trikolora
 2021-07-26,-6076.62,Platba převodem uvnitř banky,,"platba za samolepky, magnetky",308,276,NA,"platba za samolepky, magnetky",trikolora

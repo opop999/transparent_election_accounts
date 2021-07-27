@@ -1,4 +1,13 @@
 ﻿date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+27.07.2021,-3354.12,Okamžitá odchozí platba,,,308,2197004040,2300,"2300-VLTAVA LABE MEDIA a.s., inzerce v ČK deníku"
+27.07.2021,-1475.6,Bezhotovostní platba,,,0,26072021,3100,"3100-Navrátilová Jana , PHM"
+27.07.2021,-500,Bezhotovostní platba,,,0,2101975,3100,"3100-Fraisová Eva, správní poplatek"
+27.07.2021,-2031.7,Bezhotovostní platba,,,0,17052021,3100,3100-Zukalová Věra - PHM
+27.07.2021,-2006,Bezhotovostní platba,,,308,3,2300,"2300-Jan Pešek , PHM"
+27.07.2021,-5000,Bezhotovostní platba,,,308,9712000137,2300,"2300-Město Dačice, pronájem divadlo"
+27.07.2021,-6000,Bezhotovostní platba,,,308,9707000326,2300,"2300-Město Dačice , pronájem Letní kino"
+27.07.2021,-1880,Bezhotovostní platba,,,308,21152,2300,"2300-Tomáš Přibyl,inzerce"
+27.07.2021,-3500,Platba převodem uvnitř banky,,,308,21005,2300,"2300-Ondřej Kostiha, grafický návrh"
 26.07.2021,-11250,Okamžitá odchozí platba,,,3558,8603283630,1111,"1114-Kooperativa pojišťovna  a.s,., pojištění"
 26.07.2021,-1385358.91,Bezhotovostní platba,,,308,401210967,1114,"1114-Svoboda Press, tisk volební noviny"
 26.07.2021,1400000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,NA,NA,NA,1114-převod financí
