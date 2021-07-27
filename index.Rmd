@@ -32,8 +32,9 @@ invisible(lapply(packages, library, character.only = TRUE))
 summary_dataset <- readRDS(file = "data/summary_tables/total_spend_summary.rds")
 time_dataset <- readRDS(file = "data/summary_tables/time_summary.rds")
 
-# Specify output directory for individual html plots (to be embedded to website)
+# Specify output directory, which we also set as an environmental variable
 directory <- "data/html_plots"
+Sys.setenv(DIRECTORY = directory)
 
 # Check whether output directory exists to save individual plots
 if (!dir.exists(directory)) {
@@ -78,7 +79,7 @@ plot_total_spending <- ggplotly(
     ) +
     scale_x_discrete(labels = (levels(reorder(summary_dataset$entity_name, desc(summary_dataset$total_spend_million))) %>%
       str_replace_all(pattern = "_", replacement = " ") %>%
-      str_to_upper())) +
+      str_to_title())) +
     theme_minimal() +
     xlab(element_blank()) +
     ylab("CZK million") +
@@ -228,5 +229,15 @@ export_individual_plots(custom_palette = custom_palette,
 
 ```
 
+```{r cleanup, include=FALSE}
+# Because the saveWidget function does not correctly delete the dependency files
+# which are used to create individual self-sustaining widgets, we have to delete
+# them using bash command, with environmental variable DIRECTORY same as directory
+# set at the very beginning. All non-html files in output folder are deleted.
+
+system("find $DIRECTORY ! -name '*.html' -type f -delete")
+system("find $DIRECTORY -type d -empty -delete")
+
+```
 
 
