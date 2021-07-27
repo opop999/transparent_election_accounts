@@ -57,6 +57,23 @@ if (!dir.exists(paste0(directory, "/individual_cumulative"))) {
   print("Output directory already exists")
 }
 
+# Election date for vertical line in the time-plots
+election_date <- as.Date("2021-10-08")
+
+# Graph zoom date end & beggining
+start_date <- as.Date("2021-01-01")
+end_date <- as.Date("2021-11-05")
+
+# Select appropriate palette for individual html plots to be exported
+custom_palette <- brewer.pal(8, "Dark2") 
+
+# Extract name of parties to be used in labeling
+parties_names <- levels(time_dataset$entity_name) 
+parties_names_title <- parties_names %>% 
+  str_replace_all(pattern = "_", replacement = " ") %>% 
+  str_to_upper()
+
+
 ```
 
 Total spending
@@ -114,15 +131,15 @@ spend_over_time <- ggplotly(
     ggplot(aes(x = week, y = end_of_week_million_spend, color = entity_name)) +
     geom_line() +
     geom_point(size = 0.8) +
-    geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
-    geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+    geom_vline(aes(xintercept = as.numeric(election_date)), color = "#db1d0b") +
+    geom_text(aes(x = election_date, y = 0.2, label = "elections"), color = "#03457f", size = 4) +
     theme_minimal() +
     scale_y_continuous(
       breaks = seq(0, 200, 10),
       labels = seq(0, 200, 10)
     ) +
     scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
-    coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
+    coord_cartesian(xlim = c(start_date, end_date), expand = TRUE) +
     theme(legend.title = element_blank(), axis.text.x = element_text(angle = 45, hjust = 1)) +
     xlab(element_blank()) +
     ylab("CZK million") +
@@ -168,11 +185,11 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
         geom_line() +
         geom_point(size = 0.8) +
         scale_color_manual(values = custom_palette[i]) +
-        geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
-        geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+        geom_vline(aes(xintercept = as.numeric(election_date)), color = "#db1d0b") +
+        geom_text(aes(x = election_date, y = 0.2, label = "elections"), color = "#03457f", size = 4) +
         theme_minimal() +
         scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
-        coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = TRUE) +
+        coord_cartesian(xlim = c(start_date, end_date), expand = TRUE) +
         theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
         xlab(element_blank()) +
         ylab("CZK million") +
@@ -197,11 +214,11 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
           breaks = seq(0, 100, 0.5),
           labels = seq(0, 100, 0.5)
         ) +
-        geom_vline(aes(xintercept = as.numeric(as.Date("2021-10-08"))), color = "#db1d0b") +
-        geom_text(aes(x = as.Date("2021-10-08"), y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+        geom_vline(aes(xintercept = as.numeric(election_date)), color = "#db1d0b") +
+        geom_text(aes(x = election_date, y = 0.2, label = "elections"), color = "#03457f", size = 4) +
         theme_minimal() +
         scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
-        coord_cartesian(xlim = c(as.Date("2021-01-01"), as.Date("2021-11-05")), expand = FALSE) +
+        coord_cartesian(xlim = c(start_date, end_date), expand = FALSE) +
         theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
         xlab(element_blank()) +
         ylab("CZK million") +
@@ -211,15 +228,6 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
     htmlwidgets::saveWidget(weekly_spend_one_party, file = paste0(directory, "/individual_weekly/", parties_names[i], "_", "plot_spend_weekly.html"))
   }
 }
-
-# Select appropriate palette
-custom_palette <- brewer.pal(8, "Dark2") 
-
-# Extract name of parties to be used in labeling
-parties_names <- levels(time_dataset$entity_name) 
-parties_names_title <- parties_names %>% 
-  str_replace_all(pattern = "_", replacement = " ") %>% 
-  str_to_upper()
 
 # Run the function
 export_individual_plots(custom_palette = custom_palette,
