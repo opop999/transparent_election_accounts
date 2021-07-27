@@ -1,4 +1,6 @@
 ﻿date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+27.07.2021,-500,Karetní transakce,,"Nákup: FACEBK *RXQW4634Q2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.7.2021, částka  500.00 CZK",NA,6835,NA,"Nákup: FACEBK *RXQW4634Q2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.7.2021, částka  500.00 CZK"
+27.07.2021,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 26.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 26.7.2021, částka  15000.00 CZK"
 26.07.2021,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 26.7.2021, částka  15000.00 CZK",NA,8267,NA,"Nákup: GOOGLE *ADS5162857564,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 26.7.2021, částka  15000.00 CZK"
 26.07.2021,-931.7,Platba převodem uvnitř banky,,"pp#17422 FO 2538/2021, stc:p, skoleni-gdpr, crdr-spol-s-ro",308,120211825,NA,"pp#17422 FO 2538/2021, stc:p, skoleni-gdpr, crdr-spol-s-ro"
 26.07.2021,-7900,Bezhotovostní platba,,"pp#17420 FO 2536/2021, stc:p, zabor-lavicky-votice, mestsky-urad-votice",NA,9030000139,42021,"pp#17420 FO 2536/2021, stc:p, zabor-lavicky-votice, mestsky-urad-votice"
