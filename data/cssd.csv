@@ -1,92 +1,92 @@
-﻿date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
-27.07.2021,-9,Poplatek - platební karta,,"Poplatek - dotaz na zůstatek v ATM: CSOB 0455 ZLIN, Zlin, CZE, dne 26.7.2021",NA,9268,NA,"Poplatek - dotaz na zůstatek v ATM: CSOB 0455 ZLIN, Zlin, CZE, dne 26.7.2021"
-26.07.2021,-2132.88,Karetní transakce,,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK",NA,5794,NA,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK"
-26.07.2021,-115434,Bezhotovostní platba,,ČSSD,308,2120002,NA,"Bohumír Fasner, záloha na výlep plakátů, Královéhradecký kraj"
-26.07.2021,-20000,Karetní transakce,,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK"
-20.07.2021,-50000,Platba převodem uvnitř banky,,ČSSD,308,2021032,NA,"provocation s.r.o., grafické práce, fotky"
-20.07.2021,-121000,Bezhotovostní platba,,ČSSD,308,210231,NA,"NMS Market Research s.r.o., průzkumy"
-20.07.2021,-5318359,Bezhotovostní platba,,ČSSD,308,22021,NA,"Ewing s.r.o., 2. část zálohy dle smlouvy"
-20.07.2021,5500000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,NA,převod ČSSD ÚS Praha na volby PS PČR 2021
-20.07.2021,-20000,Karetní transakce,,"Nákup: FACEBK *PLVW85PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *PLVW85PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.7.2021, částka  20000.00 CZK"
-19.07.2021,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Ing. Stanislav Hlavatý, volby PS PČR, Pardubický kraj",NA,NA,NA,"převod daru Ing. Stanislav Hlavatý, volby PS PČR, Pardubický kraj"
-16.07.2021,-20000,Karetní transakce,,"Nákup: FACEBK *B936D5KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *B936D5KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2021, částka  20000.00 CZK"
-15.07.2021,-173492.22,Bezhotovostní platba,,ČSSD,308,36321,NA,"Ewing s.r.o., centrální profil"
-15.07.2021,-121000,Bezhotovostní platba,,ČSSD,308,36421,NA,"Ewing s.r.o., konzultace, poradenství"
-15.07.2021,-3025,Bezhotovostní platba,,ČSSD,308,36521,NA,"Ewing s.r.o., užití webového rozhraní"
-15.07.2021,-42350,Bezhotovostní platba,,ČSSD,308,20210148,NA,"FiftyFifty, focení kandidátů"
-13.07.2021,24200,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod na volby PS PČR Jihomoravský kraj,NA,NA,NA,převod na volby PS PČR Jihomoravský kraj
-13.07.2021,-12100,Bezhotovostní platba,,ČSSD,308,21062,NA,"Herzmann s.r.o., studie projektu Český volič"
-13.07.2021,-2500,Bezhotovostní platba,,ČSSD,308,332021,NA,"Sport Image, spol. s r.o., mediální prezentace"
-13.07.2021,-69397.13,Bezhotovostní platba,,ČSSD,308,34521,NA,"Ewing s.r.o., centrální profil"
-13.07.2021,-24200,Bezhotovostní platba,,ČSSD,308,20210025,NA,"Pavel Kopečný, grafické a konzultační práce"
-13.07.2021,214225.38,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod na volby PS PČR, KP Královéhradecký",NA,NA,NA,"převod na volby PS PČR, KP Královéhradecký"
-09.07.2021,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",NA,NA,NA,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj"
-09.07.2021,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",NA,NA,NA,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj"
-09.07.2021,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj",NA,NA,NA,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj"
-08.07.2021,48400,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský na volby PS PČR,NA,NA,NA,převod z KP Plzeňský na volby PS PČR
-07.07.2021,-121000,Bezhotovostní platba,,,308,34621,NA,"Ewing s.r.o., konzultace, poradenství"
-07.07.2021,-1512.5,Bezhotovostní platba,,,308,34721,NA,"Ewing s.r.o., užití webového rozhraní ""JOLLOR"""
-07.07.2021,-18086.22,Bezhotovostní platba,,,308,28421,NA,"Ewing s.r.o., náklady třetích stran"
-07.07.2021,-5318359,Bezhotovostní platba,,,308,12021,NA,"Ewing s.r.o., 1. záloha dle rámcové smlouvy"
-07.07.2021,5500000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD ÚS Praha,308,9,NA,ČSSD ÚS Praha
-30.06.2021,-20000,Karetní transakce,,"Nákup: FACEBK *CV35Q43LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.6.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *CV35Q43LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.6.2021, částka  20000.00 CZK"
-28.06.2021,-8050,Okamžitá odchozí platba,,ČSSD Praha,308,21010016,39,"Kraváček Jakub - focení kandidátů,  Olomoucký kraj"
-28.06.2021,8050,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků Olomoucký kraj
-26.06.2021,-3672.84,Karetní transakce,,"Nákup: FACEBK *7LZ2W5XKW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.6.2021, částka  3672.84 CZK",NA,5794,NA,"Nákup: FACEBK *7LZ2W5XKW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.6.2021, částka  3672.84 CZK"
-24.06.2021,20000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj",558,9,NA,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj"
-21.06.2021,-20000,Karetní transakce,,"Nákup: FACEBK *Y73HR4KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.6.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *Y73HR4KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.6.2021, částka  20000.00 CZK"
-21.06.2021,-181500,Bezhotovostní platba,,ČSSD Praha,308,21001,36,SANEP s.r.o. - průzkum veřejného mínění
-21.06.2021,200000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-15.06.2021,-10500,Okamžitá odchozí platba,,ČSSD Praha,308,292021,33,SPORT IMAGE - podklady mediální prezentace ČSSD
-14.06.2021,-12100,Okamžitá odchozí platba,,ČSSD Praha,308,21052,34,Herzmann s.r.o. - projekt Český volič
-14.06.2021,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-12.06.2021,-20000,Karetní transakce,,"Nákup: FACEBK *LFLWN4FLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.6.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *LFLWN4FLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.6.2021, částka  20000.00 CZK"
-26.05.2021,-76714,Okamžitá odchozí platba,,ČSSD Praha,308,17021,32,"Ewing, s.r.o. - správa sociálních sítí 3/2021"
-26.05.2021,80000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-26.05.2021,-12260.68,Karetní transakce,,"Nákup: FACEBK *YRZFU33LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.5.2021, částka  12260.68 CZK",NA,5794,NA,"Nákup: FACEBK *YRZFU33LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.5.2021, částka  12260.68 CZK"
-24.05.2021,-36518,Okamžitá odchozí platba,,ČSSD Praha,308,2108002,31,"ARES CZ s.r.o. - pronájem reklamních ploch, Olomoucký kraj"
-24.05.2021,36518,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků Olomoucký kraj
-13.05.2021,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-13.05.2021,-23500,Okamžitá odchozí platba,,ČSSD Praha,308,202021,27,SPORT IMAGE - podklady mediální prezentace ČSSD
-12.05.2021,-30685.6,Okamžitá odchozí platba,,ČSSD Praha,308,20921,26,"Ewing, s.r.o. - správa sociálních sítí 1.-12.4/2021"
-12.05.2021,-12100,Okamžitá odchozí platba,,ČSSD Praha,308,21044,28,Herzmann s.r.o. - projekt Český volič
-12.05.2021,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-06.05.2021,-3630,Okamžitá odchozí platba,,ČSSD Praha,308,211800546,30,"Haná Press, s.r.o. - inzerce Prostějovský Večerník - Olomoucký kraj"
-06.05.2021,3630,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků Olomoucký kraj
-06.05.2021,-21780,Okamžitá odchozí platba,,"Pavel Kopečný - grafické a konzultační práce, JMK",308,20210017,25,"Pavel Kopečný - grafické a konzultační práce, JMK"
-06.05.2021,21780,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků - JMK
-03.05.2021,-154275,Bezhotovostní platba,,ČSSD Praha,308,210116,22,NMS Market Research - výzkum veřejného mínění
-03.05.2021,150000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,Převod finančních prostředků z ÚS
-27.04.2021,-577088.33,Bezhotovostní platba,,ČSSD Praha,308,4202102574,20,BigMedia  s.r.o. - pronájem rek.ploch 4/2021
-27.04.2021,600000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,Převod finančních prostředků z ÚS
-26.04.2021,-12100,Okamžitá odchozí platba,,ČSSD Praha,308,21031,23,Herzmann s.r.o. - projekt Český volič
-26.04.2021,-55115.5,Bezhotovostní platba,,ČSSD Praha,308,4212100682,21,BigMedia s.r.o.. - tisk reklamních materiálů
-26.04.2021,70000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,Převod finančních prostředků z ÚS
-26.04.2021,-19489.35,Karetní transakce,,"Nákup: FACEBK *LJUY24XLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.4.2021, částka  19489.35 CZK",NA,5794,NA,"Nákup: FACEBK *LJUY24XLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.4.2021, částka  19489.35 CZK"
-16.04.2021,-640279.95,Bezhotovostní platba,,ČSSD Praha,308,1012340,19,"RENGL,  s.r.o. - plakátovací kampaň"
-16.04.2021,-212589.18,Bezhotovostní platba,,ČSSD Praha,308,12821,18,Ewing s.r.o. -vytvoření návrhu komunikační kampaně
-16.04.2021,850000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-06.04.2021,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,ČSSD Praha
-06.04.2021,-13500,Okamžitá odchozí platba,,ČSSD Praha,308,182021,16,SPORT IMAGE - podklady mediální prezentace ČSSD
-26.03.2021,-577088.32,Bezhotovostní platba,,ČSSD Praha,308,310210018,NA,BigMedia s.r.o. - pronájem rekl.ploch 4/2021
-26.03.2021,580000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,Převod finančních prostředků z ÚS
-26.03.2021,-10333.49,Karetní transakce,,"Nákup: FACEBK *N5S7H23MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  10333.49 CZK",NA,5794,NA,"Nákup: FACEBK *N5S7H23MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  10333.49 CZK"
-24.03.2021,-76714,Okamžitá odchozí platba,,ČSSD Praha,308,10721,13,"Ewing, s.r.o. - správa sociálních sítí 2/2021"
-24.03.2021,80000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků z ÚS
-22.03.2021,-12100,Okamžitá odchozí platba,,ČSSD Praha,308,21023,14,Herzmann s.r.o. - projekt Český volič
-12.03.2021,-5000,Okamžitá odchozí platba,,ČSSD Praha,308,72210607,12,"YASHICA - inzerce Horácké noviny, kraj Vysočina"
-12.03.2021,5000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků - kraj Vysočina
-04.03.2021,-12500,Okamžitá odchozí platba,,ČSSD Praha,308,132021,11,SPORT IMAGE - podklady mediální prezentace ČSSD
-02.03.2021,-22.28,Karetní transakce,,"Nákup: FACEBK *588CPZ6LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.3.2021, částka  22.28 CZK",NA,5794,NA,"Nákup: FACEBK *588CPZ6LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.3.2021, částka  22.28 CZK"
-01.03.2021,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,NA,Převod finančních prostředků z ÚS
-22.02.2021,-11495,Okamžitá odchozí platba,,ČSSD Praha,308,20331,9,Česká produkční Social Media - vícepráce - předání agendy soc.sítí
-22.02.2021,-4840,Okamžitá odchozí platba,,ČSSD Praha,308,20330,8,Česká produkční Social Media - exekuce livestreamu 25.1.21
-22.02.2021,-4840,Okamžitá odchozí platba,,ČSSD Praha,308,20329,7,Česká produkční Social Media - exekuce livestreamu 18.1.21
-22.02.2021,-4840,Okamžitá odchozí platba,,ČSSD Praha,308,20328,6,Česká produkční Social Media - exekuce livestreamu 11.1.21
-22.02.2021,-60500,Okamžitá odchozí platba,,ČSSD Praha,308,20327,5,Česká produkční Social Media - vícepráce rekl.podpory FB 1/21
-22.02.2021,-60500,Okamžitá odchozí platba,,ČSSD Praha,308,20326,4,Česká produkční Social Media - rekl.rozpočet na podporu FB 1/21
-22.02.2021,-60076.5,Okamžitá odchozí platba,,ČSSD Praha,308,20325,3,Česká produkční Social Media - správa rekl.podpory FB 1/21
-22.02.2021,-76714,Okamžitá odchozí platba,,ČSSD Praha,308,4021,2,"Ewing, s.r.o. - správa sociálních sítí 1/2021"
-22.02.2021,284000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,ČSSD Praha
-15.02.2021,-24200,Bezhotovostní platba,,ČSSD Praha,308,21009,1,Herzmann s.r.o. - projekt Český volič
-15.02.2021,25000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,NA,9,NA,Převod finančních prostředků z ÚS
+﻿"date","amount","type","contra_account_name","message_for_recipient","ks","vs","ss","note"
+"27.07.2021",-9,"Poplatek - platební karta","","Poplatek - dotaz na zůstatek v ATM: CSOB 0455 ZLIN, Zlin, CZE, dne 26.7.2021",NA,9268,NA,"Poplatek - dotaz na zůstatek v ATM: CSOB 0455 ZLIN, Zlin, CZE, dne 26.7.2021"
+"26.07.2021",-2132.88,"Karetní transakce","","Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK",NA,5794,NA,"Nákup: FACEBK *WPATL53MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  2132.88 CZK"
+"26.07.2021",-115434,"Bezhotovostní platba","","ČSSD",308,2120002,NA,"Bohumír Fasner, záloha na výlep plakátů, Královéhradecký kraj"
+"26.07.2021",-20000,"Karetní transakce","","Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *Z3GY26TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.7.2021, částka  20000.00 CZK"
+"20.07.2021",-50000,"Platba převodem uvnitř banky","","ČSSD",308,2021032,NA,"provocation s.r.o., grafické práce, fotky"
+"20.07.2021",-121000,"Bezhotovostní platba","","ČSSD",308,210231,NA,"NMS Market Research s.r.o., průzkumy"
+"20.07.2021",-5318359,"Bezhotovostní platba","","ČSSD",308,22021,NA,"Ewing s.r.o., 2. část zálohy dle smlouvy"
+"20.07.2021",5500000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod ČSSD ÚS Praha na volby PS PČR 2021",308,9,NA,"převod ČSSD ÚS Praha na volby PS PČR 2021"
+"20.07.2021",-20000,"Karetní transakce","","Nákup: FACEBK *PLVW85PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *PLVW85PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.7.2021, částka  20000.00 CZK"
+"19.07.2021",50000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod daru Ing. Stanislav Hlavatý, volby PS PČR, Pardubický kraj",NA,NA,NA,"převod daru Ing. Stanislav Hlavatý, volby PS PČR, Pardubický kraj"
+"16.07.2021",-20000,"Karetní transakce","","Nákup: FACEBK *B936D5KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *B936D5KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.7.2021, částka  20000.00 CZK"
+"15.07.2021",-173492.22,"Bezhotovostní platba","","ČSSD",308,36321,NA,"Ewing s.r.o., centrální profil"
+"15.07.2021",-121000,"Bezhotovostní platba","","ČSSD",308,36421,NA,"Ewing s.r.o., konzultace, poradenství"
+"15.07.2021",-3025,"Bezhotovostní platba","","ČSSD",308,36521,NA,"Ewing s.r.o., užití webového rozhraní"
+"15.07.2021",-42350,"Bezhotovostní platba","","ČSSD",308,20210148,NA,"FiftyFifty, focení kandidátů"
+"13.07.2021",24200,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod na volby PS PČR Jihomoravský kraj",NA,NA,NA,"převod na volby PS PČR Jihomoravský kraj"
+"13.07.2021",-12100,"Bezhotovostní platba","","ČSSD",308,21062,NA,"Herzmann s.r.o., studie projektu Český volič"
+"13.07.2021",-2500,"Bezhotovostní platba","","ČSSD",308,332021,NA,"Sport Image, spol. s r.o., mediální prezentace"
+"13.07.2021",-69397.13,"Bezhotovostní platba","","ČSSD",308,34521,NA,"Ewing s.r.o., centrální profil"
+"13.07.2021",-24200,"Bezhotovostní platba","","ČSSD",308,20210025,NA,"Pavel Kopečný, grafické a konzultační práce"
+"13.07.2021",214225.38,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod na volby PS PČR, KP Královéhradecký",NA,NA,NA,"převod na volby PS PČR, KP Královéhradecký"
+"09.07.2021",100000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",NA,NA,NA,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj"
+"09.07.2021",100000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",NA,NA,NA,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj"
+"09.07.2021",50000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod daru Pavel Havíř, volby PS PČR, Pardubický kraj",NA,NA,NA,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj"
+"08.07.2021",48400,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod z KP Plzeňský na volby PS PČR",NA,NA,NA,"převod z KP Plzeňský na volby PS PČR"
+"07.07.2021",-121000,"Bezhotovostní platba","","",308,34621,NA,"Ewing s.r.o., konzultace, poradenství"
+"07.07.2021",-1512.5,"Bezhotovostní platba","","",308,34721,NA,"Ewing s.r.o., užití webového rozhraní ""JOLLOR"""
+"07.07.2021",-18086.22,"Bezhotovostní platba","","",308,28421,NA,"Ewing s.r.o., náklady třetích stran"
+"07.07.2021",-5318359,"Bezhotovostní platba","","",308,12021,NA,"Ewing s.r.o., 1. záloha dle rámcové smlouvy"
+"07.07.2021",5500000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD ÚS Praha",308,9,NA,"ČSSD ÚS Praha"
+"30.06.2021",-20000,"Karetní transakce","","Nákup: FACEBK *CV35Q43LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.6.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *CV35Q43LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 29.6.2021, částka  20000.00 CZK"
+"28.06.2021",-8050,"Okamžitá odchozí platba","","ČSSD Praha",308,21010016,39,"Kraváček Jakub - focení kandidátů,  Olomoucký kraj"
+"28.06.2021",8050,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků Olomoucký kraj"
+"26.06.2021",-3672.84,"Karetní transakce","","Nákup: FACEBK *7LZ2W5XKW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.6.2021, částka  3672.84 CZK",NA,5794,NA,"Nákup: FACEBK *7LZ2W5XKW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.6.2021, částka  3672.84 CZK"
+"24.06.2021",20000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj",558,9,NA,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj"
+"21.06.2021",-20000,"Karetní transakce","","Nákup: FACEBK *Y73HR4KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.6.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *Y73HR4KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.6.2021, částka  20000.00 CZK"
+"21.06.2021",-181500,"Bezhotovostní platba","","ČSSD Praha",308,21001,36,"SANEP s.r.o. - průzkum veřejného mínění"
+"21.06.2021",200000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"15.06.2021",-10500,"Okamžitá odchozí platba","","ČSSD Praha",308,292021,33,"SPORT IMAGE - podklady mediální prezentace ČSSD"
+"14.06.2021",-12100,"Okamžitá odchozí platba","","ČSSD Praha",308,21052,34,"Herzmann s.r.o. - projekt Český volič"
+"14.06.2021",50000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"12.06.2021",-20000,"Karetní transakce","","Nákup: FACEBK *LFLWN4FLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.6.2021, částka  20000.00 CZK",NA,5794,NA,"Nákup: FACEBK *LFLWN4FLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.6.2021, částka  20000.00 CZK"
+"26.05.2021",-76714,"Okamžitá odchozí platba","","ČSSD Praha",308,17021,32,"Ewing, s.r.o. - správa sociálních sítí 3/2021"
+"26.05.2021",80000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"26.05.2021",-12260.68,"Karetní transakce","","Nákup: FACEBK *YRZFU33LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.5.2021, částka  12260.68 CZK",NA,5794,NA,"Nákup: FACEBK *YRZFU33LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.5.2021, částka  12260.68 CZK"
+"24.05.2021",-36518,"Okamžitá odchozí platba","","ČSSD Praha",308,2108002,31,"ARES CZ s.r.o. - pronájem reklamních ploch, Olomoucký kraj"
+"24.05.2021",36518,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků Olomoucký kraj"
+"13.05.2021",30000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"13.05.2021",-23500,"Okamžitá odchozí platba","","ČSSD Praha",308,202021,27,"SPORT IMAGE - podklady mediální prezentace ČSSD"
+"12.05.2021",-30685.6,"Okamžitá odchozí platba","","ČSSD Praha",308,20921,26,"Ewing, s.r.o. - správa sociálních sítí 1.-12.4/2021"
+"12.05.2021",-12100,"Okamžitá odchozí platba","","ČSSD Praha",308,21044,28,"Herzmann s.r.o. - projekt Český volič"
+"12.05.2021",30000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"06.05.2021",-3630,"Okamžitá odchozí platba","","ČSSD Praha",308,211800546,30,"Haná Press, s.r.o. - inzerce Prostějovský Večerník - Olomoucký kraj"
+"06.05.2021",3630,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků Olomoucký kraj"
+"06.05.2021",-21780,"Okamžitá odchozí platba","","Pavel Kopečný - grafické a konzultační práce, JMK",308,20210017,25,"Pavel Kopečný - grafické a konzultační práce, JMK"
+"06.05.2021",21780,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků - JMK"
+"03.05.2021",-154275,"Bezhotovostní platba","","ČSSD Praha",308,210116,22,"NMS Market Research - výzkum veřejného mínění"
+"03.05.2021",150000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"Převod finančních prostředků z ÚS"
+"27.04.2021",-577088.33,"Bezhotovostní platba","","ČSSD Praha",308,4202102574,20,"BigMedia  s.r.o. - pronájem rek.ploch 4/2021"
+"27.04.2021",600000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"Převod finančních prostředků z ÚS"
+"26.04.2021",-12100,"Okamžitá odchozí platba","","ČSSD Praha",308,21031,23,"Herzmann s.r.o. - projekt Český volič"
+"26.04.2021",-55115.5,"Bezhotovostní platba","","ČSSD Praha",308,4212100682,21,"BigMedia s.r.o.. - tisk reklamních materiálů"
+"26.04.2021",70000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"Převod finančních prostředků z ÚS"
+"26.04.2021",-19489.35,"Karetní transakce","","Nákup: FACEBK *LJUY24XLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.4.2021, částka  19489.35 CZK",NA,5794,NA,"Nákup: FACEBK *LJUY24XLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.4.2021, částka  19489.35 CZK"
+"16.04.2021",-640279.95,"Bezhotovostní platba","","ČSSD Praha",308,1012340,19,"RENGL,  s.r.o. - plakátovací kampaň"
+"16.04.2021",-212589.18,"Bezhotovostní platba","","ČSSD Praha",308,12821,18,"Ewing s.r.o. -vytvoření návrhu komunikační kampaně"
+"16.04.2021",850000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"06.04.2021",30000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"ČSSD Praha"
+"06.04.2021",-13500,"Okamžitá odchozí platba","","ČSSD Praha",308,182021,16,"SPORT IMAGE - podklady mediální prezentace ČSSD"
+"26.03.2021",-577088.32,"Bezhotovostní platba","","ČSSD Praha",308,310210018,NA,"BigMedia s.r.o. - pronájem rekl.ploch 4/2021"
+"26.03.2021",580000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"Převod finančních prostředků z ÚS"
+"26.03.2021",-10333.49,"Karetní transakce","","Nákup: FACEBK *N5S7H23MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  10333.49 CZK",NA,5794,NA,"Nákup: FACEBK *N5S7H23MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  10333.49 CZK"
+"24.03.2021",-76714,"Okamžitá odchozí platba","","ČSSD Praha",308,10721,13,"Ewing, s.r.o. - správa sociálních sítí 2/2021"
+"24.03.2021",80000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků z ÚS"
+"22.03.2021",-12100,"Okamžitá odchozí platba","","ČSSD Praha",308,21023,14,"Herzmann s.r.o. - projekt Český volič"
+"12.03.2021",-5000,"Okamžitá odchozí platba","","ČSSD Praha",308,72210607,12,"YASHICA - inzerce Horácké noviny, kraj Vysočina"
+"12.03.2021",5000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků - kraj Vysočina"
+"04.03.2021",-12500,"Okamžitá odchozí platba","","ČSSD Praha",308,132021,11,"SPORT IMAGE - podklady mediální prezentace ČSSD"
+"02.03.2021",-22.28,"Karetní transakce","","Nákup: FACEBK *588CPZ6LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.3.2021, částka  22.28 CZK",NA,5794,NA,"Nákup: FACEBK *588CPZ6LW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.3.2021, částka  22.28 CZK"
+"01.03.2021",50000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",308,9,NA,"Převod finančních prostředků z ÚS"
+"22.02.2021",-11495,"Okamžitá odchozí platba","","ČSSD Praha",308,20331,9,"Česká produkční Social Media - vícepráce - předání agendy soc.sítí"
+"22.02.2021",-4840,"Okamžitá odchozí platba","","ČSSD Praha",308,20330,8,"Česká produkční Social Media - exekuce livestreamu 25.1.21"
+"22.02.2021",-4840,"Okamžitá odchozí platba","","ČSSD Praha",308,20329,7,"Česká produkční Social Media - exekuce livestreamu 18.1.21"
+"22.02.2021",-4840,"Okamžitá odchozí platba","","ČSSD Praha",308,20328,6,"Česká produkční Social Media - exekuce livestreamu 11.1.21"
+"22.02.2021",-60500,"Okamžitá odchozí platba","","ČSSD Praha",308,20327,5,"Česká produkční Social Media - vícepráce rekl.podpory FB 1/21"
+"22.02.2021",-60500,"Okamžitá odchozí platba","","ČSSD Praha",308,20326,4,"Česká produkční Social Media - rekl.rozpočet na podporu FB 1/21"
+"22.02.2021",-60076.5,"Okamžitá odchozí platba","","ČSSD Praha",308,20325,3,"Česká produkční Social Media - správa rekl.podpory FB 1/21"
+"22.02.2021",-76714,"Okamžitá odchozí platba","","ČSSD Praha",308,4021,2,"Ewing, s.r.o. - správa sociálních sítí 1/2021"
+"22.02.2021",284000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"ČSSD Praha"
+"15.02.2021",-24200,"Bezhotovostní platba","","ČSSD Praha",308,21009,1,"Herzmann s.r.o. - projekt Český volič"
+"15.02.2021",25000,"Platba převodem uvnitř banky","Česká strana sociálně demokratická","ČSSD Praha",NA,9,NA,"Převod finančních prostředků z ÚS"
