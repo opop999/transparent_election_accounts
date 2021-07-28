@@ -73,7 +73,6 @@ parties_names_title <- parties_names %>%
   str_replace_all(pattern = "_", replacement = " ") %>% 
   str_to_upper()
 
-
 ```
 
 Total spending
@@ -100,7 +99,7 @@ plot_total_spending <- ggplotly(
     theme_minimal() +
     xlab(element_blank()) +
     ylab("CZK million") +
-    ggtitle("Total spending on transparent accounts since 1.1.2021")
+    ggtitle(paste("Total spending on transparent accounts since", format(start_date, "%d.%m.%Y")))
 )
 
 plot_total_spending
@@ -143,17 +142,14 @@ spend_over_time <- ggplotly(
     theme(legend.title = element_blank(), axis.text.x = element_text(angle = 45, hjust = 1)) +
     xlab(element_blank()) +
     ylab("CZK million") +
-    ggtitle("Spending on transparent accounts, January 2021-present")
+    ggtitle(paste("Total spending over time on transparent accounts since", format(start_date, "%d.%m.%Y")))  
 )
 
 spend_over_time
 
 htmlwidgets::saveWidget(spend_over_time, file = paste0(directory, "/plot_spend_over_time.html"))
 
-
 ```
-
-
 
 ```{r silent export, include=FALSE}
 # Specify the function parameters
@@ -193,7 +189,7 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
         theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
         xlab(element_blank()) +
         ylab("CZK million") +
-        ggtitle(paste("Cumulative spending of ", parties_names_title[i], "since January 2021"))
+        ggtitle(paste("Cumulative spending of ", parties_names_title[i], "since", format(start_date, "%d.%m.%Y")))
     )
 
     htmlwidgets::saveWidget(time_spend_one_party, file = paste0(directory, "/individual_cumulative/", parties_names[i], "_", "plot_spend_over_time.html"))
@@ -222,7 +218,7 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
         theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
         xlab(element_blank()) +
         ylab("CZK million") +
-        ggtitle(paste("Weekly spending of ", parties_names_title[i], "since January 2021"))
+        ggtitle(paste("Weekly spending of ", parties_names_title[i], "since", format(start_date, "%d.%m.%Y")))
     )
 
     htmlwidgets::saveWidget(weekly_spend_one_party, file = paste0(directory, "/individual_weekly/", parties_names[i], "_", "plot_spend_weekly.html"))

@@ -1,4 +1,6 @@
 ﻿"date","amount","type","contra_account_name","message_for_recipient","ks","vs","ss","note"
+"28.07.2021",1028.5,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021",NA,1,71,"Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021"
+"28.07.2021",5000,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků ZO Hradec Králové na volební účet SZ - volby do PS PČR 2021",NA,NA,569810,"Převod prostředků ZO Hradec Králové na volební účet SZ - volby do PS PČR 2021"
 "23.07.2021",20847.45,"Platba převodem uvnitř banky","Strana zelených","převod darů ZO P2 z darového účtu na volební účet SZ - volby do PS PČR 2021",NA,NA,500089,"převod darů ZO P2 z darového účtu na volební účet SZ - volby do PS PČR 2021"
 "23.07.2021",-20847.45,"Okamžitá odchozí platba","","ZF 401000003547 - roznáška opozičních novin Praha 2",308,2021080080,500089,"ZO P2 - Česká pošta, s. p."
 "22.07.2021",-30000,"Platba převodem uvnitř banky","","vratka mylné platby - provozní účet KO JHČ",NA,NA,31,"vratka mylné platby - provozní účet KO JHČ"
