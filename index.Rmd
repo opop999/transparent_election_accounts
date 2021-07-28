@@ -189,7 +189,7 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
         theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
         xlab(element_blank()) +
         ylab("CZK million") +
-        ggtitle(paste("Cumulative spending of ", parties_names_title[i], "since", format(start_date, "%d.%m.%Y")))
+        ggtitle(paste("Cumulative spending of", parties_names_title[i], "since", format(start_date, "%d.%m.%Y")))
     )
 
     htmlwidgets::saveWidget(time_spend_one_party, file = paste0(directory, "/individual_cumulative/", parties_names[i], "_", "plot_spend_over_time.html"))
@@ -218,7 +218,7 @@ export_individual_plots <- function(custom_palette, parties_names, parties_names
         theme(legend.position = "none", axis.text.x = element_text(angle = 45, hjust = 1)) +
         xlab(element_blank()) +
         ylab("CZK million") +
-        ggtitle(paste("Weekly spending of ", parties_names_title[i], "since", format(start_date, "%d.%m.%Y")))
+        ggtitle(paste("Weekly spending of", parties_names_title[i], "since", format(start_date, "%d.%m.%Y")))
     )
 
     htmlwidgets::saveWidget(weekly_spend_one_party, file = paste0(directory, "/individual_weekly/", parties_names[i], "_", "plot_spend_weekly.html"))
