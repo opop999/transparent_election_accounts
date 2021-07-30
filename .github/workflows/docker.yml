@@ -19,15 +19,15 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Compile bank accounts list
-      run: Rscript 00_save_bank_accounts.R
+      run: Rscript --vanilla 00_save_bank_accounts.R
     - name: Scrape FIO bank accounts
-      run: Rscript 01_scrape_fio_accounts.R
+      run: Rscript --vanilla 01_scrape_fio_accounts.R
     - name: Create summary tables
-      run: Rscript 02_create_summary_tables.R
+      run: Rscript --vanilla 02_create_summary_tables.R
     - name: Install Flexdashboard package
       run: Rscript -e "install.packages('flexdashboard')"
     - name: Update Dashboard for GitHub Pages  
-      run: Rscript -e "rmarkdown::render('index.Rmd')"
+      run: Rscript --vanilla -e "rmarkdown::render('index.Rmd')"
     
  # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
