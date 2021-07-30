@@ -6,7 +6,7 @@ packages <- c("tidyr", "dplyr", "readr", "stringr", "lubridate")
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
 if (any(installed_packages == FALSE)) {
-  install.packages(packages[!installed_packages], dependencies = TRUE)
+  install.packages(packages[!installed_packages])
 }
 
 # Packages loading
