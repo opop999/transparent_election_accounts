@@ -27,7 +27,7 @@ jobs:
     - name: Install Flexdashboard package
       run: Rscript -e "install.packages('flexdashboard')"
     - name: Update Dashboard for GitHub Pages  
-      run: Rscript --vanilla -e "rmarkdown::render('index.Rmd')"
+      run: Rscript -e "rmarkdown::render('index.Rmd')"
     
  # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
