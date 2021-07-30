@@ -28,6 +28,8 @@ jobs:
       run: Rscript -e "install.packages('flexdashboard', dependencies = TRUE)"
     - name: Update Dashboard for GitHub Pages  
       run: Rscript -e "rmarkdown::render('index.Rmd')"
+    - name: Print information about the session
+      run: Rscript -e "sessionInfo()"
     
  # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
