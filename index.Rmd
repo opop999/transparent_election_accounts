@@ -1,6 +1,6 @@
 ---
 title: "TRANSPARENT BANK ACCOUNTS"
-date: "Last updated `r format (Sys.time(),'%d. %m. %Y')`"
+date: "Last updated `r format(Sys.time(),'%d. %m. %Y')`"
 author: "Ondrej Pekacek/TI CZ"
 output: 
   flexdashboard::flex_dashboard:
