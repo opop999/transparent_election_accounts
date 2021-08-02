@@ -1,7 +1,7 @@
 # 1. Load the required R libraries
 
 # Package names
-packages <- c("tidyr", "dplyr", "readr", "stringr", "lubridate")
+packages <- c("tidyr", "dplyr", "data.table", "stringr", "lubridate")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -49,8 +49,8 @@ time_summary <- full_transactions_table %>%
   ungroup()
 
 # 4. Saving both tables to csv and rds files
-write_csv(total_spend_summary, "data/summary_tables/total_spend_summary.csv")
+fwrite(total_spend_summary, "data/summary_tables/total_spend_summary.csv")
 saveRDS(object = total_spend_summary, file = "data/summary_tables/total_spend_summary.rds", compress = FALSE)
 
-write_csv(time_summary, "data/summary_tables/time_summary.csv")
+fwrite(time_summary, "data/summary_tables/time_summary.csv")
 saveRDS(object = time_summary, file = "data/summary_tables/time_summary.rds", compress = FALSE)
