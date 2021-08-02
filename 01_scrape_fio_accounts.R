@@ -3,7 +3,7 @@
 ## 1. Loading the required R libraries
 
 # Package names
-packages <- c("rvest", "dplyr", "readr", "stringr")
+packages <- c("rvest", "dplyr", "data.table", "arrow", "stringr")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -60,7 +60,7 @@ scrape_fio <- function(accounts, dir_name) {
       )
     
     myfile <- paste0(dir_name, "/individual_accounts/", accounts[[1]][i], ".csv")
-    write_excel_csv(table_transactions, file = myfile)
+    fwrite(table_transactions, file = myfile)
     
     # With each iteration of loop, we append the complete dataset
     table_transactions <- table_transactions %>% mutate(
@@ -70,10 +70,10 @@ scrape_fio <- function(accounts, dir_name) {
     merged_dataset <- bind_rows(merged_dataset, table_transactions)
   }
   # We are saving the merged dataframes as CSV and RDS file (for speed in R)
-  myfile_merged_csv <- paste0(dir_name, "/merged_data.csv")
-  myfile_merged_rds <- paste0(dir_name, "/merged_data.rds")
-  write_excel_csv(x = merged_dataset, file = myfile_merged_csv)
-  saveRDS(object = merged_dataset, file = myfile_merged_rds, compress = FALSE)
+  
+  fwrite(x = merged_dataset, file = paste0(dir_name, "/merged_data.csv"))
+  saveRDS(object = merged_dataset, file = paste0(dir_name, "/merged_data.rds"), compress = FALSE)
+  write_feather(x = merged_dataset, sink = paste0(dir_name, "/merged_data.feather"))
 }
 
 ###############
@@ -114,8 +114,7 @@ scrape_fio_summary <- function(accounts, dir_name) {
     mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "[,]", replacement = "."))) %>%
     mutate(across(.cols = 2:7, .fns = ~ str_replace_all(., pattern = "(\\s+|[a-zA-Z])", replacement = "")))
   
-  myfile <- paste0(dir_name, "/current_accounts_overview.csv")
-  write_excel_csv(table_total_summary, file = myfile)
+  fwrite(table_total_summary, file = paste0(dir_name, "/current_accounts_overview.csv"))
 }
 
 ## 4. Inputs for the FIO scraping function
