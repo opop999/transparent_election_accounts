@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 02.08.2021,-604.95,Karetní transakce,"","Nákup: FACEBK *VG4DJ5XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 31.7.2021, částka  604.95 CZK",,6211,,"Nákup: FACEBK *VG4DJ5XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 31.7.2021, částka  604.95 CZK"
 31.07.2021,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: KB ATM N.W.CHURCHILA, PRAHA 3, CZE, dne 30.7.2021",,6211,,"Poplatek - dotaz na zůstatek v ATM: KB ATM N.W.CHURCHILA, PRAHA 3, CZE, dne 30.7.2021"
@@ -25,3 +26,31 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 04.06.2021,-15000,Okamžitá odchozí platba,"","FA 19/2021 - výroba 7 videí pro kampaň ""Ulice pro lidi""",,192021,64,JMK - Jan Fuksa
 04.06.2021,15000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
 06.01.2021,100,Platba převodem uvnitř banky,Strana zelených,převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu),,,,převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu)
+=======
+﻿"date","amount","type","contra_account_name","message_for_recipient","ks","vs","ss","note"
+"31.07.2021",-9,"Poplatek - platební karta","","Poplatek - dotaz na zůstatek v ATM: KB ATM N.W.CHURCHILA, PRAHA 3, CZE, dne 30.7.2021",NA,6211,NA,"Poplatek - dotaz na zůstatek v ATM: KB ATM N.W.CHURCHILA, PRAHA 3, CZE, dne 30.7.2021"
+"30.07.2021",-7000,"Okamžitá odchozí platba","","FA 202122 - tlumočení na setkání s panem Nafrothem",NA,202122,NA,"SZ - Markéta Kliková"
+"29.07.2021",-771.02,"Platba převodem uvnitř banky","","FA 4127737457340392-7862816 - reklama na sociálních sítích",NA,NA,71,"OLK - Facebook"
+"29.07.2021",-257.48,"Platba převodem uvnitř banky","","FA 4003877176393082-7690079 - reklama na sociálních sítích",NA,NA,71,"OLK - Facebook"
+"28.07.2021",1028.5,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021",NA,1,71,"Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021"
+"28.07.2021",5000,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků ZO Hradec Králové na volební účet SZ - volby do PS PČR 2021",NA,NA,569810,"Převod prostředků ZO Hradec Králové na volební účet SZ - volby do PS PČR 2021"
+"23.07.2021",20847.45,"Platba převodem uvnitř banky","Strana zelených","převod darů ZO P2 z darového účtu na volební účet SZ - volby do PS PČR 2021",NA,NA,500089,"převod darů ZO P2 z darového účtu na volební účet SZ - volby do PS PČR 2021"
+"23.07.2021",-20847.45,"Okamžitá odchozí platba","","ZF 401000003547 - roznáška opozičních novin Praha 2",308,2021080080,500089,"ZO P2 - Česká pošta, s. p."
+"22.07.2021",-30000,"Platba převodem uvnitř banky","","vratka mylné platby - provozní účet KO JHČ",NA,NA,31,"vratka mylné platby - provozní účet KO JHČ"
+"22.07.2021",-2000,"Platba převodem uvnitř banky","","FA 20210002 - streaming zahájení kampaně",NA,20210002,NA,"SZ - Tvůrčí produkční skupina Remízek, z. s."
+"22.07.2021",-4000,"Bezhotovostní platba","","FA 23/2021 - ozvučení a záznam tiskové konference",NA,232021,NA,"SZ - Stanislav Abrahám"
+"22.07.2021",-5000,"Platba převodem uvnitř banky","","FA 20210023 - fotopráce - zahájení kampaně",8,20210023,NA,"SZ - Jiří Sláma"
+"20.07.2021",-6630,"Okamžitá odchozí platba","","FA 20210013 - tajemnice KO JMK 2021/06",308,20210013,64,"JMK - Lenka Zemanová"
+"20.07.2021",6630,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021",NA,NA,64,"Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021"
+"13.07.2021",12923,"Platba převodem uvnitř banky","Strana zelených","převod darů ZO P2 z darového účtu na volební účet SZ - volby do PS PČR 2021",NA,NA,500089,"převod darů ZO P2 z darového účtu na volební účet SZ - volby do PS PČR 2021"
+"13.07.2021",-25000,"Bezhotovostní platba","","FA 210020 - poradenství a služby Public and media relations",NA,210020,NA,"SZ - Svatopluk Bartík"
+"13.07.2021",-41500,"Bezhotovostní platba","","FA 2021 - kreativa, organizace kampaně",NA,2021,NA,"SZ - Robin Kvapil"
+"13.07.2021",-12923,"Bezhotovostní platba","","ZF 2121000399 - tisk opozičních novin Praha 2",NA,2121000399,500089,"ZO P2 - Vltava Labe media, a. s."
+"13.07.2021",200000,"Platba převodem uvnitř banky","Strana zelených","převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021",NA,NA,NA,"převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021"
+"02.07.2021",30000,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků KO JČK na volební účet SZ - volby do PS PČR 2021",NA,NA,31,"Převod prostředků KO JČK na volební účet SZ - volby do PS PČR 2021"
+"08.06.2021",-5000,"Bezhotovostní platba","","FA 2021003 - marketingové poradenství",NA,2021003,42,"ÚLK - Jan Panocha"
+"08.06.2021",5000,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021",NA,NA,42,"Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021"
+"04.06.2021",-15000,"Okamžitá odchozí platba","","FA 19/2021 - výroba 7 videí pro kampaň ""Ulice pro lidi""",NA,192021,64,"JMK - Jan Fuksa"
+"04.06.2021",15000,"Platba převodem uvnitř banky","Strana zelených","Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021",NA,NA,64,"Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021"
+"06.01.2021",100,"Platba převodem uvnitř banky","Strana zelených","převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu)",NA,NA,NA,"převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu)"
+>>>>>>> 0eeb3a990566985fde227b2856813d39c5902dba
