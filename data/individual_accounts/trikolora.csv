@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+03.08.2021,251680,Bezhotovostní příjem,CAN Media s.r.o.,vrácení zálohy,,21001,,CAN Media s.r.o.
 30.07.2021,-16698,Platba převodem uvnitř banky,"",platba billboardy Pardubický kraj,308,2021053,,platba billboardy Pardubický kraj
 30.07.2021,-4356,Platba převodem uvnitř banky,"",platba za polep vozu Olomoucký kraj,308,11210493,,platba za polep vozu Olomoucký kraj
 30.07.2021,-2129.6,Okamžitá odchozí platba,"",potisk petičního stánku Středočeský kraj,308,1690721,,potisk petičního stánku Středočeský kraj
