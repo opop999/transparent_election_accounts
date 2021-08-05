@@ -1,8 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+04.08.2021,-69333,Platba převodem uvnitř banky,"","",308,821,2100,"1114-Jakub Galuška , grafické práce propagační mateiriál"
+04.08.2021,-3638,Bezhotovostní platba,"","",308,21029,2100,"1114-MANES GROUP a.s. , pracovní oběd"
+04.08.2021,-2407.98,Bezhotovostní platba,"","",308,610024785,2100,"1114-MAKRO Cash & Carry ČR s.r.o., nákup občerstvení"
 03.08.2021,25000,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,TOP 09
 03.08.2021,8e+06,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,TOP 09
 02.08.2021,14490000,Platba převodem uvnitř banky,KDU-ČSL,vklad do kampaně KDU-ČSL,,,,vklad do kampaně KDU-ČSL
-02.08.2021,52362.75,Platba převodem uvnitř banky,"NORDEKO, a.s.",Platba omylem zpět,,20210023,,Platba omylem zpět
+02.08.2021,52362.75,Platba převodem uvnitř banky,"NORDEKO, a.s.",Platba omylem zpět,,20210023,,1114-Platba omylem zpět
 02.08.2021,-404387.53,Bezhotovostní platba,"","",308,210055,1114,"1114-Adved s.r.o., reklama na FBC 5.-6.2021"
 02.08.2021,-332750,Platba převodem uvnitř banky,"","",308,2121,1114,"1114-Dcode creative s.r.o., přípr. práce JDEME Volit..."
 02.08.2021,8e+05,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí

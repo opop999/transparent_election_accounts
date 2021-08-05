@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+04.08.2021,-500,Platba převodem uvnitř banky,"",Mičulka Zdeněk dar - Částka poslaná na volební účet místo zvláštní účet z 5.6.2021,,,,Mičulka Zdeněk dar - Částka poslaná na volební účet místo zvláštní účet z 5.6.2021
+04.08.2021,-500,Platba převodem uvnitř banky,"",Žigo Milan dar - Částka poslaná na volební účet místo zvláštní účet z 04.08.2021,,,,Žigo Milan dar - Částka poslaná na volební účet místo zvláštní účet z 04.08.2021
 02.08.2021,500,Bezhotovostní příjem,Žigo Milan,"",0,2021,,Žigo Milan
 27.07.2021,-605,Karetní transakce,"","Nákup: ThePay *RAYNET s.r.o.,  Francouzska 6167/5, Ostrava, 70800, CZE, dne 26.7.2021, částka  605.00 CZK",,8013,,"Nákup: ThePay *RAYNET s.r.o.,  Francouzska 6167/5, Ostrava, 70800, CZE, dne 26.7.2021, částka  605.00 CZK"
 26.07.2021,-24200,Karetní transakce,"","Nákup: FACEBK *FRU785XE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  24200.00 CZK",,8013,,"Nákup: FACEBK *FRU785XE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.7.2021, částka  24200.00 CZK"
