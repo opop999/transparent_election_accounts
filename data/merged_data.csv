@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-06,-2336,Karetní transakce,"","Nákup: IKEA CZ ecom,  Skandinavska 1 131, Praha, 155 00, CZE, dne 5.8.2021, částka  2336.00 CZK",,8267,,"Nákup: IKEA CZ ecom,  Skandinavska 1 131, Praha, 155 00, CZE, dne 5.8.2021, částka  2336.00 CZK",pirati_stan
+2021-08-05,-10000,Platba převodem uvnitř banky,"","pp#17414 FO 2530/2021, cen:vs, fotografovani-ivana-bartose-v-litomericichterezine-a-v-usteku, frantisek-nikl",,20210720,42021,"pp#17414 FO 2530/2021, cen:vs, fotografovani-ivana-bartose-v-litomericichterezine-a-v-usteku, frantisek-nikl",pirati_stan
+2021-08-05,-40000,Okamžitá odchozí platba,"","pp#17597 FO 2697/2021, cen:vs, antihoax-officer-cervenec, vendula-prokupkova",308,20210003,42021,"pp#17597 FO 2697/2021, cen:vs, antihoax-officer-cervenec, vendula-prokupkova",pirati_stan
+2021-08-05,-43500,Okamžitá odchozí platba,"","pp#17612 FO 2712/2021, cen:mo, proplaceni-sefredaktor-piratskych-listu-a-pr-spojka-pro-pardubicky-a-liberecky-kraj-202107, michalchalupa",,2021008,,"pp#17612 FO 2712/2021, cen:mo, proplaceni-sefredaktor-piratskych-listu-a-pr-spojka-pro-pardubicky-a-liberecky-kraj-202107, michalchalupa",pirati_stan
+2021-08-05,3317382.58,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI,,,,Převod na účet 2601909155 PIRÁTI,pirati_stan
 2021-08-05,-4915.01,Karetní transakce,"","Nákup: FACEBK *832XC6BSB2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.8.2021, částka  4915.01 CZK",,8267,,"Nákup: FACEBK *832XC6BSB2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.8.2021, částka  4915.01 CZK",pirati_stan
 2021-08-04,-7590,Okamžitá odchozí platba,"","pp#17604 FO 2704/2021, pha:p, obcerstveni-pro-kandidaty-pirstan, restaurace-kogo",,40821,42021,"pp#17604 FO 2704/2021, pha:p, obcerstveni-pro-kandidaty-pirstan, restaurace-kogo",pirati_stan
 2021-08-04,-560,Bezhotovostní platba,"","pp#17618 FO 2718/2021, jhm:p, vyroba-nahradnich-klicu, zamkarstvi-jiri-rozsypal",,27182021,42021,"pp#17618 FO 2718/2021, jhm:p, vyroba-nahradnich-klicu, zamkarstvi-jiri-rozsypal",pirati_stan
@@ -1208,6 +1213,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-26,-4840,Bezhotovostní platba,"","pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",,113,,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",pirati_stan
 2021-01-06,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",,8267,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",pirati_stan
 2021-01-05,99000,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI,,,,Převod na účet 2601909155 PIRÁTI,pirati_stan
+2021-08-05,-2495.41,Bezhotovostní platba,"","",0,210804,2600,2600-Svatošová Renata -. PHM vol. dodávka,ods_kdu_top09
+2021-08-05,-888,Bezhotovostní platba,"","",380,903200816,2600,"2600-Město Rumburk, poplatek - zábor",ods_kdu_top09
+2021-08-05,-238370,Bezhotovostní platba,"","",0,212900063,3000,"3000-MOBILBOARD s.r.o., polepy oken autobusů",ods_kdu_top09
+2021-08-05,-998.3,Bezhotovostní platba,"","",0,2021000421,3000,"3000-SLUMBI s.r.o., úklid po akci",ods_kdu_top09
+2021-08-05,-16032.5,Okamžitá odchozí platba,"","",308,210100124,2500,"2500-ODDYCH s.r.o., tisk polepek",ods_kdu_top09
+2021-08-05,-1000,Okamžitá odchozí platba,"","",308,2100500079,3100,"3100-Obec Lipová -lázně, poplatek - zábor",ods_kdu_top09
 2021-08-04,-69333,Platba převodem uvnitř banky,"","",308,821,2100,"1114-Jakub Galuška , grafické práce propagační mateiriál",ods_kdu_top09
 2021-08-04,-3638,Bezhotovostní platba,"","",308,21029,2100,"1114-MANES GROUP a.s. , pracovní oběd",ods_kdu_top09
 2021-08-04,-2407.98,Bezhotovostní platba,"","",308,610024785,2100,"1114-MAKRO Cash & Carry ČR s.r.o., nákup občerstvení",ods_kdu_top09
@@ -1537,6 +1548,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-27,-500,Okamžitá odchozí platba,"","",0,1260000540,3200,"3200-Úřad městské části , zábor",ods_kdu_top09
 2021-01-25,-1331,Okamžitá odchozí platba,"",registrace domény spolu.tv,558,5210129474,,registrace domény spolu.tv,ods_kdu_top09
 2021-01-25,5000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu_top09
+2021-08-06,-21816.52,Karetní transakce,"","Nákup: FACEBK *VBCG77T9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 5.8.2021, částka  21816.52 CZK",,3344,,"Nákup: FACEBK *VBCG77T9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 5.8.2021, částka  21816.52 CZK",spd
+2021-08-05,1200000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-04,-15000,Karetní transakce,"","Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.8.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.8.2021, částka  15000.00 CZK",spd
 2021-08-02,-20000,Karetní transakce,"","Nákup: FACEBK *HGABK5BAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *HGABK5BAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.8.2021, částka  20000.00 CZK",spd
 2021-07-30,-1943,Platba převodem uvnitř banky,"","Tisk Sarpet s.r.o., bannery",308,113314571,1400,"Tisk Sarpet s.r.o., bannery",spd
@@ -1804,6 +1817,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-20,-726,Bezhotovostní platba,"",Olomoucký - pronájem rekl. plochy,308,1035000018,,Olomoucký - pronájem rekl. plochy,spd
 2021-01-20,-1486727,Bezhotovostní platba,"",pronájem reklamních panelů,308,310210001,,pronájem reklamních panelů,spd
 2021-01-20,3e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-05,48000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Pardubický kraj na volby PS PČR,,,,převod z KP Pardubický kraj na volby PS PČR,cssd
 2021-08-03,-20000,Karetní transakce,"","Nákup: FACEBK *Q6H4A6TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.8.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *Q6H4A6TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.8.2021, částka  20000.00 CZK",cssd
 2021-07-29,-302500,Bezhotovostní platba,"",ČSSD,308,36721,,"Ewing s.r.o.,  návrh a strategie k volbám, ústředí",cssd
 2021-07-29,40000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z ÚS ČSSD na volby PS PČR,,,,převod z ÚS ČSSD na volby PS PČR,cssd
@@ -1902,6 +1916,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-22,284000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,,9,,ČSSD Praha,cssd
 2021-02-15,-24200,Bezhotovostní platba,"",ČSSD Praha,308,21009,1,Herzmann s.r.o. - projekt Český volič,cssd
 2021-02-15,25000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,,9,,Převod finančních prostředků z ÚS,cssd
+2021-08-05,-8250,Platba převodem uvnitř banky,"",platba za právní služby - kandidátní listiny,308,2021131,,platba za právní služby - kandidátní listiny,trikolora
+2021-08-05,-4450,Platba převodem uvnitř banky,"",výroba PVC banerů - Ústecký kraj,,,,výroba PVC banerů - Ústecký kraj,trikolora
+2021-08-05,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů,trikolora
+2021-08-05,-3296.04,Bezhotovostní platba,"",platba za tisk reklamních prostředků - Olomoucký kraj,308,8288909,,platba za tisk reklamních prostředků - Olomoucký kraj,trikolora
 2021-08-03,-106755,Bezhotovostní platba,"",pronájem výlepových ploch Rengl Moravskoslezský kraj,308,1022565,,pronájem výlepových ploch Rengl Moravskoslezský kraj,trikolora
 2021-08-03,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost,trikolora
 2021-08-03,-7260,Bezhotovostní platba,"",platba Hertzmann - český volič,308,21074,,platba Hertzmann - český volič,trikolora
@@ -2024,6 +2042,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-02,5000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,Převod prostředků na volební výdajový účet,,,,Převod prostředků na volební výdajový účet,trikolora
 2021-01-22,-181500,Bezhotovostní platba,"",Trikolóra,308,210100008,0,Zajištění bannerů pro propagaci hnutí (OUR MEDIA a.s.),trikolora
 2021-01-22,182000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na transparentní výdajový účet,,,,převod na transparentní výdajový účet,trikolora
+2021-08-05,38621,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,100702021,569810,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-08-05,-786.5,Platba převodem uvnitř banky,"",FA 2021-0009 - pronájem komunikačních přístrojů,,20210009,,"SZ - Prague Whispers, s. r. o.",zeleni
+2021-08-05,-43621,Bezhotovostní platba,"",FA 1-0070/2021 - propagační video,8,100702021,569810,"ZO Hradec Králové - Dimension advertising, s. r. o.",zeleni
+2021-08-05,-8415,Bezhotovostní platba,"",DPP 2021/07,,,,SZ - Martin Lekeš,zeleni
 2021-08-02,-44500,Okamžitá odchozí platba,"","FA 39 - kreativa, organizace kampaně",,39,,SZ - Robin Kvapil,zeleni
 2021-08-02,-604.95,Karetní transakce,"","Nákup: FACEBK *VG4DJ5XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 31.7.2021, částka  604.95 CZK",,6211,,"Nákup: FACEBK *VG4DJ5XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 31.7.2021, částka  604.95 CZK",zeleni
 2021-07-31,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: KB ATM N.W.CHURCHILA, PRAHA 3, CZE, dne 30.7.2021",,6211,,"Poplatek - dotaz na zůstatek v ATM: KB ATM N.W.CHURCHILA, PRAHA 3, CZE, dne 30.7.2021",zeleni

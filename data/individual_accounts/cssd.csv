@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+05.08.2021,48000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Pardubický kraj na volby PS PČR,,,,převod z KP Pardubický kraj na volby PS PČR
 03.08.2021,-20000,Karetní transakce,"","Nákup: FACEBK *Q6H4A6TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.8.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *Q6H4A6TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.8.2021, částka  20000.00 CZK"
 29.07.2021,-302500,Bezhotovostní platba,"",ČSSD,308,36721,,"Ewing s.r.o.,  návrh a strategie k volbám, ústředí"
 29.07.2021,40000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z ÚS ČSSD na volby PS PČR,,,,převod z ÚS ČSSD na volby PS PČR

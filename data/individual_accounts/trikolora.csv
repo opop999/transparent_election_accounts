@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+05.08.2021,-8250,Platba převodem uvnitř banky,"",platba za právní služby - kandidátní listiny,308,2021131,,platba za právní služby - kandidátní listiny
+05.08.2021,-4450,Platba převodem uvnitř banky,"",výroba PVC banerů - Ústecký kraj,,,,výroba PVC banerů - Ústecký kraj
+05.08.2021,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů
+05.08.2021,-3296.04,Bezhotovostní platba,"",platba za tisk reklamních prostředků - Olomoucký kraj,308,8288909,,platba za tisk reklamních prostředků - Olomoucký kraj
 03.08.2021,-106755,Bezhotovostní platba,"",pronájem výlepových ploch Rengl Moravskoslezský kraj,308,1022565,,pronájem výlepových ploch Rengl Moravskoslezský kraj
 03.08.2021,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost
 03.08.2021,-7260,Bezhotovostní platba,"",platba Hertzmann - český volič,308,21074,,platba Hertzmann - český volič
