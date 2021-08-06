@@ -15,12 +15,14 @@
 
 -Training and deployement of a classification model to help identify transaction types. 
 
-### Current status (30 July 2021):
+### Current status (6 August 2021):
 -We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger. We can use the R-Lib repository for GH Actions (on macOS-latest), but, for better compatibility, we chose an appropriate Docker container (rocker/tidyverse on ubuntu-latest).
 
 -We have sychronized the structure of the repository with other repositories under the pre-election monitoring umbrella
 
 -Dashboard is finalized and contains further links of interest, including data sources
+
+-First version of trained machine learning algoritm (based on random forest) is available in the "ml_model" folder together with visualizations and experimental labelling of new, out-of-sample data
 
 ### Target transparent bank accounts (incomplete list - work in progress):
 
