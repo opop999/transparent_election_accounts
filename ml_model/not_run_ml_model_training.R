@@ -3,7 +3,7 @@
 #############REPLACE WITH QUANTEDA????
 
 # Package names
-packages <- c("tidyr", "dplyr", "data.table", "tm", "textclean", "wordcloud", "e1071", "caret", "randomForest", "cvms", "tidytext", "readr", "gt")
+packages <- c("tidyr", "dplyr", "data.table", "tm", "textclean", "wordcloud", "e1071", "caret", "randomForest", "cvms", "tidytext", "readr", "gt", "ranger")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -17,7 +17,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 # 2. Create corpus
 # Load raw dataset without the company info (which we do not need for this machine learning model) 
 # We have 3789 transactions with labels of type 
-raw_transaction_dataset <- readRDS("doc/ml_model_training/1_text_classification_non_tokenized_company_info.rds") %>% 
+raw_transaction_dataset <- readRDS("ml_model/1_text_classification_non_tokenized_company_info.rds") %>% 
  select(-firma)
 
 # Remove non-ASCII characters from Czech language, which could pose problem.
@@ -159,8 +159,9 @@ set.seed(2021)
 model_svm_2 <- svm(x = train_transaction_matrix, y = train_transaction_labels, scale = FALSE) 
 
 set.seed(2021)
-# tuned_rf <- tuneRF(x = train_transaction_matrix, y = train_transaction_labels) # mtry = 144 is suggested
+tuned_rf <- tuneRF(x = train_transaction_matrix, y = train_transaction_labels, mtryStart = 576, ntreeTry = 100) # mtry = 144 is suggested
 model_rf_2 <- randomForest(x = train_transaction_matrix, y = train_transaction_labels, do.trace = 100, ntree = 500, mtry = 144) 
+model_rf_2_ra <- ranger(x = train_transaction_matrix, y = train_transaction_labels, num.trees = 1000, mtry = 288, importance = "impurity") 
 
 summary(model_nb_2)
 summary(model_svm_2)
@@ -176,15 +177,20 @@ pred_svm_2 <- predict(object = model_svm_2, newdata = test_transaction_matrix)
 set.seed(2021)
 pred_rf_2 <- predict(object = model_rf_2, newdata = test_transaction_matrix)
 
+set.seed(2021)
+pred_rf_2_ra <- predict(object = random_forest_classification_model, newdata = test_transaction_matrix)
+
 # Check accuracy:
 confusionMatrix(data = pred_nb_2, reference = test_transaction_labels)
 confusionMatrix(data = pred_svm_2, reference = test_transaction_labels)
 confusionMatrix(data = pred_rf_2, reference = test_transaction_labels)
+confusionMatrix(data = pred_rf_2_ra, reference = test_transaction_labels)
+
 
 # Save models to RDS
-saveRDS(model_nb_2, "doc/ml_models/nb_2.rds")
-saveRDS(model_svm_2, "doc/ml_models/svm_2.rds")
-saveRDS(model_rf_2, "doc/ml_models/rf_2.rds")
+saveRDS(model_nb_2, "ml_model/nb_2.rds")
+saveRDS(model_svm_2, "ml_model/svm_2.rds")
+saveRDS(model_rf_2, "ml_model/random_forest_classification_model.rds")
 
 
 # 5. VERDICT: Best performing model is Random Forest trained on 1342 features, 500 trees, mtry parameter of 144 and 80/20 training-test split
