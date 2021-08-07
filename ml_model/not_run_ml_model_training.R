@@ -207,8 +207,8 @@ plot_confusion_matrix(basic_table,
                       counts_col = "n",
                       add_normalized = FALSE,
                       diag_percentages_only = FALSE,
-                      add_row_percentages = FALSE,
-                      add_col_percentages = FALSE)
+                      add_row_percentages = TRUE,
+                      add_col_percentages = TRUE)
 
 # Visualize differences between categories in a WordCloud
 transaction_dataset_tokenized <- raw_transaction_dataset %>% 
