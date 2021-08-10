@@ -24,16 +24,38 @@
 
 -First version of trained machine learning algoritm (based on random forest) is available in the "ml_model" folder together with visualizations and experimental labelling of new, out-of-sample data
 
-### Target transparent bank accounts (incomplete list - work in progress):
+### Target transparent bank accounts (work in progress - due to the complexity of scraping, not all accounts have to be available in their entirety):
 
-| **POLITICAL SUBJECT**                 | **URL**                                                   | **WORKS?**              |
-| :---                                  | :---                                                      | :---                    |
-| Piráti a Starostové                   | <https://ib.fio.cz/ib/transparent?a=2601909155>           | TRUE                    |
-| ODS, KDU-ČSL a TOP 09                 | <https://ib.fio.cz/ib/transparent?a=-48>                  | TRUE                    |
-| SPD                                   | <https://ib.fio.cz/ib/transparent?a=-49>                  | TRUE                    |
-| ČSSD                                  | <https://ib.fio.cz/ib/transparent?a=-50>                  | TRUE                    |
-| Trikolóra                             | <https://ib.fio.cz/ib/transparent?a=2001915105>           | TRUE                    |
-| Strana zelených                       | <https://ib.fio.cz/ib/transparent?a=2801916675>           | TRUE                    |
-| Přísaha                               | <https://ib.fio.cz/ib/transparent?a=2201968914>           | TRUE                    |
-| ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4090453>            | NOT YET                 |
-| KSČM                                  | <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303>                        | NOT YET                 |
+| **POLITICAL SUBJECT**                 | **URL**                                                   | **TYPE OF ACCOUNT**        |
+| :---                                  | :---                                                      | :---                       |
+| Piráti a Starostové                   | <https://ib.fio.cz/ib/transparent?a=2601909155>           | EXPENSE                    |
+| ODS, KDU-ČSL a TOP 09                 | <https://ib.fio.cz/ib/transparent?a=-48>                  | EXPENSE                    |
+| SPD                                   | <https://ib.fio.cz/ib/transparent?a=-49>                  | EXPENSE                    |
+| ČSSD                                  | <https://ib.fio.cz/ib/transparent?a=-50>                  | EXPENSE                    |
+| Trikolóra                             | <https://ib.fio.cz/ib/transparent?a=2001915105>           | EXPENSE                    |
+| Strana zelených                       | <https://ib.fio.cz/ib/transparent?a=2801916675>           | EXPENSE                    |
+| Přísaha                               | <https://ib.fio.cz/ib/transparent?a=2201968914>           | EXPENSE                    |
+| ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4090453>         | EXPENSE                    |
+| KSČM                                  | <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303>   | EXPENSE                    |
+| ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4070217>         | DONATION                   |
+| ČSSD                                  | <https://ib.fio.cz/ib/transparent?a=-8>                   | DONATION                   |
+| KDU-ČSL                               | <https://ib.fio.cz/ib/transparent?a=2501710691>           | DONATION                   |
+| KSČM                                  | <https://transparentniucty.moneta.cz/homepage/-/transparent-account/7777377773>        | DONATION                   |
+| ODS                                   | <https://ib.fio.cz/ib/transparent?a=2701178564>           | DONATION                   |
+| Piráti                                | <https://ib.fio.cz/ib/transparent?a=2100048174>           | DONATION                   |
+| Přísaha                               | <https://ib.fio.cz/ib/transparent?a=2701968902>           | DONATION                   |
+| SPD                                   | <https://ib.fio.cz/ib/transparent?a=2900839572>           | DONATION                   |
+| STAN                                  | <https://ib.fio.cz/ib/transparent?a=2401286707>           | DONATION                   |
+| TOP 09                                | <https://www.csas.cz/cs/transparentni-ucty#/000000-0020091122>           | DONATION                   |
+| Trikolóra                             | <https://ib.fio.cz/ib/transparent?a=3402078007>           | DONATION                   |
+| Rozumní                               | <https://ib.fio.cz/ib/transparent?a=2901125336>           | DONATION                   |
+| Svobodní                              | <https://ib.fio.cz/ib/transparent?a=7505075050>           | DONATION                   |
+| Soukromníci                           | <https://www.kb.cz/cs/transparentni-ucty/115-3902720297>  | DONATION                   |
+| Zelení                                | <https://ib.fio.cz/ib/transparent?a=2400146729>           | DONATION                   |
+
+
+
+
+
+
+
