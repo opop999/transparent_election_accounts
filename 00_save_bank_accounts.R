@@ -73,3 +73,38 @@ donation_accounts_fio <- list(
 )
 
 saveRDS(donation_accounts_fio, paste0(subdir_name, "/donation_accounts_fio.rds"), compress = FALSE)
+
+
+# This list is for expense accounts extracted through Hlidac Statu API
+expense_accounts_hlidac <- list(
+  names = c(
+    "ano_2011",
+    "kscm"
+  ),
+  numbers = c(
+    "4090453/0100",
+    "217343303/0300"
+  )
+)
+
+saveRDS(expense_accounts_hlidac, paste0(subdir_name, "/expense_accounts_hlidac.rds"), compress = FALSE)
+
+# This list is for donation accounts extracted through Hlidac Statu API
+donation_accounts_hlidac <- list(
+  names = c(
+    "ano_2011",
+    "kscm_moneta",
+    "kscm_csob",
+    "top_09",
+    "soukromnici"
+  ),
+  numbers = c(
+    "4070217/0100",
+    "7777377773/0600",
+    "280728599/0300",
+    "20091122/0800",
+    "115-3902720297/0100"
+  )
+)
+
+saveRDS(donation_accounts_hlidac, paste0(subdir_name, "/donation_accounts_hlidac.rds"), compress = FALSE)

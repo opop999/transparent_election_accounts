@@ -1,11 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-08-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
 2021-08-06,200,Bezhotovostní příjem,KOSNER JAN,prispevek priznivce Jan Kosner,8,9356,,KOSNER JAN,svobodni
 2021-08-06,5000,Bezhotovostní příjem,ERIK MARECEK,DAR PRIZNIVCE,,9355,,ERIK MARECEK,svobodni
 2021-08-06,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
 2021-08-05,5000,Bezhotovostní příjem,ACTIV Z.S.,Dar pro Svobodní Jihočeský kraj,0,82019,0,ACTIV Z.S.,svobodni
 2021-08-02,5e+05,Platba převodem uvnitř banky,"Ing. Skalický, Jan",Dar pro Jihočeský kraj,,82016,,Dar pro Jihočeský kraj,svobodni
 2021-08-02,5e+05,Bezhotovostní příjem,PAVLÍČEK SLAVOMÍR,Dar Jihocesky kraj,0,82015,0,PAVLÍČEK SLAVOMÍR,svobodni
+2021-08-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
 2021-08-01,100,Okamžitá příchozí platba,JAKUB GREGOR,dar příznivce,0,8158,0,JAKUB GREGOR,svobodni
 2021-07-28,-50000,Platba převodem uvnitř banky,"",převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-07-26,-50000,Platba převodem uvnitř banky,"",převod prostředků na výdajový účet volební kampaně do PSP ČR (na výdaj krajské kampaně JČK),,,,převod prostředků na výdajový účet volební kampaně do PSP ČR (na výdaj krajské kampaně JČK),svobodni

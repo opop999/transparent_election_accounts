@@ -103,6 +103,7 @@ scrape_fio_donation_accounts <- function(donation_accounts_fio, dir_name) {
       print(paste("No transactions on the account of party", donation_accounts_fio[[1]][i], "between", start_date, "and", end_date))
     } else if (length(fio_tables) > 1) {
       table_transactions <- fio_tables[[2]]
+      print(paste(dim(table_transactions)[1], "transactions on the account of party", donation_accounts_fio[[1]][i], "between", start_date, "and", end_date))
       colnames(table_transactions) <- c(
         "date",
         "amount",
@@ -133,6 +134,9 @@ scrape_fio_donation_accounts <- function(donation_accounts_fio, dir_name) {
 
   # Only append the full dataset if there are valid records from yesterday
   if (!dim(yesterday_data)[1] == 0) {
+    
+    print(paste(dim(yesterday_data)[1], "transactions on some of the selected bank accounts between", start_date, "and", end_date, "- will append"))
+    
     # Load in the existing full dataset merge with yesterday's new data
     all_data <- readRDS(paste0(dir_name, "/donation_accounts/fio_donation_merged_data.rds"))
 
@@ -151,7 +155,7 @@ scrape_fio_donation_accounts <- function(donation_accounts_fio, dir_name) {
       fwrite(x = split_dataset[[i]], file = paste0(dir_name, "/donation_accounts/individual_donation_accounts/", names(split_dataset[i]), ".csv"))
     }
   } else if (dim(yesterday_data)[1] == 0) {
-    print("No transactions yesterday on any of the monitored accounts - no need to append")
+    print(paste("No transactions on any of the selected bank accounts between", start_date, "and", end_date, "no need to append"))
   }
 }
 
@@ -198,7 +202,7 @@ scrape_fio_donation_accounts <- function(donation_accounts_fio, dir_name) {
 
 dir_name <- "data" # Specify the folder, where the tables will be saved
 
-start_date <- format(Sys.Date() - 1, "%d.%m.%Y") # We select yesterday's date in required format by FIO bank
+start_date <- format(Sys.Date() - 8, "%d.%m.%Y") # We select date a week ago in a required format by FIO bank
 
 end_date <- format(Sys.Date() - 1, "%d.%m.%Y") # Same as start_date - we only want yesterday
 

@@ -9,10 +9,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
 2021-08-09,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 604423 05.08.2021 c 3002JOSEFPQATLIDOVCI LIDOVCUM,0,0,999,"CESKA POSTA, S.P.",kdu-csl
 2021-08-09,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 604423 05.08.2021 c 3001LUDMILA*PRATOVALIDOVCI 0 LIDOVCUM,0,0,999,"CESKA POSTA, S.P.",kdu-csl
-2021-08-10,1000,Okamžitá příchozí platba,Zajícová Marie,tornado,308,999,999,Zajícová Marie,kdu-csl
-2021-08-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
-2021-08-10,5000,Bezhotovostní příjem,SKULINKOVA ANEZKA,612059,125,0,999,SKULINKOVA ANEZKA,kdu-csl
-2021-08-10,3000,Bezhotovostní příjem,Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Benešík Ondřej,kdu-csl
 2021-08-06,500,Okamžitá příchozí platba,KLEMENT GERYK,"",,,999,KLEMENT GERYK,kdu-csl
 2021-08-06,1000,Okamžitá příchozí platba,Straka Karel,Straka Bludov 175,308,,999,Straka Karel,kdu-csl
 2021-08-06,500,Bezhotovostní příjem,Jaroslav Papák,Lidovci lidovcům,,,999,Jaroslav Papák,kdu-csl
@@ -26,6 +22,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-03,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2021-08-02,1200,Bezhotovostní příjem,PSOTKA KAMIL,Dar KDU-CSL Zlin Kamil Psotka,,0,801,PSOTKA KAMIL,kdu-csl
 2021-08-02,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
+2021-08-10,1000,Okamžitá příchozí platba,Zajícová Marie,tornado,308,999,999,Zajícová Marie,kdu-csl
+2021-08-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
+2021-08-10,5000,Bezhotovostní příjem,SKULINKOVA ANEZKA,612059,125,0,999,SKULINKOVA ANEZKA,kdu-csl
+2021-08-10,3000,Bezhotovostní příjem,Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Benešík Ondřej,kdu-csl
 2021-07-30,5000,Okamžitá příchozí platba,"MUDr.Jajtner Pavel,M","MUDr. Pavel JAJTNER, Nerudova 8, 669 02 Znojmo",0,,999,"MUDr.Jajtner Pavel,M",kdu-csl
 2021-07-29,300,Bezhotovostní příjem,HORAKOVA HELENA,Helena Horakova  67139 Beharovice16  sbirka tornado,,0,999,HORAKOVA HELENA,kdu-csl
 2021-07-29,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl

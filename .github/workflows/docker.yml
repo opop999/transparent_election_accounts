@@ -22,6 +22,11 @@ jobs:
       run: Rscript 00_save_bank_accounts.R
     - name: Scrape FIO bank accounts
       run: Rscript 01_scrape_fio_accounts.R
+    - name: Scrape bank accounts using Hlidac statu APIs
+    # This action needs a Hlidac Statu API token as an environment variable (we are using GitHub Secrets)
+      env:
+          HS_TOKEN: ${{ secrets.HS_TOKEN }}
+      run: Rscript 01_scrape_hlidac_accounts.R
     - name: Create summary tables
       run: Rscript 02_create_summary_tables.R
     - name: Install Flexdashboard package

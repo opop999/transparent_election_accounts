@@ -7,7 +7,7 @@
 ## Goal: Extraction & analysis of transparent election bank accounts of political parties/movements 
 
 ### We aim for an automated workflow, which would inform analysts covering the financing of the Czech 2021 parliamentary elections. This would ideally include:
--Extraction of the raw tables with transactions data, providing complete information. To this end, we directly scrape the bank accounts using Rvest package. In the automatization part, we use GitHub Actions which run using a [Docker container](https://hub.docker.com/u/rocker) to provide better compatibility and robustness.
+-Extraction of the raw tables with transactions data, providing complete information. To this end, we directly scrape the bank accounts using Rvest package and [Hlidac Statu API](https://www.hlidacstatu.cz/data/Index/transparentni-ucty-transakce) . In the automatization part, we use GitHub Actions which run using a [Docker container](https://hub.docker.com/u/rocker) to provide better compatibility and robustness.
 
 -Transformation of the data to only include transactions of interest.
 
@@ -15,12 +15,12 @@
 
 -Training and deployement of a classification model to help identify transaction types. 
 
-### Current status (6 August 2021):
+### Current status (10 August 2021):
 -We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger. We can use the R-Lib repository for GH Actions (on macOS-latest), but, for better compatibility, we chose an appropriate Docker container (rocker/tidyverse on ubuntu-latest).
 
 -We have sychronized the structure of the repository with other repositories under the pre-election monitoring umbrella
 
--Dashboard is finalized and contains further links of interest, including data sources
+-Dashboard is finalized and contains further links of interest, including data sources (not yet for all accounts)
 
 -First version of trained machine learning algoritm (based on random forest) is available in the "ml_model" folder together with visualizations and experimental labelling of new, out-of-sample data
 
@@ -49,7 +49,7 @@
 | Svobodní                              | <https://ib.fio.cz/ib/transparent?a=7505075050>           | DONATION                   |
 | Zelení                                | <https://ib.fio.cz/ib/transparent?a=2400146729>           | DONATION                   |
 | ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4070217>         | DONATION                   |
-| KSČM                                  | <https://transparentniucty.moneta.cz/homepage/-/transparent-account/7777377773> <https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/280728599> | DONATION                   |
+| KSČM                                  | <https://transparentniucty.moneta.cz/homepage/-/transparent-account/7777377773> <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/280728599> | DONATION                   |
 | TOP 09                                | <https://www.csas.cz/cs/transparentni-ucty#/000000-0020091122>           | DONATION                   |
 | Soukromníci                           | <https://www.kb.cz/cs/transparentni-ucty/115-3902720297>  | DONATION                   |
 
