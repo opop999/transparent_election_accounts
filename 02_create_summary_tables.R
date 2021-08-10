@@ -13,7 +13,7 @@ if (any(installed_packages == FALSE)) {
 invisible(lapply(packages, library, character.only = TRUE))
 
 # Load the table created in the previous step
-full_transactions_table <- readRDS("data/merged_data.rds")
+full_transactions_table <- readRDS("data/expense_accounts/fio_expense_merged_data.rds")
 
 # Create a desired output directory, if one does not yet exist
 if (!dir.exists("data/summary_tables")) {
