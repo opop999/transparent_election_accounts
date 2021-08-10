@@ -1,0 +1,128 @@
+date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-07-25,-90000,Okamžitá odchozí platba,"",převod z účtu dary na provozní účet strany,,1,26585979,převod z účtu dary na provozní účet strany,rozumni
+2021-07-02,3e+05,Bezhotovostní příjem,Pavel Sehnal,DAR politické straně,0,1071964,,Pavel Sehnal,rozumni
+2021-07-01,300,Bezhotovostní příjem,"Šejna Jiří,ml.","dar,datum narození 24.9.1957,obec libchavy",0,,,"Šejna Jiří,ml.",rozumni
+2021-06-22,1000,Okamžitá příchozí platba,Fišer Petr,Krupka - dar,0,301059,,Fišer Petr,rozumni
+2021-06-20,1000,Okamžitá příchozí platba,Kuchař Ladislav,Dar 070254 Horni Pocaply,0,,,Kuchař Ladislav,rozumni
+2021-06-18,500,Bezhotovostní příjem,STANEK FRANTISEK,"Dar, Praha, F. Stanek",,90447,,STANEK FRANTISEK,rozumni
+2021-05-07,500,Bezhotovostní příjem,KOČÍ JINDŘICH,"dar - Jindřich Kočí, České Budějovice",0,60973,7306091221,KOČÍ JINDŘICH,rozumni
+2021-02-14,1000,Platba převodem uvnitř banky,"Filipová, Alena",DAR ALENA FILIPOVÁ,,80846,881946,DAR ALENA FILIPOVÁ,rozumni
+2021-01-11,1000,Bezhotovostní příjem,FIKAR MILAN,Dar - Milan Fikar - Jankovice,,15121955,,FIKAR MILAN,rozumni
+2021-01-04,-10000,Platba převodem uvnitř banky,"",z účtu dary na účet volby do PS P ČR 2021,,,,z účtu dary na účet volby do PS P ČR 2021,rozumni
+2020-12-31,990,Okamžitá příchozí platba,Buchar Jaroslav,DAR,0,241247,,Buchar Jaroslav,rozumni
+2020-12-23,500,Platba převodem uvnitř banky,"Lomoz, Jiří","Dar vánoční - Jiří Lomoz, Praha 8",,60258,,"Dar vánoční - Jiří Lomoz, Praha 8",rozumni
+2020-12-20,1000,Platba převodem uvnitř banky,"Filipová, Alena",DAR ALENA FILIPOVÁ,,80846,,DAR ALENA FILIPOVÁ,rozumni
+2020-12-18,200,Bezhotovostní příjem,Krajcová Marie,Dar - volby,0,445602,,Krajcová Marie,rozumni
+2020-12-17,200,Bezhotovostní příjem,MILOSLAV ZAZA,PŘEVOD PROSTŘEDKŮ 5.5.1949 JESENÍK- DAR,,490505,,MILOSLAV ZAZA,rozumni
+2020-12-15,300,Okamžitá příchozí platba,Smíšková Milada,"Smíšková, Františkovy Lázně dar",308,8011945,,Smíšková Milada,rozumni
+2020-12-15,300,Bezhotovostní příjem,ZMATLIK JIRI,"Dar pro ROZUMNI Jiri Zmatlik,narozen 01.06.1940",,1,26585979,ZMATLIK JIRI,rozumni
+2020-12-14,-200,Okamžitá odchozí platba,"",Děkujeme. Je nutné při platbě uvést slovo DAR. Pošlete znovu a uveďte DAR bez toho nelze přijmout,,1,26585979,Děkujeme. Je nutné při platbě uvést slovo DAR. Pošlete znovu a uveďte DAR,rozumni
+2020-12-14,1000,Okamžitá příchozí platba,Kuchař Ladislav,horni  pocaply dar.,0,,7021954,Kuchař Ladislav,rozumni
+2020-12-13,600,Okamžitá příchozí platba,Černoch Jan,dar jan cernoch olomouc,0,50246,,Černoch Jan,rozumni
+2020-12-11,500,Okamžitá příchozí platba,"Krejčí Václav,Mgr.","DAR - Václav Krejčí, Opava",0,23011946,,"Krejčí Václav,Mgr.",rozumni
+2020-12-10,200,Bezhotovostní příjem,SALAKOVA MARIA,dar    Maria Salakova  Brno,,23031943,,SALAKOVA MARIA,rozumni
+2020-12-10,200,Bezhotovostní příjem,MALÍK MILAN,DAR,0,530406254,0,MALÍK MILAN,rozumni
+2020-12-09,200,Bezhotovostní příjem,ZMATLIK JIRI,"Jiri Zmatlik, Teplice PSC 41501,Frani Sramka 2575, nar. 01.06.1940",,0,1061940,ZMATLIK JIRI,rozumni
+2020-12-09,500,Okamžitá příchozí platba,KINDERMANNOVÁ MARI,DAR Marie Kindermannová 090748 Chomutov,,,,KINDERMANNOVÁ MARI,rozumni
+2020-09-30,-100,Okamžitá odchozí platba,"",S díky vracíme dar neboť kromě slova DAR musí být ještě uvedeno datum narození a obec bydliště,,202005,,S díky vracíme dar neboť kromě slova DAR musí být ještě uvedeno datum narození  a obec bydliště,rozumni
+2020-09-29,100,Bezhotovostní příjem,KURTEV VÍT,DAR,0,0,0,KURTEV VÍT,rozumni
+2020-09-25,500,Okamžitá příchozí platba,KREJČÍ JOSEF,"Josef Krejčí, 24.3.1964, DAR",,,,KREJČÍ JOSEF,rozumni
+2020-09-24,5000,Okamžitá příchozí platba,"KOUŘILOVÁ, S.R.O.",DAR,,27540286,,"KOUŘILOVÁ, S.R.O.",rozumni
+2020-09-24,-300,Okamžitá odchozí platba,"","ve zprávě pro příjemce musí být uvedeno slovo DAR, prosím, pošlete znovu se slovem DAR děkuji",,26585979,,"ve zprávě pro příjemce musí být uvedeno slovo DAR, prosím, pošlete znovu se slovem DAR děkuji",rozumni
+2020-09-24,-5000,Okamžitá odchozí platba,"","Vratka daru.  VS: IČ firmy, ve zprávě pro příjemce musí být uvedeno DAR  děkuji",,26585979,,"Vratka daru.  VS: IČ firmy, ve zprávě pro příjemce musí být uvedeno DAR  děkuji",rozumni
+2020-09-24,5000,Bezhotovostní příjem,HANNIG PETR,"dar Petr Hannig, Praha",,20014601,,HANNIG PETR,rozumni
+2020-09-22,1000,Platba převodem uvnitř banky,"Pořízková, Šárka","17.2.1979, Tovačov, DAR",,,,"17.2.1979, Tovačov, DAR",rozumni
+2020-09-21,-15000,Platba převodem uvnitř banky,"",z darů na krajské volby,,,,z darů na krajské volby,rozumni
+2020-09-19,1000,Okamžitá příchozí platba,Ivan Cícha,"DAR od nar.8.1.1962,Tábor",0,1,,Ivan Cícha,rozumni
+2020-09-17,900,Bezhotovostní příjem,JANŮ JIŘÍ,"DAR, Janů, 1954, Kosova Hora",308,1954,0,JANŮ JIŘÍ,rozumni
+2020-09-15,500,Platba převodem uvnitř banky,"Gawlas, Roman",Dar od Roman Gawlas 3.2. 1952 Janského 410   79081 Česká Ves,,,,Dar od Roman Gawlas 3.2. 1952 Janského 410   79081 Česká Ves,rozumni
+2020-09-15,300,Bezhotovostní příjem,VLČKOVÁ IRENA MARI,6.6.1964 Štoky,,,,VLČKOVÁ IRENA MARI,rozumni
+2020-09-14,5000,Okamžitá příchozí platba,"KOUŘILOVÁ, S.R.O.",30.12.1960 Havlíčkův Brod,,27540286,,"KOUŘILOVÁ, S.R.O.",rozumni
+2020-09-14,500,Platba převodem uvnitř banky,"PaedDr. Kindermannová, Marie","Kindermannová Marie, Všehrdy 48,  9.7.1948   DAR",,202002,,"Kindermannová Marie, Všehrdy 48,  9.7.1948   DAR",rozumni
+2020-09-14,1500,Bezhotovostní příjem,KOCMAN PETR,DAR PETR KOCMAN SUSICE,308,71159,591107,KOCMAN PETR,rozumni
+2020-09-14,500,Bezhotovostní příjem,SIMEK ZDENEK,"Zdenek Simek, 26.8.1942, NadejovDAR",,0,,SIMEK ZDENEK,rozumni
+2020-09-12,1000,Platba převodem uvnitř banky,"Pořízková, Šárka","24.3.1980, Kyselovice, DAR",,,,"24.3.1980, Kyselovice, DAR",rozumni
+2020-09-12,1000,Platba převodem uvnitř banky,"Pořízková, Šárka","17.2.1979, Tovačov, DAR",,,,"17.2.1979, Tovačov, DAR",rozumni
+2020-09-11,-26200,Platba převodem uvnitř banky,"",z účtu pro dary na účet pro krajské volby 2020,,,,z účtu pro dary na účet pro krajské volby 2020,rozumni
+2020-09-11,950,Bezhotovostní příjem,SLEZÁK STANISLAV,28.06.1956 Bošovice  DAR,0,0,0,SLEZÁK STANISLAV,rozumni
+2020-09-11,14000,Bezhotovostní příjem,HANNIG PETR,Petr Hannig 200146 Praha DAR,,202004,,HANNIG PETR,rozumni
+2020-09-11,9000,Bezhotovostní příjem,HANNIG PETR,Petr Hannig 200146 Praha DAR,,202003,200146,HANNIG PETR,rozumni
+2020-09-10,-9000,Platba převodem uvnitř banky,"",z darů na krajské volby,,,,z darů na krajské volby,rozumni
+2020-09-09,1000,Okamžitá příchozí platba,Kuchař Ladislav,"7.2.1954 horni pocaply,  dar.",0,,,Kuchař Ladislav,rozumni
+2020-09-09,500,Platba převodem uvnitř banky,"Linhart, Karel",DAR,558,23101947,,DAR,rozumni
+2020-09-09,900,Okamžitá příchozí platba,Nowak Arnold,"dar, Arnold Nowak,",558,1,550310,Arnold Nowak 10. 3. 1955 dar,rozumni
+2020-09-09,-500,Platba převodem uvnitř banky,"","V účelu platby musí být slovo DAR, prosím pošlete do zprávy: jm. příjmení dat narození a DAR",,202002,26585979,"V účelu platby musí být slovo DAR, prosím pošlete do zprávy: jm. příjmení dat narození a DAR",rozumni
+2020-09-09,-500,Okamžitá odchozí platba,"","V účelu platby musí být slovo DAR, prosím pošlete do zprávy: jm. příjmení dat narození a DAR",,202001,26585979,"V účelu platby musí být slovo DAR, prosím pošlete do zprávy: jm. příjmení dat narození a DAR",rozumni
+2020-09-09,-21780,Platba převodem uvnitř banky,"",z darů na krajské volby,,,,z darů na krajské volby,rozumni
+2020-09-08,1000,Okamžitá příchozí platba,Jan Schneider,"5.5.1954,Vrbovec, účel DAR",558,5051954,,Jan Schneider,rozumni
+2020-09-08,500,Okamžitá příchozí platba,KREJČÍ JOSEF,"21.3.1964, Havlíčkův Brod",,,,KREJČÍ JOSEF,rozumni
+2020-09-08,200,Okamžitá příchozí platba,Vašková Ludmila,Dar od Ludm. Vaškové Cizkrajov 56 h,0,,,Vašková Ludmila,rozumni
+2020-09-08,-18150,Platba převodem uvnitř banky,"",z darů na krajské volby,,,,z darů na krajské volby,rozumni
+2020-09-06,500,Platba převodem uvnitř banky,"PaedDr. Kindermannová, Marie",09071948 Chomutov,,,,09071948 Chomutov,rozumni
+2020-09-05,1000,Platba převodem uvnitř banky,"Pořízková, Šárka","17.2.1979, Tovačov, DAR",,,,"17.2.1979, Tovačov, DAR",rozumni
+2020-09-05,1000,Platba převodem uvnitř banky,"Filipová, Alena",DAR OD ALENY FILIPOVÉ HRADEC KRÁLOVÉ,,2901125336,465808019,DAR OD ALENY FILIPOVÉ HRADEC KRÁLOVÉ,rozumni
+2020-09-04,300,Bezhotovostní příjem,MILOSLAV ZAZA,PŘEVOD PROSTŘEDKŮ 5.5.1949 JESENÍK- DAR,,490505,,MILOSLAV ZAZA,rozumni
+2020-09-03,48000,Bezhotovostní příjem,HANNIG PETR,dar,,20202,26585979,HANNIG PETR,rozumni
+2020-09-03,-17388,Platba převodem uvnitř banky,"",z účtu pro dary na účet pro krajské volby 2020,,,,z účtu pro dary na účet pro krajské volby 2020,rozumni
+2020-09-02,17388,Platba převodem uvnitř banky,"Ing. Pelikán, Josef",dar,,,,dar,rozumni
+2020-08-28,-80344,Platba převodem uvnitř banky,"",z účtu pro dary na účet pro volby 2020,,,,z účtu pro dary na účet pro volby 2020,rozumni
+2020-08-20,80344,Bezhotovostní příjem,HANNIG PETR,dar,,202001,265859,HANNIG PETR,rozumni
+2019-06-05,900,Bezhotovostní příjem,HANNIG PETR,dar strane ROZUMNI na provoz strany,,200146,,HANNIG PETR,rozumni
+2019-05-28,-9000,Platba převodem uvnitř banky,"",z darů na výdaje EU volby 2019,,,,z darů na výdaje EU volby 2019,rozumni
+2019-05-28,8700,Platba převodem uvnitř banky,Národní demokracie,dar Národní demokracie,,,,dar Národní demokracie,rozumni
+2019-05-23,-15000,Platba převodem uvnitř banky,"",z darů na výdaje EU volby 2019,,,,z darů na výdaje EU volby 2019,rozumni
+2019-05-21,7260,Platba převodem uvnitř banky,Národní demokracie,dar Národní demokracie,,,,dar Národní demokracie,rozumni
+2019-05-21,-20000,Platba převodem uvnitř banky,"",z darů na výdaje EU volby 2019,,,,z darů na výdaje EU volby 2019,rozumni
+2019-05-21,400,Bezhotovostní příjem,BEDNARČÍK PETR,"Bednarčík, Vimperk",308,11011961,0,BEDNARČÍK PETR,rozumni
+2019-05-21,500,Bezhotovostní příjem,"Szczyrbová Karin,Ing","Dar Karin Szczyrbová, Karviná, 17.1.1981",0,0,0,"Szczyrbová Karin,Ing",rozumni
+2019-05-21,14000,Bezhotovostní příjem,HANNIG PETR,dar Petr Hannig,,2001,,HANNIG PETR,rozumni
+2019-05-20,10000,Platba převodem uvnitř banky,Národní demokracie,dar Národní demokracie,,,,dar Národní demokracie,rozumni
+2019-05-17,980,Bezhotovostní příjem,"Šopko František,RNDr","František Šopko, Praha, 11.3.1962",0,11031962,0,"Šopko František,RNDr",rozumni
+2019-05-16,-5000,Platba převodem uvnitř banky,"",z darů na výdaje EU volby,,,,z darů na výdaje EU volby,rozumni
+2019-05-15,100,Bezhotovostní příjem,RUZICKA JAN,Dar.,1,1936,2,RUZICKA JAN,rozumni
+2019-05-15,5000,Platba převodem uvnitř banky,Národní demokracie,dar Národní demokracie,,,,dar Národní demokracie,rozumni
+2019-05-14,950,Bezhotovostní příjem,GÖNDÖR ALEXANDER,Alexander Gönör 210545   Nyrsko,308,450521714,0,GÖNDÖR ALEXANDER,rozumni
+2019-05-14,850,Bezhotovostní příjem,Antonín Pajdla,"",308,123,,Antonín Pajdla,rozumni
+2019-04-25,-13000,Platba převodem uvnitř banky,"",z darů na kampaň EU 2019,,,,z darů na kampaň EU 2019,rozumni
+2019-04-24,13000,Platba převodem uvnitř banky,Národní demokracie,dar Národní demokracie,,,,dar Národní demokracie,rozumni
+2019-04-16,-33000,Platba převodem uvnitř banky,"",z darů na výdaje EU 2019,,,,z darů na výdaje EU 2019,rozumni
+2019-04-10,1500,Bezhotovostní příjem,KOČÍ JINDŘICH,dar,0,7306091221,0,KOČÍ JINDŘICH,rozumni
+2019-04-09,10000,Bezhotovostní příjem,Cícha Ivan,"Dar,Ivan Cícha,8.1.1962,Tábor",,1,,Cícha Ivan,rozumni
+2019-04-06,100,Platba převodem uvnitř banky,"Růžička, Jan","LIBEREC, NA EUROVOLBY NARODNI DEMOKRACIE",,170451,,"LIBEREC, NA EUROVOLBY NARODNI DEMOKRACIE",rozumni
+2019-02-27,1020,Bezhotovostní příjem,BARTOŇ STANISLAV,Stanislav Bartoň Zbilidy,8,27022019,,BARTOŇ STANISLAV,rozumni
+2019-02-26,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 104149 23.02.2019 c 4001ZDENEKS1N1TNAYER,0,0,,"CESKA POSTA, S.P.",rozumni
+2019-02-25,200,Bezhotovostní příjem,Milena Frýbová,frýbová Praha  dar pro Rozumnbí,,120242,,Milena Frýbová,rozumni
+2019-02-25,500,Bezhotovostní příjem,Smíšková Milada,Frant. Lázně MSm,308,80145,0,Smíšková Milada,rozumni
+2019-02-22,200,Bezhotovostní příjem,Eva Horsáková,ostrava,308,280848,,Eva Horsáková,rozumni
+2019-02-21,100,Bezhotovostní příjem,Pelechová Ludmila,PELECHOVA,0,410718,0,Pelechová Ludmila Zlín,rozumni
+2019-02-21,200,Bezhotovostní příjem,Ing. Libor David,Opava,0,110949,,Ing. Libor David,rozumni
+2019-02-20,320,Platba převodem uvnitř banky,"Hlaváčková, Dana","",308,20101953,,"Dana Hlaváčková, Brandýs nad Labem",rozumni
+2019-02-20,100,Bezhotovostní příjem,NEJMAN JIRI,JN z Ml.Boleslavi-eurovolby,,210249,,NEJMAN JIRI,rozumni
+2019-02-19,999,Bezhotovostní příjem,DURĎÁKOVÁ IVANA,Luhačovice,,161167,,DURĎÁKOVÁ IVANA,rozumni
+2019-02-19,5000,Bezhotovostní příjem,Kloudová Lenka,"K.Kloud, Na Křtině 251, 149 00 P4",,,,Kloudová Lenka,rozumni
+2019-02-18,100,Platba převodem uvnitř banky,"Mgr. Bergmannová, Kamila",posílám z Liberec,,270948,,posílám z Liberec,rozumni
+2019-01-16,-100,Platba převodem uvnitř banky,"",zb účtu dary na volební účet EUvolby 2018,,,,zb účtu dary na volební účet EUvolby 2018,rozumni
+2018-10-15,-26348,Platba převodem uvnitř banky,"",z darů na senátní výdaje,,,,z darů na senátní výdaje,rozumni
+2018-10-08,-10000,Platba převodem uvnitř banky,"",z darů na senátní výdaje,,,,z darů na senátní výdaje,rozumni
+2018-10-04,-40000,Platba převodem uvnitř banky,"","",,,,"",rozumni
+2018-10-01,-100,Bezhotovostní platba,"",Dle zákona musíme uvádět celé datum narození a to u Vašeho daru nemáme. S omluvou vracíme,0,1982,0,Dle zákona musíme uvádět celé datum narození a to u Vašeho daru nemám. S omluvou vracíme,rozumni
+2018-09-24,9900,Bezhotovostní příjem,HANNIG PETR,dar strane ROZUMNI,,2011946,23,HANNIG PETR,rozumni
+2018-09-24,20000,Bezhotovostní příjem,"Hušák Aleš,JUDr.",dar na volební kampaň od Aleš Hušák,0,0,0,"Hušák Aleš,JUDr.",rozumni
+2018-09-21,10120,Bezhotovostní příjem,HANNIG PETR,dar strane ROZUMNI,,200146,23,HANNIG PETR,rozumni
+2018-09-21,-10000,Bezhotovostní platba,"",vráceno na provozní účet Rozumných (omylem z něho posláno na darovací účet),308,200146,23,vráceno na provozní účet Rozumných (omylem z něho posláno na darovací účet),rozumni
+2018-09-20,10000,Bezhotovostní příjem,ROZUMNI,dar strane ROZUMNI,,200146,23,ROZUMNI,rozumni
+2018-09-19,-14000,Platba převodem uvnitř banky,"",z darů na senátní výdajový účet,,,,z darů na senátní výdajový účet,rozumni
+2018-09-19,-6050,Platba převodem uvnitř banky,"",z darů na senátní výdajový účet,,,,z darů na senátní výdajový účet,rozumni
+2018-09-18,2800,Platba převodem uvnitř banky,Národní demokracie,dar Národní demokracie,,,,dar Národní demokracie,rozumni
+2018-09-17,6050,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 601157 13.09.2018 c 3024LUCIEZAJICOVADAR,0,59,6081963,"CESKA POSTA, S.P.",rozumni
+2018-09-11,4400,Bezhotovostní příjem,ŠAFÁŘ MIROSLAV MVDR,zdravim safar miroslav,8,1,0,ŠAFÁŘ MIROSLAV MVDR,rozumni
+2018-09-11,1000,Bezhotovostní příjem,"KLEMENT JOSEF, ING.","",,4111951,,"KLEMENT JOSEF, ING.",rozumni
+2018-09-06,-32000,Platba převodem uvnitř banky,"",zb účtu dary na volební účet Senát 2018,,,,zb účtu dary na volební účet Senát 2018,rozumni
+2018-09-06,500,Bezhotovostní příjem,Smíšková Milada,"M.Smíšková, Frant.Lázně",308,8011945,0,Smíšková Milada,rozumni
+2018-09-05,-50000,Platba převodem uvnitř banky,"",převod z účtu dary na volební účet Senát,,,,převod z účtu dary na volební účet Senát,rozumni
+2018-08-24,100,Bezhotovostní příjem,BABOR JAN,208105,,1141984,,BABOR JAN,rozumni
+2018-08-22,1000,Vklad v hotovosti,Zdeněk Vavřínek,"",558,,,Zdeněk Vavřínek,rozumni
+2018-08-22,1000,Bezhotovostní příjem,Kouřilová Jana,Jana Kouřilová Havlíčkův Brod,308,21082018,603319670,Kouřilová Jana,rozumni
+2018-08-17,20000,Bezhotovostní příjem,HANNIG PETR,dar na kampan od predseda strany,,200146,,HANNIG PETR,rozumni
+2018-08-13,200,Bezhotovostní příjem,"Šejna Jiří,ml.","",,240957,,"Šejna Jiří,ml.",rozumni
+2018-08-13,22000,Bezhotovostní příjem,Kotek Vladimír MUDr,"MUDr. Vladimír Kotek Ph.D., MBA",0,6007141723,0,Kotek Vladimír MUDr,rozumni

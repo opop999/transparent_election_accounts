@@ -2,17 +2,23 @@
 # to be modified. We can add and remove the monitored bank accounts pages and then
 # we save the list to a rds file, which is read to the main extraction script.
 
-dir_name <- "data/list_of_monitored_accounts" # Specify the folder, where the list of accounts will be saved
+maindir_name <- "data"
 
-if (!dir.exists(dir_name)) {
-  dir.create(dir_name)
+if (!dir.exists(maindir_name)) {
+  dir.create(maindir_name)
 } else {
   print("Output directory already exists")
 }
 
+subdir_name <- "data/list_of_monitored_accounts" # Specify the folder, where the list of accounts will be saved
+
+if (!dir.exists(subdir_name)) {
+  dir.create(subdir_name)
+} else {
+  print("Output directory already exists")
+}
 
 # This list is for FIO election expense accounts
-
 expense_accounts_fio <- list(
   names = c(
     "pirati_stan",
@@ -34,10 +40,9 @@ expense_accounts_fio <- list(
  )
 )
 
-saveRDS(expense_accounts_fio, paste0(dir_name, "/expense_accounts_fio.rds"), compress = FALSE)
+saveRDS(expense_accounts_fio, paste0(subdir_name, "/expense_accounts_fio.rds"), compress = FALSE)
 
 # This list is for FIO donation accounts
-
 donation_accounts_fio <- list(
   names = c(
     "cssd",      
@@ -67,4 +72,4 @@ donation_accounts_fio <- list(
    )
 )
 
-saveRDS(donation_accounts_fio, paste0(dir_name, "/donation_accounts_fio.rds"), compress = FALSE)
+saveRDS(donation_accounts_fio, paste0(subdir_name, "/donation_accounts_fio.rds"), compress = FALSE)

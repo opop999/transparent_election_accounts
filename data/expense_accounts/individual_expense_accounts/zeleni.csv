@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+10.08.2021,1237.83,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO KHK na volební účet SZ - volby do PS PČR 2021,,,52,Převod prostředků KO KHK na volební účet SZ - volby do PS PČR 2021
+09.08.2021,7055,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
 05.08.2021,38621,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,100702021,569810,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021
 05.08.2021,-786.5,Platba převodem uvnitř banky,"",FA 2021-0009 - pronájem komunikačních přístrojů,,20210009,,"SZ - Prague Whispers, s. r. o."
 05.08.2021,-43621,Bezhotovostní platba,"",FA 1-0070/2021 - propagační video,8,100702021,569810,"ZO Hradec Králové - Dimension advertising, s. r. o."
