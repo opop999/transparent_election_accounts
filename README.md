@@ -37,21 +37,21 @@
 | Přísaha                               | <https://ib.fio.cz/ib/transparent?a=2201968914>           | EXPENSE                    |
 | ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4090453>         | EXPENSE                    |
 | KSČM                                  | <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/217343303>   | EXPENSE                    |
-| ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4070217>         | DONATION                   |
 | ČSSD                                  | <https://ib.fio.cz/ib/transparent?a=-8>                   | DONATION                   |
 | KDU-ČSL                               | <https://ib.fio.cz/ib/transparent?a=2501710691>           | DONATION                   |
-| KSČM                                  | <https://transparentniucty.moneta.cz/homepage/-/transparent-account/7777377773>        | DONATION                   |
 | ODS                                   | <https://ib.fio.cz/ib/transparent?a=2701178564>           | DONATION                   |
 | Piráti                                | <https://ib.fio.cz/ib/transparent?a=2100048174>           | DONATION                   |
 | Přísaha                               | <https://ib.fio.cz/ib/transparent?a=2701968902>           | DONATION                   |
 | SPD                                   | <https://ib.fio.cz/ib/transparent?a=2900839572>           | DONATION                   |
 | STAN                                  | <https://ib.fio.cz/ib/transparent?a=2401286707>           | DONATION                   |
-| TOP 09                                | <https://www.csas.cz/cs/transparentni-ucty#/000000-0020091122>           | DONATION                   |
 | Trikolóra                             | <https://ib.fio.cz/ib/transparent?a=3402078007>           | DONATION                   |
 | Rozumní                               | <https://ib.fio.cz/ib/transparent?a=2901125336>           | DONATION                   |
 | Svobodní                              | <https://ib.fio.cz/ib/transparent?a=7505075050>           | DONATION                   |
-| Soukromníci                           | <https://www.kb.cz/cs/transparentni-ucty/115-3902720297>  | DONATION                   |
 | Zelení                                | <https://ib.fio.cz/ib/transparent?a=2400146729>           | DONATION                   |
+| ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4070217>         | DONATION                   |
+| KSČM                                  | <https://transparentniucty.moneta.cz/homepage/-/transparent-account/7777377773> <https://www.csob.cz/portal/podnikatele-firmy-a-instituce/produkty/ucty-a-platebni-styk/bezne-platebni-ucty/transparentni-ucet/ucet/-/tu/280728599> | DONATION                   |
+| TOP 09                                | <https://www.csas.cz/cs/transparentni-ucty#/000000-0020091122>           | DONATION                   |
+| Soukromníci                           | <https://www.kb.cz/cs/transparentni-ucty/115-3902720297>  | DONATION                   |
 
 
 

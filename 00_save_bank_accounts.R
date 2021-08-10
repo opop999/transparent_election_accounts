@@ -2,10 +2,21 @@
 # to be modified. We can add and remove the monitored bank accounts pages and then
 # we save the list to a rds file, which is read to the main extraction script.
 
-accounts_fio <- list(
+dir_name <- "data/list_of_monitored_accounts" # Specify the folder, where the list of accounts will be saved
+
+if (!dir.exists(dir_name)) {
+  dir.create(dir_name)
+} else {
+  print("Output directory already exists")
+}
+
+
+# This list is for FIO election expense accounts
+
+expense_accounts_fio <- list(
   names = c(
     "pirati_stan",
-    "ods_kdu_top09",
+    "ods_kdu-csl_top09",
     "spd",
     "cssd",
     "trikolora",
@@ -23,4 +34,37 @@ accounts_fio <- list(
  )
 )
 
-saveRDS(accounts_fio, "data/accounts_fio.rds", compress = FALSE)
+saveRDS(expense_accounts_fio, paste0(dir_name, "/expense_accounts_fio.rds"), compress = FALSE)
+
+# This list is for FIO donation accounts
+
+donation_accounts_fio <- list(
+  names = c(
+    "cssd",      
+    "kdu-csl",
+    "ods",       
+    "pirati",    
+    "prisaha",   
+    "spd",    
+    "stan",      
+    "trikolora", 
+    "rozumni",   
+    "svobodni",  
+    "zeleni"    
+  ),
+  links = c(
+   "https://ib.fio.cz/ib/transparent?a=-8",
+   "https://ib.fio.cz/ib/transparent?a=2501710691",
+   "https://ib.fio.cz/ib/transparent?a=2701178564",
+   "https://ib.fio.cz/ib/transparent?a=2100048174",
+   "https://ib.fio.cz/ib/transparent?a=2701968902",
+   "https://ib.fio.cz/ib/transparent?a=2900839572",
+   "https://ib.fio.cz/ib/transparent?a=2401286707",
+   "https://ib.fio.cz/ib/transparent?a=3402078007",
+   "https://ib.fio.cz/ib/transparent?a=2901125336",
+   "https://ib.fio.cz/ib/transparent?a=7505075050",
+   "https://ib.fio.cz/ib/transparent?a=2400146729"
+   )
+)
+
+saveRDS(donation_accounts_fio, paste0(dir_name, "/donation_accounts_fio.rds"), compress = FALSE)
