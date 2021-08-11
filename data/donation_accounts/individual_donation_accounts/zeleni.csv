@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-10,500,Bezhotovostní příjem,SENK ROBERT,DAR na kampan,,9003018,,SENK ROBERT,zeleni
+2021-08-10,150,Bezhotovostní příjem,Bořivoj Švásta,dar,0,,,Bořivoj Švásta,zeleni
+2021-08-10,300,Bezhotovostní příjem,Jiří Kotouček,"Dar Straně zelených. 1/3 SZ, 1/3 KO Praha, 1/3 ZO Praha 7",,,,Jiří Kotouček,zeleni
+2021-08-10,200,Bezhotovostní příjem,KUDRNÁČ MICHAL,Dar-Michal Kudrnac,,9002656,,KUDRNÁČ MICHAL,zeleni
+2021-08-10,150,Bezhotovostní příjem,KAPLAN HYNEK,dar,,9002578,,KAPLAN HYNEK,zeleni
+2021-08-10,2500,Bezhotovostní příjem,MICHALK ZALOUDEK MAT,"DAR pravidelny ZO 1500, SZ 1000",,5276,,MICHALK ZALOUDEK MAT,zeleni
+2021-08-10,500,Bezhotovostní příjem,Ing.Nesrstová Jitka,dar,0,9002596,,Ing.Nesrstová Jitka,zeleni
+2021-08-10,150,Bezhotovostní příjem,Pokorná Zuzana,Dar pro ZO Brno-stred,0,6021118,0,Pokorná Zuzana,zeleni
+2021-08-10,400,Bezhotovostní příjem,Kubesa Ondřej,DAR ZO OPAVA,0,,,Kubesa Ondřej,zeleni
+2021-08-10,300,Bezhotovostní příjem,Mgr.Ducháčková Chotk,"DAR - 100,- ZO P6; 100,- kraj Praha; 100,- Z ČR",0,9002609,,Mgr.Ducháčková Chotk,zeleni
+2021-08-10,600,Bezhotovostní příjem,Mgr.Heringová Hana,DAR 400 KČ ZO PRAHA 5 / 200 KČ KO PRAHA / 200 KČ SZ,0,9002577,,Mgr.Heringová Hana,zeleni
+2021-08-10,300,Bezhotovostní příjem,PhDr.Fialková Lenka,dar,0,9001714,0,PhDr.Fialková Lenka,zeleni
+2021-08-10,300,Bezhotovostní příjem,Mgr.Panaš Petr,dar ZO Litoměřice,0,9002698,,Mgr.Panaš Petr,zeleni
+2021-08-10,7000,Bezhotovostní příjem,Krásný Ondřej,dar,0,9003014,,Krásný Ondřej,zeleni
+2021-08-10,100,Bezhotovostní příjem,Pavelková Zuzana,dar,,9002961,,Pavelková Zuzana,zeleni
+2021-08-10,100,Platba převodem uvnitř banky,"Vosecká Veselá, Blanka",dar,,1001025,,dar,zeleni
 2021-08-09,5000,Okamžitá příchozí platba,Česká spořitelna,Dar - pro volební kampaň v jihomoravském kraji,0,8111073,,Česká spořitelna,zeleni
 2021-08-09,100,Platba převodem uvnitř banky,"Křížová, Jarmila",Jarmila Křížová dar,,,,Jarmila Křížová dar,zeleni
 2021-08-09,2000,Okamžitá příchozí platba,Česká spořitelna,DAR na kampaň,0,9003017,,Česká spořitelna,zeleni
@@ -68,22 +84,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-02,1187,Bezhotovostní příjem,Ing.Čejka Jiří,"Čejka J., 294 46 Semčice 130-dar pro KO Stč. kraje",0,,,Ing.Čejka Jiří,zeleni
 2021-08-02,200,Bezhotovostní příjem,BONUŠ VĚNEK,DAR,0,9002591,0,BONUŠ VĚNEK,zeleni
 2021-08-02,3000,Bezhotovostní příjem,Pomahač Matěj,Dar,0,9002987,,Pomahač Matěj,zeleni
-2021-08-10,500,Bezhotovostní příjem,SENK ROBERT,DAR na kampan,,9003018,,SENK ROBERT,zeleni
-2021-08-10,150,Bezhotovostní příjem,Bořivoj Švásta,dar,0,,,Bořivoj Švásta,zeleni
-2021-08-10,300,Bezhotovostní příjem,Jiří Kotouček,"Dar Straně zelených. 1/3 SZ, 1/3 KO Praha, 1/3 ZO Praha 7",,,,Jiří Kotouček,zeleni
-2021-08-10,200,Bezhotovostní příjem,KUDRNÁČ MICHAL,Dar-Michal Kudrnac,,9002656,,KUDRNÁČ MICHAL,zeleni
-2021-08-10,150,Bezhotovostní příjem,KAPLAN HYNEK,dar,,9002578,,KAPLAN HYNEK,zeleni
-2021-08-10,2500,Bezhotovostní příjem,MICHALK ZALOUDEK MAT,"DAR pravidelny ZO 1500, SZ 1000",,5276,,MICHALK ZALOUDEK MAT,zeleni
-2021-08-10,500,Bezhotovostní příjem,Ing.Nesrstová Jitka,dar,0,9002596,,Ing.Nesrstová Jitka,zeleni
-2021-08-10,150,Bezhotovostní příjem,Pokorná Zuzana,Dar pro ZO Brno-stred,0,6021118,0,Pokorná Zuzana,zeleni
-2021-08-10,400,Bezhotovostní příjem,Kubesa Ondřej,DAR ZO OPAVA,0,,,Kubesa Ondřej,zeleni
-2021-08-10,300,Bezhotovostní příjem,Mgr.Ducháčková Chotk,"DAR - 100,- ZO P6; 100,- kraj Praha; 100,- Z ČR",0,9002609,,Mgr.Ducháčková Chotk,zeleni
-2021-08-10,600,Bezhotovostní příjem,Mgr.Heringová Hana,DAR 400 KČ ZO PRAHA 5 / 200 KČ KO PRAHA / 200 KČ SZ,0,9002577,,Mgr.Heringová Hana,zeleni
-2021-08-10,300,Bezhotovostní příjem,PhDr.Fialková Lenka,dar,0,9001714,0,PhDr.Fialková Lenka,zeleni
-2021-08-10,300,Bezhotovostní příjem,Mgr.Panaš Petr,dar ZO Litoměřice,0,9002698,,Mgr.Panaš Petr,zeleni
-2021-08-10,7000,Bezhotovostní příjem,Krásný Ondřej,dar,0,9003014,,Krásný Ondřej,zeleni
-2021-08-10,100,Bezhotovostní příjem,Pavelková Zuzana,dar,,9002961,,Pavelková Zuzana,zeleni
-2021-08-10,100,Platba převodem uvnitř banky,"Vosecká Veselá, Blanka",dar,,1001025,,dar,zeleni
 2021-08-01,500,Platba převodem uvnitř banky,"Gubiš, Jindřich",dar pro krajskou organizaci Libereckého kraje,,,,dar pro krajskou organizaci Libereckého kraje,zeleni
 2021-07-30,2000,Platba převodem uvnitř banky,"Polášek, Martin",dar,,9002992,,dar,zeleni
 2021-07-30,500,Bezhotovostní příjem,SENK ROBERT,dar,,9002991,,SENK ROBERT,zeleni

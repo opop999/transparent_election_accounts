@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-10,20000,Bezhotovostní příjem,"EP CONSULT, S.R.O.","DAR, EP Consult, s.r.o.",0,2608210004,2608,"EP CONSULT, S.R.O.",ods
 2021-08-09,55000,Bezhotovostní příjem,"VANKOVA MARKETA, JUD",Dar - ODS,0,3201210035,,"VANKOVA MARKETA, JUD",ods
 2021-08-08,20000,Okamžitá příchozí platba,MUDr. Jan MOKŘÍŠ,"DAR, Jan Mokris",308,3400210018,,MUDr. Jan MOKŘÍŠ,ods
 2021-08-05,5000,Okamžitá příchozí platba,JUDr.Tomáš Bouzek,"DAR, Tomáš Bouzek",,2300210007,,JUDr.Tomáš Bouzek,ods
@@ -13,7 +14,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-03,1e+05,Bezhotovostní příjem,ŽALUD TOMÁŠ,"DAR, Tomas Zalud",0,2200210015,0,ŽALUD TOMÁŠ,ods
 2021-08-03,5000,Bezhotovostní příjem,LAZAROVA - ELBIS,darovaci smlouva - ODS,,2600210018,,LAZAROVA - ELBIS,ods
 2021-08-03,15000,Bezhotovostní příjem,LAZAROVA - ELBIS,darovaci smlouva - ODS,,2608210005,,LAZAROVA - ELBIS,ods
-2021-08-10,20000,Bezhotovostní příjem,"EP CONSULT, S.R.O.","DAR, EP Consult, s.r.o.",0,2608210004,2608,"EP CONSULT, S.R.O.",ods
 2021-07-31,5000,Okamžitá příchozí platba,LANGOVÁ LENKA,"DAR, Lenka Langová",308,3000210030,,LANGOVÁ LENKA,ods
 2021-07-30,-145000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
 2021-07-29,3500,Bezhotovostní příjem,SKLOBENDL S.R.O.,"",0,0,0,"SKLOBENDL S.R.O.DAR , VS 3403210001",ods

@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-10,250000,Bezhotovostní příjem,ANTLOVA LEONA,"DAR,LEONA ANTLOVA",,1151515,,ANTLOVA LEONA,trikolora
+2021-08-10,-110,Bezhotovostní platba,"",vrácení úroku daru,,,,vrácení úroku daru,trikolora
+2021-08-10,-10000,Bezhotovostní platba,"",vrácení daru TSS,,,,vrácení daru TSS,trikolora
+2021-08-10,200,Bezhotovostní příjem,Urbanec Ladislav,DAR Ladislav Urbanec,0,,,Urbanec Ladislav,trikolora
+2021-08-10,66000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Karlovarský kraj,0,3333333,0,STRANA SOUKROMNÍKŮ Č,trikolora
+2021-08-10,160000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Pardubický kraj,0,3888888,0,STRANA SOUKROMNÍKŮ Č,trikolora
+2021-08-10,81,Platba převodem uvnitř banky,"Šafář, Václav",DAR příspěvek RP 27/07/1976,308,4000345,,DAR příspěvek RP 27/07/1976,trikolora
 2021-08-09,2e+05,Bezhotovostní příjem,"FINEP HOLDING, SE",Volebni prispevek pro Prahu,,27927822,,"FINEP HOLDING, SE",trikolora
 2021-08-09,100,Bezhotovostní příjem,Michal Obrusník,DAR příspěvek RP 06/05/70,0,6000417,,Michal Obrusník,trikolora
 2021-08-09,1e+05,Platba převodem uvnitř banky,"Mgr. Coufal, Bohuslav","Dar TSS, parlamentní volby 2021",,3777777,,"Dar TSS, parlamentní volby 2021",trikolora
@@ -17,13 +24,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-03,50000,Bezhotovostní příjem,TROJAN JAN,DAR Jan Trojan,,5711030317,,TROJAN JAN,trikolora
 2021-08-02,1000,Okamžitá příchozí platba,Ing.Zůna Zdeněk,Zdenek Zuna,0,11002032,,Ing.Zůna Zdeněk,trikolora
 2021-08-02,7e+05,Platba převodem uvnitř banky,"MANIFEST.CZ,z.s.",Mnaifest.cz - Pravá Svoboda a Prosperita,,,,Mnaifest.cz - Pravá Svoboda a Prosperita,trikolora
-2021-08-10,250000,Bezhotovostní příjem,ANTLOVA LEONA,"DAR,LEONA ANTLOVA",,1151515,,ANTLOVA LEONA,trikolora
-2021-08-10,-110,Bezhotovostní platba,"",vrácení úroku daru,,,,vrácení úroku daru,trikolora
-2021-08-10,-10000,Bezhotovostní platba,"",vrácení daru TSS,,,,vrácení daru TSS,trikolora
-2021-08-10,200,Bezhotovostní příjem,Urbanec Ladislav,DAR Ladislav Urbanec,0,,,Urbanec Ladislav,trikolora
-2021-08-10,66000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Karlovarský kraj,0,3333333,0,STRANA SOUKROMNÍKŮ Č,trikolora
-2021-08-10,160000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Pardubický kraj,0,3888888,0,STRANA SOUKROMNÍKŮ Č,trikolora
-2021-08-10,81,Platba převodem uvnitř banky,"Šafář, Václav",DAR příspěvek RP 27/07/1976,308,4000345,,DAR příspěvek RP 27/07/1976,trikolora
 2021-07-30,200,Okamžitá příchozí platba,Šula Jaromír,DAR Jaromír Šula 28.3.1970,0,,,Šula Jaromír,trikolora
 2021-07-29,1e+05,Bezhotovostní příjem,CHLAD RICHARD,"",0,1151515,0,CHLAD RICHARD,trikolora
 2021-07-29,1e+06,Bezhotovostní příjem,Ing. Antonín Fryč CS,dar Fryč Antonín,0,,,Ing. Antonín Fryč CS,trikolora
