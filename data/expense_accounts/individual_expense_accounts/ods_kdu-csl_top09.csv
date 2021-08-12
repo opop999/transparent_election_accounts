@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+11.08.2021,-500,Bezhotovostní platba,"","",308,1260000778,3200,"3200-Úřad městské části Brna města, zábor"
+11.08.2021,-7100,Bezhotovostní platba,"","",0,4,3200,"3200-Zuzana Kupčíková, správní poplatky"
+11.08.2021,-7180.82,Bezhotovostní platba,"","",0,3,3200,"3200-Michal Pátek , PHM vol. auto"
+11.08.2021,-16801,Platba převodem uvnitř banky,"","",308,210202,3300,"3300-Milan Daněk , polep MHD"
+11.08.2021,-16940,Platba převodem uvnitř banky,"","",308,212102088,3300,"3300-Regionální vydavatelství s.r.o., inzerce tištěná"
+11.08.2021,-68000,Bezhotovostní platba,"","",308,1190000033,2100,"2100-Nemocnice Milosrdných sester , srdíčka"
+11.08.2021,-720,Bezhotovostní platba,"","",558,1343000164,2200,"2200- Město Říčany , poplatek užívání veř. prostranství"
+11.08.2021,-2500,Bezhotovostní platba,"","",308,402021,2300,"2300-Ozvěny Jihozápadní moravy, inzerce letní kino"
+11.08.2021,-1936,Bezhotovostní platba,"","",0,5149000010,3000,"3000-Městský úřad český Těšín, přípojka elektřiny"
 10.08.2021,-2500,Okamžitá odchozí platba,"",lukas.paclt@ods.cz,378,2021016,2200,"2200-Tělocvičná jednota Sokol Roztoky, pronájem LK"
 10.08.2021,-220825,Bezhotovostní platba,"","",308,210100080,1114,"1114-Dream PRO s.r.o., propagační předměty"
 10.08.2021,-103348,Bezhotovostní platba,"","",308,120210362,1114,"1114-TOP SERVICE MANAGEMENT , rekl. kampań na FBC"

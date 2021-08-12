@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+11.08.2021,500,Platba převodem uvnitř banky,"BlueGhost.cz, s.r.o.",Odměna za výzkum Zuzana Harmáčková,,,,Odměna za výzkum Zuzana Harmáčková
+11.08.2021,-701.8,Bezhotovostní platba,"","FA 1121021275 - Hosting BASIC stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210124650,52,HKK - Ivana Šnircová
+11.08.2021,-536.03,Bezhotovostní platba,"","FA 1121012784 - registrace domény stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210114885,52,HKK - Ivana Šnircová
+11.08.2021,-20000,Bezhotovostní platba,"",FA 2021017 - správa sociálních sítí a strategie,,2021017,,SZ - Matěj Fišer
+11.08.2021,-7055,Bezhotovostní platba,"",FA 20210016 - tajemnice KO JMK 2021/07,308,20210016,64,JMK - Lenka Zemanová
+11.08.2021,-1673,Bezhotovostní platba,"",PD 681008 - trička (Lemicom s. r. o.),,681008,,SZ - Kateřina Písačková
+11.08.2021,-10000,Bezhotovostní platba,"",FA 2021-0015 - marketingové poradenství a exekutiva PR,,20210015,,SZ - Kateřina Písačková
 11.08.2021,-2420,Karetní transakce,"","Nákup: FACEBK *QTXJ57TJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 10.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *QTXJ57TJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 10.8.2021, částka  2420.00 CZK"
 10.08.2021,1237.83,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO KHK na volební účet SZ - volby do PS PČR 2021,,,52,Převod prostředků KO KHK na volební účet SZ - volby do PS PČR 2021
 09.08.2021,7055,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021

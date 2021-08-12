@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-11,-20.11,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
+2021-08-11,-100,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
+2021-08-11,-275,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-08-11,-266,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-08-11,-700,Platba převodem uvnitř banky,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-08-11,-500,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-08-11,-20000,Platba převodem uvnitř banky,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-08-11,-3000,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-08-11,-100,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše data narození a adresu bydliště, děkujeme",spd
+2021-08-11,-2.14,Bezhotovostní platba,"",Vrácení darů od neidentifikovaných dárců do státního rozpočtu,,4134940,,Vrácení darů od neidentifikovaných dárců do státního rozpočtu,spd
+2021-08-11,1,Platba převodem uvnitř banky,"Konečný, Erik","Pan Volný tvrdí pane Okamuro,že podle jejich průzkumů mají 7-20procent.Takže asi záleží pro koho a kdo, v jakém znění pokládá otázky a komu.",,,,"Pan Volný tvrdí pane Okamuro,že podle jejich průzkumů mají 7-20procent.Takže asi záleží pro koho a kdo, v jakém znění pokládá otázky a komu.",spd
+2021-08-11,50000,Okamžitá příchozí platba,ZLÍNSKÝ VLADIMÍR,"dar ,polovina částky z důvodu omezení denním limitem povolené platky bankou",,76001,,ZLÍNSKÝ VLADIMÍR,spd
+2021-08-11,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
 2021-08-10,5000,Bezhotovostní příjem,PEMA - EKONOMICKE PO,dar,,0,,PEMA - EKONOMICKE PO,spd
 2021-08-09,1000,Platba převodem uvnitř banky,"Ing. Zaňát, Josef",Dar  ing.Josef Zaňát,,,,Dar  ing.Josef Zaňát,spd
 2021-08-09,1e+05,Bezhotovostní příjem,FIALA RADIM,"",0,77900,0,FIALA RADIM,spd

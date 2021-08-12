@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-11,10000,Okamžitá příchozí platba,Jan Berki,"DAR, Jan Berki, 20.09.1981, Liberec",,20091981,123020521,Jan Berki,stan
+2021-08-11,33750,Platba převodem uvnitř banky,Občanská demokratická strana,DAR- podíl STAN 2.Q.2021,378,2021064,,DAR- podíl STAN 2.Q.2021,stan
 2021-08-04,50000,Bezhotovostní příjem,EKOLOGICKY ROZVOJ A,"dar,ERV,Nam.CSA37,Jaromer,27504514",558,27504514,169070121,DAR - ERV,stan
 2021-08-03,1e+05,Platba převodem uvnitř banky,"Ing. Hájek, Jiří","DAR, Jiří Hájek, 16.9.1961, Pardubice",,160961,117080121,"DAR, Jiří Hájek, 16.9.1961, Pardubice",stan
 2021-07-28,-3e+05,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan

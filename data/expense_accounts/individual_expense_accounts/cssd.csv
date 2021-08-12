@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+12.08.2021,-1725,Karetní transakce,"","Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK",,4376,,"Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK"
+11.08.2021,550000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Zlínský kraj na volby PS PČR,,,,převod z KP Zlínský kraj na volby PS PČR
+11.08.2021,-12100,Okamžitá odchozí platba,"",ČSSD,308,21075,,"Herzmann s.r.o., studie projektu, ústředí"
+11.08.2021,-450000,Platba převodem uvnitř banky,"",ČSSD,308,9210052,,"NMS Market Research SR, kvalitativní výzkum, ústředí"
+11.08.2021,-100,Bezhotovostní platba,"",ČSSD,308,9,,"L.Rašková, správní poplatek, Olomoucký kraj"
+11.08.2021,-24344.99,Bezhotovostní platba,"",ČSSD,308,21110397,,"ARES CZ, pronájem reklamních ploch, Olomoucký kraj"
 09.08.2021,-3267000,Bezhotovostní platba,"",ČSSD,308,32021,,"Ewing s.r.o., 3. část zálohy dle smlouvy, ústředí"
 09.08.2021,3700000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021
 06.08.2021,70000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR"

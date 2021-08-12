@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-11,500,Okamžitá příchozí platba,Mahdalová Ludmila,František Mahdal,0,56260,,Mahdalová Ludmila,kdu-csl
+2021-08-11,62500,Platba převodem uvnitř banky,Občanská demokratická strana,DAR - 2.Q 2021 ( krajské volby ÚL 2020),378,2021061,,DAR - 2.Q 2021 ( krajské volby ÚL 2020),kdu-csl
+2021-08-11,3480,Bezhotovostní příjem,IVO SLAVOTINEK,I.SLAVOTÍNEK_DAR PRO OLOMOUCKÝ KRAJ,,760131,751,IVO SLAVOTINEK,kdu-csl
+2021-08-11,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
+2021-08-11,50000,Bezhotovostní příjem,"SVĚTNIČKA MAREK, DIS",Marek Světnička pro KDU,0,17121969,851,"SVĚTNIČKA MAREK, DIS",kdu-csl
+2021-08-11,3000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
+2021-08-11,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
 2021-08-10,1000,Okamžitá příchozí platba,Česká spořitelna,Lidovci lidovcům,0,,999,Česká spořitelna,kdu-csl
 2021-08-10,1000,Okamžitá příchozí platba,Zajícová Marie,tornado,308,999,999,Zajícová Marie,kdu-csl
 2021-08-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl

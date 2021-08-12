@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-11,1800,Bezhotovostní příjem,NIKOLA STEPANKOVA,PIRÁTSKÝ KEMP - DOPLATEK ŠTĚPÁNKOVI,8,2108144,,NIKOLA STEPANKOVA,pirati
+2021-08-11,30000,Bezhotovostní příjem,V-STAV GROUP SPOL.S,DAR 44015671/193030,,44015671,193030,V-STAV GROUP SPOL.S,pirati
+2021-08-11,300,Okamžitá příchozí platba,Václav Vislous,DAR 44015234/200024,,44015234,200024,Václav Vislous,pirati
+2021-08-11,100,Bezhotovostní příjem,GINO ZALEJSKY,MĚSÍČNÍ PŘÍSPĚVEK - PIRATI,,44013858,1,GINO ZALEJSKY,pirati
+2021-08-11,7961.39,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1540056650,20210810,Global Payments s.r.,pirati
+2021-08-11,200,Bezhotovostní příjem,GREBIKOVA MARKETA,"",,44006561,1,GREBIKOVA MARKETA,pirati
+2021-08-11,200,Bezhotovostní příjem,SÝKORA JAROSLAV,"",,44013900,1,SÝKORA JAROSLAV,pirati
+2021-08-11,200,Bezhotovostní příjem,ELZNIC MAREK,"",,44006532,1,ELZNIC MAREK,pirati
+2021-08-11,1200,Bezhotovostní příjem,DINO ARNAUTOVIČ,DINO - PIRÁTI - ŠEMÍK,0,0,110102,DINO ARNAUTOVIČ,pirati
+2021-08-11,350,Bezhotovostní příjem,HORÁKOVÁ EVA,MSP5 EVA HORAKOVA15081980,0,0,110105,HORÁKOVÁ EVA,pirati
+2021-08-11,250,Platba převodem uvnitř banky,"Brada, Viktor",Podporuji: Centrálu České pirátské strany,,87039,1,Podporuji: Centrálu České pirátské strany,pirati
+2021-08-11,200,Platba převodem uvnitř banky,"Michálek, Vladimír","",,44004062,1,"",pirati
+2021-08-11,2200,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch",Vojtěch Pikal - příspěvek Picolo (náhrada na kancelář),558,,400300,Vojtěch Pikal - příspěvek Picolo (náhrada na kancelář),pirati
+2021-08-11,81378,Bezhotovostní příjem,Hlavenka Jiří,"",,,110600,Hlavenka Jiří,pirati
 2021-08-10,500,Okamžitá příchozí platba,Pavel Sztacho,"",,44014231,193070,Pavel Sztacho,pirati
 2021-08-10,1000,Okamžitá příchozí platba,Pavel Sztacho,"",,44014231,193000,Pavel Sztacho,pirati
 2021-08-10,10000,Platba převodem uvnitř banky,"Ing. Vlčinský, Jan",DAR 44005288/1,,44005288,1,DAR 44005288/1,pirati

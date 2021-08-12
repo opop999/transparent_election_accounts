@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-11,250000,Bezhotovostní příjem,ANTL ROSTISLAV,DAR,0,1151515,0,ANTL ROSTISLAV,trikolora
+2021-08-11,-7.45,Bezhotovostní platba,"",vrácení úroku daru,308,,,vrácení úroku daru,trikolora
+2021-08-11,-3000,Bezhotovostní platba,"",vrácení daru TSS,308,,,vrácení daru TSS,trikolora
+2021-08-11,-95,Bezhotovostní platba,"",vrácení úroku daru,308,,,vrácení úroku daru,trikolora
+2021-08-11,-1e+05,Bezhotovostní platba,"",vrácení daru TSS,308,,,vrácení daru TSS,trikolora
+2021-08-11,30000,Okamžitá příchozí platba,Ing. Ota Košek,Dar pro Lbk,,1555555,,Ing. Ota Košek,trikolora
+2021-08-11,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
+2021-08-11,100,Bezhotovostní příjem,Milena Roháčová,DAR příspěvek RP Friedlová,,11002033,,DAR RP Friedlová 11002033,trikolora
 2021-08-10,250000,Bezhotovostní příjem,ANTLOVA LEONA,"DAR,LEONA ANTLOVA",,1151515,,ANTLOVA LEONA,trikolora
 2021-08-10,-110,Bezhotovostní platba,"",vrácení úroku daru,,,,vrácení úroku daru,trikolora
 2021-08-10,-10000,Bezhotovostní platba,"",vrácení daru TSS,,,,vrácení daru TSS,trikolora
