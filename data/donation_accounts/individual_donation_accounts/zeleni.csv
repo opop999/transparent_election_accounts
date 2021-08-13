@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-12,10000,Okamžitá příchozí platba,Ing.Hrabal Stanislav,Dar na kampaň,308,9003023,,Ing.Hrabal Stanislav,zeleni
+2021-08-12,250,Bezhotovostní příjem,IRENA BURESOVA,DAR IRENA BUREŠOVÁ,,9002881,,IRENA BURESOVA,zeleni
+2021-08-12,1000,Bezhotovostní příjem,JAN MARTINEC,DAR,,9003022,,JAN MARTINEC,zeleni
+2021-08-12,1000,Okamžitá příchozí platba,Gabriela Glöcknerová,Dar,,,,Gabriela Glöcknerová,zeleni
+2021-08-12,100,Bezhotovostní příjem,DRAHORAD VOJTECH,Vojta Drahorad pro P10 - dar,,1001002,,DRAHORAD VOJTECH,zeleni
+2021-08-12,100,Platba převodem uvnitř banky,"Bednařík, Pavel",dar SZ - Pavel Bednařík,,9002562,,dar SZ - Pavel Bednařík,zeleni
 2021-08-11,10000,Okamžitá příchozí platba,Ing.Setničková Novák,dar na kampaň,0,9003021,,Ing.Setničková Novák,zeleni
 2021-08-11,5000,Okamžitá příchozí platba,Mgr. Lenka Pipková,Dar na kampaň,,9003020,,Mgr. Lenka Pipková,zeleni
 2021-08-11,500,Platba převodem uvnitř banky,"Worms, Lucie",Daruji Zelenym,,9002055,,Daruji Zelenym,zeleni
@@ -22,10 +28,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-10,7000,Bezhotovostní příjem,Krásný Ondřej,dar,0,9003014,,Krásný Ondřej,zeleni
 2021-08-10,100,Bezhotovostní příjem,Pavelková Zuzana,dar,,9002961,,Pavelková Zuzana,zeleni
 2021-08-10,100,Platba převodem uvnitř banky,"Vosecká Veselá, Blanka",dar,,1001025,,dar,zeleni
-2021-08-09,5000,Okamžitá příchozí platba,Česká spořitelna,Dar - pro volební kampaň v jihomoravském kraji,0,8111073,,Česká spořitelna,zeleni
+2021-08-09,5000,Okamžitá příchozí platba,Česká spořitelna,Dar - pro volební kampaň v jihomoravském kraji,0,8111073,,Zdeňka Dohnálková,zeleni
 2021-08-09,100,Platba převodem uvnitř banky,"Křížová, Jarmila",Jarmila Křížová dar,,,,Jarmila Křížová dar,zeleni
-2021-08-09,2000,Okamžitá příchozí platba,Česká spořitelna,DAR na kampaň,0,9003017,,Česká spořitelna,zeleni
-2021-08-09,300,Okamžitá příchozí platba,Česká spořitelna,Dar 100 Kč ZO P7 + 100 Kč Praha + 100 Kč SZ,0,,,Česká spořitelna,zeleni
+2021-08-09,2000,Okamžitá příchozí platba,Česká spořitelna,DAR na kampaň,0,9003017,,Aleš Nemochovský,zeleni
+2021-08-09,300,Okamžitá příchozí platba,Česká spořitelna,Dar 100 Kč ZO P7 + 100 Kč Praha + 100 Kč SZ,0,,,Mgr.Brodnicki Hana,zeleni
 2021-08-09,1000,Bezhotovostní příjem,HUŇKA JAN,Dar pro ZOPraha3 100/KO0/SZ0,0,9002390,0,HUŇKA JAN,zeleni
 2021-08-09,3000,Bezhotovostní příjem,Petra Kolínská,DAR na kampaň,,9003013,,Petra Kolínská,zeleni
 2021-08-09,6000,Okamžitá příchozí platba,Bořivoj Švásta,dar na kampaň,,9003016,,Bořivoj Švásta,zeleni
@@ -67,6 +73,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-05,300,Bezhotovostní příjem,HOUDEK LUKÁŠ,DAR,0,9002902,0,HOUDEK LUKÁŠ,zeleni
 2021-08-05,500,Bezhotovostní příjem,KŘÍŽEK PAVEL ING.,DAR,0,9002601,0,KŘÍŽEK PAVEL ING.,zeleni
 2021-08-05,500,Platba převodem uvnitř banky,"Bc. Surý, Ondřej",dar,,9002953,,dar,zeleni
+2021-08-09,5000,Okamžitá příchozí platba,Česká spořitelna,Dar - pro volební kampaň v jihomoravském kraji,0,8111073,,Česká spořitelna,zeleni
+2021-08-09,2000,Okamžitá příchozí platba,Česká spořitelna,DAR na kampaň,0,9003017,,Česká spořitelna,zeleni
+2021-08-09,300,Okamžitá příchozí platba,Česká spořitelna,Dar 100 Kč ZO P7 + 100 Kč Praha + 100 Kč SZ,0,,,Česká spořitelna,zeleni
 2021-08-04,2000,Okamžitá příchozí platba,RNDr. Petr Jehlička,dar,,9002995,,RNDr. Petr Jehlička,zeleni
 2021-08-03,400,Bezhotovostní příjem,Veronika Maria Körne,dar,308,9002085,,Veronika Maria Körne,zeleni
 2021-08-03,100,Bezhotovostní příjem,František Šíma,8801100173 DAR,0,8801100173,,František Šíma,zeleni

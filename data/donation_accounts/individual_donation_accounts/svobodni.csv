@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-12,-50000,Platba převodem uvnitř banky,"",převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-08-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
 2021-08-06,200,Bezhotovostní příjem,KOSNER JAN,prispevek priznivce Jan Kosner,8,9356,,KOSNER JAN,svobodni
 2021-08-06,5000,Bezhotovostní příjem,ERIK MARECEK,DAR PRIZNIVCE,,9355,,ERIK MARECEK,svobodni

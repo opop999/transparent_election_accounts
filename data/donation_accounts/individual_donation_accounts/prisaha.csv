@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-12,-415000,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-08-12,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha
+2021-08-12,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha
+2021-08-12,3438,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-11,2000,Platba převodem uvnitř banky,"Jungmann, Oldřich",dar hnutí pro KV kraj,,,,dar hnutí pro KV kraj,prisaha
 2021-08-11,20000,Bezhotovostní příjem,WALTR STROJE S.R.O.,"",,0,,WALTR STROJE S.R.O.,prisaha
 2021-08-11,1000,Bezhotovostní příjem,BUZKOVA NADEZDA,304015,304,17445,,BUZKOVA NADEZDA,prisaha

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-12,400,Okamžitá příchozí platba,Česká spořitelna,Lidovci lidovcům,0,,999,Česká spořitelna,kdu-csl
+2021-08-12,400,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 601013 10.08.2021 c 5011KARELRYSAVYI LIDOVCI LIDOVCUH,0,0,999,"CESKA POSTA, S.P.",kdu-csl
 2021-08-11,500,Okamžitá příchozí platba,Mahdalová Ludmila,František Mahdal,0,56260,,Mahdalová Ludmila,kdu-csl
 2021-08-11,62500,Platba převodem uvnitř banky,Občanská demokratická strana,DAR - 2.Q 2021 ( krajské volby ÚL 2020),378,2021061,,DAR - 2.Q 2021 ( krajské volby ÚL 2020),kdu-csl
 2021-08-11,3480,Bezhotovostní příjem,IVO SLAVOTINEK,I.SLAVOTÍNEK_DAR PRO OLOMOUCKÝ KRAJ,,760131,751,IVO SLAVOTINEK,kdu-csl

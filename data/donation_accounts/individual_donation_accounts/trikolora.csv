@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-12,100,Bezhotovostní příjem,Tillová Dagmar,DAR příspěvek RP,,6001358,,Tillová Dagmar,trikolora
+2021-08-12,2e+05,Bezhotovostní příjem,Libor Lukáš,DAR LL,,1151515,,Libor Lukáš,trikolora
+2021-08-12,200,Bezhotovostní příjem,FRÁŇA PETR,"",,3000010,,FRÁŇA PETR,trikolora
 2021-08-11,250000,Bezhotovostní příjem,ANTL ROSTISLAV,DAR,0,1151515,0,ANTL ROSTISLAV,trikolora
 2021-08-11,-7.45,Bezhotovostní platba,"",vrácení úroku daru,308,,,vrácení úroku daru,trikolora
 2021-08-11,-3000,Bezhotovostní platba,"",vrácení daru TSS,308,,,vrácení daru TSS,trikolora

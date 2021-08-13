@@ -1,4 +1,34 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-12,5000,Okamžitá příchozí platba,David Němec,"",,44006078,193000,David Němec,pirati
+2021-08-12,1000,Okamžitá příchozí platba,MILOUŠ NAČERADSKÝ,Podpora - Piráti,,44006431,193000,MILOUŠ NAČERADSKÝ,pirati
+2021-08-12,500,Platba převodem uvnitř banky,"Laibl, Jan",DAR 44015681/193000,,44015681,193000,DAR 44015681/193000,pirati
+2021-08-12,1000,Okamžitá příchozí platba,Mgr.Vernerová Jitka,Podporuji: Volební kampaň Pirátů a Starostů,0,44012666,193000,Mgr.Vernerová Jitka,pirati
+2021-08-12,500,Okamžitá příchozí platba,KOVÁŘ LEOŠ,Od.Leoš Kovár,,44003709,193000,KOVÁŘ LEOŠ,pirati
+2021-08-12,200,Okamžitá příchozí platba,LISZTWANOVÁ KRČMOVÁ,DAR 44015293/193000,,44015293,193000,LISZTWANOVÁ KRČMOVÁ,pirati
+2021-08-12,500,Okamžitá příchozí platba,Kondelíková Eliška,DAR 44003647/193000,0,44003647,193000,Kondelíková Eliška,pirati
+2021-08-12,2500,Okamžitá příchozí platba,Lukáš Světnička,DAR 84640/193000,,84640,193000,Lukáš Světnička,pirati
+2021-08-12,1000,Okamžitá příchozí platba,Deml Václavková Jana,"",0,44015275,193000,Deml Václavková Jana,pirati
+2021-08-12,100,Okamžitá příchozí platba,ROKOSOVÁ MICHAELA,DAR 44005858/193000,,44005858,193000,ROKOSOVÁ MICHAELA,pirati
+2021-08-12,1000,Okamžitá příchozí platba,Kloučková Hana,"",0,44003588,193000,Kloučková Hana,pirati
+2021-08-12,300,Okamžitá příchozí platba,Pavlov Denis,DAR 44004267/193000,0,44004267,193000,Pavlov Denis,pirati
+2021-08-12,1e+05,Okamžitá příchozí platba,Ing. Emil Hrdlička,"",,44003378,193000,Ing. Emil Hrdlička,pirati
+2021-08-12,2500,Okamžitá příchozí platba,MgA.Trojánek Tadeáš,DAR 44015674/193070,0,44015674,193070,MgA.Trojánek Tadeáš,pirati
+2021-08-12,500,Okamžitá příchozí platba,Tahmina Gregor,Dar Piratum do volebni kampane,,44010456,193000,Tahmina Gregor,pirati
+2021-08-12,1000,Okamžitá příchozí platba,Karel T. Borovička,DAR 85638/193000,,85638,193000,Karel T. Borovička,pirati
+2021-08-12,2500,Platba převodem uvnitř banky,"Hanousek, Petr",DAR 44010498/193000,,44010498,193000,DAR 44010498/193000,pirati
+2021-08-12,200,Bezhotovostní příjem,Miloslava Hechtová,"",,85333,,Miloslava Hechtová,pirati
+2021-08-12,3000,Bezhotovostní příjem,Jana Komrsková,"",1101,11396,,Jana Komrsková,pirati
+2021-08-12,1500,Bezhotovostní příjem,Jan Adamec,Dar na provoz MS Praha 12,,,110112,Jan Adamec,pirati
+2021-08-12,1000,Okamžitá příchozí platba,Miroslav Němec,Volební kampaň Pirátů a Starostů,,44014246,193000,Miroslav Němec,pirati
+2021-08-12,100,Bezhotovostní příjem,Tomáš Hort,"",,82268,1,Tomáš Hort,pirati
+2021-08-12,6566.8,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1550001431,20210811,Global Payments s.r.,pirati
+2021-08-12,50,Bezhotovostní příjem,MARSIK STEPAN,"",,86502,,MARSIK STEPAN,pirati
+2021-08-12,100,Bezhotovostní příjem,PETRACKOVA BRIGITA,pegi pirati,,82534,1,PETRACKOVA BRIGITA,pirati
+2021-08-12,250,Bezhotovostní příjem,MARIK MILOSLAV,"",,44011413,2,MARIK MILOSLAV,pirati
+2021-08-12,300,Bezhotovostní příjem,BOUDA TOMÁŠ,"",0,86199,110708,BOUDA TOMÁŠ,pirati
+2021-08-12,500,Bezhotovostní příjem,BECK JAN,PIRATES,0,44005705,1,BECK JAN,pirati
+2021-08-12,500,Bezhotovostní příjem,KOZÁK VLASTIMIL,MS ZATEC,0,44014227,111002,KOZÁK VLASTIMIL,pirati
+2021-08-12,333,Bezhotovostní příjem,LIŠKA JAROMÍR,PIRÁTI,0,84507,190000,LIŠKA JAROMÍR,pirati
 2021-08-11,1800,Bezhotovostní příjem,NIKOLA STEPANKOVA,PIRÁTSKÝ KEMP - DOPLATEK ŠTĚPÁNKOVI,8,2108144,,NIKOLA STEPANKOVA,pirati
 2021-08-11,30000,Bezhotovostní příjem,V-STAV GROUP SPOL.S,DAR 44015671/193030,,44015671,193030,V-STAV GROUP SPOL.S,pirati
 2021-08-11,300,Okamžitá příchozí platba,Václav Vislous,DAR 44015234/200024,,44015234,200024,Václav Vislous,pirati
