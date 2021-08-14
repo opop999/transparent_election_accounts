@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-13,500,Platba převodem uvnitř banky,"Mikeštíková, Ludmila",Dar Hnutí Přísaha Zlínský kraj,,,,Dar Hnutí Přísaha Zlínský kraj,prisaha
+2021-08-13,300,Bezhotovostní příjem,JAROMIR DANIEL,JSTE NAŠE NADĚJE,,5607251595,,JAROMIR DANIEL,prisaha
+2021-08-13,10000,Platba převodem uvnitř banky,"Burian, Petr","""DAR HNUTÍ""",338,6504060915,,"""DAR HNUTÍ""",prisaha
+2021-08-13,200,Bezhotovostní příjem,Řezník Michal,Dar hnutí,0,,,Řezník Michal,prisaha
 2021-08-12,-415000,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-08-12,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha
 2021-08-12,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha

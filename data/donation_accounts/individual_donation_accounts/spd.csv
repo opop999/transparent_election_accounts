@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-13,-5e+05,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-13,133,Okamžitá příchozí platba,BEDNÁŘ MILOSLAV,"",,,,BEDNÁŘ MILOSLAV,spd
 2021-08-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
 2021-08-12,3e+05,Bezhotovostní příjem,PAVLÍČEK SLAVOMÍR,Dar SPD Vysocina,0,58601,0,PAVLÍČEK SLAVOMÍR,spd
 2021-08-11,-20.11,Bezhotovostní platba,"",Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd

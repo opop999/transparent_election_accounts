@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+13.08.2021,-500,Platba převodem uvnitř banky,"","vratka mylné platby - BlueGhost.cz, s.r.o.",,,,"vratka mylné platby - BlueGhost.cz, s.r.o."
 11.08.2021,500,Platba převodem uvnitř banky,"BlueGhost.cz, s.r.o.",Odměna za výzkum Zuzana Harmáčková,,,,Odměna za výzkum Zuzana Harmáčková
 11.08.2021,-701.8,Bezhotovostní platba,"","FA 1121021275 - Hosting BASIC stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210124650,52,HKK - Ivana Šnircová
 11.08.2021,-536.03,Bezhotovostní platba,"","FA 1121012784 - registrace domény stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210114885,52,HKK - Ivana Šnircová

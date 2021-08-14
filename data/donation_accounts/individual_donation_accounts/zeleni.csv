@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-13,2000,Okamžitá příchozí platba,Radek Klika,dar,,9003026,,Radek Klika,zeleni
+2021-08-13,100,Okamžitá příchozí platba,MARŠÁLEK DAVID,dar,,9003025,,MARŠÁLEK DAVID,zeleni
+2021-08-13,-100,Platba převodem uvnitř banky,"","vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Jarmila Křížová,zeleni
+2021-08-13,500,Platba převodem uvnitř banky,"BlueGhost.cz, s.r.o.",Odměna za výzkum Zuzana Harmáčková (dar),,,,Odměna za výzkum Zuzana Harmáčková (dar),zeleni
+2021-08-13,150,Bezhotovostní příjem,HANA MATOUSOVA,DAR,,,,HANA MATOUSOVA,zeleni
+2021-08-13,150,Bezhotovostní příjem,RADEK OCELÁK,DAR PRO SZ (CENTRÁLA),,9002621,,RADEK OCELÁK,zeleni
+2021-08-13,200,Bezhotovostní příjem,JIŘÍ ŠKODA,PRAVIDELNÝ DAR PRO STRANU - JIŘÍ ŠKODA,,800604,,JIŘÍ ŠKODA,zeleni
+2021-08-13,200,Bezhotovostní příjem,JIŘÍ ŠKODA,DAR KO USTECKY KRAJ,,,,JIŘÍ ŠKODA,zeleni
+2021-08-13,200,Bezhotovostní příjem,JIŘÍ ŠKODA,DAR ZO USTI NAD LABEM,,,,JIŘÍ ŠKODA,zeleni
+2021-08-13,200,Bezhotovostní příjem,Kocurek Josef,Dar,0,9002630,,Kocurek Josef,zeleni
+2021-08-13,150,Bezhotovostní příjem,Černý Daniel,pravidelný dar,0,9002638,,Černý Daniel,zeleni
+2021-08-13,1000,Bezhotovostní příjem,DAVIS MAGDALÉNA,DAR - ZELENI,0,0,0,DAVIS MAGDALÉNA,zeleni
 2021-08-12,10000,Okamžitá příchozí platba,Ing.Hrabal Stanislav,Dar na kampaň,308,9003023,,Ing.Hrabal Stanislav,zeleni
 2021-08-12,250,Bezhotovostní příjem,IRENA BURESOVA,DAR IRENA BUREŠOVÁ,,9002881,,IRENA BURESOVA,zeleni
 2021-08-12,1000,Bezhotovostní příjem,JAN MARTINEC,DAR,,9003022,,JAN MARTINEC,zeleni

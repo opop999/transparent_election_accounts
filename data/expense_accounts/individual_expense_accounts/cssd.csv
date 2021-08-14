@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+14.08.2021,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Ceske Budejov, CZE, dne 13.8.2021",,1861,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Ceske Budejov, CZE, dne 13.8.2021"
+14.08.2021,-20000,Karetní transakce,"","Nákup: FACEBK *WXBMV5PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *WXBMV5PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK"
+13.08.2021,230000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP ČSSD Jihočeský kraj na volby PS PČR,,,,převod z KP ČSSD Jihočeský kraj na volby PS PČR
+13.08.2021,-2939864.4,Bezhotovostní platba,"",ČSSD,308,310210057,,"BigMedia, spol. s r.o., záloha, pronájem reklamních panelů, ústředí"
+13.08.2021,-302500,Bezhotovostní platba,"",ČSSD,308,45821,,"Ewing s.r.o., příprava kreativní části, ústředí"
+13.08.2021,3e+06,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021
 12.08.2021,-1725,Karetní transakce,"","Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK",,4376,,"Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK"
 11.08.2021,550000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Zlínský kraj na volby PS PČR,,,,převod z KP Zlínský kraj na volby PS PČR
 11.08.2021,-12100,Okamžitá odchozí platba,"",ČSSD,308,21075,,"Herzmann s.r.o., studie projektu, ústředí"

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-13,500,Okamžitá příchozí platba,Pokorná Marie,"Pokorná Marie,Deblín 40, TORNADO",0,505419,999,Pokorná Marie,kdu-csl
+2021-08-13,100,Bezhotovostní příjem,Daniel Tavlaridis,"",0,19910811,999,Daniel Tavlaridis,kdu-csl
+2021-08-13,4000,Okamžitá příchozí platba,GOGELOVÁ REGINA,Gogelová Regina,,17121967,851,GOGELOVÁ REGINA,kdu-csl
+2021-08-13,300,Bezhotovostní příjem,JAROSLAV GLOGAR,LIDOVCI LIDOVCŮM,,,999,JAROSLAV GLOGAR,kdu-csl
+2021-08-13,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
+2021-08-13,4000,Bezhotovostní příjem,MARTINKOVA MARIE,502185,,0,999,MARTINKOVA MARIE,kdu-csl
 2021-08-12,400,Okamžitá příchozí platba,Česká spořitelna,Lidovci lidovcům,0,,999,Česká spořitelna,kdu-csl
 2021-08-12,400,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 601013 10.08.2021 c 5011KARELRYSAVYI LIDOVCI LIDOVCUH,0,0,999,"CESKA POSTA, S.P.",kdu-csl
 2021-08-11,500,Okamžitá příchozí platba,Mahdalová Ludmila,František Mahdal,0,56260,,Mahdalová Ludmila,kdu-csl

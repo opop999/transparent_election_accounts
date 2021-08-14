@@ -1,4 +1,37 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-13,2500,Okamžitá příchozí platba,Bartoň Tomáš,DAR 44005883/193000,0,44005883,193000,Bartoň Tomáš,pirati
+2021-08-13,1000,Okamžitá příchozí platba,MAZUMDEROVÁ IRENA,"",,44004037,193000,MAZUMDEROVÁ IRENA,pirati
+2021-08-13,250,Okamžitá příchozí platba,Iveta Tluková,Tluková Iveta 07/2021,,86197,193010,Iveta Tluková,pirati
+2021-08-13,500,Bezhotovostní příjem,PETRUZELOVA MONIKA,DAR 44004316/193000,,44004316,193000,PETRUZELOVA MONIKA,pirati
+2021-08-13,500,Bezhotovostní příjem,RADEK SOBOTKA,DAR 44004700/193000,,44004700,193000,RADEK SOBOTKA,pirati
+2021-08-13,1000,Bezhotovostní příjem,ZAMOROVA JANA,"",,44005134,193000,ZAMOROVA JANA,pirati
+2021-08-13,1000,Okamžitá příchozí platba,Česká spořitelna,A do nich klucí a holky pirátský.,0,44006390,,Česká spořitelna,pirati
+2021-08-13,500,Platba převodem uvnitř banky,"Láník, Marek","",,86392,193000,"",pirati
+2021-08-13,5000,Okamžitá příchozí platba,HANA BRŇÁKOVÁ,Vraťme zemi budoucnost! 2021,,44002877,,HANA BRŇÁKOVÁ,pirati
+2021-08-13,2500,Okamžitá příchozí platba,Mark Pena Seldon,DAR 44004584/193000,,44004584,193000,Mark Pena Seldon,pirati
+2021-08-13,500,Okamžitá příchozí platba,Jiří Charvát,DAR 84545/193000,,84545,193000,Jiří Charvát,pirati
+2021-08-13,1000,Okamžitá příchozí platba,Vojtěch Sysel,DAR 44004850/193000,,44004850,193000,Vojtěch Sysel,pirati
+2021-08-13,300,Okamžitá příchozí platba,Mgr.Ing.Dvořák Miros,"Mirek Dvorak, Vestec - SAKO, Development centrum, 21.8.2021",0,44015669,200024,Mgr.Ing.Dvořák Miros,pirati
+2021-08-13,500,Bezhotovostní příjem,ADÁMKOVÁ JANA,"",0,44008476,193000,ADÁMKOVÁ JANA,pirati
+2021-08-13,1000,Bezhotovostní příjem,IRENA MARKOVA,PODPORUJI VOLEBNÍ KAMPAŇ PIRÁTŮ A STAROSTŮ,,44005404,193000,IRENA MARKOVA,pirati
+2021-08-13,1000,Bezhotovostní příjem,JIRI HOLAN,DAR 85791/193000,,85791,193000,JIRI HOLAN,pirati
+2021-08-13,120,Bezhotovostní příjem,JAROSLAV LAINZ,"PŘÍSPĚVEK MS ČESKOTŘEBOVSKO, JAROSLAV LAINZ,",4714,13325,110804,JAROSLAV LAINZ,pirati
+2021-08-13,3000,Bezhotovostní příjem,JIRI DOHNAL,JIŘÍ DOHNAL (PIRÁTI PRAHA 11 - PODPORA ČINNOSTI),,,110111,JIRI DOHNAL,pirati
+2021-08-13,200,Bezhotovostní příjem,ZDENEK DUSATKO,ZDENĚK DUŠÁTKO,,86075,1,ZDENEK DUSATKO,pirati
+2021-08-13,30,Bezhotovostní příjem,JIRI DOUBRAVSKY,PODPORUJI: CENTRÁLU ČESKÉ PIRÁTSKÉSTRANY,,44013849,1,JIRI DOUBRAVSKY,pirati
+2021-08-13,2500,Bezhotovostní příjem,Lucie Mottlová,Volební kampaň Pirátů a Starostů,,44014111,193000,Lucie Mottlová,pirati
+2021-08-13,200,Okamžitá příchozí platba,PAVEL DOBEŠ,DAR 84401/193000,,84401,193000,PAVEL DOBEŠ,pirati
+2021-08-13,123331.82,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1550024834,20210812,Global Payments s.r.,pirati
+2021-08-13,100,Bezhotovostní příjem,ŠTEFAN IVO,"",,44006097,1,ŠTEFAN IVO,pirati
+2021-08-13,300,Bezhotovostní příjem,VITECEK ONDREJ,Krajske sdruzeni Libereckeho kraje,,82573,7,VITECEK ONDREJ,pirati
+2021-08-13,500,Bezhotovostní příjem,SMUTEK DANIEL,DAR 44004694/193000,,44004694,193000,SMUTEK DANIEL,pirati
+2021-08-13,2000,Bezhotovostní příjem,Procházka Petr,"",0,84483,1,Procházka Petr,pirati
+2021-08-13,1000,Bezhotovostní příjem,DAMEK JAN,JAN DAMEK PRO MS F-M PIRÁTI,0,44015609,110404,DAMEK JAN,pirati
+2021-08-13,300,Bezhotovostní příjem,HAŠEK KAREL,"",0,84537,1,HAŠEK KAREL,pirati
+2021-08-13,666,Platba převodem uvnitř banky,"Karlík, Petr",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-08-13,2000,Platba převodem uvnitř banky,"Švadlenka, Martin",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-08-13,200,Platba převodem uvnitř banky,"Tuček, Dalibor",Podporuji: Volební kampaň Pirátů a Starostů,,44014393,193000,Podporuji: Volební kampaň Pirátů a Starostů,pirati
+2021-08-13,500,Bezhotovostní příjem,JAN SVEC,DAR 83593/193000,,83593,193000,JAN SVEC,pirati
 2021-08-12,5000,Okamžitá příchozí platba,David Němec,"",,44006078,193000,David Němec,pirati
 2021-08-12,1000,Okamžitá příchozí platba,MILOUŠ NAČERADSKÝ,Podpora - Piráti,,44006431,193000,MILOUŠ NAČERADSKÝ,pirati
 2021-08-12,500,Platba převodem uvnitř banky,"Laibl, Jan",DAR 44015681/193000,,44015681,193000,DAR 44015681/193000,pirati

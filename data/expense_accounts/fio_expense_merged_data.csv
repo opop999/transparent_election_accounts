@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-14,-980.3,Karetní transakce,"","Nákup: CS EUROOIL,  TGM MASARYKA, LOKET N. O., 35733, CZE, dne 13.8.2021, částka  980.30 CZK",,8267,,"Nákup: CS EUROOIL,  TGM MASARYKA, LOKET N. O., 35733, CZE, dne 13.8.2021, částka  980.30 CZK",pirati_stan
+2021-08-13,-991049.46,Bezhotovostní platba,"","pp#17849 FO 2947/2021, cen:vs, tisk-koalicnich-novin-pro-snemovni-volby-2021-podzimni-vlna-2-cast, luova-publishing-sro",,2721,42021,"pp#17849 FO 2947/2021, cen:vs, tisk-koalicnich-novin-pro-snemovni-volby-2021-podzimni-vlna-2-cast, luova-publishing-sro",pirati_stan
+2021-08-13,-34812,Bezhotovostní platba,"","pp#17826 FO 2924/2021, pak:p, reklamni-plocha-hlinsko-a-chrudim, areklama-sro",,21010635,42021,"pp#17826 FO 2924/2021, pak:p, reklamni-plocha-hlinsko-a-chrudim, areklama-sro",pirati_stan
+2021-08-13,-1390,Bezhotovostní platba,"","pp#17825 FO 2923/2021, pak:p, balonky, bronislav-brzek",,20210025,42021,"pp#17825 FO 2923/2021, pak:p, balonky, bronislav-brzek",pirati_stan
+2021-08-13,-210,Bezhotovostní platba,"","pp#17823 FO 2921/2021, pak:p, paletova-lavicka-moravska-trebova, mesto-moravska-trebova",,36872,42021,"pp#17823 FO 2921/2021, pak:p, paletova-lavicka-moravska-trebova, mesto-moravska-trebova",pirati_stan
+2021-08-13,-65.76,Bezhotovostní platba,"","pp#17819 FO 2917/2021, cen:vs, obcerstveni-call-centrum-11-8, nakup-obcerstveni",,1208,42021,"pp#17819 FO 2917/2021, cen:vs, obcerstveni-call-centrum-11-8, nakup-obcerstveni",pirati_stan
+2021-08-13,-502.4,Bezhotovostní platba,"","pp#17818 FO 2916/2021, cen:vs, obcerstveni-call-centrum-23-7-12-8, nakup-obcerstveni",,1208,42021,"pp#17818 FO 2916/2021, cen:vs, obcerstveni-call-centrum-23-7-12-8, nakup-obcerstveni",pirati_stan
+2021-08-13,-90,Bezhotovostní platba,"","pp#17817 FO 2915/2021, cen:vs, parkovani-auta-polep, hl-m-praha",,1208,42021,"pp#17817 FO 2915/2021, cen:vs, parkovani-auta-polep, hl-m-praha",pirati_stan
+2021-08-13,-5000,Bezhotovostní platba,"","pp#17497 FO 2605/2021, pak:p, volebni-koordinator-ivana-mrkvickova, ivana-mrkvickova",,202116,42021,"pp#17497 FO 2605/2021, pak:p, volebni-koordinator-ivana-mrkvickova, ivana-mrkvickova",pirati_stan
+2021-08-13,-1104,Bezhotovostní platba,"","pp#17466 FO 2577/2021, pak:p, paletova-lavicka-jevicko, mesto-jevicko",,71339698,42021,"pp#17466 FO 2577/2021, pak:p, paletova-lavicka-jevicko, mesto-jevicko",pirati_stan
+2021-08-13,-25000,Okamžitá odchozí platba,"","pp#17740 FO 2839/2021, cen:vs, antihoax-konzultace-cervenec, milan-votypka",,908,42021,"pp#17740 FO 2839/2021, cen:vs, antihoax-konzultace-cervenec, milan-votypka",pirati_stan
+2021-08-13,-802,Karetní transakce,"","Nákup: EUROBIT 02,  OLBRACHTOVA 36, CHRUDIM, 537 01, CZE, dne 11.8.2021, částka  802.00 CZK",,8267,,"Nákup: EUROBIT 02,  OLBRACHTOVA 36, CHRUDIM, 537 01, CZE, dne 11.8.2021, částka  802.00 CZK",pirati_stan
 2021-08-13,-2139.29,Karetní transakce,"","Nákup: FACEBK *9R8YC6XUJ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.8.2021, částka  2139.29 CZK",,8267,,"Nákup: FACEBK *9R8YC6XUJ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.8.2021, částka  2139.29 CZK",pirati_stan
 2021-08-13,-973.91,Karetní transakce,"","Nákup: FACEBK *3DX6G63YY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.8.2021, částka  973.91 CZK",,8267,,"Nákup: FACEBK *3DX6G63YY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 12.8.2021, částka  973.91 CZK",pirati_stan
 2021-08-12,-15000,Bezhotovostní platba,"","pp#17814 FO 2912/2021, cen:ft, public-relations-pro-hejtmana-olomouckeho-kraje-cervenec, radek-palascak",,21019,333,"pp#17814 FO 2912/2021, cen:ft, public-relations-pro-hejtmana-olomouckeho-kraje-cervenec, radek-palascak",pirati_stan
@@ -1309,6 +1321,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-26,-4840,Bezhotovostní platba,"","pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",,113,,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",pirati_stan
 2021-01-06,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",,8267,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",pirati_stan
 2021-01-05,99000,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI,,,,Převod na účet 2601909155 PIRÁTI,pirati_stan
+2021-08-13,-630,Bezhotovostní platba,"","",308,21010056,2200,"1114-Městské kult. centrum Beroun, výlep plakátů LKino",ods_kdu-csl_top09
+2021-08-13,-540,Bezhotovostní platba,"","",308,73,2200,"1114-Městské kult. centrum Hořovice, výlep plakátů Lkino",ods_kdu-csl_top09
+2021-08-13,-3872,Bezhotovostní platba,"","",308,21050022,2200,"1114-Kulturní a spol. středisko Kralupy, výlep plakátů LKino",ods_kdu-csl_top09
+2021-08-13,-1210000,Bezhotovostní platba,"","",0,2100072,,"1114-Dream PRO s.r.o., technické zabezpečení show letní kina ( mobiliář, doprava, personální zabezpečení,občerstvení)",ods_kdu-csl_top09
 2021-08-12,-240866.2,Bezhotovostní platba,"","",308,2140002698,1114,"1114-CAT CUT s.r.o., polepy autobusů, dodávky",ods_kdu-csl_top09
 2021-08-12,-26100,Bezhotovostní platba,"","",308,24,1114,"1114-Matěj Štěpán , videa volební kampaň",ods_kdu-csl_top09
 2021-08-12,-32000,Bezhotovostní platba,"","",308,30072021,1114,"1114-Miloš Gregor, konzultace vol. strategie",ods_kdu-csl_top09
@@ -1684,6 +1700,21 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-27,-500,Okamžitá odchozí platba,"","",0,1260000540,3200,"3200-Úřad městské části , zábor",ods_kdu-csl_top09
 2021-01-25,-1331,Okamžitá odchozí platba,"",registrace domény spolu.tv,558,5210129474,,registrace domény spolu.tv,ods_kdu-csl_top09
 2021-01-25,5000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-08-14,-20000,Karetní transakce,"","Nákup: FACEBK *TP4RU4XZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *TP4RU4XZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",spd
+2021-08-14,-20000,Karetní transakce,"","Nákup: FACEBK *J4RWU5BAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *J4RWU5BAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",spd
+2021-08-13,-42229,Bezhotovostní platba,"","PULARY, s.r.o., letáky, plakáty",308,10821,700,"PULARY, s.r.o., letáky, plakáty",spd
+2021-08-13,-66429,Bezhotovostní platba,"","DP Liberec a Jablonec, rekl. plochy",308,1031000037,600,"DP Liberec a Jablonec, rekl. plochy",spd
+2021-08-13,-54087,Bezhotovostní platba,"","Eintopf s.r.o., promo oblečení",308,2110080,1500,"Eintopf s.r.o., promo oblečení",spd
+2021-08-13,-2178,Platba převodem uvnitř banky,"","Tisk Sarpet s.r.o., plakáty",308,113314679,1400,"Tisk Sarpet s.r.o., plakáty",spd
+2021-08-13,-10519,Bezhotovostní platba,"","Věra Maříková, bannery",308,113314665,400,"Věra Maříková, bannery",spd
+2021-08-13,-5445,Bezhotovostní platba,"","S 21 Energy s.r.o., reklamní plocha",308,202110499,800,"S 21 Energy s.r.o., reklamní plocha",spd
+2021-08-13,-25000,Bezhotovostní platba,"","Ondřej Březina, digitální marketing",308,20210006,800,"Ondřej Březina, digitální marketing",spd
+2021-08-13,-80000,Bezhotovostní platba,"","Simona Borzíková, hostesky kampaň",308,202100011,1500,"Simona Borzíková, hostesky kampaň",spd
+2021-08-13,-240,Bezhotovostní platba,"","Město Týniště n. Orlicí, plakátovné",308,12100126,500,"Město Týniště n. Orlicí, plakátovné",spd
+2021-08-13,-12947,Bezhotovostní platba,"","MgA. Daniel Šenkeřík, polep auta",308,682021,1400,"MgA. Daniel Šenkeřík, polep auta",spd
+2021-08-13,-3000,Bezhotovostní platba,"","Jaroslav Šimek, tlampač",308,2,100,"Jaroslav Šimek, tlampač",spd
+2021-08-13,-34606,Bezhotovostní platba,"","Green Marketing s.r.o., tašky SPD",308,2021040,100,"Green Marketing s.r.o., tašky SPD",spd
+2021-08-13,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-09,-20000,Karetní transakce,"","Nákup: FACEBK *XZ7JQ77AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 7.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *XZ7JQ77AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 7.8.2021, částka  20000.00 CZK",spd
 2021-08-06,-417450,Bezhotovostní platba,"","MD Vision s.r.o., on-line kampaň",308,21217044,100,"MD Vision s.r.o., on-line kampaň",spd
 2021-08-06,-556600,Bezhotovostní platba,"","MD Vision s.r.o., on-line kampaň",308,21217042,100,"MD Vision s.r.o., on-line kampaň",spd
@@ -1973,6 +2004,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-20,-726,Bezhotovostní platba,"",Olomoucký - pronájem rekl. plochy,308,1035000018,,Olomoucký - pronájem rekl. plochy,spd
 2021-01-20,-1486727,Bezhotovostní platba,"",pronájem reklamních panelů,308,310210001,,pronájem reklamních panelů,spd
 2021-01-20,3e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-14,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Ceske Budejov, CZE, dne 13.8.2021",,1861,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Ceske Budejov, CZE, dne 13.8.2021",cssd
+2021-08-14,-20000,Karetní transakce,"","Nákup: FACEBK *WXBMV5PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *WXBMV5PLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 13.8.2021, částka  20000.00 CZK",cssd
+2021-08-13,230000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP ČSSD Jihočeský kraj na volby PS PČR,,,,převod z KP ČSSD Jihočeský kraj na volby PS PČR,cssd
+2021-08-13,-2939864.4,Bezhotovostní platba,"",ČSSD,308,310210057,,"BigMedia, spol. s r.o., záloha, pronájem reklamních panelů, ústředí",cssd
+2021-08-13,-302500,Bezhotovostní platba,"",ČSSD,308,45821,,"Ewing s.r.o., příprava kreativní části, ústředí",cssd
+2021-08-13,3e+06,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
 2021-08-12,-1725,Karetní transakce,"","Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK",,4376,,"Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK",cssd
 2021-08-11,550000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Zlínský kraj na volby PS PČR,,,,převod z KP Zlínský kraj na volby PS PČR,cssd
 2021-08-11,-12100,Okamžitá odchozí platba,"",ČSSD,308,21075,,"Herzmann s.r.o., studie projektu, ústředí",cssd
@@ -2223,6 +2260,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-02,5000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,Převod prostředků na volební výdajový účet,,,,Převod prostředků na volební výdajový účet,trikolora
 2021-01-22,-181500,Bezhotovostní platba,"",Trikolóra,308,210100008,0,Zajištění bannerů pro propagaci hnutí (OUR MEDIA a.s.),trikolora
 2021-01-22,182000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na transparentní výdajový účet,,,,převod na transparentní výdajový účet,trikolora
+2021-08-13,-500,Platba převodem uvnitř banky,"","vratka mylné platby - BlueGhost.cz, s.r.o.",,,,"vratka mylné platby - BlueGhost.cz, s.r.o.",zeleni
 2021-08-11,500,Platba převodem uvnitř banky,"BlueGhost.cz, s.r.o.",Odměna za výzkum Zuzana Harmáčková,,,,Odměna za výzkum Zuzana Harmáčková,zeleni
 2021-08-11,-701.8,Bezhotovostní platba,"","FA 1121021275 - Hosting BASIC stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210124650,52,HKK - Ivana Šnircová,zeleni
 2021-08-11,-536.03,Bezhotovostní platba,"","FA 1121012784 - registrace domény stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210114885,52,HKK - Ivana Šnircová,zeleni
