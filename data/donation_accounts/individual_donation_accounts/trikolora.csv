@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-14,200,Okamžitá příchozí platba,Radim Drak,DAR příspěvek RP,0,6001360,0,Radim Drak,trikolora
 2021-08-13,999,Bezhotovostní příjem,MALY MILAN,"DAR, Milan Maly, 24.10.1959",558,0,,MALY MILAN,trikolora
 2021-08-12,100,Bezhotovostní příjem,Tillová Dagmar,DAR příspěvek RP,,6001358,,Tillová Dagmar,trikolora
 2021-08-12,2e+05,Bezhotovostní příjem,Libor Lukáš,DAR LL,,1151515,,Libor Lukáš,trikolora

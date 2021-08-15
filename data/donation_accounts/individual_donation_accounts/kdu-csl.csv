@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-14,2000,Okamžitá příchozí platba,Česká spořitelna,Lidovci lidovcům,0,,999,Česká spořitelna,kdu-csl
 2021-08-13,500,Okamžitá příchozí platba,Pokorná Marie,"Pokorná Marie,Deblín 40, TORNADO",0,505419,999,Pokorná Marie,kdu-csl
 2021-08-13,100,Bezhotovostní příjem,Daniel Tavlaridis,"",0,19910811,999,Daniel Tavlaridis,kdu-csl
 2021-08-13,4000,Okamžitá příchozí platba,GOGELOVÁ REGINA,Gogelová Regina,,17121967,851,GOGELOVÁ REGINA,kdu-csl

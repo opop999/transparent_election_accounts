@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-14,500,Okamžitá příchozí platba,Česká spořitelna,DAR 86630/193000,0,86630,193000,Česká spořitelna,pirati
+2021-08-14,500,Okamžitá příchozí platba,ŠTEFANOVÁ JITKA,"",,44015414,193000,ŠTEFANOVÁ JITKA,pirati
+2021-08-14,100,Platba převodem uvnitř banky,"Švadlenka, Martin",Martin Švadlenka,4714,1025,110303,Martin Švadlenka,pirati
+2021-08-14,1000,Okamžitá příchozí platba,JANA ŠIMÁČKOVÁ,DAR 44005530/193000,,44005530,193000,JANA ŠIMÁČKOVÁ,pirati
 2021-08-13,2500,Okamžitá příchozí platba,Bartoň Tomáš,DAR 44005883/193000,0,44005883,193000,Bartoň Tomáš,pirati
 2021-08-13,1000,Okamžitá příchozí platba,MAZUMDEROVÁ IRENA,"",,44004037,193000,MAZUMDEROVÁ IRENA,pirati
 2021-08-13,250,Okamžitá příchozí platba,Iveta Tluková,Tluková Iveta 07/2021,,86197,193010,Iveta Tluková,pirati
