@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-15,500,Okamžitá příchozí platba,MUDr. Martin Kočí,"",,44015691,193000,MUDr. Martin Kočí,pirati
+2021-08-15,10000,Okamžitá příchozí platba,Roman Hladík,DAR 83170/193000,,83170,193000,Roman Hladík,pirati
+2021-08-15,1000,Platba převodem uvnitř banky,"Bc. Zeman, Radek",DAR 44005152/193000,,44005152,193000,DAR 44005152/193000,pirati
+2021-08-15,1000,Okamžitá příchozí platba,Věra Sládková,"Věra Sládková, Netřebice 35, 382 32 Velešín",,44005232,193000,Věra Sládková,pirati
+2021-08-15,5000,Okamžitá příchozí platba,Miroslav Matějů,DAR 44011428/193000,,44011428,193000,Miroslav Matějů,pirati
+2021-08-15,500,Okamžitá příchozí platba,Česká spořitelna,"",0,44013891,193000,Česká spořitelna,pirati
+2021-08-15,500,Platba převodem uvnitř banky,"Mazur, Daniel","Daniel Mazur, nar. 26.5.1978, Werichova 947/1, Praha 5 - dar MS Piráti Praha 5: 500,- měsíčně od 12/2020",,780526,110105,"Daniel Mazur, nar. 26.5.1978, Werichova 947/1, Praha 5 - dar MS Piráti Praha 5: 500,- měsíčně od 12/2020",pirati
+2021-08-15,4096,Platba převodem uvnitř banky,"Ing. Polanský, Ondřej",dar MSK,,,110400,dar MSK,pirati
+2021-08-15,250,Platba převodem uvnitř banky,"Bauer, Karel","Karel Bauer, Svornosti 1497/1,15000 Praha 5, 04.08.1961, MS Praha 5",,85838,110105,"Karel Bauer, Svornosti 1497/1,15000 Praha 5, 04.08.1961, MS Praha 5",pirati
 2021-08-14,500,Okamžitá příchozí platba,Česká spořitelna,DAR 86630/193000,0,86630,193000,Česká spořitelna,pirati
 2021-08-14,500,Okamžitá příchozí platba,ŠTEFANOVÁ JITKA,"",,44015414,193000,ŠTEFANOVÁ JITKA,pirati
 2021-08-14,100,Platba převodem uvnitř banky,"Švadlenka, Martin",Martin Švadlenka,4714,1025,110303,Martin Švadlenka,pirati

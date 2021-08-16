@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-15,1e+05,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Lubomír Zaorálek,6.9.1956",0,691956,,Česká spořitelna,cssd
 2021-08-12,50000,Okamžitá příchozí platba,PhDr.Kaucký Lukáš,"Dar ve prospěch ČSSD, Lukáš Kaucký 05051982",0,5051982,,PhDr.Kaucký Lukáš,cssd
 2021-08-06,-70000,Platba převodem uvnitř banky,"","převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",cssd
 2021-08-06,-70000,Platba převodem uvnitř banky,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",cssd

@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-15,5000,Okamžitá příchozí platba,Jakub Stacho,Dar,,9003027,,Jakub Stacho,zeleni
+2021-08-15,30000,Okamžitá příchozí platba,PETR UHL,Dar,,9003029,,PETR UHL,zeleni
+2021-08-15,5000,Okamžitá příchozí platba,Jan Janoušek,DAR na kampaň,,9003009,,Jan Janoušek,zeleni
+2021-08-15,250,Platba převodem uvnitř banky,"Zachariášová, Lucia",DAR,,7701190010,103314534,DAR,zeleni
+2021-08-15,150,Platba převodem uvnitř banky,"Šmída, Josef",dar,,9002641,,dar,zeleni
 2021-08-13,2000,Okamžitá příchozí platba,Radek Klika,dar,,9003026,,Radek Klika,zeleni
 2021-08-13,100,Okamžitá příchozí platba,MARŠÁLEK DAVID,dar,,9003025,,MARŠÁLEK DAVID,zeleni
 2021-08-13,-100,Platba převodem uvnitř banky,"","vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Jarmila Křížová,zeleni
