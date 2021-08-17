@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,100,Okamžitá příchozí platba,JAROSLAV BLIŽŇÁK,DAR příspěvek RP,,7000700,,JAROSLAV BLIŽŇÁK,trikolora
+2021-08-16,999,Bezhotovostní příjem,BAUM PETR,DAR - Petr Baum 19.11.1941,,0,,BAUM PETR,trikolora
+2021-08-16,1000,Bezhotovostní příjem,VRÁNA PAVEL,"DAR, PAVEL VRÁNA",0,,,VRÁNA PAVEL,trikolora
+2021-08-16,200,Bezhotovostní příjem,Mgr.Ondrášek Eduard,"DAR, Eduard Ondrášek, 5.10.1969,",0,,,Mgr.Ondrášek Eduard,trikolora
+2021-08-16,50,Bezhotovostní příjem,HOLEČEK MIROSLAV,"",,9000372,,HOLEČEK MIROSLAV,trikolora
+2021-08-16,1000,Bezhotovostní příjem,MUDr. Ladislav Jon,DAR  MUDr Ladislav Jon IČO 47731168,558,47731168,,MUDr. Ladislav Jon,trikolora
+2021-08-16,100,Bezhotovostní příjem,Bladesová Hana,Dar Hana Bladesová,0,6000825,,Bladesová Hana,trikolora
 2021-08-15,100,Platba převodem uvnitř banky,"Škrabálek, Petr","DAR, Jitka Krátká",,,,"DAR, Jitka Krátká",trikolora
 2021-08-14,200,Okamžitá příchozí platba,Radim Drak,DAR příspěvek RP,0,6001360,0,Radim Drak,trikolora
 2021-08-13,999,Bezhotovostní příjem,MALY MILAN,"DAR, Milan Maly, 24.10.1959",558,0,,MALY MILAN,trikolora

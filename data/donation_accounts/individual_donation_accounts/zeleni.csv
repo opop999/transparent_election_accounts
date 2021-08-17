@@ -1,4 +1,68 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,10000,Okamžitá příchozí platba,Prof.Šedlbauer Josef,dar - parlamentní volby,0,,,Prof.Šedlbauer Josef,zeleni
+2021-08-16,500,Okamžitá příchozí platba,Eva Vaníčková,Dar,,9003071,,Eva Vaníčková,zeleni
+2021-08-16,300,Okamžitá příchozí platba,Sukupová Iveta,DAR,0,9003068,,Sukupová Iveta,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Ing. Pavel Švec,dar,,9003067,,Ing. Pavel Švec,zeleni
+2021-08-16,300,Okamžitá příchozí platba,Staněk František,Dar,308,9003065,,Staněk František,zeleni
+2021-08-16,300,Okamžitá příchozí platba,Václav Psota,dar,,9003064,,Václav Psota,zeleni
+2021-08-16,500,Okamžitá příchozí platba,Milan Hackersmid,"""DAR""",,9003063,,Milan Hackersmid,zeleni
+2021-08-16,500,Okamžitá příchozí platba,DYNYBYLOVÁ EVA,Dar,,9003061,,DYNYBYLOVÁ EVA,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Ing.Adámek Boleslav,Dar,0,9003060,,Ing.Adámek Boleslav,zeleni
+2021-08-16,5000,Okamžitá příchozí platba,Vaculík Ondřej,Dar,0,9003058,,Vaculík Ondřej,zeleni
+2021-08-16,2000,Okamžitá příchozí platba,Mgr. Dalibor Levíček,DAR na kampaň.,,,,Mgr. Dalibor Levíček,zeleni
+2021-08-16,3000,Okamžitá příchozí platba,Šorm Martin,dar,0,9003057,,Šorm Martin,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Ing.Macek Jakub,DAR na sněmovní volby v Libereckém kraji,0,9003041,,Ing.Macek Jakub,zeleni
+2021-08-16,500,Platba převodem uvnitř banky,"Šubrt, Miroslav",dar,,9003054,,dar,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Veselský Michal,Dar,0,9003050,,Veselský Michal,zeleni
+2021-08-16,500,Okamžitá příchozí platba,Česká spořitelna,Dar,0,9003049,,Česká spořitelna,zeleni
+2021-08-16,2000,Okamžitá příchozí platba,Salanga s.r.o.,Dar Strane Zelenych od Salanga s.r.o.,,9003048,,Salanga s.r.o.,zeleni
+2021-08-16,2022,Bezhotovostní příjem,STANEK JAROSLAV,dar,,9003036,,STANEK JAROSLAV,zeleni
+2021-08-16,3000,Okamžitá příchozí platba,Ondřej Liška,dar,,9003037,,Ondřej Liška,zeleni
+2021-08-16,5000,Okamžitá příchozí platba,Česká spořitelna,Dar Strane zelenych,0,900146729,,PhDr.Hudec Miroslav,zeleni
+2021-08-16,10000,Bezhotovostní příjem,JAN JIRKA,DAR,,9003033,,JAN JIRKA,zeleni
+2021-08-16,500,Okamžitá příchozí platba,Mgr.Heringová Hana,dar na kampaň,0,9003035,,Mgr.Heringová Hana,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Helena Ganická,dar,,9003034,,Helena Ganická,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Helena Ganická,"",,9003034,,Helena Ganická,zeleni
+2021-08-16,2000,Okamžitá příchozí platba,"KAZNET CZ, s.r.o.",Dar SZ,,9003032,,"KAZNET CZ, s.r.o.",zeleni
+2021-08-16,300,Bezhotovostní příjem,Ondřej Černoš,Dar ZO Praha 1,0,8801100198,106700000,Ondřej Černoš,zeleni
+2021-08-16,100,Bezhotovostní příjem,Mgr. Luboš Kožíšek,dar na zelenou politiku,0,9002605,,Mgr. Luboš Kožíšek,zeleni
+2021-08-16,400,Bezhotovostní příjem,Jiří Růžička,"Dar pro ZO Praha 12 (200,-) a KO Praha (200,-). JG Ruzicka",0,,,Jiří Růžička,zeleni
+2021-08-16,500,Okamžitá příchozí platba,Martin Hájek,DAR na kampaň,,9003031,,Martin Hájek,zeleni
+2021-08-16,2300,Bezhotovostní příjem,Adam Šenk,"Dar - 1500 ZO Praha 3, 500 Zeleni centrala, 300 KO Praha",,9002672,,Adam Šenk,zeleni
+2021-08-16,500,Bezhotovostní příjem,JAN CHROMÝ,DAR PRO SZ (J. CHROMÝ),308,9002606,9002606,JAN CHROMÝ,zeleni
+2021-08-16,500,Bezhotovostní příjem,JAN CHROMÝ,DAR PRO ZO PRAHA 1 (JAN CHROMÝ),308,1101002,1101002,JAN CHROMÝ,zeleni
+2021-08-16,500,Bezhotovostní příjem,DUSAN OSLEJ,"DAR SZ - 200,- ZO ÚSTÍ NAD LABEM +300,- HK SZ",,,,DUSAN OSLEJ,zeleni
+2021-08-16,1000,Bezhotovostní příjem,KAROLINA ŽÁKOVSKÁ,"DAR SZ - 500 KČ PRO ZO ÚSTÍ NAD LABEM, 500 KČ PRO CELOU STRANU",,,,KAROLINA ŽÁKOVSKÁ,zeleni
+2021-08-16,8000,Bezhotovostní příjem,KAROLINA ZAKOVSKA,DAR PRO KO SZ ÚSTECKÉHO KRAJE.,,,,KAROLINA ZAKOVSKA,zeleni
+2021-08-16,1000,Bezhotovostní příjem,CHALLYJEVA GOZEL,"Dar na kampan do PS 2021, Challyjeva",0,9003028,0,CHALLYJEVA GOZEL,zeleni
+2021-08-16,1000,Okamžitá příchozí platba,Vidím Václav,dar,0,9003030,,Vidím Václav,zeleni
+2021-08-16,120,Bezhotovostní příjem,Podhradská Narcisa,dar Podhradská,0,9002607,,Podhradská Narcisa,zeleni
+2021-08-16,150,Bezhotovostní příjem,"Mgr.Ander Martin,Ph.",dar,0,9002580,,"Mgr.Ander Martin,Ph.",zeleni
+2021-08-16,250,Bezhotovostní příjem,JEDLICKA JINDRICH,"Dar, mesicne 100 hl.kanc. 150 JmKO",,9002975,,JEDLICKA JINDRICH,zeleni
+2021-08-16,300,Bezhotovostní příjem,HRONOVA MARIE,pravidelny dar - Zeleni,,8891101416,,HRONOVA MARIE,zeleni
+2021-08-16,1500,Bezhotovostní příjem,Mgr.Syrovátka Ondřej,"Dar Straně zelených (500 Kč ZO NovýJičín, 500 Kč KO MSK, 500 Kč SZ)",0,0,0,Mgr.Syrovátka Ondřej,zeleni
+2021-08-16,250,Bezhotovostní příjem,CENEK RADIM,dary 100 ZO Brno-stred/75 MO Brno/75 KO JMK,558,8801100119,,CENEK RADIM,zeleni
+2021-08-16,1250,Bezhotovostní příjem,HNYK TOMAS,Dar 125 ZO Praha 8125 KO Praha500 Celostat500 Na pozici medialniho poradce,,8801101370,,HNYK TOMAS,zeleni
+2021-08-16,500,Bezhotovostní příjem,MAZURKIEWICZ MICHAL,Dar,,9002433,,MAZURKIEWICZ MICHAL,zeleni
+2021-08-16,100,Bezhotovostní příjem,VECEREK BOHUMIR,dar pro ZO Novy Jicin,,0,,VECEREK BOHUMIR,zeleni
+2021-08-16,100,Bezhotovostní příjem,IVANA KONIGSMARKOVA,Zeleni - dar,308,0,,IVANA KONIGSMARKOVA,zeleni
+2021-08-16,100,Bezhotovostní příjem,PECEN FRANTISEK,Zeleni - DAR - Pecnovi  :-),,9002941,,PECEN FRANTISEK,zeleni
+2021-08-16,500,Bezhotovostní příjem,Ing.Nesrstová Jitka,dar - medialni poradce,0,9002892,,Ing.Nesrstová Jitka,zeleni
+2021-08-16,150,Bezhotovostní příjem,Ing.Sirotná Kamila,dar,0,9002637,,Ing.Sirotná Kamila,zeleni
+2021-08-16,100,Bezhotovostní příjem,"Mgr.Ocelík Petr,Ph.D",dar Straně zelených,0,0,0,"Mgr.Ocelík Petr,Ph.D",zeleni
+2021-08-16,150,Bezhotovostní příjem,Novák Ondřej,Dar,0,9002639,,Novák Ondřej,zeleni
+2021-08-16,600,Bezhotovostní příjem,ŠVEC MARTIN,dar,,9002634,,ŠVEC MARTIN,zeleni
+2021-08-16,800,Bezhotovostní příjem,MUDr.Moudrá Wünschov,"Dar Pro ZO strany Zelenych Ústeko,400 kc anna wünschová a 400 kc irena moudrá wünschová",0,8801200015,100019350,MUDr.Moudrá Wünschov,zeleni
+2021-08-16,250,Bezhotovostní příjem,Vlach Jan,Dar pro Stranu Zelených - krajskouorganizaci Praha,0,9001910,0,Vlach Jan,zeleni
+2021-08-16,1000,Bezhotovostní příjem,Oplatek David,Dar ZO SZ Brno-střed,0,0,0,Oplatek David,zeleni
+2021-08-16,100,Bezhotovostní příjem,Mgr.Packa Martin,Dar pro Stranu zelených,0,9002925,,Mgr.Packa Martin,zeleni
+2021-08-16,1000,Bezhotovostní příjem,Mgr.Flamiková Jasna,Dar ZO SZ Brno-střed,0,0,0,Mgr.Flamiková Jasna,zeleni
+2021-08-16,150,Platba převodem uvnitř banky,"Mgr. Hándl, Jiří",dar,,9002761,,dar,zeleni
+2021-08-16,300,Platba převodem uvnitř banky,"Valenta, Roman",dar,,9002644,,dar,zeleni
+2021-08-16,300,Bezhotovostní příjem,HRUŠKA MARTIN,DAR; 50 % P10; 50 % HK,0,9002646,0,HRUŠKA MARTIN,zeleni
+2021-08-16,150,Bezhotovostní příjem,TRUKSOVÁ BARBORA,DAR PRAVIDELNY TRUKSOVA,0,9002594,0,TRUKSOVÁ BARBORA,zeleni
+2021-08-16,200,Bezhotovostní příjem,MÜLLEROVÁ TEREZA,ZELENÍ PRO ZO ČESKÉ BUDĚJOVICE,0,9002495,0,MÜLLEROVÁ TEREZA,zeleni
+2021-08-16,1000,Bezhotovostní příjem,DUSKA FRANTISEK,dar (Greens up! ted ale zvazme nekandidovat ve prospech demobloku),,0,,DUSKA FRANTISEK,zeleni
 2021-08-15,5000,Okamžitá příchozí platba,Jakub Stacho,Dar,,9003027,,Jakub Stacho,zeleni
 2021-08-15,30000,Okamžitá příchozí platba,PETR UHL,Dar,,9003029,,PETR UHL,zeleni
 2021-08-15,5000,Okamžitá příchozí platba,Jan Janoušek,DAR na kampaň,,9003009,,Jan Janoušek,zeleni

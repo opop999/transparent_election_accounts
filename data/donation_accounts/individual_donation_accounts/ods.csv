@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,10000,Platba převodem uvnitř banky,"Ing. Stanislav, Antonín","DAR, Antonin Stanislav",,2800210006,,"DAR, Antonin Stanislav",ods
+2021-08-16,50000,Okamžitá příchozí platba,BAUER JAN,"DAR,Jan Bauer",,2300210009,,BAUER JAN,ods
 2021-08-13,2e+05,Bezhotovostní příjem,ICOM TRANSPORT A.S.,DARODS,0,1100210052,0,ICOM TRANSPORT A.S.,ods
 2021-08-13,1000,Okamžitá příchozí platba,Ondřej Zach,"DAR, Ondrej Zach",,2100210040,,Ondřej Zach,ods
 2021-08-13,500,Bezhotovostní příjem,KAREL PAUKNER,"DAR, KAREL PAUKNER",,1100210055,,KAREL PAUKNER,ods

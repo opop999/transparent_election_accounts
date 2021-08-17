@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+16.08.2021,-2000,Okamžitá odchozí platba,"","",8,1210293,2900,"2900-EMAGRA s.r.o., pronájem reklamní plochy"
+16.08.2021,-1197.9,Bezhotovostní platba,"","",558,9900010,2600,"2600-Dopravní podnik města Chomutova, pronájem plochy MHD"
+16.08.2021,-500,Bezhotovostní platba,"","",308,1361409290,2600,"2600-Město Louny, správní poplatek"
+16.08.2021,-60000,Okamžitá odchozí platba,"","",308,20210804,3000,"3000-Radim Ivan , tvorba videí, graf. práce, propagace FCB,"
+16.08.2021,-492238.89,Platba převodem uvnitř banky,"","",558,2021050104,1114,"1114-R36.cz s.r.o, reklamní plachty -výroba, přeprava"
 13.08.2021,-630,Bezhotovostní platba,"","",308,21010056,2200,"1114-Městské kult. centrum Beroun, výlep plakátů LKino"
 13.08.2021,-540,Bezhotovostní platba,"","",308,73,2200,"1114-Městské kult. centrum Hořovice, výlep plakátů Lkino"
 13.08.2021,-3872,Bezhotovostní platba,"","",308,21050022,2200,"1114-Kulturní a spol. středisko Kralupy, výlep plakátů LKino"

@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,10000,Okamžitá příchozí platba,Kolesár Leon,DAR HNUTÍ,0,,,Kolesár Leon,prisaha
+2021-08-16,20000,Okamžitá příchozí platba,Ing.Novotný Pavel,dar hnutí,8,16082021,16082021,Ing.Novotný Pavel,prisaha
+2021-08-16,10000,Bezhotovostní příjem,SCHAFFER ZBYNĚK,dar hnutí Zlínský kraj,308,640503,0,SCHAFFER ZBYNĚK,prisaha
+2021-08-16,500,Bezhotovostní příjem,Krpalová Olga,Dar hnutí Přísaha,0,,,Krpalová Olga,prisaha
+2021-08-16,500,Bezhotovostní příjem,"Haindl Miroslav,DiS.",Dar hnutí KV kraj,0,,,"Haindl Miroslav,DiS.",prisaha
+2021-08-16,400,Bezhotovostní příjem,Misař Radek,Dar Misařová Petra,0,705529,,Misař Radek,prisaha
+2021-08-16,500,Bezhotovostní příjem,GONDASOVA ALENA,DAR HNUTI,,0,,GONDASOVA ALENA,prisaha
+2021-08-16,200,Bezhotovostní příjem,ČEKANOVÁ LIBUŠE,Dar Přísaha o.h.RŠ,8,5456130823,,ČEKANOVÁ LIBUŠE,prisaha
+2021-08-16,20000,Okamžitá příchozí platba,Dvorský Lukáš,DAR HNUTÍ,0,,,Dvorský Lukáš,prisaha
+2021-08-16,979.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-13,500,Platba převodem uvnitř banky,"Mikeštíková, Ludmila",Dar Hnutí Přísaha Zlínský kraj,,,,Dar Hnutí Přísaha Zlínský kraj,prisaha
 2021-08-13,300,Bezhotovostní příjem,JAROMIR DANIEL,JSTE NAŠE NADĚJE,,5607251595,,JAROMIR DANIEL,prisaha
 2021-08-13,10000,Platba převodem uvnitř banky,"Burian, Petr","""DAR HNUTÍ""",338,6504060915,,"""DAR HNUTÍ""",prisaha

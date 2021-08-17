@@ -1,4 +1,62 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,2000,Okamžitá příchozí platba,Miloš MRKVIČKA,"",0,44004110,193000,Miloš MRKVIČKA,pirati
+2021-08-16,500,Okamžitá příchozí platba,MARTIN MARTIN,Podporuji: Volební kampaň Pirátů a Starostů,,83569,193000,MARTIN MARTIN,pirati
+2021-08-16,200,Okamžitá příchozí platba,Tomáš Pexa,DAR 44004319/193000,,44004319,193000,Tomáš Pexa,pirati
+2021-08-16,500,Okamžitá příchozí platba,Česká spořitelna,Petr Háger - sponzorský dar,0,44015693,1,Česká spořitelna,pirati
+2021-08-16,9920,Bezhotovostní příjem,PAYNOVATIO A.S.,SETTLEMENT set9gly5pozd,0,0,0,PAYNOVATIO A.S.,pirati
+2021-08-16,-265000,Platba převodem uvnitř banky,"",Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
+2021-08-16,-1e+06,Platba převodem uvnitř banky,"",Převod na účet 2100643125,,,,Převod na účet 2100643125,pirati
+2021-08-16,400,Bezhotovostní příjem,Krpálková Jindřiška,"",0,44011141,193000,Krpálková Jindřiška,pirati
+2021-08-16,2500,Okamžitá příchozí platba,Tomáš Pazderka,"",,,,Tomáš Pazderka,pirati
+2021-08-16,500,Bezhotovostní příjem,Jiří Schauer,"",2,44013871,,Jiří Schauer,pirati
+2021-08-16,500,Bezhotovostní příjem,Jan Kranda,Pro MS Žatec-Louny,0,9520,111002,Jan Kranda,pirati
+2021-08-16,700,Bezhotovostní příjem,Jan Kranda,"",0,44014132,13,Jan Kranda,pirati
+2021-08-16,1000,Bezhotovostní příjem,Ing. Tomáš Weczerek,"",0,85106,1,Ing. Tomáš Weczerek,pirati
+2021-08-16,200,Bezhotovostní příjem,Aneta Klvaňová,Od Anetky,0,84547,190000,Aneta Klvaňová,pirati
+2021-08-16,200,Bezhotovostní příjem,Jan Jurák,"",,85297,12,Jan Jurák,pirati
+2021-08-16,500,Bezhotovostní příjem,Martin Knobloch,Keep it real!,,83483,1,Martin Knobloch,pirati
+2021-08-16,500,Bezhotovostní příjem,Blanka Rusóová,DAR 44005311/193000,,44005311,193000,Blanka Rusóová,pirati
+2021-08-16,500,Bezhotovostní příjem,Martin Vlach,"",,44014198,1,Martin Vlach,pirati
+2021-08-16,300,Bezhotovostní příjem,Marek Andrt,"",,44009880,2,Marek Andrt,pirati
+2021-08-16,100,Bezhotovostní příjem,Martin Hanzlík,Martin Hanzlík,,44010501,2,Martin Hanzlík,pirati
+2021-08-16,500,Bezhotovostní příjem,Zdeňka Novotná,DAR 44004487/193000,,44004487,193000,Zdeňka Novotná,pirati
+2021-08-16,5000,Bezhotovostní příjem,Jakub Stacho,DAR 44015274/193000,,44015274,193000,Jakub Stacho,pirati
+2021-08-16,500,Bezhotovostní příjem,JAN RASZYK,DAR 89242/193000,,89242,193000,JAN RASZYK,pirati
+2021-08-16,2500,Bezhotovostní příjem,ING. PETR KOPECEK,PŘEVOD PROSTŘEDKŮ,,44006604,193000,ING. PETR KOPECEK,pirati
+2021-08-16,500,Bezhotovostní příjem,PETR KOPEČNÝ,ÚČELOVÝ DAR PRO ZASTUPITELSKÉ KLUBY V OSTRAVĚ,,9001808,140401,PETR KOPEČNÝ,pirati
+2021-08-16,300,Bezhotovostní příjem,FILIP VANKO,PŘEVOD PROSTŘEDKŮ,,9001768,,FILIP VANKO,pirati
+2021-08-16,100,Bezhotovostní příjem,Páník Marek,"",0,83007,190000,Páník Marek,pirati
+2021-08-16,1200,Bezhotovostní příjem,PTACEK PAVEL,Pirate sails,,44006183,1,PTACEK PAVEL,pirati
+2021-08-16,2500,Bezhotovostní příjem,HOSEK DAVID,DAR NA PROVOZ PREROVSKEHO PICE,,0,110303,HOSEK DAVID,pirati
+2021-08-16,100,Bezhotovostní příjem,CHOVANCAK JAKUB,"",,44002970,,CHOVANCAK JAKUB,pirati
+2021-08-16,150,Bezhotovostní příjem,VAVRA LUKAS,Podpora piratske strany,,86651,190000,VAVRA LUKAS,pirati
+2021-08-16,200,Bezhotovostní příjem,LITERAK LEOS,"",,44005285,,LITERAK LEOS,pirati
+2021-08-16,1000,Bezhotovostní příjem,DOSEDEL FRANTISEK,"",,12024,110103,DOSEDEL FRANTISEK,pirati
+2021-08-16,100,Bezhotovostní příjem,TREBICKY DAVID,"",,82547,,TREBICKY DAVID,pirati
+2021-08-16,500,Bezhotovostní příjem,BELSAN JIRI,Dar pro MS Praha 10,,13320,110110,BELSAN JIRI,pirati
+2021-08-16,100,Bezhotovostní příjem,STAVOVA MARIA,"",,44012394,2,STAVOVA MARIA,pirati
+2021-08-16,100,Bezhotovostní příjem,IVANA KONIGSMARKOVA,"",308,83899,1,IVANA KONIGSMARKOVA,pirati
+2021-08-16,500,Bezhotovostní příjem,KAREL FILIP,"Filip Karel, 27.1.1981U Kavalirky 2, Praha 5, 150 00ucel = MS Praha 5",,0,110105,KAREL FILIP,pirati
+2021-08-16,2000,Bezhotovostní příjem,KOCI MICHAL,Na plavbu zatokou Prahy 10,308,11358,110110,KOCI MICHAL,pirati
+2021-08-16,1000,Bezhotovostní příjem,CANDOVA JAROSLAVA,"",,44015689,193000,CANDOVA JAROSLAVA,pirati
+2021-08-16,1e+05,Bezhotovostní příjem,WEBTIP S.R.O.,"",,44003845,193130,WEBTIP S.R.O.,pirati
+2021-08-16,1000,Bezhotovostní příjem,Eichler Tomáš,KS Královéhradecký kraj,0,9001764,130900,Eichler Tomáš,pirati
+2021-08-16,100,Bezhotovostní příjem,HOOS MICHAL,"",,44005875,,HOOS MICHAL,pirati
+2021-08-16,250,Bezhotovostní příjem,TROJANOVÁ MARCELA,podpora,,44012543,2,TROJANOVÁ MARCELA,pirati
+2021-08-16,500,Bezhotovostní příjem,Daníček Jakub,"",0,44014126,1,Daníček Jakub,pirati
+2021-08-16,17395.05,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1560000228,20210815,Global Payments s.r.,pirati
+2021-08-16,200,Bezhotovostní příjem,Procházka Tomáš,Podporuji: Centrálu České pirátskéstrany,0,86264,1,Procházka Tomáš,pirati
+2021-08-16,200,Bezhotovostní příjem,Škrobová Zuzana,"držte se, jste naše velká naděje!",0,44013950,193010,Škrobová Zuzana,pirati
+2021-08-16,100,Bezhotovostní příjem,MgA.Petrová Jitka,"",0,,,MgA.Petrová Jitka,pirati
+2021-08-16,83053.38,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1550050807,20210813,Global Payments s.r.,pirati
+2021-08-16,8017.39,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1550072928,20210814,Global Payments s.r.,pirati
+2021-08-16,1000,Bezhotovostní příjem,Höfinghoff Václava,DAR 44015649/193000,,44015649,193000,Höfinghoff Václava,pirati
+2021-08-16,500,Platba převodem uvnitř banky,"Kopač, Petr",Petr Kopac,,9001756,,Petr Kopac,pirati
+2021-08-16,2500,Bezhotovostní příjem,HORKÝ JAROMÍR,DAR NA PROVOZ PŘEROVSKÉHO PICE,0,0,110303,HORKÝ JAROMÍR,pirati
+2021-08-16,1500,Bezhotovostní příjem,KOCOUREK JOSEF,ZÁMĚR PROV. VÝDAJE MS PRAHA 11,0,0,110111,KOCOUREK JOSEF,pirati
+2021-08-16,100,Bezhotovostní příjem,SENKO ALEŠ,"",0,44005376,1,SENKO ALEŠ,pirati
+2021-08-16,500,Bezhotovostní příjem,Jirman Jan,DAR 44005266/193000,,44005266,193000,Jirman Jan,pirati
+2021-08-16,1000,Bezhotovostní příjem,TOMASEK ROBERT,DAR 44012520/193000,,44012520,193000,TOMASEK ROBERT,pirati
 2021-08-15,500,Okamžitá příchozí platba,MUDr. Martin Kočí,"",,44015691,193000,MUDr. Martin Kočí,pirati
 2021-08-15,10000,Okamžitá příchozí platba,Roman Hladík,DAR 83170/193000,,83170,193000,Roman Hladík,pirati
 2021-08-15,1000,Platba převodem uvnitř banky,"Bc. Zeman, Radek",DAR 44005152/193000,,44005152,193000,DAR 44005152/193000,pirati

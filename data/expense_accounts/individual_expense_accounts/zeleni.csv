@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+16.08.2021,6589,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,1022706,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021
+16.08.2021,-2420,Karetní transakce,"","Nákup: FACEBK *FX3TK5PJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *FX3TK5PJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.8.2021, částka  2420.00 CZK"
 13.08.2021,-500,Platba převodem uvnitř banky,"","vratka mylné platby - BlueGhost.cz, s.r.o.",,,,"vratka mylné platby - BlueGhost.cz, s.r.o."
 11.08.2021,500,Platba převodem uvnitř banky,"BlueGhost.cz, s.r.o.",Odměna za výzkum Zuzana Harmáčková,,,,Odměna za výzkum Zuzana Harmáčková
 11.08.2021,-701.8,Bezhotovostní platba,"","FA 1121021275 - Hosting BASIC stopnadrzibabi.cz (INTERNET CZ, a.s.)",,5210124650,52,HKK - Ivana Šnircová

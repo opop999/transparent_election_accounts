@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,1000,Okamžitá příchozí platba,Tomáš Kopečný,Dar pro SPD,,,,Tomáš Kopečný,spd
+2021-08-16,40,Bezhotovostní příjem,Martin Trubka,dar na činnost,,,,Martin Trubka,spd
+2021-08-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,"",,947,,KREJCAROVA JITKA,spd
+2021-08-16,200,Bezhotovostní příjem,OVCACEK JIRI,"",,0,,OVCACEK JIRI,spd
+2021-08-16,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-08-15,50000,Okamžitá příchozí platba,ZLÍNSKÝ VLADIMÍR,Doplatek daru lídra kandidátky,,76001,,ZLÍNSKÝ VLADIMÍR,spd
 2021-08-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
 2021-08-13,-5e+05,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd

@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,42500,Bezhotovostní příjem,LUKAC JAN BOHDAN,Dar pro JCK organizaci KDU-CSL,,0,,LUKAC JAN BOHDAN,kdu-csl
+2021-08-16,2000,Bezhotovostní příjem,Filip Chvátal,Filip Chvátal pravidelný příspěvekKDU Brno,,27051986,709,Filip Chvátal,kdu-csl
+2021-08-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,"",0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl
+2021-08-16,750,Bezhotovostní příjem,RUZICKA JAN,Jan Ruzicka,,1101984,725,RUZICKA JAN,kdu-csl
+2021-08-16,100,Bezhotovostní příjem,STUKAVCOVA DANUSE,Jiri Stukavec- dar,,9091981,725,STUKAVCOVA DANUSE,kdu-csl
+2021-08-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl
+2021-08-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
 2021-08-14,2000,Okamžitá příchozí platba,Česká spořitelna,Lidovci lidovcům,0,,999,Česká spořitelna,kdu-csl
 2021-08-13,500,Okamžitá příchozí platba,Pokorná Marie,"Pokorná Marie,Deblín 40, TORNADO",0,505419,999,Pokorná Marie,kdu-csl
 2021-08-13,100,Bezhotovostní příjem,Daniel Tavlaridis,"",0,19910811,999,Daniel Tavlaridis,kdu-csl

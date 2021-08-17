@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-16,5000,Okamžitá příchozí platba,Petr Halada,DARpetrhalada961962kamyknadvltavou,298,961962,160042221,DAR - Petr Halada,stan
+2021-08-16,4000,Bezhotovostní příjem,Ing.Suchánek Josef,"",0,,,DAR - Ing.Suchánek Josef,stan
 2021-08-11,10000,Okamžitá příchozí platba,Jan Berki,"DAR, Jan Berki, 20.09.1981, Liberec",,20091981,123020521,DAR - Jan Berki,stan
 2021-08-11,33750,Platba převodem uvnitř banky,Občanská demokratická strana,DAR- podíl STAN 2.Q.2021,378,2021064,,DAR- podíl STAN 2.Q.2021,stan
 2021-08-11,10000,Okamžitá příchozí platba,Jan Berki,"DAR, Jan Berki, 20.09.1981, Liberec",,20091981,123020521,Jan Berki,stan
