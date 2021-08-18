@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,50000,Okamžitá příchozí platba,Ing.Kajnar Petr,"Dar ve prospěch ČSSD, Petr Kajnar, 28.1.1956",0,2811956,,Ing.Kajnar Petr,cssd
+2021-08-17,30000,Okamžitá příchozí platba,Česká spořitelna,Dar ve prospěch ČSSD Renata Hulvova5.2.1970,0,5021970,,Česká spořitelna,cssd
 2021-08-16,50000,Bezhotovostní příjem,VÁHALOVÁ DANA,"",308,2851966,0,VÁHALOVÁ DANA,cssd
 2021-08-16,-30000,Okamžitá odchozí platba,"","ČSSD, vrácení daru beze jména",,9,,"ČSSD, vrácení daru beze jména",cssd
 2021-08-16,1e+05,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Petra Krejčířová, 27.8.1970",0,27081970,,Česká spořitelna,cssd

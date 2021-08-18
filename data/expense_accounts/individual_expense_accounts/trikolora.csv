@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+17.08.2021,-600,Bezhotovostní platba,"",platba za pronájem veřejného prostranství - Roudnice nad Labem/Ústecký kraj,308,3020002021,,platba za pronájem veřejného prostranství - Roudnice nad Labem/Ústecký kraj
+17.08.2021,-40000,Bezhotovostní platba,"",platba za pronájem Lodi - Praha,308,2021040,,platba za pronájem Lodi - Praha
+17.08.2021,-72153.3,Bezhotovostní platba,"",platba za pronájem mobilních panelů - Olomoucký kraj,308,20210001,,platba za pronájem mobilních panelů - Olomoucký kraj
+17.08.2021,-77440,Platba převodem uvnitř banky,"",pronájem mediálních ploch dle smlouvy 6530 Moravskoslezský kraj,308,65303,,pronájem mediálních ploch dle smlouvy 6530 Moravskoslezský kraj
+17.08.2021,-786.5,Bezhotovostní platba,"",instalace plakátů Ústí nad Labem,308,2100130,,instalace plakátů Ústí nad Labem
+17.08.2021,-26541,Platba převodem uvnitř banky,"",tisk a výroba PVC Bannerů Výrobapro.cz,308,20216172,,tisk a výroba PVC Bannerů Výrobapro.cz
+17.08.2021,-672399.54,Bezhotovostní platba,"",platba _Canmedia- seznam.mafra a další,,2021191,,platba _Canmedia- seznam.mafra a další
+17.08.2021,-90750,Bezhotovostní platba,"",platba Our Media - mediální kampaň,308,210100191,,platba Our Media - mediální kampaň
+17.08.2021,-29040,Bezhotovostní platba,"","pronájem reklamních, ploch Moravskoslezský kraj",308,3,,"pronájem reklamních, ploch Moravskoslezský kraj"
+17.08.2021,-33880,Bezhotovostní platba,"",pronájem reklamních plocha a instalace banerů - Moravskoslezský kraj,308,212175,,pronájem reklamních plocha a instalace banerů - Moravskoslezský kraj
+17.08.2021,-77500.5,Bezhotovostní platba,"",platba za koření na volební kampaň - Brand,308,51210016,,platba za koření na volební kampaň - Brand
+17.08.2021,2e+06,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod peněz na Volební výdajový účet,,,,převod peněz na Volební výdajový účet
 12.08.2021,-30250,Okamžitá odchozí platba,"",Platba za průzkum Response Now,8,2021100,,Platba za průzkum Response Now
 11.08.2021,-99613.25,Okamžitá odchozí platba,"",výroba LIPO kontaktní kampaň,308,51210015,,výroba LIPO kontaktní kampaň
 10.08.2021,-3786,Bezhotovostní platba,"",platba za potisk a výrobu balonků Ústecký kraj,308,2170000094,,platba za potisk a výrobu balonků Ústecký kraj
@@ -6,9 +18,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 10.08.2021,-300,Bezhotovostní platba,"",poplatek za pronájem veřejného prostranství Ústecký kraj,308,701000134,,poplatek za pronájem veřejného prostranství Ústecký kraj
 10.08.2021,-77440,Platba převodem uvnitř banky,"",platba Outdoor media CZ Moravskoslezský kraj,308,202103,,platba Outdoor media CZ Moravskoslezský kraj
 10.08.2021,-68873.2,Bezhotovostní platba,"",platba za pronájem a výlep Billboardu Pardubický kraj,308,21200828,,platba za pronájem a výlep Billboardu Pardubický kraj
-10.08.2021,-7986,Bezhotovostní platba,"",platba pronájem a výlep billboardových ploch,308,2021117,,platba pronájem a výlep billboardových ploch
+10.08.2021,-7986,Bezhotovostní platba,"",platba pronájem a výlep billboardových ploch,308,2021117,,platba pronájem a výlep billboardových ploch - Ústecký kraj
 10.08.2021,-10000,Bezhotovostní platba,"",správa facebooku a placená reklama Ústecký kraj a Tereza Hyťhová,308,28072021,,správa facebooku a placená reklama Ústecký kraj a Tereza Hyťhová
-10.08.2021,-29634,Bezhotovostní platba,"",platba za Událost Postoloprty 09/21,,2120144,,platba za Událost Postoloprty 09/21
+10.08.2021,-29634,Bezhotovostní platba,"",platba za Událost Postoloprty 09/21,,2120144,,"platba za big boardy Postoloprty, Louny - Ústecký kraj"
 10.08.2021,-5609,Bezhotovostní platba,"",platba za plakáty A2 Ústecký kraj,308,210077,,platba za plakáty A2 Ústecký kraj
 10.08.2021,-7200,Bezhotovostní platba,"",platba oboustranný volební leták Ústecký kraj,308,210076,,platba oboustranný volební leták Ústecký kraj
 10.08.2021,-6655,Bezhotovostní platba,"",platba za potisk a volební banner Ústecký kraj,308,210072,,platba za potisk a volební banner Ústecký kraj
@@ -17,10 +29,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 10.08.2021,-1e+05,Bezhotovostní platba,"",platba za video spoty a propagaci Karlovarský kraj,308,92010003,,platba za video spoty a propagaci Karlovarský kraj
 05.08.2021,-8250,Platba převodem uvnitř banky,"",platba za právní služby - kandidátní listiny,308,2021131,,platba za právní služby - kandidátní listiny
 05.08.2021,-4450,Platba převodem uvnitř banky,"",výroba PVC banerů - Ústecký kraj,,,,výroba PVC banerů - Ústecký kraj
-05.08.2021,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů
+05.08.2021,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů centrální kampaň
 05.08.2021,-3296.04,Bezhotovostní platba,"",platba za tisk reklamních prostředků - Olomoucký kraj,308,8288909,,platba za tisk reklamních prostředků - Olomoucký kraj
 03.08.2021,-106755,Bezhotovostní platba,"",pronájem výlepových ploch Rengl Moravskoslezský kraj,308,1022565,,pronájem výlepových ploch Rengl Moravskoslezský kraj
-03.08.2021,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost
+03.08.2021,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost - MO Praha setkání kandidátů
 03.08.2021,-7260,Bezhotovostní platba,"",platba Hertzmann - český volič,308,21074,,platba Hertzmann - český volič
 03.08.2021,-14520,Bezhotovostní platba,"",pronájem billboardových ploch Ústecký kraj kraj,8,21064,,pronájem billboardových ploch Ústecký kraj kraj
 03.08.2021,-18150,Bezhotovostní platba,"",Mafra a.s. reklamní plocha v denících Moravskoslezský kraj,308,2321004736,,Mafra a.s. reklamní plocha v denících Moravskoslezský kraj
@@ -51,13 +63,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 27.07.2021,-19000,Bezhotovostní platba,"",příspěvek na volební náklady - Kraj Praha,558,8288909,,příspěvek na volební náklady - Kraj Praha
 26.07.2021,-4740,Platba převodem uvnitř banky,"",platba za hostingy webových stránek,308,20210034,,platba za hostingy webových stránek
 26.07.2021,-17940,Platba převodem uvnitř banky,"",právní služby ve věci ochranné známky,308,37222021,,právní služby ve věci ochranné známky
-26.07.2021,-6076.62,Platba převodem uvnitř banky,"","platba za samolepky, magnetky",308,276,,"platba za samolepky, magnetky"
+26.07.2021,-6076.62,Platba převodem uvnitř banky,"","platba za samolepky, magnetky",308,276,,"platba za samolepky, magnetky - Karlovarská kraj"
 26.07.2021,-64977,Bezhotovostní platba,"",platba za balonky na volební kampaň,308,210800003,,platba za balonky na volební kampaň
-26.07.2021,-605,Bezhotovostní platba,"",výroba dárkového šeku,308,210100115,,výroba dárkového šeku
+26.07.2021,-605,Bezhotovostní platba,"",výroba dárkového šeku,308,210100115,,výroba dárkového šeku Karlovarský kraj
 26.07.2021,-36638.8,Bezhotovostní platba,"",platba za grafiku a reklamní předměty Karlovarský kraj,308,210100114,,platba za grafiku a reklamní předměty Karlovarský kraj
 23.07.2021,-20000,Karetní transakce,"","Nákup: FACEBK *GRCXV5FZV2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.7.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK *GRCXV5FZV2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.7.2021, částka  20000.00 CZK"
 20.07.2021,1250000,Platba převodem uvnitř banky,Svobodní,Vklad Svobodných na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci,,71339612,,Vklad Svobodných na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci
-20.07.2021,-2044.9,Platba převodem uvnitř banky,"",Platba za nový polep petičního stánku,308,22121032,,Platba za nový polep petičního stánku
+20.07.2021,-2044.9,Platba převodem uvnitř banky,"",Platba za nový polep petičního stánku,308,22121032,,Platba za nový polep petičního stánku -Praha
 20.07.2021,-242000,Bezhotovostní platba,"",Dobrý den s Kurýrem platba TSS Zlínský Kraj,308,1122130060,,Dobrý den s Kurýrem platba TSS Zlínský Kraj
 20.07.2021,-9743,Bezhotovostní platba,"",platba za deštníky - volební kampaň,308,51210012,,platba za deštníky - volební kampaň
 20.07.2021,-7260,Bezhotovostní platba,"",platba Hertzmann - český volič,308,21061,,platba Hertzmann - český volič

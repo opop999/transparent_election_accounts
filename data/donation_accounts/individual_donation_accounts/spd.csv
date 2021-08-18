@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
 2021-08-16,1000,Okamžitá příchozí platba,Tomáš Kopečný,Dar pro SPD,,,,Tomáš Kopečný,spd
 2021-08-16,40,Bezhotovostní příjem,Martin Trubka,dar na činnost,,,,Martin Trubka,spd
 2021-08-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,"",,947,,KREJCAROVA JITKA,spd

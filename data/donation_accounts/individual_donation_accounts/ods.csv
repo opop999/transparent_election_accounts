@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,-430000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-08-17,50000,Bezhotovostní příjem,LabMediaServis s.r.o,"DAR, LabMediaServis s.r.o. Jaroměř",,2800210011,,LabMediaServis s.r.o,ods
 2021-08-16,10000,Platba převodem uvnitř banky,"Ing. Stanislav, Antonín","DAR, Antonin Stanislav",,2800210006,,"DAR, Antonin Stanislav",ods
 2021-08-16,50000,Okamžitá příchozí platba,BAUER JAN,"DAR,Jan Bauer",,2300210009,,BAUER JAN,ods
 2021-08-13,2e+05,Bezhotovostní příjem,ICOM TRANSPORT A.S.,DARODS,0,1100210052,0,ICOM TRANSPORT A.S.,ods

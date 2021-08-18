@@ -1,4 +1,30 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,500,Okamžitá příchozí platba,Mgr.Raková Lucie,"",0,84304,193000,Mgr.Raková Lucie,pirati
+2021-08-17,2500,Okamžitá příchozí platba,Česká spořitelna,"",0,44015589,193000,Česká spořitelna,pirati
+2021-08-17,500,Platba převodem uvnitř banky,"Tovtová, Marta","",,44012532,193000,"",pirati
+2021-08-17,300,Okamžitá příchozí platba,Jiří Šrahol,"",,83968,193000,Jiří Šrahol,pirati
+2021-08-17,300,Okamžitá příchozí platba,Minařík Václav,DAR 44006008/193000,0,44006008,193000,Minařík Václav,pirati
+2021-08-17,1000,Okamžitá příchozí platba,Veronika Trégnerová,"",,44015435,193000,Veronika Trégnerová,pirati
+2021-08-17,100,Bezhotovostní příjem,IRENA MARKOVÁ,POMOC PIRÁTSKÉ STRANĚ,,44005404,1,IRENA MARKOVÁ,pirati
+2021-08-17,333,Bezhotovostní příjem,BLANKA LEDNICKA,DAR PIRÁTI VYSOČINA,,,110700,BLANKA LEDNICKA,pirati
+2021-08-17,200,Bezhotovostní příjem,MARTIN LAŽNOVSKÝ,"DAR, MARTIN LAZNOVSKY, UVOZ 25, BRNO, 6.3.1980",,83418,4,MARTIN LAŽNOVSKÝ,pirati
+2021-08-17,200,Bezhotovostní příjem,Martin Čech,"",,44013881,1,Martin Čech,pirati
+2021-08-17,250,Bezhotovostní příjem,Miroslav Hanák,"M.Hanák, příspěvek na Piráty , Pha, od 2.2021",,44010494,2,Miroslav Hanák,pirati
+2021-08-17,50,Bezhotovostní příjem,Petra Valachová,Valachová,,44006457,,Petra Valachová,pirati
+2021-08-17,50,Bezhotovostní příjem,Martin Vobořil,Drobný příspěvek pirátům.,,84708,,Martin Vobořil,pirati
+2021-08-17,250,Bezhotovostní příjem,Andrej Koudelka,"",2,44011068,,Andrej Koudelka,pirati
+2021-08-17,100,Bezhotovostní příjem,Jan Zdobinský,Drzte se,,83670,1,Jan Zdobinský,pirati
+2021-08-17,50,Bezhotovostní příjem,Eva Aljanabi,"",,44006037,,Eva Aljanabi,pirati
+2021-08-17,1000,Bezhotovostní příjem,Zuzana Ujhelyiová,záměr Provozní výdaje MS Praha 11,,,110111,Zuzana Ujhelyiová,pirati
+2021-08-17,26229.96,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1560018704,20210816,Global Payments s.r.,pirati
+2021-08-17,400,Bezhotovostní příjem,KOKY MAXIM,MS FM CYRIL KOKY,0,44015640,110404,KOKY MAXIM,pirati
+2021-08-17,300,Bezhotovostní příjem,ŠPAJS VLASTIMIL,DAR NA PROVOZ PŘEROVSKÉHO PICE,0,0,110303,ŠPAJS VLASTIMIL,pirati
+2021-08-17,1500,Bezhotovostní příjem,BARTKO JAN,pro nase mile MS,,12024,110103,BARTKO JAN,pirati
+2021-08-17,100,Bezhotovostní příjem,MONTONIOVA RADKA,"",,44011501,2,MONTONIOVA RADKA,pirati
+2021-08-17,200,Bezhotovostní příjem,KEŠNEROVÁ PAVLA,"",308,44009098,12,KEŠNEROVÁ PAVLA,pirati
+2021-08-17,100,Bezhotovostní příjem,Shanaáh Sámir,"",,44005196,,Shanaáh Sámir,pirati
+2021-08-17,250,Bezhotovostní příjem,Lauritzenová Klára,Lauritzenová Klára,,44007593,2,Lauritzenová Klára,pirati
+2021-08-17,300,Platba převodem uvnitř banky,"Petroš, Jakub","",,82717,110404,"",pirati
 2021-08-16,2000,Okamžitá příchozí platba,Miloš MRKVIČKA,"",0,44004110,193000,Miloš MRKVIČKA,pirati
 2021-08-16,500,Okamžitá příchozí platba,MARTIN MARTIN,Podporuji: Volební kampaň Pirátů a Starostů,,83569,193000,MARTIN MARTIN,pirati
 2021-08-16,200,Okamžitá příchozí platba,Tomáš Pexa,DAR 44004319/193000,,44004319,193000,Tomáš Pexa,pirati

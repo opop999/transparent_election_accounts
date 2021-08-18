@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,-2e+06,Platba převodem uvnitř banky,"",převod peněz na Volební výdajový účet,,,,převod peněz na Volební výdajový účet,trikolora
+2021-08-17,800,Bezhotovostní příjem,DRAHOS ZDENEK PHDR.,"",,2000315,,DRAHOS ZDENEK PHDR.,trikolora
+2021-08-17,999,Bezhotovostní příjem,HANZÁK MILAN,DAR příspěvek RP,0,12001908,0,HANZÁK MILAN,trikolora
+2021-08-17,200,Bezhotovostní příjem,KRAJICEK LIBOR,DAR Libor Krajicek,,11000107,,KRAJICEK LIBOR,trikolora
+2021-08-17,150,Bezhotovostní příjem,BUCHTELA DAVID,"DAR, David Buchtela",,0,,BUCHTELA DAVID,trikolora
 2021-08-16,100,Okamžitá příchozí platba,JAROSLAV BLIŽŇÁK,DAR příspěvek RP,,7000700,,JAROSLAV BLIŽŇÁK,trikolora
 2021-08-16,999,Bezhotovostní příjem,BAUM PETR,DAR - Petr Baum 19.11.1941,,0,,BAUM PETR,trikolora
 2021-08-16,1000,Bezhotovostní příjem,VRÁNA PAVEL,"DAR, PAVEL VRÁNA",0,,,VRÁNA PAVEL,trikolora

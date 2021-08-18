@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,5000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
+2021-08-17,10000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
+2021-08-17,50000,Okamžitá příchozí platba,Martin Palán,Dar hnutí,0,,,Martin Palán,prisaha
+2021-08-17,25000,Okamžitá příchozí platba,PAVEL MATĚJŮ,Dar Hnutí,,7503041491,,PAVEL MATĚJŮ,prisaha
+2021-08-17,200,Bezhotovostní příjem,RAUŠEROVÁ ILJANA,dar spolku,,80158,,RAUŠEROVÁ ILJANA,prisaha
+2021-08-17,873.4,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-16,10000,Okamžitá příchozí platba,Kolesár Leon,DAR HNUTÍ,0,,,Kolesár Leon,prisaha
 2021-08-16,20000,Okamžitá příchozí platba,Ing.Novotný Pavel,dar hnutí,8,16082021,16082021,Ing.Novotný Pavel,prisaha
 2021-08-16,10000,Bezhotovostní příjem,SCHAFFER ZBYNĚK,dar hnutí Zlínský kraj,308,640503,0,SCHAFFER ZBYNĚK,prisaha

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,1000,Bezhotovostní příjem,VACULÍNOVÁ KARLA,dar tornádo Vaculínová Karla,308,5558041610,999,VACULÍNOVÁ KARLA,kdu-csl
+2021-08-17,10000,Okamžitá příchozí platba,Česká spořitelna,dar Michaela Šojdrová,308,28101963,999,Česká spořitelna,kdu-csl
+2021-08-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
+2021-08-17,30000,Bezhotovostní příjem,LabMediaServis s.r.o,"DAR, LabMediaServis s.r.o. Jaroměř",,27512380,,LabMediaServis s.r.o,kdu-csl
+2021-08-17,150,Bezhotovostní příjem,Weber Tomáš,Zdraví Prostějov - Tomáš Weber,999,19831015,,Weber Tomáš,kdu-csl
+2021-08-17,150,Bezhotovostní příjem,Weber Tomáš,Zdraví Prostějov - Jana Weberová,999,19860304,,Weber Tomáš,kdu-csl
 2021-08-16,42500,Bezhotovostní příjem,LUKAC JAN BOHDAN,Dar pro JCK organizaci KDU-CSL,,0,,LUKAC JAN BOHDAN,kdu-csl
 2021-08-16,2000,Bezhotovostní příjem,Filip Chvátal,Filip Chvátal pravidelný příspěvekKDU Brno,,27051986,709,Filip Chvátal,kdu-csl
 2021-08-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,"",0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl

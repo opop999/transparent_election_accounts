@@ -1,4 +1,21 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-18,-20000,Karetní transakce,"","Nákup: FACEBK *YNVU36KNY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  20000.00 CZK",,8267,,"Nákup: FACEBK *YNVU36KNY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  20000.00 CZK",pirati_stan
+2021-08-18,-3950,Karetní transakce,"","Nákup: FACEBK *94RRZ6XYQ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  3950.00 CZK",,9967,,"Nákup: FACEBK *94RRZ6XYQ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  3950.00 CZK",pirati_stan
+2021-08-18,-500,Karetní transakce,"","Nákup: FACEBK *RGGZ96FUY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  500.00 CZK",,8267,,"Nákup: FACEBK *RGGZ96FUY2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  500.00 CZK",pirati_stan
+2021-08-18,-20000,Karetní transakce,"","Nákup: FACEBK *JE9LG7PWE2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  20000.00 CZK",,6835,,"Nákup: FACEBK *JE9LG7PWE2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  20000.00 CZK",pirati_stan
+2021-08-17,-2262,Bezhotovostní platba,"","pp#17868 FO 2964/2021, khk:p, vyroba-lavicek-spojovak, vyroba-lavicek-spojovak",,1,42021,"pp#17868 FO 2964/2021, khk:p, vyroba-lavicek-spojovak, vyroba-lavicek-spojovak",pirati_stan
+2021-08-17,-349,Bezhotovostní platba,"","pp#17867 FO 2963/2021, khk:p, vyroba-lavicek, vyroba-lavicek",,1,42021,"pp#17867 FO 2963/2021, khk:p, vyroba-lavicek, vyroba-lavicek",pirati_stan
+2021-08-17,-1309.6,Bezhotovostní platba,"","pp#17866 FO 2962/2021, cen:vs, nafta-nanukary, orlen-unipetrol-rpa-sro",,1608,42021,"pp#17866 FO 2962/2021, cen:vs, nafta-nanukary, orlen-unipetrol-rpa-sro",pirati_stan
+2021-08-17,-1773,Bezhotovostní platba,"","pp#17865 FO 2961/2021, cen:vs, vybaveni-nanukary, alzacz-as",,1608,42021,"pp#17865 FO 2961/2021, cen:vs, vybaveni-nanukary, alzacz-as",pirati_stan
+2021-08-17,-1909.2,Bezhotovostní platba,"","pp#17864 FO 2960/2021, cen:vs, nafta-nanukary, nafta",,1608,42021,"pp#17864 FO 2960/2021, cen:vs, nafta-nanukary, nafta",pirati_stan
+2021-08-17,-801.1,Bezhotovostní platba,"","pp#17863 FO 2959/2021, cen:vs, nafta-nanukary, nafta",,1608,42021,"pp#17863 FO 2959/2021, cen:vs, nafta-nanukary, nafta",pirati_stan
+2021-08-17,-4175.9,Bezhotovostní platba,"","pp#17862 FO 2958/2021, cen:vs, nafta-nanukary, nafta",,1608,42021,"pp#17862 FO 2958/2021, cen:vs, nafta-nanukary, nafta",pirati_stan
+2021-08-17,-3815.9,Bezhotovostní platba,"","pp#17861 FO 2957/2021, cen:vs, nafta-nanukary, nafta",,1608,42021,"pp#17861 FO 2957/2021, cen:vs, nafta-nanukary, nafta",pirati_stan
+2021-08-17,-4779.5,Bezhotovostní platba,"","pp#17859 FO 2955/2021, ulk:p, online-na-facebooku-2021-0802, facebook-ireland-limited",,2955,,"pp#17859 FO 2955/2021, ulk:p, online-na-facebooku-2021-0802, facebook-ireland-limited",pirati_stan
+2021-08-17,-120,Bezhotovostní platba,"","pp#17841 FO 2939/2021, stc:p, zabor-naukove-auto-kraluv-dvur, mesto-kraluv-dvur",,20210393,42021,"pp#17841 FO 2939/2021, stc:p, zabor-naukove-auto-kraluv-dvur, mesto-kraluv-dvur",pirati_stan
+2021-08-17,-2420.05,Bezhotovostní platba,"","pp#17815 FO 2913/2021, olk:p, fb-propagace, josef-indra",,111,,"pp#17815 FO 2913/2021, olk:p, fb-propagace, josef-indra",pirati_stan
+2021-08-17,-50,Bezhotovostní platba,"","pp#17775 FO 2873/2021, jhm:p, zabor-velke-opatovice, mesto-velke-opatovice",,1105000089,42021,"pp#17775 FO 2873/2021, jhm:p, zabor-velke-opatovice, mesto-velke-opatovice",pirati_stan
+2021-08-17,-35000,Bezhotovostní platba,"","pp#17754 FO 2853/2021, olk:p, proplaceni-pr-manager-josef-indra-202107, josefindra",,20210702,,"pp#17754 FO 2853/2021, olk:p, proplaceni-pr-manager-josef-indra-202107, josefindra",pirati_stan
 2021-08-17,2274,Karetní transakce,"","Kredit: ZLUTY.CZ,  Nam. Svobody 17, BRNO, 602 00, CZE, dne 16.8.2021, částka  2274.00 CZK",,9967,,"Kredit: ZLUTY.CZ,  Nam. Svobody 17, BRNO, 602 00, CZE, dne 16.8.2021, částka  2274.00 CZK",pirati_stan
 2021-08-16,-1452,Okamžitá odchozí platba,"","pp#17870 FO 2966/2021, lbk:p, vlajecky-na-auta, inter-flag-sro",308,100122021,42021,"pp#17870 FO 2966/2021, lbk:p, vlajecky-na-auta, inter-flag-sro",pirati_stan
 2021-08-16,-12846.74,Karetní transakce,"","Nákup: FACEBK *ZSH2Y5BNM2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.8.2021, částka  12846.74 CZK",,8267,,"Nákup: FACEBK *ZSH2Y5BNM2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 15.8.2021, částka  12846.74 CZK",pirati_stan
@@ -1343,6 +1360,25 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-26,-4840,Bezhotovostní platba,"","pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",,113,,"pp#14815 FO 113/2021, pha:p, reklamy-na-socialnich-sitich-leden-2021, tomas-vovsik",pirati_stan
 2021-01-06,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",,8267,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Praha, CZE, dne 5.1.2021",pirati_stan
 2021-01-05,99000,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI,,,,Převod na účet 2601909155 PIRÁTI,pirati_stan
+2021-08-17,-751773,Bezhotovostní platba,"","",558,202110001,1114,"1114-MBS Media s.r.o., CLV kampaň 9.a10./2021 , pronájem CLV ploch, tisky",ods_kdu-csl_top09
+2021-08-17,-6231.5,Bezhotovostní platba,"","",378,1,3300,"3300-Jan Zapletal , PHM vol. auto",ods_kdu-csl_top09
+2021-08-17,-29403,Bezhotovostní platba,"","",308,20210144,3300,"3300-Jiří Mareček , tisk letáčky",ods_kdu-csl_top09
+2021-08-17,-462,Bezhotovostní platba,"","",308,20210133,3300,"3300-Kroměřížské techn. služby , techn. zabezpečení Lkina",ods_kdu-csl_top09
+2021-08-17,-3059.49,Platba převodem uvnitř banky,"","",308,202105119,3300,"3300-R36.cz. s.r.o., magnetky",ods_kdu-csl_top09
+2021-08-17,-1386,Bezhotovostní platba,"","",378,1974,3000,"3000-Jan Kuchař , propagační materiál- odměny LK",ods_kdu-csl_top09
+2021-08-17,-1571,Bezhotovostní platba,"","",378,1974,3000,"3000-Jan Kuchař, nákup hry",ods_kdu-csl_top09
+2021-08-17,-3879,Bezhotovostní platba,"","",378,1974,3000,"3000-Jan Kuchař, spotřební materiál",ods_kdu-csl_top09
+2021-08-17,-4000,Bezhotovostní platba,"","",378,1974,3000,"3000-Jan Kuchař,pronájem prostor Lkino",ods_kdu-csl_top09
+2021-08-17,-1680,Bezhotovostní platba,"","",378,1974,3000,"3000-Jan Kuchař , PHM vol. auto",ods_kdu-csl_top09
+2021-08-17,-2580.02,Platba převodem uvnitř banky,"","",308,202105116,3000,"3000-R36 .cz s.r.o., reklamní magnetky",ods_kdu-csl_top09
+2021-08-17,-33880,Bezhotovostní platba,"","",308,210533,3000,"3000-IMAGE STUDIO s.r.o., výroba, zavěšení , demontáž plachty na objektu NBC",ods_kdu-csl_top09
+2021-08-17,-412,Bezhotovostní platba,"","",308,1,2300,"2300-Iveta Uhlíková, poplatek za Lkino",ods_kdu-csl_top09
+2021-08-17,-48,Bezhotovostní platba,"","",308,9707000326,2300,"2300-Město Dačice, spotřeba el. energie",ods_kdu-csl_top09
+2021-08-17,-1520.4,Bezhotovostní platba,"","",308,5,2300,"2300-Jan Pešek , PHM vol . auto",ods_kdu-csl_top09
+2021-08-17,-1520,Bezhotovostní platba,"","",379,2120004088,10049585,"2200-Statutární město Mladá Boleslav, správní poplatek za trojhran",ods_kdu-csl_top09
+2021-08-17,-1000,Bezhotovostní platba,"","",308,601,2124,"2200-Město Čelákovice, zábor náměstí pro Lkino",ods_kdu-csl_top09
+2021-08-17,-3800,Bezhotovostní platba,"","",378,35472021,2200,"2200-Město Stochov, zábor veř. prostranství",ods_kdu-csl_top09
+2021-08-17,-49997.2,Bezhotovostní platba,"","",308,2021067,2200,"2200-Ondřej Pýcha, postprodukce vol. fotografie 50x",ods_kdu-csl_top09
 2021-08-16,-2000,Okamžitá odchozí platba,"","",8,1210293,2900,"2900-EMAGRA s.r.o., pronájem reklamní plochy",ods_kdu-csl_top09
 2021-08-16,-1197.9,Bezhotovostní platba,"","",558,9900010,2600,"2600-Dopravní podnik města Chomutova, pronájem plochy MHD",ods_kdu-csl_top09
 2021-08-16,-500,Bezhotovostní platba,"","",308,1361409290,2600,"2600-Město Louny, správní poplatek",ods_kdu-csl_top09
@@ -2148,6 +2184,18 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-22,284000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,,9,,ČSSD Praha,cssd
 2021-02-15,-24200,Bezhotovostní platba,"",ČSSD Praha,308,21009,1,Herzmann s.r.o. - projekt Český volič,cssd
 2021-02-15,25000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,,9,,Převod finančních prostředků z ÚS,cssd
+2021-08-17,-600,Bezhotovostní platba,"",platba za pronájem veřejného prostranství - Roudnice nad Labem/Ústecký kraj,308,3020002021,,platba za pronájem veřejného prostranství - Roudnice nad Labem/Ústecký kraj,trikolora
+2021-08-17,-40000,Bezhotovostní platba,"",platba za pronájem Lodi - Praha,308,2021040,,platba za pronájem Lodi - Praha,trikolora
+2021-08-17,-72153.3,Bezhotovostní platba,"",platba za pronájem mobilních panelů - Olomoucký kraj,308,20210001,,platba za pronájem mobilních panelů - Olomoucký kraj,trikolora
+2021-08-17,-77440,Platba převodem uvnitř banky,"",pronájem mediálních ploch dle smlouvy 6530 Moravskoslezský kraj,308,65303,,pronájem mediálních ploch dle smlouvy 6530 Moravskoslezský kraj,trikolora
+2021-08-17,-786.5,Bezhotovostní platba,"",instalace plakátů Ústí nad Labem,308,2100130,,instalace plakátů Ústí nad Labem,trikolora
+2021-08-17,-26541,Platba převodem uvnitř banky,"",tisk a výroba PVC Bannerů Výrobapro.cz,308,20216172,,tisk a výroba PVC Bannerů Výrobapro.cz,trikolora
+2021-08-17,-672399.54,Bezhotovostní platba,"",platba _Canmedia- seznam.mafra a další,,2021191,,platba _Canmedia- seznam.mafra a další,trikolora
+2021-08-17,-90750,Bezhotovostní platba,"",platba Our Media - mediální kampaň,308,210100191,,platba Our Media - mediální kampaň,trikolora
+2021-08-17,-29040,Bezhotovostní platba,"","pronájem reklamních, ploch Moravskoslezský kraj",308,3,,"pronájem reklamních, ploch Moravskoslezský kraj",trikolora
+2021-08-17,-33880,Bezhotovostní platba,"",pronájem reklamních plocha a instalace banerů - Moravskoslezský kraj,308,212175,,pronájem reklamních plocha a instalace banerů - Moravskoslezský kraj,trikolora
+2021-08-17,-77500.5,Bezhotovostní platba,"",platba za koření na volební kampaň - Brand,308,51210016,,platba za koření na volební kampaň - Brand,trikolora
+2021-08-17,2e+06,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod peněz na Volební výdajový účet,,,,převod peněz na Volební výdajový účet,trikolora
 2021-08-12,-30250,Okamžitá odchozí platba,"",Platba za průzkum Response Now,8,2021100,,Platba za průzkum Response Now,trikolora
 2021-08-11,-99613.25,Okamžitá odchozí platba,"",výroba LIPO kontaktní kampaň,308,51210015,,výroba LIPO kontaktní kampaň,trikolora
 2021-08-10,-3786,Bezhotovostní platba,"",platba za potisk a výrobu balonků Ústecký kraj,308,2170000094,,platba za potisk a výrobu balonků Ústecký kraj,trikolora
@@ -2155,9 +2203,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-10,-300,Bezhotovostní platba,"",poplatek za pronájem veřejného prostranství Ústecký kraj,308,701000134,,poplatek za pronájem veřejného prostranství Ústecký kraj,trikolora
 2021-08-10,-77440,Platba převodem uvnitř banky,"",platba Outdoor media CZ Moravskoslezský kraj,308,202103,,platba Outdoor media CZ Moravskoslezský kraj,trikolora
 2021-08-10,-68873.2,Bezhotovostní platba,"",platba za pronájem a výlep Billboardu Pardubický kraj,308,21200828,,platba za pronájem a výlep Billboardu Pardubický kraj,trikolora
-2021-08-10,-7986,Bezhotovostní platba,"",platba pronájem a výlep billboardových ploch,308,2021117,,platba pronájem a výlep billboardových ploch,trikolora
+2021-08-10,-7986,Bezhotovostní platba,"",platba pronájem a výlep billboardových ploch,308,2021117,,platba pronájem a výlep billboardových ploch - Ústecký kraj,trikolora
 2021-08-10,-10000,Bezhotovostní platba,"",správa facebooku a placená reklama Ústecký kraj a Tereza Hyťhová,308,28072021,,správa facebooku a placená reklama Ústecký kraj a Tereza Hyťhová,trikolora
-2021-08-10,-29634,Bezhotovostní platba,"",platba za Událost Postoloprty 09/21,,2120144,,platba za Událost Postoloprty 09/21,trikolora
+2021-08-10,-29634,Bezhotovostní platba,"",platba za Událost Postoloprty 09/21,,2120144,,"platba za big boardy Postoloprty, Louny - Ústecký kraj",trikolora
 2021-08-10,-5609,Bezhotovostní platba,"",platba za plakáty A2 Ústecký kraj,308,210077,,platba za plakáty A2 Ústecký kraj,trikolora
 2021-08-10,-7200,Bezhotovostní platba,"",platba oboustranný volební leták Ústecký kraj,308,210076,,platba oboustranný volební leták Ústecký kraj,trikolora
 2021-08-10,-6655,Bezhotovostní platba,"",platba za potisk a volební banner Ústecký kraj,308,210072,,platba za potisk a volební banner Ústecký kraj,trikolora
@@ -2166,10 +2214,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-10,-1e+05,Bezhotovostní platba,"",platba za video spoty a propagaci Karlovarský kraj,308,92010003,,platba za video spoty a propagaci Karlovarský kraj,trikolora
 2021-08-05,-8250,Platba převodem uvnitř banky,"",platba za právní služby - kandidátní listiny,308,2021131,,platba za právní služby - kandidátní listiny,trikolora
 2021-08-05,-4450,Platba převodem uvnitř banky,"",výroba PVC banerů - Ústecký kraj,,,,výroba PVC banerů - Ústecký kraj,trikolora
-2021-08-05,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů,trikolora
+2021-08-05,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů centrální kampaň,trikolora
 2021-08-05,-3296.04,Bezhotovostní platba,"",platba za tisk reklamních prostředků - Olomoucký kraj,308,8288909,,platba za tisk reklamních prostředků - Olomoucký kraj,trikolora
 2021-08-03,-106755,Bezhotovostní platba,"",pronájem výlepových ploch Rengl Moravskoslezský kraj,308,1022565,,pronájem výlepových ploch Rengl Moravskoslezský kraj,trikolora
-2021-08-03,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost,trikolora
+2021-08-03,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost - MO Praha setkání kandidátů,trikolora
 2021-08-03,-7260,Bezhotovostní platba,"",platba Hertzmann - český volič,308,21074,,platba Hertzmann - český volič,trikolora
 2021-08-03,-14520,Bezhotovostní platba,"",pronájem billboardových ploch Ústecký kraj kraj,8,21064,,pronájem billboardových ploch Ústecký kraj kraj,trikolora
 2021-08-03,-18150,Bezhotovostní platba,"",Mafra a.s. reklamní plocha v denících Moravskoslezský kraj,308,2321004736,,Mafra a.s. reklamní plocha v denících Moravskoslezský kraj,trikolora
@@ -2200,13 +2248,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-27,-19000,Bezhotovostní platba,"",příspěvek na volební náklady - Kraj Praha,558,8288909,,příspěvek na volební náklady - Kraj Praha,trikolora
 2021-07-26,-4740,Platba převodem uvnitř banky,"",platba za hostingy webových stránek,308,20210034,,platba za hostingy webových stránek,trikolora
 2021-07-26,-17940,Platba převodem uvnitř banky,"",právní služby ve věci ochranné známky,308,37222021,,právní služby ve věci ochranné známky,trikolora
-2021-07-26,-6076.62,Platba převodem uvnitř banky,"","platba za samolepky, magnetky",308,276,,"platba za samolepky, magnetky",trikolora
+2021-07-26,-6076.62,Platba převodem uvnitř banky,"","platba za samolepky, magnetky",308,276,,"platba za samolepky, magnetky - Karlovarská kraj",trikolora
 2021-07-26,-64977,Bezhotovostní platba,"",platba za balonky na volební kampaň,308,210800003,,platba za balonky na volební kampaň,trikolora
-2021-07-26,-605,Bezhotovostní platba,"",výroba dárkového šeku,308,210100115,,výroba dárkového šeku,trikolora
+2021-07-26,-605,Bezhotovostní platba,"",výroba dárkového šeku,308,210100115,,výroba dárkového šeku Karlovarský kraj,trikolora
 2021-07-26,-36638.8,Bezhotovostní platba,"",platba za grafiku a reklamní předměty Karlovarský kraj,308,210100114,,platba za grafiku a reklamní předměty Karlovarský kraj,trikolora
 2021-07-23,-20000,Karetní transakce,"","Nákup: FACEBK *GRCXV5FZV2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.7.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK *GRCXV5FZV2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.7.2021, částka  20000.00 CZK",trikolora
 2021-07-20,1250000,Platba převodem uvnitř banky,Svobodní,Vklad Svobodných na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci,,71339612,,Vklad Svobodných na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci,trikolora
-2021-07-20,-2044.9,Platba převodem uvnitř banky,"",Platba za nový polep petičního stánku,308,22121032,,Platba za nový polep petičního stánku,trikolora
+2021-07-20,-2044.9,Platba převodem uvnitř banky,"",Platba za nový polep petičního stánku,308,22121032,,Platba za nový polep petičního stánku -Praha,trikolora
 2021-07-20,-242000,Bezhotovostní platba,"",Dobrý den s Kurýrem platba TSS Zlínský Kraj,308,1122130060,,Dobrý den s Kurýrem platba TSS Zlínský Kraj,trikolora
 2021-07-20,-9743,Bezhotovostní platba,"",platba za deštníky - volební kampaň,308,51210012,,platba za deštníky - volební kampaň,trikolora
 2021-07-20,-7260,Bezhotovostní platba,"",platba Hertzmann - český volič,308,21061,,platba Hertzmann - český volič,trikolora
@@ -2290,6 +2338,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-02,5000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,Převod prostředků na volební výdajový účet,,,,Převod prostředků na volební výdajový účet,trikolora
 2021-01-22,-181500,Bezhotovostní platba,"",Trikolóra,308,210100008,0,Zajištění bannerů pro propagaci hnutí (OUR MEDIA a.s.),trikolora
 2021-01-22,182000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na transparentní výdajový účet,,,,převod na transparentní výdajový účet,trikolora
+2021-08-18,-2420,Karetní transakce,"","Nákup: FACEBK *N2QXD63KK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *N2QXD63KK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  2420.00 CZK",zeleni
+2021-08-17,23934,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-08-17,20000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021,,1,71,vklad do kampaně,zeleni
+2021-08-17,2e+05,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-08-17,2464,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ZLK na volební účet SZ- volby do PS PČR 2021,,21082415,72,Převod prostředků KO ZLK na volební účet SZ- volby do PS PČR 2021,zeleni
 2021-08-16,6589,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,1022706,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-08-16,-2420,Karetní transakce,"","Nákup: FACEBK *FX3TK5PJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *FX3TK5PJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.8.2021, částka  2420.00 CZK",zeleni
 2021-08-13,-500,Platba převodem uvnitř banky,"","vratka mylné platby - BlueGhost.cz, s.r.o.",,,,"vratka mylné platby - BlueGhost.cz, s.r.o.",zeleni
@@ -2334,6 +2387,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-04,-15000,Okamžitá odchozí platba,"","FA 19/2021 - výroba 7 videí pro kampaň ""Ulice pro lidi""",,192021,64,JMK - Jan Fuksa,zeleni
 2021-06-04,15000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-01-06,100,Platba převodem uvnitř banky,Strana zelených,převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu),,,,převod z provozního účtu na účet pro volby do PS PČR 2021 (aktivace účtu),zeleni
+2021-08-18,-24200,Karetní transakce,"","Nákup: FACEBK *64LXC53F62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  24200.00 CZK",,8013,,"Nákup: FACEBK *64LXC53F62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  24200.00 CZK",prisaha
 2021-08-12,-112450,Bezhotovostní platba,"","Fakturujeme Vám tisk a výlep plakátů a billboardů Plzensko, Vysočina a Středočeský kraj, Příjemce Šimway sro",308,202194,,"Fakturujeme Vám tisk a výlep plakátů a billboardů Plzensko, Vysočina a Středočeský kraj, Příjemce Šimway sro",prisaha
 2021-08-12,-15000,Okamžitá odchozí platba,"","Fakturujeme Vám dle smlouvy pronájem plochy na banner 15 x 6m směr na Svitavy, Příjemce Zbyněk Kříž",,1,,"Fakturujeme Vám dle smlouvy pronájem plochy na banner 15 x 6m směr na Svitavy, Příjemce Zbyněk Kříž",prisaha
 2021-08-12,-104096.3,Bezhotovostní platba,"","Fakturujeme Vám výrobu velkorozměrových bannerů a magnetických polepů aut, Příjemce Šimway sro",308,202195,,"Fakturujeme Vám výrobu velkorozměrových bannerů a magnetických polepů aut, Příjemce Šimway sro",prisaha

@@ -1,4 +1,43 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-17,5000,Okamžitá příchozí platba,Pavel Marc,dar na kampaň,,9003090,,Pavel Marc,zeleni
+2021-08-17,500,Platba převodem uvnitř banky,"Ing. Suchánková, Libuše",dar,,9003089,,dar,zeleni
+2021-08-17,-500,Platba převodem uvnitř banky,"",vrácení platby - nejasný účel platby (Strana zelených),,9003062,,"Křížková, Eva",zeleni
+2021-08-17,-2000,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,9003053,,GREGOROVA STEPANKA,zeleni
+2021-08-17,-1000,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,9003034,,Helena Ganická,zeleni
+2021-08-17,-2e+05,Platba převodem uvnitř banky,"",převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-08-17,2000,Platba převodem uvnitř banky,"Ing. Jedlička, Ivan",dar Straně Zelených,,9003086,,dar Straně Zelených,zeleni
+2021-08-17,1000,Okamžitá příchozí platba,Kolář Petr,dar,,9003085,,Kolář Petr,zeleni
+2021-08-17,10000,Bezhotovostní příjem,"D E A S , SPOL. S.R.",Strana zelených-dar,0,46961968,0,"D E A S , SPOL. S.R.",zeleni
+2021-08-17,500,Okamžitá příchozí platba,MATOUŠOVÁ VLASTA,DAR,8,9003084,,MATOUŠOVÁ VLASTA,zeleni
+2021-08-17,1000,Bezhotovostní příjem,SVETLANA VASTOVA,DAR,,9003080,,SVETLANA VASTOVA,zeleni
+2021-08-17,500,Platba převodem uvnitř banky,"Křížková, Eva","",,9003062,,"",zeleni
+2021-08-17,1000,Bezhotovostní příjem,LAZAN MICHAEL,dar kampan,,9003082,,LAZAN MICHAEL,zeleni
+2021-08-17,500,Bezhotovostní příjem,TONDER PETR,dar,,9003081,,TONDER PETR,zeleni
+2021-08-17,300,Bezhotovostní příjem,ALEXEJ MRUZEK,DAR,,9003079,,ALEXEJ MRUZEK,zeleni
+2021-08-17,20000,Bezhotovostní příjem,JANA KRUMPHOLCOVA,DAR,,9003078,,JANA KRUMPHOLCOVA,zeleni
+2021-08-17,500,Okamžitá příchozí platba,Mgr. Josef Kalčík,Josef Kalčík - dar,,9003077,,Mgr. Josef Kalčík,zeleni
+2021-08-17,1000,Okamžitá příchozí platba,Michal Zima,dar,,9003076,,Michal Zima,zeleni
+2021-08-17,1000,Bezhotovostní příjem,MICHAL LAZNICKA,DAR,,9003045,,MICHAL LAZNICKA,zeleni
+2021-08-17,200,Bezhotovostní příjem,ADAM HORKY,DAR ZELENÝM,,9002699,,ADAM HORKY,zeleni
+2021-08-17,1000,Bezhotovostní příjem,JAN HRUDKA,DAR,,9003055,,JAN HRUDKA,zeleni
+2021-08-17,10000,Bezhotovostní příjem,ROBERT DAVID,DAR NA VOLBY 2021,,9003066,,ROBERT DAVID,zeleni
+2021-08-17,1000,Bezhotovostní příjem,Daniela Čížková,Dar,,9003052,,Daniela Čížková,zeleni
+2021-08-17,200,Bezhotovostní příjem,VECKO JIŘÍ,dar,0,9003056,0,VECKO JIŘÍ,zeleni
+2021-08-17,1000,Okamžitá příchozí platba,Vladimír IZBICKIJ,dar,0,9003075,,Vladimír IZBICKIJ,zeleni
+2021-08-17,500,Bezhotovostní příjem,Milan Vachovec,"Dar - Milan Vachovec,Smetanova 372,252 25 Jinočany",,9002648,,Milan Vachovec,zeleni
+2021-08-17,300,Okamžitá příchozí platba,Petr Vařeka,dar,,9003074,,Petr Vařeka,zeleni
+2021-08-17,300,Bezhotovostní příjem,GLOBOČNÍK PETR,DAR GLOBOČNÍK,0,0,0,GLOBOČNÍK PETR,zeleni
+2021-08-17,400,Bezhotovostní příjem,ŠANDOVÁ MARKÉTA,dar,0,9003044,0,ŠANDOVÁ MARKÉTA,zeleni
+2021-08-17,500,Bezhotovostní příjem,VÁŇOVÁ DAGMAR,DAR,0,9003038,0,VÁŇOVÁ DAGMAR,zeleni
+2021-08-17,1000,Bezhotovostní příjem,VAVRDA RICHARD,Dar Volby 2021 R.Vavrda,0,9003046,0,VAVRDA RICHARD,zeleni
+2021-08-17,5000,Bezhotovostní příjem,JANÁKOVÁ KATEŘINA,dar,0,9003047,0,JANÁKOVÁ KATEŘINA,zeleni
+2021-08-17,800,Bezhotovostní příjem,MASARE VIT,300 centru/200 Martin Ander do Senatu/300 KO Praha,,9002355,,MASARE VIT,zeleni
+2021-08-17,500,Bezhotovostní příjem,SUBNAJA NATALIE,dar,,9003070,,SUBNAJA NATALIE,zeleni
+2021-08-17,1000,Bezhotovostní příjem,Žitný Zbyněk,Dar,0,9002038,0,Žitný Zbyněk,zeleni
+2021-08-17,5000,Bezhotovostní příjem,MAZURKIEWICZ MICHAL,Dar na kampan,,9003069,,MAZURKIEWICZ MICHAL,zeleni
+2021-08-17,2000,Bezhotovostní příjem,GREGOROVA STEPANKA,"",,9003053,,GREGOROVA STEPANKA,zeleni
+2021-08-17,300,Bezhotovostní příjem,SOMMEROVA ZORA,dar,,9003051,,SOMMEROVA ZORA,zeleni
+2021-08-17,1000,Bezhotovostní příjem,KINTEROVA MARKETA,dar,,9003039,,KINTEROVA MARKETA,zeleni
 2021-08-16,10000,Okamžitá příchozí platba,Prof.Šedlbauer Josef,dar - parlamentní volby,0,,,Prof.Šedlbauer Josef,zeleni
 2021-08-16,500,Okamžitá příchozí platba,Eva Vaníčková,Dar,,9003071,,Eva Vaníčková,zeleni
 2021-08-16,300,Okamžitá příchozí platba,Sukupová Iveta,DAR,0,9003068,,Sukupová Iveta,zeleni
