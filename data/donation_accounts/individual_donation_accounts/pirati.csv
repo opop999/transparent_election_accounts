@@ -1,4 +1,22 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-18,300,Okamžitá příchozí platba,Andrea Baránková,DAR 44006045/193000,,44006045,193000,Andrea Baránková,pirati
+2021-08-18,50000,Okamžitá příchozí platba,SLAVĚTÍNSKÝ JAN,DAR 44015708/1,,44015708,1,SLAVĚTÍNSKÝ JAN,pirati
+2021-08-18,3000,Okamžitá příchozí platba,Mgr.Freitas Lopesová,Freitas,308,12307,110110,Mgr.Freitas Lopesová,pirati
+2021-08-18,1000,Bezhotovostní příjem,JIRI JANKU,DAR 84226/190000,,84226,190000,JIRI JANKU,pirati
+2021-08-18,5000,Bezhotovostní příjem,TALASEK VOJTECH,DAR 84148/193000,,84148,193000,TALASEK VOJTECH,pirati
+2021-08-18,500,Bezhotovostní příjem,Ondřej Volejník,"",0,44005897,,Ondřej Volejník,pirati
+2021-08-18,50,Bezhotovostní příjem,Vojtěch Mrázek,"",0,44006400,,Vojtěch Mrázek,pirati
+2021-08-18,100,Bezhotovostní příjem,"CASTKOVA ZLATA, MGR.",Prispevek,0,82629,1,"CASTKOVA ZLATA, MGR.",pirati
+2021-08-18,300,Okamžitá příchozí platba,Bc.Váchová Lucie,DAR 44005781/200024,0,44005781,200024,Bc.Váchová Lucie,pirati
+2021-08-18,333,Bezhotovostní příjem,MUDR. MICHAELA KRTIC,PODPORA PRO VÁS,,44015283,193000,MUDR. MICHAELA KRTIC,pirati
+2021-08-18,1700,Bezhotovostní příjem,JIRI BRUZEK,AŤ NÁS SÍLA PROVÁZÍ:-) - ÚČELOVÝ DAR NA AKCE MS P12,,,110112,JIRI BRUZEK,pirati
+2021-08-18,1000,Bezhotovostní příjem,MARIE HAJNOVA,PŘEVOD PROSTŘEDKŮ,,44006019,193070,MARIE HAJNOVA,pirati
+2021-08-18,1000,Bezhotovostní příjem,Michal Breškovec,Účelový dar pro zastupitelské kluby v Ostravě.,,9001682,140401,Michal Breškovec,pirati
+2021-08-18,500,Bezhotovostní příjem,VYHNÁLEK JAROSLAV,"",,44006471,1,VYHNÁLEK JAROSLAV,pirati
+2021-08-18,40882.47,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1560044836,20210817,Global Payments s.r.,pirati
+2021-08-18,200,Bezhotovostní příjem,Beneš Ladislav,"",0,44006575,1,Beneš Ladislav,pirati
+2021-08-18,250,Bezhotovostní příjem,STANĚK MARTIN,MARTIN STANĚK,308,44004742,110101,STANĚK MARTIN,pirati
+2021-08-18,300,Bezhotovostní příjem,DAVID KRPEC,DAR 84088/190000,,84088,190000,DAVID KRPEC,pirati
 2021-08-17,500,Okamžitá příchozí platba,Mgr.Raková Lucie,"",0,84304,193000,Mgr.Raková Lucie,pirati
 2021-08-17,2500,Okamžitá příchozí platba,Česká spořitelna,"",0,44015589,193000,Česká spořitelna,pirati
 2021-08-17,500,Platba převodem uvnitř banky,"Tovtová, Marta","",,44012532,193000,"",pirati

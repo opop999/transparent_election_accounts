@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-18,2200,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl
+2021-08-18,2500,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
+2021-08-18,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
+2021-08-18,5000,Bezhotovostní příjem,Hladík Petr,"",,8409284796,999,Hladík Petr,kdu-csl
 2021-08-17,1000,Bezhotovostní příjem,VACULÍNOVÁ KARLA,dar tornádo Vaculínová Karla,308,5558041610,999,VACULÍNOVÁ KARLA,kdu-csl
 2021-08-17,10000,Okamžitá příchozí platba,Česká spořitelna,dar Michaela Šojdrová,308,28101963,999,Česká spořitelna,kdu-csl
 2021-08-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl

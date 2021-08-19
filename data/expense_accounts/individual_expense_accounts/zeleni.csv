@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+18.08.2021,-4162,Bezhotovostní platba,"",ZF VFA2391210079 - výlep letáků,,2391210079,71,"OLK - DPMO, a. s."
+18.08.2021,-2464,Platba převodem uvnitř banky,"",FA 21082415 - trička s potiskem,,21082415,72,"ZLK - T-shock, s. r. o."
+18.08.2021,-6589,Bezhotovostní platba,"",ZLV-706/2021 - výlep plakátů,,1022706,71,"OLK - RENGL, s.r.o."
+18.08.2021,-23934,Bezhotovostní platba,"",ZLV-718/2021 - výlep plakátů,,1022718,64,"JMK - RENGL, s.r.o."
+18.08.2021,4162,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,2391210079,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021
 18.08.2021,-2420,Karetní transakce,"","Nákup: FACEBK *N2QXD63KK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *N2QXD63KK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  2420.00 CZK"
 17.08.2021,23934,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
 17.08.2021,20000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021,,1,71,vklad do kampaně

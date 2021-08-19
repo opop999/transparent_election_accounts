@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-18,1500,Okamžitá příchozí platba,Ing.Sirotná Kamila,dar na kampan,0,9003102,,Ing.Sirotná Kamila,zeleni
+2021-08-18,5000,Platba převodem uvnitř banky,"Šanda, Ondřej",dar na kampaň 2021,,9003101,,dar na kampaň 2021,zeleni
+2021-08-18,1000,Okamžitá příchozí platba,Mgr.Jana Chaloupková,dar Zelení,,9003100,,Mgr.Jana Chaloupková,zeleni
+2021-08-18,1000,Okamžitá příchozí platba,Mgr.Jana Chaloupková,"",,9003100,,Mgr.Jana Chaloupková,zeleni
+2021-08-18,5000,Okamžitá příchozí platba,Ing.Vacková Hana,volby 2021 -DAR,0,9003099,,Ing.Vacková Hana,zeleni
+2021-08-18,2500,Okamžitá příchozí platba,Mgr.Rennerová Anna,Dar,0,9003096,,Mgr.Rennerová Anna,zeleni
+2021-08-18,50,Okamžitá příchozí platba,Novotná Aneta,Dar,0,,,Novotná Aneta,zeleni
+2021-08-18,300,Bezhotovostní příjem,CHAROUZ PAVEL,dar,0,9003093,0,CHAROUZ PAVEL,zeleni
+2021-08-18,300,Bezhotovostní příjem,Soňa Lhotáková,dar,,9003092,,Soňa Lhotáková,zeleni
+2021-08-18,100,Bezhotovostní příjem,Martin Čihák,dar,0,1111127,,Martin Čihák,zeleni
+2021-08-18,10000,Okamžitá příchozí platba,Mgr.Mikešová Soňa,dar na volebni kampan,0,9003091,,Mgr.Mikešová Soňa,zeleni
+2021-08-18,300,Bezhotovostní příjem,BARBORA KOUDELOVÁ,DAR,,9002604,,BARBORA KOUDELOVÁ,zeleni
+2021-08-18,200,Bezhotovostní příjem,ANNA KŠÍROVÁ,DAR,,9002649,,ANNA KŠÍROVÁ,zeleni
+2021-08-18,1500,Bezhotovostní příjem,Jan Marek,DAR na kampaň,,9003087,,Jan Marek,zeleni
+2021-08-18,1000,Bezhotovostní příjem,Ivo Burger,"dar: 750 Brno-sever, 250 centrála",,9002893,,Ivo Burger,zeleni
+2021-08-18,200,Bezhotovostní příjem,Petra Kolínská,DAR,,9002603,,Petra Kolínská,zeleni
+2021-08-18,200,Bezhotovostní příjem,Milan Válek,"dar - 100,- celostátní, 100,- ZO Praha 10",,9002563,,Milan Válek,zeleni
+2021-08-18,700,Bezhotovostní příjem,Ing.Vacková Hana,"Dar - 500 ZO Olomouc,200,. celostát.SZ",0,0,104,Ing.Vacková Hana,zeleni
+2021-08-18,3000,Bezhotovostní příjem,PODHRÁZKÁ LUDMILA,Dar pro kampaň 2021,0,9003088,0,PODHRÁZKÁ LUDMILA,zeleni
+2021-08-18,1000,Bezhotovostní příjem,Kramář Ivo,dar,,9003072,,Kramář Ivo,zeleni
 2021-08-17,5000,Okamžitá příchozí platba,Pavel Marc,dar na kampaň,,9003090,,Pavel Marc,zeleni
 2021-08-17,500,Platba převodem uvnitř banky,"Ing. Suchánková, Libuše",dar,,9003089,,dar,zeleni
 2021-08-17,-500,Platba převodem uvnitř banky,"",vrácení platby - nejasný účel platby (Strana zelených),,9003062,,"Křížková, Eva",zeleni
