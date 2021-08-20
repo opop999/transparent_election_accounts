@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+19.08.2021,-17000,Okamžitá odchozí platba,"","",8,2108,2700,"2700-Petr Pelech, prop. akce SOUND CITY 2021"
+19.08.2021,-70000,Platba převodem uvnitř banky,"","",308,20210004,1114,"1114-SNConsulting s.r.o., reklama na FBC"
+19.08.2021,-39325,Bezhotovostní platba,"","",308,21062,1114,"1114-Martin Malý , fotogr. služby -výjezdy do regionů"
+19.08.2021,-960,Bezhotovostní platba,"","",308,9800000106,1114,"1114-Město Dačice, výlep plakátů Lkino"
+19.08.2021,5000,Bezhotovostní příjem,Město Dačice,"",308,9,,"2300-Město Dačice, pronájem divadlo- vratná kauce"
 18.08.2021,-7236,Bezhotovostní platba,"","",308,221052,1114,"1114-Boleslav Lysák , výlep plakátů Lkino"
 18.08.2021,-28800,Platba převodem uvnitř banky,"","",308,202125,1114,"1114- Táňa Niklová Kynclová, grafické práce"
 18.08.2021,-1343,Okamžitá odchozí platba,"","",558,2159990014,3100,"3100-Technické služby města Přerova, el. přípojka"
@@ -83,9 +88,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 04.08.2021,-69333,Platba převodem uvnitř banky,"","",308,821,2100,"1114-Jakub Galuška , grafické práce propagační mateiriál"
 04.08.2021,-3638,Bezhotovostní platba,"","",308,21029,2100,"1114-MANES GROUP a.s. , pracovní oběd"
 04.08.2021,-2407.98,Bezhotovostní platba,"","",308,610024785,2100,"1114-MAKRO Cash & Carry ČR s.r.o., nákup občerstvení"
-03.08.2021,25000,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,TOP 09
-03.08.2021,8e+06,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,TOP 09
-02.08.2021,14490000,Platba převodem uvnitř banky,KDU-ČSL,vklad do kampaně KDU-ČSL,,,,vklad do kampaně KDU-ČSL
+03.08.2021,25000,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,1114-TOP 09
+03.08.2021,8e+06,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,1114-TOP 09
+02.08.2021,14490000,Platba převodem uvnitř banky,KDU-ČSL,vklad do kampaně KDU-ČSL,,,,1114-vklad do kampaně KDU-ČSL
 02.08.2021,52362.75,Platba převodem uvnitř banky,"NORDEKO, a.s.",Platba omylem zpět,,20210023,,1114-Platba omylem zpět
 02.08.2021,-404387.53,Bezhotovostní platba,"","",308,210055,1114,"1114-Adved s.r.o., reklama na FBC 5.-6.2021"
 02.08.2021,-332750,Platba převodem uvnitř banky,"","",308,2121,1114,"1114-Dcode creative s.r.o., přípr. práce JDEME Volit..."
@@ -118,7 +123,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 27.07.2021,-500,Bezhotovostní platba,"","",0,2101975,3100,"3100-Fraisová Eva, správní poplatek"
 27.07.2021,-2031.7,Bezhotovostní platba,"","",0,17052021,3100,3100-Zukalová Věra - PHM
 27.07.2021,-2006,Bezhotovostní platba,"","",308,3,2300,"2300-Jan Pešek , PHM"
-27.07.2021,-5000,Bezhotovostní platba,"","",308,9712000137,2300,"2300-Město Dačice, pronájem divadlo"
+27.07.2021,-5000,Bezhotovostní platba,"","",308,9712000137,2300,"2300-Město Dačice, pronájem divadlo- vratná kauce"
 27.07.2021,-6000,Bezhotovostní platba,"","",308,9707000326,2300,"2300-Město Dačice , pronájem Letní kino"
 27.07.2021,-1880,Bezhotovostní platba,"","",308,21152,2300,"2300-Tomáš Přibyl,inzerce"
 27.07.2021,-3500,Platba převodem uvnitř banky,"","",308,21005,2300,"2300-Ondřej Kostiha, grafický návrh"
@@ -142,7 +147,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 21.07.2021,-175776.7,Bezhotovostní platba,"","",308,2114877,1114,"1114-TYPOS,tiskárna- brožura Program"
 21.07.2021,-308087.78,Bezhotovostní platba,"","",308,1030601649,1114,1114 - REDA  a.s. - propagační předměty
 20.07.2021,650000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí
-20.07.2021,-1500,Okamžitá odchozí platba,"","",0,210715,2600,Gaudyn Radovan - PHM
+20.07.2021,-1500,Okamžitá odchozí platba,"","",0,210715,2600,3400-Gaudyn Radovan - PHM
 20.07.2021,-1247.57,Platba převodem uvnitř banky,"","",308,20210513,3400,3400-R36 s.r.o.- magnetky
 20.07.2021,-25000,Platba převodem uvnitř banky,"","",308,2021008,1114,1114-BLUE HUB .s.r.o.-strategické poradenství 6/2021
 20.07.2021,-500,Bezhotovostní platba,"","",558,7160000174,2200,2200 -Město Příbram - správní poplatek
@@ -153,7 +158,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 19.07.2021,-2756.7,Bezhotovostní platba,"","",0,2,3200,3200- Zuzana Kupčíková-PHM
 19.07.2021,-5535.6,Bezhotovostní platba,"","",0,1,3200,3200-Michal Pátek-  PHM
 19.07.2021,-6090,Bezhotovostní platba,"","",0,4482100481,3200,3200-Město Blansko - zábor
-19.07.2021,-363000,Bezhotovostní platba,"","",308,202113,1114,Jiří Suchý - pronájem vozidla
+19.07.2021,-363000,Bezhotovostní platba,"","",308,202113,1114,1114-Jiří Suchý - pronájem vozidla
 19.07.2021,-242000,Bezhotovostní platba,"","",308,21010,1114,1114-Petr Brkal - pronájem vozidla
 19.07.2021,2e+05,Platba převodem uvnitř banky,Občanská demokratická strana,1114 - převod financí,,,,1114 - převod financí
 19.07.2021,4e+05,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí
@@ -215,7 +220,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 29.06.2021,-2e+05,Bezhotovostní platba,"","",558,2210004,1114,"1114-Quo -SB s.r.o., reklama na FBC"
 28.06.2021,-114326,Bezhotovostní platba,"","",308,2121009361,2700,"2700-MAFRA a.s., tištěná inzerce"
 28.06.2021,-586553.55,Bezhotovostní platba,"","",308,21077,1114,"1114-Ydeal s.r.o., reklama-sociální sítě"
-28.06.2021,460000,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,TOP 09
+28.06.2021,460000,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,1114-TOP 09
 25.06.2021,-577170,Bezhotovostní platba,"","",308,21001453,1114,"1114-IPSOS s.r.o., volební výzkumy"
 25.06.2021,-47190,Okamžitá odchozí platba,"","",308,210100021,2100,"2100-Pravoslav Racek , propagace na rekl. obrazovkách"
 24.06.2021,-3472.8,Okamžitá odchozí platba,"","",378,9062021,3100,"3100 - Navrátilová Jana, PHM"

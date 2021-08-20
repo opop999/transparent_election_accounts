@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-19,4000,Okamžitá příchozí platba,Váša Jan,lidovci lidovcum,0,,999,Váša Jan,kdu-csl
+2021-08-19,500,Bezhotovostní příjem,Petrásková Libuše,Lidovci Lidovcům,0,,999,Petrásková Libuše,kdu-csl
+2021-08-19,1000,Bezhotovostní příjem,KOUTNÝ JOSEF,Lidovci lidovcům,0,0,999,KOUTNÝ JOSEF,kdu-csl
+2021-08-19,250,Bezhotovostní příjem,FUNDERÁK MARCEL,"",,17101962,,FUNDERÁK MARCEL,kdu-csl
 2021-08-18,2200,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl
 2021-08-18,2500,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
 2021-08-18,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl

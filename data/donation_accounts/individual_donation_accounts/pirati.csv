@@ -1,4 +1,25 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-19,1000,Okamžitá příchozí platba,Bc.Lochmanová Helena,Volební kampaň Pirátů a Starostů,0,44006021,193000,Bc.Lochmanová Helena,pirati
+2021-08-19,1000,Bezhotovostní příjem,SVOBODOVA ZUZANA,"",,44004839,193000,SVOBODOVA ZUZANA,pirati
+2021-08-19,200,Bezhotovostní příjem,Hana Kunzfeldová,"",0,44005213,,Hana Kunzfeldová,pirati
+2021-08-19,500,Bezhotovostní příjem,JIŘÍ BRŮŽEK,AŤ NÁS SÍLA PROVÁZÍ :-),,,110100,JIŘÍ BRŮŽEK,pirati
+2021-08-19,300,Bezhotovostní příjem,Libor Vilímek,"Pan Palačinku přivezou do nemocnice s utrženým uchem. ""Co jste dělal?"" ptají se doktoři. ""Chodil jsem moc dlouho se džbánem pro vodu"". :D :D",,44014202,1,Libor Vilímek,pirati
+2021-08-19,1000,Bezhotovostní příjem,BREJL JOSEF,DAR 44015711/1,0,44015711,1,BREJL JOSEF,pirati
+2021-08-19,500,Bezhotovostní příjem,Jana Kumpochová,DAR 44006123/193000,,44006123,193000,Jana Kumpochová,pirati
+2021-08-19,5000,Bezhotovostní příjem,Pavel Dančo,DAR 44006291/193000,,44006291,193000,Pavel Dančo,pirati
+2021-08-19,200,Bezhotovostní příjem,Ondřej Hlaváček,Do toho,1,44006655,,Ondřej Hlaváček,pirati
+2021-08-19,250,Bezhotovostní příjem,Adam Sládek,"",,9001810,,Adam Sládek,pirati
+2021-08-19,43,Bezhotovostní příjem,Luc Ronald,Centrálu České pirátské stranyPirati mesicni,,44014240,1,Luc Ronald,pirati
+2021-08-19,2000,Bezhotovostní příjem,BUZEK OTAKAR ING.C,"",,86092,1,BUZEK OTAKAR ING.C,pirati
+2021-08-19,22991.74,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1560069109,20210818,Global Payments s.r.,pirati
+2021-08-19,250,Bezhotovostní příjem,CENEK DAVID,Piratska strana,,44010165,2,CENEK DAVID,pirati
+2021-08-19,256,Bezhotovostní příjem,NYKLES KAREL,DAR PRO KS KVK,0,44004208,5,NYKLES KAREL,pirati
+2021-08-19,250,Platba převodem uvnitř banky,"Letko, Radek","",,44013326,2,"",pirati
+2021-08-19,3000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",Olga Richterová,,9001650,,Olga Richterová,pirati
+2021-08-19,500,Platba převodem uvnitř banky,DTPak.cz s.r.o.,"",,83850,1,"",pirati
+2021-08-19,250,Platba převodem uvnitř banky,"Ing. Chocholatý, Libor",DAR 44015494/193000,,44015494,193000,DAR 44015494/193000,pirati
+2021-08-19,400,Platba převodem uvnitř banky,"Hudec, Marek","",1,44003408,,"",pirati
+2021-08-19,66.66,Bezhotovostní příjem,RICHTR JAN,Podporuji: Centrálu České pirátskéstrany,,44005948,1,RICHTR JAN,pirati
 2021-08-18,300,Okamžitá příchozí platba,Andrea Baránková,DAR 44006045/193000,,44006045,193000,Andrea Baránková,pirati
 2021-08-18,50000,Okamžitá příchozí platba,SLAVĚTÍNSKÝ JAN,DAR 44015708/1,,44015708,1,SLAVĚTÍNSKÝ JAN,pirati
 2021-08-18,3000,Okamžitá příchozí platba,Mgr.Freitas Lopesová,Freitas,308,12307,110110,Mgr.Freitas Lopesová,pirati

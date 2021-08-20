@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-19,3000,Okamžitá příchozí platba,Ing. Lubomír Vítek,dar,,9003110,,Ing. Lubomír Vítek,zeleni
+2021-08-19,3000,Okamžitá příchozí platba,Šandová Růžena,"",,9003109,,Šandová Růžena,zeleni
+2021-08-19,500,Okamžitá příchozí platba,Stárka Antonín Šimon,Dar pro stranu Zelenych,0,9003108,,Stárka Antonín Šimon,zeleni
+2021-08-19,2000,Okamžitá příchozí platba,Zuzana Szabó Lenhart,Dar na kampaň,,9003019,,Zuzana Szabó Lenhart,zeleni
+2021-08-19,-1000,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,9003100,,Mgr.Jana Chaloupková,zeleni
+2021-08-19,1000,Bezhotovostní příjem,ZATLOUKAL PAVEL,dar,0,9003104,0,ZATLOUKAL PAVEL,zeleni
+2021-08-19,150,Bezhotovostní příjem,MARIE SEHNALOVA,DAR - PRAVIDELNY MESICNI,,,,MARIE SEHNALOVA,zeleni
+2021-08-19,1000,Bezhotovostní příjem,ALENA KUDLACOVA,"DAR? VARIABILNÍ SYMBOL: 9003098, POZNÁMKA K DARU: KAMPAN",,,,ALENA KUDLACOVA,zeleni
+2021-08-19,500,Bezhotovostní příjem,MUDr.Hudec Dalibor,Dalibor Hudec pro SZ Opava,0,7461035,,MUDr.Hudec Dalibor,zeleni
+2021-08-19,200,Bezhotovostní příjem,TOMANOVÁ ASKARIOVÁ I,DAR STRANE ZELENYCH,558,9991100122,999,TOMANOVÁ ASKARIOVÁ I,zeleni
+2021-08-19,5000,Bezhotovostní příjem,MACH MARTIN,Dar - Martin Mach,8,9003097,,MACH MARTIN,zeleni
+2021-08-19,5000,Bezhotovostní příjem,JENICEK MAREK,dar,,9003095,,JENICEK MAREK,zeleni
 2021-08-18,1500,Okamžitá příchozí platba,Ing.Sirotná Kamila,dar na kampan,0,9003102,,Ing.Sirotná Kamila,zeleni
 2021-08-18,5000,Platba převodem uvnitř banky,"Šanda, Ondřej",dar na kampaň 2021,,9003101,,dar na kampaň 2021,zeleni
 2021-08-18,1000,Okamžitá příchozí platba,Mgr.Jana Chaloupková,dar Zelení,,9003100,,Mgr.Jana Chaloupková,zeleni

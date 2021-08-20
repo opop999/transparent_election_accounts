@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-19,500,Okamžitá příchozí platba,Žofka David,Dar hnutí,0,,,Žofka David,prisaha
+2021-08-19,8000,Okamžitá příchozí platba,Mgr.Gřes Petr,dar hnuti,0,,,Mgr.Gřes Petr,prisaha
+2021-08-19,2000,Bezhotovostní příjem,SEDLÁŘ JOSEF,"Dar hnutí , Zlínský kraj",308,430510821,0,SEDLÁŘ JOSEF,prisaha
+2021-08-19,1965.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-18,500,Okamžitá příchozí platba,PLÁŇAVA MIROSLAV,Dar hnutí,308,1956,,PLÁŇAVA MIROSLAV,prisaha
 2021-08-18,1e+05,Okamžitá příchozí platba,Petr Vacek,Finanční dar pro hnutí Jižní Čechy,558,6204120494,,Petr Vacek,prisaha
 2021-08-18,5903,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
