@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+20.08.2021,1e+05,Platba převodem uvnitř banky,Svobodní,Vklad Svobodných Olomoucký kraj na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci,,2777777,,Vklad Svobodných Olomoucký kraj na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci
+20.08.2021,36000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod prostředků z členských příspěvků na volební účet - Liberecký kraj,,,,převod prostředků z členských příspěvků na volební účet - Liberecký kraj
+20.08.2021,49000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod prostředků z členských příspěvků na volební účet - Ústecký kraj,,,,převod prostředků z členských příspěvků na volební účet - Ústecký kraj
+20.08.2021,-12860,Platba převodem uvnitř banky,"",platba za PVC bannery - centrála,308,20217342,,platba za PVC bannery - Jižní Čechy
+20.08.2021,-27588,Bezhotovostní platba,"",tisk letáků na volební kampaň - Olomoucký kraj,308,11215130,,tisk letáků na volební kampaň - Olomoucký kraj
+20.08.2021,-3188,Bezhotovostní platba,"",platba za velký banner 5500x2300 - Moravskoslezský kraj,308,211051114,,platba za velký banner 5500x2300 - Moravskoslezský kraj
+20.08.2021,-48400,Bezhotovostní platba,"",platba za inzerci v magazínu Patriot - Moravskoslezský kraj,308,2021155,,platba za inzerci v magazínu Patriot - Moravskoslezský kraj
+20.08.2021,-3293626,Bezhotovostní platba,"",Platba za billboardovou kampaň v celé ČR - BigMedia,308,210210066,,Platba za billboardovou kampaň v celé ČR - BigMedia
+20.08.2021,-148300,Bezhotovostní platba,"",platba Brand mediální a PR služby 07/21,308,21210025,,platba Brand mediální a PR služby 07/21
+20.08.2021,-30250,Bezhotovostní platba,"",doplatek za volební průzkum - Response Now,308,2021100,,doplatek za volební průzkum - Response Now
+20.08.2021,-114829,Bezhotovostní platba,"","platba za pormo na sociálních sítích, ghostwriting, fotostories a grafiku - Alfréd Šrámek Moravskoslezský kraj",308,24902021,,"platba za pormo na sociálních sítích, ghostwriting, fotostories a grafiku - Alfréd Šrámek Moravskoslezský kraj"
+20.08.2021,-60633,Bezhotovostní platba,"",platba RENGL výlepové a plakátovací plochy - Středočeský kraj,308,1022715,,platba RENGL výlepové a plakátovací plochy - Středočeský kraj
+20.08.2021,-27900,Platba převodem uvnitř banky,"",Platba za PVC banery a upevnění - centrála,308,20217259,,Platba za PVC banery a upevnění - Ústecký kraj
 20.08.2021,-288.09,Karetní transakce,"","Nákup: FACEBK *3GHP37BZV2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  288.09 CZK",,6981,,"Nákup: FACEBK *3GHP37BZV2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  288.09 CZK"
 19.08.2021,-20000,Karetní transakce,"","Nákup: FACEBK *6D9E66B2W2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.8.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK *6D9E66B2W2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.8.2021, částka  20000.00 CZK"
 17.08.2021,-600,Bezhotovostní platba,"",platba za pronájem veřejného prostranství - Roudnice nad Labem/Ústecký kraj,308,3020002021,,platba za pronájem veřejného prostranství - Roudnice nad Labem/Ústecký kraj

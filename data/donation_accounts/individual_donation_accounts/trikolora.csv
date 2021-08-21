@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-20,100,Okamžitá příchozí platba,VOHRALÍKOVÁ BARBOR,DAR příspěvek RP,,7000701,,VOHRALÍKOVÁ BARBOR,trikolora
+2021-08-20,20000,Okamžitá příchozí platba,Mgr.Ing.Zdeněk Cvejn,DAR,,1444444,,Mgr.Ing.Zdeněk Cvejn,trikolora
+2021-08-20,15000,Bezhotovostní příjem,KRIVANKOVA LUDMILA,DAR LBK     Krivankova Ludmila,,1555555,,KRIVANKOVA LUDMILA,trikolora
+2021-08-20,500,Bezhotovostní příjem,Mgr.Krása Václav,Václav Krása 24.11.1951,0,,,Mgr.Krása Václav,trikolora
+2021-08-20,400,Bezhotovostní příjem,Ing.Hlaváč Petr,DAR Petr Hlaváč,0,,,Ing.Hlaváč Petr,trikolora
+2021-08-20,500,Platba převodem uvnitř banky,"Kalenda, Miroslav","",,12001909,,"",trikolora
+2021-08-20,500,Bezhotovostní příjem,Libor Vyvlečka,DAR,,123456,,Libor Vyvlečka,trikolora
 2021-08-19,100,Platba převodem uvnitř banky,"Ing. Popovský, Libor",Libor Popovský,,,,Libor Popovský,trikolora
 2021-08-19,3500,Bezhotovostní příjem,JANA VACKOVA,"DAR: MGR. JANA VACKOVÁ, 9.3.1987",,121212,,JANA VACKOVA,trikolora
 2021-08-18,1e+05,Okamžitá příchozí platba,"FUERTES DEVELOPMENT,","",308,1222222,180821,"FUERTES DEVELOPMENT,",trikolora

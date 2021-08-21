@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-20,300,Okamžitá příchozí platba,Jakub Dedek,Dar sako 44003009/200024,,44003009,200024,Jakub Dedek,pirati
+2021-08-20,100,Okamžitá příchozí platba,Václav Vislous,DAR 44015234/200024,,44015234,200024,Václav Vislous,pirati
+2021-08-20,-240000,Platba převodem uvnitř banky,"",Převod na účet 2100643125,,,,Převod na účet 2100643125,pirati
+2021-08-20,500,Bezhotovostní příjem,Radiměřský Miroslav,dar Miroslav Radimersky,,83687,1,Radiměřský Miroslav,pirati
+2021-08-20,128,Bezhotovostní příjem,Ing. Petr Vyhnal,"Petr Vyhnal, Jana Švermy 1062, Smržovka, 18.1.1982",0,111100,,Ing. Petr Vyhnal,pirati
+2021-08-20,300,Bezhotovostní příjem,Jakub Prokeš,"",0,83538,1,Jakub Prokeš,pirati
+2021-08-20,250,Bezhotovostní příjem,JAN DIVIŠ,PLATBA,,44013890,2,JAN DIVIŠ,pirati
+2021-08-20,100,Bezhotovostní příjem,PETR VILÍMEK,PŘEVOD PROSTŘEDKŮ,,44013939,1,PETR VILÍMEK,pirati
+2021-08-20,500,Bezhotovostní příjem,MARTIN KONECNY,PLATBA,,44013825,1,MARTIN KONECNY,pirati
+2021-08-20,1000,Bezhotovostní příjem,JAKAB MIROSLAV,"",0,44015523,193000,JAKAB MIROSLAV,pirati
+2021-08-20,37854.4,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1570002065,20210819,Global Payments s.r.,pirati
+2021-08-20,100,Bezhotovostní příjem,Žák Zdeněk,DAR KS OLOMOUCKÝ KRAJ 110300 / Zdeněk Žák,0,9001672,110300,Žák Zdeněk,pirati
+2021-08-20,150,Bezhotovostní příjem,Mgr.Procházková Mart,"",0,9001795,,Mgr.Procházková Mart,pirati
+2021-08-20,100,Bezhotovostní příjem,Žák Zdeněk,DAR MS OLOMOUC 110305 / Zdeněk Žák,0,9001673,110305,Žák Zdeněk,pirati
+2021-08-20,666,Bezhotovostní příjem,"Konečný Petr,DiS.",DAR NA PROVOZ PŘEROVSKÉHO PICE,0,,110303,"Konečný Petr,DiS.",pirati
+2021-08-20,200,Bezhotovostní příjem,Roman Petrov,"",,84526,190000,Roman Petrov,pirati
+2021-08-20,200,Bezhotovostní příjem,LETOCHA BORIS,HRR NA NE,0,44005401,1,LETOCHA BORIS,pirati
+2021-08-20,250,Platba převodem uvnitř banky,"Maryška, Vojtěch",Držte kurz! Díky!,,44013087,2,Držte kurz! Díky!,pirati
+2021-08-20,1000,Platba převodem uvnitř banky,"Duška, Martin",záměr Provozní výdaje MS Praha 11,,,110111,záměr Provozní výdaje MS Praha 11,pirati
+2021-08-20,200,Bezhotovostní příjem,LUCIE KOTELON,DAR 44015297/193000,,44015297,193000,LUCIE KOTELON,pirati
 2021-08-19,1000,Okamžitá příchozí platba,Bc.Lochmanová Helena,Volební kampaň Pirátů a Starostů,0,44006021,193000,Bc.Lochmanová Helena,pirati
 2021-08-19,1000,Bezhotovostní příjem,SVOBODOVA ZUZANA,"",,44004839,193000,SVOBODOVA ZUZANA,pirati
 2021-08-19,200,Bezhotovostní příjem,Hana Kunzfeldová,"",0,44005213,,Hana Kunzfeldová,pirati
