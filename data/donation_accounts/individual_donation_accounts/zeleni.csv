@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-21,1000,Okamžitá příchozí platba,John René,dar,0,9003123,,John René,zeleni
+2021-08-21,100,Platba převodem uvnitř banky,"Kokoška, Tomáš",dar,,673796,,dar,zeleni
 2021-08-20,3000,Okamžitá příchozí platba,Šandová Růžena,dar na volby 2021,,9003109,,Šandová Růžena,zeleni
 2021-08-20,300,Okamžitá příchozí platba,Michal Paluš,dar,,9003112,,Michal Paluš,zeleni
 2021-08-20,2000,Platba převodem uvnitř banky,"Burešová, Irena",DAR na kampaň - JM kraj,,8111074,,DAR na kampaň - JM kraj,zeleni

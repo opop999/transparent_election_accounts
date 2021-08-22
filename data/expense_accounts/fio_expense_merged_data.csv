@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-21,-5000,Karetní transakce,"","Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 20.8.2021, částka  5000.00 CZK",,9967,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 20.8.2021, částka  5000.00 CZK",pirati_stan
+2021-08-21,-100,Karetní transakce,"","Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 20.8.2021, částka  100.00 CZK",,9967,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 20.8.2021, částka  100.00 CZK",pirati_stan
 2021-08-21,-100,Karetní transakce,"","Nákup: FACEBK *457ME4PK62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.8.2021, částka  100.00 CZK",,6835,,"Nákup: FACEBK *457ME4PK62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.8.2021, částka  100.00 CZK",pirati_stan
 2021-08-21,-119,Karetní transakce,"","Nákup: PPL CZ,  PPL CZ, Ricany, 25101, CZE, dne 20.8.2021, částka  119.00 CZK",,9967,,"Nákup: PPL CZ,  PPL CZ, Ricany, 25101, CZE, dne 20.8.2021, částka  119.00 CZK",pirati_stan
 2021-08-21,-20000,Karetní transakce,"","Nákup: FACEBK *K5Q4A7FVF2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.8.2021, částka  20000.00 CZK",,8267,,"Nákup: FACEBK *K5Q4A7FVF2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.8.2021, částka  20000.00 CZK",pirati_stan
@@ -1887,6 +1889,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-27,-500,Okamžitá odchozí platba,"","",0,1260000540,3200,"3200-Úřad městské části , zábor",ods_kdu-csl_top09
 2021-01-25,-1331,Okamžitá odchozí platba,"",registrace domény spolu.tv,558,5210129474,,registrace domény spolu.tv,ods_kdu-csl_top09
 2021-01-25,5000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-08-21,-30811.8,Karetní transakce,"","Nákup: FACEBK *S6A837KAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 21.8.2021, částka  30811.80 CZK",,3344,,"Nákup: FACEBK *S6A837KAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 21.8.2021, částka  30811.80 CZK",spd
 2021-08-20,-26.69,Karetní transakce,"","Nákup: FACEBK *ACSC26BAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  26.69 CZK",,3344,,"Nákup: FACEBK *ACSC26BAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  26.69 CZK",spd
 2021-08-20,-20000,Karetní transakce,"","Nákup: FACEBK *959GV6KZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *959GV6KZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  20000.00 CZK",spd
 2021-08-20,-20000,Karetní transakce,"","Nákup: FACEBK *VSQE97PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *VSQE97PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  20000.00 CZK",spd
@@ -2512,6 +2515,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-02,5000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,Převod prostředků na volební výdajový účet,,,,Převod prostředků na volební výdajový účet,trikolora
 2021-01-22,-181500,Bezhotovostní platba,"",Trikolóra,308,210100008,0,Zajištění bannerů pro propagaci hnutí (OUR MEDIA a.s.),trikolora
 2021-01-22,182000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na transparentní výdajový účet,,,,převod na transparentní výdajový účet,trikolora
+2021-08-21,2105,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,,1022737,51,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,zeleni
 2021-08-21,-2420,Karetní transakce,"","Nákup: FACEBK *V4PB48BKK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *V4PB48BKK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.8.2021, částka  2420.00 CZK",zeleni
 2021-08-20,-7798.72,Platba cizoměnová či zahraniční,"","Rechnung Nr. C 07021 - WS/Seminar-W
 		ahlkampf mit einf. Mittel",,7021,,SZ - nafroth.com (seminář k volební kampani),zeleni

@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-21,30000,Okamžitá příchozí platba,ROUZEK MILOŠ,dar hnutí,,,,ROUZEK MILOŠ,prisaha
 2021-08-20,500,Bezhotovostní příjem,PETRIKOVA PETRA,dar hnuti,,0,,PETRIKOVA PETRA,prisaha
 2021-08-20,25000,Okamžitá příchozí platba,OHERA BOHDAN,Dar hnutí,,,,OHERA BOHDAN,prisaha
 2021-08-20,400,Okamžitá příchozí platba,Burianová Jaroslava,Dar,0,,,Burianová Jaroslava,prisaha

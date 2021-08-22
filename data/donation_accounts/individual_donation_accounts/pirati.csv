@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-21,300,Okamžitá příchozí platba,Novák Jan,DAR 44004183/200024,0,44004183,200024,Novák Jan,pirati
 2021-08-20,300,Okamžitá příchozí platba,Jakub Dedek,Dar sako 44003009/200024,,44003009,200024,Jakub Dedek,pirati
 2021-08-20,100,Okamžitá příchozí platba,Václav Vislous,DAR 44015234/200024,,44015234,200024,Václav Vislous,pirati
 2021-08-20,-240000,Platba převodem uvnitř banky,"",Převod na účet 2100643125,,,,Převod na účet 2100643125,pirati
