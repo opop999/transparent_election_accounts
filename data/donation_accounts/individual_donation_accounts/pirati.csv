@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-22,5000,Okamžitá příchozí platba,"Ing.Hapala Michal,Ph",DAR 44015608/193000,0,44015608,193000,"Ing.Hapala Michal,Ph",pirati
+2021-08-22,500,Platba převodem uvnitř banky,"Kazhamiaka, Alena",No pasaran!,,44014172,193000,No pasaran!,pirati
+2021-08-22,500,Platba převodem uvnitř banky,"Kazhamiaka, Alena",No Pasaran!,,44014172,193120,No Pasaran!,pirati
+2021-08-22,2048,Platba převodem uvnitř banky,"Kopřiva, František",Držíme kurz!,,44006704,1,Držíme kurz!,pirati
+2021-08-22,300,Platba převodem uvnitř banky,"Mgr. Himlová, Veronika","",,9001235,,"",pirati
+2021-08-22,500,Platba převodem uvnitř banky,"RNDr. Pikal, Petr","Petr Pikal, 30.07.1959, Selské nám 57, 77900, Olomouc",,,140305,"Petr Pikal, 30.07.1959, Selské nám 57, 77900, Olomouc",pirati
 2021-08-21,300,Okamžitá příchozí platba,Novák Jan,DAR 44004183/200024,0,44004183,200024,Novák Jan,pirati
 2021-08-20,300,Okamžitá příchozí platba,Jakub Dedek,Dar sako 44003009/200024,,44003009,200024,Jakub Dedek,pirati
 2021-08-20,100,Okamžitá příchozí platba,Václav Vislous,DAR 44015234/200024,,44015234,200024,Václav Vislous,pirati
