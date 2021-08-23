@@ -93,15 +93,13 @@ saveRDS(expense_accounts_hlidac, paste0(subdir_name, "/expense_accounts_hlidac.r
 donation_accounts_hlidac <- list(
   names = c(
     "ano_2011",
-    "kscm_moneta",
-    "kscm_csob",
+    "kscm",
     "top_09",
     "soukromnici"
   ),
   numbers = c(
     "4070217/0100",
-    "7777377773/0600",
-    "280728599/0300",
+     "478648033/0300",
     "20091122/0800",
     "115-3902720297/0100"
   )

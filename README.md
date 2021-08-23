@@ -49,9 +49,10 @@
 | Svobodní                              | <https://ib.fio.cz/ib/transparent?a=7505075050>           | DONATION                   |
 | Zelení                                | <https://ib.fio.cz/ib/transparent?a=2400146729>           | DONATION                   |
 | ANO 2011                              | <https://www.kb.cz/cs/transparentni-ucty/4070217>         | DONATION                   |
-| KSČM                                  | <https://transparentniucty.moneta.cz/homepage/-/transparent-account/7777377773> <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/280728599> | DONATION                   |
 | TOP 09                                | <https://www.csas.cz/cs/transparentni-ucty#/000000-0020091122>           | DONATION                   |
 | Soukromníci                           | <https://www.kb.cz/cs/transparentni-ucty/115-3902720297>  | DONATION                   |
+| KSČM                                  | <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/478648033>  | DONATION                   |
+
 
 
 
