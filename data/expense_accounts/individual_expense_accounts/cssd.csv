@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+23.08.2021,-807,Okamžitá odchozí platba,"",ČSSD,308,9,,"Filip Maťha, tisk podkladů k zahájení kampaně, ústředí"
+23.08.2021,-2007876,Bezhotovostní platba,"",ČSSD,308,10122021,,"RENGL, s.r.o., plakátovací kampaň, ústředí"
+23.08.2021,1900000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021
+23.08.2021,-1150.6,Karetní transakce,"","Nákup: CSPHM TANK ONO,  ZIZKOVA 110, JIHLAVA, 586 01, CZE, dne 20.8.2021, částka  1150.60 CZK",,3429,,"Nákup: CSPHM TANK ONO,  ZIZKOVA 110, JIHLAVA, 586 01, CZE, dne 20.8.2021, částka  1150.60 CZK"
+23.08.2021,-26600,Bezhotovostní platba,"",ČSSD,308,20210004,,"Popardowská Kateřina, videoreportáže, Moravskoslezský kraj"
+23.08.2021,-24200,Bezhotovostní platba,"",ČSSD,308,20210033,,"Pavel Kopečný, grafické a konzultační práce, Jihomoravský kraj"
+23.08.2021,-240000,Bezhotovostní platba,"",ČSSD,308,210800001,,"IanDerson Consulting s.r.o., záloha na pronájem outdoorových ploch, Moravskoslezský kraj"
 20.08.2021,1815,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod KP Plzeňský kraj na volby PS PČR,,,,převod KP Plzeňský kraj na volby PS PČR
 20.08.2021,10536.1,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod KP Plzeňský kraj  na volby PS PČR,,,,převod KP Plzeňský kraj  na volby PS PČR
 20.08.2021,-20000,Karetní transakce,"","Nákup: FACEBK *F3EHA6KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *F3EHA6KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.8.2021, částka  20000.00 CZK"
