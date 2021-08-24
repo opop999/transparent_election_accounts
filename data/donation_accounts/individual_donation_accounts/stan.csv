@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,Jakub Nešpor,stan
+2021-08-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,HNEVSA TOMAS,stan
 2021-08-17,1e+05,Bezhotovostní příjem,KRUTAKOVA JANA,"DAR, Jana Krutakova, 21.6.1962,Moravska Nova Ves",,0,165111421,DAR - KRUTAKOVA JANA,stan
 2021-08-16,5000,Okamžitá příchozí platba,Petr Halada,DARpetrhalada961962kamyknadvltavou,298,961962,160042221,DAR - Petr Halada,stan
 2021-08-16,4000,Bezhotovostní příjem,Ing.Suchánek Josef,"",0,,,DAR - Ing.Suchánek Josef,stan

@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+23.08.2021,-9208,Bezhotovostní platba,"",ZLV-753/2021 - výlep plakátů,,1022753,51,"LBK - RENGL, s.r.o."
+23.08.2021,-6355,Bezhotovostní platba,"",ZLV-749/2021 - výlep plakátů,,1022749,51,"LBK - RENGL, s.r.o."
+23.08.2021,-2105,Bezhotovostní platba,"",ZLV-737/2021 - výlep plakátů,,1022737,51,"LBK - RENGL, s.r.o."
 23.08.2021,9208,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,,1022753,51,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021
 23.08.2021,6355,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,,1022749,51,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021
 21.08.2021,2105,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,,1022737,51,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021

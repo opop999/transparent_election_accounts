@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,5000,Okamžitá příchozí platba,Volný Jiří,dar hnutí,0,,,Volný Jiří,prisaha
+2021-08-23,21000,Okamžitá příchozí platba,Kocúrková Radmila,"",0,,,Kocúrková Radmila,prisaha
+2021-08-23,39999,Okamžitá příchozí platba,Bc. Karel Tichý,"",,,,Bc. Karel Tichý,prisaha
+2021-08-23,600,Bezhotovostní příjem,Lenka Dořáková,Dar hnutí,,1882021,,Lenka Dořáková,prisaha
+2021-08-23,200,Okamžitá příchozí platba,Švec Petr,Dar hnutí,0,,,Švec Petr,prisaha
+2021-08-23,2000,Okamžitá příchozí platba,Pundová Marie,dar hnutí Přísaha pro Jihočeský kraj,0,,,Pundová Marie,prisaha
+2021-08-23,5000,Bezhotovostní příjem,PETR SCHNEIDER,DAR HNUTÍ,,,,PETR SCHNEIDER,prisaha
+2021-08-23,5000,Bezhotovostní příjem,"SIREK MILAN, ING.",Dar hnuti pro jihoceskouorganizaci.,,1953,,"SIREK MILAN, ING.",prisaha
+2021-08-23,1000,Platba převodem uvnitř banky,"RNDr. Koksa, Vít Ph.D.",Dar hnutí,,,,Dar hnutí,prisaha
+2021-08-23,200,Bezhotovostní příjem,HOLČÍK PATRIK,DAR HNUTÍ,0,0,0,HOLČÍK PATRIK,prisaha
+2021-08-23,10000,Bezhotovostní příjem,FLORUS ZDENĚK,DAR PŘÍSAZE,558,7007234080,0,FLORUS ZDENĚK,prisaha
+2021-08-23,979.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-08-23,9853.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-22,5000,Okamžitá příchozí platba,Valeria Mikulcová,dar hnutí,,,,Valeria Mikulcová,prisaha
 2021-08-22,-643000,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-08-22,200,Platba převodem uvnitř banky,"Ing. Bublík, Miroslav",Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,,,,Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,prisaha

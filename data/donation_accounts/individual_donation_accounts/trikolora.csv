@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,50000,Okamžitá příchozí platba,Ing. STANISLAV BERNA,DAR Trikolóra,,,,Ing. STANISLAV BERNARD,trikolora
+2021-08-23,100,Bezhotovostní příjem,KRISTEK PAVEL,DAR prispevek RP,,7000702,,KRISTEK PAVEL,trikolora
+2021-08-23,150,Bezhotovostní příjem,Ing. Petr Maršík,"DAR, Petr Maršík",0,,,Ing. Petr Maršík,trikolora
+2021-08-23,100,Bezhotovostní příjem,Marek Povolný,DAR příspěvek RP,,12001911,,Marek Povolný,trikolora
+2021-08-23,15000,Bezhotovostní příjem,KUCHAR STANISLAV,Dar pro Lbk,,1555555,,KUCHAR STANISLAV,trikolora
+2021-08-23,300,Bezhotovostní příjem,CIGLER JIRI,dar,,123456,,CIGLER JIRI,trikolora
 2021-08-20,100,Okamžitá příchozí platba,VOHRALÍKOVÁ BARBOR,DAR příspěvek RP,,7000701,,VOHRALÍKOVÁ BARBOR,trikolora
 2021-08-20,20000,Okamžitá příchozí platba,Mgr.Ing.Zdeněk Cvejn,DAR,,1444444,,Mgr.Ing.Zdeněk Cvejn,trikolora
 2021-08-20,15000,Bezhotovostní příjem,KRIVANKOVA LUDMILA,DAR LBK     Krivankova Ludmila,,1555555,,KRIVANKOVA LUDMILA,trikolora

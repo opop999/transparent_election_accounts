@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82022,,VASICEK ONDREJ,svobodni
+2021-08-23,500,Bezhotovostní příjem,Řihák Hynek,DAR,,82021,,Řihák Hynek,svobodni
 2021-08-22,200,Platba převodem uvnitř banky,"Klabanová Junková, Martina",příspěvek příznivce Martina Klabanová Junková,,9361,,příspěvek příznivce Martina Klabanová Junková,svobodni
 2021-08-21,200,Platba převodem uvnitř banky,"Káňová, Jana",dar priznivce,,7971,,dar priznivce,svobodni
 2021-08-20,-1e+05,Platba převodem uvnitř banky,"","Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni

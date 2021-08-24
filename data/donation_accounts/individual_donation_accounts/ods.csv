@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,5000,Okamžitá příchozí platba,Petr Šula,"DAR, Petr Šula",,2100210041,,Petr Šula,ods
+2021-08-23,2000,Platba převodem uvnitř banky,"Ing. Krištoufek, Karel","DAR, Karel Kristoufek",,2204210001,,"DAR, Karel Kristoufek",ods
+2021-08-23,30000,Bezhotovostní příjem,KUBÁŇ JIŘÍ,"DAR, Jiří Kubáň",0,3300210013,0,KUBÁŇ JIŘÍ,ods
 2021-08-20,-320000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
 2021-08-20,2000,Okamžitá příchozí platba,Eva Bartejsová,"DAR, Eva Bartejsova",,1100210062,,Eva Bartejsová,ods
 2021-08-20,3e+05,Platba převodem uvnitř banky,Starostové pro občany,"DAR, Starostové pro občany",,3400210019,,"DAR, Starostové pro občany",ods

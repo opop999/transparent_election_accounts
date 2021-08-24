@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,2810,Bezhotovostní příjem,Mgr. Zdislava Zemánk,zvláštní členské příspěvky,0,3061968,701,Mgr. Zdislava Zemánk,kdu-csl
+2021-08-23,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
+2021-08-23,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
+2021-08-23,1000,Bezhotovostní příjem,KLIMEŠ PAVEL,Pavel Klimeš - DAR,,21041984,725,KLIMEŠ PAVEL,kdu-csl
+2021-08-23,575,Bezhotovostní příjem,Plešinger David,DPlesinger dar 2020 - měsíčně,709,7411293967,,Plešinger David,kdu-csl
 2021-08-20,15000,Bezhotovostní příjem,BARTOSEK JAN,"",,999,,BARTOSEK JAN,kdu-csl
 2021-08-20,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl
 2021-08-20,3000,Bezhotovostní příjem,MUDr.Chalánková Jitk,chalánková příspěvek okres prostějov,558,763,,MUDr.Chalánková Jitk,kdu-csl

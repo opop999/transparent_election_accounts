@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-23,1000,Okamžitá příchozí platba,Bernhard Riepl,"dar (Bernhard Riepl, Kaplice)",,9003136,,Bernhard Riepl,zeleni
+2021-08-23,3333,Okamžitá příchozí platba,Ondřej Machulda,Dar,0,9003134,0,Ondřej Machulda,zeleni
+2021-08-23,500,Platba převodem uvnitř banky,"Karolyiová, Alžběta",dar,,9003132,,dar,zeleni
+2021-08-23,2000,Okamžitá příchozí platba,Anna Šenk,dar,,9003130,,Anna Šenk,zeleni
+2021-08-23,800,Okamžitá příchozí platba,Hluštíková Ivana,Dar,0,9003128,,Hluštíková Ivana,zeleni
+2021-08-23,1000,Bezhotovostní příjem,HUBNER KLAUS MIKE,dar,,9003125,,HUBNER KLAUS MIKE,zeleni
+2021-08-23,56250,Platba převodem uvnitř banky,Hnutí pro Prahu 11,podíl na státním příspěvku za senátorský mandát Ladislav Kos IIQ/2021,,23082021,,podíl na státním příspěvku za senátorský mandát Ladislav Kos IIQ/2021,zeleni
+2021-08-23,1000,Okamžitá příchozí platba,Váňová Martina,dar,0,9003126,,Váňová Martina,zeleni
+2021-08-23,5000,Bezhotovostní příjem,ANNA KSIROVA,DAR,,9003122,,ANNA KSIROVA,zeleni
+2021-08-23,999,Bezhotovostní příjem,HANA MULLEROVA,DAR,,9003124,,HANA MULLEROVA,zeleni
+2021-08-23,1000,Bezhotovostní příjem,Zdeněk Svačina,Dar,,9003120,,Zdeněk Svačina,zeleni
+2021-08-23,108,Bezhotovostní příjem,Jonáš Veselka,Dar,,9001090,,Jonáš Veselka,zeleni
+2021-08-23,150,Bezhotovostní příjem,LUZNY IVO,DAR,,9002659,,LUZNY IVO,zeleni
+2021-08-23,500,Bezhotovostní příjem,RUT ONDREJ,dar na pozici medialniho poradce,,9002836,,RUT ONDREJ,zeleni
+2021-08-23,400,Platba převodem uvnitř banky,"Dufka, Jiří","dar, 1/2: ZO Brno-střed, 1/2: republiková SZ",,9001138,,"dar, 1/2: ZO Brno-střed, 1/2: republiková SZ",zeleni
+2021-08-23,1000,Bezhotovostní příjem,OSKAR LAZANSKY,DAR,,9003116,,OSKAR LAZANSKY,zeleni
 2021-08-22,3000,Okamžitá příchozí platba,Ing. Ondřej Velek,DAR Zelenym na volby 2021 - Ondrej Velek,,9003121,,Ing. Ondřej Velek,zeleni
 2021-08-22,2000,Platba převodem uvnitř banky,"Šanda, Ondřej",dar - 50 % pro ZO Kaplice,,9001206,,dar - 50 % pro ZO Kaplice,zeleni
 2021-08-21,1000,Okamžitá příchozí platba,John René,dar,0,9003123,,John René,zeleni
