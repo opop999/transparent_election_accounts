@@ -251,21 +251,21 @@ webElem <- remDr$findElement(using = "css", ".pdp-pagination-next a")
 
 full_df <- tibble()
 
-for (i in seq.int(from = 0, to = 250, by = 50)) {
+for (i in seq.int(from = 0, to = 20700, by = 50)) {
   
-  new_lines <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/1153902720297?skip=", i)), as = "text"))[[2]]
+  new_lines <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/4070217?skip=", i)), as = "text"))[[2]]
   
   # Replace with list
   
   full_df <- bind_rows(full_df, new_lines) %>% distinct()
   
-  Sys.sleep(runif(1, min = 0.1, max = 0.5))
+  Sys.sleep(runif(1, min = 0.1, max = 0.2))
   
 }
 
-saveRDS(full_df, "temp/soukromnici_donation.rds")
+saveRDS(full_df, "../data/temporary_manual_scrape/ano_2011_donation.rds")
 
-full_df <- readRDS("data/temporary_manual_scrape/ano_2011_expense.rds")
+full_df <- readRDS("../data/temporary_manual_scrape/ano_2011_donation.rds")
 
 full_df$date <- gsub(x = full_df$date, pattern = "&nbsp;", replacement = " ")
 
@@ -284,7 +284,7 @@ full_df3 <- full_df3$accountedTransactions$accountedTransaction
 full_df_combined <- bind_rows(full_df, full_df2, full_df3)
 
 
-fwrite(full_df_combined, "data/temporary_manual_scrape/csv/kscm_donation.csv")
+fwrite(full_df, "../data/temporary_manual_scrape/csv/ano_2011_donation.csv")
 
 ```
 
