@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,1e+05,Bezhotovostní příjem,ROZVORAL RADEK,Rozvoral Radek dar,308,27201,0,ROZVORAL RADEK,spd
+2021-08-25,0.01,Platba převodem uvnitř banky,"Noga, Daniel",Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,,,,Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,spd
+2021-08-25,1e+05,Bezhotovostní příjem,SAFRANKOVA LUCIE,Dar Lucie Safrankova,,60200,,SAFRANKOVA LUCIE,spd
 2021-08-19,700,Platba převodem uvnitř banky,"Ondráček, Martin","DAR - Martin Ondráček, 6.2.1975, Neumannova 42, Brno",,,,"DAR - Martin Ondráček, 6.2.1975, Neumannova 42, Brno",spd
 2021-08-19,-5e+05,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-19,1000,Bezhotovostní příjem,CÍSAŘ PETR,"Petr Císař, Nová Ves Nad Nisou 364, 27.1.1965, dar",308,1965,0,CÍSAŘ PETR,spd

@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+24.08.2021,-46410,Bezhotovostní platba,"",platba za polepy Autobusů - pardubický kraj,308,210420,,platba za polepy Autobusů - pardubický kraj
+24.08.2021,-500,Bezhotovostní platba,"",platba za zábor veřejného prostranství - kostky Ústecký kraj,308,9450005092,,platba za zábor veřejného prostranství - kostky Ústecký kraj
+24.08.2021,-1017,Platba převodem uvnitř banky,"",výroba billboardového plakátu - Ústecký kraj,308,2100200280,,výroba billboardového plakátu - Ústecký kraj
+24.08.2021,-15261.13,Bezhotovostní platba,"",platba za reklamní kampaň - Moravskoslezský kraj,308,202100579,,platba za reklamní kampaň - Moravskoslezský kraj
+24.08.2021,-162700,Bezhotovostní platba,"","pronájem, tisk a výlep reklamních ploch - Moravskoslezský kraj",308,12021,,"pronájem, tisk a výlep reklamních ploch - Moravskoslezský kraj"
+24.08.2021,-121000,Bezhotovostní platba,"",platba za organizaci volebních mítinků - středočeský kraj,308,210001,,platba za organizaci volebních mítinků - středočeský kraj
+24.08.2021,-39080,Platba převodem uvnitř banky,"",výroba reklamních plachet a banerů - Moravskoslezský kraj,308,34850,,výroba reklamních plachet a banerů - Moravskoslezský kraj
+24.08.2021,-2904,Bezhotovostní platba,"",výlep a výroba plakátů - Olomoucký kraj,308,2022066,,výlep a výroba plakátů - Olomoucký kraj
+24.08.2021,-8076.75,Bezhotovostní platba,"",platba za instalaci plakátů - Ústecký kraj,308,2100129,,platba za instalaci plakátů - Ústecký kraj
 20.08.2021,1e+05,Platba převodem uvnitř banky,Svobodní,Vklad Svobodných Olomoucký kraj na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci,,2777777,,Vklad Svobodných Olomoucký kraj na volební účet podporovaného subjektu Trikolora Svobodní Soukromníci
 20.08.2021,36000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod prostředků z členských příspěvků na volební účet - Liberecký kraj,,,,převod prostředků z členských příspěvků na volební účet - Liberecký kraj
 20.08.2021,49000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod prostředků z členských příspěvků na volební účet - Ústecký kraj,,,,převod prostředků z členských příspěvků na volební účet - Ústecký kraj
@@ -44,7 +53,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 10.08.2021,-1e+05,Bezhotovostní platba,"",platba za video spoty a propagaci Karlovarský kraj,308,92010003,,platba za video spoty a propagaci Karlovarský kraj
 05.08.2021,-8250,Platba převodem uvnitř banky,"",platba za právní služby - kandidátní listiny,308,2021131,,platba za právní služby - kandidátní listiny
 05.08.2021,-4450,Platba převodem uvnitř banky,"",výroba PVC banerů - Ústecký kraj,,,,výroba PVC banerů - Ústecký kraj
-05.08.2021,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů centrální kampaň
+05.08.2021,-21575,Platba převodem uvnitř banky,"",platba za výrobu PVC banerů,308,20216647,,platba za výrobu PVC banerů - Pardubický kraj
 05.08.2021,-3296.04,Bezhotovostní platba,"",platba za tisk reklamních prostředků - Olomoucký kraj,308,8288909,,platba za tisk reklamních prostředků - Olomoucký kraj
 03.08.2021,-106755,Bezhotovostní platba,"",pronájem výlepových ploch Rengl Moravskoslezský kraj,308,1022565,,pronájem výlepových ploch Rengl Moravskoslezský kraj
 03.08.2021,-3630,Bezhotovostní platba,"",pronájem zasedací místnosti Dům Radost,308,1210200108,,pronájem zasedací místnosti Dům Radost - MO Praha setkání kandidátů

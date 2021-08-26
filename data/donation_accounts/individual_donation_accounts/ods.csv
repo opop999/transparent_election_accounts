@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,20000,Bezhotovostní příjem,RIA REALITY A.S.,Penezity dar ODS,,2702210005,,RIA REALITY A.S.,ods
+2021-08-24,1e+05,Okamžitá příchozí platba,Mgr.Kolář Ondřej,"DAR, Ondřej Kolář",0,1100210063,,Mgr.Kolář Ondřej,ods
+2021-08-24,2000,Okamžitá příchozí platba,Jozífková Naděžda,"DAR, Nada Jozifkova",0,2700210026,,Jozífková Naděžda,ods
 2021-08-23,5000,Okamžitá příchozí platba,Petr Šula,"DAR, Petr Šula",,2100210041,,Petr Šula,ods
 2021-08-23,2000,Platba převodem uvnitř banky,"Ing. Krištoufek, Karel","DAR, Karel Kristoufek",,2204210001,,"DAR, Karel Kristoufek",ods
 2021-08-23,30000,Bezhotovostní příjem,KUBÁŇ JIŘÍ,"DAR, Jiří Kubáň",0,3300210013,0,KUBÁŇ JIŘÍ,ods

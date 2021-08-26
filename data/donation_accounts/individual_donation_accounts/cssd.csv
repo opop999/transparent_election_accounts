@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,15000,Bezhotovostní příjem,JUCHELKOVA MARKETA,"Dar ve prospech CSSD, MarketaJuchelkova, 10091969",8,10091969,,JUCHELKOVA MARKETA,cssd
+2021-08-24,30000,Okamžitá příchozí platba,Povšík Robin,dar ve prospech CSSD,0,702,,Povšík Robin,cssd
 2021-08-20,70000,Bezhotovostní příjem,Jana Maláčová,"Dar volby PSPCR 2021 - kraj Praha,Jana Malacova, 24.06.1981",,701,,Jana Maláčová,cssd
 2021-08-17,50000,Okamžitá příchozí platba,Ing.Kajnar Petr,"Dar ve prospěch ČSSD, Petr Kajnar, 28.1.1956",0,2811956,,Ing.Kajnar Petr,cssd
 2021-08-17,30000,Okamžitá příchozí platba,Česká spořitelna,Dar ve prospěch ČSSD Renata Hulvova5.2.1970,0,5021970,,Česká spořitelna,cssd

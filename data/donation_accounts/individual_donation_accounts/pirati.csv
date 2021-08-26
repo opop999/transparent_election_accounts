@@ -1,4 +1,34 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,2500,Okamžitá příchozí platba,DUŠEK ONDŘEJ,DAR 85809/193000,,85809,193000,DUŠEK ONDŘEJ,pirati
+2021-08-25,4096,Okamžitá příchozí platba,Dominik Sauer,DAR 84751/193000 Na premiérské křeslo,,84751,193000,Dominik Sauer,pirati
+2021-08-25,5700,Okamžitá příchozí platba,Lukáš Blažej,Dar účelově určený na nákup alkoholu dle § 5 písm. b) PraH (degustace vína),,,111000,Lukáš Blažej,pirati
+2021-08-25,200,Okamžitá příchozí platba,ŠELMEK TOMÁŠ,"",,84590,193000,ŠELMEK TOMÁŠ,pirati
+2021-08-25,1000,Bezhotovostní příjem,Tomáš Záhorský,DAR 44015738/193000,,44015738,193000,Tomáš Záhorský,pirati
+2021-08-25,1500,Bezhotovostní příjem,Ing. Peter Bolmhagen,Česká pirátská strana - dar,0,,,Ing. Peter Bolmhagen,pirati
+2021-08-25,128,Bezhotovostní příjem,FILIP  KRŠKA,"FILIP KRSKA, 2^7",4714,110700,,FILIP  KRŠKA,pirati
+2021-08-25,200,Bezhotovostní příjem,EVA LESNÍŘOVÁ,PŘEVOD PROSTŘEDKŮ,,44003888,,EVA LESNÍŘOVÁ,pirati
+2021-08-25,200,Bezhotovostní příjem,JAN SVOBODA,DAR,,44006234,,JAN SVOBODA,pirati
+2021-08-25,200,Bezhotovostní příjem,RADOMÍR TOMIS,PRISPEVEK ČESKÁ PIRÁTSKÁ STRANA,,82154,,RADOMÍR TOMIS,pirati
+2021-08-25,4125.85,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1580003640,20210824,Global Payments s.r.,pirati
+2021-08-25,250,Bezhotovostní příjem,Vyskočil Robert,"",0,,,Vyskočil Robert,pirati
+2021-08-25,200,Bezhotovostní příjem,Pártl Tomáš,"",0,44004244,,Pártl Tomáš,pirati
+2021-08-25,200,Platba převodem uvnitř banky,"Šolc, Miroslav",Pirati,,83833,190000,Pirati,pirati
+2021-08-24,200,Platba převodem uvnitř banky,"Novák, Jiří","",,44005506,1,"",pirati
+2021-08-24,300,Okamžitá příchozí platba,Vlčová Věra,DAR 83924/193000,0,83924,193000,Vlčová Věra,pirati
+2021-08-24,250000,Bezhotovostní příjem,FRYC ONDŘEJ,"",0,0,0,FRYC ONDŘEJ,pirati
+2021-08-24,1000,Okamžitá příchozí platba,Martínek Pavel,DAR 44011403/193000,0,44011403,193000,Martínek Pavel,pirati
+2021-08-24,1111,Bezhotovostní příjem,JAN POSVAR,DAR,,86259,14,JAN POSVAR,pirati
+2021-08-24,500,Bezhotovostní příjem,LUDĚK FIALKA,"PIRÁTI, DO TOHO!",,44003139,,LUDĚK FIALKA,pirati
+2021-08-24,200,Bezhotovostní příjem,LIŠKOVÁ ZDEŇKA,MS Pelhřimovsko,,86490,110706,LIŠKOVÁ ZDEŇKA,pirati
+2021-08-24,12420.99,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1570085587,20210823,Global Payments s.r.,pirati
+2021-08-24,2000,Bezhotovostní příjem,KLUKA MICHAL,prispevek Piratum,,83855,190000,KLUKA MICHAL,pirati
+2021-08-24,200,Bezhotovostní příjem,KOPRIVA JAN,"",,83024,9,KOPRIVA JAN,pirati
+2021-08-24,500,Bezhotovostní příjem,HAFINEC MILAN,"",,44003232,193000,HAFINEC MILAN,pirati
+2021-08-24,250,Bezhotovostní příjem,BÍSEK PETR,PETR BÍSEK - MĚSÍČNÍ PŘÍSPĚVEK,0,44006703,1,BÍSEK PETR,pirati
+2021-08-24,250,Bezhotovostní příjem,SLAMĚNA ADAM,VZHŮRU K LEPŠÍM ZÍTŘKŮM,0,84606,1,SLAMĚNA ADAM,pirati
+2021-08-24,1000,Bezhotovostní příjem,Satke David,Příspěvek pro MS Praha 10,,11013,110110,Satke David,pirati
+2021-08-24,200,Platba převodem uvnitř banky,"Svačina, Filip","",,82343,,"",pirati
+2021-08-24,200,Platba převodem uvnitř banky,PRAKTIK SVITAVY s.r.o.,"PRAKTIK SVITAVY s.r.o., Jiří Šoupal",,44006371,,"PRAKTIK SVITAVY s.r.o., Jiří Šoupal",pirati
 2021-08-23,250,Bezhotovostní příjem,Jan Veselý,Veselý Jan - dar,0,84533,190000,Jan Veselý,pirati
 2021-08-23,800,Bezhotovostní příjem,Ing. Hana Heidlerová,"",0,44006499,1,Ing. Hana Heidlerová,pirati
 2021-08-23,200,Bezhotovostní příjem,Luděk Sadílek,"",0,44004536,,Luděk Sadílek,pirati

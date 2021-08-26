@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+26.08.2021,-160.17,Karetní transakce,"","Nákup: FACEBK *L9K8R4BQ92,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.8.2021, částka  160.17 CZK",,1861,,"Nákup: FACEBK *L9K8R4BQ92,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.8.2021, částka  160.17 CZK"
+26.08.2021,-20000,Karetní transakce,"","Nákup: FACEBK *V7UNF63MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.8.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *V7UNF63MW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.8.2021, částka  20000.00 CZK"
+25.08.2021,-290,Karetní transakce,"","Nákup: SLUZBY TECHNICKE SLUZ,  MYSLOTINSKA, PELHRIMOV, 393 01, CZE, dne 24.8.2021, částka  290.00 CZK",,3429,,"Nákup: SLUZBY TECHNICKE SLUZ,  MYSLOTINSKA, PELHRIMOV, 393 01, CZE, dne 24.8.2021, částka  290.00 CZK"
+25.08.2021,80000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod KP Pardubický kraj na volby PS PČR,,,,převod KP Pardubický kraj na volby PS PČR
+25.08.2021,-703,Karetní transakce,"","Nákup: CESKA POSTA  50002,  ZAMENHOFOVA 915/2, HRADEC KRAL., 50002, CZE, dne 24.8.2021, částka  703.00 CZK",,1793,,"Nákup: CESKA POSTA  50002,  ZAMENHOFOVA 915/2, HRADEC KRAL., 50002, CZE, dne 24.8.2021, částka  703.00 CZK"
 23.08.2021,-807,Okamžitá odchozí platba,"",ČSSD,308,9,,"Filip Maťha, tisk podkladů k zahájení kampaně, ústředí"
 23.08.2021,-2007876,Bezhotovostní platba,"",ČSSD,308,10122021,,"RENGL, s.r.o., plakátovací kampaň, ústředí"
 23.08.2021,1900000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021

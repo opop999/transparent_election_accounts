@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,500,Okamžitá příchozí platba,Grill Martin,Dar hnuti,379,82021,,Grill Martin,prisaha
+2021-08-25,5000,Bezhotovostní příjem,HEJDA JIŘÍ,Dar hnutí,0,0,0,HEJDA JIŘÍ,prisaha
+2021-08-25,500,Bezhotovostní příjem,DONATOVA RENATA,DAR-hnuti Prisaha,,0,,DONATOVA RENATA,prisaha
+2021-08-25,20000,Bezhotovostní příjem,T.J. LSD ROAD S.R.O.,T.J. LSD Road dar,0,0,0,T.J. LSD ROAD S.R.O.,prisaha
+2021-08-25,2148.71,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-08-25,25000,Bezhotovostní příjem,VYROUBAL TEXTIL.SRO,Dar hnuti,558,9,,VYROUBAL TEXTIL.SRO,prisaha
+2021-08-24,10000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
+2021-08-24,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
+2021-08-24,50000,Okamžitá příchozí platba,Mgr.Vévoda Václav,Dar hnutí,0,,,Mgr.Vévoda Václav,prisaha
+2021-08-24,2e+05,Bezhotovostní příjem,WALTR STROJE S.R.O.,dar hnuti,,0,,WALTR STROJE S.R.O.,prisaha
+2021-08-24,4000,Bezhotovostní příjem,RADOMIRA VARGOVA,DAR HNUTÍ,,,,RADOMIRA VARGOVA,prisaha
+2021-08-24,100,Bezhotovostní příjem,ŘÍHA VLADIMÍR,Dar hnutí Přísaha,,,,ŘÍHA VLADIMÍR,prisaha
+2021-08-24,189.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-23,5000,Okamžitá příchozí platba,Volný Jiří,dar hnutí,0,,,Volný Jiří,prisaha
 2021-08-23,21000,Okamžitá příchozí platba,Kocúrková Radmila,"",0,,,Kocúrková Radmila,prisaha
 2021-08-23,39999,Okamžitá příchozí platba,Bc. Karel Tichý,"",,,,Bc. Karel Tichý,prisaha

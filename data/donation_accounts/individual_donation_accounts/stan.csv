@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,1e+05,Bezhotovostní příjem,MIVALT PETR ING.,"DAR, Petr Mívalt , 16.01.1969 BrnoBrno623 00",0,160169,164111321,MIVALT PETR ING.,stan
+2021-08-25,70000,Bezhotovostní příjem,"ARIMEX ZLÍN, SPOL. S","DAR, ARIMEX Zlin s.r.o., 46900942",0,46900942,181010721,"ARIMEX ZLÍN, SPOL. S",stan
+2021-08-25,40000,Platba převodem uvnitř banky,"Kiedroň, Stanislav","Dar, Kiedroň Stanislav, 15.8.63, Zlín",,630815,182010821,"Dar, Kiedroň Stanislav, 15.8.63, Zlín",stan
+2021-08-24,9000,Okamžitá příchozí platba,Demčák Jaroslav,"DAR, Jaroslav Demčák, 15.02.1978, Hejnice",0,15021978,124020621,Demčák Jaroslav,stan
 2021-08-23,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,Jakub Nešpor,stan
 2021-08-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,HNEVSA TOMAS,stan
 2021-08-17,1e+05,Bezhotovostní příjem,KRUTAKOVA JANA,"DAR, Jana Krutakova, 21.6.1962,Moravska Nova Ves",,0,165111421,DAR - KRUTAKOVA JANA,stan

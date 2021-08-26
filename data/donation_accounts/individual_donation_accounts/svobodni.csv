@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,-5e+05,Platba převodem uvnitř banky,"","",,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-08-24,2021,Bezhotovostní příjem,Martin Žabka,DAR PRIZNIVCE,,7536,,Martin Žabka,svobodni
 2021-08-23,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82022,,VASICEK ONDREJ,svobodni
 2021-08-23,500,Bezhotovostní příjem,Řihák Hynek,DAR,,82021,,Řihák Hynek,svobodni
 2021-08-22,200,Platba převodem uvnitř banky,"Klabanová Junková, Martina",příspěvek příznivce Martina Klabanová Junková,,9361,,příspěvek příznivce Martina Klabanová Junková,svobodni

@@ -1,4 +1,37 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-25,10000,Okamžitá příchozí platba,PhDr. Jaromír Baxa P,dar,,9003157,,PhDr. Jaromír Baxa P,zeleni
+2021-08-25,500,Okamžitá příchozí platba,Pavel Žwak,Dar,,9003156,,Pavel Žwak,zeleni
+2021-08-25,300,Platba převodem uvnitř banky,"Mgr. Guth Jarkovský, Jiří",dar,,8031037,,dar,zeleni
+2021-08-25,10000,Okamžitá příchozí platba,Mgr. Milada Blatná,"Dar. Polovinu částky, tj. 5000Kč daruji na kampaň do Jihomoravského kraje.",,9003155,,Mgr. Milada Blatná,zeleni
+2021-08-25,500,Platba převodem uvnitř banky,"Urbanová, Lenka",dar,,9003154,,dar,zeleni
+2021-08-25,10000,Okamžitá příchozí platba,Ing.Vidímová Jana,Dar,0,,,Ing.Vidímová Jana,zeleni
+2021-08-25,1000,Bezhotovostní příjem,SVARC JAN,dar,,9003150,,SVARC JAN,zeleni
+2021-08-25,2000,Okamžitá příchozí platba,Bc.Machálek Petr,"dar, Petr Machálek",0,,,Bc.Machálek Petr,zeleni
+2021-08-25,1500,Platba převodem uvnitř banky,"Antoš, David Ing.",dar,,9003151,,dar,zeleni
+2021-08-25,5000,Bezhotovostní příjem,KŘÍŽEK PAVEL ING.,Dar,0,9003148,0,KŘÍŽEK PAVEL ING.,zeleni
+2021-08-25,200,Bezhotovostní příjem,Josef Pova,dar místní org. SZ Praha 9,0,9002446,,Josef Pova,zeleni
+2021-08-25,1000,Okamžitá příchozí platba,CHMELA LUKÁŠ,dar,,9003149,,CHMELA LUKÁŠ,zeleni
+2021-08-25,3000,Okamžitá příchozí platba,Pomahač Matěj,dar,0,9003147,,Pomahač Matěj,zeleni
+2021-08-25,200,Bezhotovostní příjem,Jan Veleba,Dar pro zelenou Prahu,,1111128,,Jan Veleba,zeleni
+2021-08-25,500,Bezhotovostní příjem,RICHTA TOMAS,dar,,9002852,,RICHTA TOMAS,zeleni
+2021-08-25,300,Bezhotovostní příjem,SEQUENS EDVARD,Dar Jihoceska KO,,8031036,,SEQUENS EDVARD,zeleni
+2021-08-25,500,Bezhotovostní příjem,John René,dar,0,9002959,,John René,zeleni
+2021-08-25,100,Bezhotovostní příjem,RNDr.Fiala Tomáš,dar,0,9002171,0,RNDr.Fiala Tomáš,zeleni
+2021-08-25,2500,Bezhotovostní příjem,BRADY PAVLA,Dar na zelenou kampaň,308,9003137,0,BRADY PAVLA,zeleni
+2021-08-25,1000,Bezhotovostní příjem,KONECNY JIRI,Dar,,9003146,,KONECNY JIRI,zeleni
+2021-08-24,-1000,Platba převodem uvnitř banky,"",vrácení platby - nejasný účel platby (Strana zelených),,9003139,,"Kmoníček, Jiří",zeleni
+2021-08-24,3000,Okamžitá příchozí platba,PhDr.Váchová Věra,Dar,0,9003144,,PhDr.Váchová Věra,zeleni
+2021-08-24,1000,Bezhotovostní příjem,KREML RICHARD,dar Zeleni,,9003140,,KREML RICHARD,zeleni
+2021-08-24,5000,Okamžitá příchozí platba,Roman Molek,DAR,,9003142,,Roman Molek,zeleni
+2021-08-24,500,Okamžitá příchozí platba,Ing.Kocman Karel,dar,308,9003129,,Ing.Kocman Karel,zeleni
+2021-08-24,1000,Platba převodem uvnitř banky,"Kmoníček, Jiří","",,9003139,,"",zeleni
+2021-08-24,615,Bezhotovostní příjem,DUCKO MILAN,dar - člen ZO Praha 15,0,9003138,0,DUCKO MILAN,zeleni
+2021-08-24,2000,Bezhotovostní příjem,Ondřej Beran,dar,,9003127,,Ondřej Beran,zeleni
+2021-08-24,500,Bezhotovostní příjem,Tereza Štysová,Dar 100ZOP7 200KOPha 200celostat,,,,Tereza Štysová,zeleni
+2021-08-24,5000,Bezhotovostní příjem,MUDR.JAROSLAV SMUTNY,dar na vol. kampan ZO SZ Pribram,558,9003135,,MUDR.JAROSLAV SMUTNY,zeleni
+2021-08-24,2000,Bezhotovostní příjem,MUDR.JAROSLAV SMUTNY,Dar na volebni kampan Jaroslav Smutny,558,9003135,,MUDR.JAROSLAV SMUTNY,zeleni
+2021-08-24,1000,Bezhotovostní příjem,LINHARTOVA LUCIE,dar,,9003133,,LINHARTOVA LUCIE,zeleni
+2021-08-24,1000,Bezhotovostní příjem,RAMES FILIP,dar na kampan,,9003131,,RAMES FILIP,zeleni
 2021-08-23,1000,Okamžitá příchozí platba,Bernhard Riepl,"dar (Bernhard Riepl, Kaplice)",,9003136,,Bernhard Riepl,zeleni
 2021-08-23,3333,Okamžitá příchozí platba,Ondřej Machulda,Dar,0,9003134,0,Ondřej Machulda,zeleni
 2021-08-23,500,Platba převodem uvnitř banky,"Karolyiová, Alžběta",dar,,9003132,,dar,zeleni
