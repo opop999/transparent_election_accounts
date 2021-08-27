@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-26,15000,Okamžitá příchozí platba,"Linhart Vít,Ing.","DAR,Vít Linhart",0,9000379,,"Linhart Vít,Ing.",trikolora
+2021-08-26,10000,Bezhotovostní příjem,MORAVCOVA HANA,DAR Trikolora Praha,308,111111,,MORAVCOVA HANA,trikolora
+2021-08-26,-6000,Platba převodem uvnitř banky,"",převod na mzdový výdajový účet,,,,převod na mzdový výdajový účet,trikolora
+2021-08-26,-2e+06,Platba převodem uvnitř banky,"",převod prostředků na volební výdajový účet,,,,převod prostředků na volební výdajový účet,trikolora
+2021-08-26,200,Bezhotovostní příjem,Marie Čedíková,Dar Čedíková Marie,,13000986,,Marie Čedíková,trikolora
+2021-08-26,3000,Bezhotovostní příjem,Kabelka Petr,Dar,,1141414,,Kabelka Petr,trikolora
+2021-08-26,13000,Bezhotovostní příjem,"GEM Dent, s.r.o.","",0,1777777,,"GEM Dent, s.r.o.",trikolora
 2021-08-25,100,Okamžitá příchozí platba,Jana Mládková,Mladkova Jana,,8000507,,Jana Mládková,trikolora
 2021-08-25,6500,Okamžitá příchozí platba,Jiří Jelínek,DAR pro Olomoucký kraj JIří Jelínek,,1777777,,Jiří Jelínek,trikolora
 2021-08-25,30000,Bezhotovostní příjem,SOJKA JAROSLAV,Jaroslav Sojka,0,3222222,0,SOJKA JAROSLAV,trikolora

@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+27.08.2021,-2420,Karetní transakce,"","Nákup: FACEBK *GN5U76XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *GN5U76XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.8.2021, částka  2420.00 CZK"
+26.08.2021,-666,Platba převodem uvnitř banky,"",FA 1210437 - destička s potiskem,,1210437,,SZ - Studio STKI s. r. o.
+26.08.2021,-8010,Platba převodem uvnitř banky,"",FA 1210348 - trička s potiskem,,1210348,,SZ - Studio STKI s. r. o.
 25.08.2021,-2105,Platba převodem uvnitř banky,"",vratka mylné platby - provozní účet KO LBK,,10122469,51,vratka mylné platby - provozní účet KO LBK
 25.08.2021,2105,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,,10122469,51,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021
 23.08.2021,-9208,Bezhotovostní platba,"",ZLV-753/2021 - výlep plakátů,,1022753,51,"LBK - RENGL, s.r.o."

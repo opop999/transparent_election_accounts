@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-26,500,Okamžitá příchozí platba,Řezáčová Iva,rezacova,0,44012054,193000,Řezáčová Iva,pirati
+2021-08-26,200,Okamžitá příchozí platba,JURA VÁCLAV,DAR 44015424/193000,,44015424,193000,JURA VÁCLAV,pirati
+2021-08-26,300,Bezhotovostní příjem,Sára Wohlmuthová,DAR 44006143/193000,,44006143,193000,Sára Wohlmuthová,pirati
+2021-08-26,175,Platba převodem uvnitř banky,"Bartošová, Lydie Franka","",8,2108087,,"",pirati
+2021-08-26,320000,Okamžitá příchozí platba,Diversa s.r.o.,"DAR 44015739/193130 A příště dejtedo smlouvy, že to je na kampaňPiráů a Starostů.",0,44015739,193130,Diversa s.r.o.,pirati
+2021-08-26,200,Bezhotovostní příjem,JAKUB FARNÝ,PŘEVOD PROSTŘEDKŮ,,82747,1,JAKUB FARNÝ,pirati
+2021-08-26,200,Bezhotovostní příjem,Vojtěch Fáber,Vojtěch Fáber - dar,,44003121,,Vojtěch Fáber,pirati
+2021-08-26,200,Bezhotovostní příjem,Stanislav Mýlek,"",,44006391,,Stanislav Mýlek,pirati
+2021-08-26,200,Bezhotovostní příjem,MICHAL RYBÁŘ,"",,44004522,1,MICHAL RYBÁŘ,pirati
+2021-08-26,5853.28,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1580024781,20210825,Global Payments s.r.,pirati
+2021-08-26,300,Bezhotovostní příjem,BEDNÁŘOVÁ VENDULA,"",0,44002788,0,BEDNÁŘOVÁ VENDULA,pirati
+2021-08-26,500,Bezhotovostní příjem,SELINGEROVÁ RADMIL,Koalice PIRSTAN příspěvek Selingerová,,44015732,,SELINGEROVÁ RADMIL,pirati
+2021-08-26,250,Platba převodem uvnitř banky,"Ing. Chocholatý, Libor",DAR 44015494/193000,,44015494,193000,DAR 44015494/193000,pirati
+2021-08-26,500,Platba převodem uvnitř banky,"Pešán, Jan",hrr na ne,,83711,1,hrr na ne,pirati
+2021-08-26,100,Bezhotovostní příjem,Noha Jaroslav,"",,83692,8,Noha Jaroslav,pirati
 2021-08-25,2500,Okamžitá příchozí platba,DUŠEK ONDŘEJ,DAR 85809/193000,,85809,193000,DUŠEK ONDŘEJ,pirati
 2021-08-25,4096,Okamžitá příchozí platba,Dominik Sauer,DAR 84751/193000 Na premiérské křeslo,,84751,193000,Dominik Sauer,pirati
 2021-08-25,5700,Okamžitá příchozí platba,Lukáš Blažej,Dar účelově určený na nákup alkoholu dle § 5 písm. b) PraH (degustace vína),,,111000,Lukáš Blažej,pirati

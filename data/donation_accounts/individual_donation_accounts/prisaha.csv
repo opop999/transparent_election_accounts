@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-26,10000,Okamžitá příchozí platba,Iveta Štetinová,dar,0,,,Iveta Štetinová,prisaha
+2021-08-26,200,Bezhotovostní příjem,Dagmar Čečivová,dar spolku,,,,Dagmar Čečivová,prisaha
+2021-08-26,584.6,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-08-26,5e+05,Bezhotovostní příjem,"MIDAS PRAHA, s.r.o.","",0,64939634,,"MIDAS PRAHA, s.r.o.",prisaha
 2021-08-25,500,Okamžitá příchozí platba,Grill Martin,Dar hnuti,379,82021,,Grill Martin,prisaha
 2021-08-25,5000,Bezhotovostní příjem,HEJDA JIŘÍ,Dar hnutí,0,0,0,HEJDA JIŘÍ,prisaha
 2021-08-25,500,Bezhotovostní příjem,DONATOVA RENATA,DAR-hnuti Prisaha,,0,,DONATOVA RENATA,prisaha

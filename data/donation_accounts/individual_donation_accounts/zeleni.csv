@@ -1,4 +1,22 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-26,1000,Okamžitá příchozí platba,Komm Tomáš,dar,0,9003165,,Komm Tomáš,zeleni
+2021-08-26,2000,Okamžitá příchozí platba,Ryant Filip,dar na kampaň do ps,0,9003163,,Ryant Filip,zeleni
+2021-08-26,5000,Okamžitá příchozí platba,Mgr.Huječek Roman,dar,0,9003161,,Mgr.Huječek Roman,zeleni
+2021-08-26,1000,Platba převodem uvnitř banky,"Bunžová, Monika","dar 200,- SZ, 800,- ZO Praha 3",,,,"dar 200,- SZ, 800,- ZO Praha 3",zeleni
+2021-08-26,5000,Bezhotovostní příjem,VOLF MARTIN,dar,,9003160,,VOLF MARTIN,zeleni
+2021-08-26,1000,Bezhotovostní příjem,Jakub Vaverka,Dar,,9003159,,Jakub Vaverka,zeleni
+2021-08-26,5000,Okamžitá příchozí platba,Kotvová Iva,Dar,0,9003143,,Kotvová Iva,zeleni
+2021-08-26,2500,Platba převodem uvnitř banky,"Macoun, Milan",dar,,9003145,,dar,zeleni
+2021-08-26,300,Okamžitá příchozí platba,PhDr.Váchová Věra,Dar,0,8031038,,PhDr.Váchová Věra,zeleni
+2021-08-26,2000,Okamžitá příchozí platba,Hora J.- ANTIKVARIÁT,Dar,0,9003158,,Hora J.- ANTIKVARIÁT,zeleni
+2021-08-26,500,Bezhotovostní příjem,Jan Janoušek,Dar na pozici mediálního poradce,0,9002837,,Jan Janoušek,zeleni
+2021-08-26,200,Bezhotovostní příjem,Zdeněk Jahn,Dar pro Stranu Zelených ZO Praha 3,0,,,Zdeněk Jahn,zeleni
+2021-08-26,200,Bezhotovostní příjem,Alexandr Gajdzica,dar,0,9002793,,Alexandr Gajdzica,zeleni
+2021-08-26,300,Bezhotovostní příjem,JANA KRUMPHOLCOVA,DAR A DÍK ZA SKVĚLOU SPOLUPRÁCI :),,9002568,,JANA KRUMPHOLCOVA,zeleni
+2021-08-26,150,Bezhotovostní příjem,MEKYS PAVEL,Dar SZ,,0,,MEKYS PAVEL,zeleni
+2021-08-26,500,Bezhotovostní příjem,Ing.Vacková Hana,Dar na pozici mediálního poradce,0,9002830,,Ing.Vacková Hana,zeleni
+2021-08-26,200,Bezhotovostní příjem,Tamchyna Tomáš,Tomáš Tamchyna - PRAVIDELNÝ DAR,0,,,Tamchyna Tomáš,zeleni
+2021-08-26,100,Platba převodem uvnitř banky,"Zeman, Václav",Václav Zeman - Dar ZO Praha 6,,8801100122,,Václav Zeman - Dar ZO Praha 6,zeleni
 2021-08-25,10000,Okamžitá příchozí platba,PhDr. Jaromír Baxa P,dar,,9003157,,PhDr. Jaromír Baxa P,zeleni
 2021-08-25,500,Okamžitá příchozí platba,Pavel Žwak,Dar,,9003156,,Pavel Žwak,zeleni
 2021-08-25,300,Platba převodem uvnitř banky,"Mgr. Guth Jarkovský, Jiří",dar,,8031037,,dar,zeleni
