@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-27,-50000,Platba převodem uvnitř banky,"","Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
+2021-08-27,20000,Okamžitá příchozí platba,MUDr.Janišová Olga,Dar,0,82023,,MUDr.Janišová Olga,svobodni
 2021-08-25,-5e+05,Platba převodem uvnitř banky,"","",,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-08-24,2021,Bezhotovostní příjem,Martin Žabka,DAR PRIZNIVCE,,7536,,Martin Žabka,svobodni
 2021-08-23,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82022,,VASICEK ONDREJ,svobodni

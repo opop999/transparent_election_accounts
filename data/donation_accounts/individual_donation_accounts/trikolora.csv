@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-27,25000,Okamžitá příchozí platba,MUDr.Zeman Marek,DAR. Marek Zeman,0,,6405181112,DAR MUDr.Zeman Marek Praha 111111,trikolora
+2021-08-27,100,Bezhotovostní příjem,REZNIK ROSTISLAV,DAR prispevek RP,,7000703,,REZNIK ROSTISLAV,trikolora
+2021-08-27,100,Platba převodem uvnitř banky,"Hošťálek, Miroslav",DAR příspěvek RP Miroslav Hošťálek,308,9000606,,DAR příspěvek RP Miroslav Hošťálek,trikolora
 2021-08-26,15000,Okamžitá příchozí platba,"Linhart Vít,Ing.","DAR,Vít Linhart",0,9000379,,"Linhart Vít,Ing.",trikolora
 2021-08-26,10000,Bezhotovostní příjem,MORAVCOVA HANA,DAR Trikolora Praha,308,111111,,MORAVCOVA HANA,trikolora
 2021-08-26,-6000,Platba převodem uvnitř banky,"",převod na mzdový výdajový účet,,,,převod na mzdový výdajový účet,trikolora

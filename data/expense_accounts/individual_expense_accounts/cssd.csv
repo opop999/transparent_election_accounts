@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+28.08.2021,-1001.8,Karetní transakce,"","Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 27.8.2021, částka  1001.80 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 27.8.2021, částka  1001.80 CZK"
+27.08.2021,-1815,Platba převodem uvnitř banky,"",ČSSD,308,20210001,,"Political Booster s.r.o., grafická příprava letáků, Plzeňský kraj"
+27.08.2021,-2520,Bezhotovostní platba,"",ČSSD,308,12100413,,"Město Jevíčko, poplatek za užívání prostranství, Pardubický kraj"
+27.08.2021,-15373.06,Platba převodem uvnitř banky,"",ČSSD,308,2021022,,"Cíl, a.s. v Praze, tisk plakátů, ústředí"
+27.08.2021,-12038.29,Bezhotovostní platba,"",ČSSD,308,19072021,,"ON tisk, tisk a knihařské práce, Jihomoravský kraj"
+27.08.2021,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: CSOB 0275 PARDUBICE, Pardubice, CZE, dne 26.8.2021",,8665,,"Poplatek - dotaz na zůstatek v ATM: CSOB 0275 PARDUBICE, Pardubice, CZE, dne 26.8.2021"
 27.08.2021,-1086.8,Karetní transakce,"","Nákup: Hradec Kralove - Rasin,  Hradec Kralove - Rasin, Hradec Kralov, 50001, CZE, dne 26.8.2021, částka  1086.80 CZK",,1793,,"Nákup: Hradec Kralove - Rasin,  Hradec Kralove - Rasin, Hradec Kralov, 50001, CZE, dne 26.8.2021, částka  1086.80 CZK"
 26.08.2021,-27700,Okamžitá odchozí platba,"",ČSSD,308,210002,,"Marcela Eicholzová, použití zvukové techniky, ústředí"
 26.08.2021,-1507.76,Karetní transakce,"","Nákup: FACEBK *63PFW6TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.8.2021, částka  1507.76 CZK",,5794,,"Nákup: FACEBK *63PFW6TLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.8.2021, částka  1507.76 CZK"

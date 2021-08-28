@@ -1,7 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
-26.08.2021,-5700,Okamžitá odchozí platba,"","",558,605,2124,""
-26.08.2021,-1000,Okamžitá odchozí platba,"","",308,1321000675,2200,""
-26.08.2021,-6000,Okamžitá odchozí platba,"","",8,2151,2700,""
+27.08.2021,-760,Bezhotovostní platba,"","",378,1343000402,2200,"2200-Město Černošice, poplatek za užíváni veř. prostranství"
+27.08.2021,-3800,Bezhotovostní platba,"","",378,134310826,2200,"2200-Město Jesenice, poplatek za užíváni veř. prostranství"
+26.08.2021,-5700,Okamžitá odchozí platba,"","",558,605,2124,"2200-Město Čelákovice, poplatek za zábor"
+26.08.2021,-1000,Okamžitá odchozí platba,"","",308,1321000675,2200,"2200-Město Slaný , poplatek za zábor"
+26.08.2021,-6000,Okamžitá odchozí platba,"","",8,2151,2700,"2700-Hrady pro děti s.r.o., pronájem skákacího hradu"
 26.08.2021,-605,Okamžitá odchozí platba,"","",968,2100000773,2100,"2100-Městská část Praha 11, pronájem prostor Lkino"
 26.08.2021,-2000,Okamžitá odchozí platba,"","",378,15082021,3200,"3200-Technické služby města Slavkov, pronájem prostor Lkino"
 25.08.2021,-34813,Bezhotovostní platba,"","",558,82114410,1114,"1114-BIOFILMS rental s.r.o., pronájem videotechniky"
