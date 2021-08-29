@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-28,500,Platba převodem uvnitř banky,"Muzikant, Martin","Záměr Provozní výdaje MS Praha 11 Mag. Martin Muzikant, Ph.D.",,,110111,"Záměr Provozní výdaje MS Praha 11 Mag. Martin Muzikant, Ph.D.",pirati
 2021-08-27,1000,Okamžitá příchozí platba,Roman Houska,dar pir.strana Roman Houska ul.ke stacirne 2268/28 praha 11  14900 TEL.777788547 hodne uspechu vas podporovatel.,,44014368,1,Roman Houska,pirati
 2021-08-27,1500,Bezhotovostní příjem,NESVADBA ZDENĚK,Dar - Zdeněk Nesvadba,0,44011594,193000,NESVADBA ZDENĚK,pirati
 2021-08-27,8000,Platba převodem uvnitř banky,Denty s.r.o.,DAR 44015742/110404,,44015742,110404,DAR 44015742/110404,pirati
