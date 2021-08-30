@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-29,3000,Okamžitá příchozí platba,Hes Milan,"",0,,,Hes Milan,prisaha
+2021-08-29,1000,Okamžitá příchozí platba,Stanislav Černý,dar hnutí,,1,,Stanislav Černý,prisaha
+2021-08-29,15000,Okamžitá příchozí platba,RNDr.Dvořák Václav,dar prtsaha,0,,,RNDr.Dvořák Václav,prisaha
 2021-08-27,-70000,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-08-27,10000,Okamžitá příchozí platba,Dalibor Macháček,dar hnutí,,,,Dalibor Macháček,prisaha
 2021-08-27,5100,Bezhotovostní příjem,ČEKANOVÁ LIBUŠE,"Dar pro PŘÍSAHA - 5.100,- Kč pro Královéhradecký kraj na roznos volebních novin, dárce Ing. Libuše Čekanová Ph.D.",8,5456130823,,ČEKANOVÁ LIBUŠE,prisaha

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-29,11000,Okamžitá příchozí platba,MUDr.Vaněk Pavel,Lidovci lidovcům,0,,999,MUDr.Vaněk Pavel,kdu-csl
+2021-08-29,1000,Okamžitá příchozí platba,Kusý Jan,"",0,,999,Kusý Jan,kdu-csl
+2021-08-29,1000,Okamžitá příchozí platba,Ing. Petr Tomek,Lidovci lidovcum,,,999,Ing. Petr Tomek,kdu-csl
+2021-08-29,3000,Okamžitá příchozí platba,Ing.Vaculík Josef,tornádo,558,,999,Ing.Vaculík Josef,kdu-csl
+2021-08-29,5000,Okamžitá příchozí platba,Klimeš Miroslav,"Klimes Mir.,Brno",0,12121966,999,Klimeš Miroslav,kdu-csl
+2021-08-29,2000,Platba převodem uvnitř banky,"Kosterová, Svatava",Tornado,,,999,Tornado,kdu-csl
 2021-08-28,5000,Okamžitá příchozí platba,Mgr. Anna Grúzová,prosím o potvrzení daru,,,999,Mgr. Anna Grúzová,kdu-csl
 2021-08-28,2000,Okamžitá příchozí platba,Ing.Šmilauer Bohdan,Lidovecká pomoc,0,460320015,999,Ing.Šmilauer Bohdan,kdu-csl
 2021-08-28,5000,Okamžitá příchozí platba,Ing. Mojmír Novotný,Lidovci lidovců Tornádo dar Novotný,,571008,999,Ing. Mojmír Novotný,kdu-csl

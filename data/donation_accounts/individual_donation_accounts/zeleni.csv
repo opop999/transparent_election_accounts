@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-29,1000,Okamžitá příchozí platba,Václav Němčík,dar,,9003172,,Václav Němčík,zeleni
+2021-08-29,200,Platba převodem uvnitř banky,"Šanda, Ondřej",dar za jihočeskou exkurzi,,8031041,,dar za jihočeskou exkurzi,zeleni
+2021-08-29,300,Okamžitá příchozí platba,DLOUHÁ LENKA,Dar,,9003171,,DLOUHÁ LENKA,zeleni
+2021-08-29,200,Platba převodem uvnitř banky,"Ing. Víšek, Jindřich",DAR PRO SZ MSK,,9001878,,DAR PRO SZ MSK,zeleni
 2021-08-28,3000,Okamžitá příchozí platba,Ivo Burger,dar na volby 2021,,9003170,,Ivo Burger,zeleni
 2021-08-28,1,Platba převodem uvnitř banky,"Bajgar, Petr","dar na činnost tak ""skvělých"" ""politiků"" SZ jako je V.Weisbauer předseda Pardubického kraje",,9002989,,"dar na činnost tak ""skvělých"" ""politiků"" SZ jako je V.Weisbauer předseda Pardubického kraje",zeleni
 2021-08-27,5000,Okamžitá příchozí platba,Perla Jan,Dar pro JMK,0,8111075,,Perla Jan,zeleni
