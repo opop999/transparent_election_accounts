@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,25000,Bezhotovostní příjem,ŠOBR FRANTIŠEK,"DAR, František Šobr, 19.9.1963, Litvínov",0,19091963,144060421,ŠOBR FRANTIŠEK,stan
 2021-08-25,1e+05,Bezhotovostní příjem,MIVALT PETR ING.,"DAR, Petr Mívalt , 16.01.1969 BrnoBrno623 00",0,160169,164111321,MIVALT PETR ING.,stan
 2021-08-25,70000,Bezhotovostní příjem,"ARIMEX ZLÍN, SPOL. S","DAR, ARIMEX Zlin s.r.o., 46900942",0,46900942,181010721,"ARIMEX ZLÍN, SPOL. S",stan
 2021-08-25,40000,Platba převodem uvnitř banky,"Kiedroň, Stanislav","Dar, Kiedroň Stanislav, 15.8.63, Zlín",,630815,182010821,"Dar, Kiedroň Stanislav, 15.8.63, Zlín",stan

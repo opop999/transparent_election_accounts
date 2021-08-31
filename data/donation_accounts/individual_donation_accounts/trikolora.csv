@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,500,Okamžitá příchozí platba,Ing.Štěpánek Dan,DAR,0,123456,,Ing.Štěpánek Dan,trikolora
+2021-08-30,1100,Okamžitá příchozí platba,ZUGAR PAVEL,Dar pro Olomoucký kraj. Pavel ZUGAR,,777777,,ZUGAR PAVEL,trikolora
+2021-08-30,10000,Bezhotovostní příjem,TILL MICHAL,DAR Michal Till,0,123456,,TILL MICHAL,trikolora
+2021-08-30,2000,Bezhotovostní příjem,PINTO LUIS,Pinto - Stredocesky kraj,,121212,,PINTO LUIS,trikolora
 2021-08-29,5000,Okamžitá příchozí platba,REISER MARTIN,DAR Martin Reiser stc kraj,,121212,,REISER MARTIN,trikolora
 2021-08-29,100,Okamžitá příchozí platba,"Vilímek Jiří,DiS.",DAR Příspěvek RP,0,11002036,,"Vilímek Jiří,DiS.",trikolora
 2021-08-27,25000,Okamžitá příchozí platba,MUDr.Zeman Marek,DAR. Marek Zeman,0,,6405181112,DAR MUDr.Zeman Marek Praha 111111,trikolora

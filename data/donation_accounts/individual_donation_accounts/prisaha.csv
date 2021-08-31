@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,2000,Platba převodem uvnitř banky,"Ruman, David",dar hnutí - Přísaha Zlínský kraj,,30082021,,dar hnutí - Přísaha Zlínský kraj,prisaha
+2021-08-30,10000,Bezhotovostní příjem,Jaroslav Bečák,Dar hnutí,,,,Jaroslav Bečák,prisaha
+2021-08-30,500,Okamžitá příchozí platba,Stará Alena,DAR HNUTÍ - Alena Stará,0,,,Stará Alena,prisaha
+2021-08-30,500,Bezhotovostní příjem,Martin Krejčí,dar,0,,,Martin Krejčí,prisaha
+2021-08-30,10000,Bezhotovostní příjem,SCHAFFER ZBYNĚK,Dar hnutí,308,640503,0,SCHAFFER ZBYNĚK,prisaha
+2021-08-30,1000,Bezhotovostní příjem,KAŇA JIŘÍ,"",0,0,0,KAŇA JIŘÍ,prisaha
+2021-08-30,500,Bezhotovostní příjem,VRBENSKA LYDIE,Dar hnuti,,0,,VRBENSKA LYDIE,prisaha
+2021-08-30,69.1,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-08-30,4128.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-08-30,10044.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-29,3000,Okamžitá příchozí platba,Hes Milan,"",0,,,Hes Milan,prisaha
 2021-08-29,1000,Okamžitá příchozí platba,Stanislav Černý,dar hnutí,,1,,Stanislav Černý,prisaha
 2021-08-29,15000,Okamžitá příchozí platba,RNDr.Dvořák Václav,dar prtsaha,0,,,RNDr.Dvořák Václav,prisaha

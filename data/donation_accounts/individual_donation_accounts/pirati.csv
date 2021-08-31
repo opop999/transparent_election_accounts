@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,5000,Okamžitá příchozí platba,Formánek Jan,"Jan Formánek, Tašov 7, 400 02, Ústí n. L.",0,,,Formánek Jan,pirati
+2021-08-30,1000,Okamžitá příchozí platba,Pavel Jošt,DAR 84756/193000,,84756,193000,Pavel Jošt,pirati
+2021-08-30,200,Bezhotovostní příjem,Tadeusz Burski,DAR 84827/193000,,84827,193000,Tadeusz Burski,pirati
+2021-08-30,100,Bezhotovostní příjem,Ferdinand Betlach,"",,83247,,Ferdinand Betlach,pirati
+2021-08-30,12289.17,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1590018839,20210829,Global Payments s.r.,pirati
+2021-08-30,2500,Bezhotovostní příjem,HŘEBÍČEK JAN,Podporuji: Centrál,,44006726,1,HŘEBÍČEK JAN,pirati
+2021-08-30,300,Bezhotovostní příjem,ZUREK MICHAL,"",,0,,ZUREK MICHAL,pirati
+2021-08-30,2949.8,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1590003010,20210828,Global Payments s.r.,pirati
+2021-08-30,4383.99,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1580075585,20210827,Global Payments s.r.,pirati
+2021-08-30,500,Bezhotovostní příjem,ZEMÁNEK ROBERT,PIRÁTI,0,84566,0,ZEMÁNEK ROBERT,pirati
+2021-08-30,500,Bezhotovostní příjem,ZAKOPAL PETR,"",0,44005132,0,ZAKOPAL PETR,pirati
+2021-08-30,200,Bezhotovostní příjem,ŠILAR PAVEL,PIRATI,0,84355,0,ŠILAR PAVEL,pirati
+2021-08-30,500,Bezhotovostní příjem,Tolarová Helena,"",,44012510,2,Tolarová Helena,pirati
+2021-08-30,3000,Bezhotovostní příjem,JOSEF NOVÁCEK & SPOL,dar pirati,,44014213,3,JOSEF NOVÁCEK & SPOL,pirati
 2021-08-29,30000,Okamžitá příchozí platba,"Ing.Naiclerová Hana,",DAR 44004131/193030,0,44004131,193030,"Ing.Naiclerová Hana,",pirati
 2021-08-28,500,Platba převodem uvnitř banky,"Muzikant, Martin","Záměr Provozní výdaje MS Praha 11 Mag. Martin Muzikant, Ph.D.",,,110111,"Záměr Provozní výdaje MS Praha 11 Mag. Martin Muzikant, Ph.D.",pirati
 2021-08-27,1000,Okamžitá příchozí platba,Roman Houska,dar pir.strana Roman Houska ul.ke stacirne 2268/28 praha 11  14900 TEL.777788547 hodne uspechu vas podporovatel.,,44014368,1,Roman Houska,pirati

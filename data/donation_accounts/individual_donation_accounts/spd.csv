@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,1000,Bezhotovostní příjem,BAUDYŠ ILJA,"",0,521123,0,BAUDYŠ ILJA,spd
+2021-08-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2021-08-27,-1300000,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-25,1e+05,Bezhotovostní příjem,ROZVORAL RADEK,Rozvoral Radek dar,308,27201,0,ROZVORAL RADEK,spd
 2021-08-25,0.01,Platba převodem uvnitř banky,"Noga, Daniel",Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,,,,Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,spd

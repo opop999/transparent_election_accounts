@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,40000,Okamžitá příchozí platba,Bohumír Koumar,"DAR, Olga Koumarová",,2110210002,,Bohumír Koumar,ods
+2021-08-30,-230000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-08-30,50000,Bezhotovostní příjem,GEOPRINT S.R.O.,"Geoprint, s.r.o./ dar",,2702210006,,GEOPRINT S.R.O.,ods
+2021-08-30,30000,Bezhotovostní příjem,Bc. Jiří Havránek,"DAR, Jiri Havranek",0,2200210016,,Bc. Jiří Havránek,ods
+2021-08-30,1000,Bezhotovostní příjem,JOST PAVEL,"DAR, Pavel Jost",,1100210065,,JOST PAVEL,ods
+2021-08-30,1e+05,Bezhotovostní příjem,"SPEA Olomouc, s.r.o.","DAR, SPEA Olomouc, s.r.o.",308,3102210008,,"SPEA Olomouc, s.r.o.",ods
+2021-08-30,40000,Bezhotovostní příjem,Kratochvíl parket pr,darovací smlouva,,3201210034,,Kratochvíl parket pr,ods
 2021-08-28,2222,Okamžitá příchozí platba,Ing. Lukáš König,"DAR, Lukas Konig",,3003210001,,Ing. Lukáš König,ods
 2021-08-27,1000,Bezhotovostní příjem,BAŽANT JAN,"DAR, Ing. Jan Bažant",0,0,0,BAŽANT JAN,ods
 2021-08-26,-160000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods

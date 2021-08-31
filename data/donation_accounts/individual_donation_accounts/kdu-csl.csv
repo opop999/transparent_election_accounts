@@ -1,4 +1,48 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,1000,Okamžitá příchozí platba,Drobná Monika,Lidovci lidovcům,0,,999,Drobná Monika,kdu-csl
+2021-08-30,2000,Okamžitá příchozí platba,JIŘÍ DOLEŽEL,"",,,999,JIŘÍ DOLEŽEL,kdu-csl
+2021-08-30,2000,Okamžitá příchozí platba,Vladimír Stuchlý,Lidovecká pomoc,,,999,Vladimír Stuchlý,kdu-csl
+2021-08-30,300,Okamžitá příchozí platba,Farská Myriam,Lidovci lidovcům,0,,999,Farská Myriam,kdu-csl
+2021-08-30,2000,Okamžitá příchozí platba,JUDr.Mazánková Marie,"",0,,999,JUDr.Mazánková Marie,kdu-csl
+2021-08-30,1000,Okamžitá příchozí platba,Brandner Aleš,Lidovci lidovcům,558,441231435,999,Brandner Aleš,kdu-csl
+2021-08-30,10000,Bezhotovostní příjem,TALÍŘ FRANTIŠEK,"",0,0,301,TALÍŘ FRANTIŠEK,kdu-csl
+2021-08-30,25000,Bezhotovostní příjem,TALÍŘ FRANTIŠEK,"",0,0,301,TALÍŘ FRANTIŠEK,kdu-csl
+2021-08-30,3000,Okamžitá příchozí platba,Ing.Koukal Josef,Lidovci lidovcům,0,,999,Ing.Koukal Josef,kdu-csl
+2021-08-30,20000,Bezhotovostní příjem,JELINKOVA SARKA,Lidovci lidovcum,308,0,999,JELINKOVA SARKA,kdu-csl
+2021-08-30,500,Okamžitá příchozí platba,Čapková Svatava,pomoc tornado,0,585524,999,Čapková Svatava,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,HERMANOVA JIRINA,"",,0,999,HERMANOVA JIRINA,kdu-csl
+2021-08-30,2000,Okamžitá příchozí platba,Zajíček Karel,"",0,111683,999,Zajíček Karel,kdu-csl
+2021-08-30,2000,Bezhotovostní příjem,KOVALSKA MARIE,"",,0,999,KOVALSKA MARIE,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,VLADIMÍR NOVÁK,tornádo,308,1,999,VLADIMÍR NOVÁK,kdu-csl
+2021-08-30,1000,Okamžitá příchozí platba,Česká spořitelna,"",0,,999,Česká spořitelna,kdu-csl
+2021-08-30,5000,Bezhotovostní příjem,SULÁNOVÁ HANA,"",0,0,999,SULÁNOVÁ HANA,kdu-csl
+2021-08-30,5000,Okamžitá příchozí platba,LUBOMÍR FRAIT,"",,,999,LUBOMÍR FRAIT,kdu-csl
+2021-08-30,2000,Bezhotovostní příjem,JOSEF PETLACH,DAR PRO POSTIŽENÉ TORNÁDEM,,,999,JOSEF PETLACH,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,PAVLA RYBOVA,"RYBOVÁ PAVLA, KOMENSKÉHO 32,STŘELICE-LID.LIDOVCŮM",,,999,PAVLA RYBOVA,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,JOSEF SOUDEK,SBÍRKA TORNÁDO,,,999,JOSEF SOUDEK,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,VLASTA VALESOVA,PŘEVOD PROSTŘEDKŮ,,,999,VLASTA VALESOVA,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,PETR VESELY,DAR - TORNÁDO,,,999,PETR VESELY,kdu-csl
+2021-08-30,2000,Bezhotovostní příjem,KODERA JOSEF,"",,0,999,KODERA JOSEF,kdu-csl
+2021-08-30,3000,Bezhotovostní příjem,KODERA JOSEF,MO KDU-CSL Drazen,,0,999,KODERA JOSEF,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,DVOŘÁK MILOŠ,Lidovecká pomoc,0,0,999,DVOŘÁK MILOŠ,kdu-csl
+2021-08-30,10000,Bezhotovostní příjem,BAZALA JOSEF,"",0,0,999,BAZALA JOSEF,kdu-csl
+2021-08-30,3000,Bezhotovostní příjem,MIKUŠEK VÁCLAV,"",558,0,999,MIKUŠEK VÁCLAV,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,VLČEK FRANTIŠEK,"",0,0,999,VLČEK FRANTIŠEK,kdu-csl
+2021-08-30,10000,Bezhotovostní příjem,MACHEK VÍT,"",0,0,999,MACHEK VÍT,kdu-csl
+2021-08-30,3000,Bezhotovostní příjem,CERMAKOVA MARIE,tornado,,0,999,CERMAKOVA MARIE,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,PECHACEK STANISLAV,511010,225,0,999,PECHACEK STANISLAV,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,POLAK JAROSLAV,130062,225,420125,999,POLAK JAROSLAV,kdu-csl
+2021-08-30,5000,Bezhotovostní příjem,KREMPASKA JIRINA,Morava,,0,999,KREMPASKA JIRINA,kdu-csl
+2021-08-30,400,Bezhotovostní příjem,MOULEOVA LUDMILA,tornado,,0,999,MOULEOVA LUDMILA,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,DIVOKY JAN,prispevek,,0,999,DIVOKY JAN,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,PAVLAS OLDRICH,"",,0,999,PAVLAS OLDRICH,kdu-csl
+2021-08-30,2000,Bezhotovostní příjem,Ing.Vraný Jan,Lidovci lidovcům,0,,999,Ing.Vraný Jan,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,Adamec Petr,"",558,999,,Adamec Petr,kdu-csl
+2021-08-30,2000,Bezhotovostní příjem,ŘIVNÁČOVÁ IRENA,"",308,999,0,ŘIVNÁČOVÁ IRENA,kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,Neuwirth Radim,lidovci lidovcům,,,999,Neuwirth Radim,kdu-csl
+2021-08-30,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 710319 25.08.2021 c 3002JAROSLAVMATEJKATORNA*PO JIINI MORAVP,0,999,999,"CESKA POSTA, S.P.",kdu-csl
+2021-08-30,1000,Bezhotovostní příjem,VYMAZAL FRANTISEK,"",,0,999,VYMAZAL FRANTISEK,kdu-csl
+2021-08-30,3000,Bezhotovostní příjem,DAVID SAFAR,PŘEVOD PROSTŘEDKŮ,,999,,DAVID SAFAR,kdu-csl
 2021-08-29,11000,Okamžitá příchozí platba,MUDr.Vaněk Pavel,Lidovci lidovcům,0,,999,MUDr.Vaněk Pavel,kdu-csl
 2021-08-29,1000,Okamžitá příchozí platba,Kusý Jan,"",0,,999,Kusý Jan,kdu-csl
 2021-08-29,1000,Okamžitá příchozí platba,Ing. Petr Tomek,Lidovci lidovcum,,,999,Ing. Petr Tomek,kdu-csl

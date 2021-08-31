@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-30,1500,Okamžitá příchozí platba,Ing.Požárek Václav,Dar,0,9003187,,Ing.Požárek Václav,zeleni
+2021-08-30,400,Okamžitá příchozí platba,Černý Stanislav,Dar pro jihočeskou KO na volby,0,8031042,,Černý Stanislav,zeleni
+2021-08-30,500,Okamžitá příchozí platba,Křišík Karel,"",0,9003186,,Křišík Karel,zeleni
+2021-08-30,500,Okamžitá příchozí platba,Mgr.Brodnicki Hana,dar volby 2021,0,9003185,,Mgr.Brodnicki Hana,zeleni
+2021-08-30,100,Platba převodem uvnitř banky,"Šanda, Ondřej",dar za jihočeskou exkurzi,,8031043,,dar za jihočeskou exkurzi,zeleni
+2021-08-30,500,Okamžitá příchozí platba,Šůra Adam,"",0,9003176,,Šůra Adam,zeleni
+2021-08-30,2500,Okamžitá příchozí platba,Vlach Jan,dar (na volby),0,,,Vlach Jan,zeleni
+2021-08-30,15000,Bezhotovostní příjem,DAVIS MAGDALÉNA,"dar - volby 2021, PR Petra SchwarzKoutská",0,9003173,0,DAVIS MAGDALÉNA,zeleni
+2021-08-30,500,Okamžitá příchozí platba,ONDŘEJ HOLČÁK,Dar,,9003174,,ONDŘEJ HOLČÁK,zeleni
+2021-08-30,250,Bezhotovostní příjem,Tereza Vrublová,Dar,0,9001861,,Tereza Vrublová,zeleni
+2021-08-30,500,Bezhotovostní příjem,Ivo Skopal,Dar - Zelení,0,9002949,,Ivo Skopal,zeleni
+2021-08-30,500,Bezhotovostní příjem,VACLAV KRAL,DAR VÁCLAV KRÁL PRAHA 4,,9003169,,VACLAV KRAL,zeleni
+2021-08-30,200,Bezhotovostní příjem,JIŘÍ ŠKODA,DAR NA POZICI MEDIÁLNÍHO PORADCE,,9002814,,JIŘÍ ŠKODA,zeleni
+2021-08-30,1000,Bezhotovostní příjem,Tereza Štysová,Dar volby 2021,,,,Tereza Štysová,zeleni
+2021-08-30,500,Bezhotovostní příjem,Tereza Štysová,Dar ZO Praha 7 Lovošení,,,,Tereza Štysová,zeleni
+2021-08-30,500,Bezhotovostní příjem,MÜLLEROVÁ TEREZA,Dar na sumavskou exkurzi,0,0,0,MÜLLEROVÁ TEREZA,zeleni
+2021-08-30,200,Bezhotovostní příjem,HOLZER FILIP,Dar pro Zelene - Holzer Filip,,9002589,,HOLZER FILIP,zeleni
+2021-08-30,500,Bezhotovostní příjem,SEVCIK ONDREJ,Pravidelny dar Zelenym200HK-100KO-200ZO,,9002900,,SEVCIK ONDREJ,zeleni
+2021-08-30,250,Bezhotovostní příjem,Ryant Filip,dar,0,9002569,,Ryant Filip,zeleni
+2021-08-30,100,Bezhotovostní příjem,Böhm Daniel,dar,0,9002579,,Böhm Daniel,zeleni
 2021-08-29,1000,Okamžitá příchozí platba,Václav Němčík,dar,,9003172,,Václav Němčík,zeleni
 2021-08-29,200,Platba převodem uvnitř banky,"Šanda, Ondřej",dar za jihočeskou exkurzi,,8031041,,dar za jihočeskou exkurzi,zeleni
 2021-08-29,300,Okamžitá příchozí platba,DLOUHÁ LENKA,Dar,,9003171,,DLOUHÁ LENKA,zeleni
