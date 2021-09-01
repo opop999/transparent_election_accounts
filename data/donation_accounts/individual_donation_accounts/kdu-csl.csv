@@ -1,4 +1,32 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-31,5000,Platba převodem uvnitř banky,"Nešněrová, Marie","",,,999,"",kdu-csl
+2021-08-31,500,Okamžitá příchozí platba,Ing.Marek Jan,"",0,,999,Ing.Marek Jan,kdu-csl
+2021-08-31,10000,Okamžitá příchozí platba,Vaculíková Kristýna,Lidovci lidovcům,0,,999,Vaculíková Kristýna,kdu-csl
+2021-08-31,3000,Okamžitá příchozí platba,Durna Petr,Pochvalen Bud Jezis Kristus,0,,999,Durna Petr,kdu-csl
+2021-08-31,400,Okamžitá příchozí platba,KAPASNÝ JAN,"",,,999,KAPASNÝ JAN,kdu-csl
+2021-08-31,1000,Okamžitá příchozí platba,Dr.Munzar Dominik,lidovecka pomoc,0,,999,Dr.Munzar Dominik,kdu-csl
+2021-08-31,1000,Bezhotovostní příjem,KOPEČNÝ JOSEF,"",0,0,999,KOPEČNÝ JOSEF,kdu-csl
+2021-08-31,10000,Bezhotovostní příjem,DOBESOVA BOZENA,Lidovci lidovcum z Havirova,,0,999,DOBESOVA BOZENA,kdu-csl
+2021-08-31,2000,Okamžitá příchozí platba,Prusková Jana,Lidovci lidovcům,0,,999,Prusková Jana,kdu-csl
+2021-08-31,500,Bezhotovostní příjem,ŘEHÁK LADISLAV,"",0,396,999,ŘEHÁK LADISLAV,kdu-csl
+2021-08-31,500,Bezhotovostní příjem,DANKOVA MARIE,pomoc,,0,999,DANKOVA MARIE,kdu-csl
+2021-08-31,1000,Okamžitá příchozí platba,MARIE LUŇÁKOVÁ,Lidovci lidovcům,,999,,MARIE LUŇÁKOVÁ,kdu-csl
+2021-08-31,5000,Okamžitá příchozí platba,Ing.Pavlík Mojmír,"",0,,999,Ing.Pavlík Mojmír,kdu-csl
+2021-08-31,2000,Bezhotovostní příjem,URBÁNKOVÁ MARIE,Lidovci lidovcum,0,0,999,URBÁNKOVÁ MARIE,kdu-csl
+2021-08-31,1000,Bezhotovostní příjem,REGNER JIŘÍ,"",308,700610,999,REGNER JIŘÍ,kdu-csl
+2021-08-31,500,Okamžitá příchozí platba,Ing.Hamšík Josef,"Hamšík Josef, Záhorovice 238",0,,999,Ing.Hamšík Josef,kdu-csl
+2021-08-31,1000,Okamžitá příchozí platba,JOSEF PROCHÁZKA,Dar (tornádo),,,999,JOSEF PROCHÁZKA,kdu-csl
+2021-08-31,1000,Okamžitá příchozí platba,Pohanka Ivan,"",0,,999,Pohanka Ivan,kdu-csl
+2021-08-31,200,Okamžitá příchozí platba,Janalíková Marie,lidovci lidovcům,0,81248,999,Janalíková Marie,kdu-csl
+2021-08-31,1200,Bezhotovostní příjem,PSOTKA KAMIL,Dar KDU-CSL Zlin Kamil Psotka,,0,801,PSOTKA KAMIL,kdu-csl
+2021-08-31,10000,Bezhotovostní příjem,FRYDEK JAN,604290,601,0,999,FRYDEK JAN,kdu-csl
+2021-08-31,3000,Bezhotovostní příjem,Ing.Crha Ladislav,Sbírka Lidovci Lidovcům,0,311503,999,Ing.Crha Ladislav,kdu-csl
+2021-08-31,210,Bezhotovostní příjem,Ing.Kodys Stanislav,tornádo,8,,999,Ing.Kodys Stanislav,kdu-csl
+2021-08-31,3000,Bezhotovostní příjem,BUJNOCH PETR,Dar MO KDU-CSL Hukvaldy - tornado,,0,999,BUJNOCH PETR,kdu-csl
+2021-08-31,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
+2021-08-31,4000,Bezhotovostní příjem,Jiříček Pavel,Lidovci lidovcům,,,999,Jiříček Pavel,kdu-csl
+2021-08-31,2000,Bezhotovostní příjem,STEPAN STANISLAV,"",,0,999,STEPAN STANISLAV,kdu-csl
+2021-08-31,1000,Bezhotovostní příjem,DARDA JIRI,Prispevek tornado,,0,999,DARDA JIRI,kdu-csl
 2021-08-30,1000,Okamžitá příchozí platba,Drobná Monika,Lidovci lidovcům,0,,999,Drobná Monika,kdu-csl
 2021-08-30,2000,Okamžitá příchozí platba,JIŘÍ DOLEŽEL,"",,,999,JIŘÍ DOLEŽEL,kdu-csl
 2021-08-30,2000,Okamžitá příchozí platba,Vladimír Stuchlý,Lidovecká pomoc,,,999,Vladimír Stuchlý,kdu-csl

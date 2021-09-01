@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-31,10000,Bezhotovostní příjem,Mgr. Vaculík David,"DAR, David Vaculík",,2206210002,,Mgr. Vaculík David,ods
+2021-08-31,2000,Bezhotovostní příjem,JANEČEK ZDENĚK,"",0,2702210007,0,JANEČEK ZDENĚK,ods
+2021-08-31,20000,Bezhotovostní příjem,SCHUBERT JAROMÍR,"",0,2702210003,0,SCHUBERT JAROMÍR,ods
+2021-08-31,20000,Bezhotovostní příjem,"CORSO, SPOL. S R.O.","DAR, Corso, s.r.o.",,2702210004,,"CORSO, SPOL. S R.O.",ods
 2021-08-30,40000,Okamžitá příchozí platba,Bohumír Koumar,"DAR, Olga Koumarová",,2110210002,,Bohumír Koumar,ods
 2021-08-30,-230000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
 2021-08-30,50000,Bezhotovostní příjem,GEOPRINT S.R.O.,"Geoprint, s.r.o./ dar",,2702210006,,GEOPRINT S.R.O.,ods

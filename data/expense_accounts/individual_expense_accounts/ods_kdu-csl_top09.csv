@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+31.08.2021,-6133,Platba převodem uvnitř banky,"","",308,21012026,2700,"2700-Media Walk printing house s.r.o., výroba plachty"
+31.08.2021,-6618,Bezhotovostní platba,"","",308,1210120,2700,"2700-HLAWA creative s.r.o., grafika a polep auta"
+31.08.2021,-100,Okamžitá odchozí platba,"","",308,113114,2600,"2600-Statutární město Teplice , správní poplatek"
 30.08.2021,-100,Okamžitá odchozí platba,"","",308,625,2600,"2600-Statutární město Chomutov, poplatek - zábor veř. prostranství"
 30.08.2021,-35510.2,Okamžitá odchozí platba,"","",308,202103259,2300,"2300-Bohemia Regent s.r.o., propagační materiál vol. pivo"
 30.08.2021,-500,Okamžitá odchozí platba,"","",308,1361251,2600,"2600-Město Žatec , poplatek za užívání veř.prostoru"

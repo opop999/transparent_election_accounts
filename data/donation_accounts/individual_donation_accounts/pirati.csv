@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-31,1000,Bezhotovostní příjem,MARTIN HEIMERLE,PŘEVOD PROSTŘEDKŮ,,44015750,193000,MARTIN HEIMERLE,pirati
+2021-08-31,2000,Okamžitá příchozí platba,Ing. Zuzana KODYTKOV,Aby zase jednou pravda a láska zvítězila nad lží a nenávistí,0,44015749,193000,Ing. Zuzana KODYTKOV,pirati
+2021-08-31,500,Bezhotovostní příjem,JANSA LUKÁŠ,DAR NA ČINNOST MS OSTRAVA,0,0,140401,JANSA LUKÁŠ,pirati
+2021-08-31,59520,Bezhotovostní příjem,PAYNOVATIO A.S.,SETTLEMENT set2dq8rnm5d,0,0,0,PAYNOVATIO A.S.,pirati
+2021-08-31,2945.34,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1590035930,20210830,Global Payments s.r.,pirati
+2021-08-31,200,Bezhotovostní příjem,Živný Tomáš,Nakládejte s tím dobře :-).,0,85434,1,Živný Tomáš,pirati
+2021-08-31,500,Bezhotovostní příjem,Klípa Ondřej,bude líp,0,84234,190000,Klípa Ondřej,pirati
+2021-08-31,500,Bezhotovostní příjem,Ing.Vítová Ivana,"",0,86498,1,Ing.Vítová Ivana,pirati
+2021-08-31,200,Bezhotovostní příjem,Šimůnková Barbora,"",0,85605,1,Šimůnková Barbora,pirati
+2021-08-31,67000,Bezhotovostní příjem,OPLTOVÁ MICHAELA,DAR 44015747/193130,,44015747,193130,OPLTOVÁ MICHAELA,pirati
 2021-08-30,5000,Okamžitá příchozí platba,Formánek Jan,"Jan Formánek, Tašov 7, 400 02, Ústí n. L.",0,,,Formánek Jan,pirati
 2021-08-30,1000,Okamžitá příchozí platba,Pavel Jošt,DAR 84756/193000,,84756,193000,Pavel Jošt,pirati
 2021-08-30,200,Bezhotovostní příjem,Tadeusz Burski,DAR 84827/193000,,84827,193000,Tadeusz Burski,pirati

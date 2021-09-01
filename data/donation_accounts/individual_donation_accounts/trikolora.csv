@@ -1,4 +1,84 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-31,2000,Platba převodem uvnitř banky,"Blaha, Josef",DAR,,123456,,DAR,trikolora
+2021-08-31,1000,Okamžitá příchozí platba,Stehlíček Jiří,DAR - Jiří Stehlíček,0,123456,,Stehlíček Jiří,trikolora
+2021-08-31,2000,Okamžitá příchozí platba,Alla Stanishevskaya,Pinto - Stredocesky Kraj,,121212,,Alla Stanishevskaya,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Ing.Přikryl Michal,DAR,0,123456,,Ing.Přikryl Michal,trikolora
+2021-08-31,500,Platba převodem uvnitř banky,"Mach, Petr",DAR,,123456,,DAR,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Daniel Hudeček,DAR doufám že to pomůže.,,123456,,Daniel Hudeček,trikolora
+2021-08-31,500,Bezhotovostní příjem,MOURAL VLADIMIR,"DAR, Vladimir Moural",,123456,210831,MOURAL VLADIMIR,trikolora
+2021-08-31,500,Bezhotovostní příjem,KOVARIKOVA KATERINA,DAR - trikolora KaterinaKovarikova,,123456,,KOVARIKOVA KATERINA,trikolora
+2021-08-31,1000,Bezhotovostní příjem,LINHART JAN,DAR Jan Linhart,0,123456,0,LINHART JAN,trikolora
+2021-08-31,1000,Bezhotovostní příjem,SANTÍNO TOMÁŠ,DAR,0,123456,0,SANTÍNO TOMÁŠ,trikolora
+2021-08-31,500,Platba převodem uvnitř banky,"Boško, Zdeněk",DAR,,123456,,DAR,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Ing.Brzák Ivo,"DAR, Ivo Brzák",0,123456,,Ing.Brzák Ivo,trikolora
+2021-08-31,1000,Okamžitá příchozí platba,PhDr. Lukáš Cvrček,DAR,,123456,,PhDr. Lukáš Cvrček,trikolora
+2021-08-31,500,Bezhotovostní příjem,KAREL NUHLICEK,DAR KAREL NUHLÍČEK 10.2.1957,,15000038,,KAREL NUHLICEK,trikolora
+2021-08-31,1000,Bezhotovostní příjem,CHVÍLA JOSEF,DAR,0,123456,0,CHVÍLA JOSEF,trikolora
+2021-08-31,800,Okamžitá příchozí platba,Jaroslav Kozák,DAR,,123456,,Jaroslav Kozák,trikolora
+2021-08-31,100,Okamžitá příchozí platba,Koupil Petr,DAR,0,123456,,Koupil Petr,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Fořt Petr,DAR,0,123456,,Fořt Petr,trikolora
+2021-08-31,400,Okamžitá příchozí platba,František Konečný,dar,,123456,,František Konečný,trikolora
+2021-08-31,1000,Okamžitá příchozí platba,ŠKVRNA PAVEL,DAR,308,123456,,ŠKVRNA PAVEL,trikolora
+2021-08-31,100,Okamžitá příchozí platba,Röllová Jana,DAR,0,123456,,Röllová Jana,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Ing.Rod Vaclav,DAR   Václav Rod,0,123456,,Ing.Rod Vaclav,trikolora
+2021-08-31,5000,Bezhotovostní příjem,URBANOVÁ RENATA,DAR    Renata Urbanová,0,123456,0,URBANOVÁ RENATA,trikolora
+2021-08-31,1000,Bezhotovostní příjem,PETR TOMAN,DAR (PETR TOMAN),,123456,,PETR TOMAN,trikolora
+2021-08-31,300,Bezhotovostní příjem,Petr Salov,DAR,0,123456,0,Petr Salov,trikolora
+2021-08-31,300,Bezhotovostní příjem,VITEZSLAV CAPEK,DAR,,123456,,VITEZSLAV CAPEK,trikolora
+2021-08-31,300,Bezhotovostní příjem,HANZAL JAROSLAV,DAR,,123456,,HANZAL JAROSLAV,trikolora
+2021-08-31,200,Bezhotovostní příjem,COZL MAREK,DAR,,123456,,COZL MAREK,trikolora
+2021-08-31,1200,Bezhotovostní příjem,KOPA PETER,dar Peter Kopa,,123456,,KOPA PETER,trikolora
+2021-08-31,500,Bezhotovostní příjem,DEVERA MILAN,DAR Milan Devera,308,123456,0,DEVERA MILAN,trikolora
+2021-08-31,5000,Bezhotovostní příjem,SEIDL VÁCLAV,DAR VÁCLAV SEIDL,0,123456,0,SEIDL VÁCLAV,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Ing. ŠTĚPÁN SVOBODA,DAR,,9000270,,Ing. ŠTĚPÁN SVOBODA,trikolora
+2021-08-31,601,Okamžitá příchozí platba,Tomáš Kulhánek,DAR,,123456,,Tomáš Kulhánek,trikolora
+2021-08-31,5000,Okamžitá příchozí platba,ZAVADIL RADEK,DAR - Radek Zavadil,308,8000380,,ZAVADIL RADEK,trikolora
+2021-08-31,500,Platba převodem uvnitř banky,"Ing. Štěpán, Petr",DAR,,123456,,DAR,trikolora
+2021-08-31,1000,Bezhotovostní příjem,PLETICHA VLADIMIR,DAR Vladimir Pleticha,,123456,,PLETICHA VLADIMIR,trikolora
+2021-08-31,800,Okamžitá příchozí platba,Šeflová Lucie,DAR,0,123456,,Šeflová Lucie,trikolora
+2021-08-31,1000,Okamžitá příchozí platba,Ing. Ivan Vít,DAR,,123456,,Ing. Ivan Vít,trikolora
+2021-08-31,1000,Okamžitá příchozí platba,Doksanský Filip,DAR Filip Doksansky 17.8.1975,0,123456,,Doksanský Filip,trikolora
+2021-08-31,500,Bezhotovostní příjem,CÍSAŘ PETR,DAR Petr Císař,308,123456,0,CÍSAŘ PETR,trikolora
+2021-08-31,5000,Okamžitá příchozí platba,Červenka Rudolf,DAR Daniel Červenka,0,123456,,Červenka Rudolf,trikolora
+2021-08-31,1000,Platba převodem uvnitř banky,"Ing. Kopeň, Jiří",DAR,,123456,,DAR,trikolora
+2021-08-31,200,Okamžitá příchozí platba,JUDr.Krbek Rudolf,DAR  (R. Krbek),0,123456,,JUDr.Krbek Rudolf,trikolora
+2021-08-31,500,Bezhotovostní příjem,David Salamon,DAR,,123456,,David Salamon,trikolora
+2021-08-31,250,Bezhotovostní příjem,SREJBER JAN,DAR,,123456,,SREJBER JAN,trikolora
+2021-08-31,999,Bezhotovostní příjem,CEJNAR ROMAN,DAR,,123456,,CEJNAR ROMAN,trikolora
+2021-08-31,500,Platba převodem uvnitř banky,"Červek, Jaromír",DAR,,123456,,DAR,trikolora
+2021-08-31,100,Okamžitá příchozí platba,Burda Patrik,"Dar, víc nemám, omlouvám se",0,123456,,Burda Patrik,trikolora
+2021-08-31,300,Okamžitá příchozí platba,Petr Kukla,DAR,,123456,,Petr Kukla,trikolora
+2021-08-31,500,Okamžitá příchozí platba,STANISLAV MÜLLER,DAR,,123456,,STANISLAV MÜLLER,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Jan Horáček,DAR,,123456,,Jan Horáček,trikolora
+2021-08-31,500,Platba převodem uvnitř banky,"Ing. Vinopal, Stanislav",DAR příspěvek RP,,13001036,,DAR příspěvek RP,trikolora
+2021-08-31,300,Bezhotovostní příjem,POLLEČ DAVID,DAR - David Pollec,0,123456,0,POLLEČ DAVID,trikolora
+2021-08-31,850,Okamžitá příchozí platba,KLEIN ČENĚK,DAR,,123456,,KLEIN ČENĚK,trikolora
+2021-08-31,5000,Bezhotovostní příjem,Roman Šikuta,DAR roman šikuta,,123456,,Roman Šikuta,trikolora
+2021-08-31,300,Okamžitá příchozí platba,Ing.Zaňka Jiří,DAR Jiří Zaňka,0,123456,,Ing.Zaňka Jiří,trikolora
+2021-08-31,2000,Platba převodem uvnitř banky,"Sova, Lukáš",DAR,,123456,,DAR,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Vladimír Rambousek,Vladimir Rambousek,,631014,,Vladimír Rambousek,trikolora
+2021-08-31,990,Okamžitá příchozí platba,Otevřel Ivan,DAR - Ivan Otevrel,0,123456,,Otevřel Ivan,trikolora
+2021-08-31,200,Okamžitá příchozí platba,ŠIMEK JAN,DAR,,123456,,ŠIMEK JAN,trikolora
+2021-08-31,1000,Okamžitá příchozí platba,Jiří Bárta,Dar Bárta Jiří,,123456,,Jiří Bárta,trikolora
+2021-08-31,1100,Platba převodem uvnitř banky,"Ing. Pulkrábková, Lenka",DAR Trikolora - Moravskoslezský kraj,,123456,,DAR Trikolora - Moravskoslezský kraj,trikolora
+2021-08-31,1000,Platba převodem uvnitř banky,"Kleinerová, Helena",DAR,,123456,,DAR,trikolora
+2021-08-31,500,Platba převodem uvnitř banky,"Petřík, Petr",DAR,,123456,,DAR,trikolora
+2021-08-31,2000,Okamžitá příchozí platba,DACHSERVIS CZ s.r.o.,DAR  Dachservis CZ s.r.o. IČO 25687549,558,123456,,DACHSERVIS CZ s.r.o.,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Eidelpes Vít,DAR Vít Eidelpes,0,123456,,Eidelpes Vít,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Vít Tomis,DAR - Vít Tomis,,123456,,Vít Tomis,trikolora
+2021-08-31,999,Okamžitá příchozí platba,Tkáč Ondřej,DAR,0,123456,,Tkáč Ondřej,trikolora
+2021-08-31,10000,Okamžitá příchozí platba,Ing. Miroslav Křížek,DAR,,123456,,Ing. Miroslav Křížek,trikolora
+2021-08-31,200,Okamžitá příchozí platba,David Pajma,DAR příspěvek RP,,13001038,,David Pajma,trikolora
+2021-08-31,500,Okamžitá příchozí platba,Tetur Tomáš,DAR,0,123456,,Tetur Tomáš,trikolora
+2021-08-31,300,Okamžitá příchozí platba,Mgr.Prokopiusová Šár,DAR,0,123456,,Mgr.Prokopiusová Šár,trikolora
+2021-08-31,100,Okamžitá příchozí platba,Vůjtek Adam,DAR,0,123456,,Vůjtek Adam,trikolora
+2021-08-31,200,Okamžitá příchozí platba,Adamec Vojtěch,DAR,0,123456,,Adamec Vojtěch,trikolora
+2021-08-31,1100,Okamžitá příchozí platba,PAVEL HUDEČEK,Dar  Pavel Hudeček,,123456,,PAVEL HUDEČEK,trikolora
+2021-08-31,500,Okamžitá příchozí platba,ŽIŽKA JAROSLAV,DAR,,123456,,ŽIŽKA JAROSLAV,trikolora
+2021-08-31,1000,Bezhotovostní příjem,Jan Skalák,Jan Skalák  5.6.1961DAR,,,,Jan Skalák,trikolora
+2021-08-31,10000,Bezhotovostní příjem,Ptáčník Václav,"",,121212,,Ptáčník Václav,trikolora
+2021-08-31,17000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 508325 26.08.2021 c 2009PETRTARANDADAR TSS LBK,0,1555555,,"CESKA POSTA, S.P.",trikolora
+2021-08-31,2000,Bezhotovostní příjem,ERNEST WACHTL,PŘEVOD PROSTŘEDKŮ,,121212,,ERNEST WACHTL,trikolora
 2021-08-30,500,Okamžitá příchozí platba,Ing.Štěpánek Dan,DAR,0,123456,,Ing.Štěpánek Dan,trikolora
 2021-08-30,1100,Okamžitá příchozí platba,ZUGAR PAVEL,Dar pro Olomoucký kraj. Pavel ZUGAR,,777777,,ZUGAR PAVEL,trikolora
 2021-08-30,10000,Bezhotovostní příjem,TILL MICHAL,DAR Michal Till,0,123456,,TILL MICHAL,trikolora

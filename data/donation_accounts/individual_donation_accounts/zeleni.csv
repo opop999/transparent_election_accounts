@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-08-31,200,Okamžitá příchozí platba,Mgr. Dana Kuchtová,Dar,,310820213,,Mgr. Dana Kuchtová,zeleni
+2021-08-31,2000,Okamžitá příchozí platba,Michal Karásek,dar,,9003197,,Michal Karásek,zeleni
+2021-08-31,-100,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,8031039,,Helena Nutilová,zeleni
+2021-08-31,-500,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,9003176,,Šůra Adam,zeleni
+2021-08-31,-500,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,9003186,,Křišík Karel,zeleni
+2021-08-31,2021,Okamžitá příchozí platba,Mgr.Packa Martin,Dar na volební kampaň SZ 2021,0,9002966,,Mgr.Packa Martin,zeleni
+2021-08-31,300,Platba převodem uvnitř banky,"Žežulková Maličká, Zuzana",Hodně úspěchů na poli ekologie!,,9003192,,Hodně úspěchů na poli ekologie!,zeleni
+2021-08-31,300,Bezhotovostní příjem,ČÁSTEK JIŘÍ,DAR,0,9003182,0,ČÁSTEK JIŘÍ,zeleni
+2021-08-31,5000,Bezhotovostní příjem,JEDLIČKOVÁ ZUZANA,dar,0,9003178,0,JEDLIČKOVÁ ZUZANA,zeleni
+2021-08-31,1500,Okamžitá příchozí platba,Vladimír Handl,DAR na kampaň,,9003191,,Vladimír Handl,zeleni
+2021-08-31,3000,Bezhotovostní příjem,ROUČE FRANTIŠEK,DAR-Ústecký kraj-MUDr.Rouče,0,0,0,ROUČE FRANTIŠEK,zeleni
+2021-08-31,200,Bezhotovostní příjem,ŠIMEK MATOUŠ,Dar jako příspěvek na exkurzi do slatí od Báry Tiché a Matouše Šimka,0,8031044,0,ŠIMEK MATOUŠ,zeleni
+2021-08-31,200,Bezhotovostní příjem,Radka Benešová,Dar,0,,,Radka Benešová,zeleni
+2021-08-31,300,Bezhotovostní příjem,ALENA CZYZOVA,DAR,,905504,,ALENA CZYZOVA,zeleni
+2021-08-31,200,Bezhotovostní příjem,PAVEL KADLEC,DAR NA VOLBY DO PSP PRO OSTRAVU / GREENS UP!,,9003103,23377,PAVEL KADLEC,zeleni
+2021-08-31,1000,Platba převodem uvnitř banky,"MUDr. Mílek, Petr",dar,,9003190,,dar,zeleni
+2021-08-31,500,Bezhotovostní příjem,DOSTÁL VÍTĚZSLAV,Dar,8,9003180,0,DOSTÁL VÍTĚZSLAV,zeleni
+2021-08-31,500,Bezhotovostní příjem,Barbora Kosíková,DAR - na kampaň Zelených,,9003179,,Barbora Kosíková,zeleni
+2021-08-31,300,Bezhotovostní příjem,ROZUMEK MARTIN,Dar,,9002950,,ROZUMEK MARTIN,zeleni
+2021-08-31,5000,Bezhotovostní příjem,PLESNIKOVA YVONNA,Dar pro Zelene.,,9003184,,PLESNIKOVA YVONNA,zeleni
+2021-08-31,1000,Bezhotovostní příjem,TOMASAKOVA MONIKA,dar,,9003181,,TOMASAKOVA MONIKA,zeleni
+2021-08-31,2000,Platba převodem uvnitř banky,Studio STKI s.r.o.,dar,,9003189,,dar,zeleni
+2021-08-31,500,Bezhotovostní příjem,MICHAL SISKA,DAR,,9003177,,MICHAL SISKA,zeleni
 2021-08-30,1500,Okamžitá příchozí platba,Ing.Požárek Václav,Dar,0,9003187,,Ing.Požárek Václav,zeleni
 2021-08-30,400,Okamžitá příchozí platba,Černý Stanislav,Dar pro jihočeskou KO na volby,0,8031042,,Černý Stanislav,zeleni
 2021-08-30,500,Okamžitá příchozí platba,Křišík Karel,"",0,9003186,,Křišík Karel,zeleni
