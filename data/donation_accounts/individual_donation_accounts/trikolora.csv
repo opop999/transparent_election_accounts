@@ -1,4 +1,33 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-01,300,Okamžitá příchozí platba,Václavík Pavel,DAR Pavel Václavík,0,123456,,Václavík Pavel,trikolora
+2021-09-01,100,Okamžitá příchozí platba,Michal Dvořák,DAR,,123456,,Michal Dvořák,trikolora
+2021-09-01,500,Platba převodem uvnitř banky,"Kičerka, Jakub",DAR,,123456,,DAR,trikolora
+2021-09-01,1500,Okamžitá příchozí platba,Ing.Ženíšek Karel,DAR. Karel Ženíšek,0,123456,,Ing.Ženíšek Karel,trikolora
+2021-09-01,999,Okamžitá příchozí platba,Hanuš Viliam,DAR  Viliam Hanuš,0,123456,,Hanuš Viliam,trikolora
+2021-09-01,10000,Bezhotovostní příjem,PREMYSL HRUZA,DAR PŘEMYSL HRŮZA,,121212,,PREMYSL HRUZA,trikolora
+2021-09-01,1000,Okamžitá příchozí platba,Ing. Jan Vondrák,DAR,,123456,,Ing. Jan Vondrák,trikolora
+2021-09-01,-55000,Platba převodem uvnitř banky,"",převod na provozní účet,,,,převod na provozní účet,trikolora
+2021-09-01,999,Bezhotovostní příjem,FOŠUMOVÁ JARMILA,"",138,9,0,FOŠUMOVÁ JARMILA,trikolora
+2021-09-01,1000,Bezhotovostní příjem,MAREŠ JIŘÍ,DAR,,123456,,MAREŠ JIŘÍ,trikolora
+2021-09-01,5000,Bezhotovostní příjem,Milan Kryštof Čech,DAR  - Milan Kryštof Čech,,121212,,Milan Kryštof Čech,trikolora
+2021-09-01,500,Okamžitá příchozí platba,Václavík František,DAR František Václavík,0,123456,,Václavík František,trikolora
+2021-09-01,500,Bezhotovostní příjem,VOJTECH VENTLUKA,DAR VOJTĚCH VENTLUKA,,123456,,VOJTECH VENTLUKA,trikolora
+2021-09-01,100,Bezhotovostní příjem,JAROSLAV VYTASEK,DAR,,123456,,JAROSLAV VYTASEK,trikolora
+2021-09-01,1000,Bezhotovostní příjem,PALIČKA ZDENĚK,DAR Zdeněk Palička,0,123456,0,PALIČKA ZDENĚK,trikolora
+2021-09-01,500,Platba převodem uvnitř banky,"Ing. Čech, Zdeněk","DAR, Zdeněk Čech, nar. 27.12.1960, člen 5000241",,,,"DAR, Zdeněk Čech, nar. 27.12.1960, člen 5000241",trikolora
+2021-09-01,1000,Platba převodem uvnitř banky,"Ing. Polák, Ivan",DAR,,123456,,DAR,trikolora
+2021-09-01,500,Bezhotovostní příjem,RADIMĚŘSKÁ ADÉLA,DAR                    Adéla Radiměřská,0,123456,0,RADIMĚŘSKÁ ADÉLA,trikolora
+2021-09-01,3000,Bezhotovostní příjem,TRCKA MIROSLAV,DAR - Miroslav Trcka,,123456,,TRCKA MIROSLAV,trikolora
+2021-09-01,300,Bezhotovostní příjem,Miroslav Plot,DAR Miroslav Plot,,,,Miroslav Plot,trikolora
+2021-09-01,7000,Bezhotovostní příjem,MYSLIVECEK MICHAL,DARMichal Myslivecek,,123456,,MYSLIVECEK MICHAL,trikolora
+2021-09-01,100,Bezhotovostní příjem,PRACHAR MIROSLAV,DAR,,123456,,PRACHAR MIROSLAV,trikolora
+2021-09-01,2000,Bezhotovostní příjem,MACHALÍNEK TOMÁŠ,DAR Tomáš Machalínek,0,123456,0,MACHALÍNEK TOMÁŠ,trikolora
+2021-09-01,1500,Bezhotovostní příjem,KALVACH JIRI,"DAR, Jiri Kalvach",,123456,,KALVACH JIRI,trikolora
+2021-09-01,500,Bezhotovostní příjem,LESNIAK MARIAN,DAR  Marian Lesniak,0,123456,,LESNIAK MARIAN,trikolora
+2021-09-01,1000,Bezhotovostní příjem,BUREŠ JIŘÍ,DAR Jiří Bureš,,123456,,BUREŠ JIŘÍ,trikolora
+2021-09-01,500,Bezhotovostní příjem,HORACKOVA JANA,DAR Miroslav Horacek,,123456,,HORACKOVA JANA,trikolora
+2021-09-01,100,Bezhotovostní příjem,NOVAK KAREL,DAR Karel Novak,,123456,,NOVAK KAREL,trikolora
+2021-09-01,200,Bezhotovostní příjem,RADEK DOLEZAL,DAR,,123456,,RADEK DOLEZAL,trikolora
 2021-08-31,2000,Platba převodem uvnitř banky,"Blaha, Josef",DAR,,123456,,DAR,trikolora
 2021-08-31,1000,Okamžitá příchozí platba,Stehlíček Jiří,DAR - Jiří Stehlíček,0,123456,,Stehlíček Jiří,trikolora
 2021-08-31,2000,Okamžitá příchozí platba,Alla Stanishevskaya,Pinto - Stredocesky Kraj,,121212,,Alla Stanishevskaya,trikolora

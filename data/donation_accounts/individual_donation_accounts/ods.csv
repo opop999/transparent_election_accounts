@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-01,5500,Okamžitá příchozí platba,JURÁŠ MAREK,DAR,,3001210029,,JURÁŠ MAREK,ods
+2021-09-01,10000,Platba převodem uvnitř banky,"Ing. Steinbauer, Pavel PhD.","DAR, Pavel Steinbauer",,1100210068,,"DAR, Pavel Steinbauer",ods
+2021-09-01,1000,Okamžitá příchozí platba,Česká spořitelna,"DAR, Martin Micka",0,1100210067,,Česká spořitelna,ods
+2021-09-01,10000,Bezhotovostní příjem,ŠKOPOVÁ PETRA,DAR Petra Škopová,0,2801210001,0,ŠKOPOVÁ PETRA,ods
 2021-08-31,10000,Bezhotovostní příjem,Mgr. Vaculík David,"DAR, David Vaculík",,2206210002,,Mgr. Vaculík David,ods
 2021-08-31,2000,Bezhotovostní příjem,JANEČEK ZDENĚK,"",0,2702210007,0,JANEČEK ZDENĚK,ods
 2021-08-31,20000,Bezhotovostní příjem,SCHUBERT JAROMÍR,"",0,2702210003,0,SCHUBERT JAROMÍR,ods

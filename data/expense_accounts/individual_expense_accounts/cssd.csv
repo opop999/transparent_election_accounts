@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+02.09.2021,-1238.8,Karetní transakce,"","Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 31.8.2021, částka  1238.80 CZK",,4376,,"Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 31.8.2021, částka  1238.80 CZK"
+01.09.2021,-121000,Bezhotovostní platba,"",ČSSD,308,47021,,"Ewing s.r.o., konzultace, poradenství, ústředí"
+01.09.2021,-3025,Bezhotovostní platba,"",ČSSD,308,47121,,"Ewing s.r.o., užití webového rozhraní, ústředí"
+01.09.2021,1436,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Pardubický kraj na volby PS PČR,,,,převod z KP Pardubický kraj na volby PS PČR
+01.09.2021,1238.8,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR
+01.09.2021,20000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
+01.09.2021,1001.8,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký na volby PS PČR,,,,převod z KP Liberecký na volby PS PČR
+01.09.2021,11250,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR
+01.09.2021,18125.8,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR
+01.09.2021,3206.5,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR
+01.09.2021,-24200,Platba převodem uvnitř banky,"","vrácení převodu z Jihomoravského kraje , provedeno 26.8.2021",308,9,,"vrácení převodu z Jihomoravského kraje , provedeno 26.8.2021"
+01.09.2021,24200,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
+01.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK *XD6SD7XLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *XD6SD7XLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 1.9.2021, částka  20000.00 CZK"
 01.09.2021,-1285.1,Karetní transakce,"","Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 31.8.2021, částka  1285.10 CZK",,634,,"Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 31.8.2021, částka  1285.10 CZK"
 01.09.2021,-1062.8,Karetní transakce,"","Nákup: CERPACI STANICE PECKY,  CHVALOVICKA 1041, PECKY, 28911, CZE, dne 31.8.2021, částka  1062.80 CZK",,1793,,"Nákup: CERPACI STANICE PECKY,  CHVALOVICKA 1041, PECKY, 28911, CZE, dne 31.8.2021, částka  1062.80 CZK"
 31.08.2021,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Ostrava, CZE, dne 30.8.2021",,2831,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Ostrava, CZE, dne 30.8.2021"

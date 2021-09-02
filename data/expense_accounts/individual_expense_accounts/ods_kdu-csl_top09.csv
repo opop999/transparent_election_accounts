@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+01.09.2021,-1520,Bezhotovostní platba,"","",558,2040090060,2200,"2200-Město Neratovice, poplatek za užívání veř.prostranství"
+01.09.2021,-1900,Bezhotovostní platba,"","",0,220003,2200,"2200-Dana Kostínková , poplatky -zábor Lkino"
+01.09.2021,-6720,Bezhotovostní platba,"","",308,9200003099,2600,"2600-Statutární město Děčín, pronájem plochy"
+01.09.2021,-100,Bezhotovostní platba,"","",308,9450005357,2600,"2600-Statutární město Děčín , správní poplatek"
+01.09.2021,-1260,Bezhotovostní platba,"","",308,210100068,1114,"1114-Mětské kulturní centrum HUlín, výlep plakátů"
+01.09.2021,-1670,Bezhotovostní platba,"","",8,202100443,1114,"1114-Ivo Mischinger, výlep plakátů"
 31.08.2021,-6133,Platba převodem uvnitř banky,"","",308,21012026,2700,"2700-Media Walk printing house s.r.o., výroba plachty"
 31.08.2021,-6618,Bezhotovostní platba,"","",308,1210120,2700,"2700-HLAWA creative s.r.o., grafika a polep auta"
 31.08.2021,-100,Okamžitá odchozí platba,"","",308,113114,2600,"2600-Statutární město Teplice , správní poplatek"

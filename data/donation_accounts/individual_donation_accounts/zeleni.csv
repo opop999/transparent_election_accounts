@@ -1,4 +1,31 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-01,300,Okamžitá příchozí platba,Ing.Tláskal Ivan,DAR,0,9003205,,Ing.Tláskal Ivan,zeleni
+2021-09-01,300,Platba převodem uvnitř banky,"Meloun, Ondřej",dar,,8031046,,dar,zeleni
+2021-09-01,-300,Bezhotovostní platba,"","vrácení platby - nejasný účel platby, není uvedeno ""dar"" (Strana zelených)",,9003188,,HAASE ELIŠKA,zeleni
+2021-09-01,-100,Bezhotovostní platba,"","vrácení platby - nejasný účel platby, není uvedeno ""dar"" (Strana zelených)",,9002455,,KLAUSER ONDŘEJ,zeleni
+2021-09-01,1000,Okamžitá příchozí platba,"Mgr.Zámec Radim,Ph.D",Dar,0,9003141,,"Mgr.Zámec Radim,Ph.D",zeleni
+2021-09-01,2500,Okamžitá příchozí platba,Mgr. Alessio Conton,dar,,9003203,,Mgr. Alessio Conton,zeleni
+2021-09-01,1000,Platba převodem uvnitř banky,"Lukeš, Vladimír",dar,,9003202,,dar,zeleni
+2021-09-01,1500,Bezhotovostní příjem,KADEČKA HYNEK,Dar,0,9003200,0,KADEČKA HYNEK,zeleni
+2021-09-01,300,Bezhotovostní příjem,HAASE ELIŠKA,"",0,9003188,0,HAASE ELIŠKA,zeleni
+2021-09-01,300,Bezhotovostní příjem,Ondřej Černoš,dar,0,9002844,,Ondřej Černoš,zeleni
+2021-09-01,100,Bezhotovostní příjem,ONDREJ BRUNNER,DAR,,9002033,,ONDREJ BRUNNER,zeleni
+2021-09-01,250,Bezhotovostní příjem,FILIP HUNĚK,FILIP HUNĚK - DAR PRO ZO PRAHA 7,,5683,,FILIP HUNĚK,zeleni
+2021-09-01,1000,Bezhotovostní příjem,Michal Berg,dar na vedouciho komunikace,,9002841,,Michal Berg,zeleni
+2021-09-01,3000,Bezhotovostní příjem,KUSÁKOVÁ ANNA,dar,0,9003198,0,KUSÁKOVÁ ANNA,zeleni
+2021-09-01,100,Bezhotovostní příjem,KLAUSER ONDŘEJ,"",,9002455,,KLAUSER ONDŘEJ,zeleni
+2021-09-01,350,Bezhotovostní příjem,ČERNÍK ROMAN,Dar SZ,,9002870,,ČERNÍK ROMAN,zeleni
+2021-09-01,600,Bezhotovostní příjem,STORCH PAVEL,"dar Storchovi, podpora konci stagnace",,9002570,,STORCH PAVEL,zeleni
+2021-09-01,300,Bezhotovostní příjem,HOLEC MILOS,Dar,,9002912,,HOLEC MILOS,zeleni
+2021-09-01,5000,Bezhotovostní příjem,CIHAKOVA KATERINA,dar,,9003196,,CIHAKOVA KATERINA,zeleni
+2021-09-01,5000,Bezhotovostní příjem,UHRADA DO JPU,dar na snemovni volby 2021Z 291393245/0300,968,0,,Vít Masare,zeleni
+2021-09-01,200,Bezhotovostní příjem,Veselský Michal,Na zpáteční jízdenku,0,0,0,Veselský Michal,zeleni
+2021-09-01,250,Bezhotovostní příjem,Vlach Jan,Dar pro stranu,0,9002598,,Vlach Jan,zeleni
+2021-09-01,1187,Bezhotovostní příjem,Ing.Čejka Jiří,"Čejka J., 294 46 Semčice 130-dar pro KO Stč. kraje",0,,,Ing.Čejka Jiří,zeleni
+2021-09-01,200,Bezhotovostní příjem,BONUŠ VĚNEK,DAR,0,9002591,0,BONUŠ VĚNEK,zeleni
+2021-09-01,500,Platba převodem uvnitř banky,"Gubiš, Jindřich",dar pro krajskou organizaci Libereckého kraje,,,,dar pro krajskou organizaci Libereckého kraje,zeleni
+2021-09-01,1000,Bezhotovostní příjem,BURGER JAROSLAV,"Dar; J.Burger, Pardubice",,9003194,,BURGER JAROSLAV,zeleni
+2021-09-01,500,Bezhotovostní příjem,MARTIN VOREL,DAR,,9003193,,MARTIN VOREL,zeleni
 2021-08-31,200,Okamžitá příchozí platba,Mgr. Dana Kuchtová,Dar,,310820213,,Mgr. Dana Kuchtová,zeleni
 2021-08-31,2000,Okamžitá příchozí platba,Michal Karásek,dar,,9003197,,Michal Karásek,zeleni
 2021-08-31,-100,Bezhotovostní platba,"",vrácení platby - nejasný účel platby (Strana zelených),,8031039,,Helena Nutilová,zeleni
