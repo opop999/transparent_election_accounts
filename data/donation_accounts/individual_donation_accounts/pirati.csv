@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-02,10000,Okamžitá příchozí platba,Michal Seménka,Podpora volební kampaně - dotace dvou billboardů,,44014293,193000,Michal Seménka,pirati
+2021-09-02,1000,Okamžitá příchozí platba,Pavel Vyroubal,DAR 44006274/193000,,44006274,193000,Pavel Vyroubal,pirati
+2021-09-02,-256,Platba převodem uvnitř banky,"","Tomáš Karlík - Chybný účet - jde o účet pro dary, ne členské příspěvky",,292021,,"Tomáš Karlík - Chybný účet - jde o účet pro dary, ne členské příspěvky",pirati
+2021-09-02,1000,Platba převodem uvnitř banky,"Holl, Vlastimil","",,44015756,1,"",pirati
+2021-09-02,200,Bezhotovostní příjem,Jan Vratislav,Dar Česká pirátská strana,,82762,,Jan Vratislav,pirati
+2021-09-02,200,Bezhotovostní příjem,MORÁVKOVÁ ZUZANA,Z. Moravkova,,44006676,,MORÁVKOVÁ ZUZANA,pirati
+2021-09-02,3249.33,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1600002234,20210901,Global Payments s.r.,pirati
+2021-09-02,75000,Bezhotovostní příjem,CIZEK PAVEL,"",,44015755,193130,CIZEK PAVEL,pirati
+2021-09-02,250,Platba převodem uvnitř banky,"Ing. Chocholatý, Libor",DAR 44015494/193000,,44015494,193000,DAR 44015494/193000,pirati
+2021-09-02,1000,Bezhotovostní příjem,POHORELEC TOMÁŠ,"",0,85002,0,POHORELEC TOMÁŠ,pirati
 2021-09-01,500,Okamžitá příchozí platba,Štěpán Hrabovský,DAR 44015696/193000,,44015696,193000,Štěpán Hrabovský,pirati
 2021-09-01,200,Okamžitá příchozí platba,Česká spořitelna,DAR 83351/193000,0,83351,193000,Česká spořitelna,pirati
 2021-09-01,-9e+05,Platba převodem uvnitř banky,"",Převod na účet 21000643125,,,,Převod na účet 21000643125,pirati

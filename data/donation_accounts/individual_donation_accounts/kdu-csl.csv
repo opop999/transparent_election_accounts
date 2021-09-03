@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-02,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2021-09-01,1000,Okamžitá příchozí platba,Ing. David Jílek,tornado,,,999,Ing. David Jílek,kdu-csl
 2021-09-01,1000,Bezhotovostní příjem,FORNŮSEK ANTONÍN,"",0,0,999,FORNŮSEK ANTONÍN,kdu-csl
 2021-09-01,10000,Bezhotovostní příjem,HOŘAVA PAVEL,Lidovci lidovcům,0,222630,999,HOŘAVA PAVEL,kdu-csl

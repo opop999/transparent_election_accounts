@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+02.09.2021,-900,Okamžitá odchozí platba,"","Platba za pronájem sálu. Příjemce Městská sportovní Třebon, příspěvková organizace",308,210084,,"Platba za pronájem sálu. Příjemce Městská sportovní Třebon, příspěvková organizace"
+02.09.2021,-500,Platba převodem uvnitř banky,"",Žigo Milan - špatně poslán DAR. Na volební účet místo na zvláštní z 02.09.2021,,,,Žigo Milan - špatně poslán DAR. Na volební účet místo na zvláštní z 02.09.2021
 01.09.2021,500,Bezhotovostní příjem,Žigo Milan,"",0,2021,,Žigo Milan
 27.08.2021,-11680,Okamžitá odchozí platba,"","Platba za nájem krajské kanceláře Plzen včetně služeb a kauce 5000,- za 09 - 2021. Příjemce pan Kovařík",,,,"Platba za nájem krajské kanceláře Plzen včetně služeb a kauce 5000,- za 09 - 2021. Příjemce pan Kovařík"
 27.08.2021,-8686,Okamžitá odchozí platba,"",Platba za nájem krajské kanceláře Hradec Králové včetně záloh na energie za 08 - 2021. Příjemce paní Šmátalová,,75952211,,Platba za nájem krajské kanceláře Hradec Králové včetně záloh na energie za 08 - 2021. Příjemce paní Šmátalová

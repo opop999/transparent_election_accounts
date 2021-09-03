@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+03.09.2021,0.2,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2121000418,,VLTAVA LABE MEDIA
+02.09.2021,-8415,Okamžitá odchozí platba,"",DPP 2021/08,,,,SZ - Martin Lekeš
+02.09.2021,-200,Okamžitá odchozí platba,"",Předpis KP00039970/1 - zábor veřejného prostranství,,1062802712,,"SZ - Úřad městské části města Brna, Brno - střed"
+02.09.2021,-2000,Bezhotovostní platba,"",FA 210100005 - technické zajištění tiskové konference,,210100005,,"SZ - Komunitní centrum Kampa, o. s."
+02.09.2021,-14278,Bezhotovostní platba,"","FA 20210322 - tisk plakátu, pronájem billboardu",308,20210322,71,OLK - A.R.T.247 s.r.o.
+02.09.2021,-10984,Bezhotovostní platba,"",ZF 82117368 - zapůjčení video techniky,,82117368,,"SZ - Biofilms rental, s.r.o."
+02.09.2021,-1517,Platba převodem uvnitř banky,"",FA 1210425 - plakáty A2,,1210425,64,JMK - Studio STKI s. r. o.
 01.09.2021,1517,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
 01.09.2021,14278,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,20210322,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021
 01.09.2021,-678.35,Karetní transakce,"","Nákup: FACEBK *WRT8C6XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 31.8.2021, částka  678.35 CZK",,6211,,"Nákup: FACEBK *WRT8C6XJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 31.8.2021, částka  678.35 CZK"

@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+03.09.2021,-600,Karetní transakce,"","Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 2.9.2021, částka  600.00 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 2.9.2021, částka  600.00 CZK"
+02.09.2021,-4961,Bezhotovostní platba,"",ČSSD,308,62021,,"Jan Vícha, zajištění akce, Olomoucký kraj"
+02.09.2021,-18125.8,Bezhotovostní platba,"",ČSSD,308,101972021,,"Daniel Dostál, reklamní trika,mikiny, Kraj Praha"
+02.09.2021,-3206.5,Bezhotovostní platba,"",ČSSD,308,210100176,,"GRAFTIS - grafika a tisk, s.r.o., polep promostánků, Kraj Praha"
+02.09.2021,-39694.05,Platba převodem uvnitř banky,"",ČSSD,308,2021027,,"Cíl, a.s., materiály na volební kampaň, ústředí"
+02.09.2021,-380000,Platba převodem uvnitř banky,"",ČSSD,308,9210060,,"NMS Market Research SR, kvalitativní výzkum, ústředí"
+02.09.2021,-118242.41,Platba převodem uvnitř banky,"",ČSSD,308,2021025,,"Cíl, a.s., tisk outdooru, ústředí"
+02.09.2021,-5000,Bezhotovostní platba,"",ČSSD,308,22021,,"Oldřich Lempera, grafické práce, Kraj Vysočina"
+02.09.2021,-10769,Platba převodem uvnitř banky,"",ČSSD,308,2100056,,"W a W reklama s.r.o., zajištění reklamní kampaně, Pardubický kraj"
+02.09.2021,-20000,Bezhotovostní platba,"",ČSSD,308,202110,,"Pavel Janů, tvorba grafických podkladů, Jihomoravský kraj"
+02.09.2021,-10536.08,Platba převodem uvnitř banky,"",ČSSD,308,2021024,,"Cíl, a.s., tiskové materiály, Plzeňský kraj"
+02.09.2021,762300,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Moravskoslezský kraj na volby PS PČR,,,,převod z KP Moravskoslezský kraj na volby PS PČR
+02.09.2021,-103676.04,Platba převodem uvnitř banky,"",ČSSD,308,2021042,,"provocation s.r.o., grafické práce, úprava fotek, Pardubický kraj"
+02.09.2021,-20000,Bezhotovostní platba,"",ČSSD,308,210100011,,"Petr Kurečka, fotografie, Jihomoravský kraj"
+02.09.2021,-173492.22,Bezhotovostní platba,"",ČSSD,308,46921,,"Ewing s.r.o., správa sociální sítě, ústředí"
+02.09.2021,-363000,Bezhotovostní platba,"",ČSSD,308,50921,,"Ewing s.r.o., strategie, harmonogram voleb, ústředí"
+02.09.2021,-11250,Bezhotovostní platba,"",ČSSD,308,172021,,"Jakub Náprstek, grafická a předtisková příprava periodika, Kraj Praha"
+02.09.2021,650000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021
+02.09.2021,-1066.4,Karetní transakce,"","Nákup: CSPHM TANK ONO,  ZIZKOVA 110, JIHLAVA, 586 01, CZE, dne 31.8.2021, částka  1066.40 CZK",,3429,,"Nákup: CSPHM TANK ONO,  ZIZKOVA 110, JIHLAVA, 586 01, CZE, dne 31.8.2021, částka  1066.40 CZK"
+02.09.2021,1285.1,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Karlovarský kraj na volby PS PČR,,,,převod z KP Karlovarský kraj na volby PS PČR
 02.09.2021,-1238.8,Karetní transakce,"","Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 31.8.2021, částka  1238.80 CZK",,4376,,"Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 31.8.2021, částka  1238.80 CZK"
 01.09.2021,-121000,Bezhotovostní platba,"",ČSSD,308,47021,,"Ewing s.r.o., konzultace, poradenství, ústředí"
 01.09.2021,-3025,Bezhotovostní platba,"",ČSSD,308,47121,,"Ewing s.r.o., užití webového rozhraní, ústředí"

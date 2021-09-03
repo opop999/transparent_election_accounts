@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-02,1000,Okamžitá příchozí platba,Česká spořitelna,DAR Kateřina Vašinová,0,123456,,Česká spořitelna,trikolora
+2021-09-02,500,Okamžitá příchozí platba,Hašek Štěpán,DAR,0,11001654,,Hašek Štěpán,trikolora
+2021-09-02,1500,Okamžitá příchozí platba,JUDr.Šoral Vladimír,Vladimír Šoral,0,123456,,JUDr.Šoral Vladimír,trikolora
+2021-09-02,500,Okamžitá příchozí platba,Ing.Brachtl Martin,DAR,0,123456,,Ing.Brachtl Martin,trikolora
+2021-09-02,500,Okamžitá příchozí platba,Krejčířová Marcela,dar,0,123456,,Krejčířová Marcela,trikolora
+2021-09-02,500,Platba převodem uvnitř banky,"Řeha, Roman",DAR,,123456,,DAR,trikolora
+2021-09-02,500,Bezhotovostní příjem,MILAN KAUCKY,DAR - MILAN KAUCKÝ ČL.Č. 000306,308,121212,,MILAN KAUCKY,trikolora
+2021-09-02,4e+05,Bezhotovostní příjem,RAJCHLOVÁ JANA,Finanční dar Praha,0,111111,0,RAJCHLOVÁ JANA,trikolora
+2021-09-02,500,Bezhotovostní příjem,ZDENĚK FLÉGL,"DAR , Zdeněk Flégl",558,123456,0,ZDENĚK FLÉGL,trikolora
+2021-09-02,5000,Okamžitá příchozí platba,Vladimír Špulák,DAR Vladimír Špulák,,123456,,Vladimír Špulák,trikolora
+2021-09-02,100,Bezhotovostní příjem,NEMEC PETR,DAR,,123456,,NEMEC PETR,trikolora
+2021-09-02,2000,Bezhotovostní příjem,SOUKUP VÁCLAV,DAR Soukup Vaclav,558,123456,0,SOUKUP VÁCLAV,trikolora
+2021-09-02,10000,Bezhotovostní příjem,PETR JAKES,DAR - PETR JAKEŠ,,123456,,PETR JAKES,trikolora
+2021-09-02,100,Bezhotovostní příjem,MIKULA JOSEF,DAR prispevek RP,,7000704,,MIKULA JOSEF,trikolora
 2021-09-01,300,Okamžitá příchozí platba,Václavík Pavel,DAR Pavel Václavík,0,123456,,Václavík Pavel,trikolora
 2021-09-01,100,Okamžitá příchozí platba,Michal Dvořák,DAR,,123456,,Michal Dvořák,trikolora
 2021-09-01,500,Platba převodem uvnitř banky,"Kičerka, Jakub",DAR,,123456,,DAR,trikolora

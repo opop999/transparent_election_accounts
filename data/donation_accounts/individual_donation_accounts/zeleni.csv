@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-02,2000,Okamžitá příchozí platba,Staněk František,Dar,308,9003208,551104,Staněk František,zeleni
+2021-09-02,500,Okamžitá příchozí platba,Šůra Adam,Dar,0,9003176,,Šůra Adam,zeleni
+2021-09-02,10000,Okamžitá příchozí platba,Pazderů Kateřina,DAR na volby musíme vyhrát,0,730611,,Pazderů Kateřina,zeleni
+2021-09-02,1000,Bezhotovostní příjem,Magdalena Schreibero,dar SZ na kampaň,,9003206,,Magdalena Schreibero,zeleni
+2021-09-02,1000,Okamžitá příchozí platba,Bublová Pavlína,dar,0,9003168,,Bublová Pavlína,zeleni
+2021-09-02,350,Bezhotovostní příjem,DUŠKOVÁ MARTINA,Dar (200 KO MSK),,9001894,,DUŠKOVÁ MARTINA,zeleni
+2021-09-02,100,Bezhotovostní příjem,DRAHORAD VOJTECH,HK - dar,,9001870,,DRAHORAD VOJTECH,zeleni
+2021-09-02,1000,Bezhotovostní příjem,BONUŠ VĚNEK,dar,0,9003204,0,BONUŠ VĚNEK,zeleni
+2021-09-02,500,Bezhotovostní příjem,ZAPLETAL SVATOPLUK,"dar, Sv. Zapletal",0,9003201,0,ZAPLETAL SVATOPLUK,zeleni
+2021-09-02,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 407207 31.08.2021 c 5004PETRPANASDAR VOLBY,0,1969,,"CESKA POSTA, S.P.",zeleni
 2021-09-01,300,Okamžitá příchozí platba,Ing.Tláskal Ivan,DAR,0,9003205,,Ing.Tláskal Ivan,zeleni
 2021-09-01,300,Platba převodem uvnitř banky,"Meloun, Ondřej",dar,,8031046,,dar,zeleni
 2021-09-01,-300,Bezhotovostní platba,"","vrácení platby - nejasný účel platby, není uvedeno ""dar"" (Strana zelených)",,9003188,,HAASE ELIŠKA,zeleni
