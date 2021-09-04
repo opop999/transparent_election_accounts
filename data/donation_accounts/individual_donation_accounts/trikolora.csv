@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,30000,Okamžitá příchozí platba,Jan Hyťha,"DAR PRO ÚSTECKÝ KRAJ, TEREZA HYŤHOVÁ",,1131313,,Jan Hyťha,trikolora
+2021-09-03,1500,Bezhotovostní příjem,SOLERGY S.R.O.,DAR PRO PRAHU,0,11111,0,SOLERGY S.R.O.,trikolora
+2021-09-03,5000,Okamžitá příchozí platba,Dobromil Přib,DAR,,2333333,,Dobromil Přib,trikolora
+2021-09-03,2000,Okamžitá příchozí platba,Petr Čada,DAR,,11000945,,Petr Čada,trikolora
+2021-09-03,200,Okamžitá příchozí platba,Česká spořitelna,DAR,308,123456,,Česká spořitelna,trikolora
+2021-09-03,1000,Bezhotovostní příjem,TICHÁ JITKA,dar  Trikolora IČ 25803573  J.Tichá,0,12345,0,TICHÁ JITKA,trikolora
+2021-09-03,3000,Okamžitá příchozí platba,Česká spořitelna,DAR,0,123456,,Česká spořitelna,trikolora
+2021-09-03,4000,Bezhotovostní příjem,Eugen Hinterbuchner,DAR,308,123456,4902100257,Eugen Hinterbuchner,trikolora
+2021-09-03,6500,Bezhotovostní příjem,Steiger Jiří,Jiří Steiger,308,1777777,,Steiger Jiří,trikolora
+2021-09-03,200,Bezhotovostní příjem,KOPECKY JIRI,"dar,Jiri Kopecky Vsetin",,123456,,KOPECKY JIRI,trikolora
+2021-09-03,999,Bezhotovostní příjem,DUNOVSKY DANIEL,"DAR, Daniel Dunovsky",,121212,,DUNOVSKY DANIEL,trikolora
+2021-09-03,20000,Bezhotovostní příjem,"Mitrovi? Denis, JUDr",Dar,,1444444,,"Mitrovi? Denis, JUDr",trikolora
 2021-09-02,1000,Okamžitá příchozí platba,Česká spořitelna,DAR Kateřina Vašinová,0,123456,,Česká spořitelna,trikolora
 2021-09-02,500,Okamžitá příchozí platba,Hašek Štěpán,DAR,0,11001654,,Hašek Štěpán,trikolora
 2021-09-02,1500,Okamžitá příchozí platba,JUDr.Šoral Vladimír,Vladimír Šoral,0,123456,,JUDr.Šoral Vladimír,trikolora

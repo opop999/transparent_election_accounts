@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+04.09.2021,-1317.9,Karetní transakce,"","Nákup: BENZINA CS 0127,  PLZENSKA 835, KLATOVY, 33901, CZE, dne 3.9.2021, částka  1317.90 CZK",,9502,,"Nákup: BENZINA CS 0127,  PLZENSKA 835, KLATOVY, 33901, CZE, dne 3.9.2021, částka  1317.90 CZK"
+03.09.2021,33541.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
+03.09.2021,70000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru,  Jana Maláčová, Praha, volby PS PČR",,,,"převod daru,  Jana Maláčová, Praha, volby PS PČR"
+03.09.2021,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR"
+03.09.2021,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR"
+03.09.2021,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR"
+03.09.2021,15000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",,,,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR"
+03.09.2021,600,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR
+03.09.2021,-1392.9,Karetní transakce,"","Nákup: ROBIN OIL C.59,  M.HORAKOVE, C. BUDEJOVICE, 370 05, CZE, dne 1.9.2021, částka  1392.90 CZK",,1861,,"Nákup: ROBIN OIL C.59,  M.HORAKOVE, C. BUDEJOVICE, 370 05, CZE, dne 1.9.2021, částka  1392.90 CZK"
 03.09.2021,-600,Karetní transakce,"","Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 2.9.2021, částka  600.00 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 2.9.2021, částka  600.00 CZK"
 02.09.2021,-4961,Bezhotovostní platba,"",ČSSD,308,62021,,"Jan Vícha, zajištění akce, Olomoucký kraj"
 02.09.2021,-18125.8,Bezhotovostní platba,"",ČSSD,308,101972021,,"Daniel Dostál, reklamní trika,mikiny, Kraj Praha"

@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,10000,Okamžitá příchozí platba,PETR ELIÁŠ,Dar hnutí,,,,PETR ELIÁŠ,prisaha
+2021-09-03,1000,Bezhotovostní příjem,FRYČOVÁ NICOLE,dar hnutí,0,0,0,FRYČOVÁ NICOLE,prisaha
+2021-09-03,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
+2021-09-03,1000,Bezhotovostní příjem,FRANTISEK MAIER,DAR HNUTÍ,,8808,,FRANTISEK MAIER,prisaha
+2021-09-03,5000,Bezhotovostní příjem,MUDROCH RUDOLF,"dar pro prisaha-5.000,- proKralovehradecky kraj na roznosvolebnich novin",8,5801091285,,MUDROCH RUDOLF,prisaha
+2021-09-03,10000,Bezhotovostní příjem,MIROSLAV BEHAN,MIROSLAV BEHAN - PODPORA ROZNOSU NOVIN V KHK,,,,MIROSLAV BEHAN,prisaha
+2021-09-03,500,Bezhotovostní příjem,PETR KLIMEK,DAR HNUTÍ,,,,PETR KLIMEK,prisaha
+2021-09-03,1000,Okamžitá příchozí platba,VÁCLAV RATAJ,Dar hnutí,,,,VÁCLAV RATAJ,prisaha
+2021-09-03,1000,Okamžitá příchozí platba,HALADA MILAN,Dar hnutí,,3092021,,HALADA MILAN,prisaha
+2021-09-03,200,Bezhotovostní příjem,KRYSTOVSKA DANA,"",498,13111960,,KRYSTOVSKA DANA,prisaha
+2021-09-03,10995.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-02,2000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
 2021-09-02,3000,Okamžitá příchozí platba,JANA VAŠKOVÁ,Dar hnutí,,,,JANA VAŠKOVÁ,prisaha
 2021-09-02,500,Okamžitá příchozí platba,Ráček Radmil,"",0,,,Ráček Radmil,prisaha

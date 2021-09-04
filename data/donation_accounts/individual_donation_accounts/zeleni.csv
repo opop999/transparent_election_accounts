@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,100,Bezhotovostní příjem,František Šíma,8801100173 DAR,0,8801100173,,František Šíma,zeleni
+2021-09-03,400,Bezhotovostní příjem,Veronika Maria Körne,dar,308,9002085,,Veronika Maria Körne,zeleni
+2021-09-03,1500,Bezhotovostní příjem,ZATLOUKALOVÁ EVA,dar pro krajskou organizaci Stranyzelených Olomouc,,9003209,,ZATLOUKALOVÁ EVA,zeleni
+2021-09-03,100,Bezhotovostní příjem,SEDLBAUEROVA SONA,Dar,,8071059,,SEDLBAUEROVA SONA,zeleni
+2021-09-03,2000,Bezhotovostní příjem,HLADÍKOVÁ SOFIA,dar,0,9003207,0,HLADÍKOVÁ SOFIA,zeleni
+2021-09-03,500,Platba převodem uvnitř banky,"Worms, Lucie",Daruji Zelenym,,9002055,,Daruji Zelenym,zeleni
 2021-09-02,2000,Okamžitá příchozí platba,Staněk František,Dar,308,9003208,551104,Staněk František,zeleni
 2021-09-02,500,Okamžitá příchozí platba,Šůra Adam,Dar,0,9003176,,Šůra Adam,zeleni
 2021-09-02,10000,Okamžitá příchozí platba,Pazderů Kateřina,DAR na volby musíme vyhrát,0,730611,,Pazderů Kateřina,zeleni

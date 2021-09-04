@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,-300,Platba převodem uvnitř banky,"","převod členského příspěvku, Jakub Štědroň, z 24.6.2020",,,,"převod členského příspěvku, Jakub Štědroň, z 24.6.2020",cssd
+2021-09-03,-50000,Platba převodem uvnitř banky,"","převod daru, Lukáš Kaucký, Praha, pro potřeby ČSSD",,,,"převod daru, Lukáš Kaucký, Praha, pro potřeby ČSSD",cssd
+2021-09-03,-70000,Platba převodem uvnitř banky,"","převod daru,  Jana Maláčová, Praha, volby PS PČR",,,,"převod daru,  Jana Maláčová, Praha, volby PS PČR",cssd
+2021-09-03,-1e+05,Platba převodem uvnitř banky,"","převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,-1e+05,Platba převodem uvnitř banky,"","převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,-30000,Platba převodem uvnitř banky,"","převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,-50000,Platba převodem uvnitř banky,"","převod daru, Petr Kajnar, Moravskoslezský kraj, pro potřeby KP Moravskoslezský kraj",,,,"převod daru, Petr Kajnar, Moravskoslezský kraj, pro potřeby KP Moravskoslezský kraj",cssd
+2021-09-03,-15000,Platba převodem uvnitř banky,"","převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",,,,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",cssd
 2021-09-02,1970,Okamžitá příchozí platba,Roman Onderka,"Dar ve prospěch ČSSD, Roman Onderka 11.11.1965",,11111965,,Roman Onderka,cssd
 2021-09-02,61000,Okamžitá příchozí platba,Česká spořitelna,Dar ve prospěch ČSSD              Ing. Vladimír Černý   8.7.1961,0,8071961,,Česká spořitelna,cssd
 2021-09-02,50000,Okamžitá příchozí platba,JUDr.Chvojka Jan,"dar ve prospech CSSD, Jan Chvojka17.12.1980",0,17121980,,JUDr.Chvojka Jan,cssd

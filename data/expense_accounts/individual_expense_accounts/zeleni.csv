@@ -1,5 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
-03.09.2021,0.2,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2121000418,,VLTAVA LABE MEDIA
+04.09.2021,-3740.93,Karetní transakce,"","Nákup: FACEBK DS9JG8BKK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2021, částka  3740.93 CZK",,6211,,"Nákup: FACEBK DS9JG8BKK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2021, částka  3740.93 CZK"
+03.09.2021,-352,Platba převodem uvnitř banky,"",vratka mylné platby - provozní účet KO ÚLK,,,42,vratka mylné platby - provozní účet KO ÚLK
+03.09.2021,-2000,Bezhotovostní platba,"",FA 01/2021 - fotografování kandidátů,,12021,42,ÚLK - Barbora Tůmová
+03.09.2021,-47000,Okamžitá odchozí platba,"","FA 44 - kreativa, organizace kampaně",,44,,SZ - Robin Kvapil
+03.09.2021,0.2,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2121000418,,VLTAVA LABE MEDIA - vratka přeplatku FA 2121000418 SS 500089 ZO Praha 2
 02.09.2021,-8415,Okamžitá odchozí platba,"",DPP 2021/08,,,,SZ - Martin Lekeš
 02.09.2021,-200,Okamžitá odchozí platba,"",Předpis KP00039970/1 - zábor veřejného prostranství,,1062802712,,"SZ - Úřad městské části města Brna, Brno - střed"
 02.09.2021,-2000,Bezhotovostní platba,"",FA 210100005 - technické zajištění tiskové konference,,210100005,,"SZ - Komunitní centrum Kampa, o. s."

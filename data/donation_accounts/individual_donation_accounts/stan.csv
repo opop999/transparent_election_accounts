@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,70000,Okamžitá příchozí platba,Česká spořitelna,"",0,26011969,183010921,Česká spořitelna,stan
 2021-09-02,2000,Okamžitá příchozí platba,Ing.Seidl Michal,"DAR, Michal Seidl, 13.10.1967, Praha",0,,100033721,Ing.Seidl Michal,stan
 2021-09-02,2000,Okamžitá příchozí platba,Štěpánková Zdeňka,"volební dar Zdena Štěpánková, Praha 3",0,16111964,98033521,Štěpánková Zdeňka,stan
 2021-09-02,1300,Okamžitá příchozí platba,MUDr. Petra Hůlková,"volební dar,  Praha Hůlkova,  Praha 1",,13121972,97033421,MUDr. Petra Hůlková,stan

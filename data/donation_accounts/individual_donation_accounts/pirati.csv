@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,2000,Okamžitá příchozí platba,Michal Kadaník,"",,84548,193000,Michal Kadaník,pirati
+2021-09-03,50000,Bezhotovostní příjem,MARTÍNEK TOMÁŠ,DAR 83375/193110,0,83375,193110,MARTÍNEK TOMÁŠ,pirati
+2021-09-03,200,Okamžitá příchozí platba,Jarošová Marika,"",0,44015502,193000,Jarošová Marika,pirati
+2021-09-03,5000,Bezhotovostní příjem,Bc. Ján Bajus,DAR 84193/193000,0,84193,193000,Bc. Ján Bajus,pirati
+2021-09-03,9578.41,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1600024461,20210902,Global Payments s.r.,pirati
+2021-09-03,1000,Bezhotovostní příjem,DOLEŽEL JOSEF,"",0,83400,193000,DOLEŽEL JOSEF,pirati
+2021-09-03,250,Platba převodem uvnitř banky,"Jandák, Jakub","",,83851,1,"",pirati
+2021-09-03,500,Bezhotovostní příjem,KASZTURA MICHAL,"",,44010905,193000,KASZTURA MICHAL,pirati
 2021-09-02,10000,Okamžitá příchozí platba,Michal Seménka,Podpora volební kampaně - dotace dvou billboardů,,44014293,193000,Michal Seménka,pirati
 2021-09-02,1000,Okamžitá příchozí platba,Pavel Vyroubal,DAR 44006274/193000,,44006274,193000,Pavel Vyroubal,pirati
 2021-09-02,-256,Platba převodem uvnitř banky,"","Tomáš Karlík - Chybný účet - jde o účet pro dary, ne členské příspěvky",,292021,,"Tomáš Karlík - Chybný účet - jde o účet pro dary, ne členské příspěvky",pirati

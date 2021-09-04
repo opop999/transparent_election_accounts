@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-03,-170000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-03,20000,Platba převodem uvnitř banky,Tesla Hloubětín a.s.,"DAR, TESLA Hloubětín a.s.",,2600210002,,"DAR, TESLA Hloubětín a.s.",ods
+2021-09-03,30000,Bezhotovostní příjem,SMO A.S.,"",0,3304210002,0,SMO A.S.,ods
 2021-09-02,5000,Okamžitá příchozí platba,KAREL BEDNAŘÍK,dar bednařík Karel,,3000210024,,KAREL BEDNAŘÍK,ods
 2021-09-01,5500,Okamžitá příchozí platba,JURÁŠ MAREK,DAR,,3001210029,,JURÁŠ MAREK,ods
 2021-09-01,10000,Platba převodem uvnitř banky,"Ing. Steinbauer, Pavel PhD.","DAR, Pavel Steinbauer",,1100210068,,"DAR, Pavel Steinbauer",ods
