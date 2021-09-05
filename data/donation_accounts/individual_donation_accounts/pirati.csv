@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-04,200,Platba převodem uvnitř banky,"Vileta, Petr","Chci PirátoStán, zemi, kde se nekrade.",,44015559,1,"Chci PirátoStán, zemi, kde se nekrade.",pirati
+2021-09-04,7000,Platba převodem uvnitř banky,"RNDr. Heřman, Petr",Petr Heřman '53 aka Kychot: My to vyhrajem!,,44010553,1,Petr Heřman '53 aka Kychot: My to vyhrajem!,pirati
+2021-09-04,500,Platba převodem uvnitř banky,"Steger, Ondřej",Na podporu moderní politiky a rozvoj eGovernmentu.,1,85338,,Na podporu moderní politiky a rozvoj eGovernmentu.,pirati
+2021-09-04,128,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch","Dar Vojtěch Pikal, 870219, Denisova 15, Olomouc, 77200",558,110300,,"Dar Vojtěch Pikal, 870219, Denisova 15, Olomouc, 77200",pirati
+2021-09-04,200,Platba převodem uvnitř banky,"Dostál, Marek",MAREK DOSTAL,,82504,1,MAREK DOSTAL,pirati
 2021-09-03,2000,Okamžitá příchozí platba,Michal Kadaník,"",,84548,193000,Michal Kadaník,pirati
 2021-09-03,50000,Bezhotovostní příjem,MARTÍNEK TOMÁŠ,DAR 83375/193110,0,83375,193110,MARTÍNEK TOMÁŠ,pirati
 2021-09-03,200,Okamžitá příchozí platba,Jarošová Marika,"",0,44015502,193000,Jarošová Marika,pirati
