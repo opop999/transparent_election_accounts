@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-05,200,Okamžitá příchozí platba,Štukavec Milan,"",0,44015780,193000,Štukavec Milan,pirati
+2021-09-05,1000,Okamžitá příchozí platba,Florián Michal,"",0,44004479,193000,Florián Michal,pirati
+2021-09-05,5000,Okamžitá příchozí platba,MAZUMDEROVÁ IRENA,adopce billboardu,,44004037,193001,MAZUMDEROVÁ IRENA,pirati
 2021-09-04,200,Platba převodem uvnitř banky,"Vileta, Petr","Chci PirátoStán, zemi, kde se nekrade.",,44015559,1,"Chci PirátoStán, zemi, kde se nekrade.",pirati
 2021-09-04,7000,Platba převodem uvnitř banky,"RNDr. Heřman, Petr",Petr Heřman '53 aka Kychot: My to vyhrajem!,,44010553,1,Petr Heřman '53 aka Kychot: My to vyhrajem!,pirati
 2021-09-04,500,Platba převodem uvnitř banky,"Steger, Ondřej",Na podporu moderní politiky a rozvoj eGovernmentu.,1,85338,,Na podporu moderní politiky a rozvoj eGovernmentu.,pirati
