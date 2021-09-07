@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-06,20000,Okamžitá příchozí platba,Ing.Beneš Jan,"DAR, Jan Benes",0,2200210017,,Ing.Beneš Jan,ods
+2021-09-06,10000,Okamžitá příchozí platba,Gregora Martin,"",0,2300210004,,Gregora Martin,ods
+2021-09-06,5000,Okamžitá příchozí platba,Milan Vyskočil,"DAR, Milan Vyskocil",,2400210005,,Milan Vyskočil,ods
+2021-09-06,30000,Bezhotovostní příjem,"KKS, spol. s r.o","finanční dar KKS, spol. s r. o,.",558,42340802,,"KKS, spol. s r.o",ods
+2021-09-06,6000,Bezhotovostní příjem,REKUMAT Wärmeprozess,"DAR, REKUMAT Wärmeprozesstechnik ČR, spol. s r.o.",0,3004210004,,REKUMAT Wärmeprozess,ods
+2021-09-06,5000,Bezhotovostní příjem,MESENSKÝ IGOR,"DAR, Igor Mesensky, SPOLU to dame",0,1100210069,0,MESENSKÝ IGOR,ods
+2021-09-06,5000,Bezhotovostní příjem,TRAMBOVA PETRA,"DAR, Petra Trambova",,2300210005,,TRAMBOVA PETRA,ods
 2021-09-03,-170000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
 2021-09-03,20000,Platba převodem uvnitř banky,Tesla Hloubětín a.s.,"DAR, TESLA Hloubětín a.s.",,2600210002,,"DAR, TESLA Hloubětín a.s.",ods
 2021-09-03,30000,Bezhotovostní příjem,SMO A.S.,"",0,3304210002,0,SMO A.S.,ods

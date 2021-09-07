@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",kdu-csl
+2021-09-06,1000,Bezhotovostní příjem,ZAVADIL KAREL,Internet / PŘEVOD Z SÚ NA BÚ,,,999,ZAVADIL KAREL,kdu-csl
+2021-09-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
+2021-09-06,12000,Bezhotovostní příjem,VASA ANTONIN,"",,11061969,651,VASA ANTONIN,kdu-csl
 2021-09-04,5000,Okamžitá příchozí platba,Ing.Carbol Jiří,"Lidovecka pomoc,Jiri Carbol",0,5902040793,999,Ing.Carbol Jiří,kdu-csl
 2021-09-03,2000,Bezhotovostní příjem,TOMSICEK STANISLAV,509143,558,0,999,TOMSICEK STANISLAV,kdu-csl
 2021-09-02,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl

@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-06,30000,Okamžitá příchozí platba,OTTO JAROLÍMEK,DAR pro Lbc kraj,,3555555,,OTTO JAROLÍMEK,trikolora
+2021-09-06,1000,Okamžitá příchozí platba,Stanislav Sedláček,stanislav Sedlacek,,,,Stanislav Sedláček,trikolora
+2021-09-06,10000,Okamžitá příchozí platba,RNDr.Kůrka Petr,Dar Petr Kurka,0,,,RNDr.Kůrka Petr,trikolora
+2021-09-06,33000,Platba převodem uvnitř banky,"Červenka, Radim",Zlínský kraj,,1151515,,Zlínský kraj - Radim Červenka,trikolora
+2021-09-06,3000,Bezhotovostní příjem,JANA VACKOVA,"DAR: MGR. JANA VACKOVÁ, 9.3.1987",,121212,,JANA VACKOVA,trikolora
+2021-09-06,3500,Bezhotovostní příjem,"RVS CHODOV, S.R.O.","25212052- DAR, lampy Chodov, Karlovarský kraj, Jurča",558,1333333,0,"RVS CHODOV, S.R.O.",trikolora
+2021-09-06,100,Bezhotovostní příjem,Ing.Pozler Petr,Dar příspěvek RP,0,5000382,,Ing.Pozler Petr,trikolora
+2021-09-06,100,Bezhotovostní příjem,Ing.Němec Miloš,"DAR, Miloš Němec",0,,,Ing.Němec Miloš,trikolora
+2021-09-06,1e+05,Platba převodem uvnitř banky,"docent Ing. Ševčík, Miroslav CSc.",DAR pro Prahu doc. Ing. Miroslav Ševčík CSc.,308,6092021,,DAR pro TSS doc. Ing. Miroslav Ševčík CSc.,trikolora
+2021-09-06,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 125302 02.09.2021 c 2003JIRIIDVORA/KJI R* DVORAK,0,123456,,"CESKA POSTA, S.P.",trikolora
 2021-09-05,500,Platba převodem uvnitř banky,"Petřík, Karel",DAR příspěvek RP Karel Petřík,,2001077,,DAR příspěvek RP Karel Petřík,trikolora
 2021-09-04,500,Platba převodem uvnitř banky,"Petřík, Karel",DAR příspěvek RP Karel Petřík,,2001077,,DAR příspěvek RP Karel Petřík,trikolora
 2021-09-03,30000,Okamžitá příchozí platba,Jan Hyťha,"DAR PRO ÚSTECKÝ KRAJ, TEREZA HYŤHOVÁ",,1131313,,Jan Hyťha,trikolora

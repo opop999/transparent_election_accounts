@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-06,-1e+05,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-06,1e+06,Bezhotovostní příjem,SUCHÁNEK JIŘÍ,dar pro OH Přísaha Roberta Šlachty,308,0,0,SUCHÁNEK JIŘÍ,prisaha
+2021-09-06,500,Bezhotovostní příjem,Jindřich Benkovič,Dar spolku,558,,,Jindřich Benkovič,prisaha
+2021-09-06,-210000,Platba převodem uvnitř banky,"",Převod na mzdový účet hnutí PŘÍSAHA,,,,Převod na mzdový účet hnutí PŘÍSAHA,prisaha
+2021-09-06,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
+2021-09-06,2000,Bezhotovostní příjem,VÍCHOVÁ VĚRA,Dar pro KHK (roznos novin),,,,VÍCHOVÁ VĚRA,prisaha
+2021-09-06,1466,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-06,2323.24,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-06,486.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-05,2000,Okamžitá příchozí platba,Hes Milan,"",0,,,"DAR, Hes Milan",prisaha
 2021-09-04,500,Okamžitá příchozí platba,Bohumila Jenčíková,dar,,308,,Bohumila Jenčíková,prisaha
 2021-09-03,10000,Okamžitá příchozí platba,PETR ELIÁŠ,Dar hnutí,,,,PETR ELIÁŠ,prisaha

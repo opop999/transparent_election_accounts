@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+07.09.2021,-760.04,Karetní transakce,"","Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 6.9.2021, částka  760.04 CZK",,6681,,"Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 6.9.2021, částka  760.04 CZK"
+06.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 2T3VH7XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 2T3VH7XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK"
+06.09.2021,-616,Okamžitá odchozí platba,"","ČSSD, občerstvení  na zahájení kampaně",308,9,,"M.Kabát, občerstvení  na zahájení kampaně, ústředí"
+06.09.2021,6050,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
+06.09.2021,38720,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
+06.09.2021,-4719.01,Bezhotovostní platba,"",ČSSD,308,21211680,,"BARTH Reklamka, výroba BB, CLV plakátů, Pardubický kraj"
+06.09.2021,-11095.7,Bezhotovostní platba,"",ČSSD,308,21402,,"DELTA Business, plakáty, Královéhradecký kraj"
+06.09.2021,-17666,Bezhotovostní platba,"",ČSSD,308,20210210,,"FiftyFifty kreativní agentura, grafické práce, Královéhradecký kraj"
+06.09.2021,-8470,Bezhotovostní platba,"",ČSSD,308,2021142,,"Tulipán reklama, pronájem reklamní plochy, Pardubický kraj"
+06.09.2021,1317.9,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
+06.09.2021,4840,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
 04.09.2021,-1317.9,Karetní transakce,"","Nákup: BENZINA CS 0127,  PLZENSKA 835, KLATOVY, 33901, CZE, dne 3.9.2021, částka  1317.90 CZK",,9502,,"Nákup: BENZINA CS 0127,  PLZENSKA 835, KLATOVY, 33901, CZE, dne 3.9.2021, částka  1317.90 CZK"
 03.09.2021,33541.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
 03.09.2021,70000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru,  Jana Maláčová, Praha, volby PS PČR",,,,"převod daru,  Jana Maláčová, Praha, volby PS PČR"

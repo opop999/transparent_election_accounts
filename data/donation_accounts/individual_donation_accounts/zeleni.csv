@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-06,1500,Okamžitá příchozí platba,Mgr.Jechová Kateřina,DAR na volební kampaň,0,9003213,,Mgr.Jechová Kateřina,zeleni
+2021-09-06,2000,Okamžitá příchozí platba,Mgr.Štěrbová Svatava,dar,0,9003212,,Mgr.Štěrbová Svatava,zeleni
+2021-09-06,100,Bezhotovostní příjem,LUKAS NOVAK,DAR - ZELENÍ PRAHA 6,,9001127,,LUKAS NOVAK,zeleni
+2021-09-06,100,Bezhotovostní příjem,Dana Janatová,DAR,,8071055,,Dana Janatová,zeleni
+2021-09-06,100,Bezhotovostní příjem,Jiří Pilip,DAR - Zelení - SZ- pravidelný_provoz HK,,9002614,,Jiří Pilip,zeleni
+2021-09-06,85,Bezhotovostní příjem,PERLIK PAVEL,Dar SZ - Perlik,,9002612,,PERLIK PAVEL,zeleni
+2021-09-06,300,Bezhotovostní příjem,Nesvedová Daša,dar,0,9002611,,Nesvedová Daša,zeleni
+2021-09-06,300,Bezhotovostní příjem,HOUDEK LUKÁŠ,DAR,0,9002902,0,HOUDEK LUKÁŠ,zeleni
+2021-09-06,500,Bezhotovostní příjem,KŘÍŽEK PAVEL ING.,DAR,0,9002601,0,KŘÍŽEK PAVEL ING.,zeleni
+2021-09-06,6500,Bezhotovostní příjem,Alena Vlachová,dar na kampaň,,9003211,,Alena Vlachová,zeleni
+2021-09-06,3000,Bezhotovostní příjem,JAN HRUDKA,DAR,,9003210,,JAN HRUDKA,zeleni
 2021-09-05,500,Platba převodem uvnitř banky,"Bc. Surý, Ondřej",dar,,9002953,,dar,zeleni
 2021-09-03,100,Bezhotovostní příjem,František Šíma,8801100173 DAR,0,8801100173,,František Šíma,zeleni
 2021-09-03,400,Bezhotovostní příjem,Veronika Maria Körne,dar,308,9002085,,Veronika Maria Körne,zeleni

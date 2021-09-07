@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+06.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 6P53K87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 6P53K87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2021, částka  20000.00 CZK"
+06.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK XSTEG5XZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK XSTEG5XZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK"
+06.09.2021,-4240,Bezhotovostní platba,"","Rekl. agent. Slánsko s.r.o., tabule",308,20210043,1100,"Rekl. agent. Slánsko s.r.o., tabule"
+06.09.2021,-329.12,Bezhotovostní platba,"","TS města Toužim, p. o., plakáty",308,2021369,400,"TS města Toužim, p. o., plakáty"
+06.09.2021,-1500,Bezhotovostní platba,"","Jaroslav Holík, phm výlepy",308,1090,1400,"Jaroslav Holík, phm výlepy"
+06.09.2021,-10420.52,Bezhotovostní platba,"","Inpublic group s.r.o., spoty v MHD",308,210800005,600,"Inpublic group s.r.o., spoty v MHD"
+06.09.2021,-3790.93,Platba převodem uvnitř banky,"","Lenka Malcharová, letáky",308,3941,1100,"Lenka Malcharová, letáky"
+06.09.2021,-1706.1,Bezhotovostní platba,"","Město Rokycany, výlep plakátů",308,22100518,1000,"Město Rokycany, výlep plakátů"
+06.09.2021,-75020,Bezhotovostní platba,"","Reklamní servis RS, s.r.o., plakáty",308,2021278,900,"Reklamní servis RS, s.r.o., plakáty"
+06.09.2021,-1548.8,Bezhotovostní platba,"","MKS Beseda, p.o., výlep plakátů",308,210100141,1300,"MKS Beseda, p.o., výlep plakátů"
+06.09.2021,-60500,Bezhotovostní platba,"","Roman Sigmund, předvolební debata",308,532021,1200,"Roman Sigmund, předvolební debata"
+06.09.2021,-20570,Bezhotovostní platba,"","Haná Press, s.r.o., inzerce v tisku",308,211800989,800,"Haná Press, s.r.o., inzerce v tisku"
+06.09.2021,70000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021
 04.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 4JV849X9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 4JV849X9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2021, částka  20000.00 CZK"
 02.09.2021,-6970,Platba převodem uvnitř banky,"","Tisk Sarpet s.r.o., samolepky",308,113314819,1100,"Tisk Sarpet s.r.o., samolepky"
 02.09.2021,-40009,Platba převodem uvnitř banky,"","Tisk Sarpet s.r.o., bannery",308,113314813,1100,"Tisk Sarpet s.r.o., bannery"

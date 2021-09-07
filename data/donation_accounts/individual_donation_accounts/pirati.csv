@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",pirati
+2021-09-06,1000,Okamžitá příchozí platba,Ing.Matýsek Tomáš,DAR 44015185/193030,0,44015185,193030,Ing.Matýsek Tomáš,pirati
+2021-09-06,500,Bezhotovostní příjem,VAŠÁTKOVÁ SIMONA,Vašátková Simona,0,84661,193000,VAŠÁTKOVÁ SIMONA,pirati
+2021-09-06,250,Bezhotovostní příjem,Mgr. Petr Jedelský,Dar,0,84505,1,Mgr. Petr Jedelský,pirati
+2021-09-06,200,Bezhotovostní příjem,Martin Budař,"",0,82392,190000,Martin Budař,pirati
+2021-09-06,500,Bezhotovostní příjem,Ing. Jaromír Homola,"",0,44005736,1,Ing. Jaromír Homola,pirati
+2021-09-06,200,Bezhotovostní příjem,LENKA SINKOROVA,DARYPIRATUM.CZ,,44006452,,LENKA SINKOROVA,pirati
+2021-09-06,400,Bezhotovostní příjem,Jakub Tichý,"",,44015695,110404,Jakub Tichý,pirati
+2021-09-06,1000,Bezhotovostní příjem,Miroslav Jaroš,"",,86627,1,Miroslav Jaroš,pirati
+2021-09-06,70,Bezhotovostní příjem,KUBEŠ DAVID,"",,44015606,1,KUBEŠ DAVID,pirati
+2021-09-06,200,Bezhotovostní příjem,BLAHNÍK ONDŘEJ,"",,84719,190000,BLAHNÍK ONDŘEJ,pirati
+2021-09-06,20841.21,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1610002499,20210905,Global Payments s.r.,pirati
+2021-09-06,200,Bezhotovostní příjem,MORAVOVA ALENA,"",,84555,1,MORAVOVA ALENA,pirati
+2021-09-06,500,Bezhotovostní příjem,ZAMOROVA JANA,"",,1,,ZAMOROVA JANA,pirati
+2021-09-06,2000,Okamžitá příchozí platba,Becková Oldřiška,"",0,44015763,193001,Becková Oldřiška,pirati
+2021-09-06,28553.51,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1600050295,20210903,Global Payments s.r.,pirati
+2021-09-06,400,Bezhotovostní příjem,Lukeš Petr,"",0,84559,1,Lukeš Petr,pirati
+2021-09-06,200,Bezhotovostní příjem,Hegenbart Jan,"",0,44006336,,Hegenbart Jan,pirati
+2021-09-06,200,Bezhotovostní příjem,Krátký Jiří,"Jiří Krátký, 20.11.1964, Högerova 1098/9, 15200Praha 5, účel MS Praha5",0,,110105,Krátký Jiří,pirati
+2021-09-06,34425.36,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1600071742,20210904,Global Payments s.r.,pirati
+2021-09-06,100,Bezhotovostní příjem,MÁCHA LUDĚK,SYMBOLICKÁ PODPORA,0,86071,0,MÁCHA LUDĚK,pirati
+2021-09-06,200,Bezhotovostní příjem,TECL LUKÁŠ,"",0,44004864,0,TECL LUKÁŠ,pirati
+2021-09-06,150,Platba převodem uvnitř banky,"Bc. Zeman, Radek","",,44005152,1,"",pirati
 2021-09-05,200,Okamžitá příchozí platba,Štukavec Milan,"",0,44015780,193000,Štukavec Milan,pirati
 2021-09-05,1000,Okamžitá příchozí platba,Florián Michal,"",0,44004479,193000,Florián Michal,pirati
 2021-09-05,5000,Okamžitá příchozí platba,MAZUMDEROVÁ IRENA,adopce billboardu,,44004037,193001,MAZUMDEROVÁ IRENA,pirati

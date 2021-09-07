@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+06.09.2021,-448,Okamžitá odchozí platba,"","",558,10463,1114,"1114-Technické služby Třešť , výlep plakátů"
+06.09.2021,-500,Okamžitá odchozí platba,"","",308,1361309,2600,"2600-Město Duchcov, správní poplatek"
+06.09.2021,-1210,Okamžitá odchozí platba,"","",308,2021135,3100,"3100-Petr Zakopal , pronájem vol. plochy"
+06.09.2021,-60500,Bezhotovostní platba,"","",308,20210075,1114,"1114-JHS MediaGroup s.r.o., tištěná inzerce"
+06.09.2021,-747120.55,Bezhotovostní platba,"","",308,21112,1114,"1114-YDEAL s.r.o., youtube, DV360 GDN banners"
 03.09.2021,-3990,Bezhotovostní platba,"","",308,202108075,2200,"2200-ART & AGRO s.r.o., letáky tisk"
 03.09.2021,-1029,Bezhotovostní platba,"","",308,175,2200,"2200-Antonín Kočka, tisk letáky"
 03.09.2021,-1165,Bezhotovostní platba,"","",308,4609252,2200,"2200-Technické služby Čelákovice, obsluha veř. osvětlení"
