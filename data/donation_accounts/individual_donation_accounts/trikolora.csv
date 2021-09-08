@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,50000,Okamžitá příchozí platba,Kuchař Radim,DAR,0,1151515,,Kuchař Radim,trikolora
+2021-09-07,100,Okamžitá příchozí platba,Kučera Martin,DAR příspěvek RP,0,2001374,,Kučera Martin,trikolora
+2021-09-07,1000,Bezhotovostní příjem,HUSARIK PAVEL,Pavel Husarik DAR,0,123456,0,HUSARIK PAVEL,trikolora
+2021-09-07,100,Okamžitá příchozí platba,Oldřich Kaucký,DAR,,123456,,Oldřich Kaucký,trikolora
+2021-09-07,5000,Bezhotovostní příjem,EVA STARA,DAR - EVA STARA,,121212,,EVA STARA,trikolora
+2021-09-07,100,Platba převodem uvnitř banky,"Ing. Šulc, Martin",DAR příspěvek RP 13/01/62,,11000345,,DAR příspěvek RP 13/01/62,trikolora
+2021-09-07,100,Bezhotovostní příjem,Michal Obrusník,DAR příspěvek RP 06/05/70,0,6000417,,Michal Obrusník,trikolora
+2021-09-07,1333,Okamžitá příchozí platba,Georgi Arnaudov,Dar,,123456,,Georgi Arnaudov,trikolora
 2021-09-06,30000,Okamžitá příchozí platba,OTTO JAROLÍMEK,DAR pro Lbc kraj,,3555555,,OTTO JAROLÍMEK,trikolora
 2021-09-06,1000,Okamžitá příchozí platba,Stanislav Sedláček,stanislav Sedlacek,,,,Stanislav Sedláček,trikolora
 2021-09-06,10000,Okamžitá příchozí platba,RNDr.Kůrka Petr,Dar Petr Kurka,0,,,RNDr.Kůrka Petr,trikolora

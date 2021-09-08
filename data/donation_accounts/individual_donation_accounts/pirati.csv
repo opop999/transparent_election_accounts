@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,1000,Platba převodem uvnitř banky,"Paleník, Miroslav",DAR 44009173/193000,,44009173,193000,DAR 44009173/193000,pirati
+2021-09-07,-2800000,Platba převodem uvnitř banky,"",Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
+2021-09-07,100,Bezhotovostní příjem,Dalibor Vágner,"",,83841,190000,Dalibor Vágner,pirati
+2021-09-07,19491.33,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1610014766,20210906,Global Payments s.r.,pirati
+2021-09-07,400,Bezhotovostní příjem,KRPATA JAN,DAR 44003774/193000,,44003774,193000,KRPATA JAN,pirati
+2021-09-07,500,Bezhotovostní příjem,Ing.Trefil Vladislav,"Vladislav Trefil, U lesoparku 933,25091 Zeleneč",0,44005723,1,Ing.Trefil Vladislav,pirati
+2021-09-07,300,Bezhotovostní příjem,SÁZEL JIŘÍ,DAR PIRÁTSKÁ STRANA,0,44005537,1,SÁZEL JIŘÍ,pirati
 2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",pirati
 2021-09-06,1000,Okamžitá příchozí platba,Ing.Matýsek Tomáš,DAR 44015185/193030,0,44015185,193030,Ing.Matýsek Tomáš,pirati
 2021-09-06,500,Bezhotovostní příjem,VAŠÁTKOVÁ SIMONA,Vašátková Simona,0,84661,193000,VAŠÁTKOVÁ SIMONA,pirati

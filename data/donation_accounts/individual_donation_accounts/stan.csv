@@ -1,6 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,-2600000,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",stan
-2021-09-06,70000,Okamžitá příchozí platba,MUDr.Adámek Miroslav,Volby 21 Adámek M,0,,184011021,MUDr.Adámek Miroslav,stan
+2021-09-06,70000,Okamžitá příchozí platba,MUDr.Adámek Miroslav,Volby 21 Adámek M,0,,184011021,DAR - MUDr.Adámek Miroslav,stan
 2021-09-06,-7e+05,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,-12000,Platba převodem uvnitř banky,"",STAN - vrácení daru bez darovací smlouvy,,,,Bloudek Tomáš - vrácení neidentifikovaného daru z 2.9.2021,stan
 2021-09-06,500,Bezhotovostní příjem,STRADIOTOVA ZANETA,"volebni dar, Zaneta Stradiotova, Ciolkovskeho 858/8, Praha 6, 16100",,24051993,99033621,DAR - STRADIOTOVA ZANETA,stan
@@ -10,6 +11,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-02,1300,Okamžitá příchozí platba,MUDr. Petra Hůlková,"volební dar,  Praha Hůlkova,  Praha 1",,13121972,97033421,DAR - MUDr. Petra Hůlková,stan
 2021-09-02,12000,Platba převodem uvnitř banky,"Bc. Bloudek, Tomáš",DAR Tomáš Bloudek,,,,DAR - Tomáš Bloudek,stan
 2021-09-01,1e+05,Bezhotovostní příjem,MELZER JIŘÍ,"DAR, Jiri Melzer, 2.9.1969 Praha 4",0,2091969,96033321,DAR - MELZER JIŘÍ,stan
+2021-09-06,70000,Okamžitá příchozí platba,MUDr.Adámek Miroslav,Volby 21 Adámek M,0,,184011021,MUDr.Adámek Miroslav,stan
 2021-08-30,25000,Bezhotovostní příjem,ŠOBR FRANTIŠEK,"DAR, František Šobr, 19.9.1963, Litvínov",0,19091963,144060421,DAR - ŠOBR FRANTIŠEK,stan
 2021-09-03,70000,Okamžitá příchozí platba,Česká spořitelna,"",0,26011969,183010921,Česká spořitelna,stan
 2021-09-02,2000,Okamžitá příchozí platba,Ing.Seidl Michal,"DAR, Michal Seidl, 13.10.1967, Praha",0,,100033721,Ing.Seidl Michal,stan

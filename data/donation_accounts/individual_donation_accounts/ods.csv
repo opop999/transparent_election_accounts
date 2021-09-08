@@ -1,6 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,5000,Bezhotovostní příjem,DVOŘÁK KAREL,"DAR, Karel Dvořák",0,1100210071,0,DVOŘÁK KAREL,ods
+2021-09-07,10000,Bezhotovostní příjem,FERMET S.R.O.,"DAR, Fermet s.r.o.",0,1100210070,0,FERMET S.R.O.,ods
 2021-09-06,20000,Okamžitá příchozí platba,Ing.Beneš Jan,"DAR, Jan Benes",0,2200210017,,Ing.Beneš Jan,ods
-2021-09-06,10000,Okamžitá příchozí platba,Gregora Martin,"",0,2300210004,,Gregora Martin,ods
+2021-09-06,10000,Okamžitá příchozí platba,Gregora Martin,"",0,2300210004,,"Gregora Martin, DAR",ods
 2021-09-06,5000,Okamžitá příchozí platba,Milan Vyskočil,"DAR, Milan Vyskocil",,2400210005,,Milan Vyskočil,ods
 2021-09-06,30000,Bezhotovostní příjem,"KKS, spol. s r.o","finanční dar KKS, spol. s r. o,.",558,42340802,,"KKS, spol. s r.o",ods
 2021-09-06,6000,Bezhotovostní příjem,REKUMAT Wärmeprozess,"DAR, REKUMAT Wärmeprozesstechnik ČR, spol. s r.o.",0,3004210004,,REKUMAT Wärmeprozess,ods
@@ -18,6 +20,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-31,2000,Bezhotovostní příjem,JANEČEK ZDENĚK,"",0,2702210007,0,JANEČEK ZDENĚK,ods
 2021-08-31,20000,Bezhotovostní příjem,SCHUBERT JAROMÍR,"",0,2702210003,0,SCHUBERT JAROMÍR,ods
 2021-08-31,20000,Bezhotovostní příjem,"CORSO, SPOL. S R.O.","DAR, Corso, s.r.o.",,2702210004,,"CORSO, SPOL. S R.O.",ods
+2021-09-06,10000,Okamžitá příchozí platba,Gregora Martin,"",0,2300210004,,Gregora Martin,ods
 2021-08-30,40000,Okamžitá příchozí platba,Bohumír Koumar,"DAR, Olga Koumarová",,2110210002,,Bohumír Koumar,ods
 2021-08-30,-230000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
 2021-08-30,50000,Bezhotovostní příjem,GEOPRINT S.R.O.,"Geoprint, s.r.o./ dar",,2702210006,,GEOPRINT S.R.O.,ods

@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,20000,Bezhotovostní příjem,"PK - INTRALOGIS, SPO",Dar hnutí Přísaha Roberta Šlachty,0,0,0,"PK - INTRALOGIS, SPO",prisaha
+2021-09-07,10000,Bezhotovostní příjem,PASTYŘÍK JIŘÍ ING,Dar hnutí,0,0,0,PASTYŘÍK JIŘÍ ING,prisaha
+2021-09-07,50000,Okamžitá příchozí platba,Martin Palán,Dar hnutí,0,,,Martin Palán,prisaha
+2021-09-07,100,Bezhotovostní příjem,Olga Štusáková,Dar OH Přísaha - měsíčně,,,,Olga Štusáková,prisaha
+2021-09-07,2432.38,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-06,-1e+05,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-09-06,1e+06,Bezhotovostní příjem,SUCHÁNEK JIŘÍ,dar pro OH Přísaha Roberta Šlachty,308,0,0,SUCHÁNEK JIŘÍ,prisaha
 2021-09-06,500,Bezhotovostní příjem,Jindřich Benkovič,Dar spolku,558,,,Jindřich Benkovič,prisaha

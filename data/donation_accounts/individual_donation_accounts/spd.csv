@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,1e+05,Okamžitá příchozí platba,Ing.Harvánek Peter,DAR Peter Harvánek,0,70200,,Ing.Harvánek Peter,spd
 2021-09-06,-70000,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-06,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Martin Sůkup,spd
 2021-09-06,1000,Bezhotovostní příjem,Jan Skalák,DAR    Jan Skalák,,,,Jan Skalák,spd

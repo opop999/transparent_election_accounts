@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-07,-1e+05,Platba převodem uvnitř banky,"",převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
+2021-09-07,300,Okamžitá příchozí platba,Petr Flosman,dar,,,,Petr Flosman,zeleni
+2021-09-07,2000,Bezhotovostní příjem,Markéta Schreiberová,dar,,9003216,,Markéta Schreiberová,zeleni
+2021-09-07,80,Bezhotovostní příjem,NIKOL HALAMASKOVA,DAR,,9002800,,NIKOL HALAMASKOVA,zeleni
+2021-09-07,500,Bezhotovostní příjem,JAKUB ROZSYPAL,DAR 300 ZO P1/ 200 HK,,9001156,,JAKUB ROZSYPAL,zeleni
+2021-09-07,30,Bezhotovostní příjem,JIRI DOUBRAVSKY,DROBNÝ DAR PRO ZELENÉ,,9002979,,JIRI DOUBRAVSKY,zeleni
+2021-09-07,300,Bezhotovostní příjem,Černý Stanislav,Dar pro ZO České Budějovice,0,9002529,,Černý Stanislav,zeleni
+2021-09-07,300,Bezhotovostní příjem,BRADY PAVLA,DAR PRO ZELENÉ,0,9002700,0,BRADY PAVLA,zeleni
 2021-09-06,1500,Okamžitá příchozí platba,Mgr.Jechová Kateřina,DAR na volební kampaň,0,9003213,,Mgr.Jechová Kateřina,zeleni
 2021-09-06,2000,Okamžitá příchozí platba,Mgr.Štěrbová Svatava,dar,0,9003212,,Mgr.Štěrbová Svatava,zeleni
 2021-09-06,100,Bezhotovostní příjem,LUKAS NOVAK,DAR - ZELENÍ PRAHA 6,,9001127,,LUKAS NOVAK,zeleni

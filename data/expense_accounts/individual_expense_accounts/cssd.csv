@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+08.09.2021,-2140,Karetní transakce,"","Nákup: RESTAURACE GOLF CLUB,  PETRA BEZRUCE 1365/8, MOHELNICE, 78985, CZE, dne 7.9.2021, částka  2140.00 CZK",,4376,,"Nákup: RESTAURACE GOLF CLUB,  PETRA BEZRUCE 1365/8, MOHELNICE, 78985, CZE, dne 7.9.2021, částka  2140.00 CZK"
+08.09.2021,-700,Karetní transakce,"","Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 7.9.2021, částka  700.00 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 7.9.2021, částka  700.00 CZK"
+08.09.2021,-1430.2,Karetní transakce,"","Nákup: BENZINA CS 0469,  CS. ARMADY 1506, ZAMBERK, 56401, CZE, dne 7.9.2021, částka  1430.20 CZK",,8665,,"Nákup: BENZINA CS 0469,  CS. ARMADY 1506, ZAMBERK, 56401, CZE, dne 7.9.2021, částka  1430.20 CZK"
+07.09.2021,10210,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Pardubický kraj na volby PS PČR,,,,převod z KP Pardubický kraj na volby PS PČR
+07.09.2021,760.04,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Ústecký kraj na volby PS PČR,,,,převod z KP Ústecký kraj na volby PS PČR
+07.09.2021,-6050,Bezhotovostní platba,"",ČSSD,308,100210291,,"SNIP & CO, ozvučení tiskové konference, Jihomoravský kraj"
+07.09.2021,-104116.02,Platba převodem uvnitř banky,"",ČSSD,308,2021045,,"provocation s.r.o., grafické práce, tisk, Pardubický kraj"
+07.09.2021,-33541.2,Platba převodem uvnitř banky,"",ČSSD,308,2021029,,"Cíl, a.s. v Praze, lupy s potiskem, Jihomoravský kraj"
+07.09.2021,-1260,Bezhotovostní platba,"",ČSSD,308,2021120,,"Město Holice, zábor veř.prostranství, Pardubický kraj"
+07.09.2021,-12100,Bezhotovostní platba,"",ČSSD,308,210100001,,"IanDerson Consulting, fotografické práce, Moravskoslezský kraj"
+07.09.2021,-30250,Bezhotovostní platba,"",ČSSD,308,542021,,"Roman Sigmund, předvolební debaty, FB, Ústecký kraj"
+07.09.2021,-1000,Bezhotovostní platba,"",ČSSD,308,2026472988,,"MÚ Přelouč, poplatek za užívání veř.prostranství, Pardubický kraj"
+07.09.2021,-500,Bezhotovostní platba,"",ČSSD,308,271630,156172021,"MÚ Přelouč, správní poplatek, Pardubický kraj"
+07.09.2021,18166.4,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Vysočina na volby PS PČR,,,,převod z KP Vysočina na volby PS PČR
+07.09.2021,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Usti nad Labe, CZE, dne 6.9.2021",,6681,,"Poplatek - dotaz na zůstatek v ATM: Ceska sporitelna, a.s., Usti nad Labe, CZE, dne 6.9.2021"
 07.09.2021,-760.04,Karetní transakce,"","Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 6.9.2021, částka  760.04 CZK",,6681,,"Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 6.9.2021, částka  760.04 CZK"
 06.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 2T3VH7XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 2T3VH7XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK"
 06.09.2021,-616,Okamžitá odchozí platba,"","ČSSD, občerstvení  na zahájení kampaně",308,9,,"M.Kabát, občerstvení  na zahájení kampaně, ústředí"
