@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-08,1500,Okamžitá příchozí platba,Jiří Vyhnalík,DAR PRO PRAHU,,11111,,Jiří Vyhnalík,trikolora
+2021-09-08,200,Bezhotovostní příjem,ZEZULA JAN,DAR prispevek RP,,14000441,,ZEZULA JAN,trikolora
+2021-09-08,500,Okamžitá příchozí platba,ČERNÁ MARCELA,DAR,,123456,,ČERNÁ MARCELA,trikolora
+2021-09-08,500,Okamžitá příchozí platba,Ing.Regent Jan,DAR Jan Regent,8,123456,,Ing.Regent Jan,trikolora
 2021-09-07,50000,Okamžitá příchozí platba,Kuchař Radim,DAR,0,1151515,,Kuchař Radim,trikolora
 2021-09-07,100,Okamžitá příchozí platba,Kučera Martin,DAR příspěvek RP,0,2001374,,Kučera Martin,trikolora
 2021-09-07,1000,Bezhotovostní příjem,HUSARIK PAVEL,Pavel Husarik DAR,0,123456,0,HUSARIK PAVEL,trikolora

@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+08.09.2021,799,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
+08.09.2021,200,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
+08.09.2021,-100,Karetní transakce,"","Nákup: URAD MESTSKEHO OBVODU,  SADY PETATRICATNIKU, PLZEN 5, 305 00, CZE, dne 7.9.2021, částka  100.00 CZK",,9502,,"Nákup: URAD MESTSKEHO OBVODU,  SADY PETATRICATNIKU, PLZEN 5, 305 00, CZE, dne 7.9.2021, částka  100.00 CZK"
+08.09.2021,-100,Karetní transakce,"","Nákup: URAD MESTSKEHO OBVODU,  SADY PETATRICATNIKU, PLZEN 5, 305 00, CZE, dne 7.9.2021, částka  100.00 CZK",,9502,,"Nákup: URAD MESTSKEHO OBVODU,  SADY PETATRICATNIKU, PLZEN 5, 305 00, CZE, dne 7.9.2021, částka  100.00 CZK"
+08.09.2021,18400,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
+08.09.2021,700,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký na volby PS PČR,,,,převod z KP Liberecký na volby PS PČR
+08.09.2021,12493.6,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR
 08.09.2021,-2140,Karetní transakce,"","Nákup: RESTAURACE GOLF CLUB,  PETRA BEZRUCE 1365/8, MOHELNICE, 78985, CZE, dne 7.9.2021, částka  2140.00 CZK",,4376,,"Nákup: RESTAURACE GOLF CLUB,  PETRA BEZRUCE 1365/8, MOHELNICE, 78985, CZE, dne 7.9.2021, částka  2140.00 CZK"
 08.09.2021,-700,Karetní transakce,"","Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 7.9.2021, částka  700.00 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 7.9.2021, částka  700.00 CZK"
 08.09.2021,-1430.2,Karetní transakce,"","Nákup: BENZINA CS 0469,  CS. ARMADY 1506, ZAMBERK, 56401, CZE, dne 7.9.2021, částka  1430.20 CZK",,8665,,"Nákup: BENZINA CS 0469,  CS. ARMADY 1506, ZAMBERK, 56401, CZE, dne 7.9.2021, částka  1430.20 CZK"

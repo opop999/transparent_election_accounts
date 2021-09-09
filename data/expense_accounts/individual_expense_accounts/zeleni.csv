@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+09.09.2021,7438,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,20210019,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
+09.09.2021,6477,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,1210458,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
+08.09.2021,-2970,Bezhotovostní platba,"",Příkaz k úhradě - daň DPP 7/8/2021 - Martin Lekeš,1148,409740,,SZ - Finanční úřad
+08.09.2021,-4840,Karetní transakce,"","Nákup: FACEBK UFQY86PJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.9.2021, částka  4840.00 CZK",,6211,,"Nákup: FACEBK UFQY86PJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.9.2021, částka  4840.00 CZK"
 07.09.2021,-19500,Bezhotovostní platba,"",FA VF-56/2021 - portrétní fotografie a postprodukce,,562021,,SZ - Petr Vrabec
 07.09.2021,-6000,Bezhotovostní platba,"",FA 202109 - produkční práce - předvolební spot,,202109,,SZ - Kristýna Anna Kvapilová Rüster
 07.09.2021,-7000,Bezhotovostní platba,"",FA 202106 - digitální snímky,,202106,71,OLK - Markéta Lehečková

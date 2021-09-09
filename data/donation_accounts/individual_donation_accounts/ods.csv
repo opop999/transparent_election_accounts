@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-08,17000,Okamžitá příchozí platba,Pastrňák Zbyněk,"DAR, Zbyněk Pastrňák",308,2113210006,,Pastrňák Zbyněk,ods
+2021-09-08,2000,Okamžitá příchozí platba,Martina Stodůlková,Dar Jiří Stodůlka,,2700210027,,Martina Stodůlková,ods
+2021-09-08,2000,Bezhotovostní příjem,SKOPALIKOVA SARKA,Dar Sarka Skopalikova,,2113210012,,SKOPALIKOVA SARKA,ods
+2021-09-08,1000,Okamžitá příchozí platba,Česká spořitelna,"Dar,Milan vavra",0,2113210009,,Česká spořitelna,ods
+2021-09-08,900,Platba převodem uvnitř banky,"Ing. Košťál, Štěpán","DAR, Štěpán Košťál",,3001210027,,"DAR, Štěpán Košťál",ods
 2021-09-07,5000,Bezhotovostní příjem,DVOŘÁK KAREL,"DAR, Karel Dvořák",0,1100210071,0,DVOŘÁK KAREL,ods
 2021-09-07,10000,Bezhotovostní příjem,FERMET S.R.O.,"DAR, Fermet s.r.o.",0,1100210070,0,FERMET S.R.O.,ods
 2021-09-06,20000,Okamžitá příchozí platba,Ing.Beneš Jan,"DAR, Jan Benes",0,2200210017,,Ing.Beneš Jan,ods

@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-08,3000,Bezhotovostní příjem,Petr Beneš,Dar Pirátům - Praha 10,0,12422,110110,Petr Beneš,pirati
+2021-09-08,250,Bezhotovostní příjem,Martin Snížek,Zdar a silu!,,44005868,,Martin Snížek,pirati
+2021-09-08,200,Bezhotovostní příjem,VOCELKA JAROSLAV,"",,44014171,1,VOCELKA JAROSLAV,pirati
+2021-09-08,44442.26,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1610038498,20210907,Global Payments s.r.,pirati
+2021-09-08,300,Bezhotovostní příjem,ZIKES JAROSLAV,23,,44005167,10,ZIKES JAROSLAV,pirati
+2021-09-08,50,Bezhotovostní příjem,SABO PETR,PIRÁTI,0,44004533,1,SABO PETR,pirati
+2021-09-08,200,Bezhotovostní příjem,JANOUŠEK TOMÁŠ,PIRÁTI,0,84101,1,JANOUŠEK TOMÁŠ,pirati
+2021-09-08,300,Bezhotovostní příjem,HRUBÝ ONDŘEJ,"",0,82522,190000,HRUBÝ ONDŘEJ,pirati
+2021-09-08,5000,Bezhotovostní příjem,KOSTECKA JAN,"",,44015791,193001,KOSTECKA JAN,pirati
+2021-09-08,200,Platba převodem uvnitř banky,"Majer, Radek","",,44015658,1,"",pirati
+2021-09-08,500,Platba převodem uvnitř banky,"Ing. Kryl, Milan","Milan Kryl, nar.29.1.1961, Filmařská 507/6, Praha 5,  účel = MS Praha 5",,,110105,"Milan Kryl, nar.29.1.1961, Filmařská 507/6, Praha 5,  účel = MS Praha 5",pirati
+2021-09-08,200,Platba převodem uvnitř banky,"Podhorský, Jiří","",,44004362,,"",pirati
+2021-09-08,2000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga","Olga Richterová, Praha 10",,682,110110,"Olga Richterová, Praha 10",pirati
 2021-09-07,1000,Platba převodem uvnitř banky,"Paleník, Miroslav",DAR 44009173/193000,,44009173,193000,DAR 44009173/193000,pirati
 2021-09-07,-2800000,Platba převodem uvnitř banky,"",Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
 2021-09-07,100,Bezhotovostní příjem,Dalibor Vágner,"",,83841,190000,Dalibor Vágner,pirati

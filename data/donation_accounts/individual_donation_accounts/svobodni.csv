@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-08,500,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR na kampan za svobodu,,82020,,MACHÁČEK VÍT,svobodni
+2021-09-08,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
+2021-09-08,500,Bezhotovostní příjem,NEJEDLY LIBOR,prispevek priznivce Libor Nejedly,,9366,,NEJEDLY LIBOR,svobodni
 2021-09-07,200,Okamžitá příchozí platba,Pavel Hřebačka,DAR PRIZNIVCE,,2784,,Pavel Hřebačka,svobodni
 2021-09-06,500,Okamžitá příchozí platba,Baroch Robert,dar priznivce,0,9365,,Baroch Robert,svobodni
 2021-09-06,1000,Bezhotovostní příjem,Jan Skalák,DAR    Skalák Jan,,,,Jan Skalák,svobodni

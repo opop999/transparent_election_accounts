@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-08,300,Okamžitá příchozí platba,Mgr.Brodnicki Hana,Dar 100 Kč ZO P7 + 100 Kč Praha + 100 Kč SZ,0,,,Mgr.Brodnicki Hana,zeleni
+2021-09-08,300,Okamžitá příchozí platba,Bill Daniel,Dar SZ,0,9003225,,Bill Daniel,zeleni
+2021-09-08,300,Platba převodem uvnitř banky,"Bunžová, Monika",dar na kampaň,,9003224,,dar na kampaň,zeleni
+2021-09-08,-1000,Okamžitá odchozí platba,"","vrácení platby - nejasný účel platby, není uvedeno ""dar"" (Strana zelených)",,9002969,,Jakub Vrtiška,zeleni
+2021-09-08,2000,Okamžitá příchozí platba,RICHTEROVÁ KARIN,"Dar na reklamu na sociálních sítích pro náborové video ""Zelené ženy""",,9003223,,RICHTEROVÁ KARIN,zeleni
+2021-09-08,1000,Okamžitá příchozí platba,Jakub Vrtiška,"",,9002969,,Jakub Vrtiška,zeleni
+2021-09-08,500,Bezhotovostní příjem,LARMER FILIP,dar,,9003221,,LARMER FILIP,zeleni
+2021-09-08,1000,Okamžitá příchozí platba,Petr Novák,dar,0,9003220,0,Petr Novák,zeleni
+2021-09-08,300,Bezhotovostní příjem,Radka Benešová,Dar,0,8071051,,Radka Benešová,zeleni
+2021-09-08,700,Bezhotovostní příjem,Kupková Marika,pro ZO Brno-střed,0,6021129,,Kupková Marika,zeleni
+2021-09-08,1500,Bezhotovostní příjem,JINDRICH FELCMAN,DAR - ZELENÍ LIBERECKÝ KRAJ,,9002885,,JINDRICH FELCMAN,zeleni
+2021-09-08,20000,Okamžitá příchozí platba,Drápal Ivo,Dar na kampaň Jihomoravská org.,0,9003219,,Drápal Ivo,zeleni
+2021-09-08,100,Bezhotovostní příjem,Eva Vaníčková,dar,,8071061,,Eva Vaníčková,zeleni
+2021-09-08,800,Bezhotovostní příjem,NECHANICKA BARBORA,dar na kampan,,9003218,,NECHANICKA BARBORA,zeleni
+2021-09-08,3333,Bezhotovostní příjem,ŠILHAVÝ DAN,dar,,9003215,,ŠILHAVÝ DAN,zeleni
 2021-09-07,-1e+05,Platba převodem uvnitř banky,"",převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
 2021-09-07,300,Okamžitá příchozí platba,Petr Flosman,dar,,,,Petr Flosman,zeleni
 2021-09-07,2000,Bezhotovostní příjem,Markéta Schreiberová,dar,,9003216,,Markéta Schreiberová,zeleni
