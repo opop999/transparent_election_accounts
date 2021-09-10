@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+09.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK QFJBU6BLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK QFJBU6BLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  20000.00 CZK"
+09.09.2021,-12493.6,Bezhotovostní platba,"",ČSSD,308,3210306,,"Radomír Havlík, bonbony, Kraj Praha"
+09.09.2021,-3170.2,Platba převodem uvnitř banky,"",ČSSD,308,2021031,,"Cíl, a.s. v Praze, propagační předměty, klíčenky, Středočeský kraj"
+09.09.2021,-10944.45,Platba převodem uvnitř banky,"",ČSSD,308,2021030,,"Cíl, a.s. v Praze, dotisk plakátů, ústředí"
+09.09.2021,-38720,Bezhotovostní platba,"",ČSSD,308,100210290,,"SNIP & CO, pronájem párty stanu, Jihomoravský kraj"
+09.09.2021,-217.44,Platba převodem uvnitř banky,"",ČSSD,308,2021021,,"Cíl, a.s. v Praze, propagační předměty, Zlínský kraj"
+09.09.2021,-9075,Bezhotovostní platba,"",ČSSD,308,20210166,,"Krekrrr.cz, grafické a marketingové práce, Pardubický kraj"
+09.09.2021,21149.5,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Vysočina na volby PS PČR,,,,převod z KP Vysočina na volby PS PČR
+09.09.2021,1430.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Pardubický kraj na volby PS PČR,,,,převod z KP Pardubický kraj na volby PS PČR
+09.09.2021,3450,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
+09.09.2021,250000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Pavel Havíř, volby do PS PČR, Pardubický kraj",,,,"převod daru Pavel Havíř, volby do PS PČR, Pardubický kraj"
+09.09.2021,4300,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Markéta Juchelková, volby do PS PČR, Pardubický kraj",,,,"převod daru, Markéta Juchelková, volby do PS PČR, Pardubický kraj"
+09.09.2021,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: KB ATM VLASTINA, PRAHA 6, CZE, dne 8.9.2021",,4829,,"Poplatek - dotaz na zůstatek v ATM: KB ATM VLASTINA, PRAHA 6, CZE, dne 8.9.2021"
 08.09.2021,799,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR
 08.09.2021,200,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
 08.09.2021,-100,Karetní transakce,"","Nákup: URAD MESTSKEHO OBVODU,  SADY PETATRICATNIKU, PLZEN 5, 305 00, CZE, dne 7.9.2021, částka  100.00 CZK",,9502,,"Nákup: URAD MESTSKEHO OBVODU,  SADY PETATRICATNIKU, PLZEN 5, 305 00, CZE, dne 7.9.2021, částka  100.00 CZK"

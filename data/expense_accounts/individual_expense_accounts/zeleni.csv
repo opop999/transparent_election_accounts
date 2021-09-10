@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+09.09.2021,3100,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO STČ na volební účet SZ - volby do PS PČR 2021,,662021,20,Převod prostředků KO STČ na volební účet SZ - volby do PS PČR 2021
+09.09.2021,-5000,Platba převodem uvnitř banky,"",FA 2021-01 - tvorba obsahu na sociální sítě,,202101,,SZ - Lucie Kotvalová
+09.09.2021,-10000,Bezhotovostní platba,"",FA 2021-0019 - příprava volební kampaně,,20210019,,SZ - Kateřina Písačková
+09.09.2021,-941,Platba převodem uvnitř banky,"",vratka mylné platby - provozní účet KO JMK,,1210458,64,vratka mylné platby - provozní účet KO JMK
+09.09.2021,-5536,Platba převodem uvnitř banky,"",FA 1210458 - informační leták,,1210458,64,JMK - Studio STKI s. r. o.
+09.09.2021,-1391.5,Bezhotovostní platba,"","FA VFA2101063 - plakáty, grafické zpracování",308,2101063,42,"ÚLK - Tiskárna AKORD Chomutov, s.r.o."
+09.09.2021,-25000,Bezhotovostní platba,"",FA 210028 - poradenství a služby Public & media relations,,210028,,SZ - Svatopluk Bartík
+09.09.2021,-7438,Bezhotovostní platba,"",FA 20210019 - tajemnice KO JMK 2021/08,308,20210019,64,JMK - Lenka Zemanová
+09.09.2021,2e+05,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021
+09.09.2021,1391.5,Platba převodem uvnitř banky,Strana zelených,převod darů ÚLK z darového účtu na volební účet SZ - volby do PS PČR 2021,,2101063,42,převod darů ÚLK z darového účtu na volební účet SZ - volby do PS PČR 2021
 09.09.2021,7438,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,20210019,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
 09.09.2021,6477,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,1210458,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021
 08.09.2021,-2970,Bezhotovostní platba,"",Příkaz k úhradě - daň DPP 7/8/2021 - Martin Lekeš,1148,409740,,SZ - Finanční úřad

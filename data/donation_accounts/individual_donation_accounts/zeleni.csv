@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-09,1000,Okamžitá příchozí platba,Eva Hejzlarová,dar,,9003228,,Eva Hejzlarová,zeleni
+2021-09-09,-2e+05,Platba převodem uvnitř banky,"",převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-09-09,-1391.5,Platba převodem uvnitř banky,"",převod darů ÚLK z darového účtu na volební účet SZ - volby do PS PČR 2021,,2101063,42,převod darů ÚLK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-09-09,-1000,Bezhotovostní platba,"","vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003226,,Jakub Vrtiška,zeleni
+2021-09-09,1000,Platba převodem uvnitř banky,"Kmoníček, Jiří",Dar,,9003139,,Dar,zeleni
+2021-09-09,1111,Platba převodem uvnitř banky,"Petrlíková Mašková, Lenka",dar - Zelení,,9003227,,dar - Zelení,zeleni
+2021-09-09,1000,Bezhotovostní příjem,HUŇKA JAN,Dar pro ZOPraha3 100/KO0/SZ0,0,9002390,0,HUŇKA JAN,zeleni
+2021-09-09,300,Bezhotovostní příjem,Jan Janoušek,dar,0,9001185,,Jan Janoušek,zeleni
+2021-09-09,1000,Okamžitá příchozí platba,Jakub Vrtiška,"",,9003226,,Jakub Vrtiška,zeleni
+2021-09-09,200,Bezhotovostní příjem,REBEKA VADASOVA,DAR PRO ZO PRAHA 3,,9002540,,REBEKA VADASOVA,zeleni
+2021-09-09,1000,Bezhotovostní příjem,MICHAL STANDARA,DAR,,9003222,,MICHAL STANDARA,zeleni
+2021-09-09,500,Bezhotovostní příjem,Martin Maniš,dar volby,,9,,Martin Maniš,zeleni
+2021-09-09,100,Bezhotovostní příjem,Pavelková Zuzana,dar,,9002961,,Pavelková Zuzana,zeleni
+2021-09-09,500,Bezhotovostní příjem,Mgr. Anna Junková,dar,0,1111126,,Mgr. Anna Junková,zeleni
 2021-09-08,300,Okamžitá příchozí platba,Mgr.Brodnicki Hana,Dar 100 Kč ZO P7 + 100 Kč Praha + 100 Kč SZ,0,,,Mgr.Brodnicki Hana,zeleni
 2021-09-08,300,Okamžitá příchozí platba,Bill Daniel,Dar SZ,0,9003225,,Bill Daniel,zeleni
 2021-09-08,300,Platba převodem uvnitř banky,"Bunžová, Monika",dar na kampaň,,9003224,,dar na kampaň,zeleni

@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-09,-2e+06,Platba převodem uvnitř banky,"",převod prostředků na volební účet,,,,převod prostředků na volební účet,trikolora
+2021-09-09,500,Bezhotovostní příjem,Lukáš Tomala,DAR,,123456,,Lukáš Tomala,trikolora
+2021-09-09,1000,Okamžitá příchozí platba,Ing. Tomáš Kouřil,"DAR Tomas Kouril, 30.7.1968, Vresice 41, Sulikov",,,,Ing. Tomáš Kouřil,trikolora
+2021-09-09,300,Bezhotovostní příjem,CIGLER JIRI,dar Cigler Jiri 12121949,,1,,CIGLER JIRI,trikolora
+2021-09-09,1000,Bezhotovostní příjem,FERENCOVA ALENA,DAR Dosoudil Frantisek,,123456,,FERENCOVA ALENA,trikolora
+2021-09-09,500,Bezhotovostní příjem,KRALOVA JITKA,DAR,,123456,,KRALOVA JITKA,trikolora
+2021-09-09,100,Okamžitá příchozí platba,Hnízdil Otakar,DAR příspěvek RP   7.1.1961,0,12000194,,Hnízdil Otakar,trikolora
+2021-09-09,83,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,trikolora
+2021-09-09,3000,Bezhotovostní příjem,KOCUR VALTER,DAR Karel Chovanec,,123456,,KOCUR VALTER,trikolora
+2021-09-09,10000,Bezhotovostní příjem,KOCUR VALTER,DAR - Valter Kocur,,123456,,KOCUR VALTER,trikolora
+2021-09-09,15000,Bezhotovostní příjem,Thun 1794 a.s.,finanční dar,,1333333,,Thun 1794 a.s.,trikolora
 2021-09-08,1500,Okamžitá příchozí platba,Jiří Vyhnalík,DAR PRO PRAHU,,11111,,Jiří Vyhnalík,trikolora
 2021-09-08,200,Bezhotovostní příjem,ZEZULA JAN,DAR prispevek RP,,14000441,,ZEZULA JAN,trikolora
 2021-09-08,500,Okamžitá příchozí platba,ČERNÁ MARCELA,DAR,,123456,,ČERNÁ MARCELA,trikolora

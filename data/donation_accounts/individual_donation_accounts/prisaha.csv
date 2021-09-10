@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-09,1000,Okamžitá příchozí platba,Hana Fimbingerová,Dar hnutí,,,,Hana Fimbingerová,prisaha
+2021-09-09,-750000,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-09,500,Okamžitá příchozí platba,Horák Václav,Dar hnutí,0,,,Horák Václav,prisaha
+2021-09-09,30000,Okamžitá příchozí platba,MACHOVSKÝ PETR,"Dar hnuti- pro Kerlesku, Jizni Cechy",,7006011892,,MACHOVSKÝ PETR,prisaha
+2021-09-09,1000,Okamžitá příchozí platba,Milan Holínka,Dar hnutí.,,,,Milan Holínka,prisaha
+2021-09-09,2443,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-08,1000,Okamžitá příchozí platba,Štruncová Radka,DAR HNUTÍ,0,,,Štruncová Radka,prisaha
 2021-09-08,-3e+05,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-09-08,1000,Okamžitá příchozí platba,Petr Denk,Dar hnutí,,,,Petr Denk,prisaha

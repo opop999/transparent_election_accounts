@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+09.09.2021,-31557.2,Karetní transakce,"","Nákup: FACEBK A5VKM87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  31557.20 CZK",,3344,,"Nákup: FACEBK A5VKM87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  31557.20 CZK"
+09.09.2021,-1136.24,Karetní transakce,"","Nákup: GOOGLE *ADS6478612600,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 9.9.2021, částka  1136.24 CZK",,3344,,"Nákup: GOOGLE *ADS6478612600,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 9.9.2021, částka  1136.24 CZK"
+09.09.2021,260,Bezhotovostní příjem,Účet neexistuje.,Vratka ze zrušeného účtu.č.000000-0143526093,6,9331,1300,Účet neexistuje.
 08.09.2021,-30764,Bezhotovostní platba,"","Filip Martínek, polep auta",308,2021366,300,"Filip Martínek, polep auta"
 08.09.2021,-49741,Bezhotovostní platba,"","RENGL, s.r.o., tisk a výlep plakátů",308,10122543,500,"RENGL, s.r.o., tisk a výlep plakátů"
 08.09.2021,-18150,Bezhotovostní platba,"","MCU KOLOSEUM, o.p.s., rekl. plocha",308,2106343,600,"MCU KOLOSEUM, o.p.s., rekl. plocha"

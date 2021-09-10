@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-09,-1000,Okamžitá odchozí platba,"","vratka Janoušek David, není DS, kontakt sekretariat@ods.cz",,,,"vratka Janoušek David, není DS, kontakt sekretariat@ods.cz",ods
+2021-09-09,-250000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-09,500,Platba převodem uvnitř banky,"Pospíšil, Lubomír","DAR, Lubomir Pospisil",,1100210075,,"DAR, Lubomir Pospisil",ods
+2021-09-09,45000,Bezhotovostní příjem,MUDr. ONDREJ SIMETKA,dar ondrej simetka,,1100210073,,MUDr. ONDREJ SIMETKA,ods
+2021-09-09,20000,Okamžitá příchozí platba,MUDr.Chalánková Jitk,"",558,1100210072,,MUDr.Chalánková Jitk,ods
+2021-09-09,20000,Bezhotovostní příjem,FIFTYFIFTY KREATIVNÍ,"DAR, FiftyFifty kreativní agenturas.r.o.",0,2800210012,0,FIFTYFIFTY KREATIVNÍ,ods
+2021-09-09,26000,Okamžitá příchozí platba,ZELENÝ DAVID,DAR - David Zelený,,2113210010,,ZELENÝ DAVID,ods
+2021-09-09,23000,Okamžitá příchozí platba,VHST S.R.O.,"DAR, VHST s.r.o.",8,2703210006,,VHST S.R.O.,ods
+2021-09-09,2222,Bezhotovostní příjem,BALAT PETR,"DAR, Petr Balat",,1100210074,,BALAT PETR,ods
 2021-09-08,17000,Okamžitá příchozí platba,Pastrňák Zbyněk,"DAR, Zbyněk Pastrňák",308,2113210006,,Pastrňák Zbyněk,ods
 2021-09-08,2000,Okamžitá příchozí platba,Martina Stodůlková,Dar Jiří Stodůlka,,2700210027,,Martina Stodůlková,ods
 2021-09-08,2000,Bezhotovostní příjem,SKOPALIKOVA SARKA,Dar Sarka Skopalikova,,2113210012,,SKOPALIKOVA SARKA,ods
