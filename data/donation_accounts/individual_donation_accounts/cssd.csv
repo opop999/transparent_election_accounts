@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-10,50000,Okamžitá příchozí platba,VÁHALOVÁ DANA,"Dar ve prospěch ČSSD, Dana Váhalová, 28.5. 1966.",308,9,,VÁHALOVÁ DANA,cssd
+2021-09-10,10000,Bezhotovostní příjem,EKOLOGICKY ROZVOJ A,"Dar ve prospech CSSD, Ekologickyrozvoj a vystavba s.r.o., 27504514",558,27504514,0,EKOLOGICKY ROZVOJ A,cssd
+2021-09-10,50000,Okamžitá příchozí platba,"Mgr.Holík Karel,MBA","Dar ve prospěch ČSSD, Karel Holík,15.9.1974",308,15091974,,"Mgr.Holík Karel,MBA",cssd
 2021-09-09,5000,Platba převodem uvnitř banky,"Klusák, Václav","Dar ve prospěch ČSSD - OP Praha 6, dárce: Václav Klusák, datum narození 27.4.1982",,27041982,,"Dar ve prospěch ČSSD - OP Praha 6, dárce: Václav Klusák, datum narození 27.4.1982",cssd
 2021-09-09,15000,Platba převodem uvnitř banky,"Klusák, Václav","Dar volby PSPČR 2021 - Praha, dárce: Václav Klusák, datum narození 27.4.1982",,27041982,,"Dar volby PSPČR 2021 - Praha, dárce: Václav Klusák, datum narození 27.4.1982",cssd
 2021-09-09,-61000,Platba převodem uvnitř banky,"","převod daru Vladimír Černý, pro potřeby KP Vysočina",,,,"převod daru Vladimír Černý, pro potřeby KP Vysočina",cssd

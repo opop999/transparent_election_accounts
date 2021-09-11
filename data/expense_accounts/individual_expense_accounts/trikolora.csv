@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+10.09.2021,36300,Okamžitá příchozí platba,Brand Institut s.r.o,"",308,51210019,,Brand Institut s.r.o
+10.09.2021,-7480,Okamžitá odchozí platba,"",výlep a pronájem ploch Rengl - Pardubický kraj,308,1022714,,výlep a pronájem ploch Rengl - Pardubický kraj
+10.09.2021,-30250,Bezhotovostní platba,"",platba za předvolební debaty - Ústecký kraj,308,592021,,platba za předvolební debaty - Ústecký kraj
+10.09.2021,-750.2,Bezhotovostní platba,"",pronájem ploch Město Konice - Olomoucký kraj,308,1005000151,,pronájem ploch Město Konice - Olomoucký kraj
+10.09.2021,-32428,Bezhotovostní platba,"",platba za pronájem pódia a ozvučení - Žlutý Pes - centrála,308,10110535,,platba za pronájem pódia a ozvučení - Žlutý Pes - centrála
+10.09.2021,-4602,Platba převodem uvnitř banky,"",výroba plakátů - Liberecký kraj,308,20218211,,výroba plakátů - Liberecký kraj
+10.09.2021,-15000,Bezhotovostní platba,"",fotografické služby a úpravy portrétů kandidátů - Praha,308,5082021,,fotografické služby a úpravy portrétů kandidátů - Praha
+10.09.2021,-5220,Okamžitá odchozí platba,"",platba za pronájem veřejné plochy Děčín/Ústecký kraj,308,9200003387,,platba za pronájem veřejné plochy Děčín/Ústecký kraj
 09.09.2021,-363300,Bezhotovostní platba,"",marketingové služby - Brand centrální,308,51210019,,marketingové služby - Brand centrální
 09.09.2021,-6734,Platba převodem uvnitř banky,"",výroba banneru TSS Praha,308,9210000591,,výroba banneru TSS Praha
 09.09.2021,-121000,Bezhotovostní platba,"",platba za organizaci volebních mítinků - středočeský kraj,308,210002,,platba za organizaci volebních mítinků - středočeský kraj

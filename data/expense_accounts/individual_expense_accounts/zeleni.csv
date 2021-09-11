@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+11.09.2021,-7260,Karetní transakce,"","Nákup: FACEBK B5D4P67KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  7260.00 CZK",,6211,,"Nákup: FACEBK B5D4P67KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  7260.00 CZK"
+10.09.2021,96,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO MSK na volební účet SZ - volby do PS PČR 2021,,21049,80,Převod prostředků KO MSK na volební účet SZ - volby do PS PČR 2021
+10.09.2021,10520,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,21095487,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021
+10.09.2021,2000,Bezhotovostní příjem,Martin Jílek,Hodně štěstí,,,,Martin Jílek
 09.09.2021,3100,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO STČ na volební účet SZ - volby do PS PČR 2021,,662021,20,Převod prostředků KO STČ na volební účet SZ - volby do PS PČR 2021
 09.09.2021,-5000,Platba převodem uvnitř banky,"",FA 2021-01 - tvorba obsahu na sociální sítě,,202101,,SZ - Lucie Kotvalová
 09.09.2021,-10000,Bezhotovostní platba,"",FA 2021-0019 - příprava volební kampaně,,20210019,,SZ - Kateřina Písačková

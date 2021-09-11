@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,"",stan
+2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,STROJÍRNA LITVÍNOV S,stan
 2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,KULHANEK PETR,stan
 2021-09-08,30000,Bezhotovostní příjem,MARTIN HAJEK,"DAR, MARTIN HÁJEK, 22.04.1970, RADĚJOV",,22041970,49110321,DAR - MARTIN HAJEK,stan
 2021-09-07,-2600000,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan

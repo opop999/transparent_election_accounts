@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-10,100,Okamžitá příchozí platba,Tomáš Horych,DAR 82794/193000,,82794,193000,Tomáš Horych,pirati
+2021-09-10,5000,Bezhotovostní příjem,Studio Animato s.r.o,Animato,0,44006720,,Studio Animato s.r.o,pirati
+2021-09-10,5000,Okamžitá příchozí platba,Ing.arch.Bartoušek D,bures off,0,44016085,193000,Ing.arch.Bartoušek D,pirati
+2021-09-10,100,Bezhotovostní příjem,GINO ZALEJSKÝ,MĚSÍČNÍ PŘÍSPĚVEK - PIRATI,,44013858,1,GINO ZALEJSKÝ,pirati
+2021-09-10,3000,Bezhotovostní příjem,ROSTISLAV ŘEHA,ÚČELOVÝ DAR PRO ZASTUPITELSKÉ KLUBY V OSTRAVĚ.,,9001676,140401,ROSTISLAV ŘEHA,pirati
+2021-09-10,200,Bezhotovostní příjem,Jaromír Kašpar,"",,44005879,1,Jaromír Kašpar,pirati
+2021-09-10,5000,Okamžitá příchozí platba,Lucie Chadimová,Ať se zadaří,,44016084,19300,Lucie Chadimová,pirati
+2021-09-10,300,Platba převodem uvnitř banky,"Lidaj, Václav","",1900,83493,,"",pirati
+2021-09-10,100,Bezhotovostní příjem,VALOVÁ MARKÉTA,"",,82734,1,VALOVÁ MARKÉTA,pirati
+2021-09-10,200,Bezhotovostní příjem,MAREŠ DANIEL,"",,,,MAREŠ DANIEL,pirati
+2021-09-10,15788.32,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620002960,20210909,Global Payments s.r.,pirati
+2021-09-10,1000,Bezhotovostní příjem,VYKOUKAL ONDREJ,"",,44006366,,VYKOUKAL ONDREJ,pirati
+2021-09-10,3000,Bezhotovostní příjem,LEONHARDT TEREZA,DAR 84594/190000,,84594,190000,LEONHARDT TEREZA,pirati
 2021-09-09,100,Bezhotovostní příjem,SZERYNSKÁ JANA,"",,44013826,1,SZERYNSKÁ JANA,pirati
 2021-09-09,30185.83,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1610061579,20210908,Global Payments s.r.,pirati
 2021-09-09,250,Platba převodem uvnitř banky,"Ing. Chocholatý, Libor",DAR 44015494/193000,,44015494,193000,DAR 44015494/193000,pirati

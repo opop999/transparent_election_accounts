@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-10,20000,Okamžitá příchozí platba,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
+2021-09-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
+2021-09-10,5000,Bezhotovostní příjem,ZBOROVSKY MIROSLAV,Miroslav Zborovsky - mimoradnyclensky prispevek,,0,,ZBOROVSKY MIROSLAV,kdu-csl
+2021-09-10,3000,Bezhotovostní příjem,Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Benešík Ondřej,kdu-csl
 2021-09-09,3000,Platba převodem uvnitř banky,"Cajzlová, Pavla",Lidovci lidovcům,,,999,Lidovci lidovcům,kdu-csl
 2021-09-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
 2021-09-08,1000,Bezhotovostní příjem,František Staněk,"Pro potřebné, dle přání br. Jurecky",,,999,František Staněk,kdu-csl

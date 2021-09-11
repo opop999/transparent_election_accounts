@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-10,10000,Okamžitá příchozí platba,"OteSound, s.r.o.",Dar na cinnost (MUDr. Filip Otevrel),,1222222,,"OteSound, s.r.o.",trikolora
+2021-09-10,20000,Okamžitá příchozí platba,"Linhart Vít,Ing.",Vít Linhart,0,9000379,,"Linhart Vít,Ing.",trikolora
+2021-09-10,10000,Bezhotovostní příjem,Rakouš Tomáš,Dar na parlamentní volby LBC (MO Jbc Tomáš Rakouš 22/05/1966),0,1555555,,Rakouš Tomáš,trikolora
+2021-09-10,100,Okamžitá příchozí platba,KOPECKÝ MARTIN,DAR příspěvek RP,,13000787,,KOPECKÝ MARTIN,trikolora
+2021-09-10,200,Bezhotovostní příjem,Urbanec Ladislav,DAR Ladislav Urbanec,0,,,Urbanec Ladislav,trikolora
 2021-09-09,-2e+06,Platba převodem uvnitř banky,"",převod prostředků na volební účet,,,,převod prostředků na volební účet,trikolora
 2021-09-09,500,Bezhotovostní příjem,Lukáš Tomala,DAR,,123456,,Lukáš Tomala,trikolora
 2021-09-09,1000,Okamžitá příchozí platba,Ing. Tomáš Kouřil,"DAR Tomas Kouril, 30.7.1968, Vresice 41, Sulikov",,,,Ing. Tomáš Kouřil,trikolora

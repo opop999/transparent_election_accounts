@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-10,1000,Platba převodem uvnitř banky,"Richterová, Lenka",Dar hnutí pro Karlovarský kraj,,,,Dar hnutí pro Karlovarský kraj,prisaha
+2021-09-10,200,Bezhotovostní příjem,Ivana Jelínková,dar hnutí,,,,Ivana Jelínková,prisaha
+2021-09-10,9000,Okamžitá příchozí platba,Česká spořitelna,dar hnuti,0,,,Česká spořitelna,prisaha
+2021-09-10,1000,Okamžitá příchozí platba,Dalibor Macháček,Dar hnutí,,,,Dalibor Macháček,prisaha
+2021-09-10,886.05,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-09,1000,Okamžitá příchozí platba,Hana Fimbingerová,Dar hnutí,,,,Hana Fimbingerová,prisaha
 2021-09-09,-750000,Platba převodem uvnitř banky,"",Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-09-09,500,Okamžitá příchozí platba,Horák Václav,Dar hnutí,0,,,Horák Václav,prisaha

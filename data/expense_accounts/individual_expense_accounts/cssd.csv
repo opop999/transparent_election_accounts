@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+11.09.2021,-1125,Karetní transakce,"","Nákup: BENZINA CS 0128,  JATECNI 2471/6A, PLZEN, 30100, CZE, dne 10.9.2021, částka  1125.00 CZK",,9502,,"Nákup: BENZINA CS 0128,  JATECNI 2471/6A, PLZEN, 30100, CZE, dne 10.9.2021, částka  1125.00 CZK"
+10.09.2021,-1050,Bezhotovostní platba,"",ČSSD,308,1500001278,,"Město Česká Třebová, užívání veřejného prostranství, Pardubický kraj"
+10.09.2021,-510,Bezhotovostní platba,"",ČSSD,308,36920,,"MÚ Moravská Třebová, užívání veřejného prostranství, Kraj Pardubice"
+10.09.2021,-901,Bezhotovostní platba,"",ČSSD,308,9,,"Tomáš Šenkeřík, PHM Benzina, Zlínský kraj"
+10.09.2021,-206910,Bezhotovostní platba,"",ČSSD,308,4202106983,,"BigMedia spol. s r.o., pronájem reklamních panelů, Kraj Praha"
+10.09.2021,-133100,Bezhotovostní platba,"",ČSSD,308,4212101831,,"BigMedia, spol. s r.o., reklamní materiály, Kraj Praha"
+10.09.2021,-484000,Platba převodem uvnitř banky,"",ČSSD,308,20210811,,"TO DO Marketing s.r.o., online propagace, Moravskoslezský kraj"
+10.09.2021,206910,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR
+10.09.2021,133100,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR
 09.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK QFJBU6BLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK QFJBU6BLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  20000.00 CZK"
 09.09.2021,-12493.6,Bezhotovostní platba,"",ČSSD,308,3210306,,"Radomír Havlík, bonbony, Kraj Praha"
 09.09.2021,-3170.2,Platba převodem uvnitř banky,"",ČSSD,308,2021031,,"Cíl, a.s. v Praze, propagační předměty, klíčenky, Středočeský kraj"
