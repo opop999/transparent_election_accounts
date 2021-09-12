@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-11,11000,Okamžitá příchozí platba,Zdeněk Zajac,dar - doufam v duraz na Vzdelavani a propojenost s EU,,,,Zdeněk Zajac,zeleni
+2021-09-11,1500,Okamžitá příchozí platba,Ing. IVO LUŽNÝ,DAR,,9003235,,Ing. IVO LUŽNÝ,zeleni
 2021-09-10,2500,Okamžitá příchozí platba,ČERNÍK ROMAN,dar,,9003233,,ČERNÍK ROMAN,zeleni
 2021-09-10,1000,Bezhotovostní příjem,JEHLICKA PETR,dar,,9003231,,JEHLICKA PETR,zeleni
 2021-09-10,1000,Bezhotovostní příjem,JAN CHROMY,DAR PRO SZ (J. CHROMÝ),308,9003230,9003230,JAN CHROMY,zeleni

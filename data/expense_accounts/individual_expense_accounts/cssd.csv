@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+11.09.2021,-678,Karetní transakce,"","Nákup: SLUZBY TECHNICKE SLUZ,  MYSLOTINSKA, PELHRIMOV, 393 01, CZE, dne 10.9.2021, částka  678.00 CZK",,3429,,"Nákup: SLUZBY TECHNICKE SLUZ,  MYSLOTINSKA, PELHRIMOV, 393 01, CZE, dne 10.9.2021, částka  678.00 CZK"
+11.09.2021,-963.3,Karetní transakce,"","Nákup: GLOBUS 14 KV CS,  OBCHODNI 30, JENISOV, 362 11, CZE, dne 10.9.2021, částka  963.30 CZK",,634,,"Nákup: GLOBUS 14 KV CS,  OBCHODNI 30, JENISOV, 362 11, CZE, dne 10.9.2021, částka  963.30 CZK"
+11.09.2021,-1079.5,Karetní transakce,"","Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 9.9.2021, částka  1079.50 CZK",,3429,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 9.9.2021, částka  1079.50 CZK"
 11.09.2021,-1125,Karetní transakce,"","Nákup: BENZINA CS 0128,  JATECNI 2471/6A, PLZEN, 30100, CZE, dne 10.9.2021, částka  1125.00 CZK",,9502,,"Nákup: BENZINA CS 0128,  JATECNI 2471/6A, PLZEN, 30100, CZE, dne 10.9.2021, částka  1125.00 CZK"
 10.09.2021,-1050,Bezhotovostní platba,"",ČSSD,308,1500001278,,"Město Česká Třebová, užívání veřejného prostranství, Pardubický kraj"
 10.09.2021,-510,Bezhotovostní platba,"",ČSSD,308,36920,,"MÚ Moravská Třebová, užívání veřejného prostranství, Kraj Pardubice"

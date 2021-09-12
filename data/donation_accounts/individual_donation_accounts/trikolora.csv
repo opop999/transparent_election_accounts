@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-11,1000,Platba převodem uvnitř banky,"Kuklík, Pavel","Dar, Pavel Kuklík, 26. 6. 1963",308,1109,,"Dar, Pavel Kuklík, 26. 6. 1963",trikolora
 2021-09-10,10000,Okamžitá příchozí platba,"OteSound, s.r.o.",Dar na cinnost (MUDr. Filip Otevrel),,1222222,,"OteSound, s.r.o.",trikolora
 2021-09-10,20000,Okamžitá příchozí platba,"Linhart Vít,Ing.",Vít Linhart,0,9000379,,"Linhart Vít,Ing.",trikolora
 2021-09-10,10000,Bezhotovostní příjem,Rakouš Tomáš,Dar na parlamentní volby LBC (MO Jbc Tomáš Rakouš 22/05/1966),0,1555555,,Rakouš Tomáš,trikolora
