@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,Dar,0,9003238,,Stašek Petr,zeleni
+2021-09-12,100,Platba převodem uvnitř banky,"Bednařík, Pavel",dar SZ - Pavel Bednařík,,9002562,,dar SZ - Pavel Bednařík,zeleni
 2021-09-11,11000,Okamžitá příchozí platba,Zdeněk Zajac,dar - doufam v duraz na Vzdelavani a propojenost s EU,,,,Zdeněk Zajac,zeleni
 2021-09-11,1500,Okamžitá příchozí platba,Ing. IVO LUŽNÝ,DAR,,9003235,,Ing. IVO LUŽNÝ,zeleni
 2021-09-10,2500,Okamžitá příchozí platba,ČERNÍK ROMAN,dar,,9003233,,ČERNÍK ROMAN,zeleni

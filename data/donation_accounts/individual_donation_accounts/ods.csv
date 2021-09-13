@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-12,10000,Okamžitá příchozí platba,Neumann Lukáš,"DAR, Lukas Neumann",0,1100210076,,Neumann Lukáš,ods
 2021-09-10,1000,Bezhotovostní příjem,SLAVIKOVA & PETRASEK,"DAR,Slavikova&Petrasek s.r.o.",,2600210020,,SLAVIKOVA & PETRASEK,ods
 2021-09-10,1e+05,Bezhotovostní příjem,Kudláček Waldek Körb,"DAR,Kudláček Waldek Korber Consulting s.r.o.",0,2801210003,0,Kudláček Waldek Körb,ods
 2021-09-10,10000,Bezhotovostní příjem,Hana Věrná,"DAR, Hana Věrná",308,3200210027,,Hana Věrná,ods

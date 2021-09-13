@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-12,10000,Platba převodem uvnitř banky,"Špak, Josef","",,85977,3,"",pirati
+2021-09-12,500,Okamžitá příchozí platba,Josef Veselý,DAR 84816/193000,,84816,193000,Josef Veselý,pirati
+2021-09-12,1000,Okamžitá příchozí platba,Vohnický Aleš,"",0,44016098,193030,Vohnický Aleš,pirati
+2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,"",0,44016097,1,Stašek Petr,pirati
 2021-09-11,250,Platba převodem uvnitř banky,"Brada, Viktor",Podporuji: Centrálu České pirátské strany,,87039,1,Podporuji: Centrálu České pirátské strany,pirati
 2021-09-11,200,Platba převodem uvnitř banky,"Michálek, Vladimír","",,44004062,1,"",pirati
 2021-09-11,2200,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch",Vojtěch Pikal - příspěvek Picolo (náhrada na kancelář),558,,400300,Vojtěch Pikal - příspěvek Picolo (náhrada na kancelář),pirati
