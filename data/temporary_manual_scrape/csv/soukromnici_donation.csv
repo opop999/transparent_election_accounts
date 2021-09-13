@@ -1,14 +1,18 @@
 id,date,amount,symbols,notes
+001-10092021 1602 602019 030781,10. 9. 2021,"-60 000,00 CZK",3111111 / 0 / 0,Odchozí platba - DAR volby Praha
+001-02092021 1602 602012 166211,2. 9. 2021,"-50 000,00 CZK",670513 / 0 / 0,Odchozí platba
+000-31082021-060-060-001852181,31. 8. 2021,"-66,00 CZK",0 / 0 / 0,Poplatek
+000-31082021-060-060-001852180,31. 8. 2021,"-60,00 CZK",0 / 0 / 0,Poplatek
 120-20210812 00534919727,13. 8. 2021,"50 000,00 CZK",192021 / 558 / 0,"TANGUA, a.s. - Příchozí platba - Tangua - dar dle Darovací smlouvy"
 001-11082021 1602 602011 128531,11. 8. 2021,"20 000,00 CZK",590426 / 0 / 30220,KUBIŠ VLADIMÍR - Příchozí platba - dar na osvětu o důležitosti podpory domácího kapitálu (ne jen podpora práce v zahraničních montovnách)
 001-09082021 1602 602012 047141,9. 8. 2021,"-160 000,00 CZK",3888888 / 0 / 0,Odchozí platba - DAR volby Pardubický kraj
-120-20210806 PR00000266429,9. 8. 2021,"40 000,00 CZK",1572172 / 308 / 0,"DIAGMA-X RADIOLOGIE - Příchozí platba - dar - volby 2021, Pardubicky, Maca"
 001-09082021 1602 602022 051311,9. 8. 2021,"-66 000,00 CZK",3333333 / 0 / 0,Odchozí platba - DAR volby Karlovarský kraj
-001-06082021 1602 602002 669681,6. 8. 2021,"-50 000,00 CZK",670513 / 0 / 0,Odchozí platba
+120-20210806 PR00000266429,9. 8. 2021,"40 000,00 CZK",1572172 / 308 / 0,"DIAGMA-X RADIOLOGIE - Příchozí platba - dar - volby 2021, Pardubicky, Maca"
 001-06082021 1602 602002 759961,6. 8. 2021,"100 000,00 CZK",882021 / 0 / 0,BAJER PETR - Příchozí platba - DAR volby Pardubický kraj
-361-04082021 1086 086150 100402,4. 8. 2021,"16 000,00 CZK",27091965 / 558 / 0,"Jurča Petr - Příchozí platba - Dar Petr Jurča, pro Karlovarský kraj"
-361-04082021 1086 086149 500140,4. 8. 2021,"100,00 CZK",2021 / 0 / 0,Pavel Káčerek - Příchozí platba
+001-06082021 1602 602002 669681,6. 8. 2021,"-50 000,00 CZK",670513 / 0 / 0,Odchozí platba
 361-04082021 1086 086147 500136,4. 8. 2021,"100,00 CZK",2021 / 0 / 0,Pavel Káčerek - Příchozí platba
+361-04082021 1086 086149 500140,4. 8. 2021,"100,00 CZK",2021 / 0 / 0,Pavel Káčerek - Příchozí platba
+361-04082021 1086 086150 100402,4. 8. 2021,"16 000,00 CZK",27091965 / 558 / 0,"Jurča Petr - Příchozí platba - Dar Petr Jurča, pro Karlovarský kraj"
 001-03082021 1602 602027 200401,3. 8. 2021,"50 000,00 CZK",25212052 / 558 / 0,"RVS CHODOV, S.R.O. - Příchozí platba - RVS Chodov, Petr Jurča, dar pro Karlovarský kraj"
 000-31072021-060-060-001858859,31. 7. 2021,"-60,00 CZK",0 / 0 / 0,Poplatek
 000-31072021-060-060-001858860,31. 7. 2021,"-66,00 CZK",0 / 0 / 0,Poplatek

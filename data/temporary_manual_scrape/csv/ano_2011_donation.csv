@@ -1,41 +1,651 @@
 id,date,amount,symbols,notes
-001-24082021 1602 602020 678521,24. 8. 2021,"0,01 CZK",25085 / 0 / 25085,ŠÍP RADEK - Příchozí platba - Pojede zase letos mladej na Krym? Nebo to bude překvapení kam? Je fajn mít takového starostlivého taťku.
-120-20210824 T02AR0HC8GIO8,24. 8. 2021,"19 800,00 CZK",0 / 0 / 0,TOMAS VLACH - Příchozí platba - DAR VE PROSPĚCH KRAJSKÉ ORGANIZACE ÚSTECKÝ KRAJ
-120-20210824 0029538319091,24. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
-120-20210824 0029538309672,24. 8. 2021,"0,01 CZK",666 / 666 / 666,"Pelčík, Jaromír - Příchozí platba - dost bylo kradení Andreji, tepláky volají  -)))"
-120-20210824 0029538309418,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
-120-20210824 0029538308576,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
-120-20210824 0029538301333,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
-120-20210824 0029538301331,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
-120-20210824 T02AR0HC8EM0M,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
-120-20210824 T02AR0HC8ELPM,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
-120-20210824 1546513071,24. 8. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - premiér ČR je ulhanej STB udavač a dotační podvodník !
-120-20210824 1546500136,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
-120-20210824 1546499574,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
-120-20210823 PTS430876892,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
-120-20210823 PTS430875557,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210913 0029618106899,13. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210913 0029618073363,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210913 0029618070364,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210913 0029618047378,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210913 0029618047376,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210912 0029616800078,13. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210912 0029616757195,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210912 0029616753385,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210912 0029616725745,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210912 0029616725743,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210911 0029614807089,13. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210911 0029614783798,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210911 0029614781595,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210911 0029614766161,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210911 0029614766159,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210912 T02AR0HCO08JC,13. 9. 2021,"0,01 CZK",0 / 0 / 0,ALOIS STRATIL - Příchozí platba - PRYČ S BUREŠEM A JEHO SEBRANKOU
+120-20210912 T02AR0HCO08K7,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210913 T02AR0HCOKANF,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210911 T02AR0HCNIN6A,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210913 T02AR0HCOJRN5,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"ONDREJ SMID - Příchozí platba - ZDRAVOTNICTVÍ V ROZKLADU, ŽIVNOSTNÍCI NA DLAŽBĚ, A AGROFERT A BUREŠOVIC RODINA MLASKÁ. ČR 2021."
+120-20210913 T02AR0HCOKAFD,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210913 1602355922,13. 9. 2021,"0,01 CZK",666 / 666 / 0,Michal Kubíček - Příchozí platba - Babiš STB lhář a podvodník ! Andrej před soud !!!
+120-20210913 1602356538,13. 9. 2021,"0,01 CZK",666 / 666 / 666,Michal Kubíček - Příchozí platba - Babiš krade a lže ! Andrej před soud !
+120-20210913 1570309175,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210913 1570308917,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210913 1570308757,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210913 1570308631,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210913 1570308627,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210913 1570308428,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210913 1570303430,13. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - Babiš je ulhanej srab a dotační podvnodník !
+120-20210913 1570308322,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Martin Váczy - Příchozí platba - Trvaly prikaz, TES SE NA VOLBY!! POTÁHNEŠ!!"
+120-20210913 1570308323,13. 9. 2021,"0,05 CZK",0 / 0 / 0,"Martin Turek - Příchozí platba - NIKDO VÁS TU NECHCE !! SEBERTE SE, A TAHNĚTE DO HAJZLU !!"
+120-20210910 PTS437127120,13. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210910 PTS437125255,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210910 PTS437124649,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210910 PTS437124648,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210910 PTS437124646,13. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210910 PTS437124645,13. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210910 PTS437124644,13. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210910 PTS437123895,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210910 PTS437123894,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210910 PTS437123893,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210910 PTS437123892,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210910 PTS437123891,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210910 PTS437123865,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210910 PTS437123741,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210910 PTS437123740,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210910 PTS437123716,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210910 PTS437123714,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210910 PTS437123715,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210910 PTS437122305,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210910 PTS437122304,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210910 PTS437122303,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210913 PR00000178642,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,PRAUS PETR - Příchozí platba - Odveta za napadeni Ceske republiky
+120-20210913 PR00000178625,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,"PRAUS PETR - Příchozí platba - Lide umiraji, protoze Andrej Babis je predsedou vlady."
+120-20210910 00546141460,13. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+001-11092021 1602 602011 036591,13. 9. 2021,"0,01 CZK",25085 / 0 / 25085,"ŠÍP RADEK - Příchozí platba - Prodám mrazáke. Koupeno u Elektro Flegr. Nevyužité, ještě v záruce."
+361-11092021 1086 086148 501636,13. 9. 2021,"0,33 CZK",0 / 0 / 0,Libánský Jiří - Příchozí platba - Už se těším až bude podvodník předsoudem.  Zase bude v naší zemistejná spravedlnost pro všechny.
+001-11092021 1602 602019 517191,13. 9. 2021,"167,00 CZK",0 / 0 / 0,ČIAKOVÁ TAŤÁNA - Příchozí platba - Taťána Čiaková
+120-20210909 PTS436716284,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210910 1566479197,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+361-10092021 1086 086145 103270,10. 9. 2021,"600,00 CZK",26041978 / 0 / 0,Lenka Vedralová - Příchozí platba
+120-20210909 PTS436716875,10. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210909 PTS436717125,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210910 0029608939750,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210909 PTS436716705,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210909 PTS436716717,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210910 0029608947117,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210909 226043302,10. 9. 2021,"200 000,00 CZK",31051956 / 0 / 0,Stanislav Berkovec - Příchozí platba - platba S. Berkovec
+120-20210909 PTS436716663,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210909 PTS436716715,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+001-10092021 1602 602012 657163,10. 9. 2021,"-9,69 CZK",71443339 / 558 / 0,Odchozí platba - PYORD0000025564                    NEVYZADANE PLATBY - KB241          .                                  ODVOD DO STATNIHO ROZPOCTU
+120-20210909 PTS436716283,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210909 PTS436716876,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210910 1566451003,10. 9. 2021,"0,01 CZK",25085 / 666 / 25085,Michal Kubíček - Příchozí platba - Babiš degraduje ČR. Lže a brečí. Dotační podvodník a nejhorší premiér. Soud snad přijde brzy a trest bude spravedlivý. A přísný. STB mrdka.
+120-20210910 0029608878693,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+361-10092021 1086 086151 503962,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Městský soud v Praze se nás opět zastal proti neschopné vládě. Vojtěchu, Bureši, takto se proti epidemii opravdu nebojuje!"
+120-20210909 PTS436716877,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210909 PTS436717593,10. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210910 T02AR0HCMFN98,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210910 0029608878695,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210910 0029609003538,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Jindrová, Ester - Příchozí platba - příspěvek Burešovým, nejpostiženější rodině v ČR"
+120-20210909 PTS436716285,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210909 PTS436716713,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210909 PTS436716714,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210909 PTS436716874,10. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210910 T02AR0HCMHQ84,10. 9. 2021,"0,01 CZK",0 / 0 / 0,RADEK BRENDA - Příchozí platba - UNASITE JEN SYNY NEBO I TCHYNE?
+120-20210909 00545391277,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210909 PTS436716664,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210910 T02AR0HCMFO65,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210910 0029609016789,10. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210909 PTS436716665,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210909 PTS436716669,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210909 PTS436716670,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210909 PTS436716873,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210910 T02AR0HCMFN99,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210910 PR00000468456,10. 9. 2021,"12 817,00 CZK",24021965 / 0 / 0,ROZEHNAL JIRI - Příchozí platba
+120-20210909 PTS436716716,10. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210910 1566479100,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210910 T02AR0HCMFN96,10. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210908 PTS436346598,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210909 1564808761,9. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,"Michal Kubíček - Příchozí platba - Babiš popírá sám sebe. Lže, krade a dělá Česku ostudu"
+120-20210909 0029604446579,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210908 PTS436346612,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210909 1564878198,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210909 1564883242,9. 9. 2021,"0,01 CZK",666 / 0 / 0,"Milan Vilím - Příchozí platba - Tahni slovaku, penize si nech"
+120-20210909 1564802756,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"pavel schaffner - Příchozí platba - Pevně doufám že tvoje DEZA má dost kyanidu pro tebe Babiši , Hamáčku a Vaše rodiny když dokázala otrávit 40 tun ryb. Nic jiného si nezaslouž"
+120-20210908 00544913343,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210908 PTS436346548,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210909 0029604436208,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210908 PTS436346611,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210908 PTS436346773,9. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210908 PTS436346774,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210908 00545162306,9. 9. 2021,"200 000,00 CZK",10061952 / 0 / 0,Špičák Julius - Příchozí platba
+120-20210908 PTS436346533,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210908 PTS436346549,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210908 PTS436347361,9. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210908 PTS436346531,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210909 T02AR0HCKR9SO,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210908 PTS436346614,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210909 T02AR0HCKRA4M,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,ROMAN VEHOVSKY - Příchozí platba - VODA UŽ SE VAŘÍ!
+001-09092021 1602 602019 076261,9. 9. 2021,"-11 000 000,00 CZK",9 / 558 / 0,Odchozí platba - prevod mezi ucty
+361-09092021 1086 086146 503236,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Na nově opravené D1 popraskal beton. Pěkně to vedete, pěkně. Havlíčku, Bureši, demisi!"
+120-20210908 PTS436346027,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210908 PTS436346613,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210908 PTS436346775,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210909 0029604460439,9. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210908 PTS436346610,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210908 PTS436346772,9. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210909 T02AR0HCKR9N2,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210908 PTS436346025,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210908 PTS436346026,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210908 PTS436346771,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210908 PTS436346944,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210909 0029604436210,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210909 0029604447968,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+361-09092021 1086 086150 503057,9. 9. 2021,"11 900,00 CZK",104203 / 0 / 0,KOLÁŘOVÁ JITKA - Příchozí platba
+120-20210908 PTS436346532,9. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210909 1564882320,9. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210909 PR00000160099,9. 9. 2021,"12 300,00 CZK",16041952 / 0 / 0,BERANOVA JANA - Příchozí platba - Financni dar Hnuti ANO 2011
+120-20210907 PTS435958326,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210908 0029599959723,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210908 0029599961578,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210907 00544510018,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210907 PTS435958519,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210907 PTS435958752,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210908 1562964514,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210907 PTS435958478,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210908 1562964485,8. 9. 2021,"0,01 CZK",25085 / 0 / 666,Emil Lehký - Příchozí platba - Burešovi na přilepšení jídle v kriminále... ;)
+120-20210908 0029599948580,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210907 PTS435958477,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210907 PTS435958934,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210908 T02AR0HCJPB41,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210907 PTS435958526,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210907 PTS435958753,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210907 PTS435959463,8. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210908 T02AR0HCJPAQM,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+000-08092021-005-005-001178851,8. 9. 2021,"0,01 CZK",0 / 0 / 0,ČEHOVSKÝ JAROSLAV - Trvalý příkaz
+120-20210907 PTS435958523,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210907 PTS435958490,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210907 PTS435958749,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210907 PTS435958750,8. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210908 0029599948578,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+361-08092021 1086 086147 102931,8. 9. 2021,"19 800,00 CZK",25011969 / 0 / 0,JURA FRANTIŠEK - Příchozí platba
+120-20210908 1562957080,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210907 PTS435958476,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210907 PTS435958751,8. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210907 PTS435958324,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210907 PTS435958522,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210907 PTS435958524,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210907 PTS435958525,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210908 PTS436409588,8. 9. 2021,"0,01 CZK",0 / 0 / 0,"Patrik Polcar - Příchozí platba - Pro Zlodeje, mazej zpet na Slovensko."
+120-20210907 PTS435958325,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210907 PTS435958489,8. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210908 1562964468,8. 9. 2021,"0,01 CZK",25085 / 0 / 666,Emil Lehký - Příchozí platba - Pro Bureše na tepláke...  P
+120-20210908 1562938300,8. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - Bureš ničí budoucnost ČR ! Ulhanej prosoěchářskej zloděj
+120-20210908 0029599977619,8. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210907 0029595404005,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210906 PTS435488235,7. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210906 PTS435488238,7. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210907 0029595427971,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210907 T02AR0HCIOCI3,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210906 PTS435485523,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210906 PTS435487442,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210906 PTS435485525,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+361-07092021 1086 086148 101751,7. 9. 2021,"0,01 CZK",0 / 0 / 0,Ctibor Pavlů - Příchozí platba - Pro xindli co se spolčili s eSTéBáckou lůzou.
+120-20210906 PTS435487434,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210907 T02AR0HCIOC9A,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210906 PTS435488756,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+001-07092021 1602 602002 949551,7. 9. 2021,"-1 000 000,00 CZK",9 / 558 / 0,Odchozí platba - prevod mezi ucty
+120-20210906 PTS435488239,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210906 PTS435485521,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210906 PTS435487188,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210906 PTS435489838,7. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210907 1562582565,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210906 00543975474,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210907 0029595429517,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+361-07092021 1086 086144 501769,7. 9. 2021,"7 400,00 CZK",25021977 / 0 / 0,Mgr. et Mgr.Šuma Mir - Příchozí platba - Finanční dar na provozní činnost obdarovaného ve prospěch krajské organizace Plzeňský kraj
+120-20210906 PTS435487131,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210907 0029595442817,7. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210906 PTS435487133,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210906 PTS435487436,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210906 PTS435488242,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210906 S64943122,7. 9. 2021,"0,01 CZK",666 / 8 / 666,DRS PETR - Příchozí platba - Na cestu do Krymu!
+120-20210906 PTS435487438,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210906 PTS435488233,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210907 1562581484,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210906 PTS435487190,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210907 0029595404007,7. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210906 PTS435487400,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210906 PTS435487440,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210906 PTS435487129,7. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210907 1562567517,7. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - premiér ČR je ulhanej STB udavač a dotační podvodník !
+120-20210903 PTS434760157,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210903 PTS434760444,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210903 PTS434760452,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210903 PTS434760686,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210904 0029586307706,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210905 0029587716207,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210906 0029588662007,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210903 PTS434760449,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210906 1562374206,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210906 1562373366,6. 9. 2021,"0,05 CZK",0 / 0 / 0,"Martin Turek - Příchozí platba - NIKDO VÁS TU NECHCE !! SEBERTE SE, A TAHNĚTE DO HAJZLU !!"
+120-20210906 T02AR0HCHL88C,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210905 T02AR0HCH4216,6. 9. 2021,"0,01 CZK",0 / 0 / 0,ALOIS STRATIL - Příchozí platba - PRYČ S BUREŠEM A JEHO SEBRANKOU
+361-06092021 1086 086148 506226,6. 9. 2021,"55 000,00 CZK",10121967 / 0 / 0,Václav Bílek - Příchozí platba - Dar
+120-20210906 PR00000124614,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,PRAUS PETR - Příchozí platba - Odveta za napadeni Ceske republiky
+120-20210903 PTS434760451,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210903 PTS434760581,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210903 PTS434761095,6. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210906 0029588671673,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210903 PTS434760158,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210903 PTS434760413,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210903 PTS434760580,6. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210904 0029586334859,6. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+361-06092021 1086 086146 108864,6. 9. 2021,"11 000,00 CZK",27071987 / 0 / 104020,Mgr.Karas Milan - Příchozí platba - dar Milan Karas
+361-05092021 1086 086146 503445,6. 9. 2021,"1 400,00 CZK",20081968 / 0 / 0,BRUNZOVÁ LENKA - Příchozí platba - dar ANO
+120-20210906 PR00000141496,6. 9. 2021,"1,00 CZK",666 / 508 / 0,"HONDL MICHAL - Příchozí platba - Prispevek vudci HnitiANO na kouli- ne sklenenou do ruky, ale zeleznou na nohu...kdo lze ten i krade"
+120-20210903 PTS434760159,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210903 PTS434760448,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210906 1562374601,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210906 T02AR0HCHL40E,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"ONDREJ SMID - Příchozí platba - ZDRAVOTNICTVÍ V ROZKLADU, ŽIVNOSTNÍCI NA DLAŽBĚ, A AGROFERT A BUREŠOVIC RODINA MLASKÁ. ČR 2021."
+001-04092021 1602 602006 362401,6. 9. 2021,"0,01 CZK",25085 / 0 / 25085,"ŠÍP RADEK - Příchozí platba - Prodám mrazáke. Koupeno u Elektro Flegr. Nevyužité, nevhodný dar."
+120-20210903 PTS434760404,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210904 T02AR0HCGNSD6,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210906 T02AR0HCHL8JB,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210904 0029586318898,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210904 0029586320650,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210905 0029587713141,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210906 0029588662005,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210906 1562370460,6. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - Babiš je ulhanej srab a dotační podvnodník !
+120-20210903 PTS434760402,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210903 PTS434760412,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210903 PTS434760582,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210906 1562374375,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210905 0029587691126,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210906 0029588685700,6. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210903 PTS434760579,6. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210906 1562374487,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210906 1562374313,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210906 1562374325,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210905 T02AR0HCH421H,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210906 0029588672939,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+361-06092021 1086 086143 506093,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Bureši, Bureši, proč pořád lžeš? Státní dluh přece nejvýše vyšroubovala tvoje neschopná vláda! Dobře víme, že kdo lže, ten taky krade!"
+120-20210903 PTS434760403,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210903 PTS434760450,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210906 1562373361,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Martin Váczy - Příchozí platba - Trvaly prikaz, TES SE NA VOLBY!! POTÁHNEŠ!!"
+120-20210904 0029586307704,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210905 0029587750562,6. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210903 00543414601,6. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210903 PTS434760578,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210905 0029587691124,6. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210902 PTS434402715,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210902 PTS434402717,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210903 1559245770,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210903 0029581895263,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210903 0029581923761,3. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210902 PTS434402460,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210902 PTS434402763,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210902 PTS434402768,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210902 PTS434402769,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210902 PTS434402770,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210903 1559245813,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210902 PTS434402459,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210902 PTS434402716,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210902 PTS434402767,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210903 T02AR0HCG272S,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210902 00543035319,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210902 PTS434402458,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210902 PTS434402766,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210903 1559233306,3. 9. 2021,"0,01 CZK",25085 / 666 / 25085,Michal Kubíček - Příchozí platba - Babiš degraduje ČR. Lže a brečí. Dotační podvodník a nejhorší premiér. Soud snad přijde brzy a trest bude spravedlivý. A přísný. STB mrdka.
+120-20210903 T02AR0HCGB73H,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"RADEK BRENDA - Příchozí platba - KDYZ MA ZLODEJ A STB ANDREJ O SYNA STRACH, PROC NA NEJ ROKY KASLE, NECHA HO UNASET A ZNEUZIVA K TOMU PSYCHIATRII. TO NENI OTEC, TO JE ZRUDA"
+001-03092021 1602 602013 120451,3. 9. 2021,"-2 000 000,00 CZK",9 / 558 / 0,Odchozí platba - prevod mezi ucty
+120-20210903 0029581920629,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Jindrová, Ester - Příchozí platba - příspěvek Burešovým, nejpostiženější rodině v ČR"
+361-03092021 1086 086151 101636,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Uječený StBák Bureš bude lhát a lhát až do roztrhání těla! Best in Covid před rokem, best in Covid letos. A co těch 30000 mrtvých mezi tím?"
+120-20210902 PTS434402862,3. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210902 PTS434403390,3. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210903 211492360,3. 9. 2021,"6,66 CZK",0 / 0 / 0,Petr Kos - Příchozí platba - panu Burešovi pro jeho kamarádku Protopopovou abys znás mohla udělat blázny jako z vašeho syna Andreje jelikož nás je víc bude to dražší
+120-20210902 PTS434402723,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210903 T02AR0HCG272R,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210903 T02AR0HCG27J9,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210903 0029581895261,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210903 0029581906635,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210903 0029581908468,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+361-03092021 1086 086143 500507,3. 9. 2021,"0,01 CZK",0 / 0 / 0,Ctibor Pavlů - Příchozí platba - Pro xindli co se spolčili s eSTéBáckou lůzou.
+120-20210902 PTS434402861,3. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210902 PTS434402860,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210902 PTS434402863,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210902 PTS434402864,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+001-03092021 1602 602034 129913,3. 9. 2021,"-1,10 CZK",71443339 / 558 / 0,Odchozí platba - PYORD0000025432                    NEVYZADANE PLATBY - KB241          .                                  ODVOD DO STATNIHO ROZPOCTU
+120-20210902 PTS434402724,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210902 PTS434403009,3. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210903 T02AR0HCG272Q,3. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210901 PTS433951203,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210901 PTS433952351,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210902 1557296200,2. 9. 2021,"0,01 CZK",666 / 0 / 0,"Milan Vilím - Příchozí platba - Tahni slovaku, penize si nech"
+120-20210901 00542602521,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210901 PTS433949624,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210901 PTS433949626,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210901 PTS433951569,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210901 PTS433952349,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210901 PTS433951256,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210901 PTS433953152,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210901 PTS433949628,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210901 PTS433951254,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210901 PTS433951518,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210901 PTS433951574,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210902 1557287294,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"pavel schaffner - Příchozí platba - Pevně doufám že tvoje DEZA má dost kyanidu pro tebe Babiši , Hamáčku a Vaše rodiny když dokázala otrávit 40 tun ryb. Nic jiného si nezaslouž"
+120-20210902 1557295008,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+361-02092021 1086 086147 504522,2. 9. 2021,"0,01 CZK",0 / 0 / 0,Daniel Valášek - Příchozí platba - Pal do piče
+120-20210901 PTS433951571,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210901 PTS433952343,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210901 PTS433951207,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210901 PTS433951573,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210901 PTS433952345,2. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210901 00542829161,2. 9. 2021,"64 400,00 CZK",5610192094 / 558 / 0,Juříček Pavel - Příchozí platba - financni dar
+120-20210902 0029577659795,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210902 0029577675116,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210901 PTS433951577,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210901 PTS433955568,2. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210901 PTS434378118,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Václav Bumba - Příchozí platba - Nechci, aby naší zemi vedl STBák, zloděj, lhář a člověk zodpovědný za smrt tisíců lidí, který přivedl komunisty k opět moci."
+120-20210902 1557288287,2. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,"Michal Kubíček - Příchozí platba - Babiš popírá sám sebe. Lže, krade a dělá Česku ostudu"
+120-20210902 0029577659793,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210902 0029577692383,2. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+361-02092021 1086 086151 100693,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Včerejší TV debata potvrdila, jak strašně nevychovaný člověk je ten StBák Bureš. Ostuda pro celou zemi!"
+120-20210901 PTS433951205,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210901 PTS433952347,2. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210902 T02AR0HCEQDB2,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210902 1557295876,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210902 0029577673255,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210902 T02AR0HCEQDG1,2. 9. 2021,"0,01 CZK",25085 / 0 / 0,ROMAN VEHOVSKY - Příchozí platba - VODA UŽ SE VAŘÍ!
+120-20210902 T02AR0HCEQDFJ,2. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210831 PTS433553540,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210831 PTS433553575,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210831 PTS433553630,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+000-01092021-005-005-001278551,1. 9. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+120-20210831 PTS433553593,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210831 PTS433553666,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210901 1555368970,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210901 1555379620,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210901 0029568589247,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210831 00542184371,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210831 PTS433553597,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210831 PTS433553632,1. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210831 PTS433553743,1. 9. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210901 1555379315,1. 9. 2021,"0,01 CZK",25085 / 0 / 666,Emil Lehký - Příchozí platba - Pro Bureše na tepláke...  P
+120-20210901 0029568996287,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210831 PTS433553578,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210831 PTS433553633,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210831 PTS433553596,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210831 PTS433553581,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210831 PTS433553598,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210831 PTS433553634,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210901 T02AR0HCDNF7B,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210901 0029568589255,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+001-01092021 1602 602021 322921,1. 9. 2021,"-200,00 CZK",102099 / 558 / 0,Odchozí platba - Král Pavel                         chybný bankovní účet
+120-20210831 PTS433553577,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210831 PTS433553631,1. 9. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210831 PTS433553541,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210901 1555332177,1. 9. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - Bureš ničí budoucnost ČR ! Ulhanej prosoěchářskej zloděj
+120-20210901 T02AR0HCDNFLR,1. 9. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210901 0029569323715,1. 9. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210831 PTS433553539,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210831 PTS433553582,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210831 PTS433553595,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210831 PTS433553599,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210901 1555379331,1. 9. 2021,"0,01 CZK",25085 / 0 / 666,Emil Lehký - Příchozí platba - Burešovi na přilepšení jídle v kriminále... ;)
+120-20210901 0029568968812,1. 9. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+000-01092021-005-005-001352321,1. 9. 2021,"0,01 CZK",0 / 0 / 0,ČEHOVSKÝ JAROSLAV - Trvalý příkaz
+120-20210831 1555017594,31. 8. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - premiér ČR je ulhanej STB udavač a dotační podvodník !
+120-20210831 PTS433688495,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Daniel Hauzner - Příchozí platba - Jsem lhář a proto zde potvrzují, žepan Andrej žádný střet zájmů nemá"
+120-20210830 00541788160,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210831 0029561991780,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+001-31082021 1602 602023 688913,31. 8. 2021,"-0,95 CZK",71443339 / 558 / 0,Odchozí platba - PYORD0000025425                    NEVYZADANE PLATBY - KB241          .                                  ODVOD DO STATNIHO ROZPOCTU
+120-20210830 PTS433126436,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210830 PTS433126472,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210830 PTS433126671,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210830 PTS433126418,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210830 PTS433126468,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210831 1555025145,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210831 0029561993218,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+001-31082021 1602 602013 721261,31. 8. 2021,"0,01 CZK",25085 / 0 / 25085,ŠÍP RADEK - Příchozí platba - Pojede zase letos mladej na Krym? Nebo to bude překvapení kam? Je fajn mít takového starostlivého taťku.
+001-31082021 1602 602015 834131,31. 8. 2021,"10 000,00 CZK",5101973 / 308 / 101351,LOŠŤÁK JAROMÍR - Příchozí platba - Lošťák Jaromír
+120-20210830 PTS433126150,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210830 PTS433126667,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+361-31082021 1086 086144 100079,31. 8. 2021,"800,00 CZK",5041973 / 0 / 0,Lenka Breitkopfová - Příchozí platba - DAR
+120-20210830 PTS433126957,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210830 PTS433126419,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210830 PTS433126669,31. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210830 PTS433127645,31. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+361-31082021 1086 086149 500266,31. 8. 2021,"3 135,00 CZK",23041958 / 0 / 102260,Ing.Nosál Luboš - Příchozí platba - DAR ANO
+001-31082021 1602 602007 889551,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"KUS FRANTIŠEK - Příchozí platba - Aby absurdita vládnutí Bureše a jeho cvičených opic byla naplněna vrchovatě, přispívám, jako poctivý podnikatel, největšímu zloději a lháři."
+120-20210830 PTS433126417,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210830 PTS433126463,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210830 PTS433126469,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210830 PTS433126670,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+001-31082021 1602 602008 516711,31. 8. 2021,"800,00 CZK",26111969 / 0 / 0,ZECHOVSKÝ MARTIN - Příchozí platba
+120-20210830 PTS433126151,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210830 PTS433126668,31. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210831 0029561996249,31. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210830 PTS433126152,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210830 PTS433126470,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+361-31082021 1086 086145 501300,31. 8. 2021,"7 286,00 CZK",44760329 / 0 / 0,"PORTES, FRANTIŠEK - Příchozí platba - Darovací smlouva politické hnutí ANO 2011"
+120-20210831 0029561991782,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210830 PTS433126437,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210830 PTS433126471,31. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210831 1555025543,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210831 T02AR0HCCN80H,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210831 T02AR0HCCN83L,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210831 0029561993488,31. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+000-31082021-005-005-001029161,31. 8. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+120-20210827 PTS432446036,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210827 PTS432446486,30. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210830 1552902815,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210828 0029554241411,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210827 PTS432446126,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210827 PTS432446129,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210827 PTS432446254,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210829 0029556046891,30. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210830 0029556789659,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210827 PTS432446305,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210830 1552900317,30. 8. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - Babiš je ulhanej srab a dotační podvnodník !
+120-20210828 0029554250357,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210830 0029556784128,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210827 00541375175,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210830 PR00000107969,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,PRAUS PETR - Příchozí platba - Odveta za napadeni Ceske republiky
+120-20210827 PTS432446035,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210827 PTS432446105,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210827 PTS432446128,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210827 PTS432446258,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210830 1552902652,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210829 0029556038499,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210830 1552902698,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210830 1552902747,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210827 PTS432446099,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210830 1552902654,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210830 T02AR0HCBR6QJ,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210828 0029554241409,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210828 0029554260067,30. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210829 0029556038497,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210830 0029556784130,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210830 0029556794895,30. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+361-30082021 1086 086145 509337,30. 8. 2021,"31 415,00 CZK",4041973 / 0 / 0,Petr Fišer - Příchozí platba
+000-30082021-005-005-001069751,30. 8. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+120-20210827 PTS432446101,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210827 PTS432446124,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210827 PTS432446257,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210830 1552902241,30. 8. 2021,"0,05 CZK",0 / 0 / 0,"Martin Turek - Příchozí platba - NIKDO VÁS TU NECHCE !! SEBERTE SE, A TAHNĚTE DO HAJZLU !!"
+120-20210830 T02AR0HCBR6M3,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210828 T02AR0HCB7K4K,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210828 0029554249147,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210827 PTS432446255,30. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210830 1552902254,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Martin Váczy - Příchozí platba - Trvaly prikaz, TES SE NA VOLBY!! POTÁHNEŠ!!"
+120-20210830 T02AR0HCBR4AD,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"ONDREJ SMID - Příchozí platba - ZDRAVOTNICTVÍ V ROZKLADU, ŽIVNOSTNÍCI NA DLAŽBĚ, A AGROFERT A BUREŠOVIC RODINA MLASKÁ. ČR 2021."
+120-20210829 0029556042554,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210827 PTS432446127,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+361-30082021 1086 086151 505177,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Evropská komise píše ministrům za ANO: Přestaňte krást pro premiéra, nebo zastavíme všechny dotace. Evropská komise, díky! Bureši,fuj!"
+120-20210829 T02AR0HCBEQ38,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210830 0029556788810,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210827 PTS432446034,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210827 PTS432446100,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210827 PTS432446130,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210830 1552902600,30. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210829 0029556042087,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210830 T02AR0HCC1BHG,30. 8. 2021,"8 000,00 CZK",4081955 / 0 / 0,JAROSLAVA KASPAROVA - Příchozí platba - JAROSLAVA KAŠPAROVÁ FINANČNÍ DAR
+361-28082021 1086 086144 502322,30. 8. 2021,"3 400,00 CZK",0 / 0 / 0,"Kvapil, Bohdan - Příchozí platba"
+120-20210827 PTS432446104,30. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210827 PTS432446256,30. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210829 T02AR0HCBEQ37,30. 8. 2021,"0,01 CZK",0 / 0 / 0,ALOIS STRATIL - Příchozí platba - PRYČ S BUREŠEM A JEHO SEBRANKOU
+001-30082021 1602 602007 428861,30. 8. 2021,"6 765,00 CZK",101686 / 0 / 0,SARNOVSKÝ TOMÁŠ - Příchozí platba - sarnovsky funkc. dar ANO
+001-27082021 1602 602032 907263,27. 8. 2021,"-9,40 CZK",71443339 / 558 / 0,Odchozí platba - PYORD0000025401                    NEVYZADANE PLATBY - KB241          .                                  ODVOD DO STATNIHO ROZPOCTU
+361-27082021 1086 086150 102877,27. 8. 2021,"7 100,00 CZK",1509250 / 0 / 0,"Klímková, Radka - Příchozí platba - Radka Čejková"
+120-20210826 PTS432077343,27. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210826 PTS432077345,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210827 T02AR0HCAJOG4,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210827 0029550768517,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210826 PTS432076985,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210826 PTS432077250,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210826 PTS432077179,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210827 0029550761904,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210827 0029550769206,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210827 0029550775931,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Jindrová, Ester - Příchozí platba - příspěvek Burešovým, nejpostiženější rodině v ČR"
+120-20210826 PTS432076983,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210826 PTS432077251,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210826 PTS432077252,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210827 T02AR0HCAJOG3,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210827 T02AR0HCAJOPK,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210827 0029550761906,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210827 1549973436,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210827 1549973494,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210826 00541202221,27. 8. 2021,"200,00 CZK",102099 / 0 / 0,KRÁL PAVEL - Příchozí platba - Kral Pavel členský přísp.
+120-20210826 PTS432077249,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210827 T02AR0HCAJOG5,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210827 0029550777511,27. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210826 PTS432077190,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210827 1549964502,27. 8. 2021,"0,01 CZK",25085 / 666 / 25085,Michal Kubíček - Příchozí platba - Babiš degraduje ČR. Lže a brečí. Dotační podvodník a nejhorší premiér. Soud snad přijde brzy a trest bude spravedlivý. A přísný. STB mrdka.
+000-27082021-005-005-001184081,27. 8. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+361-27082021 1086 086148 101867,27. 8. 2021,"1 400,00 CZK",18081950 / 0 / 0,Mgr.Pátek Pavel - Příchozí platba
+120-20210826 PTS432077181,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210826 PTS432077180,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210826 PTS432077189,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210826 PTS432077238,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210826 PTS432077342,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210826 PTS432077346,27. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210826 PTS432077422,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210826 PTS432077797,27. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210826 PTS432076984,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210826 00541029980,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210826 PTS432077248,27. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210826 PTS432077344,27. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210825 PTS431730248,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210825 PTS431730279,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210826 0029546931877,26. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210825 PTS431731270,26. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210826 T02AR0HC9QHPD,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210826 0029546922316,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+000-26082021-005-005-001080791,26. 8. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+120-20210825 PTS431730112,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210826 1548559969,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"pavel schaffner - Příchozí platba - Pevně doufám že tvoje DEZA má dost kyanidu pro tebe Babiši , Hamáčku a Vaše rodiny když dokázala otrávit 40 tun ryb. Nic jiného si nezaslouž"
+120-20210826 1548567769,26. 8. 2021,"0,01 CZK",25085 / 25085 / 25085,"Michal Kubíček - Příchozí platba - Babiš popírá sám sebe. Lže, krade a dělá Česku ostudu"
+120-20210826 0029546915664,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210826 T02AR0HCA1N1A,26. 8. 2021,"0,01 CZK",0 / 0 / 0,RADEK BRENDA - Příchozí platba - BABIS MEL SCHENGEN I ZA TOTALITY ) A I PRESTO UDAVAL SVOJE KOLEGY. A DNES? UNOSY VLASTNICH DETI
+120-20210825 PTS431730110,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210826 1548559407,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210825 PTS431730476,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210826 1548559873,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210825 PTS431730474,26. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210826 0029546923509,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+120-20210825 00540598055,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210825 PTS431730111,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210825 PTS431730475,26. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210826 1548559970,26. 8. 2021,"0,01 CZK",666 / 0 / 0,"Milan Vilím - Příchozí platba - Tahni slovaku, penize si nech"
+120-20210825 PTS431730130,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210825 PTS431730278,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210825 PTS431730635,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210826 0029546915666,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210825 PTS431729715,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210825 PTS431730276,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210826 T02AR0HC9QHKM,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+361-26082021 1086 086144 104398,26. 8. 2021,"0,01 CZK",0 / 0 / 0,Josef Sadílek - Příchozí platba - Ať StBák Bureš s mým hlasem v žádných volbách NEPOČÍTÁ!
+120-20210825 PTS431730280,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210825 PTS431729713,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210825 PTS431730277,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210825 PTS431730477,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210826 T02AR0HC9QHQF,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,ROMAN VEHOVSKY - Příchozí platba - VODA UŽ SE VAŘÍ!
+120-20210825 PTS431729714,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210825 PTS431730131,26. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210825 PTS431730473,26. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+001-26082021 1602 602029 475961,26. 8. 2021,"200 000,00 CZK",70151 / 0 / 0,VÁLKOVÁ HELENA - Příchozí platba - dar na volebni činnost pro volby do PS Parlamentu ČR v roce 2021
+120-20210824 PTS431301505,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
+120-20210825 1546776783,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210825 CPOBNMKB7ZJ73,25. 8. 2021,"100 000,00 CZK",19101954 / 0 / 0,Prof.MUDr.Adámková V - Příchozí platba - Adámková
+120-20210824 PTS431301187,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210824 PTS431301189,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210825 1546786536,25. 8. 2021,"0,01 CZK",25085 / 0 / 666,Emil Lehký - Příchozí platba - Pro Bureše na tepláke...  P
+120-20210824 PTS431301338,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210824 PTS431301421,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210825 0029542548181,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210825 0029542548183,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210824 PTS431301420,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+000-25082021-005-005-001261051,25. 8. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+361-25082021 1086 086149 500169,25. 8. 2021,"0,10 CZK",25085 / 0 / 0,"Gründler Jakub - Příchozí platba - Babiši alias Bureši, jsi STBáckej ZLODĚJ.  Zasloužil bys to co Nicolae  Ceausescu, jseš totiž stejnej zmrd.  Celý KORUPČNÍ hnutí ANO zrušit."
+120-20210824 PTS431301424,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210824 PTS431301503,25. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210825 1546786658,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210824 PTS431301188,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
+120-20210824 PTS431301422,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210824 PTS431301501,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210824 PTS431301589,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210825 0029542595222,25. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210824 PTS431301423,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
+120-20210825 1546809891,25. 8. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - Bureš ničí budoucnost ČR ! Ulhanej prosoěchářskej zloděj
+120-20210824 PTS431301362,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
+120-20210824 PTS431301504,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210824 PTS431301949,25. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
+120-20210825 0029542571121,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+000-25082021-005-005-001329681,25. 8. 2021,"0,01 CZK",0 / 0 / 0,ČEHOVSKÝ JAROSLAV - Trvalý příkaz
+120-20210824 PTS431301337,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210824 PTS431301361,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
+120-20210824 PTS431301502,25. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
+120-20210825 1546786669,25. 8. 2021,"0,01 CZK",25085 / 0 / 666,Emil Lehký - Příchozí platba - Burešovi na přilepšení jídle v kriminále... ;)
+120-20210825 T02AR0HC96RE8,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+120-20210825 T02AR0HC96RL3,25. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+361-25082021 1086 086151 103316,25. 8. 2021,"18 000,00 CZK",12051959 / 308 / 0,Wenzl Milan - Příchozí platba - dar Hnutí ANO - Darovací smlouva z 12.8.2021
+120-20210825 0029542567425,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
+120-20210824 PTS431301412,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210824 00540158549,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
+120-20210824 PTS431301336,25. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
+120-20210823 00540006005,24. 8. 2021,"54 400,00 CZK",16031983 / 0 / 0,Kohoutek Tomáš - Příchozí platba - finanční dar
+120-20210823 PTS430873800,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
 120-20210823 PTS430875184,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Když estébáka Bureše nefackuje hanba, budou to muset udělat občané."
-120-20210823 PTS430875183,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
-120-20210823 PTS430875182,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
+120-20210824 1546499574,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
 120-20210823 PTS430875180,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman"
+120-20210823 PTS430875182,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.
 120-20210823 PTS430875181,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Miroslav Reich - Příchozí platba - Na psychiatrické vyšetření a léčbu nejprolhanějšího estébáka Bureše.
-120-20210823 PTS430874857,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210823 PTS430874504,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
 120-20210823 PTS430874856,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii
-120-20210823 PTS430874854,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
-120-20210823 PTS430874855,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
-120-20210823 PTS430874853,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
-120-20210823 PTS430874819,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210823 PTS430875557,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Bureši ty až budeš chtít někdy mluvit pravdu tak ani nebudeš vědět jakse to dělá
+120-20210824 0029538319091,24. 8. 2021,"0,01 CZK",2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!"
+120-20210823 PTS430874857,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus"
+120-20210823 PTS430875183,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Miroslav Reich - Příchozí platba - Estébáci nepatří do vlády, ale do hnědých kontejnerů na biologický odpad."
+120-20210824 1546500136,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují."
+120-20210824 1546513071,24. 8. 2021,"0,01 CZK",25085 / 25085 / 25085,Michal Kubíček - Příchozí platba - premiér ČR je ulhanej STB udavač a dotační podvodník !
+120-20210824 0029538309672,24. 8. 2021,"0,01 CZK",666 / 666 / 666,"Pelčík, Jaromír - Příchozí platba - dost bylo kradení Andreji, tepláky volají  -)))"
+120-20210823 1580775764,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Ctibor Pavlů - Příchozí platba - Pro xindli co se spolčili s eSTéBáckou lůzou.
 120-20210823 PTS430874506,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší
+120-20210823 PTS430874853,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
+120-20210824 T02AR0HC8ELPM,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
+361-24082021 1086 086145 504137,24. 8. 2021,"6,66 CZK",0 / 0 / 0,"Mgr.Vorel Jiří - Příchozí platba - Ty StBácká zlodějská gaunerská hnido, posílám ti peníze na tepláky. A kup si nějaký fajnový, aby si hošové v krimu užili."
+120-20210824 T02AR0HC8EM0M,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!"
+120-20210824 0029538301333,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu,po volbách trvalý příkaz zruším.(posílám denně)"
+120-20210823 PTS430873801,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
+120-20210824 0029538309418,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!"
+001-24082021 1602 602020 678521,24. 8. 2021,"0,01 CZK",25085 / 0 / 25085,ŠÍP RADEK - Příchozí platba - Pojede zase letos mladej na Krym? Nebo to bude překvapení kam? Je fajn mít takového starostlivého taťku.
+000-24082021-005-005-001086891,24. 8. 2021,"0,01 CZK",0 / 0 / 0,KUS FRANTIŠEK - Trvalý příkaz
+120-20210823 PTS430873799,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210823 PTS430876892,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..
 120-20210823 PTS430874555,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii
 120-20210823 PTS430874556,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama
-120-20210823 PTS430874505,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
-120-20210823 PTS430874504,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku
-120-20210823 PTS430873801,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Vrať co jsi nakradl a táhni odkud jsi přišel
-120-20210823 PTS430873800,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?"
-120-20210823 PTS430873799,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Bureš, v pekle se smažit budeš.. Snad brzo"
+120-20210823 PTS430874819,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny
+120-20210823 PTS430874854,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?"
+120-20210824 0029538301331,24. 8. 2021,"0,01 CZK",0 / 0 / 0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu,po volbách trvalý příkaz zruším."
+120-20210824 T02AR0HC8GIO8,24. 8. 2021,"19 800,00 CZK",0 / 0 / 0,TOMAS VLACH - Příchozí platba - DAR VE PROSPĚCH KRAJSKÉ ORGANIZACE ÚSTECKÝ KRAJ
 120-20210823 00539717207,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta
-120-20210823 00540006005,24. 8. 2021,"54 400,00 CZK",16031983 / 0 / 0,Kohoutek Tomáš - Příchozí platba - finanční dar
-120-20210823 1580775764,24. 8. 2021,"0,01 CZK",0 / 0 / 0,Ctibor Pavlů - Příchozí platba - Pro xindli co se spolčili s eSTéBáckou lůzou.
+120-20210823 PTS430874505,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Na tepláky, už se ti to blíží šmejde"
+120-20210823 PTS430874855,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,Jan Libosvár - Příchozí platba - NE 2021
+120-20210824 0029538308576,24. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Výmola, Petr - Příchozí platba - Nejneschopnějšímu manažerovi v ČR a jeho bandě poslušných surikat #bestincovid"
 120-20210820 PTS430095574,23. 8. 2021,"0,01 CZK",25085 / 0 / 0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek"
 120-20210823 T02AR0HC7L26K,23. 8. 2021,"0,01 CZK",0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?"
 361-23082021 1086 086145 107874,23. 8. 2021,"0,33 CZK",25085 / 0 / 0,Libánský Jiří - Příchozí platba - NA KAŽDOU SVINI SE UŽ VODA VAŘÍ. Povolbách ani prezident neudrží dlouho podvodníka u moci. Žádný stromneroste do nebe.

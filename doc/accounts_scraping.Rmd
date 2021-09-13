@@ -54,6 +54,9 @@ Monitorované subjekty a jejich transparentní účty (https://registrace.udhpsh
 ```{r}
 library(rvest)
 library(tidyverse)
+library(jsonlite)
+library(httr)
+library(data.table)
 ```
 
 # SCRAPING FIO ÚČTŮ
@@ -158,8 +161,7 @@ scrape_fio_summary(parties_accounts_links = links, parties_names = names)
 # WORK IN PROGRESS: SCRAPING KB ÚČTŮ
 
 ```{r}
-library(jsonlite)
-library(httr)
+
 
 page <- read_html("https://www.kb.cz/cs/transparentni-ucty/4090453")
 
@@ -249,19 +251,25 @@ webElem <- remDr$findElement(using = "css", ".pdp-pagination-next a")
 
 # # USING A FOR LOOP FOR KB with a defined end
 
-full_df <- tibble()
+new_df <- tibble()
 full_list <- list()
 account_id <- "1153902720297"
 
-for (i in seq.int(from = 0, to = 250, by = 50)) {
+for (i in seq.int(from = 0, to = 50, by = 50)) {
   
-full_list[[as.character(i)]] <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/", account_id, "?skip=", i)), as = "text"))[[2]]
+full_list[[as.character(i)]] <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/", account_id, "?skip=", i)), as = "text"))[[3]]
   
-  full_df <- bind_rows(full_list) %>% distinct()
-
   Sys.sleep(runif(1, min = 0.1, max = 0.2))
 
 }
+
+# Collapse list to dataframe 
+
+new_df <- bind_rows(full_list) %>% distinct()
+
+old_df <- readRDS("../data/temporary_manual_scrape/soukromnici_donation.rds")
+
+full_df <- bind_rows(new_df, old_df) %>% distinct()
 
 
 # USING A WHILE STATEMENT FOR KB with an undefined end
@@ -273,7 +281,7 @@ account_id <- "1153902720297"
 
 while (load_more == TRUE) {
   
-full_list[[as.character(i)]] <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/", account_id, "?skip=", i)), as = "text"))[[2]]
+full_list[[as.character(i)]] <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/", account_id, "?skip=", i)), as = "text"))[[3]]
 
 load_more <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsapi/transactions/", account_id, "?skip=", i)), as = "text"))[[1]]
   
@@ -284,14 +292,21 @@ load_more <- fromJSON(content(GET(url = paste0("https://www.kb.cz/transparentsap
 full_df <- bind_rows(full_list) %>% distinct()
 
 
+# Save to RDS without modifications, save to CSV with slight modifications for better readability in Excel
 
-saveRDS(full_df, "../data/temporary_manual_scrape/ano_2011_donation.rds")
+file_path <- "../data/temporary_manual_scrape/soukromnici_donation.rds"
+file_path_csv <- "../data/temporary_manual_scrape/csv/soukromnici_donation.csv"
 
-full_df <- readRDS("../data/temporary_manual_scrape/ano_2011_donation.rds")
+saveRDS(full_df, file_path)
+
+full_df <- readRDS(file_path)
 
 full_df$date <- gsub(x = full_df$date, pattern = "&nbsp;", replacement = " ")
 
 full_df$notes <- gsub(x = full_df$notes, pattern = "<br />", replacement = " - ")
+
+fwrite(full_df, file_path_csv)
+
 
 # FOR CS
 full_df <- fromJSON("data/temporary_manual_scrape/top09_donation.txt", flatten = TRUE)
@@ -306,7 +321,6 @@ full_df3 <- full_df3$accountedTransactions$accountedTransaction
 full_df_combined <- bind_rows(full_df, full_df2, full_df3)
 
 
-fwrite(full_df, "../data/temporary_manual_scrape/csv/ano_2011_donation.csv")
 
 ```
 
