@@ -307,19 +307,70 @@ full_df$notes <- gsub(x = full_df$notes, pattern = "<br />", replacement = " - "
 
 fwrite(full_df, file_path_csv)
 
+# CS API CALL
+
+size <- 50
+account_id <- "000000-0020091122"
+sort_category <- "processingDate"
+order <- "DESC"
+
+
+new_df <- fromJSON(content(httr::VERB(
+  verb = "GET", url = "https://api.csas.cz/webapi/api/v3/transparentAccounts/000000-0020091122/transactions",
+  httr::add_headers(
+    Connection = "keep-alive",
+    Accept = "application/json, text/plain, */*",
+    `WEB-API-key` = "08aef2f7-8b72-4ae1-831e-2155d81f46dd",
+    `Accept-Language` = "cs",
+    `User-Agent` = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    `Sec-GPC` = "1", Origin = "https://www.csas.cz",
+    `Sec-Fetch-Site` = "same-site",
+    `Sec-Fetch-Mode` = "cors",
+    `Sec-Fetch-Dest` = "empty",
+    Referer = "https://www.csas.cz/"
+  ),
+  query = list(
+    order = order,
+    page = "0", 
+    size = size,
+    sort = sort_category
+  )
+), as = "text"), flatten = TRUE)[["transactions"]]
+
+
 
 # FOR CS
-full_df <- fromJSON("data/temporary_manual_scrape/top09_donation.txt", flatten = TRUE)
+old_df <- fromJSON(txt = "../data/temporary_manual_scrape/top09_donation.txt", flatten = TRUE)[["transactions"]]
 
-full_df <- full_df$transactions
+full_df <- bind_rows(new_df, old_df) %>% distinct()
+
+file_path <- "../data/temporary_manual_scrape/top09_donation.rds"
+file_path_csv <- "../data/temporary_manual_scrape/csv/top09_donation.csv"
+
+saveRDS(full_df, file_path)
+fwrite(full_df, file_path_csv)
+
 
 # FOR CSOB
-full_df3 <- fromJSON("data/temporary_manual_scrape/kscm_donation_3.txt", flatten = TRUE)
 
-full_df3 <- full_df3$accountedTransactions$accountedTransaction
+new_df <- fromJSON("../data/temporary_manual_scrape/kscm_expense_2.txt", flatten = TRUE)
 
-full_df_combined <- bind_rows(full_df, full_df2, full_df3)
+new_df <- new_df$accountedTransactions$accountedTransaction
 
+new_df$baseInfo.accountingTypeId <- as.double(new_df$baseInfo.accountingTypeId)
+
+new_df$baseInfo.transactionTypeCode <- as.double(new_df$baseInfo.transactionTypeCode)
+
+new_df$baseInfo.transactionGroupCode <- as.logical(new_df$baseInfo.transactionGroupCode)
+
+full_df <- bind_rows(new_df, old_df) %>% distinct()
+
+file_path <- "../data/temporary_manual_scrape/kscm_expense.rds"
+file_path_csv <- "../data/temporary_manual_scrape/csv/kscm_expense.csv"
+
+saveRDS(full_df, file_path)
+
+fwrite(full_df, file_path_csv)
 
 
 ```
