@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,80000,Bezhotovostní příjem,Jana Maláčová,"Dar volby PSPCR 2021 - kraj Praha,Jana Malacova, 24.06.1981",,701,,Jana Maláčová,cssd
+2021-09-13,15000,Okamžitá příchozí platba,Česká spořitelna,"Dar volby PSPČR 2021, Petr Lebeda,23.8.1992",0,23081992,,Česká spořitelna,cssd
+2021-09-13,30000,Bezhotovostní příjem,VESELY ONDREJ,"Dar volby PSPCR 2021, Ondrej Vesely, 3.5.1976",308,3051976,,VESELY ONDREJ,cssd
 2021-09-10,50000,Okamžitá příchozí platba,VÁHALOVÁ DANA,"Dar ve prospěch ČSSD, Dana Váhalová, 28.5. 1966.",308,9,,VÁHALOVÁ DANA,cssd
 2021-09-10,10000,Bezhotovostní příjem,EKOLOGICKY ROZVOJ A,"Dar ve prospech CSSD, Ekologickyrozvoj a vystavba s.r.o., 27504514",558,27504514,0,EKOLOGICKY ROZVOJ A,cssd
 2021-09-10,50000,Okamžitá příchozí platba,"Mgr.Holík Karel,MBA","Dar ve prospěch ČSSD, Karel Holík,15.9.1974",308,15091974,,"Mgr.Holík Karel,MBA",cssd

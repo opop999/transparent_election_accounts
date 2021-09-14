@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,1000,Okamžitá příchozí platba,Česká spořitelna,Dar SZ,0,8061043,,Česká spořitelna,zeleni
+2021-09-13,-2000,Okamžitá odchozí platba,"","vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003240,,KUBINOVA HELENA,zeleni
+2021-09-13,1500,Okamžitá příchozí platba,Lucie Hradecká,Dar na kampaň,,9003246,,Lucie Hradecká,zeleni
+2021-09-13,5000,Okamžitá příchozí platba,Česká spořitelna,Dar Strane zelenych,0,9003001,,PhDr.Hudec Miroslav,zeleni
+2021-09-13,1500,Bezhotovostní příjem,Irena Ferčíková Kone,Dar,,9003241,,Irena Ferčíková Kone,zeleni
+2021-09-13,1000,Okamžitá příchozí platba,Česká spořitelna,Dar,0,9003242,,Michal Uhl,zeleni
+2021-09-13,1000,Okamžitá příchozí platba,Jakub Vrtiška,dar,,9003226,,Jakub Vrtiška,zeleni
+2021-09-13,200,Bezhotovostní příjem,Šandová Růžena,dar SZ,,9002620,,Šandová Růžena,zeleni
+2021-09-13,1000,Bezhotovostní příjem,Pavla Lukešová,dar pro ZO SZ Brno-střed,0,9002379,,Pavla Lukešová,zeleni
+2021-09-13,100,Bezhotovostní příjem,DRAHORAD VOJTECH,Vojta Drahorad pro P10 - dar,,1001002,,DRAHORAD VOJTECH,zeleni
+2021-09-13,500,Bezhotovostní příjem,HOLEC MILOS,Dar,,9003234,,HOLEC MILOS,zeleni
+2021-09-13,2000,Bezhotovostní příjem,KUBINOVA HELENA,VOLBY z  PRAHY 4,,9003240,,KUBINOVA HELENA,zeleni
+2021-09-13,200,Bezhotovostní příjem,Kocurek Josef,Dar,0,9002630,,Kocurek Josef,zeleni
+2021-09-13,150,Bezhotovostní příjem,Černý Daniel,pravidelný dar,0,9002638,,Černý Daniel,zeleni
+2021-09-13,100,Bezhotovostní příjem,ŠIMKOVÁ VENDULA,VENDULA PAVLICOVA_ MESICNI DAR,0,7701390018,100014580,ŠIMKOVÁ VENDULA,zeleni
+2021-09-13,1000,Bezhotovostní příjem,DAVIS MAGDALÉNA,DAR - ZELENI,0,0,0,DAVIS MAGDALÉNA,zeleni
 2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,Dar,0,9003238,,Stašek Petr,zeleni
 2021-09-12,100,Platba převodem uvnitř banky,"Bednařík, Pavel",dar SZ - Pavel Bednařík,,9002562,,dar SZ - Pavel Bednařík,zeleni
 2021-09-11,11000,Okamžitá příchozí platba,Zdeněk Zajac,dar - doufam v duraz na Vzdelavani a propojenost s EU,,,,Zdeněk Zajac,zeleni

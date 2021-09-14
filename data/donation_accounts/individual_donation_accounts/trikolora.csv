@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,1000,Okamžitá příchozí platba,Ing. Věra Hronová,DAR,,234567,,Ing. Věra Hronová,trikolora
+2021-09-13,990,Okamžitá příchozí platba,Mgr.Otevřelová Naděž,DAR Nadezda Otevrelova / Ivan Otevrel,0,14000281,,Mgr.Otevřelová Naděž,trikolora
+2021-09-13,4000,Okamžitá příchozí platba,Ing.Zápotocký Pavel,DAR - Pavel Zápotocký,0,123456,,Ing.Zápotocký Pavel,trikolora
+2021-09-13,500,Bezhotovostní příjem,ROMAN DANIEL,DAR,,123456,,ROMAN DANIEL,trikolora
+2021-09-13,500,Okamžitá příchozí platba,PETR PROCHÁZKA,DAR příspěvek RP PETR PROCHÁZKA,,12000622,,PETR PROCHÁZKA,trikolora
+2021-09-13,50000,Bezhotovostní příjem,JANKOVSKY KAMIL,DAR PRO PRAHU,,11111,,JANKOVSKY KAMIL,trikolora
+2021-09-13,200,Bezhotovostní příjem,LORENZ ZBYSEK,DAR triko,,234567,710128,LORENZ ZBYSEK,trikolora
+2021-09-13,8000,Bezhotovostní příjem,Ing.Červenka Ondřej,"",0,,,Ing.Červenka Ondřej,trikolora
+2021-09-13,666,Bezhotovostní příjem,Marek Býma,DAR,,123456,,Marek Býma,trikolora
+2021-09-13,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
+2021-09-13,60000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Praha,0,3111111,0,STRANA SOUKROMNÍKŮ Č,trikolora
+2021-09-13,100,Bezhotovostní příjem,HOFÍREK JIŘÍ,"",0,2001375,0,HOFÍREK JIŘÍ,trikolora
 2021-09-12,3333,Okamžitá příchozí platba,Ing. Pavel Kutka,DAR,,123456,,Ing. Pavel Kutka,trikolora
 2021-09-11,1000,Platba převodem uvnitř banky,"Kuklík, Pavel","Dar, Pavel Kuklík, 26. 6. 1963",308,1109,,"Dar, Pavel Kuklík, 26. 6. 1963",trikolora
 2021-09-10,10000,Okamžitá příchozí platba,"OteSound, s.r.o.",Dar na cinnost (MUDr. Filip Otevrel),,1222222,,"OteSound, s.r.o.",trikolora

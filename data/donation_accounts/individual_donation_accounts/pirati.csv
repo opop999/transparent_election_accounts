@@ -1,4 +1,40 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,1289,Platba převodem uvnitř banky,"Ing. Hejret, Tomáš",DAR 44003290/1,,44003290,1,DAR 44003290/1,pirati
+2021-09-13,2500,Okamžitá příchozí platba,Anna Lepšová CSc.,DAR 44006227/193000,,44006227,193000,Anna Lepšová CSc.,pirati
+2021-09-13,1000,Okamžitá příchozí platba,Beinstein David,Good luck guys,0,44009169,1,Beinstein David,pirati
+2021-09-13,5000,Platba převodem uvnitř banky,"Kočí, Miroslav",Kočí Miroslav - dar,,44016104,193001,Kočí Miroslav - dar,pirati
+2021-09-13,1e+05,Okamžitá příchozí platba,MIKULÁŠ FERJENČÍK,Dar na kampaň do sněmovny Pirátům  a Starostům Pardubického kraje,,84006,193080,MIKULÁŠ FERJENČÍK,pirati
+2021-09-13,1000,Bezhotovostní příjem,CERBAK JAN,Dar piratum a stanu,,44016100,193000,CERBAK JAN,pirati
+2021-09-13,527,Okamžitá příchozí platba,Marta Hánová,NEJLEPŠÍ OBRANA JE ÚTOK!!!,,44007740,193000,Marta Hánová,pirati
+2021-09-13,30,Bezhotovostní příjem,JIRI DOUBRAVSKY,PODPORUJI: CENTRÁLU ČESKÉ PIRÁTSKÉSTRANY,,44013849,1,JIRI DOUBRAVSKY,pirati
+2021-09-13,200,Bezhotovostní příjem,Miloslava Hechtová,"",,85333,,Miloslava Hechtová,pirati
+2021-09-13,1500,Bezhotovostní příjem,Jan Adamec,Dar na provoz MS Praha 12,,,110112,Jan Adamec,pirati
+2021-09-13,3000,Bezhotovostní příjem,Jana Komrsková,"",1101,11396,,Jana Komrsková,pirati
+2021-09-13,200,Bezhotovostní příjem,SÝKORA JAROSLAV,"",,44013900,1,SÝKORA JAROSLAV,pirati
+2021-09-13,200,Bezhotovostní příjem,ELZNIC MAREK,"",,44006532,1,ELZNIC MAREK,pirati
+2021-09-13,150,Bezhotovostní příjem,Michal Polák,Sharing is caring,,85367,1,Michal Polák,pirati
+2021-09-13,100,Bezhotovostní příjem,ŠTEFAN IVO,"",,44006097,1,ŠTEFAN IVO,pirati
+2021-09-13,4522.21,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620068651,20210912,Global Payments s.r.,pirati
+2021-09-13,50,Bezhotovostní příjem,MARSIK STEPAN,"",,86502,,MARSIK STEPAN,pirati
+2021-09-13,100,Bezhotovostní příjem,PETRACKOVA BRIGITA,pegi pirati,,82534,1,PETRACKOVA BRIGITA,pirati
+2021-09-13,250,Bezhotovostní příjem,MARIK MILOSLAV,"",,44011413,2,MARIK MILOSLAV,pirati
+2021-09-13,300,Bezhotovostní příjem,VITECEK ONDREJ,Krajske sdruzeni Libereckeho kraje,,82573,7,VITECEK ONDREJ,pirati
+2021-09-13,200,Bezhotovostní příjem,GREBIKOVA MARKETA,"",,44006561,1,GREBIKOVA MARKETA,pirati
+2021-09-13,500,Bezhotovostní příjem,ZUZANEK VLADIMIR,DAR 44016094/193000,,44016094,193000,ZUZANEK VLADIMIR,pirati
+2021-09-13,6482.34,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620047223,20210911,Global Payments s.r.,pirati
+2021-09-13,17790.72,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620023507,20210910,Global Payments s.r.,pirati
+2021-09-13,666,Platba převodem uvnitř banky,"Karlík, Petr",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-09-13,2000,Platba převodem uvnitř banky,"Švadlenka, Martin",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-09-13,1000,Bezhotovostní příjem,DAMEK JAN,JAN DAMEK PRO MS F-M PIRÁTI,0,44015609,110404,DAMEK JAN,pirati
+2021-09-13,300,Bezhotovostní příjem,BOUDA TOMÁŠ,"",0,86199,110708,BOUDA TOMÁŠ,pirati
+2021-09-13,1200,Bezhotovostní příjem,DINO ARNAUTOVIČ,DINO - PIRÁTI - ŠEMÍK,0,0,110102,DINO ARNAUTOVIČ,pirati
+2021-09-13,350,Bezhotovostní příjem,HORÁKOVÁ EVA,MSP5 EVA HORAKOVA15081980,0,0,110105,HORÁKOVÁ EVA,pirati
+2021-09-13,500,Bezhotovostní příjem,BECK JAN,PIRATES,0,44005705,1,BECK JAN,pirati
+2021-09-13,500,Bezhotovostní příjem,KOZÁK VLASTIMIL,MS ZATEC,0,44014227,111002,KOZÁK VLASTIMIL,pirati
+2021-09-13,333,Bezhotovostní příjem,LIŠKA JAROMÍR,PIRÁTI,0,84507,190000,LIŠKA JAROMÍR,pirati
+2021-09-13,300,Bezhotovostní příjem,HAŠEK KAREL,"",0,84537,1,HAŠEK KAREL,pirati
+2021-09-13,500,Bezhotovostní příjem,GREYZERO S.R.O.,"",0,44015469,19300,GREYZERO S.R.O.,pirati
+2021-09-13,500,Bezhotovostní příjem,HORÁKOVÁ HANA,Piratum od Horakove,0,44016091,0,HORÁKOVÁ HANA,pirati
 2021-09-12,10000,Platba převodem uvnitř banky,"Špak, Josef","",,85977,3,"",pirati
 2021-09-12,500,Okamžitá příchozí platba,Josef Veselý,DAR 84816/193000,,84816,193000,Josef Veselý,pirati
 2021-09-12,1000,Okamžitá příchozí platba,Vohnický Aleš,"",0,44016098,193030,Vohnický Aleš,pirati

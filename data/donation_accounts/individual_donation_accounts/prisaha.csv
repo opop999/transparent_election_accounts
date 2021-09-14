@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,55105,Platba převodem uvnitř banky,PROFINSECURE s.r.o.,DAR HNUTÍ PŘÍSAHA,,,92020,DAR HNUTÍ PŘÍSAHA,prisaha
+2021-09-13,200,Bezhotovostní příjem,Řezník Michal,Dar hnutí,0,,,Řezník Michal,prisaha
+2021-09-13,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha
+2021-09-13,486.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-13,1000,Bezhotovostní příjem,BERANEK VLADIMIR,Dar hnuti,,0,,BERANEK VLADIMIR,prisaha
+2021-09-13,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha
+2021-09-13,775.8,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-11,3000,Okamžitá příchozí platba,Hes Milan,DAR,0,,,Hes Milan,prisaha
 2021-09-10,1000,Platba převodem uvnitř banky,"Richterová, Lenka",Dar hnutí pro Karlovarský kraj,,,,Dar hnutí pro Karlovarský kraj,prisaha
 2021-09-10,200,Bezhotovostní příjem,Ivana Jelínková,dar hnutí,,,,Ivana Jelínková,prisaha

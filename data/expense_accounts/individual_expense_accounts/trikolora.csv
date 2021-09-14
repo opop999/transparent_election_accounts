@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+14.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK"
+13.09.2021,-10000,Karetní transakce,"","Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",,6981,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK"
 10.09.2021,36300,Okamžitá příchozí platba,Brand Institut s.r.o,"",308,51210019,,Brand Institut s.r.o
 10.09.2021,-7480,Okamžitá odchozí platba,"",výlep a pronájem ploch Rengl - Pardubický kraj,308,1022714,,výlep a pronájem ploch Rengl - Pardubický kraj
 10.09.2021,-30250,Bezhotovostní platba,"",platba za předvolební debaty - Ústecký kraj,308,592021,,platba za předvolební debaty - Ústecký kraj

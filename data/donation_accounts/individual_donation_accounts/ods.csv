@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,-2500000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-13,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČS",,1100200100,,"Dar, Spolek po podporu liberální demokracie ČS",ods
+2021-09-13,-450000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-13,-1000,Okamžitá odchozí platba,"","vratka Bažant Jan, není DS, kontakt sekretariat@ods.cz",378,,,"vratka Bažant Jan, není DS, kontakt sekretariat@ods.cz",ods
+2021-09-13,1e+05,Bezhotovostní příjem,STAKO SPOLEČNOST S R,"DAR, Stako Hradec Králové",0,2801210004,0,STAKO SPOLEČNOST S R,ods
+2021-09-13,8000,Bezhotovostní příjem,TOP TANK  S.R.O. - C,"DAR, TOP TANK s.r.o.",0,2400210022,0,TOP TANK  S.R.O. - C,ods
+2021-09-13,2000,Bezhotovostní příjem,PROVAZNÍK VOJTĚCH,"DAR, Vojtěch Provazník",0,2113210015,0,PROVAZNÍK VOJTĚCH,ods
+2021-09-13,10000,Bezhotovostní příjem,MICHAL VLACH,"DAR, MICHAL VLACH",,2600210014,,MICHAL VLACH,ods
 2021-09-12,10000,Okamžitá příchozí platba,Neumann Lukáš,"DAR, Lukas Neumann",0,1100210076,,Neumann Lukáš,ods
 2021-09-10,1000,Bezhotovostní příjem,SLAVIKOVA & PETRASEK,"DAR,Slavikova&Petrasek s.r.o.",,2600210020,,SLAVIKOVA & PETRASEK,ods
 2021-09-10,1e+05,Bezhotovostní příjem,Kudláček Waldek Körb,"DAR,Kudláček Waldek Korber Consulting s.r.o.",0,2801210003,0,Kudláček Waldek Körb,ods

@@ -1,7 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,"",stan
-2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,STROJÍRNA LITVÍNOV S,stan
-2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,KULHANEK PETR,stan
+2021-09-13,10000,Bezhotovostní příjem,ROBERT PISAR,"DAR, ROBERT PISÁR, 22.6.1973, ŠABINA",,22061973,188140121,DAR - ROBERT PISAR,stan
+2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,DAR - Martin Velík,stan
+2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,DAR - STROJÍRNA LITVÍNOV S,stan
+2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,DAR - KULHANEK PETR,stan
 2021-09-08,30000,Bezhotovostní příjem,MARTIN HAJEK,"DAR, MARTIN HÁJEK, 22.04.1970, RADĚJOV",,22041970,49110321,DAR - MARTIN HAJEK,stan
 2021-09-07,-2600000,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",stan
@@ -9,6 +10,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,-7e+05,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,-12000,Platba převodem uvnitř banky,"",STAN - vrácení daru bez darovací smlouvy,,,,Bloudek Tomáš - vrácení neidentifikovaného daru z 2.9.2021,stan
 2021-09-06,500,Bezhotovostní příjem,STRADIOTOVA ZANETA,"volebni dar, Zaneta Stradiotova, Ciolkovskeho 858/8, Praha 6, 16100",,24051993,99033621,DAR - STRADIOTOVA ZANETA,stan
+2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,"",stan
+2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,STROJÍRNA LITVÍNOV S,stan
+2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,KULHANEK PETR,stan
 2021-09-03,70000,Okamžitá příchozí platba,Česká spořitelna,"",0,26011969,183010921,"DAR, Pavel Simkovič, 26.1. 1969, Zlín",stan
 2021-09-02,2000,Okamžitá příchozí platba,Ing.Seidl Michal,"DAR, Michal Seidl, 13.10.1967, Praha",0,,100033721,DAR - Ing.Seidl Michal,stan
 2021-09-02,2000,Okamžitá příchozí platba,Štěpánková Zdeňka,"volební dar Zdena Štěpánková, Praha 3",0,16111964,98033521,DAR - Štěpánková Zdeňka,stan

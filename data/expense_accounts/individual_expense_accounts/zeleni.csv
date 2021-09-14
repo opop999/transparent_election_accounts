@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+13.09.2021,-20000,Bezhotovostní platba,"",FA 2021018 - správa sociálních sítí a strategie,,2021018,,SZ - Matěj Fišer
+13.09.2021,-96,Bezhotovostní platba,"",FA 21049 - tisk A3,308,21049,80,MSK - Městské kulturní středisko Nový Jičín
+13.09.2021,-3100,Bezhotovostní platba,"",FA 662021 - inzerce v novinách,308,662021,20,STČ - Jana Macková
+13.09.2021,-2000,Bezhotovostní platba,"",vratka mylné platby - jak poslat dar: dary.zeleni.cz,,,,Martin Jílek
+13.09.2021,-10520,Platba převodem uvnitř banky,"",objednávka 21095487 - trička s potiskem,,21095487,71,OLK - t-shock
 11.09.2021,-7260,Karetní transakce,"","Nákup: FACEBK B5D4P67KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  7260.00 CZK",,6211,,"Nákup: FACEBK B5D4P67KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  7260.00 CZK"
 10.09.2021,96,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO MSK na volební účet SZ - volby do PS PČR 2021,,21049,80,Převod prostředků KO MSK na volební účet SZ - volby do PS PČR 2021
 10.09.2021,10520,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,21095487,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021

@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+13.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 89PYX6BLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 89PYX6BLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK"
+13.09.2021,-12100,Bezhotovostní platba,"",ČSSD,308,21086,,"Herzmann s.r.o., studie projektu Český volič, ústředí"
+13.09.2021,-2997007.86,Bezhotovostní platba,"",ČSSD,308,310210078,,"BigMedia, spol. s r.o., záloha na pronájem reklamních panelů, ústředí"
+13.09.2021,-8000,Bezhotovostní platba,"",ČSSD,308,20210005,,"CZpeak services s.r.o., plachty a umístění na ploty, Královéhradecký kraj"
+13.09.2021,-448380.63,Platba převodem uvnitř banky,"",ČSSD,308,2021028,,"Cíl, a.s. v Praze, pronájem variaposterů, bannerů, ústředí"
+13.09.2021,3500000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021
+13.09.2021,6271,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR
+13.09.2021,1125,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR
+13.09.2021,-1088.5,Karetní transakce,"","Nákup: Hradec Kralove - Rasin,  Hradec Kralove - Rasin, Hradec Kralov, 50001, CZE, dne 12.9.2021, částka  1088.50 CZK",,1793,,"Nákup: Hradec Kralove - Rasin,  Hradec Kralove - Rasin, Hradec Kralov, 50001, CZE, dne 12.9.2021, částka  1088.50 CZK"
+13.09.2021,1000.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR
+13.09.2021,963.3,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Karlovarský kraj na volby PS PČR,,,,převod z KP Karlovarský kraj na volby PS PČR
+13.09.2021,138992,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR
 11.09.2021,-678,Karetní transakce,"","Nákup: SLUZBY TECHNICKE SLUZ,  MYSLOTINSKA, PELHRIMOV, 393 01, CZE, dne 10.9.2021, částka  678.00 CZK",,3429,,"Nákup: SLUZBY TECHNICKE SLUZ,  MYSLOTINSKA, PELHRIMOV, 393 01, CZE, dne 10.9.2021, částka  678.00 CZK"
 11.09.2021,-963.3,Karetní transakce,"","Nákup: GLOBUS 14 KV CS,  OBCHODNI 30, JENISOV, 362 11, CZE, dne 10.9.2021, částka  963.30 CZK",,634,,"Nákup: GLOBUS 14 KV CS,  OBCHODNI 30, JENISOV, 362 11, CZE, dne 10.9.2021, částka  963.30 CZK"
 11.09.2021,-1079.5,Karetní transakce,"","Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 9.9.2021, částka  1079.50 CZK",,3429,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 9.9.2021, částka  1079.50 CZK"

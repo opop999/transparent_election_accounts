@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,100,Bezhotovostní příjem,Daniel Tavlaridis,"",0,19910811,999,Daniel Tavlaridis,kdu-csl
+2021-09-13,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
+2021-09-13,3480,Bezhotovostní příjem,IVO SLAVOTINEK,I.SLAVOTÍNEK_DAR PRO OLOMOUCKÝ KRAJ,,760131,751,IVO SLAVOTINEK,kdu-csl
+2021-09-13,300,Bezhotovostní příjem,ŠENKYŘÍKOVÁ BARBOR,"",,,,ŠENKYŘÍKOVÁ BARBOR,kdu-csl
+2021-09-13,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
+2021-09-13,20000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
+2021-09-13,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
 2021-09-10,20000,Okamžitá příchozí platba,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2021-09-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2021-09-10,5000,Bezhotovostní příjem,ZBOROVSKY MIROSLAV,Miroslav Zborovsky - mimoradnyclensky prispevek,,0,,ZBOROVSKY MIROSLAV,kdu-csl

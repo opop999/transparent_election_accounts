@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-13,80000,Bezhotovostní příjem,Jana Maláčová,"Dar volby PSPCR 2021 - kraj Praha,Jana Malacova, 24.06.1981",,701,,Jana Maláčová,cssd
+2021-09-13,15000,Okamžitá příchozí platba,Česká spořitelna,"Dar volby PSPČR 2021, Petr Lebeda,23.8.1992",0,23081992,,Česká spořitelna,cssd
+2021-09-13,30000,Bezhotovostní příjem,VESELY ONDREJ,"Dar volby PSPCR 2021, Ondrej Vesely, 3.5.1976",308,3051976,,VESELY ONDREJ,cssd
 2021-09-10,50000,Okamžitá příchozí platba,VÁHALOVÁ DANA,"Dar ve prospěch ČSSD, Dana Váhalová, 28.5. 1966.",308,9,,VÁHALOVÁ DANA,cssd
 2021-09-10,10000,Bezhotovostní příjem,EKOLOGICKY ROZVOJ A,"Dar ve prospech CSSD, Ekologickyrozvoj a vystavba s.r.o., 27504514",558,27504514,0,EKOLOGICKY ROZVOJ A,cssd
 2021-09-10,50000,Okamžitá příchozí platba,"Mgr.Holík Karel,MBA","Dar ve prospěch ČSSD, Karel Holík,15.9.1974",308,15091974,,"Mgr.Holík Karel,MBA",cssd
@@ -10,6 +13,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-08,-50000,Okamžitá odchozí platba,"","ČSSD, vrácení daru Dana Váhalová, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Dana Váhalová, nesplnění podmínek zákona",cssd
 2021-09-07,250000,Bezhotovostní příjem,"HAVIR PAVEL, MUDR.",Dar ve prospech CSSD Pavel Havir1955,,21021955,,"HAVIR PAVEL, MUDR.",cssd
 2021-09-06,-30000,Okamžitá odchozí platba,"","ČSSD, vrácení daru Robin Povšík, nesplnění podmínek zákona",308,9,,"vrácení daru Robin Povšík, nesplnění podmínek zákona",cssd
+2021-09-13,100,Bezhotovostní příjem,Daniel Tavlaridis,"",0,19910811,999,Daniel Tavlaridis,kdu-csl
+2021-09-13,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
+2021-09-13,3480,Bezhotovostní příjem,IVO SLAVOTINEK,I.SLAVOTÍNEK_DAR PRO OLOMOUCKÝ KRAJ,,760131,751,IVO SLAVOTINEK,kdu-csl
+2021-09-13,300,Bezhotovostní příjem,ŠENKYŘÍKOVÁ BARBOR,"",,,,ŠENKYŘÍKOVÁ BARBOR,kdu-csl
+2021-09-13,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
+2021-09-13,20000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
+2021-09-13,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
 2021-09-10,20000,Okamžitá příchozí platba,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2021-09-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2021-09-10,5000,Bezhotovostní příjem,ZBOROVSKY MIROSLAV,Miroslav Zborovsky - mimoradnyclensky prispevek,,0,,ZBOROVSKY MIROSLAV,kdu-csl
@@ -25,6 +35,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,1000,Bezhotovostní příjem,ZAVADIL KAREL,Internet / PŘEVOD Z SÚ NA BÚ,,,999,ZAVADIL KAREL,kdu-csl
 2021-09-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
 2021-09-06,12000,Bezhotovostní příjem,VASA ANTONIN,"",,11061969,651,VASA ANTONIN,kdu-csl
+2021-09-13,-2500000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-13,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČS",,1100200100,,"Dar, Spolek po podporu liberální demokracie ČS",ods
+2021-09-13,-450000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-13,-1000,Okamžitá odchozí platba,"","vratka Bažant Jan, není DS, kontakt sekretariat@ods.cz",378,,,"vratka Bažant Jan, není DS, kontakt sekretariat@ods.cz",ods
+2021-09-13,1e+05,Bezhotovostní příjem,STAKO SPOLEČNOST S R,"DAR, Stako Hradec Králové",0,2801210004,0,STAKO SPOLEČNOST S R,ods
+2021-09-13,8000,Bezhotovostní příjem,TOP TANK  S.R.O. - C,"DAR, TOP TANK s.r.o.",0,2400210022,0,TOP TANK  S.R.O. - C,ods
+2021-09-13,2000,Bezhotovostní příjem,PROVAZNÍK VOJTĚCH,"DAR, Vojtěch Provazník",0,2113210015,0,PROVAZNÍK VOJTĚCH,ods
+2021-09-13,10000,Bezhotovostní příjem,MICHAL VLACH,"DAR, MICHAL VLACH",,2600210014,,MICHAL VLACH,ods
 2021-09-12,10000,Okamžitá příchozí platba,Neumann Lukáš,"DAR, Lukas Neumann",0,1100210076,,Neumann Lukáš,ods
 2021-09-10,1000,Bezhotovostní příjem,SLAVIKOVA & PETRASEK,"DAR,Slavikova&Petrasek s.r.o.",,2600210020,,SLAVIKOVA & PETRASEK,ods
 2021-09-10,1e+05,Bezhotovostní příjem,Kudláček Waldek Körb,"DAR,Kudláček Waldek Korber Consulting s.r.o.",0,2801210003,0,Kudláček Waldek Körb,ods
@@ -54,6 +72,42 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,6000,Bezhotovostní příjem,REKUMAT Wärmeprozess,"DAR, REKUMAT Wärmeprozesstechnik ČR, spol. s r.o.",0,3004210004,,REKUMAT Wärmeprozess,ods
 2021-09-06,5000,Bezhotovostní příjem,MESENSKÝ IGOR,"DAR, Igor Mesensky, SPOLU to dame",0,1100210069,0,MESENSKÝ IGOR,ods
 2021-09-06,5000,Bezhotovostní příjem,TRAMBOVA PETRA,"DAR, Petra Trambova",,2300210005,,TRAMBOVA PETRA,ods
+2021-09-13,1289,Platba převodem uvnitř banky,"Ing. Hejret, Tomáš",DAR 44003290/1,,44003290,1,DAR 44003290/1,pirati
+2021-09-13,2500,Okamžitá příchozí platba,Anna Lepšová CSc.,DAR 44006227/193000,,44006227,193000,Anna Lepšová CSc.,pirati
+2021-09-13,1000,Okamžitá příchozí platba,Beinstein David,Good luck guys,0,44009169,1,Beinstein David,pirati
+2021-09-13,5000,Platba převodem uvnitř banky,"Kočí, Miroslav",Kočí Miroslav - dar,,44016104,193001,Kočí Miroslav - dar,pirati
+2021-09-13,1e+05,Okamžitá příchozí platba,MIKULÁŠ FERJENČÍK,Dar na kampaň do sněmovny Pirátům  a Starostům Pardubického kraje,,84006,193080,MIKULÁŠ FERJENČÍK,pirati
+2021-09-13,1000,Bezhotovostní příjem,CERBAK JAN,Dar piratum a stanu,,44016100,193000,CERBAK JAN,pirati
+2021-09-13,527,Okamžitá příchozí platba,Marta Hánová,NEJLEPŠÍ OBRANA JE ÚTOK!!!,,44007740,193000,Marta Hánová,pirati
+2021-09-13,30,Bezhotovostní příjem,JIRI DOUBRAVSKY,PODPORUJI: CENTRÁLU ČESKÉ PIRÁTSKÉSTRANY,,44013849,1,JIRI DOUBRAVSKY,pirati
+2021-09-13,200,Bezhotovostní příjem,Miloslava Hechtová,"",,85333,,Miloslava Hechtová,pirati
+2021-09-13,1500,Bezhotovostní příjem,Jan Adamec,Dar na provoz MS Praha 12,,,110112,Jan Adamec,pirati
+2021-09-13,3000,Bezhotovostní příjem,Jana Komrsková,"",1101,11396,,Jana Komrsková,pirati
+2021-09-13,200,Bezhotovostní příjem,SÝKORA JAROSLAV,"",,44013900,1,SÝKORA JAROSLAV,pirati
+2021-09-13,200,Bezhotovostní příjem,ELZNIC MAREK,"",,44006532,1,ELZNIC MAREK,pirati
+2021-09-13,150,Bezhotovostní příjem,Michal Polák,Sharing is caring,,85367,1,Michal Polák,pirati
+2021-09-13,100,Bezhotovostní příjem,ŠTEFAN IVO,"",,44006097,1,ŠTEFAN IVO,pirati
+2021-09-13,4522.21,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620068651,20210912,Global Payments s.r.,pirati
+2021-09-13,50,Bezhotovostní příjem,MARSIK STEPAN,"",,86502,,MARSIK STEPAN,pirati
+2021-09-13,100,Bezhotovostní příjem,PETRACKOVA BRIGITA,pegi pirati,,82534,1,PETRACKOVA BRIGITA,pirati
+2021-09-13,250,Bezhotovostní příjem,MARIK MILOSLAV,"",,44011413,2,MARIK MILOSLAV,pirati
+2021-09-13,300,Bezhotovostní příjem,VITECEK ONDREJ,Krajske sdruzeni Libereckeho kraje,,82573,7,VITECEK ONDREJ,pirati
+2021-09-13,200,Bezhotovostní příjem,GREBIKOVA MARKETA,"",,44006561,1,GREBIKOVA MARKETA,pirati
+2021-09-13,500,Bezhotovostní příjem,ZUZANEK VLADIMIR,DAR 44016094/193000,,44016094,193000,ZUZANEK VLADIMIR,pirati
+2021-09-13,6482.34,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620047223,20210911,Global Payments s.r.,pirati
+2021-09-13,17790.72,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1620023507,20210910,Global Payments s.r.,pirati
+2021-09-13,666,Platba převodem uvnitř banky,"Karlík, Petr",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-09-13,2000,Platba převodem uvnitř banky,"Švadlenka, Martin",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-09-13,1000,Bezhotovostní příjem,DAMEK JAN,JAN DAMEK PRO MS F-M PIRÁTI,0,44015609,110404,DAMEK JAN,pirati
+2021-09-13,300,Bezhotovostní příjem,BOUDA TOMÁŠ,"",0,86199,110708,BOUDA TOMÁŠ,pirati
+2021-09-13,1200,Bezhotovostní příjem,DINO ARNAUTOVIČ,DINO - PIRÁTI - ŠEMÍK,0,0,110102,DINO ARNAUTOVIČ,pirati
+2021-09-13,350,Bezhotovostní příjem,HORÁKOVÁ EVA,MSP5 EVA HORAKOVA15081980,0,0,110105,HORÁKOVÁ EVA,pirati
+2021-09-13,500,Bezhotovostní příjem,BECK JAN,PIRATES,0,44005705,1,BECK JAN,pirati
+2021-09-13,500,Bezhotovostní příjem,KOZÁK VLASTIMIL,MS ZATEC,0,44014227,111002,KOZÁK VLASTIMIL,pirati
+2021-09-13,333,Bezhotovostní příjem,LIŠKA JAROMÍR,PIRÁTI,0,84507,190000,LIŠKA JAROMÍR,pirati
+2021-09-13,300,Bezhotovostní příjem,HAŠEK KAREL,"",0,84537,1,HAŠEK KAREL,pirati
+2021-09-13,500,Bezhotovostní příjem,GREYZERO S.R.O.,"",0,44015469,19300,GREYZERO S.R.O.,pirati
+2021-09-13,500,Bezhotovostní příjem,HORÁKOVÁ HANA,Piratum od Horakove,0,44016091,0,HORÁKOVÁ HANA,pirati
 2021-09-12,10000,Platba převodem uvnitř banky,"Špak, Josef","",,85977,3,"",pirati
 2021-09-12,500,Okamžitá příchozí platba,Josef Veselý,DAR 84816/193000,,84816,193000,Josef Veselý,pirati
 2021-09-12,1000,Okamžitá příchozí platba,Vohnický Aleš,"",0,44016098,193030,Vohnický Aleš,pirati
@@ -123,9 +177,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,100,Bezhotovostní příjem,MÁCHA LUDĚK,SYMBOLICKÁ PODPORA,0,86071,0,MÁCHA LUDĚK,pirati
 2021-09-06,200,Bezhotovostní příjem,TECL LUKÁŠ,"",0,44004864,0,TECL LUKÁŠ,pirati
 2021-09-06,150,Platba převodem uvnitř banky,"Bc. Zeman, Radek","",,44005152,1,"",pirati
-2021-09-05,200,Okamžitá příchozí platba,Štukavec Milan,"",0,44015780,193000,Štukavec Milan,pirati
-2021-09-05,1000,Okamžitá příchozí platba,Florián Michal,"",0,44004479,193000,Florián Michal,pirati
-2021-09-05,5000,Okamžitá příchozí platba,MAZUMDEROVÁ IRENA,adopce billboardu,,44004037,193001,MAZUMDEROVÁ IRENA,pirati
+2021-09-13,55105,Platba převodem uvnitř banky,PROFINSECURE s.r.o.,DAR HNUTÍ PŘÍSAHA,,,92020,DAR HNUTÍ PŘÍSAHA,prisaha
+2021-09-13,200,Bezhotovostní příjem,Řezník Michal,Dar hnutí,0,,,Řezník Michal,prisaha
+2021-09-13,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha
+2021-09-13,486.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-13,1000,Bezhotovostní příjem,BERANEK VLADIMIR,Dar hnuti,,0,,BERANEK VLADIMIR,prisaha
+2021-09-13,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha
+2021-09-13,775.8,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-11,3000,Okamžitá příchozí platba,Hes Milan,DAR,0,,,Hes Milan,prisaha
 2021-09-10,1000,Platba převodem uvnitř banky,"Richterová, Lenka",Dar hnutí pro Karlovarský kraj,,,,Dar hnutí pro Karlovarský kraj,prisaha
 2021-09-10,200,Bezhotovostní příjem,Ivana Jelínková,dar hnutí,,,,Ivana Jelínková,prisaha
@@ -158,7 +216,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,1466,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-06,2323.24,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-06,486.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
-2021-09-05,2000,Okamžitá příchozí platba,Hes Milan,"",0,,,"DAR, Hes Milan",prisaha
+2021-09-13,-2e+05,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-09-13,999,Platba převodem uvnitř banky,"Smejkal, Oldřich","Dar SPD Oldřich Smejkal, Moravany, Vnitřní 3",,,,"Dar SPD Oldřich Smejkal, Moravany, Vnitřní 3",spd
+2021-09-13,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
+2021-09-13,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
 2021-09-09,0.01,Bezhotovostní příjem,Petr Kolář,"Tomio,vracim ti honorar,co jsi mi dal za koncert.Uz te nechci videt.",,,,Petr Kolář,spd
 2021-09-09,83,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,spd
 2021-09-09,1e+05,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 702275 07.09.2021 c 5005JANS I LABAR,0,70200,,"CESKA POSTA, S.P.",spd
@@ -171,9 +232,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Martin Sůkup,spd
 2021-09-06,1000,Bezhotovostní příjem,Jan Skalák,DAR    Jan Skalák,,,,Jan Skalák,spd
 2021-09-06,300,Bezhotovostní příjem,GOLCOVA SVETLANA,Platce 1532,,27201,,GOLCOVA SVETLANA,spd
-2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,"",stan
-2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,STROJÍRNA LITVÍNOV S,stan
-2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,KULHANEK PETR,stan
+2021-09-13,10000,Bezhotovostní příjem,ROBERT PISAR,"DAR, ROBERT PISÁR, 22.6.1973, ŠABINA",,22061973,188140121,DAR - ROBERT PISAR,stan
+2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,DAR - Martin Velík,stan
+2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,DAR - STROJÍRNA LITVÍNOV S,stan
+2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,DAR - KULHANEK PETR,stan
 2021-09-08,30000,Bezhotovostní příjem,MARTIN HAJEK,"DAR, MARTIN HÁJEK, 22.04.1970, RADĚJOV",,22041970,49110321,DAR - MARTIN HAJEK,stan
 2021-09-07,-2600000,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",stan
@@ -181,6 +243,18 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,-7e+05,Platba převodem uvnitř banky,"",Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,-12000,Platba převodem uvnitř banky,"",STAN - vrácení daru bez darovací smlouvy,,,,Bloudek Tomáš - vrácení neidentifikovaného daru z 2.9.2021,stan
 2021-09-06,500,Bezhotovostní příjem,STRADIOTOVA ZANETA,"volebni dar, Zaneta Stradiotova, Ciolkovskeho 858/8, Praha 6, 16100",,24051993,99033621,DAR - STRADIOTOVA ZANETA,stan
+2021-09-13,1000,Okamžitá příchozí platba,Ing. Věra Hronová,DAR,,234567,,Ing. Věra Hronová,trikolora
+2021-09-13,990,Okamžitá příchozí platba,Mgr.Otevřelová Naděž,DAR Nadezda Otevrelova / Ivan Otevrel,0,14000281,,Mgr.Otevřelová Naděž,trikolora
+2021-09-13,4000,Okamžitá příchozí platba,Ing.Zápotocký Pavel,DAR - Pavel Zápotocký,0,123456,,Ing.Zápotocký Pavel,trikolora
+2021-09-13,500,Bezhotovostní příjem,ROMAN DANIEL,DAR,,123456,,ROMAN DANIEL,trikolora
+2021-09-13,500,Okamžitá příchozí platba,PETR PROCHÁZKA,DAR příspěvek RP PETR PROCHÁZKA,,12000622,,PETR PROCHÁZKA,trikolora
+2021-09-13,50000,Bezhotovostní příjem,JANKOVSKY KAMIL,DAR PRO PRAHU,,11111,,JANKOVSKY KAMIL,trikolora
+2021-09-13,200,Bezhotovostní příjem,LORENZ ZBYSEK,DAR triko,,234567,710128,LORENZ ZBYSEK,trikolora
+2021-09-13,8000,Bezhotovostní příjem,Ing.Červenka Ondřej,"",0,,,Ing.Červenka Ondřej,trikolora
+2021-09-13,666,Bezhotovostní příjem,Marek Býma,DAR,,123456,,Marek Býma,trikolora
+2021-09-13,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
+2021-09-13,60000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Praha,0,3111111,0,STRANA SOUKROMNÍKŮ Č,trikolora
+2021-09-13,100,Bezhotovostní příjem,HOFÍREK JIŘÍ,"",0,2001375,0,HOFÍREK JIŘÍ,trikolora
 2021-09-12,3333,Okamžitá příchozí platba,Ing. Pavel Kutka,DAR,,123456,,Ing. Pavel Kutka,trikolora
 2021-09-11,1000,Platba převodem uvnitř banky,"Kuklík, Pavel","Dar, Pavel Kuklík, 26. 6. 1963",308,1109,,"Dar, Pavel Kuklík, 26. 6. 1963",trikolora
 2021-09-10,10000,Okamžitá příchozí platba,"OteSound, s.r.o.",Dar na cinnost (MUDr. Filip Otevrel),,1222222,,"OteSound, s.r.o.",trikolora
@@ -221,7 +295,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,100,Bezhotovostní příjem,Ing.Němec Miloš,"DAR, Miloš Němec",0,,,Ing.Němec Miloš,trikolora
 2021-09-06,1e+05,Platba převodem uvnitř banky,"docent Ing. Ševčík, Miroslav CSc.",DAR pro Prahu doc. Ing. Miroslav Ševčík CSc.,308,6092021,,DAR pro TSS doc. Ing. Miroslav Ševčík CSc.,trikolora
 2021-09-06,500,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 125302 02.09.2021 c 2003JIRIIDVORA/KJI R* DVORAK,0,123456,,"CESKA POSTA, S.P.",trikolora
-2021-09-05,500,Platba převodem uvnitř banky,"Petřík, Karel",DAR příspěvek RP Karel Petřík,,2001077,,DAR příspěvek RP Karel Petřík,trikolora
+2021-09-13,1000,Bezhotovostní příjem,JOSEF HRUZA,DAR PRIZNIVCE,,9368,,JOSEF HRUZA,svobodni
 2021-09-11,1000,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR na kampan za svobodu,,82020,,MACHÁČEK VÍT,svobodni
 2021-09-10,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82027,,VASICEK ONDREJ,svobodni
 2021-09-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
@@ -231,6 +305,22 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-07,200,Okamžitá příchozí platba,Pavel Hřebačka,DAR PRIZNIVCE,,2784,,Pavel Hřebačka,svobodni
 2021-09-06,500,Okamžitá příchozí platba,Baroch Robert,dar priznivce,0,9365,,Baroch Robert,svobodni
 2021-09-06,1000,Bezhotovostní příjem,Jan Skalák,DAR    Skalák Jan,,,,Jan Skalák,svobodni
+2021-09-13,1000,Okamžitá příchozí platba,Česká spořitelna,Dar SZ,0,8061043,,Česká spořitelna,zeleni
+2021-09-13,-2000,Okamžitá odchozí platba,"","vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003240,,KUBINOVA HELENA,zeleni
+2021-09-13,1500,Okamžitá příchozí platba,Lucie Hradecká,Dar na kampaň,,9003246,,Lucie Hradecká,zeleni
+2021-09-13,5000,Okamžitá příchozí platba,Česká spořitelna,Dar Strane zelenych,0,9003001,,PhDr.Hudec Miroslav,zeleni
+2021-09-13,1500,Bezhotovostní příjem,Irena Ferčíková Kone,Dar,,9003241,,Irena Ferčíková Kone,zeleni
+2021-09-13,1000,Okamžitá příchozí platba,Česká spořitelna,Dar,0,9003242,,Michal Uhl,zeleni
+2021-09-13,1000,Okamžitá příchozí platba,Jakub Vrtiška,dar,,9003226,,Jakub Vrtiška,zeleni
+2021-09-13,200,Bezhotovostní příjem,Šandová Růžena,dar SZ,,9002620,,Šandová Růžena,zeleni
+2021-09-13,1000,Bezhotovostní příjem,Pavla Lukešová,dar pro ZO SZ Brno-střed,0,9002379,,Pavla Lukešová,zeleni
+2021-09-13,100,Bezhotovostní příjem,DRAHORAD VOJTECH,Vojta Drahorad pro P10 - dar,,1001002,,DRAHORAD VOJTECH,zeleni
+2021-09-13,500,Bezhotovostní příjem,HOLEC MILOS,Dar,,9003234,,HOLEC MILOS,zeleni
+2021-09-13,2000,Bezhotovostní příjem,KUBINOVA HELENA,VOLBY z  PRAHY 4,,9003240,,KUBINOVA HELENA,zeleni
+2021-09-13,200,Bezhotovostní příjem,Kocurek Josef,Dar,0,9002630,,Kocurek Josef,zeleni
+2021-09-13,150,Bezhotovostní příjem,Černý Daniel,pravidelný dar,0,9002638,,Černý Daniel,zeleni
+2021-09-13,100,Bezhotovostní příjem,ŠIMKOVÁ VENDULA,VENDULA PAVLICOVA_ MESICNI DAR,0,7701390018,100014580,ŠIMKOVÁ VENDULA,zeleni
+2021-09-13,1000,Bezhotovostní příjem,DAVIS MAGDALÉNA,DAR - ZELENI,0,0,0,DAVIS MAGDALÉNA,zeleni
 2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,Dar,0,9003238,,Stašek Petr,zeleni
 2021-09-12,100,Platba převodem uvnitř banky,"Bednařík, Pavel",dar SZ - Pavel Bednařík,,9002562,,dar SZ - Pavel Bednařík,zeleni
 2021-09-11,11000,Okamžitá příchozí platba,Zdeněk Zajac,dar - doufam v duraz na Vzdelavani a propojenost s EU,,,,Zdeněk Zajac,zeleni
@@ -302,6 +392,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-06,500,Bezhotovostní příjem,KŘÍŽEK PAVEL ING.,DAR,0,9002601,0,KŘÍŽEK PAVEL ING.,zeleni
 2021-09-06,6500,Bezhotovostní příjem,Alena Vlachová,dar na kampaň,,9003211,,Alena Vlachová,zeleni
 2021-09-06,3000,Bezhotovostní příjem,JAN HRUDKA,DAR,,9003210,,JAN HRUDKA,zeleni
+2021-09-05,200,Okamžitá příchozí platba,Štukavec Milan,"",0,44015780,193000,Štukavec Milan,pirati
+2021-09-05,1000,Okamžitá příchozí platba,Florián Michal,"",0,44004479,193000,Florián Michal,pirati
+2021-09-05,5000,Okamžitá příchozí platba,MAZUMDEROVÁ IRENA,adopce billboardu,,44004037,193001,MAZUMDEROVÁ IRENA,pirati
+2021-09-05,2000,Okamžitá příchozí platba,Hes Milan,"",0,,,"DAR, Hes Milan",prisaha
+2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,"",stan
+2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,STROJÍRNA LITVÍNOV S,stan
+2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,KULHANEK PETR,stan
+2021-09-05,500,Platba převodem uvnitř banky,"Petřík, Karel",DAR příspěvek RP Karel Petřík,,2001077,,DAR příspěvek RP Karel Petřík,trikolora
 2021-09-05,500,Platba převodem uvnitř banky,"Bc. Surý, Ondřej",dar,,9002953,,dar,zeleni
 2021-09-04,5000,Okamžitá příchozí platba,Ing.Carbol Jiří,"Lidovecka pomoc,Jiri Carbol",0,5902040793,999,Ing.Carbol Jiří,kdu-csl
 2021-09-04,200,Platba převodem uvnitř banky,"Vileta, Petr","Chci PirátoStán, zemi, kde se nekrade.",,44015559,1,"Chci PirátoStán, zemi, kde se nekrade.",pirati
