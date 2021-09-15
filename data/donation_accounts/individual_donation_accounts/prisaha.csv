@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-14,50000,Okamžitá příchozí platba,Česká spořitelna,dar hnutí,8,14092021,14092021,Česká spořitelna,prisaha
+2021-09-14,3000,Okamžitá příchozí platba,Mgr.Šolc Zdeněk,Dar pro KHK (roznos novin),0,,,Mgr.Šolc Zdeněk,prisaha
+2021-09-14,10000,Platba převodem uvnitř banky,"Zavřelová, Petra","DAR HNUTI, JESTLI SE TAM ZAS DOSTANE TA KURVA BABIS NEBO SOCANI, JE S NAMA AMEN. KOZOJEDOVI",,,,"DAR HNUTI, JESTLI SE TAM ZAS DOSTANE TA KURVA BABIS NEBO SOCANI, JE S NAMA AMEN. KOZOJEDOVI",prisaha
+2021-09-14,2000,Okamžitá příchozí platba,Dominik Vrbický,Dar hnutí,,,,Dominik Vrbický,prisaha
+2021-09-14,10000,Bezhotovostní příjem,KAREŠ PAVEL,DAR HNUTÍ,0,196946,0,KAREŠ PAVEL,prisaha
+2021-09-14,700,Bezhotovostní příjem,Vandas Pavel,Účel platby - Dar pro občanskéhnutíPřísaha,0,,,Vandas Pavel,prisaha
+2021-09-14,1000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
+2021-09-14,500,Bezhotovostní příjem,GONDASOVA ALENA,DAR HNUTI,,0,,GONDASOVA ALENA,prisaha
+2021-09-14,5113.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-13,55105,Platba převodem uvnitř banky,PROFINSECURE s.r.o.,DAR HNUTÍ PŘÍSAHA,,,92020,DAR HNUTÍ PŘÍSAHA,prisaha
 2021-09-13,200,Bezhotovostní příjem,Řezník Michal,Dar hnutí,0,,,Řezník Michal,prisaha
 2021-09-13,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha

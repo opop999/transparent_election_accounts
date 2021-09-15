@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-14,1e+05,Okamžitá příchozí platba,Roman Onderka,Dar volby PSP ČR 2021,,11111965,,Roman Onderka,cssd
+2021-09-14,-80000,Platba převodem uvnitř banky,"","převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",,,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",cssd
+2021-09-14,-15000,Platba převodem uvnitř banky,"","převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",,,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-14,-10000,Platba převodem uvnitř banky,"","převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",,,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",cssd
+2021-09-14,-50000,Platba převodem uvnitř banky,"","převod daru, Dana Váhalová, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru, Dana Váhalová, na volby PS PČR, Moravskoslezský kraj",cssd
+2021-09-14,25000,Okamžitá příchozí platba,ZAHÁLKA MILAN,Dar ve prospěch ČSSD Milan Zahálka 40154386,308,40154386,,ZAHÁLKA MILAN,cssd
+2021-09-14,1500,Bezhotovostní příjem,ZATECKA ROMANA,"Dar ve prospech CSSD,Romana Zatecka, 12.9.1965",,12091965,,ZATECKA ROMANA,cssd
 2021-09-13,80000,Bezhotovostní příjem,Jana Maláčová,"Dar volby PSPCR 2021 - kraj Praha,Jana Malacova, 24.06.1981",,701,,Jana Maláčová,cssd
 2021-09-13,15000,Okamžitá příchozí platba,Česká spořitelna,"Dar volby PSPČR 2021, Petr Lebeda,23.8.1992",0,23081992,,Česká spořitelna,cssd
 2021-09-13,30000,Bezhotovostní příjem,VESELY ONDREJ,"Dar volby PSPCR 2021, Ondrej Vesely, 3.5.1976",308,3051976,,VESELY ONDREJ,cssd

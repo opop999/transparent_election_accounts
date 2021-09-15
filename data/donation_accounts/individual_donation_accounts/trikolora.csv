@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-14,200,Platba převodem uvnitř banky,"Lakatoš, Ivan",DAR,,234567,,DAR,trikolora
+2021-09-14,30000,Platba převodem uvnitř banky,"Ing. Tittelbach, Lukáš","DAR, Lukas Tittelbach",558,,,"DAR, Lukas Tittelbach",trikolora
+2021-09-14,80000,Okamžitá příchozí platba,Ing. Antonín Fryč CS,dar Fryč Antonín,,1777777,,Ing. Antonín Fryč CS,trikolora
+2021-09-14,500,Okamžitá příchozí platba,ŠEDA ADAM,DAR,,234567,,ŠEDA ADAM,trikolora
+2021-09-14,500,Okamžitá příchozí platba,Marie Čedíková,Dar Čedíková Marie,,13000986,,Marie Čedíková,trikolora
+2021-09-14,1000,Bezhotovostní příjem,KALAS ANTONIN,Drzim palce ve volbach!,,234567,,KALAS ANTONIN,trikolora
+2021-09-14,500,Bezhotovostní příjem,LUKAS GRIMM,DAR,,123456,,LUKAS GRIMM,trikolora
+2021-09-14,1500,Bezhotovostní příjem,LIŠKA LUBOŠ,DAR - Luboš Liška,0,123456,0,LIŠKA LUBOŠ,trikolora
+2021-09-14,20000,Okamžitá příchozí platba,Česká spořitelna,vlk,0,666666,,Česká spořitelna - Jiří Vlk DAR MSK,trikolora
+2021-09-14,1000,Bezhotovostní příjem,VÁŠA MARTIN,"DAR, Martin Váša",0,234567,0,VÁŠA MARTIN,trikolora
+2021-09-14,1200,Bezhotovostní příjem,HRUBEŠ JAROSLAV,DAR,0,123456,0,HRUBEŠ JAROSLAV,trikolora
+2021-09-14,1000,Bezhotovostní příjem,MUDr. Ladislav Jon,DAR  MUDr Ladislav Jon IČO 47731168,558,47731168,,MUDr. Ladislav Jon,trikolora
+2021-09-14,10000,Bezhotovostní příjem,ZELENKA JIRI,Jiri Zelenka DAR Trikolora Vysocina,,1141414,,ZELENKA JIRI,trikolora
+2021-09-14,200,Bezhotovostní příjem,Mgr.Ondrášek Eduard,"DAR, Eduard Ondrášek, 5.10.1969,",0,,,Mgr.Ondrášek Eduard,trikolora
+2021-09-14,1000,Bezhotovostní příjem,STANISLAV KRISTUFEK,DAR      STANISLAV KRIŠTŮFEK      15.12.1961,,,,STANISLAV KRISTUFEK,trikolora
+2021-09-14,400,Bezhotovostní příjem,JAN VOMLEL,DAR,,234567,,JAN VOMLEL,trikolora
 2021-09-13,1000,Okamžitá příchozí platba,Ing. Věra Hronová,DAR,,234567,,Ing. Věra Hronová,trikolora
 2021-09-13,990,Okamžitá příchozí platba,Mgr.Otevřelová Naděž,DAR Nadezda Otevrelova / Ivan Otevrel,0,14000281,,Mgr.Otevřelová Naděž,trikolora
 2021-09-13,4000,Okamžitá příchozí platba,Ing.Zápotocký Pavel,DAR - Pavel Zápotocký,0,123456,,Ing.Zápotocký Pavel,trikolora

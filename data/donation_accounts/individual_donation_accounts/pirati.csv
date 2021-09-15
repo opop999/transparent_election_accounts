@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-14,5000,Okamžitá příchozí platba,PETR VYLETA,DAR 86090/1,,86090,1,PETR VYLETA,pirati
+2021-09-14,3057,Okamžitá příchozí platba,Lukáš Blažej,Dar účelově určený na alkohol dle § 5 písm. b) PraH - ceny pro vítěze nanuk tour,,44002829,193000,Lukáš Blažej,pirati
+2021-09-14,5000,Okamžitá příchozí platba,Mgr.Dytrich Petr,DAR 44016117/193000,0,44016117,193000,Mgr.Dytrich Petr,pirati
+2021-09-14,250,Okamžitá příchozí platba,Iveta Tluková,Tluková Iveta 08/2021,,86197,193010,Iveta Tluková,pirati
+2021-09-14,500,Bezhotovostní příjem,MAREK JAN,DAR 86429/193000,,86429,193000,MAREK JAN,pirati
+2021-09-14,6000,Okamžitá příchozí platba,Ing. MARTIN ALTSCHMI,"",,,110102,Ing. MARTIN ALTSCHMI,pirati
+2021-09-14,350,Platba převodem uvnitř banky,"Maryška, Vojtěch",Držte kurz! Díky!,,44013087,2,Držte kurz! Díky!,pirati
+2021-09-14,5000,Platba převodem uvnitř banky,"Mareček, Roman","RaBaK Marečkovi - ANO, bude lip! ;-)",,44016110,193001,"RaBaK Marečkovi - ANO, bude lip! ;-)",pirati
+2021-09-14,5000,Bezhotovostní příjem,DANIEL KOLMAN,DAR 44016105/193001,,44016105,193001,DANIEL KOLMAN,pirati
+2021-09-14,2500,Bezhotovostní příjem,Daniel Voženílek,DAR 44012769/193000,,44012769,193000,Daniel Voženílek,pirati
+2021-09-14,100,Bezhotovostní příjem,Tomáš Hort,"",,82268,1,Tomáš Hort,pirati
+2021-09-14,100,Bezhotovostní příjem,HOOS MICHAL,"",,44005875,,HOOS MICHAL,pirati
+2021-09-14,15429.02,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1630003339,20210913,Global Payments s.r.,pirati
+2021-09-14,2500,Bezhotovostní příjem,HOSEK DAVID,DAR NA PROVOZ PREROVSKEHO PICE,,0,110303,HOSEK DAVID,pirati
+2021-09-14,100,Bezhotovostní příjem,TREBICKY DAVID,"",,82547,,TREBICKY DAVID,pirati
+2021-09-14,500,Bezhotovostní příjem,Tolarová Helena,"",,44012510,2,Tolarová Helena,pirati
+2021-09-14,200,Bezhotovostní příjem,Procházka Tomáš,Podporuji: Centrálu České pirátskéstrany,0,86264,1,Procházka Tomáš,pirati
+2021-09-14,1000,Bezhotovostní příjem,Eichler Tomáš,KS Královéhradecký kraj,0,9001764,130900,Eichler Tomáš,pirati
+2021-09-14,100,Platba převodem uvnitř banky,"Švadlenka, Martin",Martin Švadlenka,4714,1025,110303,Martin Švadlenka,pirati
+2021-09-14,81378,Bezhotovostní příjem,Hlavenka Jiří,jihomoravsky kraj,,,110600,Hlavenka Jiří,pirati
 2021-09-13,1289,Platba převodem uvnitř banky,"Ing. Hejret, Tomáš",DAR 44003290/1,,44003290,1,DAR 44003290/1,pirati
 2021-09-13,2500,Okamžitá příchozí platba,Anna Lepšová CSc.,DAR 44006227/193000,,44006227,193000,Anna Lepšová CSc.,pirati
 2021-09-13,1000,Okamžitá příchozí platba,Beinstein David,Good luck guys,0,44009169,1,Beinstein David,pirati

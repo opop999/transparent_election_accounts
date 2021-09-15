@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-14,10000,Platba převodem uvnitř banky,"Kultová, Denisa","DAR, Denisa Kultova",,2800210013,,"DAR, Denisa Kultova",ods
+2021-09-14,2000,Platba převodem uvnitř banky,"Mareček, Roman","DAR, Roman Mareček",,1100210078,,"DAR, Roman Mareček",ods
 2021-09-13,-2500000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
 2021-09-13,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČS",,1100200100,,"Dar, Spolek po podporu liberální demokracie ČS",ods
 2021-09-13,-450000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
