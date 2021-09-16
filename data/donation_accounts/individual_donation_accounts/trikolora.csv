@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-15,2000,Okamžitá příchozí platba,JIŘÍČEK PAVEL,"DAR, Pavel Jiricek",,123456,,JIŘÍČEK PAVEL,trikolora
+2021-09-15,500,Okamžitá příchozí platba,Fořt Petr,DAR,0,123456,,Fořt Petr,trikolora
+2021-09-15,500,Okamžitá příchozí platba,Ing. Václav Starý,DAR příspěvek RP,,12001913,,Ing. Václav Starý,trikolora
+2021-09-15,777,Okamžitá příchozí platba,Jakub Koubek,DAR Jakub Koubek,,234567,,Jakub Koubek,trikolora
+2021-09-15,5000,Okamžitá příchozí platba,Jaroslav Mervart,DAR   Jaroslav Mervart,,234567,,Jaroslav Mervart,trikolora
+2021-09-15,1000,Bezhotovostní příjem,VRÁNA PAVEL,"DAR, PAVEL VRÁNA",0,,,VRÁNA PAVEL,trikolora
+2021-09-15,2000,Bezhotovostní příjem,JIRI GABAJ,"DAR,Jiri Gabaj",308,2001376,,JIRI GABAJ,trikolora
+2021-09-15,100,Bezhotovostní příjem,JIRI GABAJ,DAR prispevek RP,308,2001376,,JIRI GABAJ,trikolora
+2021-09-15,500,Bezhotovostní příjem,MICHAL PRIBYL,DAR PŘÍSPĚVEK RP,,11002037,,MICHAL PRIBYL,trikolora
+2021-09-15,100,Bezhotovostní příjem,Bladesová Hana,Dar Hana Bladesová,0,6000825,,Bladesová Hana,trikolora
+2021-09-15,500,Bezhotovostní příjem,PROCHÁZKA PETR,Dar Trikolora Petr Procházka,0,123456,0,PROCHÁZKA PETR,trikolora
+2021-09-15,100,Platba převodem uvnitř banky,"Škrabálek, Petr","DAR, Jitka Krátká",,,,"DAR, Jitka Krátká",trikolora
+2021-09-15,1000,Okamžitá příchozí platba,Ing.Čmejlová Lenka,DAR,0,123456,,Ing.Čmejlová Lenka,trikolora
 2021-09-14,200,Platba převodem uvnitř banky,"Lakatoš, Ivan",DAR,,234567,,DAR,trikolora
 2021-09-14,30000,Platba převodem uvnitř banky,"Ing. Tittelbach, Lukáš","DAR, Lukas Tittelbach",558,,,"DAR, Lukas Tittelbach",trikolora
 2021-09-14,80000,Okamžitá příchozí platba,Ing. Antonín Fryč CS,dar Fryč Antonín,,1777777,,Ing. Antonín Fryč CS,trikolora

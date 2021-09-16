@@ -1,5 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-09-14,50000,Okamžitá příchozí platba,Česká spořitelna,dar hnutí,8,14092021,14092021,Česká spořitelna,prisaha
+2021-09-15,5000,Okamžitá příchozí platba,Miloslava Sachová,Dar hnutí Sachová,,,,Miloslava Sachová,prisaha
+2021-09-15,10000,Okamžitá příchozí platba,Miroslav Bezpalec,Dar hnutí,,,,Miroslav Bezpalec,prisaha
+2021-09-15,1000,Okamžitá příchozí platba,Dolejš Karel,Dar hnutí,0,6609261461,,Dolejš Karel,prisaha
+2021-09-15,500,Okamžitá příchozí platba,KÝBUSOVÁ NADĚŽDA,DAR HNUTÍ,,,,KÝBUSOVÁ NADĚŽDA,prisaha
+2021-09-15,3000,Bezhotovostní příjem,GAZDOCKOVA ANDREA,DAR HNUTI PETR JASEK,,0,,GAZDOCKOVA ANDREA,prisaha
+2021-09-15,300,Bezhotovostní příjem,JAROMIR DANIEL,JSTE NAŠE NADĚJE,,5607251595,,"DAR, JAROMIR DANIEL",prisaha
+2021-09-15,333,Bezhotovostní příjem,PAVEL CERVENY,DAR HNUTÍ,,,,PAVEL CERVENY,prisaha
+2021-09-15,1800,Bezhotovostní příjem,PETR ZOUREK,PŘEVOD PROSTŘEDKŮ,,,,"Dar, PETR ZOUREK",prisaha
+2021-09-15,400,Bezhotovostní příjem,Misař Radek,Dar Misařová Petra,0,705529,,Misař Radek,prisaha
+2021-09-15,500,Bezhotovostní příjem,"Haindl Miroslav,DiS.",Dar hnutí KV kraj,0,,,"Haindl Miroslav,DiS.",prisaha
+2021-09-15,500,Bezhotovostní příjem,Krpalová Olga,Dar hnutí Přísaha,0,,,Krpalová Olga,prisaha
+2021-09-15,750,Bezhotovostní příjem,ČEKANOVÁ LIBUŠE,"Dar 250,člen 500Kč",8,5456130823,,ČEKANOVÁ LIBUŠE,prisaha
+2021-09-15,2000,Bezhotovostní příjem,VLČEK JOSEF,musíme to dokázat,308,9,0,"DAR, VLČEK JOSEF",prisaha
+2021-09-15,1170.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-14,50000,Okamžitá příchozí platba,Česká spořitelna,dar hnutí,8,14092021,14092021,"Dar, Pavel Novotný",prisaha
 2021-09-14,3000,Okamžitá příchozí platba,Mgr.Šolc Zdeněk,Dar pro KHK (roznos novin),0,,,Mgr.Šolc Zdeněk,prisaha
 2021-09-14,10000,Platba převodem uvnitř banky,"Zavřelová, Petra","DAR HNUTI, JESTLI SE TAM ZAS DOSTANE TA KURVA BABIS NEBO SOCANI, JE S NAMA AMEN. KOZOJEDOVI",,,,"DAR HNUTI, JESTLI SE TAM ZAS DOSTANE TA KURVA BABIS NEBO SOCANI, JE S NAMA AMEN. KOZOJEDOVI",prisaha
 2021-09-14,2000,Okamžitá příchozí platba,Dominik Vrbický,Dar hnutí,,,,Dominik Vrbický,prisaha
@@ -18,7 +32,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-11,3000,Okamžitá příchozí platba,Hes Milan,DAR,0,,,Hes Milan,prisaha
 2021-09-10,1000,Platba převodem uvnitř banky,"Richterová, Lenka",Dar hnutí pro Karlovarský kraj,,,,Dar hnutí pro Karlovarský kraj,prisaha
 2021-09-10,200,Bezhotovostní příjem,Ivana Jelínková,dar hnutí,,,,Ivana Jelínková,prisaha
-2021-09-10,9000,Okamžitá příchozí platba,Česká spořitelna,dar hnuti,0,,,Česká spořitelna,prisaha
+2021-09-10,9000,Okamžitá příchozí platba,Česká spořitelna,dar hnuti,0,,,Iveta Štětinová,prisaha
 2021-09-10,1000,Okamžitá příchozí platba,Dalibor Macháček,Dar hnutí,,,,Dalibor Macháček,prisaha
 2021-09-10,886.05,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-09,1000,Okamžitá příchozí platba,Hana Fimbingerová,Dar hnutí,,,,Hana Fimbingerová,prisaha
@@ -33,6 +47,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-08,1000,Bezhotovostní příjem,MRAZOVA ZDENKA,Dar hnuti,,80921,,MRAZOVA ZDENKA,prisaha
 2021-09-08,10000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
 2021-09-08,683.99,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-14,50000,Okamžitá příchozí platba,Česká spořitelna,dar hnutí,8,14092021,14092021,Česká spořitelna,prisaha
+2021-09-10,9000,Okamžitá příchozí platba,Česká spořitelna,dar hnuti,0,,,Česká spořitelna,prisaha
 2021-09-07,20000,Bezhotovostní příjem,"PK - INTRALOGIS, SPO",Dar hnutí Přísaha Roberta Šlachty,0,0,0,"PK - INTRALOGIS, SPO",prisaha
 2021-09-07,10000,Bezhotovostní příjem,PASTYŘÍK JIŘÍ ING,Dar hnutí,0,0,0,PASTYŘÍK JIŘÍ ING,prisaha
 2021-09-07,50000,Okamžitá příchozí platba,Martin Palán,Dar hnutí,0,,,Martin Palán,prisaha

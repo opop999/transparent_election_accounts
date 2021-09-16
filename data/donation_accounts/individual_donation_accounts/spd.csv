@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
+2021-09-15,200,Bezhotovostní příjem,OVCACEK JIRI,"",,0,,OVCACEK JIRI,spd
+2021-09-15,25000,Bezhotovostní příjem,SABÁK TOMÁŠ,Dar Tomáš Sabák,0,11000,0,SABÁK TOMÁŠ,spd
+2021-09-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
+2021-09-15,1e+05,Bezhotovostní příjem,JOSEF NERUSIL,DAR - PŘÍSPĚVEK NA KAMPAŇ V PRAZE,,11000,,JOSEF NERUSIL,spd
 2021-09-14,999,Okamžitá příchozí platba,Jaroslav Krejčiřík,"Jaroslav Krejčiřík, 9. 10. 1991, Olomouc, Povel, Velkomoravská 325/8",,77900,,Jaroslav Krejčiřík,spd
 2021-09-14,1e+05,Bezhotovostní příjem,MAŘÍKOVÁ KARLA,Karla Maříková DAR,,,,MAŘÍKOVÁ KARLA,spd
 2021-09-14,50000,Bezhotovostní příjem,LESENSKÁ VLADIMÍRA,Lesenská - platba SPD,0,50002,0,LESENSKÁ VLADIMÍRA,spd

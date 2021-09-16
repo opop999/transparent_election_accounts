@@ -1,4 +1,40 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+16.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK A6GMW6B2W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK A6GMW6B2W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.9.2021, částka  20000.00 CZK"
+15.09.2021,-105578,Platba převodem uvnitř banky,"",výroba potisku bannerů pro kostky malé Praha,308,20218320,,výroba potisku bannerů pro kostky malé Praha
+15.09.2021,-4114,Bezhotovostní platba,"",potisk propisek - MSK,308,21275,,potisk propisek - MSK
+15.09.2021,-6411,Platba převodem uvnitř banky,"",žídek tisk - výroba a tisk letáků MSK,308,218103194,,žídek tisk - výroba a tisk letáků MSK
+15.09.2021,-37914.14,Bezhotovostní platba,"",Ide art - výroba a tisk MSK,308,802128,,Ide art - výroba a tisk MSK
+15.09.2021,-12160,Bezhotovostní platba,"",inzerce idnes MSK,308,2321006127,,inzerce idnes MSK
+15.09.2021,-59550,Platba převodem uvnitř banky,"",Plexi Kašaj - polep autobusů MSK,308,2021000035,,Plexi Kašaj - polep autobusů MSK
+15.09.2021,-4537.5,Bezhotovostní platba,"",výroba plakátů Moravskoslezský kraj,308,4212101735,,výroba plakátů Moravskoslezský kraj
+15.09.2021,-40994.8,Bezhotovostní platba,"",pronájem reklamních panelů Moravskoslezský kraj,308,310210075,,pronájem reklamních panelů Moravskoslezský kraj
+15.09.2021,-13200,Bezhotovostní platba,"",výroba reklamních předmětů pro kampaň - Středočeský kraj,308,12021,,výroba reklamních předmětů pro kampaň - Středočeský kraj
+15.09.2021,-1778.7,Bezhotovostní platba,"",PPs 75x100 - Středočeský kraj,308,9502021,,PPs 75x100 - Středočeský kraj
+15.09.2021,-49610,Bezhotovostní platba,"",tisk a výroba letáků A74/A5 Středočeský kraj,308,20211149,,tisk a výroba letáků A74/A5 Středočeský kraj
+15.09.2021,-500,Bezhotovostní platba,"",zábor veřejného prostranství - Říčany Středočeský kraj,308,13613110,,zábor veřejného prostranství - Říčany Středočeský kraj
+15.09.2021,-69236.2,Bezhotovostní platba,"",výroba propagačních předmětů a plakátů - Jihomoravský kraj,308,612021,,výroba propagačních předmětů a plakátů - Jihomoravský kraj
+15.09.2021,-45980,Platba převodem uvnitř banky,"",právní služby - ochranná známka - centrála,308,4992021,,právní služby - ochranná známka - centrála
+15.09.2021,-20000,Bezhotovostní platba,"",organizační poradenství a projektové řízení - centrála,308,10111,,organizační poradenství a projektové řízení - centrála
+15.09.2021,-12100,Bezhotovostní platba,"",výroba plakátů do souprav metra - Praha,308,1212100342,,výroba plakátů do souprav metra - Praha
+15.09.2021,-96800,Bezhotovostní platba,"",pronájem 250 ploch ve vozech metra - Praha,308,330210033,,pronájem 250 ploch ve vozech metra - Praha
+15.09.2021,-9680,Bezhotovostní platba,"",výroba bannerů pro reklamu Metro - Praha,308,1212100343,,výroba bannerů pro reklamu Metro - Praha
+15.09.2021,-159720,Bezhotovostní platba,"",pronájem reklamních panelů Metro - Praha,308,330210034,,pronájem reklamních panelů Metro - Praha
+15.09.2021,-125452.8,Bezhotovostní platba,"",pronájem panelů metro - Praha,308,330210032,,pronájem panelů metro - Praha
+15.09.2021,-30855,Bezhotovostní platba,"",tisk novin pro Středočeský kraj,308,2122000539,,tisk novin pro Středočeský kraj
+15.09.2021,-9668,Bezhotovostní platba,"",tisk a výroba skládaček A4- Ústecký kraj,308,210089,,tisk a výroba skládaček A4- Ústecký kraj
+15.09.2021,-8531,Bezhotovostní platba,"",výroba a tisk A4 skládaček - ÚStecký kraj,308,210088,,výroba a tisk A4 skládaček - ÚStecký kraj
+15.09.2021,-4550,Bezhotovostní platba,"",tisk skládaček A4 - Ústecký kraj,308,210086,,tisk skládaček A4 - Ústecký kraj
+15.09.2021,-1000,Bezhotovostní platba,"",propagační služby - Ústecký kraj,308,202101,,propagační služby - Ústecký kraj
+15.09.2021,-7260,Bezhotovostní platba,"",pronájem sloupů VO - Olomoucký kraj,308,202100301,,pronájem sloupů VO - Olomoucký kraj
+15.09.2021,-256036,Bezhotovostní platba,"",pronájem billboardových ploch - Olomoucký kraj,308,2022086,,pronájem billboardových ploch - Olomoucký kraj
+15.09.2021,-7563,Bezhotovostní platba,"",dotisk letáků A5 - Ústecký kraj,308,210092,,dotisk letáků A5 - Ústecký kraj
+15.09.2021,-56000,Platba převodem uvnitř banky,"",platba za catering a provoz Den Veteránů - Praha,308,20214,,platba za catering a provoz Den Veteránů - Praha
+15.09.2021,-205942,Bezhotovostní platba,"",Žlutý pes koncert - centrála,308,2021110,,Žlutý pes koncert - centrála
+15.09.2021,-7563,Bezhotovostní platba,"",dotisk letáků A5 - Ústecký kraj,308,210091,,dotisk letáků A5 - Ústecký kraj
+15.09.2021,-9075,Bezhotovostní platba,"",výroba a tisk letáků A5 - Ústecký kraj,308,210090,,výroba a tisk letáků A5 - Ústecký kraj
+15.09.2021,-9244.4,Bezhotovostní platba,"",reklamní plocha a výlep - Středočeský kraj,308,21502159,,reklamní plocha a výlep - Středočeský kraj
+15.09.2021,-25047,Bezhotovostní platba,"",doplatek za tisk Novin - Olomoucký kraj,,2116000278,,doplatek za tisk Novin - Olomoucký kraj
+15.09.2021,-4307.61,Bezhotovostní platba,"",polepy petiční stolky - Pardubický kraj,308,21211718,,polepy petiční stolky - Pardubický kraj
 14.09.2021,20000,Platba převodem uvnitř banky,Svobodní,Příspěvek na krajskou kampaň TSS JMK,,2222222,2222222,Příspěvek na krajskou kampaň TSS JMK
 14.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK"
 13.09.2021,-10000,Karetní transakce,"","Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",,6981,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK"

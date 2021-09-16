@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-15,6000,Okamžitá příchozí platba,Ing.Šiller Vojtěch,Dar Šillerová Eva 1982 Havířov,851,13011932,,Ing.Šiller Vojtěch,kdu-csl
+2021-09-15,2000,Bezhotovostní příjem,Filip Chvátal,Filip Chvátal pravidelný příspěvekKDU Brno,,27051986,709,Filip Chvátal,kdu-csl
 2021-09-14,30000,Bezhotovostní příjem,"SVĚTNIČKA MAREK, DIS",Věnováno Bruntálu,0,17121969,851,"SVĚTNIČKA MAREK, DIS",kdu-csl
 2021-09-14,20000,Bezhotovostní příjem,HELLER SIMON,Simon Heller JHC,,0,,HELLER SIMON,kdu-csl
 2021-09-14,750,Bezhotovostní příjem,RUZICKA JAN,Jan Ruzicka,,1101984,725,RUZICKA JAN,kdu-csl
