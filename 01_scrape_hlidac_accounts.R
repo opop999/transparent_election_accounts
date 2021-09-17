@@ -236,9 +236,9 @@ extract_expense_accounts_hlidac <- function(expense_accounts_hlidac, start_date,
 dir_name <- "data" # Specify the folder, where the tables will be saved
 
 # Load the external list containing names and links of the bank accounts
-expense_accounts_hlidac <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/expense_accounts_hlidac.rds"))
+expense_accounts_hlidac <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/all_accounts_list.rds"))[["expense_accounts_hlidac"]]
 
-donation_accounts_hlidac <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/donation_accounts_hlidac.rds"))
+donation_accounts_hlidac <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/all_accounts_list.rds"))[["donation_accounts_hlidac"]]
 
 start_date <- Sys.Date() - 8 # We select a date week ago in a required format in YYYY-MM-DD format
 

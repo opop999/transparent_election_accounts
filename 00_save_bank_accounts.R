@@ -18,8 +18,12 @@ if (!dir.exists(subdir_name)) {
   print("Output directory already exists")
 }
 
-# This list is for FIO election expense accounts
-expense_accounts_fio <- list(
+# Initiate an empty list, serving as a list of all of the lists
+all_accounts_list <- list()
+
+# 1.1. This list is for FIO election expense accounts --------------------------
+
+all_accounts_list[["expense_accounts_fio"]] <- list(
   names = c(
     "pirati_stan",
     "ods_kdu-csl_top09",
@@ -29,21 +33,21 @@ expense_accounts_fio <- list(
     "zeleni",
     "prisaha"
   ),
- links = c(
-   "https://ib.fio.cz/ib/transparent?a=2601909155&f=01.01.2021",
-   "https://ib.fio.cz/ib/transparent?a=-48&f=01.01.2021",
-   "https://ib.fio.cz/ib/transparent?a=-49&f=01.01.2021",
-   "https://ib.fio.cz/ib/transparent?a=-50&f=01.01.2021",
-   "https://ib.fio.cz/ib/transparent?a=2001915105&f=01.01.2021",
-   "https://ib.fio.cz/ib/transparent?a=2801916675&f=01.01.2021",
-   "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021"
- )
+  links = c(
+    "https://ib.fio.cz/ib/transparent?a=2601909155&f=01.01.2021",
+    "https://ib.fio.cz/ib/transparent?a=-48&f=01.01.2021",
+    "https://ib.fio.cz/ib/transparent?a=-49&f=01.01.2021",
+    "https://ib.fio.cz/ib/transparent?a=-50&f=01.01.2021",
+    "https://ib.fio.cz/ib/transparent?a=2001915105&f=01.01.2021",
+    "https://ib.fio.cz/ib/transparent?a=2801916675&f=01.01.2021",
+    "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021"
+  )
 )
 
-saveRDS(expense_accounts_fio, paste0(subdir_name, "/expense_accounts_fio.rds"), compress = FALSE)
 
-# This list is for FIO donation accounts
-donation_accounts_fio <- list(
+# 1.2. This list is for FIO donation accounts --------------------------
+
+all_accounts_list[["donation_accounts_fio"]] <- list(
   names = c(
     "cssd",      
     "kdu-csl",
@@ -72,11 +76,8 @@ donation_accounts_fio <- list(
    )
 )
 
-saveRDS(donation_accounts_fio, paste0(subdir_name, "/donation_accounts_fio.rds"), compress = FALSE)
-
-
-# This list is for expense accounts extracted through Hlidac Statu API
-expense_accounts_hlidac <- list(
+# 2.1 This list is for expense accounts extracted through Hlidac Statu API --------------------------
+all_accounts_list[["expense_accounts_hlidac"]] <- list(
   names = c(
     "ano_2011",
     "kscm"
@@ -87,10 +88,9 @@ expense_accounts_hlidac <- list(
   )
 )
 
-saveRDS(expense_accounts_hlidac, paste0(subdir_name, "/expense_accounts_hlidac.rds"), compress = FALSE)
+# 2.2 This list is for donation accounts extracted through Hlidac Statu API --------------------------
 
-# This list is for donation accounts extracted through Hlidac Statu API
-donation_accounts_hlidac <- list(
+all_accounts_list[["donation_accounts_hlidac"]] <- list(
   names = c(
     "ano_2011",
     "kscm",
@@ -105,4 +105,74 @@ donation_accounts_hlidac <- list(
   )
 )
 
-saveRDS(donation_accounts_hlidac, paste0(subdir_name, "/donation_accounts_hlidac.rds"), compress = FALSE)
+
+# 3.1 This list is for expense accounts extracted through KB API --------------------------
+all_accounts_list[["expense_accounts_kb"]] <- list(
+  names = c(
+    "ano_2011"
+  ),
+  numbers = c(
+    "4090453"
+  )
+)
+
+
+# 3.2 This list is for donation accounts extracted through KB API --------------------------
+
+all_accounts_list[["donation_accounts_kb"]] <- list(
+  names = c(
+    "ano_2011",
+    "soukromnici"
+  ),
+  numbers = c(
+    "4070217",
+    "1153902720297"
+  )
+)
+
+
+# 4.1 This list is for expense accounts extracted through CSOB API --------------------------
+
+all_accounts_list[["expense_accounts_csob"]] <- list(
+  names = c(
+    "kscm"
+  ),
+  numbers = c(
+    "217343303"
+  )
+)
+
+
+# 4.2 This list is for donation accounts extracted through CSOB API --------------------------
+
+all_accounts_list[["donation_accounts_csob"]] <- list(
+  names = c(
+    "kscm"
+  ),
+  numbers = c(
+    "478648033"
+  )
+)
+
+
+# 5.1 This list is for expense accounts extracted through Ceska Sporitelna (CS) API --------------------------
+
+all_accounts_list[["expense_accounts_cs"]] <- list(
+  names = c(),
+  numbers = c()
+)
+
+
+# 5.2 This list is for donation accounts extracted through Ceska Sporitelna (CS) API --------------------------
+
+all_accounts_list[["donation_accounts_cs"]] <- list(
+  names = c(
+    "top_09"
+  ),
+  numbers = c(
+    "000000-0020091122"
+  )
+)
+
+# Save the list of lists for all of the accounts --------------------------
+saveRDS(all_accounts_list, paste0(subdir_name, "/all_accounts_list.rds"), compress = FALSE) 

@@ -17,6 +17,10 @@ invisible(lapply(packages, library, character.only = TRUE))
 ## 2. Function for scraping of the expense transparent bank accounts based in FIO bank
 
 scrape_fio_expense_accounts <- function(expense_accounts_fio, dir_name) {
+  
+  if (!is.null(expense_accounts_fio$links)) {
+    print("Some bank accounts selected, will attempt to run the function.")
+    
   # We initialize empty dataset to which we add rows with each loop iteration
   merged_dataset <- tibble()
   
@@ -71,13 +75,22 @@ scrape_fio_expense_accounts <- function(expense_accounts_fio, dir_name) {
   fwrite(x = merged_dataset, file = paste0(dir_name, "/expense_accounts/fio_expense_merged_data.csv"))
   saveRDS(object = merged_dataset, file = paste0(dir_name, "/expense_accounts/fio_expense_merged_data.rds"), compress = FALSE)
   write_feather(x = merged_dataset, sink = paste0(dir_name, "/expense_accounts/fio_expense_merged_data.feather"))
-}
+
+  } else if (is.null(expense_accounts_fio$links)) {
+    print("No bank accounts selected, skipping this step.")
+  }
+  
+  }
 
 ###############
 
 ## 3. Function for scraping of the donation transparent bank accounts based in FIO bank
 
 scrape_fio_donation_accounts <- function(donation_accounts_fio, dir_name) {
+  
+  if (!is.null(donation_accounts_fio$links)) {
+    print("Some bank accounts selected, will attempt to run the function.")
+    
   # We initialize empty dataset to which we add rows with each loop iteration
   yesterday_data <- tibble()
 
@@ -157,6 +170,10 @@ scrape_fio_donation_accounts <- function(donation_accounts_fio, dir_name) {
   } else if (dim(yesterday_data)[1] == 0) {
     print(paste("No transactions on any of the selected bank accounts between", start_date, "and", end_date, "no need to append"))
   }
+  
+  } else if (is.null(donation_accounts_fio$links)) {
+    print("No bank accounts selected, skipping this step.")
+  }
 }
 
 # ## 4. Function scrapes selected accounts summaries and saves them into one file
@@ -207,9 +224,9 @@ start_date <- format(Sys.Date() - 8, "%d.%m.%Y") # We select date a week ago in 
 end_date <- format(Sys.Date() - 1, "%d.%m.%Y") # Same as start_date - we only want yesterday
 
 # Load the external list containing names and links of the bank accounts
-expense_accounts_fio <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/expense_accounts_fio.rds"))
+expense_accounts_fio <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/all_accounts_list.rds"))[["expense_accounts_fio"]]
 
-donation_accounts_fio <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/donation_accounts_fio.rds"))
+donation_accounts_fio <- readRDS(paste0(dir_name, "/list_of_monitored_accounts/all_accounts_list.rds"))[["donation_accounts_fio"]]
 
 ## 6. Running both of the functions
 
