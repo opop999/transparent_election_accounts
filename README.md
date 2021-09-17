@@ -24,7 +24,7 @@
 
 -First version of trained machine learning algoritm (based on random forest) is available in the "ml_model" folder together with visualizations and experimental labelling of new, out-of-sample data
 
-### Target transparent bank accounts (work in progress - due to the complexity of scraping, not all accounts have to be available in their entirety):
+### Target transparent bank accounts:
 
 | **POLITICAL SUBJECT**                 | **URL**                                                   | **TYPE OF ACCOUNT**        |
 | :---                                  | :---                                                      | :---                       |
@@ -52,11 +52,3 @@
 | TOP 09                                | <https://www.csas.cz/cs/transparentni-ucty#/000000-0020091122>           | DONATION                   |
 | Soukromníci                           | <https://www.kb.cz/cs/transparentni-ucty/115-3902720297>  | DONATION                   |
 | KSČM                                  | <https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty/ucet/-/ta/478648033>  | DONATION                   |
-
-
-
-
-
-
-
-
