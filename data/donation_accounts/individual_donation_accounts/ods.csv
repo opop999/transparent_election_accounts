@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,15000,Okamžitá příchozí platba,Lahodová Markéta,"DAR, Markéta Lahodová",0,3000210001,,Lahodová Markéta,ods
 2021-09-15,17000,Okamžitá příchozí platba,TICHA LUDMILA,"DAR, Ludmila Tichá",308,2113210008,5462050352,TICHA LUDMILA,ods
 2021-09-15,20000,Bezhotovostní příjem,Jablonecká nástrojár,"DAR, JABLONECKA NASTROJARNA S.R.O.",308,2702210008,,Jablonecká nástrojár,ods
 2021-09-14,10000,Platba převodem uvnitř banky,"Kultová, Denisa","DAR, Denisa Kultova",,2800210013,,"DAR, Denisa Kultova",ods

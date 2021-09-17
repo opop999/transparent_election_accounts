@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,1000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
+2021-09-16,1000,Platba převodem uvnitř banky,"Vaculík, Zdeněk",Dar hnutí,,,,Dar hnutí,prisaha
+2021-09-16,9847,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-15,5000,Okamžitá příchozí platba,Miloslava Sachová,Dar hnutí Sachová,,,,Miloslava Sachová,prisaha
 2021-09-15,10000,Okamžitá příchozí platba,Miroslav Bezpalec,Dar hnutí,,,,Miroslav Bezpalec,prisaha
 2021-09-15,1000,Okamžitá příchozí platba,Dolejš Karel,Dar hnutí,0,6609261461,,Dolejš Karel,prisaha

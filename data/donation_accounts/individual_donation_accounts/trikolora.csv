@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,5000,Okamžitá příchozí platba,Dagmar Kadlecová,DAR  Dagmar Kadlecová,308,11001025,,Dagmar Kadlecová,trikolora
+2021-09-16,100,Bezhotovostní příjem,PAVEL JESLINEK,DAR,,234567,,PAVEL JESLINEK,trikolora
+2021-09-16,10000,Platba převodem uvnitř banky,CTT media s.r.o.,DAR,,123456,,Dar Soukromnici,trikolora
+2021-09-16,100,Bezhotovostní příjem,JIRINA GINA CUNKOVA,DAR PŘÍSPĚVEK RP,,6001364,,JIRINA GINA CUNKOVA,trikolora
+2021-09-16,50,Bezhotovostní příjem,HOLEČEK MIROSLAV,"",,9000372,,HOLEČEK MIROSLAV,trikolora
+2021-09-16,50000,Bezhotovostní příjem,Rajchl Jindřich,Finanční dar Jindřich Rajchl,,,,Rajchl Jindřich,trikolora
 2021-09-15,2000,Okamžitá příchozí platba,JIŘÍČEK PAVEL,"DAR, Pavel Jiricek",,123456,,JIŘÍČEK PAVEL,trikolora
 2021-09-15,500,Okamžitá příchozí platba,Fořt Petr,DAR,0,123456,,Fořt Petr,trikolora
 2021-09-15,500,Okamžitá příchozí platba,Ing. Václav Starý,DAR příspěvek RP,,12001913,,Ing. Václav Starý,trikolora

@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,-1000,Okamžitá odchozí platba,"","vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003266,,Voráč Emil,zeleni
+2021-09-16,1600,Okamžitá příchozí platba,Kubeš Milan,DAR  - Milan Kubeš pro Brno-střed,0,9003268,,Kubeš Milan,zeleni
+2021-09-16,1000,Okamžitá příchozí platba,Voráč Emil,"",308,9003266,,Voráč Emil,zeleni
+2021-09-16,1000,Bezhotovostní příjem,BOCEK ALES,dar,,9003264,,BOCEK ALES,zeleni
+2021-09-16,1000,Bezhotovostní příjem,STEPAN POPEL,DAR,,9003261,,STEPAN POPEL,zeleni
+2021-09-16,500,Bezhotovostní příjem,DUŠAN OSLEJ,"DAR SZ - 200,- ZO ÚSTÍ NAD LABEM +300,- HK SZ",,,,DUŠAN OSLEJ,zeleni
+2021-09-16,1000,Bezhotovostní příjem,KAROLINA ŽÁKOVSKÁ,"DAR SZ - 500 KČ PRO ZO ÚSTÍ NAD LABEM, 500 KČ PRO CELOU STRANU",,,,KAROLINA ŽÁKOVSKÁ,zeleni
+2021-09-16,500,Bezhotovostní příjem,Zuzana Smolová,dar,,9003257,,Zuzana Smolová,zeleni
+2021-09-16,500,Bezhotovostní příjem,Milan Vachovec,"Dar - Milan Vachovec,Smetanova 372,252 25 Jinočany",,9002648,,Milan Vachovec,zeleni
+2021-09-16,250,Bezhotovostní příjem,JEDLICKA JINDRICH,"Dar, mesicne 100 hl.kanc. 150 JmKO",,9002975,,JEDLICKA JINDRICH,zeleni
+2021-09-16,200,Bezhotovostní příjem,MÜLLEROVÁ TEREZA,ZELENÍ PRO ZO ČESKÉ BUDĚJOVICE,0,9002495,0,MÜLLEROVÁ TEREZA,zeleni
+2021-09-16,6000,Bezhotovostní příjem,CHMELOVÁ MARTINA,Dar pro Zelené Praha 3,308,9002955,,CHMELOVÁ MARTINA,zeleni
+2021-09-16,150,Platba převodem uvnitř banky,"Mgr. Hándl, Jiří",dar,,9002761,,dar,zeleni
+2021-09-16,300,Platba převodem uvnitř banky,"Valenta, Roman",dar,,9002644,,dar,zeleni
+2021-09-16,1000,Bezhotovostní příjem,JITKA KYLISOVA,DAR,,,,JITKA KYLISOVA,zeleni
 2021-09-15,300,Okamžitá příchozí platba,Heinrich Jan,dar,0,9003263,,Heinrich Jan,zeleni
 2021-09-15,300,Okamžitá příchozí platba,ŠKODA JAKUB,dar,,9003259,,ŠKODA JAKUB,zeleni
 2021-09-15,2000,Okamžitá příchozí platba,Zdeněk Černovský - P,dar na kampan,,9003258,,Zdeněk Černovský - P,zeleni

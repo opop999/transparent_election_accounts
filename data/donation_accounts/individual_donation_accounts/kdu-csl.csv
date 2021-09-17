@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,1,Platba převodem uvnitř banky,"RNDr. Banaš, Marek Ph.D.","Má předchozí platba byla pro Mariana Jurečku - Spolu, Olom. kraj",,,,"Má předchozí platba byla pro Mariana Jurečku - Spolu, Olom. kraj",kdu-csl
+2021-09-16,1500,Platba převodem uvnitř banky,"RNDr. Banaš, Marek Ph.D.","",,,,"",kdu-csl
+2021-09-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,"",0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl
+2021-09-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl
+2021-09-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
+2021-09-16,150,Bezhotovostní příjem,Weber Tomáš,Zdraví Prostějov - Tomáš Weber,999,19831015,,Weber Tomáš,kdu-csl
+2021-09-16,150,Bezhotovostní příjem,Weber Tomáš,Zdraví Prostějov - Jana Weberová,999,19860304,,Weber Tomáš,kdu-csl
 2021-09-15,6000,Okamžitá příchozí platba,Ing.Šiller Vojtěch,Dar Šillerová Eva 1982 Havířov,851,13011932,,Ing.Šiller Vojtěch,kdu-csl
 2021-09-15,2000,Bezhotovostní příjem,Filip Chvátal,Filip Chvátal pravidelný příspěvekKDU Brno,,27051986,709,Filip Chvátal,kdu-csl
 2021-09-14,30000,Bezhotovostní příjem,"SVĚTNIČKA MAREK, DIS",Věnováno Bruntálu,0,17121969,851,"SVĚTNIČKA MAREK, DIS",kdu-csl

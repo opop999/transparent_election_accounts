@@ -1,4 +1,26 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,10000,Platba převodem uvnitř banky,transla co s.r.o.,"",,44016143,193001,"",pirati
+2021-09-16,32768,Platba převodem uvnitř banky,"Peksa, Mikuláš",na kampaň pro mladé!,,44004281,911911,na kampaň pro mladé!,pirati
+2021-09-16,200,Bezhotovostní příjem,Aneta Klvaňová,Od Anetky,0,84547,190000,Aneta Klvaňová,pirati
+2021-09-16,100,Bezhotovostní příjem,Shanaáh Sámir,"",,44005196,,Shanaáh Sámir,pirati
+2021-09-16,500,Bezhotovostní příjem,PETR KOPEČNÝ,ÚČELOVÝ DAR PRO ZASTUPITELSKÉ KLUBY V OSTRAVĚ,,9001808,140401,PETR KOPEČNÝ,pirati
+2021-09-16,300,Bezhotovostní příjem,FILIP VANKO,PŘEVOD PROSTŘEDKŮ,,9001768,,FILIP VANKO,pirati
+2021-09-16,500,Bezhotovostní příjem,Martin Vlach,"",,44014198,1,Martin Vlach,pirati
+2021-09-16,300,Bezhotovostní příjem,Marek Andrt,"",,44009880,2,Marek Andrt,pirati
+2021-09-16,100,Bezhotovostní příjem,Jan Zdobinský,Drzte se,,83670,1,Jan Zdobinský,pirati
+2021-09-16,1000,Bezhotovostní příjem,Zuzana Ujhelyiová,záměr Provozní výdaje MS Praha 11,,,110111,Zuzana Ujhelyiová,pirati
+2021-09-16,250,Bezhotovostní příjem,TROJANOVÁ MARCELA,podpora,,44012543,2,TROJANOVÁ MARCELA,pirati
+2021-09-16,29556.17,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1630050733,20210915,Global Payments s.r.,pirati
+2021-09-16,100,Bezhotovostní příjem,CHOVANCAK JAKUB,"",,44002970,,CHOVANCAK JAKUB,pirati
+2021-09-16,150,Bezhotovostní příjem,VAVRA LUKAS,Podpora piratske strany,,86651,190000,VAVRA LUKAS,pirati
+2021-09-16,2000,Bezhotovostní příjem,KOCI MICHAL,Na plavbu zatokou Prahy 10,308,11358,110110,KOCI MICHAL,pirati
+2021-09-16,10000,Bezhotovostní příjem,VRLA MARTIN,DAR 44016133/193000,,44016133,193000,VRLA MARTIN,pirati
+2021-09-16,100,Bezhotovostní příjem,Páník Marek,"",0,83007,190000,Páník Marek,pirati
+2021-09-16,2500,Bezhotovostní příjem,HORKÝ JAROMÍR,DAR NA PROVOZ PŘEROVSKÉHO PICE,0,0,110303,HORKÝ JAROMÍR,pirati
+2021-09-16,100,Bezhotovostní příjem,SENKO ALEŠ,"",0,44005376,1,SENKO ALEŠ,pirati
+2021-09-16,500,Platba převodem uvnitř banky,"Kopač, Petr",Petr Kopac,,9001756,,Petr Kopac,pirati
+2021-09-16,250,Platba převodem uvnitř banky,"Ing. Chocholatý, Libor",DAR 44015494/193000,,44015494,193000,DAR 44015494/193000,pirati
+2021-09-16,2500,Bezhotovostní příjem,VERA CESTROVA,DAR 44005702/193000,,44005702,193000,VERA CESTROVA,pirati
 2021-09-15,1000,Okamžitá příchozí platba,Beinstein David,"",0,44009169,1,Beinstein David,pirati
 2021-09-15,500,Okamžitá příchozí platba,Radek Nováček,DAR 84766/193000,,84766,193000,Radek Nováček,pirati
 2021-09-15,5000,Okamžitá příchozí platba,Tomáš Prokop,DAR 44016126/193000,0,44016126,193000,Tomáš Prokop,pirati

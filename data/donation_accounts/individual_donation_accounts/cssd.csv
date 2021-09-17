@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-16,-15000,Okamžitá odchozí platba,"","ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",cssd
+2021-09-16,-5000,Okamžitá odchozí platba,"","ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",cssd
+2021-09-16,-1970,Platba převodem uvnitř banky,"","převod daru, Roman Onderka, pro potřeby Brno město",,,,"převod daru, Roman Onderka, pro potřeby Brno město",cssd
+2021-09-16,5000,Okamžitá příchozí platba,"Mgr.Štědroň Jakub,Ph",Dar ve prospěch ČSSD - OP Praha 6,0,22051979,,"Mgr.Štědroň Jakub,Ph",cssd
+2021-09-16,15000,Okamžitá příchozí platba,"Mgr.Štědroň Jakub,Ph",Dar volby PSPCR 2021 - Praha,0,22051979,,"Mgr.Štědroň Jakub,Ph",cssd
+2021-09-16,-50000,Platba převodem uvnitř banky,"","převod daru, Karel Holík, volby PS PČR, Zlínský kraj",,,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",cssd
+2021-09-16,-30000,Platba převodem uvnitř banky,"","převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",,,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",cssd
+2021-09-16,10000,Bezhotovostní příjem,HAVÍŘ PAVEL,Dar ve prospěch ČSSD Pavel Havíř 1955,0,21021955,0,HAVÍŘ PAVEL,cssd
 2021-09-14,1e+05,Okamžitá příchozí platba,Roman Onderka,Dar volby PSP ČR 2021,,11111965,,Roman Onderka,cssd
 2021-09-14,-80000,Platba převodem uvnitř banky,"","převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",,,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",cssd
 2021-09-14,-15000,Platba převodem uvnitř banky,"","převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",,,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",cssd
