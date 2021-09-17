@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+17.09.2021,17690.2,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,8221000072,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021
+17.09.2021,30000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,202110,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021
 17.09.2021,-12100,Karetní transakce,"","Nákup: FACEBK TZXL68TJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.9.2021, částka  12100.00 CZK",,6211,,"Nákup: FACEBK TZXL68TJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.9.2021, částka  12100.00 CZK"
 16.09.2021,-15000,Okamžitá odchozí platba,"",FA 2021024 - střih propagačních videí,,2021024,,SZ - Zuzana Walterová
 16.09.2021,-15000,Bezhotovostní platba,"",FA 01_21 - poradenské služby PR,,121,,SZ - Petra Koutská Schwarzová
