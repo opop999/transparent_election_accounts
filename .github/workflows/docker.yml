@@ -26,7 +26,7 @@ jobs:
       run: Rscript 01_scrape_kb_accounts.R
     - name: Scrape CSOB bank accounts
       env:
-           CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
+        CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
       run: Rscript 01_scrape_csob_accounts.R
     # - name: Scrape Ceska Sporitelna bank accounts
     # env:
