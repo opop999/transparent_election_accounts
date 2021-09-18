@@ -1,4 +1,22 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,20000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",DAR 44015657/193010,,44015657,193010,DAR 44015657/193010,pirati
+2021-09-17,50000,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch",Vojtěch Pikal - Volební kampaň Pirátů a Starostů Olomouckého kraje,558,44015536,193030,Vojtěch Pikal - Volební kampaň Pirátů a Starostů Olomouckého kraje,pirati
+2021-09-17,100,Bezhotovostní příjem,IRENA MARKOVÁ,POMOC PIRÁTSKÉ STRANĚ,,44005404,1,IRENA MARKOVÁ,pirati
+2021-09-17,500,Bezhotovostní příjem,JIŘÍ BRŮŽEK,AŤ NÁS SÍLA PROVÁZÍ :-),,,110100,JIŘÍ BRŮŽEK,pirati
+2021-09-17,1700,Bezhotovostní příjem,JIRI BRUZEK,AŤ NÁS SÍLA PROVÁZÍ:-) - ÚČELOVÝ DAR NA AKCE MS P12,,,110112,JIRI BRUZEK,pirati
+2021-09-17,200,Bezhotovostní příjem,MARTIN LAŽNOVSKÝ,"DAR, MARTIN LAZNOVSKY, UVOZ 25, BRNO, 6.3.1980",,83418,4,MARTIN LAŽNOVSKÝ,pirati
+2021-09-17,50,Bezhotovostní příjem,Martin Vobořil,Drobný příspěvek pirátům.,,84708,,Martin Vobořil,pirati
+2021-09-17,250,Bezhotovostní příjem,Miroslav Hanák,"M.Hanák, příspěvek na Piráty , Pha, od 2.2021",,44010494,2,Miroslav Hanák,pirati
+2021-09-17,200,Bezhotovostní příjem,Martin Čech,"",,44013881,1,Martin Čech,pirati
+2021-09-17,50,Bezhotovostní příjem,Eva Aljanabi,"",,44006037,,Eva Aljanabi,pirati
+2021-09-17,250,Bezhotovostní příjem,Andrej Koudelka,"",2,44011068,,Andrej Koudelka,pirati
+2021-09-17,25587.62,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1630074322,20210916,Global Payments s.r.,pirati
+2021-09-17,1500,Bezhotovostní příjem,BARTKO JAN,pro nase mile MS,,12024,110103,BARTKO JAN,pirati
+2021-09-17,100,Bezhotovostní příjem,MONTONIOVA RADKA,"",,44011501,2,MONTONIOVA RADKA,pirati
+2021-09-17,300,Platba převodem uvnitř banky,"Petroš, Jakub","",,82717,110404,"",pirati
+2021-09-17,400,Bezhotovostní příjem,KOKY MAXIM,MS FM CYRIL KOKY,0,44015640,110404,KOKY MAXIM,pirati
+2021-09-17,300,Bezhotovostní příjem,ŠPAJS VLASTIMIL,DAR NA PROVOZ PŘEROVSKÉHO PICE,0,0,110303,ŠPAJS VLASTIMIL,pirati
+2021-09-17,250,Bezhotovostní příjem,Lauritzenová Klára,Lauritzenová Klára,,44007593,2,Lauritzenová Klára,pirati
 2021-09-16,10000,Platba převodem uvnitř banky,transla co s.r.o.,"",,44016143,193001,"",pirati
 2021-09-16,32768,Platba převodem uvnitř banky,"Peksa, Mikuláš",na kampaň pro mladé!,,44004281,911911,na kampaň pro mladé!,pirati
 2021-09-16,200,Bezhotovostní příjem,Aneta Klvaňová,Od Anetky,0,84547,190000,Aneta Klvaňová,pirati

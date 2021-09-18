@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,100,Platba převodem uvnitř banky,"Ing. Popovský, Libor",Libor Popovský,,,,Libor Popovský,trikolora
+2021-09-17,250000,Okamžitá příchozí platba,"Surovič Juraj,Ing.",DAR,0,1151515,,"Surovič Juraj,Ing.",trikolora
+2021-09-17,2000,Bezhotovostní příjem,VOKRALOVA HANA,"",308,123456,,VOKRALOVA HANA,trikolora
+2021-09-17,-1500000,Platba převodem uvnitř banky,"",převod na volební výdajový účet,,,,převod na volební výdajový účet,trikolora
+2021-09-17,2000,Bezhotovostní příjem,ERNEST WACHTL,PŘEVOD PROSTŘEDKŮ,,121212,,ERNEST WACHTL,trikolora
+2021-09-17,1000,Bezhotovostní příjem,KUBR ZDENĚK,DAR Kubr,0,123456,0,KUBR ZDENĚK,trikolora
+2021-09-17,200,Bezhotovostní příjem,Michal Burian,DAR Michal Burian,,234567,,Michal Burian,trikolora
+2021-09-17,150,Bezhotovostní příjem,BUCHTELA DAVID,"DAR, David Buchtela",,0,,BUCHTELA DAVID,trikolora
 2021-09-16,5000,Okamžitá příchozí platba,Dagmar Kadlecová,DAR  Dagmar Kadlecová,308,11001025,,Dagmar Kadlecová,trikolora
 2021-09-16,100,Bezhotovostní příjem,PAVEL JESLINEK,DAR,,234567,,PAVEL JESLINEK,trikolora
 2021-09-16,10000,Platba převodem uvnitř banky,CTT media s.r.o.,DAR,,123456,,Dar Soukromnici,trikolora

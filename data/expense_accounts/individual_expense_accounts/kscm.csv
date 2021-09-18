@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-09-17,-126897.92,Odchozí úhrada,Česká distribuční a.s.,1142008256,5500,volby PČR - distribuce,0,420210318,,CZK,kscm
+2021-09-17,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
+2021-09-17,126897.92,Příchozí úhrada,KSČM,478648033,300,Luzar Leo - fin.dar pro volbyPS PČR,0,38100,,CZK,kscm
+2021-09-17,-240,Odchozí úhrada,Městské kulturní středisko Kyj,1441893339,800,volby PČR - pronájem,0,210188,,CZK,kscm
+2021-09-17,-1936,Odchozí úhrada,Zdeněk Husták,2600734314,2010,volby PČR - výlep,0,142021,,CZK,kscm
+2021-09-17,-2395.8,Odchozí úhrada,,2112500287,100,volby PČR - pronájem rekl.ploch,0,300226,,CZK,kscm
+2021-09-17,-6142,Odchozí úhrada,ZIKADO s.r.o.,7395520001,5500,volby PČR - reklama,0,21006424,,CZK,kscm
+2021-09-17,-8324.8,Odchozí úhrada,AUDIS BUS s.r.o.,177488400,300,volby PČR - přeprava osob,0,21600053,,CZK,kscm
+2021-09-17,-8548.65,Odchozí úhrada,Cheops reklama a tisk s.r.o.,1079554960207,100,volby PČR - prop.předměty,0,210100255,,CZK,kscm
+2021-09-17,-10285,Odchozí úhrada,"ALMA, z. s.",2800216490,2010,volby PČR - inzerce,0,20210214,,CZK,kscm
+2021-09-17,-21780,Odchozí úhrada,VENDI s.r.o.,9604410247,100,volby PČR - nájem panelů,0,2100584,,CZK,kscm
+2021-09-17,-32065,Odchozí úhrada,MOBILBOARD s.r.o.,197196050,300,volby PČR - MHD reklama,0,20210348,,CZK,kscm
+2021-09-17,-35306.59,Odchozí úhrada,EURO NOVA & PARTNER`S spol. s,78854006,2700,volby PČR - MHD reklama,0,210893,,CZK,kscm
+2021-09-17,-36300,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - banery,0,2021110272,,CZK,kscm
+2021-09-17,-50820,Odchozí úhrada,Český Domov Media House s.r.o.,2110626628,2700,volby PČR - reklama,0,21321105,,CZK,kscm
+2021-09-17,-121000,Odchozí úhrada,"Dopravní podnik města Brna, a.",8905621,100,volby PČR - MHD - pronájem rekl.ploch,0,8004210514,,CZK,kscm
 2021-09-16,5714,Příchozí úhrada,KOMUNISTIC.STR.CECH,298662137,300,Převod od KV KSČM Vysočina,,36100,,CZK,kscm
 2021-09-16,10285,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm
 2021-09-16,11858,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,TÚpřevod od Rakovníka fa: 072/2021,0,32112,,CZK,kscm

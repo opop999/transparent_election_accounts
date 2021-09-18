@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,-130000,Platba převodem uvnitř banky,"",1111-převod financí,,,,1111-převod financí,ods
+2021-09-17,10000,Bezhotovostní příjem,VRLA MARTIN,"DAR, Martin Vrla",0,2600210021,0,VRLA MARTIN,ods
+2021-09-17,50000,Bezhotovostní příjem,STEFAN JANOUSEK,"DAR, STEFAN JANOUSEK",,1100210080,,STEFAN JANOUSEK,ods
 2021-09-16,15000,Okamžitá příchozí platba,Lahodová Markéta,"DAR, Markéta Lahodová",0,3000210001,,Lahodová Markéta,ods
 2021-09-15,17000,Okamžitá příchozí platba,TICHA LUDMILA,"DAR, Ludmila Tichá",308,2113210008,5462050352,TICHA LUDMILA,ods
 2021-09-15,20000,Bezhotovostní příjem,Jablonecká nástrojár,"DAR, JABLONECKA NASTROJARNA S.R.O.",308,2702210008,,Jablonecká nástrojár,ods

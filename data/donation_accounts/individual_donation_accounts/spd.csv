@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,50000,Platba převodem uvnitř banky,"JUDr. Paul, Petr",DAR -  PETR PAUL,308,58601,,DAR -  PETR PAUL,spd
+2021-09-17,25000,Bezhotovostní příjem,BAŠTA JAROSLAV,DAR Jaroslav Bašta,0,53002,0,BAŠTA JAROSLAV,spd
+2021-09-17,0.01,Okamžitá příchozí platba,Petr Kolář,"Ne ne a ne Pitomio,uz ti nezazpivam.",,,,Petr Kolář,spd
+2021-09-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
+2021-09-17,1e+05,Bezhotovostní příjem,OKAMURA TOMIO,DAR,308,1,0,OKAMURA TOMIO,spd
 2021-09-16,-4e+05,Platba převodem uvnitř banky,"",Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-16,50000,Bezhotovostní příjem,POSAROVA MARIE,Posarova dar,,30100,,POSAROVA MARIE,spd
 2021-09-16,40,Bezhotovostní příjem,Martin Trubka,dar na činnost,,,,Martin Trubka,spd

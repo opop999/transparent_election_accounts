@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,20000,Okamžitá příchozí platba,DOLEŽÁLEK VÍT,dar na volby,,,,DOLEŽÁLEK VÍT,kdu-csl
+2021-09-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
 2021-09-16,1,Platba převodem uvnitř banky,"RNDr. Banaš, Marek Ph.D.","Má předchozí platba byla pro Mariana Jurečku - Spolu, Olom. kraj",,,,"Má předchozí platba byla pro Mariana Jurečku - Spolu, Olom. kraj",kdu-csl
 2021-09-16,1500,Platba převodem uvnitř banky,"RNDr. Banaš, Marek Ph.D.","",,,,"",kdu-csl
 2021-09-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,"",0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl

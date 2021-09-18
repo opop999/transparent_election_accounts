@@ -1,11 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-09-15,12000,Okamžitá příchozí platba,Tomáš Bloudek,DAR Tomáš Bloudek 16.7.1970 Roztoky,,16071970,190151021,Tomáš Bloudek,stan
+2021-09-17,20000,Bezhotovostní příjem,MACHACEK MARTIN,"DAR, M. Machacek, 15.12.48,Ondrejov",,0,185042621,DAR - MACHACEK MARTIN,stan
+2021-09-15,12000,Okamžitá příchozí platba,Tomáš Bloudek,DAR Tomáš Bloudek 16.7.1970 Roztoky,,16071970,190151021,DAR - Tomáš Bloudek,stan
 2021-09-15,4000,Bezhotovostní příjem,Ing.Suchánek Josef,"",0,,,DAR - Ing.Suchánek Josef,stan
 2021-09-15,10000,Bezhotovostní příjem,BALATKA MIROSLAV,"DAR Miroslav Balatka, 13. 7. 1970,Sokolov",,13071970,212140321,DAR - BALATKA MIROSLAV,stan
 2021-09-14,3000,Okamžitá příchozí platba,Jakub Sadílek,"Jakub Sadílek, Praha 6",,,101033821,DAR - Jakub Sadílek,stan
 2021-09-13,10000,Bezhotovostní příjem,ROBERT PISAR,"DAR, ROBERT PISÁR, 22.6.1973, ŠABINA",,22061973,188140121,DAR - ROBERT PISAR,stan
 2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin","",,187120221,,DAR - Martin Velík,stan
 2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,"",0,25405756,0,DAR - STROJÍRNA LITVÍNOV,stan
+2021-09-15,12000,Okamžitá příchozí platba,Tomáš Bloudek,DAR Tomáš Bloudek 16.7.1970 Roztoky,,16071970,190151021,Tomáš Bloudek,stan
 2021-09-09,2000,Bezhotovostní příjem,KULHANEK PETR,Stan,,14041971,189140221,DAR - KULHANEK PETR,stan
 2021-09-08,30000,Bezhotovostní příjem,MARTIN HAJEK,"DAR, MARTIN HÁJEK, 22.04.1970, RADĚJOV",,22041970,49110321,DAR - MARTIN HAJEK,stan
 2021-09-14,3000,Okamžitá příchozí platba,Jakub Sadílek,"Jakub Sadílek, Praha 6",,,101033821,Jakub Sadílek,stan

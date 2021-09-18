@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,1200,Bezhotovostní příjem,SVOBODOVA MILENA,Jedna se o dar.,,9003269,,SVOBODOVA MILENA,zeleni
+2021-09-17,300,Bezhotovostní příjem,BARBORA KOUDELOVÁ,DAR,,9002604,,BARBORA KOUDELOVÁ,zeleni
+2021-09-17,200,Bezhotovostní příjem,ADAM HORKY,DAR ZELENÝM,,9002699,,ADAM HORKY,zeleni
+2021-09-17,150,Bezhotovostní příjem,MARIE SEHNALOVA,DAR - PRAVIDELNY MESICNI,,,,MARIE SEHNALOVA,zeleni
+2021-09-17,200,Bezhotovostní příjem,ANNA KŠÍROVÁ,DAR,,9002649,,ANNA KŠÍROVÁ,zeleni
+2021-09-17,150,Bezhotovostní příjem,RADEK OCELÁK,DAR PRO SZ (CENTRÁLA),,9002621,,RADEK OCELÁK,zeleni
+2021-09-17,500,Bezhotovostní příjem,Hýbl Radek,Dar,,9003265,,Hýbl Radek,zeleni
+2021-09-17,800,Bezhotovostní příjem,MASARE VIT,300 centru/200 Martin Ander do Senatu/300 KO Praha,,9002355,,MASARE VIT,zeleni
+2021-09-17,1000,Bezhotovostní příjem,Žitný Zbyněk,Dar,0,9002038,0,Žitný Zbyněk,zeleni
+2021-09-17,300,Bezhotovostní příjem,GLOBOČNÍK PETR,DAR GLOBOČNÍK,0,0,0,GLOBOČNÍK PETR,zeleni
+2021-09-17,500,Bezhotovostní příjem,Adam Rujbr Architect,dar,0,0,0,Adam Rujbr Architect,zeleni
+2021-09-17,1000,Bezhotovostní příjem,MYNAROVA MARIE,dar,,9003267,,MYNAROVA MARIE,zeleni
 2021-09-16,-1000,Okamžitá odchozí platba,"","vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003266,,Voráč Emil,zeleni
 2021-09-16,1600,Okamžitá příchozí platba,Kubeš Milan,DAR  - Milan Kubeš pro Brno-střed,0,9003268,,Kubeš Milan,zeleni
 2021-09-16,1000,Okamžitá příchozí platba,Voráč Emil,"",308,9003266,,Voráč Emil,zeleni

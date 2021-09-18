@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-17,190000,Okamžitá příchozí platba,Jiří Tryner,Dar,,,,Jiří Tryner,prisaha
+2021-09-17,55000,Okamžitá příchozí platba,Hes Milan,Dar,0,,,Hes Milan,prisaha
+2021-09-17,200,Bezhotovostní příjem,RAUŠEROVÁ ILJANA,dar spolku,,80158,,RAUŠEROVÁ ILJANA,prisaha
+2021-09-17,1000,Bezhotovostní příjem,Miroš Vladimír,"",0,,,Miroš Vladimír,prisaha
+2021-09-17,2000,Bezhotovostní příjem,KOSAN MICHAL,"",,0,,KOSAN MICHAL,prisaha
+2021-09-17,190.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-17,1000,Bezhotovostní příjem,MOOCOVA MARGITA,Dar Hnuti,,0,,MOOCOVA MARGITA,prisaha
 2021-09-16,1000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
 2021-09-16,1000,Platba převodem uvnitř banky,"Vaculík, Zdeněk",Dar hnutí,,,,Dar hnutí,prisaha
 2021-09-16,9847,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha

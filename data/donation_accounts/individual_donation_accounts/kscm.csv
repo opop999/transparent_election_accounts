@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-09-17,6800,Okamžitá úhrada,DVOŘÁK KAREL,156941560,600,"finanční dar Karel Dvořák Na Výsluní 1238, Chotěboř",,770411,36101,CZK,kscm
+2021-09-17,-126897.92,Odchozí úhrada,KSČM,217343303,300,Luzar Leo - fin.dar pro volbyPS PČR,0,38100,,CZK,kscm
+2021-09-17,4000,Okamžitá úhrada,Ing.Zahradník Václav,146308083,800,"DAR, volební náklady, Ing.Václav Zahradník, Plzeň, Na Bradlavce 2",,230352,,CZK,kscm
+2021-09-17,10000,Příchozí úhrada,ONDRACEK ZDENEK,157929678,300,dar,308,,,CZK,kscm
 2021-09-16,126897.92,Okamžitá úhrada,Leo Luzar,1174591028,3030,Leo Luzar finančni dar,8,38100,,CZK,kscm
 2021-09-15,13433,Okamžitá úhrada,Šormová Táňa,1115174339,800,"Táňa Šormová, Hradec Králové - finanční dar",,565609,35201,CZK,kscm
 2021-09-15,1300,Příchozí úhrada,Matlachová Koníčková,2800898911,2010,Petra Matlachová - finanční dar,,34202,,CZK,kscm
@@ -26,9 +30,9 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-09-13,25000,Okamžitá úhrada,JUDr. Jozef Rozsár,7779524001,5500,Finanční dar,,610305,610305,CZK,kscm
 2021-09-11,652,Příchozí úhrada,SEFCIK ZBYNEK,5409075,300,"Zbyněk Šefčík, Plzeň -finanční dar",,,33203,CZK,kscm
 2021-09-10,-8000,Odchozí úhrada,,803600173,800,nespecifikovaný plátce,0,38106,,CZK,kscm
-2021-09-10,1060,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar ZPK,,,33200,CZK,kscm
-2021-09-10,16000,Příchozí úhrada,VALENTA JIRI,125612502,300,J.Valenta finanční dar,,,,CZK,kscm
 2021-09-10,3000,Příchozí úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,308,,0,CZK,kscm
+2021-09-10,16000,Příchozí úhrada,VALENTA JIRI,125612502,300,J.Valenta finanční dar,,,,CZK,kscm
+2021-09-10,1060,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar ZPK,,,33200,CZK,kscm
 2021-09-09,1400,Příchozí úhrada,JUHOVA JAROSLAVA,176167891,300,"""Miloslav Švantner,Plzeň - finančnídar""",,,33203,CZK,kscm
 2021-09-09,414,Příchozí úhrada,Ivan Maštálka,1047171012,3030,"Ivan Maštálka, Plzeň  - finanční dar",,3231904,33203,CZK,kscm
 2021-09-09,4132,Okamžitá úhrada,Heřman Václav,1429807143,800,,,,33203,CZK,kscm
