@@ -47,14 +47,14 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-09-14,-60621,Odchozí úhrada,W & P EURONOVA s.r.o.,629888,300,volby PČR - MHD pronájem reklamních ploch,0,21190297,,CZK,kscm
 2021-09-14,-118157,Odchozí úhrada,MARF s.r.o.,241299250,300,volby PČR - leták,0,202101391,,CZK,kscm
 2021-09-13,1271,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko,0,,,CZK,kscm
-2021-09-13,344,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
-2021-09-13,144,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
-2021-09-13,192,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
-2021-09-13,25000,Příchozí úhrada,KSČM,478648033,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
-2021-09-13,-968,Odchozí úhrada,Milan Rusňák,130745561,100,volby PČR - polep,0,210460,,CZK,kscm
-2021-09-13,-1980,Odchozí úhrada,Městské kulturní středisko Fra,3737331,100,volby PČR - výlep,0,262021,,CZK,kscm
-2021-09-13,-9196,Odchozí úhrada,"Městský dopravní podnik Opava,",230808451,300,volby PČR - probájem plochy,0,41000199,,CZK,kscm
 2021-09-13,-24200,Odchozí úhrada,"MAFRA, a.s.",1218942011,100,volby PČR - inzerce,0,2321006125,,CZK,kscm
+2021-09-13,-9196,Odchozí úhrada,"Městský dopravní podnik Opava,",230808451,300,volby PČR - probájem plochy,0,41000199,,CZK,kscm
+2021-09-13,-1980,Odchozí úhrada,Městské kulturní středisko Fra,3737331,100,volby PČR - výlep,0,262021,,CZK,kscm
+2021-09-13,-968,Odchozí úhrada,Milan Rusňák,130745561,100,volby PČR - polep,0,210460,,CZK,kscm
+2021-09-13,25000,Příchozí úhrada,KSČM,478648033,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
+2021-09-13,192,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
+2021-09-13,144,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
+2021-09-13,344,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
 2021-09-10,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
 2021-09-10,-52500,Odchozí úhrada,Obec Svojšice,1205440389,800,volby PČR - nájemné areálu,0,2101000005,,CZK,kscm
 2021-09-10,-20000,Odchozí úhrada,Jaroslav Drozen,1222997015,3030,volby PČR - hudební produkce,0,121,,CZK,kscm

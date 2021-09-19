@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-18,-20000,Karetní transakce,"","Nákup: FACEBK AX2K977VF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",,8267,,"Nákup: FACEBK AX2K977VF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",pirati_stan
 2021-09-18,-1500,Karetní transakce,"","Nákup: MOTOREST N A SUSTNE,  KRUPA 63, KRUPA, 270 09, CZE, dne 17.9.2021, částka  1500.00 CZK",,8267,,"Nákup: MOTOREST N A SUSTNE,  KRUPA 63, KRUPA, 270 09, CZE, dne 17.9.2021, částka  1500.00 CZK",pirati_stan
 2021-09-18,-481.2,Karetní transakce,"","Nákup: FACEBK GRPHU6XHG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  481.20 CZK",,2020,,"Nákup: FACEBK GRPHU6XHG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  481.20 CZK",pirati_stan
 2021-09-17,-500,Karetní transakce,"","Nákup: FACEBK WKYGH774Q2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  500.00 CZK",,6835,,"Nákup: FACEBK WKYGH774Q2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  500.00 CZK",pirati_stan
@@ -2003,7 +2004,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-03-28,-5710,Platba převodem uvnitř banky,"","pp#15398 FO 653/2021, pha:p, zalohova-faktura-provozni-vydaje-merche, 1piratska-sro",,2017004356,,"pp#15398 FO 653/2021, pha:p, zalohova-faktura-provozni-vydaje-merche, 1piratska-sro",pirati_stan
 2021-03-28,-1000,Bezhotovostní platba,"","pp#15111 FO 388/2021, cen:mo, administrativni-vypomoc-mo-leden, jitka-pastykova",,2,,"pp#15111 FO 388/2021, cen:mo, administrativni-vypomoc-mo-leden, jitka-pastykova",pirati_stan
 2021-03-27,-3000,Karetní transakce,"","Nákup: FACEBK *WFHGK3XVJ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  3000.00 CZK",,8267,,"Nákup: FACEBK *WFHGK3XVJ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  3000.00 CZK",pirati_stan
-2021-03-25,1e+05,Okamžitá příchozí platba,MUDr. Zdeněk Malý,Volby do sněmovny 2021 Podpora,,,,MUDr. Zdeněk Malý,pirati_stan
 2021-09-17,-11500,Platba převodem uvnitř banky,"","",308,2021017,3200,"1114-Roman Pištělák , výlep plakátů Lkina",ods_kdu-csl_top09
 2021-09-17,-1264,Bezhotovostní platba,"","",308,84,1114,"1114-Město Nasavrky , výlep plakátů",ods_kdu-csl_top09
 2021-09-17,-266.2,Bezhotovostní platba,"","",308,181010421,3000,"1114-Technické služby Krnov , výlep plakátů",ods_kdu-csl_top09
@@ -2723,6 +2723,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-27,-500,Okamžitá odchozí platba,"","",0,1260000540,3200,"3200-Úřad městské části , zábor",ods_kdu-csl_top09
 2021-01-25,-1331,Okamžitá odchozí platba,"",registrace domény spolu.tv,558,5210129474,,registrace domény spolu.tv,ods_kdu-csl_top09
 2021-01-25,5000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-09-18,-277676.85,Platba převodem uvnitř banky,"","Elseya spol. s r.o., ozvučení, podium a led stěna",,210800005,100,"Elseya spol. s r.o., ozvučení, podium a led stěna",spd
 2021-09-18,-20000,Karetní transakce,"","Nákup: FACEBK B8LCV87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK B8LCV87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  20000.00 CZK",spd
 2021-09-17,-20000,Karetní transakce,"","Nákup: FACEBK LT94Z5FZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK LT94Z5FZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  20000.00 CZK",spd
 2021-09-17,-15000,Karetní transakce,"","Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 16.9.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 16.9.2021, částka  15000.00 CZK",spd
@@ -3249,6 +3250,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-20,-726,Bezhotovostní platba,"",Olomoucký - pronájem rekl. plochy,308,1035000018,,Olomoucký - pronájem rekl. plochy,spd
 2021-01-20,-1486727,Bezhotovostní platba,"",pronájem reklamních panelů,308,310210001,,pronájem reklamních panelů,spd
 2021-01-20,3e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-18,-1211.6,Karetní transakce,"","Nákup: Hradec Kralove - Rasin,  Hradec Kralove - Rasin, Hradec Kralov, 50001, CZE, dne 17.9.2021, částka  1211.60 CZK",,1793,,"Nákup: Hradec Kralove - Rasin,  Hradec Kralove - Rasin, Hradec Kralov, 50001, CZE, dne 17.9.2021, částka  1211.60 CZK",cssd
+2021-09-18,-9,Poplatek - platební karta,"","Poplatek - dotaz na zůstatek v ATM: RBCZ, Brno, CZE, dne 17.9.2021",,810,,"Poplatek - dotaz na zůstatek v ATM: RBCZ, Brno, CZE, dne 17.9.2021",cssd
 2021-09-18,-1148.9,Karetní transakce,"","Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 17.9.2021, částka  1148.90 CZK",,634,,"Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 17.9.2021, částka  1148.90 CZK",cssd
 2021-09-18,-9000,Karetní transakce,"","Nákup: FACEBK WTG6Z63MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  9000.00 CZK",,2831,,"Nákup: FACEBK WTG6Z63MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  9000.00 CZK",cssd
 2021-09-17,-6000,Karetní transakce,"","Nákup: FACEBK TNJRE93LF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  6000.00 CZK",,2831,,"Nákup: FACEBK TNJRE93LF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  6000.00 CZK",cssd

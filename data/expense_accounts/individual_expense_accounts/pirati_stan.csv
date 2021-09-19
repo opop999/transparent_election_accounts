@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+18.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK AX2K977VF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",,8267,,"Nákup: FACEBK AX2K977VF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK"
 18.09.2021,-1500,Karetní transakce,"","Nákup: MOTOREST N A SUSTNE,  KRUPA 63, KRUPA, 270 09, CZE, dne 17.9.2021, částka  1500.00 CZK",,8267,,"Nákup: MOTOREST N A SUSTNE,  KRUPA 63, KRUPA, 270 09, CZE, dne 17.9.2021, částka  1500.00 CZK"
 18.09.2021,-481.2,Karetní transakce,"","Nákup: FACEBK GRPHU6XHG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  481.20 CZK",,2020,,"Nákup: FACEBK GRPHU6XHG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  481.20 CZK"
 17.09.2021,-500,Karetní transakce,"","Nákup: FACEBK WKYGH774Q2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  500.00 CZK",,6835,,"Nákup: FACEBK WKYGH774Q2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  500.00 CZK"
@@ -2003,4 +2004,3 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
 28.03.2021,-5710,Platba převodem uvnitř banky,"","pp#15398 FO 653/2021, pha:p, zalohova-faktura-provozni-vydaje-merche, 1piratska-sro",,2017004356,,"pp#15398 FO 653/2021, pha:p, zalohova-faktura-provozni-vydaje-merche, 1piratska-sro"
 28.03.2021,-1000,Bezhotovostní platba,"","pp#15111 FO 388/2021, cen:mo, administrativni-vypomoc-mo-leden, jitka-pastykova",,2,,"pp#15111 FO 388/2021, cen:mo, administrativni-vypomoc-mo-leden, jitka-pastykova"
 27.03.2021,-3000,Karetní transakce,"","Nákup: FACEBK *WFHGK3XVJ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  3000.00 CZK",,8267,,"Nákup: FACEBK *WFHGK3XVJ2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 26.3.2021, částka  3000.00 CZK"
-25.03.2021,1e+05,Okamžitá příchozí platba,MUDr. Zdeněk Malý,Volby do sněmovny 2021 Podpora,,,,MUDr. Zdeněk Malý

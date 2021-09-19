@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-18,2000,Okamžitá příchozí platba,"RNDr. Bendl Jiří, CS",dar od Jiřího Bendla,,9003271,,"RNDr. Bendl Jiří, CS",zeleni
 2021-09-17,1200,Bezhotovostní příjem,SVOBODOVA MILENA,Jedna se o dar.,,9003269,,SVOBODOVA MILENA,zeleni
 2021-09-17,300,Bezhotovostní příjem,BARBORA KOUDELOVÁ,DAR,,9002604,,BARBORA KOUDELOVÁ,zeleni
 2021-09-17,200,Bezhotovostní příjem,ADAM HORKY,DAR ZELENÝM,,9002699,,ADAM HORKY,zeleni

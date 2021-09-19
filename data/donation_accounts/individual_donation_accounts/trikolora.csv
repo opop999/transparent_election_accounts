@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-18,500,Okamžitá příchozí platba,Lenka Hodo,dar Lenka Hodo,,234567,,Lenka Hodo,trikolora
+2021-09-18,5000,Okamžitá příchozí platba,Ing.Provazník Michal,DAR,0,123456,,Ing.Provazník Michal,trikolora
+2021-09-18,500,Okamžitá příchozí platba,Ing.Otrusina Aleš,DAR,0,123456,,Ing.Otrusina Aleš,trikolora
+2021-09-18,100,Okamžitá příchozí platba,JAKUB GREGOR,DAR příspěvek RP,,12001910,,JAKUB GREGOR,trikolora
 2021-09-17,100,Platba převodem uvnitř banky,"Ing. Popovský, Libor",Libor Popovský,,,,Libor Popovský,trikolora
 2021-09-17,250000,Okamžitá příchozí platba,"Surovič Juraj,Ing.",DAR,0,1151515,,"Surovič Juraj,Ing.",trikolora
 2021-09-17,2000,Bezhotovostní příjem,VOKRALOVA HANA,"",308,123456,,VOKRALOVA HANA,trikolora
