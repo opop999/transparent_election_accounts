@@ -33,14 +33,14 @@ all_accounts_list[["expense_accounts_fio"]] <- list(
     "zeleni",
     "prisaha"
   ),
-  links = c(
-    "https://ib.fio.cz/ib/transparent?a=2601909155&f=01.01.2021",
-    "https://ib.fio.cz/ib/transparent?a=-48&f=01.01.2021",
-    "https://ib.fio.cz/ib/transparent?a=-49&f=01.01.2021",
-    "https://ib.fio.cz/ib/transparent?a=-50&f=01.01.2021",
-    "https://ib.fio.cz/ib/transparent?a=2001915105&f=01.01.2021",
-    "https://ib.fio.cz/ib/transparent?a=2801916675&f=01.01.2021",
-    "https://ib.fio.cz/ib/transparent?a=2201968914&f=01.01.2021"
+  numbers = c(
+    "2601909155",
+    "-48",
+    "-49",
+    "-50",
+    "2001915105",
+    "2801916675",
+    "2201968914"
   )
 )
 
@@ -61,18 +61,18 @@ all_accounts_list[["donation_accounts_fio"]] <- list(
     "svobodni",  
     "zeleni"    
   ),
-  links = c(
-   "https://ib.fio.cz/ib/transparent?a=-8",
-   "https://ib.fio.cz/ib/transparent?a=2501710691",
-   "https://ib.fio.cz/ib/transparent?a=2701178564",
-   "https://ib.fio.cz/ib/transparent?a=2100048174",
-   "https://ib.fio.cz/ib/transparent?a=2701968902",
-   "https://ib.fio.cz/ib/transparent?a=2900839572",
-   "https://ib.fio.cz/ib/transparent?a=2401286707",
-   "https://ib.fio.cz/ib/transparent?a=3402078007",
-   "https://ib.fio.cz/ib/transparent?a=2901125336",
-   "https://ib.fio.cz/ib/transparent?a=7505075050",
-   "https://ib.fio.cz/ib/transparent?a=2400146729"
+  numbers = c(
+   "-8",
+   "2501710691",
+   "2701178564",
+   "2100048174",
+   "2701968902",
+   "2900839572",
+   "2401286707",
+   "3402078007",
+   "2901125336",
+   "7505075050",
+   "2400146729"
    )
 )
 

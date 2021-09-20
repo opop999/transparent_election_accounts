@@ -18,7 +18,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 scrape_csob_expense_accounts <- function(expense_accounts_csob, dir_name, page_rows, start_date, end_date, sort, sort_direction, temporary_cookie_csob) {
 
   if (!is.null(expense_accounts_csob$numbers)) {
-    print("Some bank accounts selected, will attempt to run the function.")
+    print(paste(length(expense_accounts_csob$numbers), "bank account(s) selected, will attempt to run the function."))
     
   # We have to create a desired directory, if one does not yet exist
   if (!dir.exists(paste0(dir_name, "/expense_accounts"))) {
@@ -143,7 +143,7 @@ if (!dim(yesterday_data)[1] == 0) {
 scrape_csob_donation_accounts <- function(donation_accounts_csob, dir_name, page_rows, start_date, end_date, sort, sort_direction, temporary_cookie_csob) {
   
   if (!is.null(donation_accounts_csob$numbers)) {
-    print("Some bank accounts selected, will attempt to run the function.")
+    print(paste(length(donation_accounts_csob$numbers), "bank account(s) selected, will attempt to run the function."))
     
     # We have to create a desired directory, if one does not yet exist
     if (!dir.exists(paste0(dir_name, "/donation_accounts"))) {
@@ -269,7 +269,7 @@ dir_name <- "data" # Specify the folder, where the tables will be saved
 
 start_date <- Sys.Date() - 8 # We select date a week ago in a required format by FIO bank
 
-end_date <- Sys.Date() - 1 # Same as start_date - we only want yesterday
+end_date <- Sys.Date() # Same as start_date 
 
 page_rows <- 1000 # Maximum number of rows that is returned. We keep this at 1000 and should be sufficient for weekly transaction records
 

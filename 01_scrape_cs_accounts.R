@@ -18,7 +18,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 scrape_cs_expense_accounts <- function(expense_accounts_cs, dir_name, page_rows, sort, sort_direction, api_key) {
   
   if (!is.null(expense_accounts_cs$numbers)) {
-    print("Some bank accounts selected, will attempt to run the function.")
+    print(paste(length(expense_accounts_cs$numbers), "bank account(s) selected, will attempt to run the function."))
     
     # We have to create a desired directory, if one does not yet exist
     if (!dir.exists(paste0(dir_name, "/expense_accounts"))) {
@@ -109,7 +109,7 @@ scrape_cs_expense_accounts <- function(expense_accounts_cs, dir_name, page_rows,
 scrape_cs_donation_accounts <- function(donation_accounts_cs, dir_name, page_rows, sort, sort_direction, api_key) {
   
   if (!is.null(donation_accounts_cs$numbers)) {
-    print("Some bank accounts selected, will attempt to run the function.")
+    print(paste(length(donation_accounts_cs$numbers), "bank account(s) selected, will attempt to run the function."))
     
     # We have to create a desired directory, if one does not yet exist
     if (!dir.exists(paste0(dir_name, "/donation_accounts"))) {
@@ -158,7 +158,6 @@ full_list_clean[[donation_accounts_cs[[1]][i]]] <- full_list[[donation_accounts_
             contra_account_name = as.character(sender.name),
             message_for_recipient = as.character(sender.description),
             entity_name = donation_accounts_cs[[1]][i])
-
     }
     
     yesterday_data <- bind_rows(full_list_clean) %>% distinct()
@@ -220,8 +219,3 @@ scrape_cs_donation_accounts(donation_accounts_cs = donation_accounts_cs,
                               sort = sort,
                               sort_direction = sort_direction,
                               api_key = api_key)
-
-
-
-
-

@@ -19,7 +19,7 @@ invisible(lapply(packages, library, character.only = TRUE))
 scrape_kb_expense_accounts <- function(expense_accounts_kb, dir_name, max_results) {
   
   if (!is.null(expense_accounts_kb$numbers)) {
-    print("Some bank accounts selected, will attempt to run the function.")
+    print(paste(length(expense_accounts_kb$numbers), "bank account(s) selected, will attempt to run the function."))
     
   # We have to create a desired directory, if one does not yet exist
   if (!dir.exists(paste0(dir_name, "/expense_accounts"))) {
@@ -103,8 +103,8 @@ scrape_kb_expense_accounts <- function(expense_accounts_kb, dir_name, max_result
 scrape_kb_donation_accounts <- function(donation_accounts_kb, dir_name, max_results) {
   
 if (!is.null(donation_accounts_kb$numbers)) {
-  print("Some bank accounts selected, will attempt to run the function.")
-
+  print(paste(length(donation_accounts_kb$numbers), "bank account(s) selected, will attempt to run the function."))
+  
   # We have to create a desired directory, if one does not yet exist
   if (!dir.exists(paste0(dir_name, "/donation_accounts"))) {
     dir.create(paste0(dir_name, "/donation_accounts"))
