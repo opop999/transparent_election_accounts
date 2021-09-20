@@ -1,6 +1,6 @@
 ---
-title: "TRANSPARENT BANK ACCOUNTS"
-date: "Last updated `r format(Sys.time(),'%d. %m. %Y')`"
+title: "TRANSPARENT ACCOUNTS"
+date: "Updated `r format(Sys.time(),'%d. %m. %Y')`"
 author: "Ondrej Pekacek/TI CZ"
 output: 
   flexdashboard::flex_dashboard:
@@ -10,9 +10,12 @@ output:
     vertical_layout: fill
     source_code: https://github.com/opop999/transparent_election_accounts
     navbar:
-      - {title: "About Project", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/snemovna2021"}
-      - {title: "About Author", icon: "ion-social-linkedin", href: "https://www.linkedin.com/in/ondrej-pekacek"}
+      - {title: "Project", icon: "ion-information-circled", href: "https://www.transparentnivolby.cz/snemovna2021"}
+      - {title: "Author", icon: "ion-social-linkedin", href: "https://www.linkedin.com/in/ondrej-pekacek"}
       - {title: "Data: FIO", icon: "ion-cloud", href: "https://www.fio.cz/bankovni-sluzby/bankovni-ucty/transparentni-ucet/vypis-transparentnich-uctu"}
+      - {title: "Data: ČS", icon: "ion-cloud", href: "https://www.csas.cz/cs/transparentni-ucty#/"}
+      - {title: "Data: KB", icon: "ion-cloud", href: "https://www.kb.cz/cs/transparentni-ucty"}
+      - {title: "Data: ČSOB", icon: "ion-cloud", href: "https://www.csob.cz/portal/firmy/bezne-ucty/transparentni-ucty"}
 ---
 
 ```{r setup, include=FALSE}

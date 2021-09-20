@@ -3,7 +3,7 @@
 ## 1. Loading the required R libraries
 
 # Package names
-packages <- c("dplyr", "data.table", "arrow", "stringr", "jsonlite", "httr")
+packages <- c("dplyr", "data.table", "arrow", "stringr", "jsonlite", "httr", "tidyr")
 
 # Install packages not yet installed
 installed_packages <- packages %in% rownames(installed.packages())
@@ -56,13 +56,16 @@ scrape_kb_expense_accounts <- function(expense_accounts_kb, dir_name, max_result
   yesterday_data <- full_list[lengths(full_list) != 0] %>% 
     bind_rows(.id = "entity_name") %>%
     distinct() %>%
+    separate(as.character(symbols), into = c("vs", "ks", "ss"), sep = "/", convert = TRUE) %>% 
     transmute(
       id = as.character(id),
       date = as.Date(str_replace_all(string = date, pattern = "&nbsp;", replacement = " "), format = "%d.%m.%Y"),
       amount = str_replace_all(string = amount, pattern = "[,]", replacement = "."),
       amount = as.numeric(str_replace_all(string = amount, pattern = "(\\s+|[a-zA-Z])", replacement = "")),
-      symbols = as.character(symbols),
-      notes = as.character(str_squish(str_replace_all(string = notes, pattern = "<br />", replacement = " - "))),
+      vs = as.numeric(vs),
+      ks = as.numeric(ks),
+      ss = as.numeric(ss),
+      note = as.character(str_squish(str_replace_all(string = note, pattern = "<br />", replacement = " - "))),
       entity_name = as.character(gsub(x = entity_name, pattern = "\\..*", replacement = ""))
     )
   
@@ -140,13 +143,16 @@ if (!is.null(donation_accounts_kb$numbers)) {
   yesterday_data <- full_list[lengths(full_list) != 0] %>% 
     bind_rows(.id = "entity_name") %>%
     distinct() %>%
+    separate(as.character(symbols), into = c("vs", "ks", "ss"), sep = "/", convert = TRUE) %>% 
     transmute(
       id = as.character(id),
       date = as.Date(str_replace_all(string = date, pattern = "&nbsp;", replacement = " "), format = "%d.%m.%Y"),
       amount = str_replace_all(string = amount, pattern = "[,]", replacement = "."),
       amount = as.numeric(str_replace_all(string = amount, pattern = "(\\s+|[a-zA-Z])", replacement = "")),
-      symbols = as.character(symbols),
-      notes = as.character(str_squish(str_replace_all(string = notes, pattern = "<br />", replacement = " - "))),
+      vs = as.numeric(vs),
+      ks = as.numeric(ks),
+      ss = as.numeric(ss),
+      note = as.character(str_squish(str_replace_all(string = note, pattern = "<br />", replacement = " - "))),
       entity_name = as.character(gsub(x = entity_name, pattern = "\\..*", replacement = ""))
     )
 
