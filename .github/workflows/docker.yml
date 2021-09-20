@@ -28,13 +28,12 @@ jobs:
       env:
         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
       run: Rscript 01_scrape_csob_accounts.R
-    # - name: Scrape Ceska Sporitelna bank accounts
-    # env:
-    #      CS_TOKEN: ${{secrets.CS_TOKEN}}
-      
-    #   run: Rscript 01_scrape_cs_accounts.R
-    # - name: Scrape bank accounts using Hlidac statu APIs
-    # This action needs a Hlidac Statu API token as an environment variable (we are using GitHub Secrets)
+    - name: Scrape Ceska Sporitelna bank accounts
+      env:
+        CS_TOKEN: ${{secrets.CS_TOKEN}}
+      run: Rscript 01_scrape_cs_accounts.R
+    # - name: Scrape bank accounts using Hlidac statu APIs # We do not use the Hlidac Statu Api for the moment, this part serves as backup
+    # This action needs a Hlidac Statu API token as an environment variable
     #  env:
     #      HS_TOKEN: ${{ secrets.HS_TOKEN }}
     #  run: Rscript 01_scrape_hlidac_accounts.R
