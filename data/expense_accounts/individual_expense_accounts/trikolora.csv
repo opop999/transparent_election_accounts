@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note
+20.09.2021,-2414.21,Karetní transakce,"","Nákup: FACEBK MK4WM7XZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.9.2021, částka  2414.21 CZK",,6981,,"Nákup: FACEBK MK4WM7XZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.9.2021, částka  2414.21 CZK"
+20.09.2021,-20000,Karetní transakce,"","Nákup: FACEBK BKJR3772W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK BKJR3772W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK"
+20.09.2021,5929,Okamžitá příchozí platba,SIMONA VYŠATOVÁ,vrácení chybné platby,308,210080,0,SIMONA VYŠATOVÁ
 17.09.2021,-5983,Bezhotovostní platba,"",výroba plakátů A2 - Ústecký kraj,308,210083,,výroba plakátů A2 - Ústecký kraj
 17.09.2021,-7200,Bezhotovostní platba,"",polepy osobních aut - ústecký kraj,,210079,,polepy osobních aut - ústecký kraj
 17.09.2021,-4780,Bezhotovostní platba,"",platba za výrobu Plakátů - ústecký kraj,308,210078,,platba za výrobu Plakátů - ústecký kraj

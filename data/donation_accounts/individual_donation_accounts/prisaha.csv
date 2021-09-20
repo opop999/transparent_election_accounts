@@ -7,8 +7,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-17,190000,Okamžitá příchozí platba,Jiří Tryner,Dar,,,,Jiří Tryner,prisaha
 2021-09-17,55000,Okamžitá příchozí platba,Hes Milan,Dar,0,,,Hes Milan,prisaha
 2021-09-17,200,Bezhotovostní příjem,RAUŠEROVÁ ILJANA,dar spolku,,80158,,RAUŠEROVÁ ILJANA,prisaha
-2021-09-17,1000,Bezhotovostní příjem,Miroš Vladimír,"",0,,,Miroš Vladimír,prisaha
-2021-09-17,2000,Bezhotovostní příjem,KOSAN MICHAL,"",,0,,KOSAN MICHAL,prisaha
+2021-09-17,1000,Bezhotovostní příjem,Miroš Vladimír,"",0,,,"Dar, Miroš Vladimír",prisaha
+2021-09-17,2000,Bezhotovostní příjem,KOSAN MICHAL,"",,0,,"Dar, KOSAN MICHAL",prisaha
 2021-09-17,190.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-17,1000,Bezhotovostní příjem,MOOCOVA MARGITA,Dar Hnuti,,0,,MOOCOVA MARGITA,prisaha
 2021-09-16,1000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
@@ -44,6 +44,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,1000,Bezhotovostní příjem,BERANEK VLADIMIR,Dar hnuti,,0,,BERANEK VLADIMIR,prisaha
 2021-09-13,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha
 2021-09-13,775.8,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-17,1000,Bezhotovostní příjem,Miroš Vladimír,"",0,,,Miroš Vladimír,prisaha
+2021-09-17,2000,Bezhotovostní příjem,KOSAN MICHAL,"",,0,,KOSAN MICHAL,prisaha
 2021-09-11,3000,Okamžitá příchozí platba,Hes Milan,DAR,0,,,Hes Milan,prisaha
 2021-09-10,1000,Platba převodem uvnitř banky,"Richterová, Lenka",Dar hnutí pro Karlovarský kraj,,,,Dar hnutí pro Karlovarský kraj,prisaha
 2021-09-10,200,Bezhotovostní příjem,Ivana Jelínková,dar hnutí,,,,Ivana Jelínková,prisaha
