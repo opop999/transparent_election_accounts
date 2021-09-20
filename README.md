@@ -6,23 +6,24 @@
 
 ## Goal: Extraction & analysis of transparent election bank accounts of political parties/movements 
 
-### We aim for an automated workflow, which would inform analysts covering the financing of the Czech 2021 parliamentary elections. This would ideally include:
--Extraction of the raw tables with transactions data, providing complete information. To this end, we directly scrape the bank accounts using Rvest package and [Hlidac Statu API](https://www.hlidacstatu.cz/data/Index/transparentni-ucty-transakce) . In the automatization part, we use GitHub Actions which run using a [Docker container](https://hub.docker.com/u/rocker) to provide better compatibility and robustness.
+### We aim for an automated workflow, which would inform analysts covering the financing of the Czech 2021 parliamentary elections and beyond. 
 
--Transformation of the data to only include transactions of interest.
+### Current status (20 September 2021):
+-We have automatized the daily extraction of FIO, CSOB, Ceska Sporitelna and Komercni Banka transparent bank accounts of the political parties using the GitHub Actions flow. We can use the R-Lib repository for GH Actions, but, for better compatibility, we chose an appropriate [Docker container](https://hub.docker.com/u/rocker) to provide better compatibility and robustness.
 
--Entity extraction (companies information) and matching it with ARES database that includes more information.
+-We are no longer using the pipeline with [Hlidac Statu API](https://www.hlidacstatu.cz/data/Index/transparentni-ucty-transakce), as the database currently lacks data on some bank accounts (although the script itself is left as is in this repository)
 
--Training and deployement of a classification model to help identify transaction types. 
+-We have synchronized the structure of the repository with other repositories under the pre-election monitoring umbrella
 
-### Current status (10 August 2021):
--We have automatized the extraction of FIO-bank transparent accounts (once per 24h) using the GitHub Actions flow with cron trigger. We can use the R-Lib repository for GH Actions (on macOS-latest), but, for better compatibility, we chose an appropriate Docker container (rocker/tidyverse on ubuntu-latest).
+-Dashboard is finalized and contains further links of interest, including used data sources
 
--We have sychronized the structure of the repository with other repositories under the pre-election monitoring umbrella
+-First version of trained machine learning algoritm (based on random forest) is available in the "ml_model" folder together with visualizations and experimental labeling of new, out-of-sample data
 
--Dashboard is finalized and contains further links of interest, including data sources (not yet for all accounts)
+### Work in Progress
 
--First version of trained machine learning algoritm (based on random forest) is available in the "ml_model" folder together with visualizations and experimental labelling of new, out-of-sample data
+-Entity extraction (companies information) and matching it with appropriate databases (such as ARES) that includes more information.
+
+-Training and deployment of machine learning classification model to help identify transaction types. 
 
 ### Target transparent bank accounts:
 
