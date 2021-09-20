@@ -56,7 +56,7 @@ scrape_kb_expense_accounts <- function(expense_accounts_kb, dir_name, max_result
   yesterday_data <- full_list[lengths(full_list) != 0] %>% 
     bind_rows(.id = "entity_name") %>%
     distinct() %>%
-    separate(as.character(symbols), into = c("vs", "ks", "ss"), sep = "/", convert = TRUE) %>% 
+    separate(symbols, into = c("vs", "ks", "ss"), sep = "/", convert = TRUE) %>% 
     transmute(
       id = as.character(id),
       date = as.Date(str_replace_all(string = date, pattern = "&nbsp;", replacement = " "), format = "%d.%m.%Y"),
@@ -65,7 +65,7 @@ scrape_kb_expense_accounts <- function(expense_accounts_kb, dir_name, max_result
       vs = as.numeric(vs),
       ks = as.numeric(ks),
       ss = as.numeric(ss),
-      note = as.character(str_squish(str_replace_all(string = note, pattern = "<br />", replacement = " - "))),
+      note = as.character(str_squish(str_replace_all(string = notes, pattern = "<br />", replacement = " - "))),
       entity_name = as.character(gsub(x = entity_name, pattern = "\\..*", replacement = ""))
     )
   
@@ -143,7 +143,7 @@ if (!is.null(donation_accounts_kb$numbers)) {
   yesterday_data <- full_list[lengths(full_list) != 0] %>% 
     bind_rows(.id = "entity_name") %>%
     distinct() %>%
-    separate(as.character(symbols), into = c("vs", "ks", "ss"), sep = "/", convert = TRUE) %>% 
+    separate(symbols, into = c("vs", "ks", "ss"), sep = "/", convert = TRUE) %>% 
     transmute(
       id = as.character(id),
       date = as.Date(str_replace_all(string = date, pattern = "&nbsp;", replacement = " "), format = "%d.%m.%Y"),
@@ -152,7 +152,7 @@ if (!is.null(donation_accounts_kb$numbers)) {
       vs = as.numeric(vs),
       ks = as.numeric(ks),
       ss = as.numeric(ss),
-      note = as.character(str_squish(str_replace_all(string = note, pattern = "<br />", replacement = " - "))),
+      note = as.character(str_squish(str_replace_all(string = notes, pattern = "<br />", replacement = " - "))),
       entity_name = as.character(gsub(x = entity_name, pattern = "\\..*", replacement = ""))
     )
 
