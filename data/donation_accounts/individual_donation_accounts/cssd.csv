@@ -13,7 +13,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-16,-50000,Platba převodem uvnitř banky,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",,,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",cssd
 2021-09-16,-30000,Platba převodem uvnitř banky,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",,,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",cssd
 2021-09-16,10000,Bezhotovostní příjem,HAVÍŘ PAVEL,Dar ve prospěch ČSSD Pavel Havíř 1955,0,21021955,0,HAVÍŘ PAVEL,cssd
-2021-09-14,100000,Okamžitá příchozí platba,Roman Onderka,Dar volby PSP ČR 2021,,11111965,,Roman Onderka,cssd
+2021-09-14,1e+05,Okamžitá příchozí platba,Roman Onderka,Dar volby PSP ČR 2021,,11111965,,Roman Onderka,cssd
 2021-09-14,-80000,Platba převodem uvnitř banky,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",,,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",cssd
 2021-09-14,-15000,Platba převodem uvnitř banky,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",,,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",cssd
 2021-09-14,-10000,Platba převodem uvnitř banky,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",,,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",cssd
@@ -37,8 +37,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-03,-300,Platba převodem uvnitř banky,,"převod členského příspěvku, Jakub Štědroň, z 24.6.2020",,,,"převod členského příspěvku, Jakub Štědroň, z 24.6.2020",cssd
 2021-09-03,-50000,Platba převodem uvnitř banky,,"převod daru, Lukáš Kaucký, Praha, pro potřeby ČSSD",,,,"převod daru, Lukáš Kaucký, Praha, pro potřeby ČSSD",cssd
 2021-09-03,-70000,Platba převodem uvnitř banky,,"převod daru,  Jana Maláčová, Praha, volby PS PČR",,,,"převod daru,  Jana Maláčová, Praha, volby PS PČR",cssd
-2021-09-03,-100000,Platba převodem uvnitř banky,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",cssd
-2021-09-03,-100000,Platba převodem uvnitř banky,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,-1e+05,Platba převodem uvnitř banky,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,-1e+05,Platba převodem uvnitř banky,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",cssd
 2021-09-03,-30000,Platba převodem uvnitř banky,,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",cssd
 2021-09-03,-50000,Platba převodem uvnitř banky,,"převod daru, Petr Kajnar, Moravskoslezský kraj, pro potřeby KP Moravskoslezský kraj",,,,"převod daru, Petr Kajnar, Moravskoslezský kraj, pro potřeby KP Moravskoslezský kraj",cssd
 2021-09-03,-15000,Platba převodem uvnitř banky,,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",,,,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",cssd
@@ -53,9 +53,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-17,30000,Okamžitá příchozí platba,Česká spořitelna,Dar ve prospěch ČSSD Renata Hulvova5.2.1970,0,5021970,,Česká spořitelna,cssd
 2021-08-16,50000,Bezhotovostní příjem,VÁHALOVÁ DANA,,308,2851966,0,VÁHALOVÁ DANA,cssd
 2021-08-16,-30000,Okamžitá odchozí platba,,"ČSSD, vrácení daru beze jména",,9,,"ČSSD, vrácení daru beze jména",cssd
-2021-08-16,100000,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Petra Krejčířová, 27.8.1970",0,27081970,,Česká spořitelna,cssd
+2021-08-16,1e+05,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Petra Krejčířová, 27.8.1970",0,27081970,,Česká spořitelna,cssd
 2021-08-16,30000,Okamžitá příchozí platba,Česká spořitelna,Dar ve prospěch ČSSD 5.2.1970,0,5021970,,Česká spořitelna,cssd
-2021-08-15,100000,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Lubomír Zaorálek,6.9.1956",0,691956,,Česká spořitelna,cssd
+2021-08-15,1e+05,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Lubomír Zaorálek,6.9.1956",0,691956,,Česká spořitelna,cssd
 2021-08-12,50000,Okamžitá příchozí platba,PhDr.Kaucký Lukáš,"Dar ve prospěch ČSSD, Lukáš Kaucký 05051982",0,5051982,,PhDr.Kaucký Lukáš,cssd
 2021-08-06,-70000,Platba převodem uvnitř banky,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",cssd
 2021-07-31,70000,Okamžitá příchozí platba,PaedDr.Gajdůšková Al,"Dar ve prospěch ČSSD, Alena Gajdůšková,15.4.1954",308,15041954,,PaedDr.Gajdůšková Al,cssd
@@ -66,15 +66,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-19,-50000,Platba převodem uvnitř banky,,"převod daru Ing. Stanislav Hlavatý, volby PS PČR, Pardubický kraj",,,,"převod daru Ing. Stanislav Hlavatý, volby PS PČR, Pardubický kraj",cssd
 2021-07-09,-1749113,Bezhotovostní platba,,"ČSSD, převod státního příspěvku MF, 1. pololetí MDA",308,9,,"ČSSD, převod státního příspěvku MF, 1. pololetí MDA",cssd
 2021-07-09,-20000,Platba převodem uvnitř banky,,"převod daru Alena Gajdůšková, činnost strany, na OP Zlín",,,,"převod daru Alena Gajdůšková, činnost strany, na OP Zlín",cssd
-2021-07-09,-100000,Platba převodem uvnitř banky,,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",,,,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",cssd
-2021-07-09,-100000,Platba převodem uvnitř banky,,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",,,,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",cssd
+2021-07-09,-1e+05,Platba převodem uvnitř banky,,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",,,,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",cssd
+2021-07-09,-1e+05,Platba převodem uvnitř banky,,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",,,,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",cssd
 2021-07-09,-50000,Platba převodem uvnitř banky,,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj",,,,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj",cssd
 2021-07-06,20000,Okamžitá příchozí platba,PaedDr.Gajdůšková Al,"Dar ve prospěch ČSSD, Alena Gajdůšková,15.4.1954",308,15041954,,PaedDr.Gajdůšková Al,cssd
 2021-07-02,1749113,Bezhotovostní příjem,MF,1403/19713/2021-3 ČSSD,6418,197132021,0,MF,cssd
 2021-07-02,50000,Bezhotovostní příjem,HAVÍŘ PAVEL,Dar ve prospěch ČSSD Pavel Havíř 1955,0,21021955,0,HAVÍŘ PAVEL,cssd
-2021-07-01,100000,Okamžitá příchozí platba,MUDr.Sehnalová Olga,"Dar ve prospěch ČSSD,Olga Sehnalová, 25.10.1968",308,25101968,,MUDr.Sehnalová Olga,cssd
+2021-07-01,1e+05,Okamžitá příchozí platba,MUDr.Sehnalová Olga,"Dar ve prospěch ČSSD,Olga Sehnalová, 25.10.1968",308,25101968,,MUDr.Sehnalová Olga,cssd
 2021-07-01,50000,Bezhotovostní příjem,HLAVATY STANISLAV,dar volby PSPCR 2021Stanislav Hlavaty 30061965,3558,30061965,,HLAVATY STANISLAV,cssd
-2021-06-30,100000,Vklad v hotovosti,"Dar volby PSPČR 2021, Jan Birke, 1.6.1969",,558,1061969,,"Dar volby PSPČR 2021, Jan Birke, 1.6.1969",cssd
+2021-06-30,1e+05,Vklad v hotovosti,"Dar volby PSPČR 2021, Jan Birke, 1.6.1969",,558,1061969,,"Dar volby PSPČR 2021, Jan Birke, 1.6.1969",cssd
 2021-06-24,-20000,Platba převodem uvnitř banky,,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj",558,9,,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj",cssd
 2021-06-22,20000,Okamžitá příchozí platba,Ing.Šnejdrla Jindřic,"dar ve prospěch ČSSD, Jindřich Šnejdrla, 15.12. 1957",8,15121957,,Ing.Šnejdrla Jindřic,cssd
 2021-06-21,-1000,Okamžitá odchozí platba,,Mylná platba - vráceno - Ambrusová Ivana,,,,Mylná platba - vráceno - Ambrusová Ivana,cssd
@@ -130,13 +130,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-11-20,-2805833,Bezhotovostní platba,,"ČSSD, příspěvek na podporu činnosti politického institutu MDA, 2. pololetí 2020",558,409171,,"ČSSD, příspěvek na podporu činnosti politického institutu MDA, 2. pololetí 2020",cssd
 2020-11-19,30000,Okamžitá příchozí platba,CERNY VLADIMIR ING.,"dar ve prospěch ČSSD , Ing. Vladim",308,8071961,,CERNY VLADIMIR ING.,cssd
 2020-11-19,2805833,Bezhotovostní příjem,MF,1403/28731/2020-3 ČSSD,6418,287312020,0,"MF ČR, příspěvek na činnost, Masarykova demokratická akademie, z.s., 2. pololetí 2020",cssd
-2020-11-18,-100000,Platba převodem uvnitř banky,,"převod daru, Start Insurance Group s.r.o., pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Start Insurance Group s.r.o., pro potřeby ČSSD, Moravskoslezský kraj",cssd
+2020-11-18,-1e+05,Platba převodem uvnitř banky,,"převod daru, Start Insurance Group s.r.o., pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Start Insurance Group s.r.o., pro potřeby ČSSD, Moravskoslezský kraj",cssd
 2020-11-18,-10000,Platba převodem uvnitř banky,,"převod daru, Igor Bruzl, pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Igor Bruzl, pro potřeby ČSSD, Moravskoslezský kraj",cssd
 2020-11-18,20000,Bezhotovostní příjem,PETRICEK TOMAS,Dar Tomas Petricek pro potreby KP CSSD Praha,,27091981,,PETRICEK TOMAS,cssd
 2020-11-16,10000,Bezhotovostní příjem,KABUT JIŘÍ MUDR.,"Dar ve prospěch ČSSD,Jiří Kabut,22.11.1957",308,22111957,0,KABUT JIŘÍ MUDR.,cssd
 2020-11-16,40000,Bezhotovostní příjem,ORDINACE MUDR. KABUT,"Dar ve prospěch ČSSD,  Jiří Kabut,22.11.1957",308,22111957,0,ORDINACE MUDR. KABUT,cssd
 2020-11-12,-30000,Platba převodem uvnitř banky,,"převod daru, Petra Krejčířová, pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Petra Krejčířová, pro potřeby ČSSD, Moravskoslezský kraj",cssd
-2020-11-10,100000,Bezhotovostní příjem,START INSURANCE GROU,"Dar ve prospěch ČSSD STARTINSURANCE GROUP, 7286074",,7286074,,START INSURANCE GROU,cssd
+2020-11-10,1e+05,Bezhotovostní příjem,START INSURANCE GROU,"Dar ve prospěch ČSSD STARTINSURANCE GROUP, 7286074",,7286074,,START INSURANCE GROU,cssd
 2020-11-09,30000,Okamžitá příchozí platba,Krejčířová Petra,"Dar ve prospěch ČSSD, Petra Krejčíř",0,27081970,,Krejčířová Petra,cssd
 2020-11-05,20000,Okamžitá příchozí platba,Bruzl Igor,"dar ve prospěch ČSSD,",0,2021976,,Bruzl Igor,cssd
 2020-11-03,-11445834,Platba převodem uvnitř banky,,"Převod na kontokorentní účet ČSSD, příspěvek MF na 4.Q 2020",308,9,,"Převod na kontokorentní účet ČSSD, příspěvek MF na 4.Q 2020",cssd
@@ -146,11 +146,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-11-02,-30000,Platba převodem uvnitř banky,,"převod daru, Petr Smrček, pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Petr Smrček, pro potřeby ČSSD, Moravskoslezský kraj",cssd
 2020-10-30,71000,Bezhotovostní příjem,STASTNY DAVID,"Dar ve prospech CSSD, David Stastny, 17.3.1982",,17031982,,STASTNY DAVID,cssd
 2020-10-28,50000,Okamžitá příchozí platba,Krejčířová Petra,"Dar ve prospěch ČSSD, Petra Krejčíř",0,27081970,,Krejčířová Petra,cssd
-2020-10-26,-100000,Platba převodem uvnitř banky,,"převod daru, Luboš Zaorálek, pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Luboš Zaorálek, pro potřeby ČSSD, Moravskoslezský kraj",cssd
+2020-10-26,-1e+05,Platba převodem uvnitř banky,,"převod daru, Luboš Zaorálek, pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Luboš Zaorálek, pro potřeby ČSSD, Moravskoslezský kraj",cssd
 2020-10-26,-50000,Platba převodem uvnitř banky,,"převod daru, Kristýna Šircová, pro potřeby ČSSD, Moravskoslezský kraj",,,,"převod daru, Kristýna Šircová, pro potřeby ČSSD, Moravskoslezský kraj",cssd
 2020-10-19,-8500,Platba převodem uvnitř banky,,"převod daru, Ivo Bárek, pro potřeby ČSSD",,,,"převod daru, Ivo Bárek, pro potřeby ČSSD",cssd
 2020-10-19,50000,Bezhotovostní příjem,ŠIRCOVÁ KRISTÝNA,"Dar ve prospěch ČSSD, Kristýna Šircová,27.3.1990",0,27031990,0,ŠIRCOVÁ KRISTÝNA,cssd
-2020-10-18,100000,Okamžitá příchozí platba,Zaorálek Lubomír,"Dar ve prospěch ČSSD,Lubomír Zaorál",0,6091956,,Zaorálek Lubomír,cssd
+2020-10-18,1e+05,Okamžitá příchozí platba,Zaorálek Lubomír,"Dar ve prospěch ČSSD,Lubomír Zaorál",0,6091956,,Zaorálek Lubomír,cssd
 2020-10-14,-15000,Platba převodem uvnitř banky,,"převod daru, VYZNAč, s.r.o., provoz a činnost KP ČSSD Kraje Vysočina",308,9,,"převod daru, VYZNAč, s.r.o., provoz a činnost KP ČSSD Kraje Vysočina",cssd
 2020-10-14,-15000,Platba převodem uvnitř banky,,"převod daru, VYZNAč, s.r.o., provoz a činnost KP ČSSD Kraje Vysočina",,,,"převod daru, VYZNAč, s.r.o., provoz a činnost KP ČSSD Kraje Vysočina",cssd
 2020-10-14,-10000,Platba převodem uvnitř banky,,"převod daru, Tomáš Kratochvíl, pro potřeby ČSSD",,,,"převod daru, Tomáš Kratochvíl, pro potřeby ČSSD",cssd
@@ -160,7 +160,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-12,-20000,Platba převodem uvnitř banky,,"převod daru, Aleš Randl, volby Senát, v.o. 12, Strakonice",,,,"převod daru, Aleš Randl, volby Senát, v.o. 12, Strakonice",cssd
 2020-10-12,-25000,Platba převodem uvnitř banky,,"převod daru, Galenica Medical s.r.o., volby ZK, Moravskoslezský kraj",,,,"převod daru, Galenica Medical s.r.o., volby ZK, Moravskoslezský kraj",cssd
 2020-10-12,-10000,Platba převodem uvnitř banky,,"převod daru, Břetislav Štefan, volby ZK, Jihomoravský kraj",,,,"převod daru, Břetislav Štefan, volby ZK, Jihomoravský kraj",cssd
-2020-10-12,-100000,Platba převodem uvnitř banky,,"převod daru, Břetislav Štefan, pro potřeby ČSSD",,,,"převod daru, Břetislav Štefan, pro potřeby ČSSD",cssd
+2020-10-12,-1e+05,Platba převodem uvnitř banky,,"převod daru, Břetislav Štefan, pro potřeby ČSSD",,,,"převod daru, Břetislav Štefan, pro potřeby ČSSD",cssd
 2020-10-09,30000,Bezhotovostní příjem,Smrček Petr,"Dar ve prospěch ČSSD, Petr Smrček,19121968",,19121968,,Smrček Petr,cssd
 2020-10-08,8500,Okamžitá příchozí platba,Bárek Ivo,"Dar ve prospěch ČSSD, Ivo Bárek, 26",0,26031962,,Bárek Ivo,cssd
 2020-10-08,50000,Bezhotovostní příjem,START INSURANCE GROU,"Dar ve prospěch ČSSD, STARTINSURANCE GROUP 07286074",,7286074,,START INSURANCE GROU,cssd
@@ -168,7 +168,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-06,-40000,Platba převodem uvnitř banky,,"převod daru, SVOBODA - stavby s.r.o., pro potřeby ČSSD",,,,"převod daru, SVOBODA - stavby s.r.o., pro potřeby ČSSD",cssd
 2020-10-06,-10000,Platba převodem uvnitř banky,,"převod daru, Pavel Tyralík, pro potřeby ČSSD",,,,"převod daru, Pavel Tyralík, pro potřeby ČSSD",cssd
 2020-10-06,-50000,Platba převodem uvnitř banky,,"převod daru, Petr Kostík, pro potřeby ČSSD",,,,"převod daru, Petr Kostík, pro potřeby ČSSD",cssd
-2020-10-06,-200000,Platba převodem uvnitř banky,,"převod daru, Libor Rybka, pro potřeby ČSSD",,,,"převod daru, Libor Rybka, pro potřeby ČSSD",cssd
+2020-10-06,-2e+05,Platba převodem uvnitř banky,,"převod daru, Libor Rybka, pro potřeby ČSSD",,,,"převod daru, Libor Rybka, pro potřeby ČSSD",cssd
 2020-10-06,50000,Bezhotovostní příjem,MIKULA PETR,"Dar ve prospěch ČSSD, Petr Mikula,13.9.1982",0,1391982,0,MIKULA PETR,cssd
 2020-10-05,30000,Bezhotovostní příjem,Marta Broulíková,"Dar ve prospěch ČSSD, Marta Broulíková, 19.12.1974",,19121974,,Marta Broulíková,cssd
 2020-10-05,40000,Bezhotovostní příjem,SVOBODA - STAVBY S.R,"""dar ve prospěch ČSSD""- SVOBODA-stavby s.r.o. IČO:29267960",0,29267960,0,SVOBODA - STAVBY S.R,cssd
@@ -179,10 +179,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-01,15000,Bezhotovostní příjem,"VYZNAč, s.r.o.","Dar ČSSD, VYZNAč,s.r.o_IČO 01916297",,1916297,,"VYZNAč, s.r.o.",cssd
 2020-10-01,15000,Bezhotovostní příjem,"VYZNAč, s.r.o.","Dar ČSSD, VYZNAč,s.r.o._IČO01916297",,1916297,,"VYZNAč, s.r.o.",cssd
 2020-09-30,-20000,Platba převodem uvnitř banky,,"převod daru, Věra Plíšková, volby ZK, Jihomoravský kraj",,,,"převod daru, Věra Plíšková, volby ZK, Jihomoravský kraj",cssd
-2020-09-30,-100000,Platba převodem uvnitř banky,,"převod daru, Michal Šmarda, volby Senát, v.o. 51",,,,"převod daru, Michal Šmarda, volby Senát, v.o. 51",cssd
+2020-09-30,-1e+05,Platba převodem uvnitř banky,,"převod daru, Michal Šmarda, volby Senát, v.o. 51",,,,"převod daru, Michal Šmarda, volby Senát, v.o. 51",cssd
 2020-09-30,-32000,Platba převodem uvnitř banky,,"převod daru, Olga Sehnalová, volby ZK, Zlínský kraj",,,,"převod daru, Olga Sehnalová, volby ZK, Zlínský kraj",cssd
 2020-09-30,-15000,Platba převodem uvnitř banky,,"převod daru, Stanislav Holobrada, volby Senát, v.o. 18, Příbram",,,,"převod daru, Stanislav Holobrada, volby Senát, v.o. 18, Příbram",cssd
-2020-09-30,100000,Bezhotovostní příjem,STEFAN BRETISLAV,"Dar ve prospěch ČSSD, Břetislav Štefan, 8.6.1978",0,8061978,,STEFAN BRETISLAV,cssd
+2020-09-30,1e+05,Bezhotovostní příjem,STEFAN BRETISLAV,"Dar ve prospěch ČSSD, Břetislav Štefan, 8.6.1978",0,8061978,,STEFAN BRETISLAV,cssd
 2020-09-30,10000,Bezhotovostní příjem,KRATOCHVÍL TOMÁŠ,Dar ve prospěch CSSD Tomas Kratochvil 1.5.1968 částka 10 000 Kč,0,1051968,0,KRATOCHVÍL TOMÁŠ,cssd
 2020-09-30,10000,Bezhotovostní příjem,Tyralík Pavel,"""Dar ve prospěch ČSSD"",Pavel Tyralík, 20.5.1964",,20051964,,Tyralík Pavel,cssd
 2020-09-29,10000,Okamžitá příchozí platba,Hana Ferina,"Dar ve prospěch ČSSD, Petr Šafařík, 6.6.1965",,6061965,,Hana Ferina,cssd
@@ -195,13 +195,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-29,-20000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Aleš Ryšánek, nesplnění podmínek zákona",308,9,,"vrácení daru, Aleš Ryšánek, nesplnění podmínek zákona",cssd
 2020-09-28,10000,Okamžitá příchozí platba,Bruzl Igor,Dar ve prospěch ČSSD,0,2021976,,Bruzl Igor,cssd
 2020-09-27,10000,Okamžitá příchozí platba,ŠTEFAN BŘETISLAV,Dar ve prospěch ČSSD,,8061978,,ŠTEFAN BŘETISLAV,cssd
-2020-09-26,100000,Okamžitá příchozí platba,Šmarda Michal,"Dar ve prospěch ČSSD, Michal Šmarda",308,6071975,,Šmarda Michal,cssd
+2020-09-26,1e+05,Okamžitá příchozí platba,Šmarda Michal,"Dar ve prospěch ČSSD, Michal Šmarda",308,6071975,,Šmarda Michal,cssd
 2020-09-26,10000,Okamžitá příchozí platba,Viskot Marek,"Dar ve prospech CSSD, Marek Viskot,",0,4111982,,Viskot Marek,cssd
 2020-09-25,20000,Okamžitá příchozí platba,ALEŠ RYŠÁNEK,,,26031967,,ALEŠ RYŠÁNEK,cssd
 2020-09-25,20000,Platba převodem uvnitř banky,Strana zelených,"Dar na volby do ZKHK 2020, Strana zelených, IČO 00409740",565,409740,,"Dar na volby do ZKHK 2020, Strana zelených, IČO 00409740",cssd
 2020-09-25,10000,Bezhotovostní příjem,KRATOCHVÍL TOMÁŠ,,0,1051968,0,KRATOCHVÍL TOMÁŠ,cssd
 2020-09-25,-30000,Platba převodem uvnitř banky,,"převod daru, Tomáš Kabut, volby ZK, Moravskoslezský kraj",,,,"převod daru, Tomáš Kabut, volby ZK, Moravskoslezský kraj",cssd
-2020-09-25,-100000,Platba převodem uvnitř banky,,"převod daru, Jitka Otavová, volby Senát, v.o. 42, Kolín",,,,"převod daru, Jitka Otavová, volby Senát, v.o. 42, Kolín",cssd
+2020-09-25,-1e+05,Platba převodem uvnitř banky,,"převod daru, Jitka Otavová, volby Senát, v.o. 42, Kolín",,,,"převod daru, Jitka Otavová, volby Senát, v.o. 42, Kolín",cssd
 2020-09-25,-40000,Platba převodem uvnitř banky,,"převod daru, APA Pejcha s.r.o., volby ZK, Pardubický kraj",,,,"převod daru, APA Pejcha s.r.o., volby ZK, Pardubický kraj",cssd
 2020-09-25,-70000,Platba převodem uvnitř banky,,"převod daru, Josef Hálka, volby Senát, v.o. 69",,,,"převod daru, Josef Hálka, volby Senát, v.o. 69",cssd
 2020-09-25,-25000,Platba převodem uvnitř banky,,"převod daru, Jana Maláčová, volby ZK, Zlínský kraj",,,,"převod daru, Jana Maláčová, volby ZK, Zlínský kraj",cssd
@@ -213,11 +213,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-25,-30000,Platba převodem uvnitř banky,,"převod daru, Jiří Vzientek, volby ZK, Moravskoslezský kraj",,,,"převod daru, Jiří Vzientek, volby ZK, Moravskoslezský kraj",cssd
 2020-09-25,-15000,Okamžitá odchozí platba,,"ČSSD, vrácení daru Holobrada, nesplnění podmínek zákona",308,9,,"vrácení daru Holobrada, nesplnění podmínek zákona",cssd
 2020-09-24,32000,Okamžitá příchozí platba,"Sehnalová Olga,MUDr.","Dar ve prospěch ČSSD, Olga",308,25101968,,"Sehnalová Olga,MUDr.",cssd
-2020-09-24,100000,Okamžitá příchozí platba,Jitka Otavová,"Dar ve prospěch ČSSD, Jitka Otavová",0,65742311,,Jitka Otavová,cssd
+2020-09-24,1e+05,Okamžitá příchozí platba,Jitka Otavová,"Dar ve prospěch ČSSD, Jitka Otavová",0,65742311,,Jitka Otavová,cssd
 2020-09-24,40000,Bezhotovostní příjem,APA Pejcha s.r.o.,APA Pejcha s.r.o,0,8790566,,APA Pejcha s.r.o.,cssd
 2020-09-24,70000,Bezhotovostní příjem,HALKA JOSEF,"dar ve prospech CSSD, volby do senatu 2020, senatni obvod 69Josef Halka, 3.5.1983",,3051983,,HALKA JOSEF,cssd
 2020-09-23,-16612500,Platba převodem uvnitř banky,,"Převod na kontokorentní účet ČSSD, příspěvek MF na činnost 3.Q 2020",308,9,,"Převod na kontokorentní účet ČSSD, příspěvek MF na činnost 3.Q 2020",cssd
-2020-09-23,-200000,Platba převodem uvnitř banky,,"převod daru, Martin Netolický, volby ZK, Pardubický kraj",,,,"převod daru, Martin Netolický, volby ZK, Pardubický kraj",cssd
+2020-09-23,-2e+05,Platba převodem uvnitř banky,,"převod daru, Martin Netolický, volby ZK, Pardubický kraj",,,,"převod daru, Martin Netolický, volby ZK, Pardubický kraj",cssd
 2020-09-23,-10000,Platba převodem uvnitř banky,,"převod daru, Jiří Klein, volby ZK, Moravskoslezský kraj",,,,"převod daru, Jiří Klein, volby ZK, Moravskoslezský kraj",cssd
 2020-09-23,20000,Bezhotovostní příjem,PLISKOVA VERA,"Dar ve prospech CSSD, Vera Pliskova6.11.1942",,6111942,,PLISKOVA VERA,cssd
 2020-09-22,30000,Okamžitá příchozí platba,"Kabut Tomáš,MUDr.","Dar ve prospěch ČSSD, Tomáš Kabut,",0,2441988,,"Kabut Tomáš,MUDr.",cssd
@@ -227,14 +227,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-21,15000,Okamžitá příchozí platba,HOLOBRADA S.,,,27071961,,HOLOBRADA S.,cssd
 2020-09-21,-20000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Věra Plíšková, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru, Věra Plíšková, nesplnění podmínek zákona",cssd
 2020-09-21,90000,Okamžitá příchozí platba,"Kajnar Petr,Ing.","dar ve prospěch ČSSD, Petr Kajnar 2",0,28011956,,"Kajnar Petr,Ing.",cssd
-2020-09-21,-100000,Platba převodem uvnitř banky,,"převod daru, David Šťastný, volby ZK, Jihočeský kraj",,,,"převod daru, David Šťastný, volby ZK, Jihočeský kraj",cssd
+2020-09-21,-1e+05,Platba převodem uvnitř banky,,"převod daru, David Šťastný, volby ZK, Jihočeský kraj",,,,"převod daru, David Šťastný, volby ZK, Jihočeský kraj",cssd
 2020-09-21,-50000,Platba převodem uvnitř banky,,"převod daru, Leoš Němec, volby ZK, Jihomoravský kraj",,,,"převod daru, Leoš Němec, volby ZK, Jihomoravský kraj",cssd
 2020-09-21,-40000,Platba převodem uvnitř banky,,"převod daru, Bohumil Bernášek, volby ZK, Pardubický kraj",,,,"převod daru, Bohumil Bernášek, volby ZK, Pardubický kraj",cssd
-2020-09-21,-300000,Platba převodem uvnitř banky,,"převod daru, Tvrdý, spol. s r.o., volby ZK, Jihomoravský kraj",,,,"převod daru, Tvrdý, spol. s r.o., volby ZK, Jihomoravský kraj",cssd
+2020-09-21,-3e+05,Platba převodem uvnitř banky,,"převod daru, Tvrdý, spol. s r.o., volby ZK, Jihomoravský kraj",,,,"převod daru, Tvrdý, spol. s r.o., volby ZK, Jihomoravský kraj",cssd
 2020-09-21,-70000,Platba převodem uvnitř banky,,"převod daru, Karel Deutscher, volby Senát, v.o. 69",,,,"převod daru, Karel Deutscher, volby Senát, v.o. 69",cssd
 2020-09-21,-20000,Platba převodem uvnitř banky,,"převod daru, Jaromír Pařík, volby ZK, Kraj Vysočina",,,,"převod daru, Jaromír Pařík, volby ZK, Kraj Vysočina",cssd
 2020-09-21,-50000,Okamžitá odchozí platba,,"ČSSD, vrácení daru ZD Krásná Hora nad Vltavou, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru ZD Krásná Hora nad Vltavou, nesplnění podmínek zákona",cssd
-2020-09-21,200000,Bezhotovostní příjem,NETOLICKÝ MARTIN,"Dar ve prospěch ČSSD, Martin Netolický, 22.09.1982",0,22091982,0,NETOLICKÝ MARTIN,cssd
+2020-09-21,2e+05,Bezhotovostní příjem,NETOLICKÝ MARTIN,"Dar ve prospěch ČSSD, Martin Netolický, 22.09.1982",0,22091982,0,NETOLICKÝ MARTIN,cssd
 2020-09-21,50000,Bezhotovostní příjem,ZD KRÁSNÁ HORA NAD V,ZD Krasna Hora n.Vl.-DAROVACI SMLOUVA,558,107999,0,ZD KRÁSNÁ HORA NAD V,cssd
 2020-09-18,-40000,Platba převodem uvnitř banky,,"převod daru, Jiří Soustružník, volby ZK Jihomoravský kraj",,,,"převod daru, Jiří Soustružník, volby ZK Jihomoravský kraj",cssd
 2020-09-18,-20000,Platba převodem uvnitř banky,,"převod daru, Aleš Navrátil, volby ZK Jihomoravský kraj",,,,"převod daru, Aleš Navrátil, volby ZK Jihomoravský kraj",cssd
@@ -248,15 +248,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-17,30000,Bezhotovostní příjem,MUDR. KAJNAROVÁ S.R.,"Dar ve prospěch ČSSD,MUDr.KAJNAROVÁ s.r.o.,07140738",308,7140738,0,MUDR. KAJNAROVÁ S.R.,cssd
 2020-09-17,30000,Bezhotovostní příjem,KAJNAROVÁ MONIKA MUD,"Dar ve prospěch ČSSD,Monika Kajnarová,26.3.1965",308,2631965,0,KAJNAROVÁ MONIKA MUD,cssd
 2020-09-17,20000,Bezhotovostní příjem,PLISKOVA VERA,"Dar ve prospech CSSDVera Pliskova, 6.11.1942",,26031967,,PLISKOVA VERA,cssd
-2020-09-16,200000,Okamžitá příchozí platba,Libor Rybka,"Dar ve prospěch ČSSD, Libor Rybka, 17.7.1985",,17071985,,Libor Rybka,cssd
-2020-09-16,-500000,Platba převodem uvnitř banky,,"převod daru, Petr Benda, volby ZK Ústecký kraj",,,,"převod daru, Petr Benda, volby ZK Ústecký kraj",cssd
+2020-09-16,2e+05,Okamžitá příchozí platba,Libor Rybka,"Dar ve prospěch ČSSD, Libor Rybka, 17.7.1985",,17071985,,Libor Rybka,cssd
+2020-09-16,-5e+05,Platba převodem uvnitř banky,,"převod daru, Petr Benda, volby ZK Ústecký kraj",,,,"převod daru, Petr Benda, volby ZK Ústecký kraj",cssd
 2020-09-16,7000,Okamžitá příchozí platba,"Ninger Vladimír,MUDr",,558,29011964,6401292150,"Ninger Vladimír,MUDr",cssd
-2020-09-16,300000,Bezhotovostní příjem,"TVRDÝ, SPOL. S R.O.","Dar ve prospěch ČSSD, Tvrdý, spol.s r.o.,26956071",0,26956071,0,"TVRDÝ, SPOL. S R.O.",cssd
+2020-09-16,3e+05,Bezhotovostní příjem,"TVRDÝ, SPOL. S R.O.","Dar ve prospěch ČSSD, Tvrdý, spol.s r.o.,26956071",0,26956071,0,"TVRDÝ, SPOL. S R.O.",cssd
 2020-09-15,40000,Okamžitá příchozí platba,"Bernášek Bohumil,Ing","Dar ve prospěch ČSSD, Bohumil Berná",0,13021953,,"Bernášek Bohumil,Ing",cssd
 2020-09-15,50000,Bezhotovostní příjem,NEMEC LEOS,"Dar ve prospech CSSD,Leos Nemec, 5.5.1972",,5051972,,NEMEC LEOS,cssd
-2020-09-15,100000,Bezhotovostní příjem,STASTNY DAVID,"Dar ve prospech CSSD, David Stastny 17.03.1982",,17031982,,STASTNY DAVID,cssd
+2020-09-15,1e+05,Bezhotovostní příjem,STASTNY DAVID,"Dar ve prospech CSSD, David Stastny 17.03.1982",,17031982,,STASTNY DAVID,cssd
 2020-09-15,50000,Okamžitá příchozí platba,Martin Kašpárek,"Dar ve prospěch ČSSD, Martin Kašpárek, 17.5.1978",,17051978,,Martin Kašpárek,cssd
-2020-09-14,-200000,Platba převodem uvnitř banky,,"převod daru, Tomáš Teplý, volby ZK, Pardubický kraj",,,,"převod daru, Tomáš Teplý, volby ZK, Pardubický kraj",cssd
+2020-09-14,-2e+05,Platba převodem uvnitř banky,,"převod daru, Tomáš Teplý, volby ZK, Pardubický kraj",,,,"převod daru, Tomáš Teplý, volby ZK, Pardubický kraj",cssd
 2020-09-14,-50000,Platba převodem uvnitř banky,,"převod daru, Tomáš Teplý, volby ZK, Pardubický kraj",,,,"převod daru, Tomáš Teplý, volby ZK, Pardubický kraj",cssd
 2020-09-14,-50000,Platba převodem uvnitř banky,,"převod daru, Lucie Šebestová, volby ZK, Jihočeský kraj",,,,"převod daru, Lucie Šebestová, volby ZK, Jihočeský kraj",cssd
 2020-09-14,-50000,Platba převodem uvnitř banky,,"převod daru, Martin Ježek, volby ZK, Jihočeský kraj",,,,"převod daru, Martin Ježek, volby ZK, Jihočeský kraj",cssd
@@ -272,8 +272,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-10,-50000,Platba převodem uvnitř banky,,"převod daru, Pavel Tyralík, volby ZK, Jihomoravský kraj",,,,"převod daru, Pavel Tyralík, volby ZK, Jihomoravský kraj",cssd
 2020-09-10,-10000,Platba převodem uvnitř banky,,"převod daru, Stanislav Dvořák, volby ZK, Jihomoravský kraj",,,,"převod daru, Stanislav Dvořák, volby ZK, Jihomoravský kraj",cssd
 2020-09-10,-12100,Platba převodem uvnitř banky,,"převod daru, Jan Látka, volby ZK, Plzeňský kraj",,,,"převod daru, Jan Látka, volby ZK, Plzeňský kraj",cssd
-2020-09-10,-100000,Platba převodem uvnitř banky,,"převod daru, Karel Otava, volby Senát, v.o. 42, Kolín",,,,"převod daru, Karel Otava, volby Senát, v.o. 42, Kolín",cssd
-2020-09-10,200000,Bezhotovostní příjem,Tomáš Teplý,"Dar ve prospěch ČSSD, tomas teply,17.04.1974",0,17041974,,Tomáš Teplý,cssd
+2020-09-10,-1e+05,Platba převodem uvnitř banky,,"převod daru, Karel Otava, volby Senát, v.o. 42, Kolín",,,,"převod daru, Karel Otava, volby Senát, v.o. 42, Kolín",cssd
+2020-09-10,2e+05,Bezhotovostní příjem,Tomáš Teplý,"Dar ve prospěch ČSSD, tomas teply,17.04.1974",0,17041974,,Tomáš Teplý,cssd
 2020-09-10,20000,Bezhotovostní příjem,ALES NAVRATIL,"DAR VE PROSPECH CSSD, ALES NAVRATIL 10.12.1970",,10121970,,ALES NAVRATIL,cssd
 2020-09-10,30000,Okamžitá příchozí platba,"Sehnalová Olga,MUDr.","Dar ve prospěch ČSSD, Olga",308,25101968,,"Sehnalová Olga,MUDr.",cssd
 2020-09-09,50000,Okamžitá příchozí platba,"Chvojka Jan,JUDr.",Dar - krajske volby,0,17121980,,"Chvojka Jan,JUDr.",cssd
@@ -281,10 +281,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-09,-50000,Platba převodem uvnitř banky,,"převod daru, Jiří Preclík, volby ZK, Pardubický kraj",,,,"převod daru, Jiří Preclík, volby ZK, Pardubický kraj",cssd
 2020-09-09,-120000,Platba převodem uvnitř banky,,"převod daru, Jakub Štědroň, volby Senát, v.o. 27",,,,"převod daru, Jakub Štědroň, volby Senát, v.o. 27",cssd
 2020-09-09,-150000,Platba převodem uvnitř banky,,"převod daru, Mária Vlachová, volby ZK Jihočeský kraj",,,,"převod daru, Mária Vlachová, volby ZK Jihočeský kraj",cssd
-2020-09-09,-200000,Bezhotovostní platba,,"ČSSD, vrácení daru, Tomáš Teplý, nesplnění podmínek zákona",308,9,,"vrácení daru, Tomáš Teplý, nesplnění podmínek zákona",cssd
+2020-09-09,-2e+05,Bezhotovostní platba,,"ČSSD, vrácení daru, Tomáš Teplý, nesplnění podmínek zákona",308,9,,"vrácení daru, Tomáš Teplý, nesplnění podmínek zákona",cssd
 2020-09-09,30000,Bezhotovostní příjem,Michaela Němčíková,Dar ve prospěch ČSSD RADEKSUŠIL 9.1.1967,,9011967,,Michaela Němčíková,cssd
 2020-09-09,50000,Okamžitá příchozí platba,Tomáš Teplý,"Dar ve prospěch ČSSD, tomáš teplý,",0,17041974,,Tomáš Teplý,cssd
-2020-09-09,200000,Bezhotovostní příjem,Tomáš Teplý,,0,,,Tomáš Teplý,cssd
+2020-09-09,2e+05,Bezhotovostní příjem,Tomáš Teplý,,0,,,Tomáš Teplý,cssd
 2020-09-08,12100,Bezhotovostní příjem,LATKA JAN,Dar ve prospech CSSD Jan Latka 5.4. 1954,,5041954,,LATKA JAN,cssd
 2020-09-08,10000,Bezhotovostní příjem,DVOŘÁK STANISLAV,"Dar ve prospěch ČSSD, Stanislav Dvořák, 31.7.1958",308,31071958,0,DVOŘÁK STANISLAV,cssd
 2020-09-08,50000,Bezhotovostní příjem,"MUDR. IVO TRUBAK, S.","Dar ve prospech CSSD,MUDr. Ivo Trubak, ICO 28334744",308,28334744,,"MUDR. IVO TRUBAK, S.",cssd
@@ -294,9 +294,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-08,30000,Bezhotovostní příjem,VZIENTKOVA MONIKA,"Dar ve prospech cssd,jiri Vzientek,951978",,0,,VZIENTKOVA MONIKA,cssd
 2020-09-07,15000,Okamžitá příchozí platba,Dušková Smrčková Mi.,"Dar ve prospěch ČSSD,",0,,,Dušková Smrčková Mi.,cssd
 2020-09-07,-140000,Platba převodem uvnitř banky,,"převod daru, Strana zelených, volby ZK Královéhradecký kraj, SPOLU PRO KRAJ",,,,"převod daru, Strana zelených, volby ZK Královéhradecký kraj, SPOLU PRO KRAJ",cssd
-2020-09-07,-500000,Platba převodem uvnitř banky,,"převod daru, Petr Benda, volby ZK Ústecký kraj",,,,"převod daru, Petr Benda, volby ZK Ústecký kraj",cssd
+2020-09-07,-5e+05,Platba převodem uvnitř banky,,"převod daru, Petr Benda, volby ZK Ústecký kraj",,,,"převod daru, Petr Benda, volby ZK Ústecký kraj",cssd
 2020-09-07,50000,Bezhotovostní příjem,PRECLIK JIRI,Dar ve prospech CSSD  Jiri Preclik02.02.1978,,2021978,,PRECLIK JIRI,cssd
-2020-09-06,100000,Okamžitá příchozí platba,"Otava Karel,Ing.","Dar ve prospěch ČSSD, Ing. Karel Ot",0,21031951,,"Otava Karel,Ing.",cssd
+2020-09-06,1e+05,Okamžitá příchozí platba,"Otava Karel,Ing.","Dar ve prospěch ČSSD, Ing. Karel Ot",0,21031951,,"Otava Karel,Ing.",cssd
 2020-09-04,-30000,Platba převodem uvnitř banky,,"převod daru, Jaroslav Dvořák, volby ZK Moravskoslezský kraj",,,,"převod daru, Jaroslav Dvořák, volby ZK Moravskoslezský kraj",cssd
 2020-09-04,-80000,Platba převodem uvnitř banky,,"převod daru, Josef Říha, volby ZK Zlínský kraj",,,,"převod daru, Josef Říha, volby ZK Zlínský kraj",cssd
 2020-09-04,-10000,Platba převodem uvnitř banky,,"převod daru, Trinh Tan, volby ZK Moravskoslezský kraj",,,,"převod daru, Trinh Tan, volby ZK Moravskoslezský kraj",cssd
@@ -304,7 +304,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-04,120000,Bezhotovostní příjem,"Štědroň Jakub,Mgr.","Dar ve prospěch ČSSD, Jakub Štědroň, 22.5.1979",0,22051979,,"Štědroň Jakub,Mgr.",cssd
 2020-09-04,-10000,Platba převodem uvnitř banky,,"převod daru, Karel Sibinský, volby ZK Moravskoslezský kraj",,,,"převod daru, Karel Sibinský, volby ZK Moravskoslezský kraj",cssd
 2020-09-04,-50000,Platba převodem uvnitř banky,,"převod daru, Radek Sušil, volby Senát, v.o. 75",,,,"převod daru, Radek Sušil, volby Senát, v.o. 75",cssd
-2020-09-04,1000000,Bezhotovostní příjem,BENDA PETR,Dar ve prospěch ČSSD Petr Benda 20.1.1971,558,20011971,0,BENDA PETR,cssd
+2020-09-04,1e+06,Bezhotovostní příjem,BENDA PETR,Dar ve prospěch ČSSD Petr Benda 20.1.1971,558,20011971,0,BENDA PETR,cssd
 2020-09-03,150000,Bezhotovostní příjem,VLACH MARTIN,"Dar ve prospech CSSD, Maria Vlachova, 28.10.1973",558,28101973,,VLACH MARTIN,cssd
 2020-09-03,-30000,Platba převodem uvnitř banky,,"převod daru, Josef Bláha, volby ZK Jihočeský kraj",,,,"převod daru, Josef Bláha, volby ZK Jihočeský kraj",cssd
 2020-09-03,-50000,Platba převodem uvnitř banky,,"převod daru, David Šťastný, volby ZK Jihočeský kraj",,,,"převod daru, David Šťastný, volby ZK Jihočeský kraj",cssd
@@ -324,15 +324,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-27,-1000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Petr Hudousek, nesplnění podmínek zákona",308,9,,"vrácení daru, Petr Hudousek, nesplnění podmínek zákona",cssd
 2020-08-26,-60000,Platba převodem uvnitř banky,,"převod daru, Petr Jeřábek, volby Senát, v.o. 57 Vyškov",,,,"převod daru, Petr Jeřábek, volby Senát, v.o. 57 Vyškov",cssd
 2020-08-26,10000,Bezhotovostní příjem,TRINH TAN,"""Dar ve prospěch ČSSD"" Trinh Tan, nar. 18.11.1961.",0,18111961,0,TRINH TAN,cssd
-2020-08-25,-200000,Platba převodem uvnitř banky,,"převod daru, Vasil Stojka, volby ZK, Středočeský kraj",,,,"převod daru, Vasil Stojka, volby ZK, Středočeský kraj",cssd
+2020-08-25,-2e+05,Platba převodem uvnitř banky,,"převod daru, Vasil Stojka, volby ZK, Středočeský kraj",,,,"převod daru, Vasil Stojka, volby ZK, Středočeský kraj",cssd
 2020-08-25,-50000,Platba převodem uvnitř banky,,"převod daru, Michal Boudný, volby ZK, Jihomoravský kraj",,,,"převod daru, Michal Boudný, volby ZK, Jihomoravský kraj",cssd
 2020-08-25,-20000,Okamžitá odchozí platba,,"ČSSD, vrácení daru Karel Pačiska, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Karel Pačiska, nesplnění podmínek zákona",cssd
 2020-08-25,-20000,Platba převodem uvnitř banky,,"převod daru, Petr Náhlovský, volby ZK, Královéhradecký kraj",,,,"převod daru, Petr Náhlovský, volby ZK, Královéhradecký kraj",cssd
 2020-08-25,10000,Bezhotovostní příjem,SIBINSKÝ KAREL,"dar pro ČSSD,K.Sibinsky,14.4.50",0,14041950,0,SIBINSKÝ KAREL,cssd
 2020-08-24,50000,Okamžitá příchozí platba,"Boudný Michal,Bc.","Dar ve prospěch ČSSD, Michal Boudný",0,21101978,,"Boudný Michal,Bc.",cssd
 2020-08-21,10000,Okamžitá příchozí platba,Rambousková Lada,"Dar ve prospěch ČSSD, obv.č.51,MUDr",308,21121953,,Rambousková Lada,cssd
-2020-08-21,-100000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Martin Klika",308,409171,,"ČSSD, vrácení daru, Martin Klika",cssd
-2020-08-21,-100000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Kamil Havelka",308,409171,,"ČSSD, vrácení daru, Kamil Havelka",cssd
+2020-08-21,-1e+05,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Martin Klika",308,409171,,"ČSSD, vrácení daru, Martin Klika",cssd
+2020-08-21,-1e+05,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Kamil Havelka",308,409171,,"ČSSD, vrácení daru, Kamil Havelka",cssd
 2020-08-21,-50000,Platba převodem uvnitř banky,,"převod daru, ALBARDILLA, akciová společnost, volby ZK, Středočeský kraj",,,,"převod daru, ALBARDILLA, akciová společnost, volby ZK, Středočeský kraj",cssd
 2020-08-21,-50000,Platba převodem uvnitř banky,,"převod daru, Kamil Šulc, volby ZK, Středočeský kraj",,,,"převod daru, Kamil Šulc, volby ZK, Středočeský kraj",cssd
 2020-08-21,-30000,Platba převodem uvnitř banky,,"převod daru, Ladislav Eliáš, volby ZK, Středočeský kraj",,,,"převod daru, Ladislav Eliáš, volby ZK, Středočeský kraj",cssd
@@ -350,7 +350,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-18,40000,Bezhotovostní příjem,KRATOCHVILE KAREL,"Dar ve prospech CSSD KarelKratochv ile , 27.4.1958",,27041958,,KRATOCHVILE KAREL,cssd
 2020-08-17,20000,Okamžitá příchozí platba,BOCIÁN MAREK,"Dar ve prospěch ČSSD, Marek Bocián , 13111975",,13111975,,BOCIÁN MAREK,cssd
 2020-08-17,5000,Platba převodem uvnitř banky,"Ing. Záruba, Adam Ph.D.","Dar ve prospěch ČSSD, Adam Záruba, 07.11.1978",,7111978,,"Dar ve prospěch ČSSD, Adam Záruba, 07.11.1978",cssd
-2020-08-17,200000,Bezhotovostní příjem,STOJKA VASIL,Dar ve prospěch ČSSD Vasil Stojka 2.1.1968,0,2011968,0,STOJKA VASIL,cssd
+2020-08-17,2e+05,Bezhotovostní příjem,STOJKA VASIL,Dar ve prospěch ČSSD Vasil Stojka 2.1.1968,0,2011968,0,STOJKA VASIL,cssd
 2020-08-17,170000,Bezhotovostní příjem,Jana Maláčová,"Dar ve prospech CSSD, Jana Malacova, 24.6.1981",308,24061981,,Jana Maláčová,cssd
 2020-08-17,20000,Bezhotovostní příjem,NAHLOVSKY PETR,"Dar ve prospech CSSD,Petr Nahlovsky,31.5.1986",,31051986,,NAHLOVSKY PETR,cssd
 2020-08-14,60000,Okamžitá příchozí platba,"Jeřábek Petr,Ing.","Dar ve prospěch ČSSD, Petr Jeřábek,",0,3021970,,"Jeřábek Petr,Ing.",cssd
@@ -398,7 +398,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-28,30000,Bezhotovostní příjem,HAVLÍK DANIEL,"Dar ve prospěch ČSSD, Daniel Havlík, 221971",0,0,0,HAVLÍK DANIEL,cssd
 2020-07-28,30000,Bezhotovostní příjem,CHYBIDZIUROVA KATER.,"Dar ve prospech CSSD,Katerina Chybidziurova, 931976",308,0,,CHYBIDZIUROVA KATER.,cssd
 2020-07-27,-50000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Kraj Vysočina",,,,"převod daru, volby ZK, Kraj Vysočina",cssd
-2020-07-27,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát, obvod 42, Kolín",,,,"převod daru, volby Senát, obvod 42, Kolín",cssd
+2020-07-27,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát, obvod 42, Kolín",,,,"převod daru, volby Senát, obvod 42, Kolín",cssd
 2020-07-27,-20000,Platba převodem uvnitř banky,,"převod daru, volby Senát, obvod 36, Česká Lípa",,,,"převod daru, volby Senát, obvod 36, Česká Lípa",cssd
 2020-07-27,-40000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Kraj Vysočina",,,,"převod daru, volby ZK, Kraj Vysočina",cssd
 2020-07-27,-20000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Karel Pačiska, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru, Karel Pačiska, nesplnění podmínek zákona",cssd
@@ -408,12 +408,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-23,50000,Okamžitá příchozí platba,KREJČÍ ALENA,"Dar ve prospěch ČSSD, obv.č.51, Ing. Tomáš Krejčí, 21.9.1974",308,21091974,,KREJČÍ ALENA,cssd
 2020-07-23,20000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 614088 21.07.2020 c 3011KARELPACISZADAR VE PROSP ECH CSSD PACISM,308,19021957,,"CESKA POSTA, S.P.",cssd
 2020-07-22,50000,Okamžitá příchozí platba,"Škaryd Tomáš,Ing.","Dar ve prospěch ČSSD, Ing. Tomáš Šk",308,30061968,,"Škaryd Tomáš,Ing.",cssd
-2020-07-21,-100000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Liberecký kraj",,,,"převod daru, volby ZK, Liberecký kraj",cssd
-2020-07-21,-100000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
+2020-07-21,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby ZK, Liberecký kraj",,,,"převod daru, volby ZK, Liberecký kraj",cssd
+2020-07-21,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
 2020-07-21,-50000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 81 Uherské Hradiště",,,,"převod daru, volby Senát, v.o. 81 Uherské Hradiště",cssd
 2020-07-21,-50000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 51",,,,"převod daru, volby Senát, v.o. 51",cssd
 2020-07-21,-50000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Tomáš Krejčí, nesplnění podmínek zákona",,,,"ČSSD, vrácení daru, Tomáš Krejčí, nesplnění podmínek zákona",cssd
-2020-07-20,100000,Okamžitá příchozí platba,"Otava Karel,Ing.","Dar ve prospěch ČSSD, Ing. Karel Ot",0,21031951,,"Otava Karel,Ing.",cssd
+2020-07-20,1e+05,Okamžitá příchozí platba,"Otava Karel,Ing.","Dar ve prospěch ČSSD, Ing. Karel Ot",0,21031951,,"Otava Karel,Ing.",cssd
 2020-07-20,5000,Okamžitá příchozí platba,"Hásek Roman,Mgr.","Dar ve prospěch ČSSD, Roman Hásek,",308,29051967,,"Hásek Roman,Mgr.",cssd
 2020-07-20,30000,Okamžitá příchozí platba,Malý Vladimír,"Dar ve prospěch ČSSD, Vladimír Malý",308,19021964,,Malý Vladimír,cssd
 2020-07-17,50000,Bezhotovostní příjem,LEMPERA JAROSLAV,"Dar ve prospěch ČSSD, obv. č. 51, Bc. Jaroslav Lempera, 14.10.1975",308,14101975,,LEMPERA JAROSLAV,cssd
@@ -421,53 +421,53 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-16,40000,Bezhotovostní příjem,"HYSKY MARTIN, ING.,","Dar ve prospěch ČSSD,Ing. Bc. Martin Hyský, 22.12.1974",308,22121974,,"HYSKY MARTIN, ING.,",cssd
 2020-07-15,50000,Okamžitá příchozí platba,NOVOTNÝ VLADIMÍR,"""Dar ve prospěch ČSSD, Ing.Vladimír Novotný, 20.5.1966 """,308,20051966,,NOVOTNÝ VLADIMÍR,cssd
 2020-07-14,50000,Bezhotovostní příjem,"Seďa Antonín,Ing.","Dar ve prospěch ČSSD, Antonín Seďa,12.12.1960",308,12121960,,"Seďa Antonín,Ing.",cssd
-2020-07-14,100000,Bezhotovostní příjem,MALACH PETR,"Dar ve prospěch ČSSD, Petr Malach,29.3.1983",0,29031983,0,MALACH PETR,cssd
-2020-07-13,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 30, Kladno",,,,"převod daru, volby Senát, v.o. 30, Kladno",cssd
-2020-07-13,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, volby Senát v.o.30, Kladno - mylná platba vráceno",558,,,"převod daru, volby Senát v.o.30, Kladno - mylná platba vráceno",cssd
+2020-07-14,1e+05,Bezhotovostní příjem,MALACH PETR,"Dar ve prospěch ČSSD, Petr Malach,29.3.1983",0,29031983,0,MALACH PETR,cssd
+2020-07-13,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 30, Kladno",,,,"převod daru, volby Senát, v.o. 30, Kladno",cssd
+2020-07-13,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, volby Senát v.o.30, Kladno - mylná platba vráceno",558,,,"převod daru, volby Senát v.o.30, Kladno - mylná platba vráceno",cssd
 2020-07-13,20000,Okamžitá příchozí platba,Mečl Jan,"Dar ve prospěch CSSD, Jan Mecl, 9.1",308,9101964,,Mečl Jan,cssd
 2020-07-10,-5000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
-2020-07-10,100000,Platba převodem uvnitř banky,"Jadrný, Josef","Dar ve prospěch ČSSD, Josef Jadrný, 16.4.1957",,16041957,,"Dar ve prospěch ČSSD, Josef Jadrný, 16.4.1957",cssd
+2020-07-10,1e+05,Platba převodem uvnitř banky,"Jadrný, Josef","Dar ve prospěch ČSSD, Josef Jadrný, 16.4.1957",,16041957,,"Dar ve prospěch ČSSD, Josef Jadrný, 16.4.1957",cssd
 2020-07-10,-50000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
-2020-07-10,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 30, Kladno",,,,"převod daru, volby Senát, v.o. 30, Kladno",cssd
+2020-07-10,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 30, Kladno",,,,"převod daru, volby Senát, v.o. 30, Kladno",cssd
 2020-07-10,-20000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Zlínský kraj",,,,"převod daru, volby ZK, Zlínský kraj",cssd
-2020-07-10,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 75, Karviná",,,,"převod daru, volby Senát, v.o. 75, Karviná",cssd
-2020-07-10,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát",,,,"převod daru, volby Senát",cssd
+2020-07-10,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 75, Karviná",,,,"převod daru, volby Senát, v.o. 75, Karviná",cssd
+2020-07-10,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát",,,,"převod daru, volby Senát",cssd
 2020-07-10,-5000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
 2020-07-09,5000,Platba převodem uvnitř banky,"Ing. Ilko, Vítězslav","Dar ve prospěch ČSSD, Vítězslav Ilko, 9.11.1975",,9111975,,"Dar ve prospěch ČSSD, Vítězslav Ilko, 9.11.1975",cssd
-2020-07-08,100000,Platba převodem uvnitř banky,"Dienstbier, Jiří","Jiří Dienstbier, datum nar. 27. 5. 1969 - dar ve prospěch ČSSD",,27051969,,"Jiří Dienstbier, datum nar. 27. 5. 1969 - dar ve prospěch ČSSD",cssd
+2020-07-08,1e+05,Platba převodem uvnitř banky,"Dienstbier, Jiří","Jiří Dienstbier, datum nar. 27. 5. 1969 - dar ve prospěch ČSSD",,27051969,,"Jiří Dienstbier, datum nar. 27. 5. 1969 - dar ve prospěch ČSSD",cssd
 2020-07-08,-500,Okamžitá odchozí platba,,"vrácení daru - Petr Maška, nesplnění podmínek zákona",308,9,,"vrácení daru - Petr Maška, nesplnění podmínek zákona",cssd
 2020-07-08,-5000,Okamžitá odchozí platba,,"vrácení daru - Petr Vošta, nesplnění podmínek zákona",308,8021942,,"vrácení daru - Petr Vošta, nesplnění podmínek zákona",cssd
-2020-07-08,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 15, Pelhřimov",,,,"převod daru, volby Senát, v.o. 15, Pelhřimov",cssd
+2020-07-08,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 15, Pelhřimov",,,,"převod daru, volby Senát, v.o. 15, Pelhřimov",cssd
 2020-07-08,-1000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-07-08,-110000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 3, Cheb",,,,"převod daru, volby Senát, v.o. 3, Cheb",cssd
 2020-07-08,1000,Bezhotovostní příjem,HUDOUSEK PETR,"Dar ve prospěch ČSSD, Petr Hudousek",,22051970,,HUDOUSEK PETR,cssd
-2020-07-07,100000,Okamžitá příchozí platba,"Štědroň Jakub,Mgr.","Dar ve prospěch ČSSD, Mgr. Jakub Št",308,22051979,,"Štědroň Jakub,Mgr.",cssd
+2020-07-07,1e+05,Okamžitá příchozí platba,"Štědroň Jakub,Mgr.","Dar ve prospěch ČSSD, Mgr. Jakub Št",308,22051979,,"Štědroň Jakub,Mgr.",cssd
 2020-07-03,110000,Bezhotovostní příjem,NENUTIL MIROSLAV,"Dar ve prospech CSSDMiroslav Nenutil, 6.11.1957",558,6111975,,NENUTIL MIROSLAV,cssd
 2020-07-02,-25000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Olomoucký kraj",,,,"převod daru, volby ZK, Olomoucký kraj",cssd
 2020-07-02,-20000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Zlínský kraj",,,,"převod daru, volby ZK, Zlínský kraj",cssd
 2020-06-30,-140000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Královéhradecký kraj",,,,"převod daru, volby ZK, Královéhradecký kraj",cssd
-2020-06-30,-100000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Zlínský kraj",,,,"převod daru, volby ZK, Zlínský kraj",cssd
+2020-06-30,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby ZK, Zlínský kraj",,,,"převod daru, volby ZK, Zlínský kraj",cssd
 2020-06-29,140000,Platba převodem uvnitř banky,Strana zelených,"Dar na volby do ZKHK 2020, Strana zelených, IČO 00409740.",565,,,"Dar na volby do ZKHK 2020, Strana zelených, IČO 00409740.",cssd
 2020-06-29,-26600,Platba převodem uvnitř banky,,"převod daru,  činnost KP ČSSD Jihomoravský kraj",,,,"převod daru,  činnost KP ČSSD Jihomoravský kraj",cssd
 2020-06-29,-20000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-06-27,20000,Okamžitá příchozí platba,Gajdůšková Alena,"Dar ve prospěch ČSSD, Alena Gajdůšk",308,15541954,,Gajdůšková Alena,cssd
-2020-06-26,100000,Platba převodem uvnitř banky,Strana zelených,"Dar ve prospěch ČSSD - na volby ZLK 2020, Strana zelených, IČO 00409740",,409740,,"Dar ve prospěch ČSSD - na volby ZLK 2020, Strana zelených, IČO 00409740",cssd
+2020-06-26,1e+05,Platba převodem uvnitř banky,Strana zelených,"Dar ve prospěch ČSSD - na volby ZLK 2020, Strana zelených, IČO 00409740",,409740,,"Dar ve prospěch ČSSD - na volby ZLK 2020, Strana zelených, IČO 00409740",cssd
 2020-06-26,25000,Bezhotovostní příjem,"KOPRIVA, MIROSLAV","Dar ve prospech CSSD, MiroslavKopriva, 13.7.1953",,13071953,,"KOPRIVA, MIROSLAV",cssd
 2020-06-25,30000,Okamžitá příchozí platba,Tomáš Soukal,"Dar ve prospech CSSD, Tomas Soukal,",0,9081981,,Tomáš Soukal,cssd
 2020-06-25,20000,Bezhotovostní příjem,"Valhoda Václav,Ing.","Dar ve prospěch ČSSD, Václav Valhoda, 25.06.1959",0,25061959,,"Valhoda Václav,Ing.",cssd
 2020-06-25,20000,Okamžitá příchozí platba,Šnejdrla Jindřich,"dar ve prospěch ČSSD, Jindřich Šnej",8,15121957,,Šnejdrla Jindřich,cssd
 2020-06-24,300,Okamžitá příchozí platba,"Štědroň Jakub,Mgr.","členský příspěvek Jakub Štědroň, MO",0,,,"Štědroň Jakub,Mgr.",cssd
 2020-06-23,500,Bezhotovostní příjem,ING.PETR MASKA,,,21021963,,ING.PETR MASKA,cssd
-2020-06-22,-100000,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 72, Ostrava - město",,,,"převod daru, volby Senát, v.o. 72, Ostrava - město",cssd
+2020-06-22,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby Senát, v.o. 72, Ostrava - město",,,,"převod daru, volby Senát, v.o. 72, Ostrava - město",cssd
 2020-06-22,-50000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Pardubický kraj",308,9,,"převod daru, volby ZK, Pardubický kraj",cssd
-2020-06-22,-300000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Pardubický kraj",,,,"převod daru, volby ZK, Pardubický kraj",cssd
+2020-06-22,-3e+05,Platba převodem uvnitř banky,,"převod daru, volby ZK, Pardubický kraj",,,,"převod daru, volby ZK, Pardubický kraj",cssd
 2020-06-21,50000,Okamžitá příchozí platba,JAN ŠRŮTEK,"Dar ve prospěch ČSSD, Jan Šrůtek, 2.10.1974",,2101974,,JAN ŠRŮTEK,cssd
 2020-06-18,-10000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-06-18,-50000,Platba převodem uvnitř banky,,"převod daru, volby Senát, Olomouc, v.o. 66",,,,"převod daru, volby Senát, Olomouc, v.o. 66",cssd
-2020-06-18,300000,Bezhotovostní příjem,NETOLICKÝ MARTIN,"Dar ve prospěch ČSSD, Martin Netolický, 22.9.1982",308,22091982,0,NETOLICKÝ MARTIN,cssd
-2020-06-16,100000,Bezhotovostní příjem,HAVELKA KAMIL,Dar ve prospěch ČSSD (volby 2020) - Kamil Havelka 26.4. 1966,0,26041966,0,HAVELKA KAMIL,cssd
+2020-06-18,3e+05,Bezhotovostní příjem,NETOLICKÝ MARTIN,"Dar ve prospěch ČSSD, Martin Netolický, 22.9.1982",308,22091982,0,NETOLICKÝ MARTIN,cssd
+2020-06-16,1e+05,Bezhotovostní příjem,HAVELKA KAMIL,Dar ve prospěch ČSSD (volby 2020) - Kamil Havelka 26.4. 1966,0,26041966,0,HAVELKA KAMIL,cssd
 2020-06-16,26600,Bezhotovostní příjem,Oliva Jiří,DarVeProspechCSSDJiriOliva28.8.1977,,28081977,,Oliva Jiří,cssd
-2020-06-15,100000,Okamžitá příchozí platba,"Klika Martin,PhDr.",Dar ve prospěch ČSSD Martin Klika,0,9031970,,"Klika Martin,PhDr.",cssd
+2020-06-15,1e+05,Okamžitá příchozí platba,"Klika Martin,PhDr.",Dar ve prospěch ČSSD Martin Klika,0,9031970,,"Klika Martin,PhDr.",cssd
 2020-06-15,-90000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",308,9,,"převod daru, volby ZK, Jihomoravský kraj",cssd
 2020-06-15,-10000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",308,9,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-06-15,-20000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",308,9,,"převod daru, volby ZK, Jihočeský kraj",cssd
@@ -475,9 +475,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-15,-15000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",308,9,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-06-15,-5000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-06-15,-3000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
-2020-06-15,-300000,Bezhotovostní platba,,"vrácení daru - Martin Netolický, nesplnění podmínek zákona",308,9,,"vrácení daru - Martin Netolický, nesplnění podmínek zákona",cssd
+2020-06-15,-3e+05,Bezhotovostní platba,,"vrácení daru - Martin Netolický, nesplnění podmínek zákona",308,9,,"vrácení daru - Martin Netolický, nesplnění podmínek zákona",cssd
 2020-06-15,5000,Bezhotovostní příjem,MUDr. Petr Vošta,"Dar ve prospěch ČSSD,MUDr. Petr Vošta,8.2.1942",0,8021942,,MUDr. Petr Vošta,cssd
-2020-06-15,300000,Bezhotovostní příjem,NETOLICKÝ MARTIN,Příspěvek Netolický - VOLBY PAK 2020,308,22091982,0,NETOLICKÝ MARTIN,cssd
+2020-06-15,3e+05,Bezhotovostní příjem,NETOLICKÝ MARTIN,Příspěvek Netolický - VOLBY PAK 2020,308,22091982,0,NETOLICKÝ MARTIN,cssd
 2020-06-15,50000,Bezhotovostní příjem,ŠKAŘUPA ZDENEK,"Zdenek Škařupa, 24.7.1961, dar na volební kampaň",0,24071961,0,ŠKAŘUPA ZDENEK,cssd
 2020-06-12,10000,Bezhotovostní příjem,TUREK MICHAL,"Dar ve prospech CSSDM.Turek, 28.4.1975",,28041975,,TUREK MICHAL,cssd
 2020-06-11,-3322500,Bezhotovostní platba,,"ČSSD, příspěvek na podporu činnosti politického institutu MDA, 1. pololetí 2020",558,409171,,"ČSSD, příspěvek na podporu činnosti politického institutu MDA, 1. pololetí 2020",cssd
@@ -496,7 +496,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-08,-50000,Platba převodem uvnitř banky,,převod daru na KP Plzeňského kraje,,,,převod daru na KP Plzeňského kraje,cssd
 2020-06-08,10000,Platba převodem uvnitř banky,"Polanský, Tomáš","Dar ve prospěch ČSSD, Tomáš Polanský, 25.8.1988",,25081988,,"Dar ve prospěch ČSSD, Tomáš Polanský, 25.8.1988",cssd
 2020-06-08,10000,Okamžitá příchozí platba,PETŘÍK TOMÁŠ,"Dar ve prospěch ČSSD, Tomáš Petřík, 5.1.1987",,5011987,,PETŘÍK TOMÁŠ,cssd
-2020-06-05,100000,Okamžitá příchozí platba,Štěch Milan,"Dar ve prospěch ČSSD,Milan Štěch ,1",308,13111953,,Štěch Milan,cssd
+2020-06-05,1e+05,Okamžitá příchozí platba,Štěch Milan,"Dar ve prospěch ČSSD,Milan Štěch ,1",308,13111953,,Štěch Milan,cssd
 2020-06-05,-50000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihočeský kraj",,,,"převod daru, volby ZK, Jihočeský kraj",cssd
 2020-06-05,50000,Bezhotovostní příjem,LIŠKA JIŘÍ,DAR VE PROSPĚCH ČSSD JIŘÍ LIŠKA13.3.1944,0,13031944,0,LIŠKA JIŘÍ,cssd
 2020-06-05,50000,Bezhotovostní příjem,JOCH MIROSLAV,"Dar ve prospěch ČSSD, Miroslav Joch, 11. 4. 1977",0,11041977,0,JOCH MIROSLAV,cssd
@@ -518,7 +518,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-02,25000,Bezhotovostní příjem,VESELY ONDREJ,"dar ve prospech CSSD, Ondrej Vesely, 3.5.1976",308,3051976,,VESELY ONDREJ,cssd
 2020-06-02,16612500,Bezhotovostní příjem,MF,,6418,39362020,0,"MF ČR, příspěvek na činnost 2.Q 2020",cssd
 2020-06-01,-25000,Okamžitá odchozí platba,,"vrácení daru - Veselý Ondřej, nesplnění podmínek zákona",308,9,,"vrácení daru - Veselý Ondřej, nesplnění podmínek zákona",cssd
-2020-06-01,-100000,Platba převodem uvnitř banky,,"převod daru na volby do Senátu, v.o. 63, Přerov",,,,"převod daru na volby do Senátu, v.o. 63, Přerov",cssd
+2020-06-01,-1e+05,Platba převodem uvnitř banky,,"převod daru na volby do Senátu, v.o. 63, Přerov",,,,"převod daru na volby do Senátu, v.o. 63, Přerov",cssd
 2020-06-01,-50000,Platba převodem uvnitř banky,,"převod daru na volby do Senátu, v.o. 36, Česká Lípa",,,,"převod daru na volby do Senátu, v.o. 36, Česká Lípa",cssd
 2020-06-01,20000,Platba převodem uvnitř banky,"Ing. Bastlová, Olga","Dar ve prospěch ČSSD, Olga Bastlová, 28.6.1970",,28061970,,"Dar ve prospěch ČSSD, Olga Bastlová, 28.6.1970",cssd
 2020-06-01,10000,Bezhotovostní příjem,BLIZILOVA PETRA,"Dar ve prospech CSSD, Petra Blizilova, 29.02.1972",,29021972,,BLIZILOVA PETRA,cssd
@@ -534,34 +534,34 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-05-28,-50000,Okamžitá odchozí platba,,"ČSSD, vrácení daru - Liška Jiří, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru - Liška Jiří, nesplnění podmínek zákona",cssd
 2020-05-27,50000,Bezhotovostní příjem,LIŠKA JIŘÍ,DAR ČSSD KAMPAŇ S PČR,0,13031944,0,LIŠKA JIŘÍ,cssd
 2020-05-26,50000,Bezhotovostní příjem,Křupala Jaroslav,"dar ve prospěch ČSSD,Jaroslav Křupala 9.8.1972",0,9081972,,Křupala Jaroslav,cssd
-2020-05-26,100000,Bezhotovostní příjem,SMETANA RADIM,Dar ve prospěch ČSSD Radim Smetana18.09.1974,0,18091974,0,SMETANA RADIM,cssd
-2020-05-26,100000,Bezhotovostní příjem,Michaela Němčíková,Dar ve prospěch ČSSD RADEKSUŠIL 9.1.1967,,9011967,,Michaela Němčíková,cssd
-2020-05-25,-100000,Okamžitá odchozí platba,,"Vrácení daru - Smetana Radim, nesplnění podmínek zákona",308,18091974,,"Vrácení daru - Smetana Radim, nesplnění podmínek zákona",cssd
-2020-05-25,-100000,Platba převodem uvnitř banky,,"převod daru, volby do Senátu",,,,"převod daru, volby do Senátu",cssd
+2020-05-26,1e+05,Bezhotovostní příjem,SMETANA RADIM,Dar ve prospěch ČSSD Radim Smetana18.09.1974,0,18091974,0,SMETANA RADIM,cssd
+2020-05-26,1e+05,Bezhotovostní příjem,Michaela Němčíková,Dar ve prospěch ČSSD RADEKSUŠIL 9.1.1967,,9011967,,Michaela Němčíková,cssd
+2020-05-25,-1e+05,Okamžitá odchozí platba,,"Vrácení daru - Smetana Radim, nesplnění podmínek zákona",308,18091974,,"Vrácení daru - Smetana Radim, nesplnění podmínek zákona",cssd
+2020-05-25,-1e+05,Platba převodem uvnitř banky,,"převod daru, volby do Senátu",,,,"převod daru, volby do Senátu",cssd
 2020-05-25,-30000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
-2020-05-22,100000,Bezhotovostní příjem,HIKO MP TRADE S.R.O.,"Dar ve prospech CSSD, HiKO MP Trades.r.o., 04449665",308,4449665,220520,HIKO MP TRADE S.R.O.,cssd
-2020-05-21,100000,Bezhotovostní příjem,SMETANA RADIM,Radim Smetana Ostrava,0,18091974,0,"Dar ve prospěch ČSSD, SMETANA RADIM, 18.9.1974",cssd
+2020-05-22,1e+05,Bezhotovostní příjem,HIKO MP TRADE S.R.O.,"Dar ve prospech CSSD, HiKO MP Trades.r.o., 04449665",308,4449665,220520,HIKO MP TRADE S.R.O.,cssd
+2020-05-21,1e+05,Bezhotovostní příjem,SMETANA RADIM,Radim Smetana Ostrava,0,18091974,0,"Dar ve prospěch ČSSD, SMETANA RADIM, 18.9.1974",cssd
 2020-05-20,30000,Bezhotovostní příjem,DOFFKOVA NATALIE,"Dar ve prospech CSSDNatalie Doffkova, 9.6.1980",,9061980,,DOFFKOVA NATALIE,cssd
 2020-05-19,-10500,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
-2020-05-19,-200000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
+2020-05-19,-2e+05,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
 2020-05-19,-25000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Pardubický kraj",,,,"převod daru, volby ZK, Pardubický kraj",cssd
-2020-05-18,100000,Bezhotovostní příjem,KRATOCHVILE KAREL,"Dar ve prospech CSSD Karel Kratochvile , 27.4.1958",,27041958,,KRATOCHVILE KAREL,cssd
+2020-05-18,1e+05,Bezhotovostní příjem,KRATOCHVILE KAREL,"Dar ve prospech CSSD Karel Kratochvile , 27.4.1958",,27041958,,KRATOCHVILE KAREL,cssd
 2020-05-15,25000,Bezhotovostní příjem,BIDMON JOSEF,Dar ve prospěch ČSSD Josef Bidmon 27.2.1959,0,27021959,0,BIDMON JOSEF,cssd
 2020-05-14,-150000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
 2020-05-14,-30000,Platba převodem uvnitř banky,,"převod daru, volby ZK, Jihomoravský kraj",,,,"převod daru, volby ZK, Jihomoravský kraj",cssd
 2020-05-14,-50000,Platba převodem uvnitř banky,,"převod daru na volby do Senátu, v.o. 57, Vyškov",,,,"převod daru na volby do Senátu, v.o. 57, Vyškov",cssd
-2020-05-14,-300000,Platba převodem uvnitř banky,,"převod daru z ÚS ČSSD, volby ZK, Kraj Vysočina",,,,"převod daru z ÚS ČSSD, volby ZK, Kraj Vysočina",cssd
+2020-05-14,-3e+05,Platba převodem uvnitř banky,,"převod daru z ÚS ČSSD, volby ZK, Kraj Vysočina",,,,"převod daru z ÚS ČSSD, volby ZK, Kraj Vysočina",cssd
 2020-05-13,-50000,Okamžitá odchozí platba,,"ČSSD, vrácení daru - Křupala Jaroslav, nesplnění podmínek zákona",308,7208092353,,"ČSSD, vrácení daru - Křupala Jaroslav, nesplnění podmínek zákona",cssd
 2020-05-13,150000,Bezhotovostní příjem,"HANÁK ROMAN, BC.","Dar ve prospěch ČSSD, Roman Hanák,30.7.1984",0,30071984,,"HANÁK ROMAN, BC.",cssd
-2020-05-13,200000,Bezhotovostní příjem,ŠLAPAL MAREK,"Dar ve prospěch ČSSD, Marek Šlapal, 6.10.1975",0,6101975,0,ŠLAPAL MAREK,cssd
+2020-05-13,2e+05,Bezhotovostní příjem,ŠLAPAL MAREK,"Dar ve prospěch ČSSD, Marek Šlapal, 6.10.1975",0,6101975,0,ŠLAPAL MAREK,cssd
 2020-05-12,50000,Okamžitá příchozí platba,Křupala Jaroslav,"Dar ve prospěch ČSSD,",0,7208092353,,Křupala Jaroslav,cssd
 2020-05-12,10500,Okamžitá příchozí platba,Malinkovič David,"Dar ve prospech CSSD,",0,28061970,,"Dar ve prospěch ČSSD, Malinkovič David, 28.6.1970",cssd
 2020-05-12,30000,Okamžitá příchozí platba,Bárek Ivo,"Dar ve prospěch ČSSD, Ivo Bárek, 26",0,26031962,,"Dar ve prospěch ČSSD, Bárek Ivo, 26.3.1962",cssd
-2020-05-11,300000,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,"DAR VE PROSPĚCH ČSSD, MUDR. JIŘÍBĚHOUNEK, 13.5.1952",308,13051952,,BĚHOUNEK JIŘÍ,cssd
+2020-05-11,3e+05,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,"DAR VE PROSPĚCH ČSSD, MUDR. JIŘÍBĚHOUNEK, 13.5.1952",308,13051952,,BĚHOUNEK JIŘÍ,cssd
 2020-05-07,50000,Okamžitá příchozí platba,Bárek Ivo,"Dar ve prospěch ČSSD, Ivo Bárek, 26",0,26031962,,"Dar ve prospěch ČSSD, Bárek Ivo, 26.3.1962",cssd
 2020-05-06,-25000,Platba převodem uvnitř banky,,"Převod daru na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2020-05-04,-300000,Bezhotovostní platba,,"ČSSD, vrácení daru Jiřímu Běhounkovi, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Jiřímu Běhounkovi, nesplnění podmínek zákona",cssd
-2020-04-29,300000,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,ounek 13.5.1952,308,13051952,,BĚHOUNEK JIŘÍ,cssd
+2020-05-04,-3e+05,Bezhotovostní platba,,"ČSSD, vrácení daru Jiřímu Běhounkovi, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Jiřímu Běhounkovi, nesplnění podmínek zákona",cssd
+2020-04-29,3e+05,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,ounek 13.5.1952,308,13051952,,BĚHOUNEK JIŘÍ,cssd
 2020-04-24,25000,Okamžitá příchozí platba,"Pospíšil Oliver,Ing.","Dar ve prospěch ČSSD, Oliver",308,14061970,,"Pospíšil Oliver,Ing.",cssd
 2020-04-14,-16612500,Platba převodem uvnitř banky,,"Převod kontokorentní účet ČSSD, příspěvek na činnost 1.Q 2020, MF ČR",308,9,,"Převod kontokorentní účet ČSSD, příspěvek na činnost 1.Q 2020, MF ČR",cssd
 2020-04-09,16612500,Bezhotovostní příjem,MF,1403/765/2020-117 ČSSD,6418,7652020,0,"MF ČR, příspěvek na činnost ČSSD,  1.Q 2020",cssd
@@ -604,7 +604,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-10,21500,Bezhotovostní příjem,SKLENAK ROMAN,"Dar ve prospech CSSD, Roman Sklenak, 23.7.1970",,23071970,,SKLENAK ROMAN,cssd
 2019-12-05,7700,Bezhotovostní příjem,VESELY ONDREJ,"Dar ve prospech CSSD, JUDr. OndrejVesely, 3.5.1976",308,361976,,VESELY ONDREJ,cssd
 2019-12-04,-7700,Bezhotovostní platba,,"ČSSD, vrácená platba Ondřeji Veselému, nesplnění podmínek zákona",308,3051976,,"ČSSD, vrácená platba Ondřeji Veselému, nesplnění podmínek zákona",cssd
-2019-12-04,100000,Bezhotovostní příjem,SASEK KAREL,"Dar ve prospech CSSD, Karel Sasek,4.3.1976.",,0,,SASEK KAREL,cssd
+2019-12-04,1e+05,Bezhotovostní příjem,SASEK KAREL,"Dar ve prospech CSSD, Karel Sasek,4.3.1976.",,0,,SASEK KAREL,cssd
 2019-12-04,3700,Bezhotovostní příjem,SAZAVSKY PAVEL,"Dar ve prospech CSSD, PavelSazavsky, 26.4.1963",,26041963,,SAZAVSKY PAVEL,cssd
 2019-12-04,-3700,Bezhotovostní platba,,"ČSSD, vrácená platba Pavlu Sázavskému, nesplnění podmínek zákona",308,26041963,,"ČSSD, vrácená platba Pavlu Sázavskému, nesplnění podmínek zákona",cssd
 2019-12-03,7700,Bezhotovostní příjem,VESELY ONDREJ,,,3051976,,VESELY ONDREJ,cssd
@@ -620,7 +620,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-10-14,-60000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-09-30,-50000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-09-25,50000,Bezhotovostní příjem,Toman Miroslav Ing.C,"Dar ve prospěch ČSSD, Miroslav Toman, 6.2.1960",0,6021960,,"Dar ve prospěch ČSSD, Ing. Miroslav Toman, CSc., 6.2.1960",cssd
-2019-09-20,-100000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2019-09-20,-1e+05,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-09-20,25000,Bezhotovostní příjem,Hamáček Jan,"Dar ve prospěch ČSSD, Jan Hamáček",,4111978,,"Dar ve prospěch ČSSD, Jan Hamáček, 4.11.1978",cssd
 2019-09-18,-16612500,Platba převodem uvnitř banky,,"Převod na kontokorentní účet ČSSD, příspěvek na činnost 3.Q 2019, MF ČR",308,9,,"Převod na kontokorentní účet ČSSD, příspěvek na činnost 3.Q 2019, MF ČR",cssd
 2019-09-18,60000,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,DAR VE PROSPĚCH ČSSD BĚHOUNEK1351952,308,13051952,,"Dar ve prospěch ČSSD, Jiří Běhounek, 13.5.1952",cssd
@@ -663,8 +663,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-05-09,50000,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,Dar ve prospěch ČSSD MUDr. Jiří Běhounek,308,13051952,,"Dar ve prospěch ČSSD, MUDr. Jiří Běhounek, 13.5.1952",cssd
 2019-05-07,9800,Bezhotovostní příjem,SKLENAK ROMAN,"Dar ve prospech CSSD, Roman Sklenak23.07.1970",,23071970,,"Dar ve prospěch ČSSD, Roman Sklenák, 23.7.1970",cssd
 2019-05-06,20000,Bezhotovostní příjem,Šnejdrla Jindřich,,308,15121957,0,"Dar ve prospěch ČSSD, Jindřich Šnejdrla, 15.12.1957",cssd
-2019-04-25,-200000,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2019-04-25,200000,Bezhotovostní příjem,RNDr. Pavel Poc,"Dar ve prospěch ČSSD, Pavel Poc, 26.5.1964.",0,26051964,,"Dar ve prospěch ČSSD, Pavel Poc, 26.5.1964",cssd
+2019-04-25,-2e+05,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2019-04-25,2e+05,Bezhotovostní příjem,RNDr. Pavel Poc,"Dar ve prospěch ČSSD, Pavel Poc, 26.5.1964.",0,26051964,,"Dar ve prospěch ČSSD, Pavel Poc, 26.5.1964",cssd
 2019-04-24,-10000,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-04-24,10000,Bezhotovostní příjem,VASATKOVA DANIELA,"Dar ve prospech CSSD, Daniela Vasatkova, 11.5.1990",,11051990,,"Dar ve prospěch ČSSD, Mgr. Daniela Vašátková, 11.5.1990",cssd
 2019-04-23,-10000,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
@@ -685,15 +685,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-04-08,25000,Bezhotovostní příjem,BRZOBOHATA ZUZANA,"dar ve prospech CSSD, Zuzana Brzobohata, 11.7.1962",308,11071962,,"Dar ve prospěch ČSSD, Zuzana Brzobohatá, 11.7.1962",cssd
 2019-04-08,-10000,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-04-04,10000,Bezhotovostní příjem,Ing. Roman Váňa - OS,"Dar ve prospěch ČSSD,Roman Váňa,1.11.1966",0,1111966,,"Dar ve prospěch ČSSD, Ing. Roman Váňa, 1.11.1966",cssd
-2019-04-03,-200000,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2019-03-28,200000,Bezhotovostní příjem,RNDr. Pavel Poc,"Dar ve prospěch ČSSD, Pavel Poc, 26.5.1964.",0,26051964,,"Dar ve prospěch ČSSD, RNDr. Pavel Poc, 26.5.1964",cssd
+2019-04-03,-2e+05,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2019-03-28,2e+05,Bezhotovostní příjem,RNDr. Pavel Poc,"Dar ve prospěch ČSSD, Pavel Poc, 26.5.1964.",0,26051964,,"Dar ve prospěch ČSSD, RNDr. Pavel Poc, 26.5.1964",cssd
 2019-03-21,-1100,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2019-03-21,-100000,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2019-03-21,-1e+05,Platba převodem uvnitř banky,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Převod daru na volby do EP, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-03-15,1100,Bezhotovostní příjem,VESELY ONDREJ,"Dar ve prospech CSSD, Ondrej Vesely3.5.1976",308,3051976,,"Dar ve prospěch ČSSD, Ondřej Veselý, 3.5.1976",cssd
 2019-03-14,-2200,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-03-12,-1600,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-03-12,1600,Bezhotovostní příjem,FOLDYNA JAROSLAV,"Dar ve prospěch ČSSD, Jaroslav Foldyna, 26.6.1960",0,26061960,0,"Dar ve prospěch ČSSD, Jaroslav Foldyna, 26.6.1960",cssd
-2019-03-12,100000,Bezhotovostní příjem,"Sehnalová Olga,MUDr.",,308,25101968,0,"Dar ve prospěch ČSSD, MUDr. Olga Sehnalová, 25.10.1968",cssd
+2019-03-12,1e+05,Bezhotovostní příjem,"Sehnalová Olga,MUDr.",,308,25101968,0,"Dar ve prospěch ČSSD, MUDr. Olga Sehnalová, 25.10.1968",cssd
 2019-03-08,-2400,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2019-03-07,2400,Bezhotovostní příjem,Miroslav Andrt,"Dar ve prospěch ČSSD,  Miroslav Andrt, 13.2.1978.",0,13021978,,"Dar ve prospěch ČSSD, Miroslav Andrt, 13.2.1978",cssd
 2019-03-06,-2700,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
@@ -769,7 +769,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-24,-4500,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-24,-50000,Bezhotovostní platba,,"Vrácení daru Mgr. Antonínu Staňkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,2031966,,"Vrácení daru Mgr. Antonínu Staňkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-24,50000,Bezhotovostní příjem,"Staněk Antonín,Mgr.",Dar ve prospěch ČSSD,,2031966,,"Staněk Antonín,Mgr.",cssd
-2018-10-19,-100000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-10-19,-1e+05,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-18,-10000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-18,10000,Platba převodem uvnitř banky,"VERITA, s.r.o.","""Dar ve prospěch ČSSD, VERITA, s.r.o., 25312421""",308,25312421,,"""Dar ve prospěch ČSSD, VERITA, s.r.o., 25312421""",cssd
 2018-10-18,50000,Bezhotovostní příjem,Leoš Malina,"Dar ve prospěch ČSSD, Leoš Malina,16.02.1978",308,16021978,,"Dar ve prospěch ČSSD, Leoš Malina, 16.2.1978",cssd
@@ -778,7 +778,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-15,-36700,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-15,30000,Bezhotovostní příjem,VÁŇA MIROSLAV,"Dar ve prospěch ČSSD,Miroslav Váňa,08.03.1961 Dar ve prospěch ČSSD,Miroslav Váňa,08.03.1961 Dar ve prospěch ČSSD,Miroslav Váňa,08.03.1961",308,8031961,0,"Dar ve prospěch ČSSD, Miroslav Váňa, 8.3.1961",cssd
 2018-10-12,-35000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-10-12,-100000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-10-12,-1e+05,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-12,6700,Bezhotovostní příjem,Oliva Jiří,DarveprospechCSSDJiriOliva28.8.1977,,28081977,,"Dar ve prospěch ČSSD, Jiří Oliva, 28.8.1977",cssd
 2018-10-12,25000,Bezhotovostní příjem,"Spálenka Daniel,Dr.","Dar ve prospěch ČSSD , Daniel Spálenka, 28.5.1973",,28051973,,"Dar ve prospěch ČSSD, Dr. Daniel Spálenka, 28.5.1973",cssd
 2018-10-12,10000,Bezhotovostní příjem,TRÁVNÍČEK JAROSLAV,"Dar ve prospěch ČSSD Jaroslav Trávníček, 15.11.1942",308,15111942,0,"Dar ve prospěch ČSSD, Jaroslav Trávníček, 15.11.1942",cssd
@@ -793,7 +793,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-08,-53000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-08,50000,Bezhotovostní příjem,KŘENEK KAMIL,"(?Dar ve prospěch ČSSD?), Kamil Křenek 03.05.1975",0,3051975,0,"Dar ve prospěch ČSSD, Kamil Křenek, 3.5.1975",cssd
 2018-10-08,3000,Bezhotovostní příjem,ČÍP STANISLAV,Stanislav Číp 13121979,0,13121979,0,ČÍP STANISLAV,cssd
-2018-10-08,100000,Bezhotovostní příjem,Leoš Malina,"Dar ve prospěch ČSSD, Leoš Malina,16.02.1978",308,16021978,,"Dar ve prospěch ČSSD, Leoš Malina, 16.2.1978",cssd
+2018-10-08,1e+05,Bezhotovostní příjem,Leoš Malina,"Dar ve prospěch ČSSD, Leoš Malina,16.02.1978",308,16021978,,"Dar ve prospěch ČSSD, Leoš Malina, 16.2.1978",cssd
 2018-10-08,25000,Bezhotovostní příjem,MAREK JAN,"Dar ve prospěch ČSSD, Jan Marek, 08.10.1986",308,8101986,,"Dar ve prospěch ČSSD, Jan Marek, 8.10.1986",cssd
 2018-10-08,5000,Bezhotovostní příjem,LUKA JOSEF,Dar ve prospěch ČSSD Josef Luka 23.5.1956,0,23051956,0,"Dar ve prospěch ČSSD, Josef Luka, 23.5.1956",cssd
 2018-10-08,1001,Bezhotovostní příjem,Karglová Iveta,"Dar ve prospěch ČSSD, Iveta Karglová,9.3.1974",,3091974,,"Dar ve prospěch ČSSD, Iveta Karglová, 9.3.1974",cssd
@@ -825,7 +825,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-03,13700,Bezhotovostní příjem,PROSER JONAS,"Dar ve prospech CSSD, JonasProser, 12. 01. 1985",,12011985,,"Dar ve prospěch ČSSD, Jonáš Proser, 12.1.1985",cssd
 2018-10-03,30000,Bezhotovostní příjem,Servisní pojišťovna,"DAR VE PROSPĚCH ČSSD, SERVISNÍ POJIŠŤOVNA A.S., 25345150",308,25345150,,"Dar ve prospěch ČSSD, Servisní pojišťovna a.s., IČO 25345150",cssd
 2018-10-02,35000,Bezhotovostní příjem,TEJKL MIROSLAV JUDR.,"Dar ve prospěch ČSSD, Miroslav Tejkl, 02.02.1959",308,2021959,0,"Dar ve prospěch ČSSD, JUDr. Miroslav Tejkl, 2.2.1959",cssd
-2018-10-02,100000,Bezhotovostní příjem,ZIMMERMANN MICHAL,"Dar ve prospech CSSD, MIchal Zimmermann 3.4.1977",,3041977,,"Dar ve prospěch ČSSD, Michal Zimmermann, 3.4.1977",cssd
+2018-10-02,1e+05,Bezhotovostní příjem,ZIMMERMANN MICHAL,"Dar ve prospech CSSD, MIchal Zimmermann 3.4.1977",,3041977,,"Dar ve prospěch ČSSD, Michal Zimmermann, 3.4.1977",cssd
 2018-10-02,20000,Bezhotovostní příjem,NOVOTNÝ VLADIMÍR,"Dar ve prospěch ČSSD, Vladimír Novotný, 20.5.1966.",,20051966,,"Dar ve prospěch ČSSD, Vladimír Novotný, 20.5.1966",cssd
 2018-10-02,-30000,Bezhotovostní platba,,"Vrácení daru, Servisní pojišťovna a.s., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,25345150,,"Vrácení daru, Servisní pojišťovna a.s., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-10-02,-75000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
@@ -846,8 +846,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-27,20000,Bezhotovostní příjem,GRYGERA JAROMÍR,Dar ČSSD-Jaromír Grygera-30.05.1958,308,30051958,5805301084,"Dar ve prospěch ČSSD, Jaromír Grygera, 30.5.1958",cssd
 2018-09-27,20000,Bezhotovostní příjem,"INZEP CENTRUM, S.R.O","Dar ve prospech CSSD,INZEP CENTRUM s.r.o.,ICO:25863371",308,25863371,0,"Dar ve prospěch ČSSD, INZEP CENTRUM, s.r.o., IČO: 25863371",cssd
 2018-09-26,-60000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 23, Praha 8, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,23,"Převod daru na volby do Senátu, 23, Praha 8, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-09-26,-100000,Bezhotovostní platba,,"Vrácení daru Vladimíra Plačka, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",558,29051965,,"Vrácení daru Vladimíra Plačka, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-09-26,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"Vratka daru Vladimíra Plačka, volby do S PČR 2018, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,68,"Vratka daru Vladimíra Plačka, volby do S PČR 2018, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-26,-1e+05,Bezhotovostní platba,,"Vrácení daru Vladimíra Plačka, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",558,29051965,,"Vrácení daru Vladimíra Plačka, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-26,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"Vratka daru Vladimíra Plačka, volby do S PČR 2018, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,68,"Vratka daru Vladimíra Plačka, volby do S PČR 2018, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-26,10000,Bezhotovostní příjem,"Matulová Monika,DiS.","dar ve prospěch ČSSD, Monika Matulová, 15.3.1982",0,1531982,0,"Dar ve prospěch ČSSD, Monika Matulová, 15.3.1982",cssd
 2018-09-26,-5000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 99, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,99,"Převod daru na volby do Senátu, 99, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-26,-10000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 20, Praha 4, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,20,"Převod daru na volby do Senátu, 20, Praha 4, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
@@ -910,11 +910,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-19,40000,Bezhotovostní příjem,Jusková Hana,"Dar ve prospěch ?SSD, Hana Jusková,20.4.1969",308,20041969,,"Dar ve prospěch ČSSD, Jusková Hana, 20.4.1969",cssd
 2018-09-19,8000,Bezhotovostní příjem,Izák Miloš,"Dar-prosp.ČSSD,Miloš Izák,16.4.1952",,16041952,,"Dar ve prospěch ČSSD, Miloš Izák, 16.4.1952",cssd
 2018-09-18,-20000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,44,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-09-18,-100000,Bezhotovostní platba,,"Vrácení daru Janu Olejníčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Vrácení daru Janu Olejníčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-18,-1e+05,Bezhotovostní platba,,"Vrácení daru Janu Olejníčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,,"Vrácení daru Janu Olejníčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-18,40000,Bezhotovostní příjem,MIKULA PETR,"DAR VE PROSPĚCH ČSSD,PETR MIKULA,13091982",0,13091982,0,"Dar ve prospěch ČSSD, MIKULA PETR, 13.9.1982",cssd
-2018-09-18,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"Vratka daru Jana Olejníčka z ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Vratka daru Jana Olejníčka z ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-18,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"Vratka daru Jana Olejníčka z ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Vratka daru Jana Olejníčka z ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-18,50000,Bezhotovostní příjem,"Spálenka Daniel,Dr.","Dar ve prospěch ČSSD , Daniel Spálenka, 28.5.1973",0,28051973,0,"Dar ve prospěch ČSSD, Spálenka Daniel,Dr., 28.5.1973",cssd
-2018-09-18,-100000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,44,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-18,-1e+05,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,44,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-18,-85000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-18,10000,Bezhotovostní příjem,"Trnka Michael,Ing.",Dar ve prospěch ČSSD Michael Trnka16071961,308,26071961,0,"Dar ve prospěch ČSSD, Michael Trnka, 26.7.1961",cssd
 2018-09-18,5000,Bezhotovostní příjem,Petruželová Lenka,"Dar ve prospěch ČSSD, Stanislav Petružela, 21041963",308,21041963,0,"Dar ve prospěch ČSSD, Stanislav Petružela, 21.4.1963",cssd
@@ -927,11 +927,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-17,50000,Bezhotovostní příjem,Daniel Štěpán,"Dar ve prospěch ČSSD, Daniel Štěpán, 30.9.1970",0,30091970,,"Dar ve prospěch ČSSD, Daniel Štěpán, 30.9.1970",cssd
 2018-09-17,50000,Bezhotovostní příjem,ORGONÍKOVÁ LUCIE,Dar ve prospěch ČSSD Lucie Orgonikova 4.12.1976,308,4121976,0,"Dar ve prospěch ČSSD, ORGONÍKOVÁ LUCIE, 4.12.1976",cssd
 2018-09-17,-195000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-09-17,-100000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,50,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-17,-1e+05,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,50,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-17,2000,Bezhotovostní příjem,"Marková Žaneta,Bc.","Dar ve prospěch ČSSD, Žaneta Marková - 27.03.1975",,27031975,,"Dar ve prospěch ČSSD, Bc. Žaneta Marková, 27.3.1975",cssd
 2018-09-17,30000,Bezhotovostní příjem,Petr Dolínek,"Dar ve prospech CSSD, Petr Dolinek, 27.3.1981",0,27031981,,"Dar ve prospěch ČSSD, Petr Dolínek, 27.3.1981",cssd
 2018-09-17,95000,Bezhotovostní příjem,Petr Dolínek,"Dar ve prospech CSSD, Petr Dolinek, 27.3.1981",0,27031981,,"Dar ve prospěch ČSSD, Petr Dolínek, 27.3.1981",cssd
-2018-09-17,100000,Bezhotovostní příjem,"SOVIS CZ, A.S.","Dar ve prospech CSSD, SOVIS CZ,a.s., ICO:27532208",0,27532208,0,"Dar ve prospěch ČSSD, SOVIS CZ, a.s., IČO 27532208",cssd
+2018-09-17,1e+05,Bezhotovostní příjem,"SOVIS CZ, A.S.","Dar ve prospech CSSD, SOVIS CZ,a.s., ICO:27532208",0,27532208,0,"Dar ve prospěch ČSSD, SOVIS CZ, a.s., IČO 27532208",cssd
 2018-09-17,50000,Bezhotovostní příjem,KAFKA JAN,"Dar ve prospech CSSD, Jan Kafka, 23.05.1968",308,23051968,,"Dar ve prospěch ČSSD, Jan Kafka, 23.5.1968",cssd
 2018-09-14,-20000,Bezhotovostní platba,,"Vrácení daru Janu Markovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,30,,"Vrácení daru Janu Markovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-14,20000,Bezhotovostní příjem,MAREK JAN,,,30,,MAREK JAN,cssd
@@ -945,9 +945,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-13,-50000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 38, Mladá Boleslav, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,38,"Převod daru na volby do Senátu, 38, Mladá Boleslav, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-13,-20000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,50,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-13,-50000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,44,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-09-13,-100000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 11, Domažlice, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,11,"Převod daru na volby do Senátu, 11, Domažlice, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-13,-1e+05,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 11, Domažlice, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,11,"Převod daru na volby do Senátu, 11, Domažlice, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-13,5000,Bezhotovostní příjem,Klein Jiří,Dar ČSSD J.Klein 11.12.1970,308,11121970,,"Dar ve prospěch ČSSD, Jiří Klein, 11.12.1970",cssd
-2018-09-13,100000,Bezhotovostní příjem,LATKA JAN,"Dar ve prospech CSSD, Jan Latka,5.4.1954",308,5041954,,"Dar ve prospěch ČSSD, Jan Látka, 5.4.1954",cssd
+2018-09-13,1e+05,Bezhotovostní příjem,LATKA JAN,"Dar ve prospech CSSD, Jan Latka,5.4.1954",308,5041954,,"Dar ve prospěch ČSSD, Jan Látka, 5.4.1954",cssd
 2018-09-13,5000,Bezhotovostní příjem,FOMICZEWOVA MARIE,Dar ve prospech CSSD Marie Fomiczewova 7.3.1959,,7031959,,"Dar ve prospěch ČSSD, Marie Fomiczewová, 7.3.1959",cssd
 2018-09-13,15000,Bezhotovostní příjem,"Rychtecký Jakub,Mgr.","Dar ve prospěch ČSSD, Jakub Rychtecký, 13. 04.1984",308,13041984,,"Dar ve prospěch ČSSD, Mgr. Jakub Rychtecký, 13.4.1984",cssd
 2018-09-12,-375400,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
@@ -955,13 +955,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-12,40000,Bezhotovostní příjem,VALČÍK JOSEF,"Dar ve prospěch ČSSD, Josef Valčík,21.04.1955",558,21041955,0,"Dar ve prospěch ČSSD, Josef Valčík, 21.4.1955",cssd
 2018-09-12,-30000,Bezhotovostní platba,,"Vrácení daru SAMOHÝL MOTOR HOLDING a.s., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,25341626,,"Vrácení daru SAMOHÝL MOTOR HOLDING a.s., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-12,-5000,Bezhotovostní platba,,"Vrácení daru Jiřímu Kleinovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,11121970,,"Vrácení daru Jiřímu Kleinovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-09-12,-100000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 41, Benešov, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,41,"Převod daru na volby do Senátu, 41, Benešov, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-09-12,-1e+05,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 41, Benešov, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,41,"Převod daru na volby do Senátu, 41, Benešov, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-09-12,35000,Bezhotovostní příjem,FALUŠI BLANKA,"Dar ve prospěch ČSSD, Blanka Faluši 21.1.1966",308,21011966,0,"Dar ve prospěch ČSSD, Blanka Faluši, 21.1.1966",cssd
 2018-09-11,20000,Bezhotovostní příjem,PETRUZALKOVA RENATA,"dar ve prospech CSSD, Renata Petruzalkova, 16.12.1967",308,16121967,,"Dar ve prospěch ČSSD, Renata Petružálková, 16.12.1967",cssd
-2018-09-11,100000,Bezhotovostní příjem,SYROVY MILAN,"Dar ve prospěch ČSSD, Milan Syrový,31.011954",0,31011954,,"Dar ve prospěch ČSSD, Milan Syrový, 31.1.1954",cssd
+2018-09-11,1e+05,Bezhotovostní příjem,SYROVY MILAN,"Dar ve prospěch ČSSD, Milan Syrový,31.011954",0,31011954,,"Dar ve prospěch ČSSD, Milan Syrový, 31.1.1954",cssd
 2018-09-11,5000,Bezhotovostní příjem,Klein Jiří,"Dar ve prospěch ČSSD, Jiří Klein",308,11121970,,Klein Jiří,cssd
 2018-09-11,30000,Bezhotovostní příjem,ZATECKA ROMANA,dar pro CSSD Romana Zatecka 12.9.1965,,12091965,,"Dar ve prospěch ČSSD, Romana Žatecká, 12.9.1965",cssd
-2018-09-11,100000,Bezhotovostní příjem,Oliva Jiří,DarVeProspechCSSDJiriOliva28.8.1977,,28081977,,"Dar ve prospěch ČSSD, Jiří Oliva, 28.8.1977",cssd
+2018-09-11,1e+05,Bezhotovostní příjem,Oliva Jiří,DarVeProspechCSSDJiriOliva28.8.1977,,28081977,,"Dar ve prospěch ČSSD, Jiří Oliva, 28.8.1977",cssd
 2018-09-11,20000,Bezhotovostní příjem,Věstinský Lubomír,Dar ve prospěch ČSSD Lubomír Věstinský 8.1.1953,308,8011953,0,"Dar ve prospěch ČSSD, Lubomír Věstinský, 8.1.1953",cssd
 2018-09-11,30000,Bezhotovostní příjem,SAMOHÝL MOTOR HOLDIN,SAMOHYL MOTOR HOLDING DAR ČSSD,308,25341626,,SAMOHÝL MOTOR HOLDIN,cssd
 2018-09-10,17000,Bezhotovostní příjem,STUPKA ZDENĚK,"Dar ve prospěch ČSSD, Zdeněk Stupka, 16.4.1972",0,16041972,0,"Dar ve prospěch ČSSD, Zdeněk Stupka, 16.4.1972",cssd
@@ -976,8 +976,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-07,18000,Bezhotovostní příjem,Muselíková Libuše,"Dar ve prospěch ČSSD, Miroslav Muselík, 15.2.1962",558,15021962,0,"Dar ve prospěch ČSSD, Miroslav Muselík, 15.2.1962",cssd
 2018-09-06,400,Bezhotovostní příjem,Líbalová Kvetoslava,"Dar ve prospěch ČSSD, Kvetoslava Líbalová, 30.12.1958",308,30121958,0,"Dar ve prospěch ČSSD, Kvetoslava Líbalová, 30.12.1958",cssd
 2018-09-06,25000,Bezhotovostní příjem,"Csonka Pavel,Bc.","Šár ve prospěch ČSSD , Pavel Csonka, 27.5.1965",309,27051965,0,"Dar ve prospěch ČSSD, Bc. Pavel Csonka, 27.5.1965",cssd
-2018-09-05,100000,Bezhotovostní příjem,"Pospíšil Oliver,Ing.","Dar ve prospěch ČSSD, Oliver Pospíšil, 14.6.1970",308,14061970,0,"Dar ve prospěch ČSSD, Ing. Oliver Pospíšil, 14.6.1970",cssd
-2018-09-04,100000,Vklad v hotovosti,"dar ve prospěch ČSSD, 23.11.1989, Václav Fürst",,558,23111989,,"dar ve prospěch ČSSD, 23.11.1989, Václav Fürst",cssd
+2018-09-05,1e+05,Bezhotovostní příjem,"Pospíšil Oliver,Ing.","Dar ve prospěch ČSSD, Oliver Pospíšil, 14.6.1970",308,14061970,0,"Dar ve prospěch ČSSD, Ing. Oliver Pospíšil, 14.6.1970",cssd
+2018-09-04,1e+05,Vklad v hotovosti,"dar ve prospěch ČSSD, 23.11.1989, Václav Fürst",,558,23111989,,"dar ve prospěch ČSSD, 23.11.1989, Václav Fürst",cssd
 2018-09-04,20000,Bezhotovostní příjem,"Pavlica Marek,Ing.","Dar ve prospěch ČSSD, Ing. Marek Pavlica 22.3.1985",0,22031985,0,"Dar ve prospěch ČSSD, Ing. Marek Pavlica, 22.3.1985",cssd
 2018-09-04,20000,Platba převodem uvnitř banky,XANTE s.r.o.,"Dar ve prospěch ČSSD s.r.o., XANTE s.r.o. 63472015",308,63472015,,"Dar ve prospěch ČSSD, XANTE s.r.o., IČO: 63472015",cssd
 2018-09-03,-20000,Platba převodem uvnitř banky,,"vrácení daru, XANTE s.r.o., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,63472015,,"vrácení daru, XANTE s.r.o., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
@@ -993,9 +993,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-31,10000,Bezhotovostní příjem,BARTAK DOMINIK,"Dar ve prospech CSSD, Dominik Barta",308,6091991,,BARTAK DOMINIK,cssd
 2018-08-31,50000,Bezhotovostní příjem,MALEČSKÁ ENERGETICKÁ,"Dar ve prospech CSSD, Malecska energeticka s.r.o., 28797345",,28797345,,"Dar ve prospěch ČSSD, Malečská energetická, s.r.o., IČO: 28797345",cssd
 2018-08-31,15000,Bezhotovostní příjem,ABM STAVBY S.R.O,"Dar ve prospech CSSD, ABM stavby s.r.o., 05274371",308,5274371,,"Dar ve prospěch ČSSD, ABM stavby s.r.o., IČO: 05274371",cssd
-2018-08-30,200000,Bezhotovostní příjem,BODENLOS JIŘÍ,"Dar ve prospěch OVV ČSSD Praha 4  Jiří Bodenlos, 25.1.1962",308,25011962,0,"Dar ve prospěch ČSSD, BODENLOS JIŘÍ, 25.1.1962",cssd
+2018-08-30,2e+05,Bezhotovostní příjem,BODENLOS JIŘÍ,"Dar ve prospěch OVV ČSSD Praha 4  Jiří Bodenlos, 25.1.1962",308,25011962,0,"Dar ve prospěch ČSSD, BODENLOS JIŘÍ, 25.1.1962",cssd
 2018-08-30,30000,Bezhotovostní příjem,PAVLIK PETR,"Dar ve prospech CSSDPetr Pavlik, 10.01.1965",,10011965,,"Dar ve prospěch ČSSD, Petr Pavlík, 10.1.1965",cssd
-2018-08-30,100000,Bezhotovostní příjem,"Petržílek Petr,Mgr.","Dar ve prospěch ČSSD,  Petr  Petržílek, 4.4.1971.",0,4041971,0,"Dar ve prospěch ČSSD, Petr Petržílek, 4.4.1971",cssd
+2018-08-30,1e+05,Bezhotovostní příjem,"Petržílek Petr,Mgr.","Dar ve prospěch ČSSD,  Petr  Petržílek, 4.4.1971.",0,4041971,0,"Dar ve prospěch ČSSD, Petr Petržílek, 4.4.1971",cssd
 2018-08-29,-153000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-29,-15000,Bezhotovostní platba,,"vrácení daru, ABM stavby s.r.o., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,5274371,,"vrácení daru, ABM stavby s.r.o., ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-29,40000,Bezhotovostní příjem,"AGROSTROJ Pelhřimov,","Dar ve prospěch ČSSD,AGROSTROJ Pelhřimov,a.s. IČO:00009971",308,9971,,"Dar ve prospěch ČSSD, AGROSTROJ Pelhřimov, a.s., IČO: 00009971",cssd
@@ -1029,8 +1029,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-21,150000,Bezhotovostní příjem,GALUSZKA JAN,Dar ve prospech CSSD Dana Galuszkova 16.10.1958,,16101958,,"Dar ve prospěch ČSSD, Dana Galuszková, 16.10.1958",cssd
 2018-08-21,25000,Bezhotovostní příjem,Frišová Eva,"Dar ve prospěch ČSSD, Eva Frišová,13.4.1971",0,13041971,0,"Dar ve prospěch ČSSD, Eva Frišová, 13.4.1971",cssd
 2018-08-21,10000,Bezhotovostní příjem,NOVOTNÝ VLADIMÍR,"""Dar ve prospěch ČSSD, Vladimír Novotný, 20.5.1966.""",,20051966,,"Dar ve prospěch ČSSD, Vladimír Novotný, 20.5.1966",cssd
-2018-08-21,100000,Bezhotovostní příjem,Ides Jiří,"Dar ve prospěch ČSSD, Jiří Ides, 4.4.1981",0,4041981,0,"Dar ve prospěch ČSSD, Jiří Ides, 4.4.1981",cssd
-2018-08-21,100000,Bezhotovostní příjem,SASEK KAREL,"Dar ve prospech CSSD, Karel Sasek,4.3.1976",,4031976,,"Dar ve prospěch ČSSD, Karel Šašek, 4.3.1976",cssd
+2018-08-21,1e+05,Bezhotovostní příjem,Ides Jiří,"Dar ve prospěch ČSSD, Jiří Ides, 4.4.1981",0,4041981,0,"Dar ve prospěch ČSSD, Jiří Ides, 4.4.1981",cssd
+2018-08-21,1e+05,Bezhotovostní příjem,SASEK KAREL,"Dar ve prospech CSSD, Karel Sasek,4.3.1976",,4031976,,"Dar ve prospěch ČSSD, Karel Šašek, 4.3.1976",cssd
 2018-08-21,25000,Bezhotovostní příjem,KONECNY VLADIMIR,"Dar ve prospech CSSD, Vladimir Koneecny, 18.4.1977",,18041977,,"Dar ve prospěch ČSSD, Vladimír Konečný, 18.4.1977",cssd
 2018-08-20,70000,Bezhotovostní příjem,FRANTISEK ADAMEK,"Dar ve prospech CSSD, Frantisek Adamek, 28.2.1955",,28021955,,"Dar ve prospěch ČSSD, František Adámek, 28.2.1955",cssd
 2018-08-20,50000,Bezhotovostní příjem,PODHOLA PETR,"Dar ve prospech CSSD, Petr Podhola,9. 6. 1982.",308,9061982,,"Dar ve prospěch ČSSD, Petr Podhola, 9.6.1982",cssd
@@ -1039,7 +1039,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-17,-75000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-17,-50000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,44,"Převod daru na volby do Senátu, 44, Chrudim, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-17,-25000,Bezhotovostní platba,,"Vrácení daru Vladimíru Konečnému, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,18041977,,"Vrácení daru Vladimíru Konečnému, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-08-17,100000,Bezhotovostní příjem,PETRICEK TOMAS,Dar ve prospech CSSD Tomas Petricek27.9.1981,,27091981,,"Dar ve prospěch ČSSD, Tomáš Petříček, 27.9.1981",cssd
+2018-08-17,1e+05,Bezhotovostní příjem,PETRICEK TOMAS,Dar ve prospech CSSD Tomas Petricek27.9.1981,,27091981,,"Dar ve prospěch ČSSD, Tomáš Petříček, 27.9.1981",cssd
 2018-08-17,25000,Bezhotovostní příjem,KONECNY VLADIMIR,,,18041977,,KONECNY VLADIMIR,cssd
 2018-08-16,30000,Bezhotovostní příjem,CÍSAŘ PAVEL,"Dar ve prospěch ČSSD, Pavel Císař,7.7.1965",308,771965,0,"Dar ve prospěch ČSSD, Pavel Císař, 7.7.1965",cssd
 2018-08-16,50000,Bezhotovostní příjem,"Orgmedia, s.r.o.","Dar ve prospěch ČSSD, Orgmedia, s.r.o. IČO: 28810503",0,28810503,,"Dar ve prospěch ČSSD, Orgmedia, s.r.o., IČO: 28810503",cssd
@@ -1059,13 +1059,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-15,5000,Bezhotovostní příjem,HAMAN OLEG,"Dar ve prospech CSSD, Oleg Haman, 74.1960",558,7041960,,"Dar ve prospěch ČSSD, Oleg Haman, 7.4.1960",cssd
 2018-08-14,-50000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-14,-20000,Bezhotovostní platba,,"Vrácení daru KONIG-PORZELLAN SOK, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,64357392,,"Vrácení daru KONIG-PORZELLAN SOK, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
-2018-08-14,-100000,Bezhotovostní platba,,"Vrácení daru Tomáši Petříčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,27091981,,"Vrácení daru Tomáši Petříčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-08-14,-1e+05,Bezhotovostní platba,,"Vrácení daru Tomáši Petříčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,27091981,,"Vrácení daru Tomáši Petříčkovi, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-14,-95000,Platba převodem uvnitř banky,,"Vrácení daru Miroslavu Pochemu, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,3061978,,"Vrácení daru Miroslavu Pochemu, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-14,-60000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 80, Zlín, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,80,"Převod daru na volby do Senátu, 80, Zlín, ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-14,40000,Bezhotovostní příjem,"Tuhý Josef,Ing.","Dar ve prospěch ČSSD, Ing. Josef Tuhý, 25.08.1962",308,25081962,0,"Dar ve prospěch ČSSD, Tuhý Josef,Ing., 25.8.1962",cssd
 2018-08-14,15000,Bezhotovostní příjem,"Pöpperl Jiří,Ing.","Dar ve prospěch ČSSD, Jiří Pöpperl,3.11.1956",,3111956,,"Dar ve prospěch ČSSD, Pöpperl Jiří,Ing., 3.11.1956",cssd
 2018-08-14,50000,Bezhotovostní příjem,VÁŇA ROMAN,"Dar ve prospěch ČSSD,Roman Váňa,1.11.1966",0,1111966,0,"Dar ve prospěch ČSSD, VÁŇA ROMAN, 1.11.1966",cssd
-2018-08-14,100000,Bezhotovostní příjem,PETRICEK TOMAS,Dar ve prospech CSSD Tomas Petricek,,27091981,,PETRICEK TOMAS,cssd
+2018-08-14,1e+05,Bezhotovostní příjem,PETRICEK TOMAS,Dar ve prospech CSSD Tomas Petricek,,27091981,,PETRICEK TOMAS,cssd
 2018-08-14,60000,Bezhotovostní příjem,Kovaříková Milena,"Dar ve prospěch ČSSD, Milena Kovaříková, 17.06.1958.",308,17061958,0,"Dar ve prospěch ČSSD, Kovaříková Milena, 17.6.1958",cssd
 2018-08-14,80000,Bezhotovostní příjem,"Wolf Jan,Ing.","DAR VE PROSPĚCH ČSSD, Jan Wolf ,28071968",0,28071968,0,"Dar ve prospěch ČSSD, Wolf Jan,Ing., 28.7.1968",cssd
 2018-08-14,20000,Bezhotovostní příjem,KONIG-PORZELLAN SOK.,Dar ve prospech CSSD,138,64357392,,KONIG-PORZELLAN SOK.,cssd
@@ -1079,8 +1079,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-13,20000,Bezhotovostní příjem,ROZINEK JIRI,"Dar ve prospech CSSD,Jiri Rozinek,4.1.1953",308,4011953,,"Dar ve prospěch ČSSD, ROZINEK JIRI, 4.1.1953",cssd
 2018-08-13,60000,Bezhotovostní příjem,Kovaříková Milena,"Dar ve prospěch ČSSD, Milena Kovaříková",308,17061958,0,Kovaříková Milena,cssd
 2018-08-10,11200,Bezhotovostní příjem,ING.PETR MASKA,"Dar ve prospech CSSD, Petr Maska,21.2.1963",308,2121963,,"Dar ve prospěch ČSSD, ING.PETR MÁŠKA, 21.2.1963",cssd
-2018-08-10,-100000,Platba převodem uvnitř banky,,"Převod daru na voby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,50,"Převod daru na voby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
+2018-08-10,-1e+05,Platba převodem uvnitř banky,,"Převod daru na voby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,50,"Převod daru na voby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-10,-50000,Platba převodem uvnitř banky,,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",308,9,50,"Převod daru na volby do Senátu, 50, Svitavy, ÚS ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-10,-10000,Platba převodem uvnitř banky,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",,,,"Převod na účet ČSSD, Hybernská 1033/7, Praha 1, IČO 00409171",cssd
 2018-08-10,10000,Bezhotovostní příjem,OHLÍDAL IVAN,dar ve prospěch ČSSDIvan Ohlídal 25.04.1945,0,2541945,0,"Dar ve prospěch ČSSD, OHLÍDAL IVAN, 25.4.1945",cssd
-2018-08-10,100000,Bezhotovostní příjem,MAČÁT VÁCLAV,"Dar ve prospěch ČSSD, Václav Mačát,25.7.1949",308,25071949,0,"Dar ve prospěch ČSSD, MAČÁT VÁCLAV, 25.7.1949",cssd
+2018-08-10,1e+05,Bezhotovostní příjem,MAČÁT VÁCLAV,"Dar ve prospěch ČSSD, Václav Mačát,25.7.1949",308,25071949,0,"Dar ve prospěch ČSSD, MAČÁT VÁCLAV, 25.7.1949",cssd

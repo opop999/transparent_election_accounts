@@ -1,8 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
 2021-08-30,-90000,Platba převodem uvnitř banky,,z účtu dary na volební účet 2021,,,,z účtu dary na volební účet 2021,rozumni
-2021-08-16,-100000,Platba převodem uvnitř banky,,z účtu dary na volební účet 2021,,,,z účtu dary na volební účet 2021,rozumni
+2021-08-16,-1e+05,Platba převodem uvnitř banky,,z účtu dary na volební účet 2021,,,,z účtu dary na volební účet 2021,rozumni
 2021-07-25,-90000,Okamžitá odchozí platba,,převod z účtu dary na provozní účet strany,,1,26585979,převod z účtu dary na provozní účet strany,rozumni
-2021-07-02,300000,Bezhotovostní příjem,Pavel Sehnal,DAR politické straně,0,1071964,,Pavel Sehnal,rozumni
+2021-07-02,3e+05,Bezhotovostní příjem,Pavel Sehnal,DAR politické straně,0,1071964,,Pavel Sehnal,rozumni
 2021-07-01,300,Bezhotovostní příjem,"Šejna Jiří,ml.","dar,datum narození 24.9.1957,obec libchavy",0,,,"Šejna Jiří,ml.",rozumni
 2021-06-22,1000,Okamžitá příchozí platba,Fišer Petr,Krupka - dar,0,301059,,Fišer Petr,rozumni
 2021-06-20,1000,Okamžitá příchozí platba,Kuchař Ladislav,Dar 070254 Horni Pocaply,0,,,Kuchař Ladislav,rozumni

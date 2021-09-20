@@ -16,7 +16,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-10,20000,Bezhotovostní příjem,STROJÍRNA LITVÍNOV S,,0,25405756,0,DAR - STROJÍRNA LITVÍNOV S,stan
 2021-09-06,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,"Dar, Spolek po podporu liberální demokracie ČR",stan
 2021-09-06,70000,Okamžitá příchozí platba,MUDr.Adámek Miroslav,Volby 21 Adámek M,0,,184011021,DAR - MUDr.Adámek Miroslav,stan
-2021-09-06,-700000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
+2021-09-06,-7e+05,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-09-06,-12000,Platba převodem uvnitř banky,,STAN - vrácení daru bez darovací smlouvy,,,,Bloudek Tomáš - vrácení neidentifikovaného daru z 2.9.2021,stan
 2021-09-06,500,Bezhotovostní příjem,STRADIOTOVA ZANETA,"volebni dar, Zaneta Stradiotova, Ciolkovskeho 858/8, Praha 6, 16100",,24051993,99033621,DAR - STRADIOTOVA ZANETA,stan
 2021-09-10,50000,Platba převodem uvnitř banky,"Mgr. Velík, Martin",,,187120221,,,stan
@@ -27,7 +27,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-02,2000,Okamžitá příchozí platba,Štěpánková Zdeňka,"volební dar Zdena Štěpánková, Praha 3",0,16111964,98033521,DAR - Štěpánková Zdeňka,stan
 2021-09-02,1300,Okamžitá příchozí platba,MUDr. Petra Hůlková,"volební dar,  Praha Hůlkova,  Praha 1",,13121972,97033421,DAR - MUDr. Petra Hůlková,stan
 2021-09-02,12000,Platba převodem uvnitř banky,"Bc. Bloudek, Tomáš",DAR Tomáš Bloudek,,,,DAR - Tomáš Bloudek,stan
-2021-09-01,100000,Bezhotovostní příjem,MELZER JIŘÍ,"DAR, Jiri Melzer, 2.9.1969 Praha 4",0,2091969,96033321,DAR - MELZER JIŘÍ,stan
+2021-09-01,1e+05,Bezhotovostní příjem,MELZER JIŘÍ,"DAR, Jiri Melzer, 2.9.1969 Praha 4",0,2091969,96033321,DAR - MELZER JIŘÍ,stan
 2021-09-06,70000,Okamžitá příchozí platba,MUDr.Adámek Miroslav,Volby 21 Adámek M,0,,184011021,MUDr.Adámek Miroslav,stan
 2021-08-30,25000,Bezhotovostní příjem,ŠOBR FRANTIŠEK,"DAR, František Šobr, 19.9.1963, Litvínov",0,19091963,144060421,DAR - ŠOBR FRANTIŠEK,stan
 2021-09-03,70000,Okamžitá příchozí platba,Česká spořitelna,,0,26011969,183010921,Česká spořitelna,stan
@@ -35,24 +35,24 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-02,2000,Okamžitá příchozí platba,Štěpánková Zdeňka,"volební dar Zdena Štěpánková, Praha 3",0,16111964,98033521,Štěpánková Zdeňka,stan
 2021-09-02,1300,Okamžitá příchozí platba,MUDr. Petra Hůlková,"volební dar,  Praha Hůlkova,  Praha 1",,13121972,97033421,MUDr. Petra Hůlková,stan
 2021-09-02,12000,Platba převodem uvnitř banky,"Bc. Bloudek, Tomáš",DAR Tomáš Bloudek,,,,DAR Tomáš Bloudek,stan
-2021-08-25,100000,Bezhotovostní příjem,MIVALT PETR ING.,"DAR, Petr Mívalt , 16.01.1969 BrnoBrno623 00",0,160169,164111321,DAR - MIVALT PETR ING.,stan
+2021-08-25,1e+05,Bezhotovostní příjem,MIVALT PETR ING.,"DAR, Petr Mívalt , 16.01.1969 BrnoBrno623 00",0,160169,164111321,DAR - MIVALT PETR ING.,stan
 2021-08-25,70000,Bezhotovostní příjem,"ARIMEX ZLÍN, SPOL. S","DAR, ARIMEX Zlin s.r.o., 46900942",0,46900942,181010721,"DAR - ARIMEX ZLÍN, SPOL. S",stan
 2021-08-25,40000,Platba převodem uvnitř banky,"Kiedroň, Stanislav","Dar, Kiedroň Stanislav, 15.8.63, Zlín",,630815,182010821,"Dar, Kiedroň Stanislav, 15.8.63, Zlín",stan
 2021-08-30,25000,Bezhotovostní příjem,ŠOBR FRANTIŠEK,"DAR, František Šobr, 19.9.1963, Litvínov",0,19091963,144060421,ŠOBR FRANTIŠEK,stan
-2021-08-25,100000,Bezhotovostní příjem,MIVALT PETR ING.,"DAR, Petr Mívalt , 16.01.1969 BrnoBrno623 00",0,160169,164111321,MIVALT PETR ING.,stan
+2021-08-25,1e+05,Bezhotovostní příjem,MIVALT PETR ING.,"DAR, Petr Mívalt , 16.01.1969 BrnoBrno623 00",0,160169,164111321,MIVALT PETR ING.,stan
 2021-08-25,70000,Bezhotovostní příjem,"ARIMEX ZLÍN, SPOL. S","DAR, ARIMEX Zlin s.r.o., 46900942",0,46900942,181010721,"ARIMEX ZLÍN, SPOL. S",stan
 2021-08-24,9000,Okamžitá příchozí platba,Demčák Jaroslav,"DAR, Jaroslav Demčák, 15.02.1978, Hejnice",0,15021978,124020621,Demčák Jaroslav,stan
 2021-08-23,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,Jakub Nešpor,stan
 2021-08-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,HNEVSA TOMAS,stan
-2021-08-17,100000,Bezhotovostní příjem,KRUTAKOVA JANA,"DAR, Jana Krutakova, 21.6.1962,Moravska Nova Ves",,0,165111421,DAR - KRUTAKOVA JANA,stan
+2021-08-17,1e+05,Bezhotovostní příjem,KRUTAKOVA JANA,"DAR, Jana Krutakova, 21.6.1962,Moravska Nova Ves",,0,165111421,DAR - KRUTAKOVA JANA,stan
 2021-08-16,5000,Okamžitá příchozí platba,Petr Halada,DARpetrhalada961962kamyknadvltavou,298,961962,160042221,DAR - Petr Halada,stan
 2021-08-16,4000,Bezhotovostní příjem,Ing.Suchánek Josef,,0,,,DAR - Ing.Suchánek Josef,stan
 2021-08-11,10000,Okamžitá příchozí platba,Jan Berki,"DAR, Jan Berki, 20.09.1981, Liberec",,20091981,123020521,DAR - Jan Berki,stan
 2021-08-11,33750,Platba převodem uvnitř banky,Občanská demokratická strana,DAR- podíl STAN 2.Q.2021,378,2021064,,DAR- podíl STAN 2.Q.2021,stan
 2021-08-11,10000,Okamžitá příchozí platba,Jan Berki,"DAR, Jan Berki, 20.09.1981, Liberec",,20091981,123020521,Jan Berki,stan
 2021-08-04,50000,Bezhotovostní příjem,EKOLOGICKY ROZVOJ A,"dar,ERV,Nam.CSA37,Jaromer,27504514",558,27504514,169070121,DAR - ERV,stan
-2021-08-03,100000,Platba převodem uvnitř banky,"Ing. Hájek, Jiří","DAR, Jiří Hájek, 16.9.1961, Pardubice",,160961,117080121,"DAR, Jiří Hájek, 16.9.1961, Pardubice",stan
-2021-07-28,-300000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
+2021-08-03,1e+05,Platba převodem uvnitř banky,"Ing. Hájek, Jiří","DAR, Jiří Hájek, 16.9.1961, Pardubice",,160961,117080121,"DAR, Jiří Hájek, 16.9.1961, Pardubice",stan
+2021-07-28,-3e+05,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-07-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,DAR - HNEVSA TOMAS,stan
 2021-07-21,20000,Bezhotovostní příjem,MACHACEK MARTIN,"DAR, Martin Machacek, Ondrejov",,0,1234,DAR - MACHACEK MARTIN,stan
 2021-07-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
@@ -62,13 +62,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-14,110000,Bezhotovostní příjem,FARSKÝ JAN,,0,11071979,122020421,DAR - FARSKÝ JAN,stan
 2021-07-14,2000,Bezhotovostní příjem,LIGOCKÁ ANDREA,"Dar, Andrea Ligocká, 09.03.1982, Bukovec",,9031982,148050121,DAR - LIGOCKÁ ANDREA,stan
 2021-07-14,2000,Bezhotovostní příjem,DRLIK LUKAS,"dar, lukas Drlik, 13.8.1981 Usov",,13081981,22091321,DAR - DRLIK LUKAS,stan
-2021-07-09,100000,Okamžitá příchozí platba,Česká spořitelna,"DAR, Věra Kovářová, 20.01.1964, Chýně",0,20011964,153041521,DAR - Věra Kovářová,stan
+2021-07-09,1e+05,Okamžitá příchozí platba,Česká spořitelna,"DAR, Věra Kovářová, 20.01.1964, Chýně",0,20011964,153041521,DAR - Věra Kovářová,stan
 2021-07-07,10000,Bezhotovostní příjem,Barbora Urbanová,"Dar, Barbora Urbanová, 26.09.1991,Dolní Břežany",0,26091991,156041821,DAR - Barbora Urbanová,stan
 2021-07-07,20000,Bezhotovostní příjem,DRTINA STEPAN,"DAR, Stepan Drtina, 2.5.1994, Kutna Hora",,251994,161042321,DAR - DRTINA STEPAN,stan
 2021-07-07,500,Bezhotovostní příjem,KOUTNIK - K-PROJEKT,"DAR, V.Koutnik, 23.5.58, Librantice",,0,1234,DAR - Koutník Vladimír,stan
 2021-07-05,1000,Okamžitá příchozí platba,Česká spořitelna,"DAR, Magda Říkovská, 17.4.1965, Kyselovice",0,,1234,Česká spořitelna,stan
-2021-07-02,-700000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
-2021-07-02,100000,Platba převodem uvnitř banky,"Lochman, Ondřej",,,,155041721,"DAR - Ondřej Lochman, Mnichovo Hradiště",stan
+2021-07-02,-7e+05,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
+2021-07-02,1e+05,Platba převodem uvnitř banky,"Lochman, Ondřej",,,,155041721,"DAR - Ondřej Lochman, Mnichovo Hradiště",stan
 2021-07-02,20000,Platba převodem uvnitř banky,"Lochman, Ondřej",,,,159042121,"DAR - Ondřej Lochman, Mnichovo Hradiště",stan
 2021-07-02,15000,Bezhotovostní příjem,Fučík Václav,"DAR, Václav Fučík, 11.2.1991, Brno",,11021991,149111121,DAR- Fučík Václav,stan
 2021-07-02,1000,Bezhotovostní příjem,Linda Brejchalová,"DAR, Linda Brejchalová, 6.3.1989, Jirkov",,,,DAR- Linda Brejchalová,stan
@@ -86,9 +86,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-30,2500,Bezhotovostní příjem,DOHNAL MAREK,"DAR, Marek Dohnal, 2.5.1976, Klokoci",,2051976,1234,DAR- DOHNAL MAREK,stan
 2021-06-30,10000,Okamžitá příchozí platba,Ing.Kovářová Věra,"DAR, Věra Kovářová, 20.01.1964, Chýně",0,20011964,157041921,DAR- Ing.Kovářová Věra,stan
 2021-06-30,40000,Bezhotovostní příjem,RAKUŠAN VÍT,DAR Vít Rakušan 16 06 1978 Kolín,0,16061978,0,DAR- RAKUŠAN VÍT,stan
-2021-06-30,100000,Okamžitá příchozí platba,EXNER MARTIN,"DAR, Martin Exner, 20.12.1963, Nová Ves",,20121963,154041621,DAR- EXNER MARTIN,stan
+2021-06-30,1e+05,Okamžitá příchozí platba,EXNER MARTIN,"DAR, Martin Exner, 20.12.1963, Nová Ves",,20121963,154041621,DAR- EXNER MARTIN,stan
 2021-06-30,5000,Okamžitá příchozí platba,Ing. Miroslav Horák,"DAR, Ing. Miroslav Horák, nar. 21.9.1954, trvalé bydliště Mladá Boleslav",308,62010824,1234,DAR- Ing. Miroslav Horák,stan
-2021-06-29,100000,Bezhotovostní příjem,MICHALIK VĚSLAV,Dar pro Moravu Věslav Michalik 01031963 Dolni Brezany,,,1234,DAR- MICHALIK VĚSLAV,stan
+2021-06-29,1e+05,Bezhotovostní příjem,MICHALIK VĚSLAV,Dar pro Moravu Věslav Michalik 01031963 Dolni Brezany,,,1234,DAR- MICHALIK VĚSLAV,stan
 2021-06-29,1000,Bezhotovostní příjem,David Lukáš,"DAR, Lukáš DAVID, 2.3.1978, Znojmo",,7803024724,1234,DAR- David Lukáš,stan
 2021-06-29,4000,Bezhotovostní příjem,JURÁŇOVÁ KRISTÝNA,"DAR, Stanislav Juráň, 16.6.1984, Lipník nad Bečvou",0,16061984,1234,JURÁŇOVÁ KRISTÝNA,stan
 2021-06-29,1000,Bezhotovostní příjem,Eva Nakládalová,"DAR Eva Nakládalová,28.9.1965,Loštice",,,1234,DAR- Eva Nakládalová,stan
@@ -204,13 +204,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-16,10000,Okamžitá příchozí platba,Jan Berki,"DAR, Jan Berki, 20.09.1981, Liberec",,20091981,121020321,DAR - Jan Berki,stan
 2021-06-15,4000,Bezhotovostní příjem,"Suchánek Josef,Ing.",,0,,,"DAR - Suchánek Josef,Ing.",stan
 2021-06-14,29687.5,Platba převodem uvnitř banky,Strana zelených,podíl ze státního rozpočtu přijatý za krajské mandáty PLK STAN - 1. Q 2021,,,,DAR - podíl ze státního rozpočtu přijatý za krajské mandáty PLK STAN - 1. Q 2021,stan
-2021-06-11,100000,Okamžitá příchozí platba,David NOVOHRADSKÝ,dar pro hnuti STAN,,140034221,,DAR - David NOVOHRADSKÝ,stan
+2021-06-11,1e+05,Okamžitá příchozí platba,David NOVOHRADSKÝ,dar pro hnuti STAN,,140034221,,DAR - David NOVOHRADSKÝ,stan
 2021-06-09,146000,Platba převodem uvnitř banky,Občanská demokratická strana,ODS- DAR -4150421,378,16192656,4150421,ODS- DAR -4150421,stan
 2021-06-09,50000,Bezhotovostní příjem,SIMON MACHACEK,PŘEVOD PROSTŘEDKŮ,,20051989,139034121,DAR - SIMON MACHACEK,stan
 2021-06-08,5000,Platba převodem uvnitř banky,"Viták, Karel","DAR, Karel Viták, 9. 2. 1968, Klatovy",308,9021968,108060121,"DAR, Karel Viták, 9. 2. 1968, Klatovy",stan
 2021-06-01,2000,Bezhotovostní příjem,"PRAGUE REALITY, SRO",DAR - PRAGUE REALITY Martin Zelingr,308,25772171,,"DAR - PRAGUE REALITY, SRO",stan
 2021-06-01,50000,Bezhotovostní příjem,Homola Tomáš,"DAR, Tomáš Homola, 4.11.1964, Praha",,4111964,141034321,DAR - Homola Tomáš,stan
-2021-05-31,-500000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
+2021-05-31,-5e+05,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-05-28,33750,Platba převodem uvnitř banky,Občanská demokratická strana,,378,2021025,,DAR - ODS - vyrovnání za mandát 1Q - M. Němcová,stan
 2021-05-27,10000,Bezhotovostní příjem,LANG RADKA,"DAR, RADKA LANG, 20.05.1985, PRAHA5",0,20051985,75031721,DAR - LANG RADKA,stan
 2021-05-26,10000,Bezhotovostní příjem,JUDr.Pánková Eva,"DAR, Eva Pánková, 9.6.1975, Praha",,9061975,87032921,DAR - JUDr.Pánková Eva,stan
@@ -234,23 +234,23 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-29,5000,Okamžitá příchozí platba,Sobota Vasil,"DAR, Vasil Sobota, 28.9.1951, Praha",0,28091951,111150821,DAR - Sobota Vasil,stan
 2021-04-29,5000,Bezhotovostní příjem,"Exner David,Ing.","DAR, David Exner, 29.9.1966, Praha",0,660929,115041221,"DAR - Exner David,Ing.",stan
 2021-04-29,4000,Bezhotovostní příjem,Ondřej Kamenický,"DAR, Ondřej Kamenický, 2.2.1976, Praha 6",,221976,73031521,DAR - Ondřej Kamenický,stan
-2021-04-28,1000000,Bezhotovostní příjem,ROAD to INTEREST s.r,"DAR, ROAD TO INTEREST, IC 24708712,POBREZNI 620/3, PRAHA 8",0,24708712,104150721,DAR - ROAD to INTEREST s.r.o.,stan
+2021-04-28,1e+06,Bezhotovostní příjem,ROAD to INTEREST s.r,"DAR, ROAD TO INTEREST, IC 24708712,POBREZNI 620/3, PRAHA 8",0,24708712,104150721,DAR - ROAD to INTEREST s.r.o.,stan
 2021-04-27,10000,Okamžitá příchozí platba,Brtva Tomáš,"Dar, Tomáš Brtva, Praha 6",0,26011956,78032021,DAR - Brtva Tomáš,stan
 2021-04-27,5000,Okamžitá příchozí platba,Ing.Seidl Michal,"DAR, Michal Seidl, 13.10.1967, Praha Třeboradice",0,13101967,94033121,DAR - Ing.Seidl Michal,stan
 2021-04-27,5000,Okamžitá příchozí platba,EXNER MARTIN,"DAR, Martin Exner, 20.12.1963, Nová Ves",,,114041121,DAR - EXNER MARTIN,stan
 2021-04-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,DAR - HNEVSA TOMAS,stan
 2021-04-21,50000,Okamžitá příchozí platba,OLŠÁKOVÁ ELIŠKA,"DAR, Eliška Olšáková, 29.6.1968 Valašské Klobouky",,,12010321,DAR - OLŠÁKOVÁ ELIŠKA,stan
 2021-04-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
-2021-04-21,100000,Bezhotovostní příjem,BĚLOR ROMAN,"DAR, Bělor, 9.8.1958 Praha",558,9081958,83032521,DAR - BĚLOR ROMAN,stan
+2021-04-21,1e+05,Bezhotovostní příjem,BĚLOR ROMAN,"DAR, Bělor, 9.8.1958 Praha",558,9081958,83032521,DAR - BĚLOR ROMAN,stan
 2021-04-20,10000,Bezhotovostní příjem,KOŘÍNEK FILIP MGR. -,,308,91040521,0,DAR - KOŘÍNEK FILIP MGR. -,stan
 2021-04-19,30000,Bezhotovostní příjem,"KŘEČEK PAVEL, MGR.","DAR - Pavel Křeček, 29.4.1982, Praha 3",,29041982,85032721,"DAR - KŘEČEK PAVEL, MGR.",stan
 2021-04-19,5000,Bezhotovostní příjem,HOGENOVÁ ANDREA,,0,31051967,69031121,DAR - HOGENOVÁ ANDREA,stan
-2021-04-19,100000,Bezhotovostní příjem,RAKUŠAN VÍT,"DAR, Vít Rakušan, 16061978, Kolín",0,16061978,0,DAR - RAKUŠAN VÍT,stan
+2021-04-19,1e+05,Bezhotovostní příjem,RAKUŠAN VÍT,"DAR, Vít Rakušan, 16061978, Kolín",0,16061978,0,DAR - RAKUŠAN VÍT,stan
 2021-04-19,25000,Bezhotovostní příjem,JUNGWIRTHOVA IVA,"DAR, Iva Jungwirthova, 24.11.1966,Praha 6",,24111966,92150521,DAR - JUNGWIRTHOVA IVA,stan
 2021-04-16,12237500,Bezhotovostní příjem,MF,,6418,4012021,0,MF - příspěvky ze státního rozpočtu 1Q 2021,stan
 2021-04-15,5000,Bezhotovostní příjem,MACK TOMAS,DAR OD TOMAS MACK,0,25041966,90040421,DAR - MACK TOMAS,stan
 2021-04-15,4000,Bezhotovostní příjem,"Suchánek Josef,Ing.",,0,,,"DAR - Suchánek Josef,Ing.",stan
-2021-04-13,100000,Bezhotovostní příjem,Balaš Vladimír,"DAR, Balaš, 20.04.1959, Prostějov",,20041959,65030921,DAR - Balaš Vladimír,stan
+2021-04-13,1e+05,Bezhotovostní příjem,Balaš Vladimír,"DAR, Balaš, 20.04.1959, Prostějov",,20041959,65030921,DAR - Balaš Vladimír,stan
 2021-04-12,10000,Bezhotovostní příjem,DOBEŠ PAVEL,"DAR, Pavel Dobeš, 19.1.1982, STAN Praha 3",0,19011982,76031821,DAR - DOBEŠ PAVEL,stan
 2021-04-12,30000,Bezhotovostní příjem,"Kovářová Věra,Ing.","DAR, Věra Kovářová, 20.01.1964, Chýně",0,20011964,67040121,"DAR - Kovářová Věra,Ing.",stan
 2021-04-10,5000,Okamžitá příchozí platba,"Sedláček Jan,Mgr.","DAR - Sedláček Jan, Praha 6",0,11111969,71031321,"DAR - Sedláček Jan,Mgr.",stan
@@ -317,13 +317,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-12-31,86806,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,SNK ED převod podílu za mandáty ZKVysočina za IV.Q.2020,308,70869553,0,SNK EVROPŠTÍ DEMOKRA,stan
 2020-12-30,3000,Okamžitá příchozí platba,Michal Osuský,DAR + Vse dobre do 2021,,,,DAR - Michal Osuský,stan
 2020-12-30,60000,Bezhotovostní příjem,Employee Selection,Dar Employee Selection Třebotov,0,6222358,333032920,DAR - Employee Selection,stan
-2020-12-29,100000,Bezhotovostní příjem,AUTO PATRON servis,"Dar, Auto patron s.r.o., Zakouřilova 815/61",0,24846503,379033520,DAR - AUTO PATRON servis,stan
-2020-12-29,100000,Bezhotovostní příjem,AUTO PATRON servis,"Dar, Auto patron s.r.o., Zakouřilova 815/61",0,24846503,378033420,DAR - AUTO PATRON servis,stan
+2020-12-29,1e+05,Bezhotovostní příjem,AUTO PATRON servis,"Dar, Auto patron s.r.o., Zakouřilova 815/61",0,24846503,379033520,DAR - AUTO PATRON servis,stan
+2020-12-29,1e+05,Bezhotovostní příjem,AUTO PATRON servis,"Dar, Auto patron s.r.o., Zakouřilova 815/61",0,24846503,378033420,DAR - AUTO PATRON servis,stan
 2020-12-28,50000,Okamžitá příchozí platba,"Stařecký Tomáš,Mgr.","DAR, Stařecký Tomáš, 13. 5. 1962, P",0,,380033620,"DAR - Stařecký Tomáš,Mgr.",stan
 2020-12-28,5000,Bezhotovostní příjem,DVORAK MARTIN,"Dar, Martin Dvorak, 11.11.1956, Hradec Kralove",,111156,381070620,DAR - DVORAK MARTIN,stan
 2020-12-28,45000,Bezhotovostní příjem,Ing. Milan Šindelář,Dar Lucie Šindelářová Třebotov,0,2021975,331032720,DAR - Lucie Šindelářová,stan
 2020-12-28,50000,Bezhotovostní příjem,"Beková Petra,Ing.",,0,7860150045,325032120,"DAR - Beková Petra,Ing.",stan
-2020-12-28,100000,Bezhotovostní příjem,MÁŠA PETR,"DAR  Pert Máša, Praha 2, Šumavská 2",,7005120672,324032020,DAR - MÁŠA PETR,stan
+2020-12-28,1e+05,Bezhotovostní příjem,MÁŠA PETR,"DAR  Pert Máša, Praha 2, Šumavská 2",,7005120672,324032020,DAR - MÁŠA PETR,stan
 2020-12-28,50000,Bezhotovostní příjem,Tire Machinery and E,Dar TME Praha 2,,5722284,330032620,DAR - Tire Machinery and E,stan
 2020-12-26,33000,Okamžitá příchozí platba,Ing. Miloš Šimon,"DAR, Miloš Šimon, 23101944, Praha",308,23101944,377033320,DAR - Ing. Miloš Šimon,stan
 2020-12-23,2500000,Platba převodem uvnitř banky,Spolek pro podporu liberální demokracie ČR,"Dar, Spolek po podporu liberální demokracie ČR",,,,DAR - Spolek po podporu liberální demokracie ČR,stan
@@ -334,9 +334,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-12-22,30000,Okamžitá příchozí platba,"Mužná Alice,MUDr.",DAR  Alice Mužná  Skotnice 89,0,5021963,329032520,"DAR - Mužná Alice,MUDr.",stan
 2020-12-22,50000,Platba převodem uvnitř banky,RV hifi s.r.o.,,,326032220,27594092,DAR - RV hifi s.r.o.,stan
 2020-12-22,45000,Okamžitá příchozí platba,Ing. Milan Šindelář,Dar Milan Šindelář Třebotov,,7301024126,332032820,DAR - Ing. Milan Šindelář,stan
-2020-12-22,400000,Bezhotovostní příjem,JUDR. STANISLAV POLC,"DAR, STANISLAV POLČÁK, 21.2.1980",,373033020,,DAR - JUDR. STANISLAV POLC,stan
+2020-12-22,4e+05,Bezhotovostní příjem,JUDR. STANISLAV POLC,"DAR, STANISLAV POLČÁK, 21.2.1980",,373033020,,DAR - JUDR. STANISLAV POLC,stan
 2020-12-22,8000,Okamžitá příchozí platba,ŠTROBACHOVÁ PAVLA,"DAR,Pavla Štrobachová, 30.6.1960,Smečno",,605630,,DAR - ŠTROBACHOVÁ PAVLA,stan
-2020-12-21,200000,Bezhotovostní příjem,Chlupáčová Zuzana,Dar Chlupáčová,0,31081955,,DAR - Chlupáčová Zuzana,stan
+2020-12-21,2e+05,Bezhotovostní příjem,Chlupáčová Zuzana,Dar Chlupáčová,0,31081955,,DAR - Chlupáčová Zuzana,stan
 2020-12-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
 2020-12-18,500,Bezhotovostní příjem,Miroslav Kopál,"DAR ,Miroslav Kopál ,16.3.1976, Brno Kohoutovice Axmanová 12",,16031976,340113820,DAR - Miroslav Kopál,stan
 2020-12-17,7000,Okamžitá příchozí platba,"Mrzílková Lenka,Mgr.","DAR, Lenka Mrzílková, 23.5.1961, Ne",0,23051961,,"DAR - Mrzílková Lenka,Mgr.",stan
@@ -380,10 +380,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-11-25,1000,Bezhotovostní příjem,KACHLIK JOSEF,"DAR  Josef Kachlik, 11.6.1959,Vyskov",,0,344114220,DAR - KACHLIK JOSEF,stan
 2020-11-25,1000,Platba převodem uvnitř banky,"Matuška, Jakub",,,,349114720,VRÁCENO 26.11.2020 - neidentifikováno,stan
 2020-11-25,1000,Platba převodem uvnitř banky,"Ing. Hlaváček, Petr","DAR, Petr Hlavacek, 20.7.1977, Brno-Zabovresky, 350114820",,770720,350114820,"DAR, Petr Hlavacek, 20.7.1977, Brno-Zabovresky, 350114820",stan
-2020-11-25,100000,Bezhotovostní příjem,GALATÍK PETR,,8,2671964,359012220,DAR - GALATÍK PETR,stan
+2020-11-25,1e+05,Bezhotovostní příjem,GALATÍK PETR,,8,2671964,359012220,DAR - GALATÍK PETR,stan
 2020-11-24,150000,Okamžitá příchozí platba,Kardiologie MUDr. Lu,"dar-Lubomír Pollák,IČO:06700233,Opa",0,6700233,,DAR - Kardiologie MUDr. Lu,stan
 2020-11-23,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
-2020-11-23,300000,Bezhotovostní příjem,BRISTA s.r.o.,,,25059611,208151120,DAR - BRISTA s.r.o.,stan
+2020-11-23,3e+05,Bezhotovostní příjem,BRISTA s.r.o.,,,25059611,208151120,DAR - BRISTA s.r.o.,stan
 2020-11-18,12237500,Bezhotovostní příjem,MF,,6418,249872020,0,MF - příspěvky ze státního rozpočtu 4Q 2020,stan
 2020-11-16,9000,Okamžitá příchozí platba,"Černý Daniel,Ing.","DAR, Daniel Černý, 31.10.1972, Chom",0,31101972,335062620,"DAR - Černý Daniel,Ing.",stan
 2020-11-04,10300,Bezhotovostní příjem,ŠTĚPÁNOVÁ HANA,"DAR, HANA ŠTĚPÁNOVÁ, 25.1.1959MORAŠICE",0,0,304083520,DAR - ŠTĚPÁNOVÁ HANA,stan
@@ -459,32 +459,32 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-21,25000,Bezhotovostní příjem,AGRO ČEJETICE S.R.O.,"DAR,AGRO CEJETICE, ICO:62501836,CEJETICE",8,62501836,277120520,DAR - AGRO ČEJETICE S.R.O.,stan
 2020-09-18,5000,Bezhotovostní příjem,TŮMA ZDENĚK,"DAR, Zdeněk Tůma 16.2.1958 Ledeč n.S.",0,16021958,26100320,DAR - TŮMA ZDENĚK,stan
 2020-09-18,1500,Bezhotovostní příjem,PAUROVA ALICE,Alice Paurova,,253082220,,DAR - PAUROVA ALICE,stan
-2020-09-17,300000,Bezhotovostní příjem,"YOUR SYSTEM, spol.s","DAR, YOUR SYSTEM",308,210151320,210151320,"DAR - YOUR SYSTEM, spol.s",stan
-2020-09-17,100000,Bezhotovostní příjem,"ARIMEX ZLÍN, SPOL. S","ARIMEX Zlín, spol.s r.o.",0,263011320,0,"DAR - ARIMEX ZLÍN, SPOL. S",stan
-2020-09-16,300000,Platba převodem uvnitř banky,TUWENTY s.r.o.,"DAR, Tuwenty s.r.o., IČO:02941511, Praha 1",,2941511,209151220,"DAR, Tuwenty s.r.o., IČO:02941511, Praha 1",stan
+2020-09-17,3e+05,Bezhotovostní příjem,"YOUR SYSTEM, spol.s","DAR, YOUR SYSTEM",308,210151320,210151320,"DAR - YOUR SYSTEM, spol.s",stan
+2020-09-17,1e+05,Bezhotovostní příjem,"ARIMEX ZLÍN, SPOL. S","ARIMEX Zlín, spol.s r.o.",0,263011320,0,"DAR - ARIMEX ZLÍN, SPOL. S",stan
+2020-09-16,3e+05,Platba převodem uvnitř banky,TUWENTY s.r.o.,"DAR, Tuwenty s.r.o., IČO:02941511, Praha 1",,2941511,209151220,"DAR, Tuwenty s.r.o., IČO:02941511, Praha 1",stan
 2020-09-16,8000,Platba převodem uvnitř banky,"Ing. Ledvina, Petr","DAR, Petr Ledvina 10.1.1977 Kolín",,69016640,262045120,"DAR, Petr Ledvina 10.1.1977 Kolín",stan
 2020-09-16,70000,Bezhotovostní příjem,DOBEŠOVÁ VĚRA,,0,0,269011920,DAR - DOBEŠOVÁ VĚRA,stan
-2020-09-15,100000,Okamžitá příchozí platba,"Simkovič Pavel,Mgr.","Dar,Pavel Simkovič,26.1.1969,Zlín",0,26011969,267011720,"DAR - Simkovič Pavel,Mgr.",stan
+2020-09-15,1e+05,Okamžitá příchozí platba,"Simkovič Pavel,Mgr.","Dar,Pavel Simkovič,26.1.1969,Zlín",0,26011969,267011720,"DAR - Simkovič Pavel,Mgr.",stan
 2020-09-15,50000,Okamžitá příchozí platba,"Durďáková Aneta,Ing.",dar,0,15121988,274012120,"DAR - Durďáková Aneta,Ing.",stan
-2020-09-15,100000,Bezhotovostní příjem,FRANCOVÁ KATEŘINA,DAR Francová 13081974 ZLÍN,0,68756381,264011420,DAR - FRANCOVÁ KATEŘINA,stan
+2020-09-15,1e+05,Bezhotovostní příjem,FRANCOVÁ KATEŘINA,DAR Francová 13081974 ZLÍN,0,68756381,264011420,DAR - FRANCOVÁ KATEŘINA,stan
 2020-09-15,2000,Bezhotovostní příjem,"Suchánek Josef,Ing.",DAR Josef Suchánek 15011963 Olomouc,0,,1090120,"DAR - Suchánek Josef,Ing.",stan
 2020-09-15,50000,Bezhotovostní příjem,DURĎÁK ALEŠ,"DAR, Aleš Durďák, 2.12.1985, Uh.Hradiště",0,2121985,265011520,DAR - DURĎÁK ALEŠ,stan
 2020-09-15,40000,Bezhotovostní příjem,JENISTA LUDEK,"Dar, L. Jenista, 8.8. 1961, Vlasim1",308,8081961,119041620,DAR - JENISTA LUDEK,stan
-2020-09-14,100000,Okamžitá příchozí platba,Adámek Miroslav,,0,6051963,268011820,DAR - Adámek Miroslav,stan
+2020-09-14,1e+05,Okamžitá příchozí platba,Adámek Miroslav,,0,6051963,268011820,DAR - Adámek Miroslav,stan
 2020-09-14,18000,Bezhotovostní příjem,GEEMAT S.R.O.,,308,43111120,,DAR - GEEMAT S.R.O.,stan
 2020-09-14,-1500000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2020-09-14,30000,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,Dar SNK ED,308,70869553,124042120,DAR - SNK EVROPŠTÍ DEMOKRA,stan
-2020-09-11,100000,Okamžitá příchozí platba,Jan Školník,"dar, jan skolnik, broumov",,19730416,272070420,DAR - Jan Školník,stan
+2020-09-11,1e+05,Okamžitá příchozí platba,Jan Školník,"dar, jan skolnik, broumov",,19730416,272070420,DAR - Jan Školník,stan
 2020-09-11,12000,Okamžitá příchozí platba,Ing. Tomáš Hanáček,"Dar Andrea Hanáčková, zastupitelka za STAN Olomouc",,172093220,,DAR - Andrea Hanáčková,stan
 2020-09-11,35090,Bezhotovostní příjem,KRUTAKOVA JANA,"DAR - Jana Krutakova, Mor.Nova Ves",,21061962,228113320,DAR - KRUTAKOVA JANA,stan
 2020-09-11,15000,Bezhotovostní příjem,KRUTAKOVA JANA,"DAR - Jana Krutakova, Mor.Nova Ves",,21061962,229151820,DAR - KRUTAKOVA JANA,stan
 2020-09-11,50000,Bezhotovostní příjem,MICHALIK VĚSLAV,dar,,1031963,112040920,DAR - MICHALIK VĚSLAV,stan
 2020-09-10,30000,Okamžitá příchozí platba,ŘEZNÍČEK VLASTIMIL,Vlastimil Řezníček,,10041976,266011620,DAR - ŘEZNÍČEK VLASTIMIL,stan
-2020-09-10,300000,Bezhotovostní příjem,GALATÍK PETR,,8,26071964,270012020,DAR - GALATÍK PETR,stan
+2020-09-10,3e+05,Bezhotovostní příjem,GALATÍK PETR,,8,26071964,270012020,DAR - GALATÍK PETR,stan
 2020-09-09,10000,Okamžitá příchozí platba,"Krajíček Petr,Ing.","DAR, Petr Krajíček, 21.10.1966, Pra",0,21101966,242031620,"DAR - Krajíček Petr,Ing.",stan
 2020-09-09,10000,Bezhotovostní příjem,ZIKMUND PETR,,308,25121950,,DAR - ZIKMUND PETR,stan
 2020-09-09,30000,Bezhotovostní příjem,Stavitelství - Háněl,Stavitelství-Háněl s.r.o.,8,1732838,,DAR - Stavitelství - Háněl,stan
-2020-09-08,100000,Bezhotovostní příjem,PRIVAMED A.S.,"DAR, PRIVAMED a.s., 46885251,Plzen, Kotikovska 927/19",,46885251,249044720,DAR - PRIVAMED A.S.,stan
+2020-09-08,1e+05,Bezhotovostní příjem,PRIVAMED A.S.,"DAR, PRIVAMED a.s., 46885251,Plzen, Kotikovska 927/19",,46885251,249044720,DAR - PRIVAMED A.S.,stan
 2020-09-08,10000,Bezhotovostní příjem,Říha Milan,"DAR , Milan Říha, 19.5.1966, Praha9",,,241031520,DAR - Říha Milan,stan
 2020-09-07,40000,Bezhotovostní příjem,MAREK DANIEL,"Dar, Daniel Marek, 5.8.1981, MladáBoleslav",308,581981,116041320,DAR - MAREK DANIEL,stan
 2020-09-07,5000,Bezhotovostní příjem,BURDA JAN,"DAR, Jan Burda, 23.5.1974, Trebic",0,23051974,235100620,DAR - BURDA JAN,stan
@@ -505,7 +505,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-28,8500,Bezhotovostní příjem,PIFKA TOMÁŠ,"DAR, Pifka, 29011981, Vsetín",0,0,238011220,DAR - PIFKA TOMÁŠ,stan
 2020-08-28,6000,Bezhotovostní příjem,"Isolit-Bravo, spol.","DAR, ISOLIT 46507272",,46507272,143081420,"DAR - Isolit-Bravo, spol.",stan
 2020-08-24,-2500000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
-2020-08-24,300000,Okamžitá příchozí platba,GAZDÍK PETR,"DAR,Petr Gazdík, Suchá Loz",,26061974,14010120,DAR - GAZDÍK PETR,stan
+2020-08-24,3e+05,Okamžitá příchozí platba,GAZDÍK PETR,"DAR,Petr Gazdík, Suchá Loz",,26061974,14010120,DAR - GAZDÍK PETR,stan
 2020-08-24,5000,Okamžitá příchozí platba,Pecháček Tomáš,,0,,,"DAR - Pecháček Tomáš, Dolní Jirčany, 24.7.1975",stan
 2020-08-24,15000,Bezhotovostní příjem,BALATKA MIROSLAV,"DAR, Miroslav Balatka, 13.7.1970,Sokolov",,237140320,,DAR - BALATKA MIROSLAV,stan
 2020-08-23,10000,Okamžitá příchozí platba,FLASCHKOVÁ ALŽBĚTA,"DAR, Flaschková Alžběta, 13. 11. 1990, Hněvošice",,13111990,239051620,DAR - FLASCHKOVÁ ALŽBĚTA,stan
@@ -514,13 +514,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-19,15000,Bezhotovostní příjem,MASAK PETR,"DAR, Jan Hornik, Bozi Dar",558,19031954,236140220,DAR - MASAK PETR,stan
 2020-08-18,50000,Okamžitá příchozí platba,SMOLEJOVÁ MARTA,"DAR, MARTA SMOLEJOVÁ , 3.10.1983, SKLENÉ 83, SVITAVY",,3101983,,DAR - SMOLEJOVÁ MARTA,stan
 2020-08-18,40000,Bezhotovostní příjem,BLUETECH S.R.O.,"""DAR, Bluetech Pacov, 49062557""",308,49062557,24100120,DAR - BLUETECH S.R.O.,stan
-2020-08-18,200000,Bezhotovostní příjem,GLASSPOL SRO,MP:starostove a nezavisli,0,18559778,222044320,DAR - GLASSPOL SRO,stan
-2020-08-18,100000,Bezhotovostní příjem,JUDR. ING. RUDOLF CO,"dar pro politcke hnutiStarostove a nezavisliRudolf Cogan, nar. 25. 8. 1971Nova Paka",,240070320,,DAR - JUDR. ING. RUDOLF CO,stan
+2020-08-18,2e+05,Bezhotovostní příjem,GLASSPOL SRO,MP:starostove a nezavisli,0,18559778,222044320,DAR - GLASSPOL SRO,stan
+2020-08-18,1e+05,Bezhotovostní příjem,JUDR. ING. RUDOLF CO,"dar pro politcke hnutiStarostove a nezavisliRudolf Cogan, nar. 25. 8. 1971Nova Paka",,240070320,,DAR - JUDR. ING. RUDOLF CO,stan
 2020-08-17,30000,Okamžitá příchozí platba,Hajná Hana,"Hana Hajná, Kroučová 11, 27054 Řevn",0,,123042020,DAR - Hajná Hana,stan
 2020-08-17,2000,Bezhotovostní příjem,"Suchánek Josef,Ing.",DAR Josef Suchánek 15011963 Olomouc,0,,1090120,"DAR - Suchánek Josef,Ing.",stan
 2020-08-14,20000,Okamžitá příchozí platba,PETR LETOCHA,"DAR, Petr Letocha, 20.2.1984, Karviná",,20021984,232051420,DAR - PETR LETOCHA,stan
 2020-08-13,15000,Okamžitá příchozí platba,"Sršeň Radim,Ing.","DAR,Radim Sršeň,1.5.1980,D.Studénky",0,1051980,171093120,"DAR - Sršeň Radim,Ing.",stan
-2020-08-13,200000,Okamžitá příchozí platba,SMOLEJOVÁ MARTA,"DAR, MARTA SMOLEJOVÁ , 3.10.1983, SKLENÉ 83, SVITAVY",,3101983,,DAR - SMOLEJOVÁ MARTA,stan
+2020-08-13,2e+05,Okamžitá příchozí platba,SMOLEJOVÁ MARTA,"DAR, MARTA SMOLEJOVÁ , 3.10.1983, SKLENÉ 83, SVITAVY",,3101983,,DAR - SMOLEJOVÁ MARTA,stan
 2020-08-12,180000,Okamžitá příchozí platba,TOP 09,"TOP 09, Opletalova 1603/57, 11000 Praha 1, darovací smlouva Starostové a nezávislí ZLN",,71339728,176010920,TOP 09,stan
 2020-08-10,50000,Okamžitá příchozí platba,Černý Jiří,DAR JIŘÍ ČERNÝ 27111969 CHEB,308,27111969,234140120,DAR - Černý Jiří,stan
 2020-08-05,25000,Bezhotovostní příjem,ČEVAK A.S.,"DAR,CEVAK,60849657,CESKE BUDEJOVICE",0,60849657,225120220,DAR - ČEVAK A.S.,stan
@@ -528,31 +528,31 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-04,10000,Okamžitá příchozí platba,PETR LETOCHA,"DAR, Petr Letocha, 20.2.1984, Karviná",,20021984,69050320,DAR - PETR LETOCHA,stan
 2020-08-03,10000,Bezhotovostní příjem,"MOBAL, S.R.O.","DAR, MOBAL, 19012128, Vratimov",558,19012128,204051220,"DAR - MOBAL, S.R.O.",stan
 2020-07-31,1000,Bezhotovostní příjem,BASLEROVA RENATA,dar Renata Baslerova 8.7.1974 Busin,,8071974,10090820,DAR - BASLEROVA RENATA,stan
-2020-07-30,500000,Bezhotovostní příjem,NOVÝ IMPULS,"dar Nový Impuls, politická strana",0,71339779,227011120,DAR - NOVÝ IMPULS,stan
+2020-07-30,5e+05,Bezhotovostní příjem,NOVÝ IMPULS,"dar Nový Impuls, politická strana",0,71339779,227011120,DAR - NOVÝ IMPULS,stan
 2020-07-30,5000,Bezhotovostní příjem,Tvrzníková Zuzana,DAR  Zuzana Tvrzníková 13.2.1962 Zámrsk,0,13021962,141081220,DAR - Tvrzníková Zuzana,stan
 2020-07-30,150000,Bezhotovostní příjem,REZEK Group a.s.,"DAR, Rezek group a.s, Zlatníky",,1758039,166150720,DAR - REZEK Group a.s.,stan
-2020-07-29,-5000000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
+2020-07-29,-5e+06,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2020-07-29,10000,Bezhotovostní příjem,BUČEK MILAN,"DAR Milan Buček, 30.04.1969, Ivančice",308,30041969,3028,DAR - BUČEK MILAN,stan
 2020-07-24,1500000,Bezhotovostní příjem,Lučební závody Drasl,,0,46357351,214043720,"DAR - Lučební závody Draslovka, Kolín",stan
 2020-07-24,1000,Bezhotovostní příjem,Tichý Michal,"DAR, Michal Tichý, 3.9.1975,Senice na Hané",,3091975,83092120,DAR - Tichý Michal,stan
-2020-07-24,100000,Bezhotovostní příjem,CIZEK PAVEL,DAR Pavel Cizek  20.4. 1964Spalene Porici,,20041964,186130220,DAR - CIZEK PAVEL,stan
+2020-07-24,1e+05,Bezhotovostní příjem,CIZEK PAVEL,DAR Pavel Cizek  20.4. 1964Spalene Porici,,20041964,186130220,DAR - CIZEK PAVEL,stan
 2020-07-23,20000,Okamžitá příchozí platba,Hausenblas Martin,"Dar, Martin Hausenblas, 30.10.1973,",0,30101973,226062220,DAR - Hausenblas Martin,stan
 2020-07-23,5000,Bezhotovostní příjem,MACHOVSKÝ JAN,"DAR, Jan Machovský, 5.9.1973, Velký Týnec",308,9051973,86092420,DAR - MACHOVSKÝ JAN,stan
 2020-07-23,10000,Bezhotovostní příjem,URVALEK PETR,Dar Petr Urvalek  12 061976 Labetin,,12061976,140081120,DAR - URVALEK PETR,stan
 2020-07-22,40000,Bezhotovostní příjem,KRAUS ZBYNEK MUDR.,"DAR,Zbynek Kraus,15720462,Ujezdska25, 312 00 Plzen",,15720462,187130320,DAR - KRAUS ZBYNEK MUDR.,stan
-2020-07-22,100000,Bezhotovostní příjem,"VEPAK, S.R.O.","DAR - VEPAK, s.r.o., IČ: 60706091",308,60706091,151050920,"DAR - VEPAK, S.R.O.",stan
+2020-07-22,1e+05,Bezhotovostní příjem,"VEPAK, S.R.O.","DAR - VEPAK, s.r.o., IČ: 60706091",308,60706091,151050920,"DAR - VEPAK, S.R.O.",stan
 2020-07-22,50000,Bezhotovostní příjem,ŠTĚPÁNOVÁ HANA,DAR HANA ŠTĚPÁNOVÁ 25.1.1959,0,25011959,140081120,DAR - ŠTĚPÁNOVÁ HANA,stan
 2020-07-21,10000,Bezhotovostní příjem,OŠŤÁDAL MAREK,Ostadal Marek,,84092220,,DAR - OŠŤÁDAL MAREK,stan
 2020-07-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
-2020-07-21,500000,Bezhotovostní příjem,FastMEDIC s.r.o.,"DAR, FastMEDIC s.r.o., Praha",0,8244499,218044020,DAR - FastMEDIC s.r.o.,stan
+2020-07-21,5e+05,Bezhotovostní příjem,FastMEDIC s.r.o.,"DAR, FastMEDIC s.r.o., Praha",0,8244499,218044020,DAR - FastMEDIC s.r.o.,stan
 2020-07-20,15000,Bezhotovostní příjem,JAN ZACEK,"DAR MGR. KAREL DVOŘÁK, 01.07.1986,PRAHA",,1071986,131030420,DAR - Karel Dvořák,stan
 2020-07-20,15000,Bezhotovostní příjem,JAN ZACEK,"DAR JAN ŽÁČEK, 04.03.1975, PRAHA",,4031975,33030120,DAR - JAN ZACEK,stan
-2020-07-20,300000,Bezhotovostní příjem,MANDAK PAVEL,"DAR, Mandak Pavel 1.12.1988Kostelany",308,1121988,165150620,DAR - MANDAK PAVEL,stan
+2020-07-20,3e+05,Bezhotovostní příjem,MANDAK PAVEL,"DAR, Mandak Pavel 1.12.1988Kostelany",308,1121988,165150620,DAR - MANDAK PAVEL,stan
 2020-07-17,250000,Okamžitá příchozí platba,Petr Šilhart,"DAR, Petr Šilhart, 14.12.1972, Jihlava",,14121972,217043920,DAR - Petr Šilhart,stan
 2020-07-16,20000,Okamžitá příchozí platba,"Greensoft, s.r.o.","DAR, Luboš Balata, 13.01.1963, Benešov",,25069420,129042620,"DAR - Greensoft, s.r.o.",stan
 2020-07-15,30000,Bezhotovostní příjem,KOBLIZEK OLDRICH,Oldrich Koblizek,,1081958,98080620,DAR - KOBLIZEK OLDRICH,stan
-2020-07-15,100000,Bezhotovostní příjem,Hejma Petr,Dar,558,6807060336,223031420,DAR - Hejma Petr,stan
-2020-07-15,100000,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,DAR SNK ED,308,70869553,180043220,SNK EVROPŠTÍ DEMOKRA,stan
+2020-07-15,1e+05,Bezhotovostní příjem,Hejma Petr,Dar,558,6807060336,223031420,DAR - Hejma Petr,stan
+2020-07-15,1e+05,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,DAR SNK ED,308,70869553,180043220,SNK EVROPŠTÍ DEMOKRA,stan
 2020-07-15,7000,Bezhotovostní příjem,Pergl Tomáš,"DAR, Tomáš Pergl, 11. 5. 1992, Drozdov",0,11051992,216151720,DAR - Pergl Tomáš,stan
 2020-07-14,50000,Bezhotovostní příjem,"EXAFIN ONE, S.R.O.",DAR EXAFIN ONE ICO 25710486 PRAHA,558,25710486,118041520,"DAR - EXAFIN ONE, S.R.O.",stan
 2020-07-14,20000,Platba převodem uvnitř banky,"Ing. Hájek, Jiří","DAR, Jiří Hájek,16.9.1961,  Pardubice",,,95080520,"DAR, Jiří Hájek,16.9.1961,  Pardubice",stan
@@ -564,22 +564,22 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-08,80000,Okamžitá příchozí platba,Smoljak David,"DAR, David Smoljak, 8.2.1959, Praha",0,8021959,205031320,DAR - Smoljak David,stan
 2020-07-08,8000,Bezhotovostní příjem,Jan Maceček,"DAR, Jan Maceček, 13.02.1984, Ostrava",,13021984,203051120,DAR - Jan Maceček,stan
 2020-07-03,10000,Okamžitá příchozí platba,"Sršeň Radim,Ing.","DAR, Srsen Radim, 1. 5. 1980, Dolni",0,1051980,5090320,"DAR - Sršeň Radim,Ing.",stan
-2020-07-03,100000,Vklad v hotovosti,Dar Petr Michálek Zlín,,558,27041977,206011020,Dar - Petr Michálek Zlín,stan
+2020-07-03,1e+05,Vklad v hotovosti,Dar Petr Michálek Zlín,,558,27041977,206011020,Dar - Petr Michálek Zlín,stan
 2020-07-03,25000,Bezhotovostní příjem,JANKURA RADEK,"DAR,Jankura,7.7.1975,Krupka",,7071975,207062020,DAR - JANKURA RADEK,stan
-2020-07-02,400000,Bezhotovostní příjem,MARVANOVA MIROSLAVA,"DAR, Miroslava Marvanova, 19.1.1962Velke Popovice",,19011962,166150720,DAR - MARVANOVA MIROSLAVA,stan
+2020-07-02,4e+05,Bezhotovostní příjem,MARVANOVA MIROSLAVA,"DAR, Miroslava Marvanova, 19.1.1962Velke Popovice",,19011962,166150720,DAR - MARVANOVA MIROSLAVA,stan
 2020-07-02,20000,Bezhotovostní příjem,"VHS PROJEKT, S.R.O.",darovací smlouva,0,3508684,127042420,"DAR - VHS PROJEKT, S.R.O.",stan
 2020-06-30,93750,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,SNK ED přev podílu za mand ZK Vysocina II.Q.2020,308,70869553,0,SNK EVROPŠTÍ DEMOKRA,stan
 2020-06-29,50000,Platba převodem uvnitř banky,Občané pro Budějovice,Vyrovnani za KV16,,71443185,,Vyrovnani za KV16,stan
-2020-06-29,500000,Bezhotovostní příjem,ALPINE LOGISTIK A.S.,"DAR, ALPINE logistik a.s., Zli",558,27221121,164150520,DAR - ALPINE LOGISTIK A.S.,stan
+2020-06-29,5e+05,Bezhotovostní příjem,ALPINE LOGISTIK A.S.,"DAR, ALPINE logistik a.s., Zli",558,27221121,164150520,DAR - ALPINE LOGISTIK A.S.,stan
 2020-06-26,25000,Okamžitá příchozí platba,"Müllerová Ilona,Mgr.","od Tomáše Müllera, Nová Hradečná 13",0,,6090420,DAR - Müller Tomáš,stan
-2020-06-26,200000,Okamžitá příchozí platba,Lubomír Havel,"DAR, Lubomír Havel, 6.8.1958, Dolní Břežany",308,5808060709,165150620,DAR - Lubomír Havel,stan
+2020-06-26,2e+05,Okamžitá příchozí platba,Lubomír Havel,"DAR, Lubomír Havel, 6.8.1958, Dolní Břežany",308,5808060709,165150620,DAR - Lubomír Havel,stan
 2020-06-25,5000,Okamžitá příchozí platba,Ing. Martin Čacký,"Dar, Martin Čacký, 12.11.1980, Měšice",,183043520,,DAR - Ing. Martin Čacký,stan
 2020-06-25,10000,Bezhotovostní příjem,Remarkplast GROUP a.,,308,4872657,,DAR - Remarkplast GROUP a.,stan
 2020-06-25,20000,Bezhotovostní příjem,STASTNY ASFALT S.R.O,DAR 29127718 NOVA VES,,29127718,127042420,DAR - STASTNY ASFALT S.R.O,stan
 2020-06-25,15000,Bezhotovostní příjem,JURČAGA PETR,"DAR, Jurčaga Petr,16.1.1976, HorníSuchá",0,16011976,105050820,DAR - JURČAGA PETR,stan
 2020-06-24,120000,Okamžitá příchozí platba,TOP 09,"TOP 09, Opletalova 1603/57, 11000 Praha 1, darovací smlouva Starostové a nezávislí ZLN",,71339728,175010820,DAR - TOP 09,stan
 2020-06-24,20000,Okamžitá příchozí platba,ŠIMEK DAVID,DAR - DAVID ŠIMEK,,260379,100080820,DAR - ŠIMEK DAVID,stan
-2020-06-23,200000,Okamžitá příchozí platba,Ing. Miroslav Breniš,"DAR MIROSLAV BRENIŠÍN 06.01.1956, PRAHA 5 SLIVENEC",,5601061422,164150520,DAR - Ing. Miroslav Breniš,stan
+2020-06-23,2e+05,Okamžitá příchozí platba,Ing. Miroslav Breniš,"DAR MIROSLAV BRENIŠÍN 06.01.1956, PRAHA 5 SLIVENEC",,5601061422,164150520,DAR - Ing. Miroslav Breniš,stan
 2020-06-23,20000,Bezhotovostní příjem,"AQ SPOL, S.R.O.","dar AQ SPOL, s.r.o.",558,0,174042820,"DAR - AQ SPOL, S.R.O.",stan
 2020-06-23,375000,Bezhotovostní příjem,KDU-ČSL,"DAR, 00442704, Praha",0,442704,177042920,DAR - KDU-ČSL,stan
 2020-06-22,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
@@ -617,26 +617,26 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-05-19,10000,Platba převodem uvnitř banky,"Mgr. Jureček, Jiří","DAR, Jiří Jureček,2.9.1980, Ostrava-Hošťálkovice",,2091980,68050220,"DAR, Jiří Jureček,2.9.1980, Ostrava-Hošťálkovice",stan
 2020-05-18,5000,Okamžitá příchozí platba,Nimrichtrová Lenka,"Dar Jaroslav Nimrichtr, 26.8.1955,",0,26081955,8090620,DAR - Nimrichtr Jaroslav,stan
 2020-05-14,2000,Bezhotovostní příjem,Blokša Petr,"DAR, Petr Blokša, 7.5.1966, Pržno",,90050520,,DAR - Blokša Petr,stan
-2020-05-13,700000,Bezhotovostní příjem,MGR. IVAN GR N,"DAR, Ivan Grun, 7.8.1967, Praha 8",,7081967,56150420,DAR - MGR. IVAN GRUN,stan
+2020-05-13,7e+05,Bezhotovostní příjem,MGR. IVAN GR N,"DAR, Ivan Grun, 7.8.1967, Praha 8",,7081967,56150420,DAR - MGR. IVAN GRUN,stan
 2020-05-12,25000,Bezhotovostní příjem,DVORACEK PAVEL,DAR Pavel Dvoracek 8.6.1972 Kostelany,,8061972,97010720,DAR - DVORACEK PAVEL,stan
 2020-05-12,20000,Bezhotovostní příjem,SINCLAIR GLOBAL GROU,"DAR - Sinclair Global Group, s.r.o.",0,15528383,46111420,DAR - SINCLAIR GLOBAL GROU,stan
 2020-05-12,20000,Bezhotovostní příjem,STANEK MARTIN,"DAR - Martin Stanek, 14.10.1963Sezemice, Pardubicky kraj",,14101963,93080320,DAR - STANEK MARTIN,stan
 2020-05-11,10000,Okamžitá příchozí platba,"Lesy Sever, s.r.o.",Dar Lesy Sever s.r.o. Bílina,,25646257,,"DAR - Lesy Sever, s.r.o.",stan
 2020-05-11,56250,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, darovací smlouva STAN ( man.Pavera)",308,71339728,,DAR - TOP 09,stan
-2020-05-11,700000,Bezhotovostní příjem,MEDICALADVICE s.r.o.,"DAR, MEDICAL ADVICE s.r.o., PRAHA",308,6317260,,DAR - MEDICALADVICE s.r.o.,stan
+2020-05-11,7e+05,Bezhotovostní příjem,MEDICALADVICE s.r.o.,"DAR, MEDICAL ADVICE s.r.o., PRAHA",308,6317260,,DAR - MEDICALADVICE s.r.o.,stan
 2020-05-07,20000,Bezhotovostní příjem,MATOUSKOVA MICHAELA,"DAR Michaela Matouskova, 21.6.1979,Recany nad Labem",308,21061979,91080120,DAR - MATOUSKOVA MICHAELA,stan
 2020-05-06,84000,Platba převodem uvnitř banky,"Mgr. Kárník, Pavel","DAR Pavel Kárník 25061960, Kolín",,25061960,8904320,"DAR - Pavel Kárník 25061960, Kolín",stan
 2020-05-06,35000,Bezhotovostní příjem,Procházka Vladimír,"Dar, Vladimír Procházka,  nar. 9.3.1972, Bílovice nad Svitavou",0,9031972,45111320,DAR - Procházka Vladimír,stan
 2020-05-04,20000,Bezhotovostní příjem,KOTAS MARIAN,"DAR, Marian Kotas, 10.2.1976, Petrvald u Karvine",0,10021976,70050420,DAR - KOTAS MARIAN,stan
-2020-04-30,-10000000,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
+2020-04-30,-1e+07,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
 2020-04-29,2000,Bezhotovostní příjem,POTUŽÁK ZDENĚK,"Bar Zdeněk Potužák 15.10.1955, Litovel",0,15101955,75091320,DAR - POTUŽÁK ZDENĚK,stan
 2020-04-28,1000,Bezhotovostní příjem,REZNICEK JIRI,"DAR Jiri Reznicek, 29031965,Tucin",,29031965,77091520,DAR - REZNICEK JIRI,stan
 2020-04-28,2000,Bezhotovostní příjem,Roman Šťastný,"DAR,Roman Šťastný,20.6.1967,Mikulovice",558,20061967,81091920,DAR - Roman Šťastný,stan
 2020-04-28,1000,Platba převodem uvnitř banky,"Bc Šimek, Petr",,,7031986,79091720,DAR - ŠIMEK PETR,stan
 2020-04-28,25000,Bezhotovostní příjem,"HITL ,S.R.O.",,558,25321765,44111220,"DAR - HITL ,S.R.O.",stan
 2020-04-27,20000,Platba převodem uvnitř banky,"Bureš, Eduard",Eduard Bureš,308,19041976,60112520,DAR - Eduard Bureš,stan
-2020-04-27,100000,Bezhotovostní příjem,Karel Zitterbart,"DAR, Karel Zitterbart, 8.10.1978,Mokrá-Horákov",,8101978,32110120,DAR - Karel Zitterbart,stan
-2020-04-27,200000,Bezhotovostní příjem,BLAHA PAVEL,,,18071979,54040220,DAR - BLAHA PAVEL,stan
+2020-04-27,1e+05,Bezhotovostní příjem,Karel Zitterbart,"DAR, Karel Zitterbart, 8.10.1978,Mokrá-Horákov",,8101978,32110120,DAR - Karel Zitterbart,stan
+2020-04-27,2e+05,Bezhotovostní příjem,BLAHA PAVEL,,,18071979,54040220,DAR - BLAHA PAVEL,stan
 2020-04-24,8725000,Bezhotovostní příjem,MF,,6418,7652020,0,PŘÍSPĚVEK ZE STÁTNÍHO ROZPOČTU 1Q 2020,stan
 2020-04-23,50000,Bezhotovostní příjem,DUSEK DAVID,"DAR, David Dusek. 3.1.1969Praha 5",558,3011969,71030220,DAR - DUSEK DAVID,stan
 2020-04-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
@@ -649,8 +649,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-04-16,5000,Bezhotovostní příjem,Málek Pavel,pavel málek,,,53112120,DAR - Málek Pavel,stan
 2020-04-16,5000,Bezhotovostní příjem,Brázda Radek,Dar Radek Brázda 23.4.1972 Troubky,558,23041972,409022,DAR - Brázda Radek,stan
 2020-04-15,150000,Bezhotovostní příjem,Lukl František,Dar František Lukl,0,7710304250,48111620,DAR - Lukl František,stan
-2020-04-15,100000,Bezhotovostní příjem,Drago Sukalovský,příspěvek volby Sukalovský,,7061962,49111720,DAR - Drago Sukalovský,stan
-2020-04-15,100000,Bezhotovostní příjem,Hejma Petr,Dar pro STAN Praha,,109155119,,DAR - Hejma Petr,stan
+2020-04-15,1e+05,Bezhotovostní příjem,Drago Sukalovský,příspěvek volby Sukalovský,,7061962,49111720,DAR - Drago Sukalovský,stan
+2020-04-15,1e+05,Bezhotovostní příjem,Hejma Petr,Dar pro STAN Praha,,109155119,,DAR - Hejma Petr,stan
 2020-04-15,30000,Bezhotovostní příjem,STRECHA LIBOR,"DAR, Libor Strecha, 5.4.1974,Hodonin",,5041974,57112220,DAR - STRECHA LIBOR,stan
 2020-04-15,5000,Okamžitá příchozí platba,"Okénka Antonín,Mgr.",,0,14111979,52112020,"DAR - Okénka Antonín,Mgr.",stan
 2020-04-15,50000,Okamžitá příchozí platba,"Marek Michal,JUDr.",Michal Marek - příspěvek JMK,0,,50111820,"DAR - Marek Michal,JUDr.",stan
@@ -668,40 +668,40 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-03-19,5000,Bezhotovostní příjem,BUČEK MILAN,Milan Buček,308,35110320,35110320,DAR BUČEK MILAN,stan
 2020-03-13,30000,Bezhotovostní příjem,ŠANC IVO,"Dar I.Šanc, 15.5.1055, Kutná Hora",308,15051955,19040120,ŠANC IVO,stan
 2020-03-12,50000,Bezhotovostní příjem,KACHLIK JOSEF,"J.Kachlik, Vyskov",,0,36110420,DAR KACHLIK JOSEF,stan
-2020-03-10,100000,Bezhotovostní příjem,PIFKA TOMÁŠ,,0,29011981,16010320,DAR PIFKA TOMÁŠ,stan
-2020-03-06,100000,Bezhotovostní příjem,ZÁBRANSKÝ MARTIN,"DAR, Martin Zábranský, 18.2.1974, Staré Město",308,18021974,15010220,ZÁBRANSKÝ MARTIN,stan
+2020-03-10,1e+05,Bezhotovostní příjem,PIFKA TOMÁŠ,,0,29011981,16010320,DAR PIFKA TOMÁŠ,stan
+2020-03-06,1e+05,Bezhotovostní příjem,ZÁBRANSKÝ MARTIN,"DAR, Martin Zábranský, 18.2.1974, Staré Město",308,18021974,15010220,ZÁBRANSKÝ MARTIN,stan
 2020-02-27,20000,Bezhotovostní příjem,CHROUST MIROSLAV,"Dar, Miroslav Chroust, nar.16.5.1971, U Zámecké zahrady 1052/6, Teplice",0,0,21060220,CHROUST MIROSLAV,stan
 2020-02-27,2000,Bezhotovostní příjem,JAN KITTL,"DAR, JAN KITTL, 27.01.1986, VARNSDORF",,,26022020,JAN KITTL,stan
 2020-02-25,30000,Bezhotovostní příjem,SYSLOVÁ JANA,"DAR Syslová, 24.1.1974, Hrobčice",0,24011974,22060320,SYSLOVÁ JANA,stan
 2020-02-24,5000,Bezhotovostní příjem,KULHÁNKOVÁ JANKA,DAR MIROSLAV KULHANEK 18071953 HROBČICE,8,18071953,20060120,KULHÁNKOVÁ JANKA,stan
-2020-02-21,400000,Bezhotovostní příjem,"KJZ, SPOL. S R.O.",Dar- KJZ sro,0,25018663,2150120,"KJZ, SPOL. S R.O.",stan
+2020-02-21,4e+05,Bezhotovostní příjem,"KJZ, SPOL. S R.O.",Dar- KJZ sro,0,25018663,2150120,"KJZ, SPOL. S R.O.",stan
 2020-02-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,Jakub Nešpor,stan
 2020-02-20,8000,Bezhotovostní příjem,KALIBA KAREL,"DAR,Karel Kaliba,15.7.1971, Koporeč",0,15071971,0,KALIBA KAREL,stan
-2020-02-19,500000,Bezhotovostní příjem,PLESAR MILAN,dar Ing. Milan Plesar,,4081981,,PLESAR MILAN,stan
-2020-02-18,200000,Bezhotovostní příjem,GREEN TRADE CZ S.R.O,dar Green Trade CZ,0,22798625,3150220,GREEN TRADE CZ S.R.O,stan
+2020-02-19,5e+05,Bezhotovostní příjem,PLESAR MILAN,dar Ing. Milan Plesar,,4081981,,PLESAR MILAN,stan
+2020-02-18,2e+05,Bezhotovostní příjem,GREEN TRADE CZ S.R.O,dar Green Trade CZ,0,22798625,3150220,GREEN TRADE CZ S.R.O,stan
 2020-02-12,2000,Bezhotovostní příjem,"Suchánek Josef,Ing.",DAR Josef Suchánek 15011963 Olomouc,0,,1090120,"Suchánek Josef,Ing.",stan
 2020-02-10,1000,Bezhotovostní příjem,Zdeněk Axmann,"DAR, Zdeněk Axmann, 21.4.1960, Jedlí",,21041960,7090119,Zdeněk Axmann,stan
 2020-02-04,50000,Okamžitá příchozí platba,Váňa Josef,"dar, Josef Vana, Zlin",0,8021941,101010219,Váňa Josef,stan
 2020-02-02,1000,Okamžitá příchozí platba,ŠTĚTAŘ KAMIL,"DAR, Kamil Štětař, 26.6.1985, Pivín",,2661985,25091919,ŠTĚTAŘ KAMIL,stan
 2020-01-31,12000,Okamžitá příchozí platba,"Suchánek Josef,Ing.",DAR Josef Suchánek 15011963 Olomouc,0,,112092319,"Suchánek Josef,Ing.",stan
-2020-01-29,-1000000,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
+2020-01-29,-1e+06,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
 2020-01-29,12000,Okamžitá příchozí platba,"Suchánek Josef,Ing.",DAR Josef Suchánek 15011963 Olomouc,0,,112092319,"Suchánek Josef,Ing.",stan
 2020-01-29,1000,Bezhotovostní příjem,HATON LUDEK,"dar Ludek Haton,11.5.1954, Bohdikov",,11051954,10090419,HATON LUDEK,stan
-2020-01-27,200000,Bezhotovostní příjem,ARCO F.P.S. Pexidr s,DAR ARCO F.P.S. Pexidr STAROSTOVÉ A  NEZÁVISLÍ,0,28239351,94154519,ARCO F.P.S. Pexidr s,stan
-2020-01-27,500000,Bezhotovostní příjem,MMC - Moravia Market,MMC_IČ03706133 DAR,,3706133,98154919,MMC - Moravia Market,stan
-2020-01-24,300000,Bezhotovostní příjem,ING. CHRISTIAN KAI,Starostové a nezávislí - dar Christian Kaifer 470423/003 - dar,,470423003,97154819,ING. CHRISTIAN KAI,stan
+2020-01-27,2e+05,Bezhotovostní příjem,ARCO F.P.S. Pexidr s,DAR ARCO F.P.S. Pexidr STAROSTOVÉ A  NEZÁVISLÍ,0,28239351,94154519,ARCO F.P.S. Pexidr s,stan
+2020-01-27,5e+05,Bezhotovostní příjem,MMC - Moravia Market,MMC_IČ03706133 DAR,,3706133,98154919,MMC - Moravia Market,stan
+2020-01-24,3e+05,Bezhotovostní příjem,ING. CHRISTIAN KAI,Starostové a nezávislí - dar Christian Kaifer 470423/003 - dar,,470423003,97154819,ING. CHRISTIAN KAI,stan
 2020-01-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,Jakub Nešpor,stan
-2020-01-14,-700000,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
+2020-01-14,-7e+05,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
 2019-12-30,5000,Okamžitá příchozí platba,Přecechtělová Jana,"DAR, Jana Přecechtělová, 230673, Sr",308,230673,18091219,Přecechtělová Jana,stan
-2019-12-27,300000,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,96154719,Hejma Petr,stan
-2019-12-27,100000,Okamžitá příchozí platba,Ing. Miloš Šimon,DAR - Miloš Šimon - STAN Praha,308,441023,106030719,Ing. Miloš Šimon,stan
+2019-12-27,3e+05,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,96154719,Hejma Petr,stan
+2019-12-27,1e+05,Okamžitá příchozí platba,Ing. Miloš Šimon,DAR - Miloš Šimon - STAN Praha,308,441023,106030719,Ing. Miloš Šimon,stan
 2019-12-27,175000,Bezhotovostní příjem,Kardiologie MUDr. Lu,"DAR,MUDr Lubomír Pollák,Štěpánkovice,Jasanova 22,PSČ 74728,firma:kardiologie MUDr Lubomír Pollák sro,IČO06700233,Sušilova 1,Opava,PSČ74601",0,,108155019,Kardiologie MUDr. Lu,stan
 2019-12-23,12000,Bezhotovostní příjem,Ing. Tomáš Hanáček,"Dar Andrea Hanáčková, zastupitelkaza STAN Olomouc",0,,27092119,Ing. Tomáš Hanáček,stan
-2019-12-23,100000,Bezhotovostní příjem,"KŘEČEK PAVEL, MGR.","DAR - Pavel Křeček, 29.4.1982, Praha 3",,29041982,105030619,"KŘEČEK PAVEL, MGR.",stan
+2019-12-23,1e+05,Bezhotovostní příjem,"KŘEČEK PAVEL, MGR.","DAR - Pavel Křeček, 29.4.1982, Praha 3",,29041982,105030619,"KŘEČEK PAVEL, MGR.",stan
 2019-12-23,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,Jakub Nešpor,stan
-2019-12-20,-700000,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
+2019-12-20,-7e+05,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
 2019-12-20,10000,Okamžitá příchozí platba,Tomáš Kutil,"Dar, Tomáš Kutil, 10.10.1984, Kladno",,10101984,107032019,Tomáš Kutil,stan
-2019-12-20,700000,Bezhotovostní příjem,ARCO F.P.S. Pexidr s,DAR ARCO F.P.S. Pexidr s.r.o.,0,28239351,94154519,ARCO F.P.S. Pexidr s,stan
+2019-12-20,7e+05,Bezhotovostní příjem,ARCO F.P.S. Pexidr s,DAR ARCO F.P.S. Pexidr s.r.o.,0,28239351,94154519,ARCO F.P.S. Pexidr s,stan
 2019-12-20,-650000,Platba převodem uvnitř banky,,Převod mezi účty STAN,,,,Převod mezi účty STAN,stan
 2019-12-17,1000,Bezhotovostní příjem,"Mudra Petr,Ing.","DAR, Petr Mudra,10.3.1974, Česká Ves",0,10031974,13090719,"Mudra Petr,Ing.",stan
 2019-12-16,80000,Bezhotovostní příjem,HOLEČEK PETR,,0,2151957,69030419,DAR - HOLEČEK PETR,stan
@@ -712,7 +712,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-05,56250,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, darovací smlouva STAN ( man.Pavera)",308,71339728,,TOP 09,stan
 2019-12-03,93750,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,SNK ED přev podílu za mand ZK Vysocina IV.Q.2019,308,70869553,0,SNK EVROPŠTÍ DEMOKRA,stan
 2019-12-02,1500,Bezhotovostní příjem,REZNICEK JIRI,"Reznicek, STAN, DAR 29031965",,29031965,19091319,REZNICEK JIRI,stan
-2019-12-02,100000,Bezhotovostní příjem,Ing. Karel Matonoha,"DAR, Karel Matonoha, 27.7.1965, Brno",0,27071965,104110119,Ing. Karel Matonoha,stan
+2019-12-02,1e+05,Bezhotovostní příjem,Ing. Karel Matonoha,"DAR, Karel Matonoha, 27.7.1965, Brno",0,27071965,104110119,Ing. Karel Matonoha,stan
 2019-11-29,15000,Bezhotovostní příjem,MACHACEK MARTIN,"Dar,M.Machacek,15.12.48, Ondrejov",,15121948,75030819,MACHACEK MARTIN,stan
 2019-11-28,13000,Bezhotovostní příjem,DOBEŠ PAVEL,Dar PD,0,4030419,4030419,DAR - DOBEŠ PAVEL,stan
 2019-11-28,6000,Bezhotovostní příjem,Petr Halada,"Dar, Petr Halada, 9.6.1962, Kamýk nad Vltavou",298,961962,90031719,Petr Halada,stan
@@ -741,8 +741,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-09-30,484,Bezhotovostní příjem,THINline s.r.o.,vracena platba vs. 298062019,0,298062019,,THINline s.r.o. - vratka - platba z chybného účtu,stan
 2019-09-30,500,Bezhotovostní příjem,Jakub Nešpor,dar,,,,dar - Jakub Nešpor,stan
 2019-09-30,250000,Bezhotovostní příjem,EPCON OLOMOUC S.R.O.,,0,28235151,61153519,EPCON OLOMOUC S.R.O. - dar,stan
-2019-09-26,200000,Platba převodem uvnitř banky,"3E system, s.r.o.",3E system,,29264383,65153919,3E system - dar,stan
-2019-09-26,300000,Bezhotovostní příjem,"YOUR SYSTEM, spol.s",financni dar,308,174939,60153419,"YOUR SYSTEM, spol.s r.o. - dar",stan
+2019-09-26,2e+05,Platba převodem uvnitř banky,"3E system, s.r.o.",3E system,,29264383,65153919,3E system - dar,stan
+2019-09-26,3e+05,Bezhotovostní příjem,"YOUR SYSTEM, spol.s",financni dar,308,174939,60153419,"YOUR SYSTEM, spol.s r.o. - dar",stan
 2019-09-25,275000,Platba převodem uvnitř banky,TUWENTY s.r.o.,"DAR, Tuwenty s.r.o., IČO:02941511, Praha 1",,2941511,64153819,"DAR, Tuwenty s.r.o., IČO:02941511, Praha 1",stan
 2019-09-25,-484,Bezhotovostní platba,,,308,298062019,,Český hosting,stan
 2019-09-25,350000,Bezhotovostní příjem,BRISTA s.r.o.,Brista,,62153619,,BRISTA s.r.o. - dar,stan
@@ -775,10 +775,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-06-13,65000,Bezhotovostní příjem,ŠANC IVO,"Dar I.Šanc, 15.5.1055, Kutná Hora,Středočeský kraj",308,15051955,71030619,ŠANC IVO,stan
 2019-05-29,93750,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,SNK ED přev podílu za mand ZK Vysocina I.Q.2019,308,70869553,0,SNK EVROPŠTÍ DEMOKRA,stan
 2019-05-28,56250,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, darovací smlouva STAN ( man.Pavera)",308,71339728,,TOP 09,stan
-2019-05-27,100000,Bezhotovostní příjem,Ing. Miroslav Breniš,"DAR MIROSLAV BRENIŠÍN 06.01.1956, PRAHA 5 SLIVENEC",0,5601061422,58153219,Ing. Miroslav Breniš,stan
+2019-05-27,1e+05,Bezhotovostní příjem,Ing. Miroslav Breniš,"DAR MIROSLAV BRENIŠÍN 06.01.1956, PRAHA 5 SLIVENEC",0,5601061422,58153219,Ing. Miroslav Breniš,stan
 2019-05-24,10000,Bezhotovostní příjem,"Haluza Jiří,Ing.",Dar,3558,0,0,"Haluza Jiří,Ing.",stan
-2019-05-22,100000,Bezhotovostní příjem,"NTL, sro","DAR, NEWTELELINE spol. s r.o. /NTL, sro/, 48108421, Praha 6",308,48108421,59153319,"NTL, sro",stan
-2019-05-22,100000,Bezhotovostní příjem,Lubomír Havel,"DAR, Lubomír Havel, 6.8.1958, Dolní Břežany",308,5808060709,57153119,Lubomír Havel,stan
+2019-05-22,1e+05,Bezhotovostní příjem,"NTL, sro","DAR, NEWTELELINE spol. s r.o. /NTL, sro/, 48108421, Praha 6",308,48108421,59153319,"NTL, sro",stan
+2019-05-22,1e+05,Bezhotovostní příjem,Lubomír Havel,"DAR, Lubomír Havel, 6.8.1958, Dolní Břežany",308,5808060709,57153119,Lubomír Havel,stan
 2019-05-20,20000,Bezhotovostní příjem,FRYS JIŘÍ,"DAR, Jiří Frys, 27.11.1953, Velké Losiny",308,27111953,53152719,FRYS JIŘÍ,stan
 2019-05-17,50000,Bezhotovostní příjem,IT Comp Vít Komárek,Dar IT Comp Vít Komárek s.r.o.,,24300594,54152819,IT Comp Vít Komárek,stan
 2019-05-10,50000,Bezhotovostní příjem,"Sršeň Radim,Ing.","DAR, Radim Sršeň, 1.5.1980, Dolní Studénky",308,151980,51152519,"Sršeň Radim,Ing.",stan
@@ -790,15 +790,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-03-27,-1171750,Platba převodem uvnitř banky,,Převod peněz v rámci účtů STAN,,,,Převod peněz v rámci účtů STAN,stan
 2019-03-08,67000,Bezhotovostní příjem,Smoljak David,"DAR, David Smoljak, 8.2.1959, Praha- Vinoř",0,8021959,29160119,Smoljak David,stan
 2019-03-06,13000,Bezhotovostní příjem,"Mikeska Tomáš,Ing.",DAR STAN Tomáš Mikeska PRAHA,308,455049418,0,"Mikeska Tomáš,Ing.",stan
-2019-03-04,300000,Bezhotovostní příjem,MARVANOVA MIROSLAVA,"DAR, Miroslava Marvanova, 19.1.1962Velke Popovice",,190162,6150219,MARVANOVA MIROSLAVA,stan
-2019-03-01,200000,Bezhotovostní příjem,KINCEL PETR,"DAR, Petr Kincel, 26.5.1961, DolníBřežany",,26051961,5150119,KINCEL PETR,stan
+2019-03-04,3e+05,Bezhotovostní příjem,MARVANOVA MIROSLAVA,"DAR, Miroslava Marvanova, 19.1.1962Velke Popovice",,190162,6150219,MARVANOVA MIROSLAVA,stan
+2019-03-01,2e+05,Bezhotovostní příjem,KINCEL PETR,"DAR, Petr Kincel, 26.5.1961, DolníBřežany",,26051961,5150119,KINCEL PETR,stan
 2019-02-27,550000,Bezhotovostní příjem,JUDr. Stanislav Polč,"Dar. Stanislav Polčák, Klimentská 48, Praha 1",0,21021980,,JUDr. Stanislav Polč,stan
 2019-02-14,13000,Bezhotovostní příjem,"KŘEČEK PAVEL, MGR.","DAR - Pavel Křeček, 29.4.1982, Praha 3",,29041982,456049518,"KŘEČEK PAVEL, MGR.",stan
 2019-01-14,28750,Platba převodem uvnitř banky,ProOlomouc,vypořádání 1/4 příjmů od MF mezi STAN-ProOlomouc za rok 2018 dle smlouvy,,320466918,,vypořádání 1/4 příjmů od MF mezi STAN-ProOlomouc za rok 2018 dle smlouvy,stan
 2019-01-14,-1100000,Platba převodem uvnitř banky,,převod v rámci účtů STAN,,,,převod v rámci účtů STAN,stan
-2019-01-09,300000,Bezhotovostní příjem,ING. CHRISTIAN KAI,Starostové a nezávislí - darChristian Kaifer - 470423/003 - dar,,470423003,2030219,ING. CHRISTIAN KAI,stan
-2019-01-08,300000,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,3030319,Hejma Petr,stan
-2019-01-08,500000,Bezhotovostní příjem,MMC - Moravia Market,MMC- IČ03706133 - DAR,,3706133,1030119,MMC - Moravia Market,stan
+2019-01-09,3e+05,Bezhotovostní příjem,ING. CHRISTIAN KAI,Starostové a nezávislí - darChristian Kaifer - 470423/003 - dar,,470423003,2030219,ING. CHRISTIAN KAI,stan
+2019-01-08,3e+05,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,3030319,Hejma Petr,stan
+2019-01-08,5e+05,Bezhotovostní příjem,MMC - Moravia Market,MMC- IČ03706133 - DAR,,3706133,1030119,MMC - Moravia Market,stan
 2019-01-03,-271250,Platba převodem uvnitř banky,,převod mezi účty STAN,,,,převod mezi účty STAN,stan
 2018-12-31,3000,Bezhotovostní příjem,"Soukupová Radka,Ing.","DAR, Radka Soukupová, 21.3.1961, Praha 11",,21031961,450049318,"Soukupová Radka,Ing.",stan
 2018-12-31,3000,Bezhotovostní příjem,JELENOVA ZUZANA,"Dar, Zuzana Jelenova 14.10.1961, Praha 9",,14101961,448049218,JELENOVA ZUZANA,stan
@@ -819,15 +819,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-12-11,86250,Platba převodem uvnitř banky,ProOlomouc,vypořádání 3/4 příjmů od MF mezi STAN-ProOlomouc za rok 2018 dle smlouvy,,320466918,,vypořádání 3/4 příjmů od MF mezi STAN-ProOlomouc za rok 2018 dle smlouvy,stan
 2018-12-11,10000,Bezhotovostní příjem,Petr Cibulka MUDr.,"DAR Petr Cibulka , 13.11.64 ,  Lány",0,13111964,443036018,Petr Cibulka MUDr.,stan
 2018-12-06,-500,Bezhotovostní platba,,Vrácení mylné platby,,60772,,Vrácení mylné platby,stan
-2018-12-04,300000,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,441049118,Hejma Petr,stan
+2018-12-04,3e+05,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,441049118,Hejma Petr,stan
 2018-12-04,500,Bezhotovostní příjem,Evanžin Patrik,"Patrik Evanžin, JM, Brno,",,60772,2018,Evanžin Patrik,stan
 2018-11-30,-711677,Platba převodem uvnitř banky,,převod peněz v rámci účtů STAN,,,,převod peněz v rámci účtů STAN,stan
 2018-11-29,3141,Platba převodem uvnitř banky,"Škrdlová, Monika",DAR Monika Škrdlová 7.1.1975 Veselí nad Lužnicí,,7011975,433120918,DAR Monika Škrdlová 7.1.1975 Veselí nad Lužnicí,stan
 2018-11-28,3200,Bezhotovostní příjem,Pavel Hrala,"DAR, Pavel Hrala,2.11.1982,Humpolec",,2111982,438102218,Pavel Hrala,stan
 2018-11-26,714,Bezhotovostní příjem,Jitka Matějková,DAR Jitka Matějková 8.7.1985 Kamenný Újezd,,8071985,440121018,Jitka Matějková,stan
 2018-11-23,4622,Platba převodem uvnitř banky,"Ing. Belcredi Knauer, Jiří",Dar Brno Líšeň - Belcredi Knauer,,19111982,439113118,Dar Brno Líšeň - Belcredi Knauer,stan
-2018-11-23,500000,Bezhotovostní příjem,Solar area s.r.o.,,559,27263151,436049018,Solar area s.r.o.,stan
-2018-11-23,200000,Bezhotovostní příjem,Rodvinov Solar Energ,,559,27451526,,Rodvinov Solar Energ,stan
+2018-11-23,5e+05,Bezhotovostní příjem,Solar area s.r.o.,,559,27263151,436049018,Solar area s.r.o.,stan
+2018-11-23,2e+05,Bezhotovostní příjem,Rodvinov Solar Energ,,559,27451526,,Rodvinov Solar Energ,stan
 2018-11-22,-8605000,Platba převodem uvnitř banky,,Převod peněz v rámci účtů STAN,,,,Převod peněz v rámci účtů STAN,stan
 2018-11-22,8500000,Bezhotovostní příjem,MF,,6418,225472018,0,MF,stan
 2018-11-16,105000,Platba převodem uvnitř banky,Občané pro Budějovice,Dar pro STAN,,,,Dar pro STAN,stan
@@ -849,7 +849,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-30,2000,Bezhotovostní příjem,Aneta Ečeková Mar?ál,"DAR, Aneta Ečeková Mar?álová, 14.4.1976, Praha 13",0,14041976,426048718,Aneta Ečeková Mar?ál,stan
 2018-10-30,1234,Bezhotovostní příjem,Věra Holíková,DAR,0,12061988,425052218,Věra Holíková,stan
 2018-10-30,90,Bezhotovostní příjem,Radek Fleischer,DAR,,12061988,425052218,Radek Fleischer,stan
-2018-10-30,300000,Bezhotovostní příjem,ANDAREA s.r.o.,DAR,968,28936248,369047618,ANDAREA s.r.o.,stan
+2018-10-30,3e+05,Bezhotovostní příjem,ANDAREA s.r.o.,DAR,968,28936248,369047618,ANDAREA s.r.o.,stan
 2018-10-29,8000,Bezhotovostní příjem,VÍTEČEK MARTIN,"DAR, Martin Vitecek, 28.03.1980, Opava",0,423052118,0,VÍTEČEK MARTIN,stan
 2018-10-26,10000,Bezhotovostní příjem,NOVOTNÁ MARTINA,,0,400112818,0,NOVOTNÁ MARTINA,stan
 2018-10-26,7500,Bezhotovostní příjem,GREEN POWER s.r.o.,GREEN POWER s.r.o. - dar volby 2018,0,36864321,40504831,GREEN POWER s.r.o.,stan
@@ -942,13 +942,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-24,6700,Bezhotovostní příjem,HOGENOVÁ ANDREA,"Dar pro Prahu 15, Andrea Hogenová 31.5.1967",558,31051967,0,HOGENOVÁ ANDREA,stan
 2018-09-24,10000,Bezhotovostní příjem,"Voláková Renáta,Ing.",DAR Renata Volakova 28.3.1968 Jesenice (opakovane zaslani daru se spravnymi udaji),0,280368,353035218,"Voláková Renáta,Ing.",stan
 2018-09-24,2680,Bezhotovostní příjem,Tomáš Kalous,"""dar"" GAF s.r.o., IČ: 60109611, Zemědělská 1378, 564 01 Žamberk",,60109611,339081518,Tomáš Kalous,stan
-2018-09-21,300000,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,357047218,Hejma Petr,stan
+2018-09-21,3e+05,Bezhotovostní příjem,Hejma Petr,Dar od Petr Hejma pro Praha,558,6907060336,357047218,Hejma Petr,stan
 2018-09-21,2000,Bezhotovostní příjem,KMOCH LUBOMIR,DAR_LUBOMIR_KMOCH_PRAHA 4,308,4081967,289046318,KMOCH LUBOMIR,stan
 2018-09-21,8933,Bezhotovostní příjem,BERJAK PAVEL,Dar od Pavel Berjak,0,7021979,346081718,BERJAK PAVEL,stan
 2018-09-21,25000,Platba převodem uvnitř banky,Pro Znojmo o.s.,Dar Pro Znojmo z.s. IČ 01783262 Znojmo,558,1783262,345112618,Dar Pro Znojmo z.s. IČ 01783262 Znojmo,stan
 2018-09-21,10000,Bezhotovostní příjem,"DYNASIG, SPOL. S R.O","DAR, IČO 63473208, DYNASIG spol. s.Brno-Žebětín",0,63473208,321112318,"DYNASIG, SPOL. S R.O",stan
 2018-09-21,10000,Bezhotovostní příjem,"Voláková Renáta,Ing.",dar Renata Volakova,0,353035218,0,"Voláková Renáta,Ing.",stan
-2018-09-21,100000,Bezhotovostní příjem,Navláčil stavební fi,"AV:Navláčil stavební firma, s.r.o.",308,119011118,,Navláčil stavební fi,stan
+2018-09-21,1e+05,Bezhotovostní příjem,Navláčil stavební fi,"AV:Navláčil stavební firma, s.r.o.",308,119011118,,Navláčil stavební fi,stan
 2018-09-21,5000,Bezhotovostní příjem,CERNA PAVEL,"DAR, Ing. Pavel Cerna, 26.7.1961Praha 10 Strasnice",,26071961,352047118,CERNA PAVEL,stan
 2018-09-20,250000,Bezhotovostní příjem,CASUA S.R.O.,,558,44846908,343046918,CASUA S.R.O.,stan
 2018-09-20,1650,Bezhotovostní příjem,Kovařík Bedřich,"DAR, Bedřich Kovařík, 25.8.1975, Držovice",0,25081975,351092518,Kovařík Bedřich,stan
@@ -972,7 +972,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-14,777,Bezhotovostní příjem,Libor Pečinka,"DAR pro Olomouc, Libor Pečinka, 29.4.1987, Olomouc",,29041987,336092218,Libor Pečinka,stan
 2018-09-13,20000,Platba převodem uvnitř banky,"Ing. Dezort, Martin",,,20031974,319130718,,stan
 2018-09-13,-2924695.56,Platba převodem uvnitř banky,,převod peněz v rámci účtů STAN,,,,převod peněz v rámci účtů STAN,stan
-2018-09-13,100000,Bezhotovostní příjem,"Bek Mikuláš,Doc.PhDr","DAR Mikuláš Bek, 22.4.1964, Brno",0,22041964,100270618,"Bek Mikuláš,Doc.PhDr",stan
+2018-09-13,1e+05,Bezhotovostní příjem,"Bek Mikuláš,Doc.PhDr","DAR Mikuláš Bek, 22.4.1964, Brno",0,22041964,100270618,"Bek Mikuláš,Doc.PhDr",stan
 2018-09-13,15000,Bezhotovostní příjem,Červinka Jaroslav,příspěvek Poděbrady,308,7121959,306035018,Červinka Jaroslav,stan
 2018-09-13,5000,Bezhotovostní příjem,CVRČEK PAVEL,"DAR, Pavel Cvrček, 14. 1. 1982, Plzeň",0,1411982,309130518,CVRČEK PAVEL,stan
 2018-09-13,20000,Bezhotovostní příjem,"Philipp Tom,MUDr.",Tom Philipp - dar na kampaň,0,316046618,26121968,"Philipp Tom,MUDr.",stan
@@ -981,14 +981,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-12,5360,Platba převodem uvnitř banky,"Pírko, Jiří","DAR, Jiří Pírko, 1. 8. 1983, Choceň",,1081983,313081418,"DAR, Jiří Pírko, 1. 8. 1983, Choceň",stan
 2018-09-12,14000,Bezhotovostní příjem,QUITTA OLDRICH,"DAR,Oldrich Quitta,26.1.1947,Brno-Cernovice",,26011947,304112218,QUITTA OLDRICH,stan
 2018-09-12,16667,Bezhotovostní příjem,Pospíšil Vratislav,DAR Vratislav Pospíšil 21.8.1948Dolní Zálezly,,21081948,297060918,Pospíšil Vratislav,stan
-2018-09-12,100000,Bezhotovostní příjem,Adámek Miroslav,,0,0,110010818,Adámek Miroslav,stan
+2018-09-12,1e+05,Bezhotovostní příjem,Adámek Miroslav,,0,0,110010818,Adámek Miroslav,stan
 2018-09-12,1500,Bezhotovostní příjem,STROJOSVIT a.s.,Strojosvit,0,25824813,,STROJOSVIT a.s.,stan
 2018-09-12,5000,Bezhotovostní příjem,"Liška Jan,Ing.","DAR, Liška, 18061983, Praha 14",,18061983,286046218,"Liška Jan,Ing.",stan
 2018-09-12,4800,Bezhotovostní příjem,"Kadrnožka Martin,Mgr","DAR, Martin Kadrnožka, 24.10.1972,Týnec nad Sázavou",308,24101972,283034818,"Kadrnožka Martin,Mgr",stan
 2018-09-11,15000,Bezhotovostní příjem,DENTEX RTG S.R.O.,"dar, dentex rtg, s.r.o., 28673433,Chomutov",,28673433,285060818,DENTEX RTG S.R.O.,stan
 2018-09-11,15000,Bezhotovostní příjem,DENTEX PLUS spol. s,"Dar, dentex plus spol. s r.o., 25041568, Chomutov",0,25041568,284060718,DENTEX PLUS spol. s,stan
 2018-09-11,10000,Platba převodem uvnitř banky,"Ing. Belcredi Knauer, Jiří","DAR, Jiří Belcredi Knauer, 19.11.1982 Brno Líšeň",,19111982,288101918,"DAR, Jiří Belcredi Knauer, 19.11.1982 Brno Líšeň",stan
-2018-09-11,100000,Bezhotovostní příjem,SEVEN SPORT S.R.O.,,8,26847264,0,SEVEN SPORT S.R.O.,stan
+2018-09-11,1e+05,Bezhotovostní příjem,SEVEN SPORT S.R.O.,,8,26847264,0,SEVEN SPORT S.R.O.,stan
 2018-09-11,3000,Bezhotovostní příjem,Realitní kancelář MI,RK MICHALEK & PARTNERS,0,,268101618,Realitní kancelář MI,stan
 2018-09-11,10000,Bezhotovostní příjem,KOBLASA VLADIMIR,"DAR, Vladimir Koblasa, 20.11.1974,Jesenice",,20111974,279034418,KOBLASA VLADIMIR,stan
 2018-09-10,5000,Bezhotovostní příjem,"Suchánek Josef,Ing.","DAR, Josef Suchánek, 15.1.1963, Olomouc",,,301092018,"Suchánek Josef,Ing.",stan
@@ -1012,7 +1012,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-04,20000,Bezhotovostní příjem,"Černý Daniel,Ing.","DAR, Daniel Černý, 31.10.1972, Chomutov",0,31101972,274060618,"Černý Daniel,Ing.",stan
 2018-09-04,50000,Bezhotovostní příjem,HRONOVSKÝ S.R.O.,dar na transp.účet STAN,0,26000458,0,HRONOVSKÝ S.R.O.,stan
 2018-09-04,7000,Bezhotovostní příjem,Evanžin Patrik,,,14111955,268101718,Evanžin Patrik,stan
-2018-09-04,100000,Bezhotovostní příjem,LANDIA MANAGEMENT S.,"DAR, Landia Management, IČ:28510020",,28510020,194043618,LANDIA MANAGEMENT S.,stan
+2018-09-04,1e+05,Bezhotovostní příjem,LANDIA MANAGEMENT S.,"DAR, Landia Management, IČ:28510020",,28510020,194043618,LANDIA MANAGEMENT S.,stan
 2018-09-04,7667,Bezhotovostní příjem,DIBITANZL JAN,DAR JAN DIBITANZL  BENATKY NAD,0,2031966,267034318,DIBITANZL JAN,stan
 2018-09-04,1000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 714403 31.08.2018 c 2006MIROSLAVCEROVSKY*DARIM*CEROVS KYI PROSTEJOV,0,24101953,292091818,"CESKA POSTA, S.P.",stan
 2018-09-03,20000,Platba převodem uvnitř banky,Neopas s.r.o.,DAR PRO PRAHU 21,,1790056,272046118,DAR PRO PRAHU 21,stan
@@ -1045,7 +1045,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-29,5000,Bezhotovostní příjem,BOČEK MIROSLAV MUDR.,,8,14121952,235051118,BOČEK MIROSLAV MUDR.,stan
 2018-08-29,2000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 714403 27.08.2018 c 2007TOMASPEKADARITOMAS PE KA* PROSTESOV,0,26051984,260091118,"CESKA POSTA, S.P.",stan
 2018-08-29,12000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 714403 27.08.2018 c 2006PET ROSTADALDARIP*OS7DDA L*PROSTESOV,0,29081974,259091018,"CESKA POSTA, S.P.",stan
-2018-08-29,100000,Bezhotovostní příjem,HZ REAL S.R.O.,DAR OD HZ REAL S.R.O. PRO PRAHU 6DAR OD HZ REAL S.R.O. PRO PRAHU 6,308,26423910,241045418,HZ REAL S.R.O.,stan
+2018-08-29,1e+05,Bezhotovostní příjem,HZ REAL S.R.O.,DAR OD HZ REAL S.R.O. PRO PRAHU 6DAR OD HZ REAL S.R.O. PRO PRAHU 6,308,26423910,241045418,HZ REAL S.R.O.,stan
 2018-08-28,1234.56,Bezhotovostní příjem,"Stařecký Tomáš,Mgr.","Dar pro Prahu 6, Tomáš Stařecký, 13. květen 1962, Praha 6",0,13051962,244045718,"Stařecký Tomáš,Mgr.",stan
 2018-08-27,8400,Bezhotovostní příjem,KLÍMA VLADIMÍR,Dar-kom.volby-Klíma,308,5603191913,254060518,KLÍMA VLADIMÍR,stan
 2018-08-27,5000,Bezhotovostní příjem,"Neosolar,spol. s r.o","""Forum Jihlava""",,26287030,222101418,"Neosolar,spol. s r.o",stan
@@ -1055,7 +1055,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-24,5000,Bezhotovostní příjem,PROKEŠ PATRIK,Dar,0,16071979,253051618,PROKEŠ PATRIK,stan
 2018-08-24,250000,Bezhotovostní příjem,"HROTANO CZECH, s.r.o","DAR, HROTANO CZECH s.r.o., Praha, USluncové",0,4748832,203043918,"HROTANO CZECH, s.r.o",stan
 2018-08-24,5000,Bezhotovostní příjem,"Čech Petr,Mgr.",,0,0,246060418,"Čech Petr,Mgr.",stan
-2018-08-24,100000,Bezhotovostní příjem,Lacina Jan,Dar Praha 6,0,25011970,238045118,Lacina Jan,stan
+2018-08-24,1e+05,Bezhotovostní příjem,Lacina Jan,Dar Praha 6,0,25011970,238045118,Lacina Jan,stan
 2018-08-24,130000,Bezhotovostní příjem,Petr Prokop,"Dar pro Prahu 6 - Petr Prokop, nar. 30.11.1977, Praha 6",0,30111977,239045218,Petr Prokop,stan
 2018-08-24,7000,Bezhotovostní příjem,Jan Suchý,suchy jan- stan brno-bystrc,308,12121965,252051518,Jan Suchý,stan
 2018-08-23,17867,Bezhotovostní příjem,Černý Jiří,DAR VPM CHEB,308,27111969,0,Černý Jiří,stan
@@ -1067,13 +1067,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-23,1000,Bezhotovostní příjem,HAVLÍNOVÁ IVANA,"DAR, Ivana Havlínová, 11.11.1967, Český Brod",,11111967,237033718,HAVLÍNOVÁ IVANA,stan
 2018-08-23,8200,Bezhotovostní příjem,"Kubečka Jaroslav,Mgr","DAR, Jaroslav Kubečka, 29. 9. 1950,Roztoky u Prahy",0,29091950,236033618,"Kubečka Jaroslav,Mgr",stan
 2018-08-23,10000,Bezhotovostní příjem,Haut Radek,Dar Hautova 3.1.1971 jihlava,0,311971,220101218,Haut Radek,stan
-2018-08-23,100000,Bezhotovostní příjem,GEOSAN DEVELOPMENT s,SPONZORSKÝ DAR,308,3593541,205044118,GEOSAN DEVELOPMENT s,stan
+2018-08-23,1e+05,Bezhotovostní příjem,GEOSAN DEVELOPMENT s,SPONZORSKÝ DAR,308,3593541,205044118,GEOSAN DEVELOPMENT s,stan
 2018-08-23,10000,Bezhotovostní příjem,ING.LUBOS KLOUDA,"DAR ,ING. LUBOŠ KLOUDA, 24.2.1943,PRAHA",,24021943,218044218,ING.LUBOS KLOUDA,stan
-2018-08-22,100000,Bezhotovostní příjem,Grygar Josef,"DAR, Josef Grygar, 29.6.1938, Brno",0,380629464,185112418,Grygar Josef,stan
+2018-08-22,1e+05,Bezhotovostní příjem,Grygar Josef,"DAR, Josef Grygar, 29.6.1938, Brno",0,380629464,185112418,Grygar Josef,stan
 2018-08-22,15000,Bezhotovostní příjem,STROJOSVIT a.s.,DAR    STROJOSVIT a.s. Krnov,0,25824813,131050118,STROJOSVIT a.s.,stan
 2018-08-22,17300,Bezhotovostní příjem,"Vojtíšek Miloš,MPA","dar, Milos Vojtisek, 15.7.1988, Brandys and Labem - St. Boleslav",0,15071988,226033518,"Vojtíšek Miloš,MPA",stan
 2018-08-22,5000,Bezhotovostní příjem,"Dvořák Karel,Mgr.","DAR, Karel Dvořák, 1. 7. 1986, Praha 4",0,1071986,231045018,"Dvořák Karel,Mgr.",stan
-2018-08-21,200000,Platba převodem uvnitř banky,Občanská demokratická strana,"DAR, ODS",558,16192656,196271118,"DAR, ODS",stan
+2018-08-21,2e+05,Platba převodem uvnitř banky,Občanská demokratická strana,"DAR, ODS",558,16192656,196271118,"DAR, ODS",stan
 2018-08-21,3000,Bezhotovostní příjem,KMOCH LUBOMIR,prispevek Lubomir Kmoch,308,6708040691,192043518,KMOCH LUBOMIR,stan
 2018-08-21,5833,Bezhotovostní příjem,STUDIO ALEŠ S.R.O.,dar studio ales s.r.o.,0,3872076,223033318,STUDIO ALEŠ S.R.O.,stan
 2018-08-21,5000,Bezhotovostní příjem,"PENTA JIHLAVA, SPOL.","DAR pro FORUM JIHLAVA od PENTY JIHLAVA,spol.s r.o.",308,18199003,211100818,"PENTA JIHLAVA, SPOL.",stan
@@ -1085,7 +1085,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-17,15500,Bezhotovostní příjem,MICHL MAREK,DAR Marek Michl 07 07 1973 Nymburk,8,7071973,225033418,MICHL MAREK,stan
 2018-08-16,50000,Platba převodem uvnitř banky,FAYN Telecommunications s.r.o.,"Dar, FAYN Telecommunications",,26761050,102270818,"Dar, FAYN Telecommunications",stan
 2018-08-16,3000,Platba převodem uvnitř banky,"Suchý, Jan","Dar volby 2018 Jan Suchý, Praha 11,JM",558,25051949,202043818,"Dar volby 2018 Jan Suchý, Praha 11,JM",stan
-2018-08-16,200000,Bezhotovostní příjem,GAZDÍK PETR,,,,232011818,GAZDÍK PETR,stan
+2018-08-16,2e+05,Bezhotovostní příjem,GAZDÍK PETR,,,,232011818,GAZDÍK PETR,stan
 2018-08-16,8000,Bezhotovostní příjem,MACCO ORGANIQUES S.R,dar,308,26819210,171050618,MACCO ORGANIQUES S.R,stan
 2018-08-16,10000,Bezhotovostní příjem,JAKUB NOSEK,"DAR, Jakub Nosek, 28.9.2018, Praha",0,5410924,189043218,JAKUB NOSEK,stan
 2018-08-15,7000,Platba převodem uvnitř banky,"Bc. Juhová, Eva","Juhová Eva, dar",,23041987,,"Juhová Eva, dar",stan
