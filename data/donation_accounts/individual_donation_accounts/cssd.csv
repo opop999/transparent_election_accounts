@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-19,4120,Okamžitá příchozí platba,ŠÍROVÁ ALENA,"dar ve prospech cssd, alena sirova, 13.8.1968",,13081968,,ŠÍROVÁ ALENA,cssd
 2021-09-16,-15000,Okamžitá odchozí platba,"","ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",cssd
 2021-09-16,-5000,Okamžitá odchozí platba,"","ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",cssd
 2021-09-16,-1970,Platba převodem uvnitř banky,"","převod daru, Roman Onderka, pro potřeby Brno město",,,,"převod daru, Roman Onderka, pro potřeby Brno město",cssd

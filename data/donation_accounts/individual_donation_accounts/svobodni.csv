@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-19,200,Okamžitá příchozí platba,Vogel Jan,DAR PRIZNIVCE,0,9370,,Vogel Jan,svobodni
 2021-09-17,250,Okamžitá příchozí platba,Marek Lahovský,DAR,,82032,,Marek Lahovský,svobodni
 2021-09-16,2500,Platba převodem uvnitř banky,"Mgr. Marutová, Jarmila",Dar,,82031,,Dar,svobodni
 2021-09-16,-2e+05,Platba převodem uvnitř banky,"","Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni

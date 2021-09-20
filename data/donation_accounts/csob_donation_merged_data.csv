@@ -18,16 +18,16 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-09-14,1719,Příchozí úhrada,SEKERAKOVA YVETA,151653156,300,Yveta Sekeráková - finanční dar,,38106,,CZK,kscm
 2021-09-14,6800,Příchozí úhrada,NEVORAL MAREK,153867035,600,Nevoral Marek- finanční dar,2018,760308,36100,CZK,kscm
 2021-09-13,1875,Příchozí úhrada,LEICHTEROVA HELENA,198919855,300,Helena Leichterova - dar (8/2021),,,,CZK,kscm
-2021-09-13,35000,Okamžitá úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,9,,,CZK,kscm
-2021-09-13,118157,Okamžitá úhrada,Leo Luzar,1174591028,3030,Leo Luzar finančni dar,8,38100,,CZK,kscm
-2021-09-13,15615,Okamžitá úhrada,Leo Luzar,1174591028,3030,Leo Luzar finančni dar,8,38100,,CZK,kscm
-2021-09-13,-25000,Odchozí úhrada,KSČM,217343303,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
-2021-09-13,415,Příchozí úhrada,Borka Jaroslav,346060123,800,"Jaroslav Borka, Karlovy Vary - finanční dar",0,0,34102,CZK,kscm
-2021-09-13,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
-2021-09-13,2527,Příchozí úhrada,KUBEŠ PETR,435069260217,100,Petr Kubeš - finanční dar,0,,,CZK,kscm
-2021-09-13,300,Příchozí úhrada,Mandát Stanislav,2110143722,2700,Mandát Stanislav -finanční dar,4202,,,CZK,kscm
-2021-09-13,2572,Příchozí úhrada,Tomáš Zíka,2070974002,5500,finanční dar,0,34200,,CZK,kscm
 2021-09-13,25000,Okamžitá úhrada,JUDr. Jozef Rozsár,7779524001,5500,Finanční dar,,610305,610305,CZK,kscm
+2021-09-13,2572,Příchozí úhrada,Tomáš Zíka,2070974002,5500,finanční dar,0,34200,,CZK,kscm
+2021-09-13,300,Příchozí úhrada,Mandát Stanislav,2110143722,2700,Mandát Stanislav -finanční dar,4202,,,CZK,kscm
+2021-09-13,2527,Příchozí úhrada,KUBEŠ PETR,435069260217,100,Petr Kubeš - finanční dar,0,,,CZK,kscm
+2021-09-13,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
+2021-09-13,415,Příchozí úhrada,Borka Jaroslav,346060123,800,"Jaroslav Borka, Karlovy Vary - finanční dar",0,0,34102,CZK,kscm
+2021-09-13,-25000,Odchozí úhrada,KSČM,217343303,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
+2021-09-13,15615,Okamžitá úhrada,Leo Luzar,1174591028,3030,Leo Luzar finančni dar,8,38100,,CZK,kscm
+2021-09-13,118157,Okamžitá úhrada,Leo Luzar,1174591028,3030,Leo Luzar finančni dar,8,38100,,CZK,kscm
+2021-09-13,35000,Okamžitá úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,9,,,CZK,kscm
 2021-09-11,652,Příchozí úhrada,SEFCIK ZBYNEK,5409075,300,"Zbyněk Šefčík, Plzeň -finanční dar",,,33203,CZK,kscm
 2021-09-10,-8000,Odchozí úhrada,,803600173,800,nespecifikovaný plátce,0,38106,,CZK,kscm
 2021-09-10,3000,Příchozí úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,308,,0,CZK,kscm

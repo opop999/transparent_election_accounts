@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-19,30000,Okamžitá příchozí platba,VÉVODOVÁ LIBUŠE,Volební kampaň Pirátů a Starostů Pardubického kraje,308,44013250,193080,VÉVODOVÁ LIBUŠE,pirati
+2021-09-19,5000,Okamžitá příchozí platba,Eugen Liška,DAR 44016182/193000,,44016182,193000,Eugen Liška,pirati
+2021-09-19,5000,Okamžitá příchozí platba,MACÍČEK MIROSLAV,DAR 44016179/193000,,44016179,193000,MACÍČEK MIROSLAV,pirati
+2021-09-19,3000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",Olga Richterová,,9001650,,Olga Richterová,pirati
+2021-09-19,500,Platba převodem uvnitř banky,DTPak.cz s.r.o.,"",,83850,1,"",pirati
 2021-09-18,10000,Okamžitá příchozí platba,Mgr.Machová Eva,"Eva Machová, Olomouc",0,44016170,193030,Mgr.Machová Eva,pirati
 2021-09-17,20000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",DAR 44015657/193010,,44015657,193010,DAR 44015657/193010,pirati
 2021-09-17,50000,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch",Vojtěch Pikal - Volební kampaň Pirátů a Starostů Olomouckého kraje,558,44015536,193030,Vojtěch Pikal - Volební kampaň Pirátů a Starostů Olomouckého kraje,pirati

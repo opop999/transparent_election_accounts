@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-19,2000,Okamžitá příchozí platba,Boudník Jan,dar,0,234567,,Boudník Jan,trikolora
+2021-09-19,36300,Okamžitá příchozí platba,Jan Hyťha,MGR. TEREZA HYŤHOVÁ - DAR PRO ÚSTECKÝ KRAJ,,1131313,,Jan Hyťha,trikolora
+2021-09-19,5000,Okamžitá příchozí platba,"Otevřel Marek,Ph.D.",DAR,0,234567,,"Otevřel Marek,Ph.D.",trikolora
 2021-09-18,500,Okamžitá příchozí platba,Lenka Hodo,dar Lenka Hodo,,234567,,Lenka Hodo,trikolora
 2021-09-18,5000,Okamžitá příchozí platba,Ing.Provazník Michal,DAR,0,123456,,Ing.Provazník Michal,trikolora
 2021-09-18,500,Okamžitá příchozí platba,Ing.Otrusina Aleš,DAR,0,123456,,Ing.Otrusina Aleš,trikolora

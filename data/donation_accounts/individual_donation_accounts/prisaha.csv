@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-19,1000,Okamžitá příchozí platba,RAZÍMOVÁ MILADA,Dar hnutí,,,,RAZÍMOVÁ MILADA,prisaha
+2021-09-19,2000,Okamžitá příchozí platba,RYBÁŘ PAVEL,dar hnutí Přísaha,,5812090559,,RYBÁŘ PAVEL,prisaha
+2021-09-19,1000,Platba převodem uvnitř banky,"Mgr. Kouřil, Jan",Dar hnutí Zlín,,,,Dar hnutí Zlín,prisaha
 2021-09-18,1000,Okamžitá příchozí platba,Volná Radka,dar hnutí,0,,,Volná Radka,prisaha
 2021-09-18,1000,Okamžitá příchozí platba,Volný Jiří,dar hnutí,0,,,Volný Jiří,prisaha
 2021-09-17,190000,Okamžitá příchozí platba,Jiří Tryner,Dar,,,,Jiří Tryner,prisaha
