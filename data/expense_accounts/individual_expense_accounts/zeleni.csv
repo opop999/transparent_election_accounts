@@ -29,7 +29,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-09,-1391.5,Bezhotovostní platba,,"FA VFA2101063 - plakáty, grafické zpracování",308,2101063,42,"ÚLK - Tiskárna AKORD Chomutov, s.r.o.",zeleni
 2021-09-09,-25000,Bezhotovostní platba,,FA 210028 - poradenství a služby Public & media relations,,210028,,SZ - Svatopluk Bartík,zeleni
 2021-09-09,-7438,Bezhotovostní platba,,FA 20210019 - tajemnice KO JMK 2021/08,308,20210019,64,JMK - Lenka Zemanová,zeleni
-2021-09-09,200000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-09-09,2e+05,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-09-09,1391.5,Platba převodem uvnitř banky,Strana zelených,převod darů ÚLK z darového účtu na volební účet SZ - volby do PS PČR 2021,,2101063,42,převod darů ÚLK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-09-09,7438,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,20210019,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-09-09,6477,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,1210458,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
@@ -85,7 +85,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-18,-2420,Karetní transakce,,"Nákup: FACEBK *N2QXD63KK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *N2QXD63KK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.8.2021, částka  2420.00 CZK",zeleni
 2021-08-17,23934,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-08-17,20000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OLK na volební účet SZ - volby do PS PČR 2021,,1,71,vklad do kampaně,zeleni
-2021-08-17,200000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-08-17,2e+05,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-08-17,2464,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ZLK na volební účet SZ- volby do PS PČR 2021,,21082415,72,Převod prostředků KO ZLK na volební účet SZ- volby do PS PČR 2021,zeleni
 2021-08-16,6589,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,1022706,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-08-16,-2420,Karetní transakce,,"Nákup: FACEBK *FX3TK5PJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.8.2021, částka  2420.00 CZK",,6211,,"Nákup: FACEBK *FX3TK5PJK2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.8.2021, částka  2420.00 CZK",zeleni
@@ -124,7 +124,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-13,-25000,Bezhotovostní platba,,FA 210020 - poradenství a služby Public and media relations,,210020,,SZ - Svatopluk Bartík,zeleni
 2021-07-13,-41500,Bezhotovostní platba,,"FA 2021 - kreativa, organizace kampaně",,2021,,SZ - Robin Kvapil,zeleni
 2021-07-13,-12923,Bezhotovostní platba,,ZF 2121000399 - tisk opozičních novin Praha 2,,2121000399,500089,"ZO P2 - Vltava Labe media, a. s.",zeleni
-2021-07-13,200000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-07-13,2e+05,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-07-02,30000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JČK na volební účet SZ - volby do PS PČR 2021,,,31,Převod prostředků KO JČK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-06-08,-5000,Bezhotovostní platba,,FA 2021003 - marketingové poradenství,,2021003,42,ÚLK - Jan Panocha,zeleni
 2021-06-08,5000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni

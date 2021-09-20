@@ -2,11 +2,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-19,200,Okamžitá příchozí platba,Vogel Jan,DAR PRIZNIVCE,0,9370,,Vogel Jan,svobodni
 2021-09-17,250,Okamžitá příchozí platba,Marek Lahovský,DAR,,82032,,Marek Lahovský,svobodni
 2021-09-16,2500,Platba převodem uvnitř banky,"Mgr. Marutová, Jarmila",Dar,,82031,,Dar,svobodni
-2021-09-16,-200000,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
+2021-09-16,-2e+05,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
 2021-09-16,1000,Platba převodem uvnitř banky,"Provazník, Milan",Dar,,82030,,Dar,svobodni
 2021-09-15,500,Platba převodem uvnitř banky,"Ing. Ptáček, Jiří",DAR,,82029,,DAR,svobodni
 2021-09-15,250,Bezhotovostní příjem,JIRI MIKES,DAR,,82028,,JIRI MIKES,svobodni
-2021-09-14,-500000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-09-14,-5e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-09-13,1000,Bezhotovostní příjem,JOSEF HRUZA,DAR PRIZNIVCE,,9368,,JOSEF HRUZA,svobodni
 2021-09-11,1000,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR na kampan za svobodu,,82020,,MACHÁČEK VÍT,svobodni
 2021-09-10,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82027,,VASICEK ONDREJ,svobodni
@@ -17,22 +17,22 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-07,200,Okamžitá příchozí platba,Pavel Hřebačka,DAR PRIZNIVCE,,2784,,Pavel Hřebačka,svobodni
 2021-09-06,500,Okamžitá příchozí platba,Baroch Robert,dar priznivce,0,9365,,Baroch Robert,svobodni
 2021-09-06,1000,Bezhotovostní příjem,Jan Skalák,DAR    Skalák Jan,,,,Jan Skalák,svobodni
-2021-09-04,-500000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-09-04,-5e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-09-01,1000,Platba převodem uvnitř banky,"Šálek, Ondřej",dar,,82024,,dar,svobodni
 2021-08-31,1000,Bezhotovostní příjem,Jan Skalák,DAR PŘÍZNIVCE,,,,Jan Skalák,svobodni
 2021-08-29,500,Okamžitá příchozí platba,Kufa Jan,DAR PRIZNIVCE,0,3897,,Kufa Jan,svobodni
 2021-08-27,-50000,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
 2021-08-27,20000,Okamžitá příchozí platba,MUDr.Janišová Olga,Dar,0,82023,,MUDr.Janišová Olga,svobodni
-2021-08-25,-500000,Platba převodem uvnitř banky,,,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-08-25,-5e+05,Platba převodem uvnitř banky,,,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-08-24,2021,Bezhotovostní příjem,Martin Žabka,DAR PRIZNIVCE,,7536,,Martin Žabka,svobodni
 2021-08-23,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82022,,VASICEK ONDREJ,svobodni
 2021-08-23,500,Bezhotovostní příjem,Řihák Hynek,DAR,,82021,,Řihák Hynek,svobodni
 2021-08-22,200,Platba převodem uvnitř banky,"Klabanová Junková, Martina",příspěvek příznivce Martina Klabanová Junková,,9361,,příspěvek příznivce Martina Klabanová Junková,svobodni
 2021-08-21,200,Platba převodem uvnitř banky,"Káňová, Jana",dar priznivce,,7971,,dar priznivce,svobodni
-2021-08-20,-100000,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
-2021-08-20,-100000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-08-20,-1e+05,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
+2021-08-20,-1e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-08-17,-10000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
-2021-08-16,-100000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-08-16,-1e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-08-16,-8000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-08-15,500,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR na kampan za svobodu,,82020,,MACHÁČEK VÍT,svobodni
 2021-08-12,-50000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
@@ -41,8 +41,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-06,5000,Bezhotovostní příjem,ERIK MARECEK,DAR PRIZNIVCE,,9355,,ERIK MARECEK,svobodni
 2021-08-06,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
 2021-08-05,5000,Bezhotovostní příjem,ACTIV Z.S.,Dar pro Svobodní Jihočeský kraj,0,82019,0,ACTIV Z.S.,svobodni
-2021-08-02,500000,Platba převodem uvnitř banky,"Ing. Skalický, Jan",Dar pro Jihočeský kraj,,82016,,Dar pro Jihočeský kraj,svobodni
-2021-08-02,500000,Bezhotovostní příjem,PAVLÍČEK SLAVOMÍR,Dar Jihocesky kraj,0,82015,0,PAVLÍČEK SLAVOMÍR,svobodni
+2021-08-02,5e+05,Platba převodem uvnitř banky,"Ing. Skalický, Jan",Dar pro Jihočeský kraj,,82016,,Dar pro Jihočeský kraj,svobodni
+2021-08-02,5e+05,Bezhotovostní příjem,PAVLÍČEK SLAVOMÍR,Dar Jihocesky kraj,0,82015,0,PAVLÍČEK SLAVOMÍR,svobodni
 2021-08-01,100,Okamžitá příchozí platba,JAKUB GREGOR,dar příznivce,0,8158,0,JAKUB GREGOR,svobodni
 2021-07-28,-50000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-07-26,-50000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR (na výdaj krajské kampaně JČK),,,,převod prostředků na výdajový účet volební kampaně do PSP ČR (na výdaj krajské kampaně JČK),svobodni
@@ -59,13 +59,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-12,200,Okamžitá příchozí platba,Hlaváč Jaroslav,Příspěvek příznivce Jaroslav Hlaváč,,9341,,Hlaváč Jaroslav,svobodni
 2021-07-12,100,Okamžitá příchozí platba,ŠVANCAR RADEK,příspěvek příznivce Radek Švancar,,9337,,ŠVANCAR RADEK,svobodni
 2021-07-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
-2021-07-10,-200000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-07-10,-2e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-07-08,100,Okamžitá příchozí platba,Ing.Nepovím Zadinová,,0,9339,,Ing.Nepovím Zadinová,svobodni
 2021-07-08,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
 2021-07-06,500,Okamžitá příchozí platba,Petr Žížek,Příspěvek příznivce Petr Žížek,,9336,,Petr Žížek,svobodni
 2021-07-02,-1250000,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
 2021-07-01,-40000,Platba převodem uvnitř banky,,Převod na účet pracovně právní platby,,,,Převod na účet pracovně právní platby,svobodni
-2021-06-28,100000,Bezhotovostní příjem,MIROSLAV HAVRDA - ME,DAR,,82010,,MIROSLAV HAVRDA - ME,svobodni
+2021-06-28,1e+05,Bezhotovostní příjem,MIROSLAV HAVRDA - ME,DAR,,82010,,MIROSLAV HAVRDA - ME,svobodni
 2021-06-26,1000,Okamžitá příchozí platba,"Mareček Petr,DiS.",dar priznivce,0,9274,,"Mareček Petr,DiS.",svobodni
 2021-06-25,1000,Platba převodem uvnitř banky,"Vantroba, Štefan",příspěvek příznivce Štefan Vantroba,,9333,,příspěvek příznivce Štefan Vantroba,svobodni
 2021-06-24,990,Okamžitá příchozí platba,Otevřel Ivan,Dar,0,82009,,Otevřel Ivan,svobodni
@@ -82,13 +82,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-08,1000,Okamžitá příchozí platba,Pavel Tieff,DAR,,82006,,Pavel Tieff,svobodni
 2021-06-08,100,Okamžitá příchozí platba,Bc. Tomáš Klein,DAR,,2920,,Bc. Tomáš Klein,svobodni
 2021-06-08,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
-2021-06-08,1000000,Bezhotovostní příjem,VALENTA IVO,DAR,308,82004,0,VALENTA IVO,svobodni
+2021-06-08,1e+06,Bezhotovostní příjem,VALENTA IVO,DAR,308,82004,0,VALENTA IVO,svobodni
 2021-06-06,100,Okamžitá příchozí platba,JIRÁČEK FRANTIŠEK,DAR PRIZNIVCE,,9326,,JIRÁČEK FRANTIŠEK,svobodni
 2021-06-03,500,Okamžitá příchozí platba,Vladimíra Roiderová,DAR,,82005,,Vladimíra Roiderová,svobodni
 2021-06-01,1000,Okamžitá příchozí platba,"Bravenec Jiří,Ing.",DAR,0,82002,,"Bravenec Jiří,Ing.",svobodni
 2021-05-31,300,Bezhotovostní příjem,PECHAN LUKAS,,,9323,,PECHAN LUKAS,svobodni
 2021-05-31,500,Bezhotovostní příjem,KARYCHOVÁ YVONA,,308,5647,0,KARYCHOVÁ YVONA,svobodni
-2021-05-28,-200000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PS ČR,,,,převod prostředků na výdajový účet volební kampaně do PS ČR,svobodni
+2021-05-28,-2e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PS ČR,,,,převod prostředků na výdajový účet volební kampaně do PS ČR,svobodni
 2021-05-27,999,Okamžitá příchozí platba,Robert Schlesinger,DAR,,82001,,Robert Schlesinger,svobodni
 2021-05-25,100,Okamžitá příchozí platba,Bublan Jiří,příspěvek příznivce Jiří Bublan,0,9321,,Bublan Jiří,svobodni
 2021-05-25,300,Okamžitá příchozí platba,"Mareček Petr,DiS.",dar priznivce,0,9274,,"Mareček Petr,DiS.",svobodni
@@ -167,7 +167,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-03-26,500,Okamžitá příchozí platba,DOČEKAL JOSEF,dar,,81992,,DOČEKAL JOSEF,svobodni
 2021-03-25,500,Platba převodem uvnitř banky,"Kolek, Adam",DAR PRIZNIVCE,,9282,,DAR PRIZNIVCE,svobodni
 2021-03-25,200,Bezhotovostní příjem,Řihák Hynek,příspěvek příznivce Hynek Řihák,,9280,,Řihák Hynek,svobodni
-2021-03-24,100000,Platba převodem uvnitř banky,"Rathouský, Václav",Dar,,81991,,Dar,svobodni
+2021-03-24,1e+05,Platba převodem uvnitř banky,"Rathouský, Václav",Dar,,81991,,Dar,svobodni
 2021-03-23,100,Bezhotovostní příjem,Voborník Petr,DAR PRIZNIVCE,,4097,,Voborník Petr,svobodni
 2021-03-22,100,Okamžitá příchozí platba,Kovář Vojtěch,příspěvek příznivce Oxana Kovářová,0,9276,,Kovář Vojtěch,svobodni
 2021-03-22,100,Okamžitá příchozí platba,Vogel Jakub,DAR PRIZNIVCE,0,9277,,Vogel Jakub,svobodni
@@ -333,7 +333,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-12-22,1000,Bezhotovostní příjem,DĚDIČ MARTIN,DAR PŘÍZNIVCE 2021,0,5639,0,DĚDIČ MARTIN,svobodni
 2020-12-22,300,Bezhotovostní příjem,Mgr.Wolfsberg Adam P,Dar pro JMK,0,0,0,Mgr.Wolfsberg Adam P,svobodni
 2020-12-21,200,Okamžitá příchozí platba,Lipský Jiří,dar příznivce,0,5318,,Lipský Jiří,svobodni
-2020-12-20,-100000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet průběžné volební kampaně,,,,převod prostředků na výdajový účet průběžné volební kampaně,svobodni
+2020-12-20,-1e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet průběžné volební kampaně,,,,převod prostředků na výdajový účet průběžné volební kampaně,svobodni
 2020-12-19,16938,Okamžitá příchozí platba,Radim Smetka,DAR,,81967,,Radim Smetka,svobodni
 2020-12-18,500,Bezhotovostní příjem,DAGMAR ZIGACKOVA,PŘÍSPĚVEK PŘÍZNIVCE DAGMAR ZIGACKOVA,,9202,,DAGMAR ZIGACKOVA,svobodni
 2020-12-17,200,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar příspěvek příznivce,,2194,,Dar příspěvek příznivce,svobodni
@@ -513,17 +513,17 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-05,-50000,Platba převodem uvnitř banky,,bonus ReV za postup do druhého kola,,71339612,15,bonus ReV za postup do druhého kola,svobodni
 2020-10-04,5000,Platba převodem uvnitř banky,"Hanek, Felix",DAR Chalupský,,81945,,DAR Chalupský,svobodni
 2020-10-01,-8000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně Krajské volby koalice Soukromnici a Svobodni,,,,převod prostředků na výdajový účet volební kampaně Krajské volby koalice Soukromnici a Svobodni,svobodni
-2020-09-30,-600000,Platba převodem uvnitř banky,,převod prostředků na volební účet kampaně do Senátu,,81941,30,převod prostředků na volební účet kampaně do Senátu,svobodni
-2020-09-30,600000,Bezhotovostní příjem,SHIMON SHABI S.R.O.,DAR SENAT BOHBOT,0,81941,,SHIMON SHABI S.R.O.,svobodni
+2020-09-30,-6e+05,Platba převodem uvnitř banky,,převod prostředků na volební účet kampaně do Senátu,,81941,30,převod prostředků na volební účet kampaně do Senátu,svobodni
+2020-09-30,6e+05,Bezhotovostní příjem,SHIMON SHABI S.R.O.,DAR SENAT BOHBOT,0,81941,,SHIMON SHABI S.R.O.,svobodni
 2020-09-29,1000,Bezhotovostní příjem,FILIP VALTR,DAR REGISTROVANÉHO PŘÍZNIVCE,,81944,,FILIP VALTR,svobodni
 2020-09-29,1180,Bezhotovostní příjem,STANOVSKÝ VÍTĚZSLAV,DAR,0,81943,0,STANOVSKÝ VÍTĚZSLAV,svobodni
 2020-09-29,8000,Bezhotovostní příjem,JAROLIMEK OTTO,DAR VOLBY LBC KRAJ O.J.,0,68260458,,JAROLIMEK OTTO,svobodni
 2020-09-26,100,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",zkušební dar pro koalici Soukromníci a Svobodní s přáním úspěchu,,1728,,zkušební dar pro koalici Soukromníci a Svobodní s přáním úspěchu,svobodni
 2020-09-26,-10000,Platba převodem uvnitř banky,,"převod prostředků na výdajový účet volební kampaně koalice Soukromnici a Svobodní, krajské volby",,,,"převod prostředků na výdajový účet volební kampaně koalice Soukromnici a Svobodní, krajské volby",svobodni
-2020-09-25,-600000,Bezhotovostní platba,,"Diky, ale nesmime prijmout platbu neoznacenou slovem ""DAR"". Proto vracime. Svobodni",,81941,,"Diky, ale nesmime prijmout platbu neoznacenou slovem ""DAR"". Proto vracime. Svobodni",svobodni
+2020-09-25,-6e+05,Bezhotovostní platba,,"Diky, ale nesmime prijmout platbu neoznacenou slovem ""DAR"". Proto vracime. Svobodni",,81941,,"Diky, ale nesmime prijmout platbu neoznacenou slovem ""DAR"". Proto vracime. Svobodni",svobodni
 2020-09-25,1000,Platba převodem uvnitř banky,"Procházka, Aleš",Dar - pro Jihočeský kraj,,81942,,Dar - pro Jihočeský kraj,svobodni
 2020-09-25,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
-2020-09-25,600000,Bezhotovostní příjem,SHIMON SHABI S.R.O.,,,81941,,SHIMON SHABI S.R.O.,svobodni
+2020-09-25,6e+05,Bezhotovostní příjem,SHIMON SHABI S.R.O.,,,81941,,SHIMON SHABI S.R.O.,svobodni
 2020-09-24,360,Platba převodem uvnitř banky,"Ing. Pelán, Jaroslav",DAR pro Středočeský kraj,,2170,,DAR pro Středočeský kraj,svobodni
 2020-09-23,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
 2020-09-23,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
@@ -566,7 +566,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-07,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
 2020-08-06,400,Bezhotovostní příjem,Ing. Jiří Široký,Dar pro JMK,0,12635,,Ing. Jiří Široký,svobodni
 2020-08-04,400,Bezhotovostní příjem,FILIP VALTR,DAR,,81929,,FILIP VALTR,svobodni
-2020-07-29,-500000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně Krajské volby,,,,převod prostředků na výdajový účet volební kampaně Krajské volby,svobodni
+2020-07-29,-5e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně Krajské volby,,,,převod prostředků na výdajový účet volební kampaně Krajské volby,svobodni
 2020-07-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2020-07-23,300,Bezhotovostní příjem,MASADA SECURITY SOLU,příspěvek příznivce David Bohbot,0,9163,0,MASADA SECURITY SOLU,svobodni
 2020-07-23,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
@@ -577,7 +577,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-17,100,Okamžitá příchozí platba,Lukáš Kroček,příspěvek příznivce Lukáš Kroček,,9159,,Lukáš Kroček,svobodni
 2020-07-16,100,Bezhotovostní příjem,OVESNÝ PAVEL,DAR PRO JMK,0,5772,0,OVESNÝ PAVEL,svobodni
 2020-07-15,1500,Bezhotovostní příjem,Baláš Marek,Dar pro Zlinsky kraj,0,16182,0,Baláš Marek,svobodni
-2020-07-13,-100000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do Senátu PS ČR,,,,převod prostředků na výdajový účet volební kampaně do Senátu PS ČR,svobodni
+2020-07-13,-1e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do Senátu PS ČR,,,,převod prostředků na výdajový účet volební kampaně do Senátu PS ČR,svobodni
 2020-07-10,100,Bezhotovostní příjem,Nespěšná Plašilová Z,Dar - správa fb,0,5767,,Nespěšná Plašilová Z,svobodni
 2020-07-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
 2020-07-08,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
@@ -601,7 +601,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-10,100,Bezhotovostní příjem,Nespěšná Plašilová Z,Dar - správa fb,0,5767,,Nespěšná Plašilová Z,svobodni
 2020-06-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
 2020-06-08,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
-2020-05-30,-200000,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně Krajské volby,,,,převod prostředků na výdajový účet volební kampaně Krajské volby,svobodni
+2020-05-30,-2e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně Krajské volby,,,,převod prostředků na výdajový účet volební kampaně Krajské volby,svobodni
 2020-05-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2020-05-26,55000,Platba převodem uvnitř banky,"Jahodová, Natálie",Dar na krajskou kampaň pro jihočeský kraj,,,,Dar na krajskou kampaň pro jihočeský kraj,svobodni
 2020-05-25,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
@@ -865,7 +865,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-04,500,Bezhotovostní příjem,Dominik Hrubý,DAR na pronájem prostor pro zasedání ReV,,81915,,Dominik Hrubý,svobodni
 2019-11-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2019-11-25,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
-2019-11-22,-100000,Platba převodem uvnitř banky,,Převod peněz na provozní účet (2100382818),,,,Převod peněz na provozní účet (2100382818),svobodni
+2019-11-22,-1e+05,Platba převodem uvnitř banky,,Převod peněz na provozní účet (2100382818),,,,Převod peněz na provozní účet (2100382818),svobodni
 2019-11-22,125000,Bezhotovostní příjem,MF,,6418,199072019,0,MF,svobodni
 2019-11-22,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
 2019-11-20,200,Bezhotovostní příjem,Filip Marvan,dar pro JMK,,13894,,Filip Marvan,svobodni
@@ -890,13 +890,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-10-16,100,Bezhotovostní příjem,OVESNÝ PAVEL,DAR PRO JMK,0,0,0,OVESNÝ PAVEL,svobodni
 2019-10-15,1500,Bezhotovostní příjem,Baláš Marek,Dar pro Zlinsky kraj,0,16182,0,Baláš Marek,svobodni
 2019-10-15,300,Platba převodem uvnitř banky,"Mgr. Němeček, David",Dar pro JMK,,,,Dar pro JMK,svobodni
-2019-10-14,-100000,Platba převodem uvnitř banky,,Převod peněz na účet permanentní kampaň,,,,Převod peněz na účet permanentní kampaň,svobodni
+2019-10-14,-1e+05,Platba převodem uvnitř banky,,Převod peněz na účet permanentní kampaň,,,,Převod peněz na účet permanentní kampaň,svobodni
 2019-10-14,150,Bezhotovostní příjem,Josef Sekava,Dar - správa fb,,,,Josef Sekava,svobodni
 2019-10-11,300,Bezhotovostní příjem,ALOIS SECKAR,DAR PRO KRAJ PRAHA - NA POBOČKU PRAHA 4,,14039,,ALOIS SECKAR,svobodni
 2019-10-10,100,Bezhotovostní příjem,Nespěšná Plašilová Z,Dar - správa fb,0,,,Nespěšná Plašilová Z,svobodni
 2019-10-08,125000,Bezhotovostní příjem,MF,,6418,158352019,0,MF,svobodni
 2019-10-08,-10000,Platba převodem uvnitř banky,,Převod na účet pracovně právní platby,,,,Převod na účet pracovně právní platby,svobodni
-2019-10-08,-100000,Platba převodem uvnitř banky,,Převod peněz na provozní účet (2100382818),,,,Převod peněz na provozní účet (2100382818),svobodni
+2019-10-08,-1e+05,Platba převodem uvnitř banky,,Převod peněz na provozní účet (2100382818),,,,Převod peněz na provozní účet (2100382818),svobodni
 2019-10-08,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
 2019-10-07,400,Bezhotovostní příjem,Ing. Jiří Široký,Dar pro JMK,0,12635,,Ing. Jiří Široký,svobodni
 2019-09-30,31250,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,mandáty Svobodní II.Q,0,201902,0,STRANA SOUKROMNÍKŮ Č,svobodni
@@ -925,7 +925,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-08-23,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
 2019-08-23,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
 2019-08-22,300,Bezhotovostní příjem,"Trcala Adam,Mgr.",Dar pro JMK,0,0,0,"Trcala Adam,Mgr.",svobodni
-2019-08-20,-100000,Platba převodem uvnitř banky,,Převod na účet permanentní kampaň,,,,Převod na účet permanentní kampaň,svobodni
+2019-08-20,-1e+05,Platba převodem uvnitř banky,,Převod na účet permanentní kampaň,,,,Převod na účet permanentní kampaň,svobodni
 2019-08-20,200,Bezhotovostní příjem,Filip Marvan,dar pro JMK,,13894,,Filip Marvan,svobodni
 2019-08-19,150,Bezhotovostní příjem,Josef Sekava,Dar - správa fb,,,,Josef Sekava,svobodni
 2019-08-16,100,Bezhotovostní příjem,OVESNÝ PAVEL,DAR PRO JMK,0,0,0,OVESNÝ PAVEL,svobodni
@@ -970,7 +970,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-06-21,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
 2019-06-20,200,Bezhotovostní příjem,Filip Marvan,dar pro JMK,,13894,,Filip Marvan,svobodni
 2019-06-18,-50000,Platba převodem uvnitř banky,,Převod na účet kampaň EP 2019,,,,Převod na účet kampaň EP 2019,svobodni
-2019-06-17,-100000,Platba převodem uvnitř banky,,Převod na volební účet EP 2019,,,,Převod na účet kampaň EP 2019,svobodni
+2019-06-17,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet EP 2019,,,,Převod na účet kampaň EP 2019,svobodni
 2019-06-17,1500,Bezhotovostní příjem,Baláš Marek,Dar pro Zlinsky kraj,0,16182,0,Baláš Marek,svobodni
 2019-06-17,100,Bezhotovostní příjem,OVESNÝ PAVEL,DAR PRO JMK,0,0,0,OVESNÝ PAVEL,svobodni
 2019-06-15,300,Platba převodem uvnitř banky,"Mgr. Němeček, David",Dar pro JMK,,,,Dar pro JMK,svobodni
@@ -990,24 +990,24 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-06-06,-20000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-06-06,400,Bezhotovostní příjem,Ing. Jiří Široký,Dar pro JMK,0,12635,,Ing. Jiří Široký,svobodni
 2019-06-03,-10000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
-2019-06-03,-200000,Platba převodem uvnitř banky,,Převod na účet pracovně právní platby,,,,Převod na volební účet - EP 2019,svobodni
+2019-06-03,-2e+05,Platba převodem uvnitř banky,,Převod na účet pracovně právní platby,,,,Převod na volební účet - EP 2019,svobodni
 2019-06-03,150,Bezhotovostní příjem,Tomáš Kolárik,Mesicni dar pro zlinsky kraj Kolarik,,,,Tomáš Kolárik,svobodni
-2019-05-31,-200000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-31,-2e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-31,500,Platba převodem uvnitř banky,"Ing. Revallo, Judita",Dar příznivce,558,9099,,Dar příznivce,svobodni
 2019-05-30,-100,Bezhotovostní platba,,Vrácení chybně identifikované platby,,903,,Vrácení chybně identifikované platby,svobodni
 2019-05-29,-50000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-27,256,Platba převodem uvnitř banky,"Vochozka, Tomáš",Dar priznivce,,9097,,Dar priznivce,svobodni
 2019-05-27,100,Platba převodem uvnitř banky,"Hegyi, Nella",Dar priznivce,,9095,,Dar priznivce,svobodni
-2019-05-27,-100000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-27,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-27,-50000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2019-05-24,100,Bezhotovostní příjem,AUSFICIROVA SONA,clenstvi sponzorink....,,903,,AUSFICIROVA SONA,svobodni
 2019-05-23,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
 2019-05-23,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
-2019-05-22,-100000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-22,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-22,300,Bezhotovostní příjem,"Trcala Adam,Mgr.",Dar pro JMK,,,,"Trcala Adam,Mgr.",svobodni
 2019-05-22,1000,Bezhotovostní příjem,Staněk Martin,Dar na kampaň Romana Kříže.,0,81904,0,Staněk Martin,svobodni
-2019-05-21,-200000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-21,-2e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-21,1000,Bezhotovostní příjem,JIRI HEJHALEK,DAR,,81902,,JIRI HEJHALEK,svobodni
 2019-05-21,200,Bezhotovostní příjem,Filip Marvan,dar pro JMK,,13894,,Filip Marvan,svobodni
 2019-05-21,100,Bezhotovostní příjem,Makara Ondřej,dar priznivce,0,6590,0,Makara Ondřej,svobodni
@@ -1015,11 +1015,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-05-20,2019,Bezhotovostní příjem,ČERMÁK PETR,DAR na Evropské volby,,2474,,ČERMÁK PETR,svobodni
 2019-05-17,1555,Platba převodem uvnitř banky,"Procházka, Aleš",DAR na kampaň volby do EP,,81900,,DAR na kampaň volby do EP,svobodni
 2019-05-16,100,Bezhotovostní příjem,OVESNÝ PAVEL,DAR PRO JMK,0,0,0,OVESNÝ PAVEL,svobodni
-2019-05-15,-200000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-15,-2e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-15,100,Platba převodem uvnitř banky,"Bořík, Josef",Dar,,81899,,Dar,svobodni
 2019-05-15,1500,Bezhotovostní příjem,Baláš Marek,Dar pro Zlinsky kraj,,16182,,Baláš Marek,svobodni
 2019-05-15,300,Platba převodem uvnitř banky,"Mgr. Němeček, David",Dar pro JMK,,,,Dar pro JMK,svobodni
-2019-05-14,-100000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-14,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-14,-250000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-14,1000,Bezhotovostní příjem,PAVEL VAVRIN,DAR PRO JMK,,,,PAVEL VAVRIN,svobodni
 2019-05-13,100,Bezhotovostní příjem,Jakub Voráček,DAR PRIZNIVCE,0,9089,,Jakub Voráček,svobodni
@@ -1035,17 +1035,17 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-05-08,90000,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR pro Zlínský kraj - účelový k zaplacení faktur za práci krajského managera,,2999,,DAR pro Zlínský kraj - účelový k zaplacení faktur za práci krajského managera,svobodni
 2019-05-07,560,Bezhotovostní příjem,JAKUB JEZEK,JAKUB JEŽEK - DAR PRO JMK - KANCELÁŘ V BRNĚ,,12756,,JAKUB JEZEK,svobodni
 2019-05-07,400,Bezhotovostní příjem,Ing. Jiří Široký,Dar pro JMK,0,12635,,Ing. Jiří Široký,svobodni
-2019-05-06,-200000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-05-06,-2e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-05-03,125000,Bezhotovostní příjem,MF,1403/1423/2019 Svobodní,6418,14232019,0,MF,svobodni
 2019-05-03,150,Bezhotovostní příjem,Tomáš Kolárik,Mesicni dar pro zlinsky kraj Kolarik,,,,Tomáš Kolárik,svobodni
 2019-05-02,5000,Bezhotovostní příjem,ZENON KUDER,DAR,,81894,,ZENON KUDER,svobodni
 2019-05-02,500,Bezhotovostní příjem,PROCHÁZKA PAVEL,Dar pro JMK,,5807151097,,PROCHÁZKA PAVEL,svobodni
 2019-04-26,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2019-04-26,100,Bezhotovostní příjem,OVESNÝ PAVEL,Dar pro JMK,0,0,0,OVESNÝ PAVEL,svobodni
-2019-04-25,-100000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
-2019-04-24,100000,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR na Evropské volby,,2999,,DAR na Evropské volby,svobodni
+2019-04-25,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-04-24,1e+05,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR na Evropské volby,,2999,,DAR na Evropské volby,svobodni
 2019-04-24,200,Bezhotovostní příjem,Filip Marvan,dar pro JMK,,13894,,Filip Marvan,svobodni
-2019-04-23,-200000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-04-23,-2e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-04-23,100,Bezhotovostní příjem,CESAL JAN,DAR PRIZNIVCE,,9087,,CESAL JAN,svobodni
 2019-04-23,100,Bezhotovostní příjem,David Sobala,dar priznivce,0,9084,,David Sobala,svobodni
 2019-04-23,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
@@ -1085,7 +1085,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-04-03,500,Bezhotovostní příjem,BC. JOSEF VAGUNDA-,"Dar pro JMK""",,,,BC. JOSEF VAGUNDA-,svobodni
 2019-04-03,1000,Bezhotovostní příjem,PAVEL VAVRIN,DAR PRO JMK,,,,PAVEL VAVRIN,svobodni
 2019-04-02,1000,Bezhotovostní příjem,Tetur Tomáš,dar pro JMK,0,0,0,Tetur Tomáš,svobodni
-2019-04-01,-200000,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
+2019-04-01,-2e+05,Platba převodem uvnitř banky,,Převod na volební účet - EP 2019,,,,Převod na volební účet - EP 2019,svobodni
 2019-03-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2019-03-26,5000,Bezhotovostní příjem,TEREZIA ISKOVA,DAR NA KAMPAŇ - VOLBY DO EVROPSKÉHO PARLAMENTU,,905530,,TEREZIA ISKOVA,svobodni
 2019-03-26,100,Bezhotovostní příjem,MAREK BRADAC,DAR PRIZNIVCE,,2882,,MAREK BRADAC,svobodni
@@ -1113,9 +1113,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-03-07,1000,Bezhotovostní příjem,Dominik Hrubý,DAR - příspěvek na kampaň do EP,,81885,,Dominik Hrubý,svobodni
 2019-03-07,100,Bezhotovostní příjem,Petr Janoušek,DAR PRIZNIVCE,,752,,Petr Janoušek,svobodni
 2019-03-06,1000,Bezhotovostní příjem,TEREZIA ISKOVA,DAR JIHOMORAVSKÉMU KRAJI NA FACEBOOK,,905530,,TEREZIA ISKOVA,svobodni
-2019-03-05,-100000,Platba převodem uvnitř banky,,Převod na účet kampaň EP 2019,,,,Převod na účet kampaň EP 2019,svobodni
+2019-03-05,-1e+05,Platba převodem uvnitř banky,,Převod na účet kampaň EP 2019,,,,Převod na účet kampaň EP 2019,svobodni
 2019-03-04,150,Bezhotovostní příjem,Tomáš Kolárik,Mesicni dar pro zlinsky kraj Kolarik,,,,Tomáš Kolárik,svobodni
-2019-03-04,100000,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR na volební kampaň do EP,,2999,,DAR na volební kampaň do EP,svobodni
+2019-03-04,1e+05,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR na volební kampaň do EP,,2999,,DAR na volební kampaň do EP,svobodni
 2019-02-28,5500,Bezhotovostní příjem,HALAMA MARTIN,Praha 18 dar,308,6666,0,HALAMA MARTIN,svobodni
 2019-02-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2019-02-25,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
@@ -1132,7 +1132,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-02-12,150,Bezhotovostní příjem,Josef Sekava,Dar - správa fb,,,,Josef Sekava,svobodni
 2019-02-11,100,Bezhotovostní příjem,HORÁK ONDŘEJ,DAR registrovaneho priznivce,0,8844,0,HORÁK ONDŘEJ,svobodni
 2019-02-11,400,Bezhotovostní příjem,Ing. Lubomír Fanta,DAR registrovaného příznivce.,0,3705,,Ing. Lubomír Fanta,svobodni
-2019-02-11,-200000,Platba převodem uvnitř banky,,Převod na účet permanentní kampaň,,,,Převod na účet permanentní kampaň,svobodni
+2019-02-11,-2e+05,Platba převodem uvnitř banky,,Převod na účet permanentní kampaň,,,,Převod na účet permanentní kampaň,svobodni
 2019-02-11,100,Bezhotovostní příjem,Nespěšná Plašilová Z,Dar - správa fb,0,,,Nespěšná Plašilová Z,svobodni
 2019-02-11,300,Bezhotovostní příjem,ALOIS SECKAR,DAR PRO KRAJ PRAHA - NA POBOČKU PRAHA 4,,14039,,ALOIS SECKAR,svobodni
 2019-02-08,2000,Bezhotovostní příjem,Sládeček Milan,DAR PRIZNIVCE,0,8551,0,Sládeček Milan,svobodni
@@ -1457,7 +1457,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-12-16,1000,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar,,81871,,Dar,svobodni
 2018-12-14,200,Bezhotovostní příjem,ONDŘÍŠEK MIROSLAV,DAR registrovaneho priznivce,8,5204,,ONDŘÍŠEK MIROSLAV,svobodni
 2018-12-14,100,Bezhotovostní příjem,STRÁNSKÝ OTTO,DAR registrovaneho priznivce,0,5689,0,STRÁNSKÝ OTTO,svobodni
-2018-12-13,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201825,,převod na účet kampan,svobodni
+2018-12-13,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201825,,převod na účet kampan,svobodni
 2018-12-13,100,Bezhotovostní příjem,"Hnilička Jan,DiS.",Jan Hnilička - DAR registrovaneho priznivce,0,4938,0,"Hnilička Jan,DiS.",svobodni
 2018-12-13,100,Bezhotovostní příjem,PÁTEK ROMAN,dar registrovaného příznivce Helena Pátková 2019,,58520,,PÁTEK ROMAN,svobodni
 2018-12-12,100,Bezhotovostní příjem,Douda Milan,DAR PRIZNIVCE,0,7180,0,Douda Milan,svobodni
@@ -1534,7 +1534,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-11-23,1000,Platba převodem uvnitř banky,"Ing. Dušek, Aleš",DAR registrovaneho priznivce,,8695,,DAR registrovaneho priznivce,svobodni
 2018-11-23,200,Bezhotovostní příjem,RIHAK HYNEK,DAR PRIZNIVCE 2019,0,8469,,RIHAK HYNEK,svobodni
 2018-11-22,600,Bezhotovostní příjem,Filip Marvan,dar pro kraj JMK provoz kanceláře,,13894,,Filip Marvan,svobodni
-2018-11-21,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201824,,převod na účet kampan,svobodni
+2018-11-21,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201824,,převod na účet kampan,svobodni
 2018-11-21,-500,Bezhotovostní platba,,"vrácení chybne identifikovane platby, Zatloukal, S.",308,2568,,"vrácení chybne identifikovane platby, Zatloukal, S.",svobodni
 2018-11-21,22990,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR pro Republiku - účelový dar na proplacení fa za PR služby,,2999,,DAR pro Republiku - účelový dar na proplacení fa za PR služby,svobodni
 2018-11-21,100,Bezhotovostní příjem,Škorpil Vratislav,dar pro kraj Jihočeský,,11531,,Škorpil Vratislav,svobodni
@@ -1580,7 +1580,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-11-05,500,Bezhotovostní příjem,ZACH MAREK,DAR PRIZNIVCE,0,8387,0,ZACH MAREK,svobodni
 2018-11-05,100,Bezhotovostní příjem,HUBKOVÁ IVA,Dar priznivce,0,9033,0,HUBKOVÁ IVA,svobodni
 2018-11-05,100,Bezhotovostní příjem,Sejbal Ondřej,příspěvek příznivce Ondřej Sejbal,0,9031,0,Sejbal Ondřej,svobodni
-2018-11-02,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201823,,převod na účet kampan,svobodni
+2018-11-02,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201823,,převod na účet kampan,svobodni
 2018-11-02,100,Platba převodem uvnitř banky,"Kříž, Miloš",DAR registrovaneho priznivce,,2125,,DAR registrovaneho priznivce,svobodni
 2018-11-01,100,Bezhotovostní příjem,Černohorský Pavel,DAR REGISTROVANEHO PRIZNIVCE,0,3217,0,Černohorský Pavel,svobodni
 2018-10-31,30000,Platba převodem uvnitř banky,SolverTech s.r.o.,Dar,,81867,,Dar,svobodni
@@ -1596,7 +1596,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-25,200,Bezhotovostní příjem,BLAHA RADOVAN,prispevek priznivce Radovan Blaha,,9025,,BLAHA RADOVAN,svobodni
 2018-10-25,1000,Bezhotovostní příjem,UHLIR ZDENEK,DAR registrovaneho priznivce,,6047,,UHLIR ZDENEK,svobodni
 2018-10-25,500,Bezhotovostní příjem,Ing. Jiří Sýkora,DAR registrovaneho priznivce,0,6255,,Ing. Jiří Sýkora,svobodni
-2018-10-24,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201822,,převod na účet kampan,svobodni
+2018-10-24,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201822,,převod na účet kampan,svobodni
 2018-10-24,2000,Bezhotovostní příjem,HRUŠKA ZDENĚK,Dar registrovaného příznivce,308,806,,HRUŠKA ZDENĚK,svobodni
 2018-10-24,1000,Platba převodem uvnitř banky,"Kučera, František",DAR registrovaneho priznivce,558,1819,,DAR registrovaneho priznivce,svobodni
 2018-10-24,100,Bezhotovostní příjem,MULLER ROBERT,DAR registrovaneho priznivce,,7959,,MULLER ROBERT,svobodni
@@ -1662,15 +1662,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-16,100,Platba převodem uvnitř banky,"Hořice, Jan",,,1059,51059,,svobodni
 2018-10-16,2000,Platba převodem uvnitř banky,"Červenka, Jiří",DAR registrovaneho priznivce,,302,,DAR registrovaneho priznivce,svobodni
 2018-10-16,100,Bezhotovostní příjem,Šerý Tomáš,DAR,,81866,,Šerý Tomáš,svobodni
-2018-10-16,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201821,,převod na účet kampan,svobodni
+2018-10-16,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201821,,převod na účet kampan,svobodni
 2018-10-16,30000,Bezhotovostní příjem,BRCKOVA LENKA,dar PLZ kraj,,5638,,BRCKOVA LENKA,svobodni
 2018-10-15,100,Bezhotovostní příjem,Otta Lubor,dar priznivce,,8331,,Otta Lubor,svobodni
 2018-10-15,600,Bezhotovostní příjem,Baláš Marek,Dar pro Zlinsky kraj,,16182,,Baláš Marek,svobodni
 2018-10-12,150,Bezhotovostní příjem,Josef Sekava,Dar - správa fb,,,,Josef Sekava,svobodni
-2018-10-11,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201820,,převod na účet kampan,svobodni
+2018-10-11,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201820,,převod na účet kampan,svobodni
 2018-10-10,100,Bezhotovostní příjem,Nespěšná Plašilová Z,Dar - správa fb,0,,,Nespěšná Plašilová Z,svobodni
 2018-10-10,150,Platba převodem uvnitř banky,"Nekovář, David",dar: správa fb,,,,dar: správa fb,svobodni
-2018-10-08,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201819,,převod na účet kampan,svobodni
+2018-10-08,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201819,,převod na účet kampan,svobodni
 2018-10-08,125000,Bezhotovostní příjem,MF,,6418,169622018,0,MF,svobodni
 2018-10-08,8000,Bezhotovostní příjem,ALOIS SECKAR,DAR PRO KRAJ PRAHA - NA POBOČKU PRAHA 4,,14039,,ALOIS SECKAR,svobodni
 2018-10-05,100,Bezhotovostní příjem,Suchý Petr,příspěvek příznivce Petr Suchý,0,59019,0,Suchý Petr,svobodni
@@ -1685,7 +1685,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-02,200,Bezhotovostní příjem,Zdeněk Valenta,dar příznivce,0,59016,,Zdeněk Valenta,svobodni
 2018-10-02,5000,Bezhotovostní příjem,LEŠEK VLADIMÍR,Dar,0,81861,0,LEŠEK VLADIMÍR,svobodni
 2018-10-02,5000,Bezhotovostní příjem,Poskočil Tomáš,"DAR, komunální kampaň PísekPoskočil",0,801206,0,Poskočil Tomáš,svobodni
-2018-10-01,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201818,,převod na účet kampan,svobodni
+2018-10-01,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201818,,převod na účet kampan,svobodni
 2018-10-01,1000,Bezhotovostní příjem,Mgr. Kateřina Luková,Dar,0,81860,,Mgr. Kateřina Luková,svobodni
 2018-10-01,20000,Bezhotovostní příjem,TAMPÍR ŠTĚPÁN,dar senátní kampaň Tampír,,,,TAMPÍR ŠTĚPÁN,svobodni
 2018-09-29,25000,Platba převodem uvnitř banky,Česká pirátská strana,"#14358 FO 2519/2018, KS JmK, dar - příspěvek na kampaň Svobodní a Piráti, Svobodní Hodonín",,,,"#14358 FO 2519/2018, KS JmK, dar - příspěvek na kampaň Svobodní a Piráti, Svobodní Hodonín",svobodni
@@ -1698,7 +1698,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-24,2000,Bezhotovostní příjem,Tomáš Štampach,Dar na kampaň do komunálních voleb2018,,12380,,Tomáš Štampach,svobodni
 2018-09-24,30000,Bezhotovostní příjem,"Boček Radek,Ing.arch","DAR, komunální kampaň Písek",0,0,0,"Boček Radek,Ing.arch",svobodni
 2018-09-24,1000,Platba převodem uvnitř banky,"Ing. Halva, Martin",Dar na kampaň do komunálních voleb 2018.,,,,Dar na kampaň do komunálních voleb 2018.,svobodni
-2018-09-24,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201817,,převod na účet kampan,svobodni
+2018-09-24,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201817,,převod na účet kampan,svobodni
 2018-09-24,-3000,Platba převodem uvnitř banky,,"převod uceloveho daru Senat Maly 28.8. Rubos, K.",,,,"převod uceloveho daru Senat Maly 28.8. Rubos, K.",svobodni
 2018-09-24,-1000,Platba převodem uvnitř banky,,"převod uceloveho daru Senat Maly 22.9. Sasova, H.",,,,"převod uceloveho daru Senat Maly 22.9. Sasova, H.",svobodni
 2018-09-24,-1000,Platba převodem uvnitř banky,,"převod uceloveho daru Senat Tampir 22.9. Sasova, H.",,,,"převod uceloveho daru Senat Tampir 22.9. Sasova, H.",svobodni
@@ -1723,7 +1723,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-13,1000,Bezhotovostní příjem,STANISLAV CHUDOBA,DAR,,81852,,STANISLAV CHUDOBA,svobodni
 2018-09-13,1000,Bezhotovostní příjem,JAN CHALUPA,"DAR, JAN CHALUPA",,3146,,JAN CHALUPA,svobodni
 2018-09-12,1000,Platba převodem uvnitř banky,"Hladeček, Lukáš",DAR,,81853,,DAR,svobodni
-2018-09-12,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201816,,převod na účet kampan,svobodni
+2018-09-12,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201816,,převod na účet kampan,svobodni
 2018-09-12,1500,Platba převodem uvnitř banky,"Ing. Zima, Petr",Příspěvek na kampaň pro pobočku Praha 6,,,,Příspěvek na kampaň pro pobočku Praha 6,svobodni
 2018-09-12,150,Bezhotovostní příjem,Josef Sekava,Dar - správa fb,,,,Josef Sekava,svobodni
 2018-09-12,1500,Bezhotovostní příjem,PELÁN JAROSLAV,Dar - senatni kampan Maly,0,12170,0,PELÁN JAROSLAV,svobodni
@@ -1731,8 +1731,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-11,100,Bezhotovostní příjem,Uhlíř Václav,DAR PRIZNIVCE,0,56914,0,Uhlíř Václav,svobodni
 2018-09-11,500,Bezhotovostní příjem,ALOIS SEČKÁR,DAR - SPRÁVA FB,,14039,,ALOIS SEČKÁR,svobodni
 2018-09-11,500,Bezhotovostní příjem,ALOIS SEČKÁR,DAR PRO KRAJ PRAHA - NA POBOČKU PRAHA 4,,14039,,ALOIS SEČKÁR,svobodni
-2018-09-10,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201815,,převod na účet kampan,svobodni
-2018-09-10,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201814,,převod na účet kampan,svobodni
+2018-09-10,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201815,,převod na účet kampan,svobodni
+2018-09-10,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201814,,převod na účet kampan,svobodni
 2018-09-10,250,Platba převodem uvnitř banky,"Ing. Pospíchal, Jaroslav",Dar,,81849,,Dar,svobodni
 2018-09-10,100,Bezhotovostní příjem,Nespěšná Plašilová Z,Dar - správa fb,0,,,Nespěšná Plašilová Z,svobodni
 2018-09-10,150,Platba převodem uvnitř banky,"Nekovář, David",dar: správa fb,,,,dar: správa fb,svobodni
@@ -1741,11 +1741,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-07,30000,Platba převodem uvnitř banky,SolverTech s.r.o.,DAR pro Zlínský kraj - účelový k zaplacení faktur za práce na kampani ve stejné výši,,2999,,DAR pro Zlínský kraj - účelový k zaplacení faktur za práce na kampani ve stejné výši,svobodni
 2018-09-07,60000,Platba převodem uvnitř banky,"Ing. Pajonk, Tomáš",DAR pro Republiku - účelový k zaplacení faktur za práce na kampani ve stejné výši,,2999,,DAR pro Republiku - účelový k zaplacení faktur za práce na kampani ve stejné výši,svobodni
 2018-09-07,10000,Bezhotovostní příjem,PIŠTORA VÁCLAV,DAR SaN Ústí n/L komunálky,0,81848,0,PIŠTORA VÁCLAV,svobodni
-2018-09-06,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201813,,převod na účet kampan,svobodni
+2018-09-06,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201813,,převod na účet kampan,svobodni
 2018-09-05,100,Platba převodem uvnitř banky,"Brabec, Marcel DiS.",dar priznivce,,55677,,dar priznivce,svobodni
 2018-09-03,150,Bezhotovostní příjem,Tomáš Kolárik,Mesicni dar pro zlinsky kraj Kolarik,,,,Tomáš Kolárik,svobodni
 2018-09-03,500,Bezhotovostní příjem,"Holenda Jan,Ing.",Dar,,81846,,"Holenda Jan,Ing.",svobodni
-2018-08-30,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201812,,převod na účet kampan,svobodni
+2018-08-30,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201812,,převod na účet kampan,svobodni
 2018-08-30,-5000,Platba převodem uvnitř banky,,"převod účelového daru Senat Tampir 30.8. Janisova, O.",,,,"převod účelového daru Senat Tampir 30.8. Janisova, O.",svobodni
 2018-08-30,-5000,Platba převodem uvnitř banky,,"převod účelového daru Senat Maly 30.8. Janisova, O.",,,,"převod účelového daru Senat Maly 30.8. Janisova, O.",svobodni
 2018-08-30,-10000,Bezhotovostní platba,,"vrácení spatne identifikovane platby Janisova, O.",308,16891,,"vrácení spatne identifikovane platby Janisova, O.",svobodni
@@ -1758,8 +1758,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-28,1000,Bezhotovostní příjem,"Havel Václav,MUDr.",Dar,0,81840,0,"Havel Václav,MUDr.",svobodni
 2018-08-27,200,Bezhotovostní příjem,TOMAS PAJONK,DAR NA  REPUBLIKOVOU KANCELÁŘ,,12999,,TOMAS PAJONK,svobodni
 2018-08-24,20000,Bezhotovostní příjem,Blažková Lenka,"DAR, komunální volby Jihlava",0,81839,0,Blažková Lenka,svobodni
-2018-08-23,-100000,Platba převodem uvnitř banky,,"převod uceloveho daru Senat Maly 23.8. Meklesova-Mala, J.",,,,"převod uceloveho daru Senat Maly 23.8. Meklesova-Mala, J.",svobodni
-2018-08-23,100000,Bezhotovostní příjem,MEKLESOVA JITKA,Dar - senatni kampan M. Maly,308,18267,,MEKLESOVA JITKA,svobodni
+2018-08-23,-1e+05,Platba převodem uvnitř banky,,"převod uceloveho daru Senat Maly 23.8. Meklesova-Mala, J.",,,,"převod uceloveho daru Senat Maly 23.8. Meklesova-Mala, J.",svobodni
+2018-08-23,1e+05,Bezhotovostní příjem,MEKLESOVA JITKA,Dar - senatni kampan M. Maly,308,18267,,MEKLESOVA JITKA,svobodni
 2018-08-23,300,Bezhotovostní příjem,TOMAS PAJONK,DAR PRO KRAJ - ZLÍNSKÝ,,52999,101,TOMAS PAJONK,svobodni
 2018-08-23,500,Bezhotovostní příjem,INDRA LUKÁŠ,Dar pro Vysočinu,,8464,,INDRA LUKÁŠ,svobodni
 2018-08-23,10000,Bezhotovostní příjem,Tajchnerová Ilona,dar komunální volby Ústí nad Labem,,81836,,Tajchnerová Ilona,svobodni
@@ -1787,13 +1787,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-20,1000,Bezhotovostní příjem,Karel Ruboš,Dar - senatni kampan M. Maly,0,18267,,Karel Ruboš,svobodni
 2018-08-20,5000,Bezhotovostní příjem,Jindřich Čeněk,Dar - senátní kampaň M. Malý,308,18267,,Jindřich Čeněk,svobodni
 2018-08-17,100,Bezhotovostní příjem,Langr Adam,DAR,0,81833,0,Langr Adam,svobodni
-2018-08-16,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201811,,převod na účet kampan,svobodni
-2018-08-16,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201810,,převod na účet kampan,svobodni
+2018-08-16,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201811,,převod na účet kampan,svobodni
+2018-08-16,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201810,,převod na účet kampan,svobodni
 2018-08-16,-1350000,Platba převodem uvnitř banky,,převod uceloveho daru z 23. 7.  ZLI kraj,,,,převod uceloveho daru z 23. 7.  ZLI kraj,svobodni
 2018-08-16,300,Bezhotovostní příjem,HOZA JONAS,Dar registrovaneho priznivce,558,54829,,HOZA JONAS,svobodni
 2018-08-15,100,Platba převodem uvnitř banky,"Zouhar, Tomáš",dar priznivce (2018),,53867,,dar priznivce (2018),svobodni
 2018-08-15,600,Bezhotovostní příjem,Baláš Marek,Dar pro Zlinsky kraj,,16182,,Baláš Marek,svobodni
-2018-08-13,-200000,Platba převodem uvnitř banky,,převod na účet kampan,,201809,,převod na účet kampan,svobodni
+2018-08-13,-2e+05,Platba převodem uvnitř banky,,převod na účet kampan,,201809,,převod na účet kampan,svobodni
 2018-08-13,500,Bezhotovostní příjem,ALOIS SEČKÁR,DAR - SPRÁVA FB,,14039,,ALOIS SEČKÁR,svobodni
 2018-08-13,500,Bezhotovostní příjem,ALOIS SEČKÁR,DAR PRO KRAJ PRAHA - NA POBOČKU PRAHA 4,,14039,,ALOIS SEČKÁR,svobodni
 2018-08-13,150,Bezhotovostní příjem,Josef Sekava,Dar - správa fb,,,,Josef Sekava,svobodni

@@ -78,7 +78,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-09,1000,Okamžitá příchozí platba,Milan Holínka,Dar hnutí.,,,,Milan Holínka,prisaha
 2021-09-09,2443,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-09-08,1000,Okamžitá příchozí platba,Štruncová Radka,DAR HNUTÍ,0,,,Štruncová Radka,prisaha
-2021-09-08,-300000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-08,-3e+05,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-09-08,1000,Okamžitá příchozí platba,Petr Denk,Dar hnutí,,,,Petr Denk,prisaha
 2021-09-08,1000,Bezhotovostní příjem,MRAZOVA ZDENKA,Dar hnuti,,80921,,MRAZOVA ZDENKA,prisaha
 2021-09-08,10000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
@@ -90,8 +90,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-07,50000,Okamžitá příchozí platba,Martin Palán,Dar hnutí,0,,,Martin Palán,prisaha
 2021-09-07,100,Bezhotovostní příjem,Olga Štusáková,Dar OH Přísaha - měsíčně,,,,Olga Štusáková,prisaha
 2021-09-07,2432.38,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
-2021-09-06,-100000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
-2021-09-06,1000000,Bezhotovostní příjem,SUCHÁNEK JIŘÍ,dar pro OH Přísaha Roberta Šlachty,308,0,0,SUCHÁNEK JIŘÍ,prisaha
+2021-09-06,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-06,1e+06,Bezhotovostní příjem,SUCHÁNEK JIŘÍ,dar pro OH Přísaha Roberta Šlachty,308,0,0,SUCHÁNEK JIŘÍ,prisaha
 2021-09-06,500,Bezhotovostní příjem,Jindřich Benkovič,Dar spolku,558,,,Jindřich Benkovič,prisaha
 2021-09-06,-210000,Platba převodem uvnitř banky,,Převod na mzdový účet hnutí PŘÍSAHA,,,,Převod na mzdový účet hnutí PŘÍSAHA,prisaha
 2021-09-06,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
@@ -156,7 +156,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-26,10000,Okamžitá příchozí platba,Iveta Štetinová,dar,0,,,Iveta Štetinová,prisaha
 2021-08-26,200,Bezhotovostní příjem,Dagmar Čečivová,dar spolku,,,,Dagmar Čečivová,prisaha
 2021-08-26,584.6,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
-2021-08-26,500000,Bezhotovostní příjem,"MIDAS PRAHA, s.r.o.",,0,64939634,,"MIDAS PRAHA, s.r.o.",prisaha
+2021-08-26,5e+05,Bezhotovostní příjem,"MIDAS PRAHA, s.r.o.",,0,64939634,,"MIDAS PRAHA, s.r.o.",prisaha
 2021-08-25,500,Okamžitá příchozí platba,Grill Martin,Dar hnuti,379,82021,,Grill Martin,prisaha
 2021-08-25,5000,Bezhotovostní příjem,HEJDA JIŘÍ,Dar hnutí,0,0,0,HEJDA JIŘÍ,prisaha
 2021-08-25,500,Bezhotovostní příjem,DONATOVA RENATA,DAR-hnuti Prisaha,,0,,DONATOVA RENATA,prisaha
@@ -166,7 +166,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-24,10000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
 2021-08-24,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
 2021-08-24,50000,Okamžitá příchozí platba,Mgr.Vévoda Václav,Dar hnutí,0,,,Mgr.Vévoda Václav,prisaha
-2021-08-24,200000,Bezhotovostní příjem,WALTR STROJE S.R.O.,dar hnuti,,0,,WALTR STROJE S.R.O.,prisaha
+2021-08-24,2e+05,Bezhotovostní příjem,WALTR STROJE S.R.O.,dar hnuti,,0,,WALTR STROJE S.R.O.,prisaha
 2021-08-24,4000,Bezhotovostní příjem,RADOMIRA VARGOVA,DAR HNUTÍ,,,,RADOMIRA VARGOVA,prisaha
 2021-08-24,100,Bezhotovostní příjem,ŘÍHA VLADIMÍR,Dar hnutí Přísaha,,,,ŘÍHA VLADIMÍR,prisaha
 2021-08-24,189.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
@@ -197,7 +197,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-19,2000,Bezhotovostní příjem,SEDLÁŘ JOSEF,"Dar hnutí , Zlínský kraj",308,430510821,0,SEDLÁŘ JOSEF,prisaha
 2021-08-19,1965.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-18,500,Okamžitá příchozí platba,PLÁŇAVA MIROSLAV,Dar hnutí,308,1956,,PLÁŇAVA MIROSLAV,prisaha
-2021-08-18,100000,Okamžitá příchozí platba,Petr Vacek,Finanční dar pro hnutí Jižní Čechy,558,6204120494,,Petr Vacek,prisaha
+2021-08-18,1e+05,Okamžitá příchozí platba,Petr Vacek,Finanční dar pro hnutí Jižní Čechy,558,6204120494,,Petr Vacek,prisaha
 2021-08-18,5903,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-18,500,Bezhotovostní příjem,Vodičková Simona,Dar hnutí,,,,Vodičková Simona,prisaha
 2021-08-17,5000,Okamžitá příchozí platba,Kocúrková Radmila,DAR HNUTÍ,0,,,Kocúrková Radmila,prisaha
@@ -239,7 +239,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-09,677.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-08-09,100,Bezhotovostní příjem,Olga Štusáková,Dar OH Přísaha - měsíčně,,,,Olga Štusáková,prisaha
 2021-08-08,9000,Okamžitá příchozí platba,Štetinová Iveta,dar spolku,0,,,Štetinová Iveta,prisaha
-2021-08-06,-300000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-08-06,-3e+05,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-08-06,200,Bezhotovostní příjem,Marie Pečínková,,,,,"Dar, Marie Pečínková",prisaha
 2021-08-06,1000,Okamžitá příchozí platba,Chýlek Petr,Dar hnutí,558,5405012250,,Chýlek Petr,prisaha
 2021-08-06,200,Okamžitá příchozí platba,Marie Pečínková,Dar  hnuti,,,,Marie Pečínková,prisaha
@@ -326,7 +326,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-27,2000,Okamžitá příchozí platba,Hofmanová Jiřina,Dar hnutí,0,,,Hofmanová Jiřina,prisaha
 2021-07-27,200,Okamžitá příchozí platba,TUČKA PETR,dar hnutí,,,,TUČKA PETR,prisaha
 2021-07-27,3000,Bezhotovostní příjem,ADAMEC PETR,Dar Vysočina,0,0,0,ADAMEC PETR,prisaha
-2021-07-27,200000,Bezhotovostní příjem,ŽOFKA LIBOR,Dar Hnutí,0,0,0,ŽOFKA LIBOR,prisaha
+2021-07-27,2e+05,Bezhotovostní příjem,ŽOFKA LIBOR,Dar Hnutí,0,0,0,ŽOFKA LIBOR,prisaha
 2021-07-27,162000,Okamžitá příchozí platba,Burianová Jaroslava,Dar,0,,,Burianová Jaroslava,prisaha
 2021-07-27,10000,Okamžitá příchozí platba,Šlachta Robert,Dar,0,,,Šlachta Robert,prisaha
 2021-07-27,200,Bezhotovostní příjem,Dagmar Čečivová,dar spolku,,,,Dagmar Čečivová,prisaha
@@ -350,7 +350,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-22,500,Okamžitá příchozí platba,Česká spořitelna,Účel platby - Dar pro občanskéhnutíPřísaha,0,,,Česká spořitelna,prisaha
 2021-07-22,200,Bezhotovostní příjem,HOLČÍK PATRIK,DAR HNUTÍ,0,0,0,HOLČÍK PATRIK,prisaha
 2021-07-22,200,Platba převodem uvnitř banky,"Ing. Bublík, Miroslav",Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,,,,Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,prisaha
-2021-07-22,2000000,Bezhotovostní příjem,Blue Power,Dar hnutí,0,,,Blue Power,prisaha
+2021-07-22,2e+06,Bezhotovostní příjem,Blue Power,Dar hnutí,0,,,Blue Power,prisaha
 2021-07-21,500,Okamžitá příchozí platba,Česká spořitelna,Dar Hnutí,0,,,Česká spořitelna,prisaha
 2021-07-21,500,Okamžitá příchozí platba,Česká spořitelna,Dar hnutí,0,,,Česká spořitelna,prisaha
 2021-07-21,500,Okamžitá příchozí platba,Česká spořitelna,DAR HNUTI,0,,,Česká spořitelna,prisaha
@@ -374,7 +374,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-15,500,Bezhotovostní příjem,Krpalová Olga,,0,,,"Dar, Krpalová Olga",prisaha
 2021-07-15,400,Bezhotovostní příjem,Misař Radek,Dar hnutí,0,705529,,Misař Radek,prisaha
 2021-07-15,973,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
-2021-07-14,-500000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-07-14,-5e+05,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-07-14,500,Bezhotovostní příjem,KRAJCI BLAZEJ,Dar hnuti,,0,,KRAJCI BLAZEJ,prisaha
 2021-07-14,500,Bezhotovostní příjem,GONDASOVA ALENA,DAR HNUTI,,0,,GONDASOVA ALENA,prisaha
 2021-07-14,1165.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
@@ -413,7 +413,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-02,500,Bezhotovostní příjem,PETR KLIMEK,DAR HNUTÍ,,,,PETR KLIMEK,prisaha
 2021-07-02,500,Bezhotovostní příjem,Zdena Matoušová,Dar hnutí Přísaha,,,,Zdena Matoušová,prisaha
 2021-07-02,5408,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
-2021-07-01,-400000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-07-01,-4e+05,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-07-01,500,Okamžitá příchozí platba,JAN PLAŠTIAK,Dar hnutí,,,,JAN PLAŠTIAK,prisaha
 2021-07-01,158,Bezhotovostní příjem,Pavel Bill,Dar hnutí PŘÍSAHA,0,,,Pavel Bill,prisaha
 2021-07-01,500,Bezhotovostní příjem,zasl. důchodce Balat,Josef Balatka,0,0,263177,"Dar, zasl. důchodce Balat",prisaha
@@ -516,15 +516,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-10,14381.25,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-06-10,2000,Bezhotovostní příjem,HAVLICEK STANISLAV,,,0,,"Dar, HAVLICEK STANISLAV",prisaha
 2021-06-09,10000,Platba převodem uvnitř banky,"Ing. Havrda, Jaroslav",Dar hnutí,558,505023,,Dar hnutí,prisaha
-2021-06-09,-100000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-06-09,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-06-09,1000,Okamžitá příchozí platba,Zimčík Antonín,Dar Hnutí,0,,,Zimčík Antonín,prisaha
 2021-06-09,500,Bezhotovostní příjem,DOLÉNEK PETR,dar hnutí,0,0,0,DOLÉNEK PETR,prisaha
 2021-06-09,674.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-06-09,500,Bezhotovostní příjem,"Vejmelka Jiří,Ing.",Dar hnutí,558,491210,,"Vejmelka Jiří,Ing.",prisaha
-2021-06-08,300000,Okamžitá příchozí platba,ROUZEK MILOŠ,dar hnutí,,,,ROUZEK MILOŠ,prisaha
+2021-06-08,3e+05,Okamžitá příchozí platba,ROUZEK MILOŠ,dar hnutí,,,,ROUZEK MILOŠ,prisaha
 2021-06-08,500,Okamžitá příchozí platba,Dominik Prajzler,Dar hnutí,,,,Dominik Prajzler,prisaha
 2021-06-08,500,Okamžitá příchozí platba,Tomáš Franek,Dar hnutí,,,,Tomáš Franek,prisaha
-2021-06-08,100000,Bezhotovostní příjem,ZACHARA MIROSLAV,Dar HNUTÍ,0,0,0,ZACHARA MIROSLAV,prisaha
+2021-06-08,1e+05,Bezhotovostní příjem,ZACHARA MIROSLAV,Dar HNUTÍ,0,0,0,ZACHARA MIROSLAV,prisaha
 2021-06-08,4752.28,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-06-08,200,Bezhotovostní příjem,Ivana Jelínková,,,,,"Dar, Ivana Jelínková",prisaha
 2021-06-08,500,Bezhotovostní příjem,MANSFELDOVA VERA,"V.Mansfeldova, dar hnuti",179,8041942,,MANSFELDOVA VERA,prisaha
@@ -559,7 +559,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-04,-370000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-06-04,500,Bezhotovostní příjem,PETR KLIMEK,DAR HNUTÍ,,,,PETR KLIMEK,prisaha
 2021-06-04,1000,Bezhotovostní příjem,BAUDYSOVA HANA,dar hnuti,,49,,BAUDYSOVA HANA,prisaha
-2021-06-04,-400000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-06-04,-4e+05,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-06-04,2000,Bezhotovostní příjem,JANDOVA JITKA,601022,558,0,,"Dar, JANDOVA JITKA",prisaha
 2021-06-04,677.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-06-03,200,Bezhotovostní příjem,NECESANA JANA,Dar hnuti,,0,,NECESANA JANA,prisaha
@@ -617,10 +617,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-21,6181,Okamžitá příchozí platba,Hes Milan,,0,,,Hes Milan,prisaha
 2021-05-21,500,Bezhotovostní příjem,BUREŠ JAROSLAV,Dar hnutí,0,0,0,BUREŠ JAROSLAV,prisaha
 2021-05-21,50000,Okamžitá příchozí platba,Martin Palán,,0,,,Martin Palán,prisaha
-2021-05-21,100000,Bezhotovostní příjem,SOCHR LUBOMÍR,Dar hnutí Přísaha,0,0,0,SOCHR LUBOMÍR,prisaha
-2021-05-21,200000,Bezhotovostní příjem,S - TYPO NENAČOVICE,Dar hnutí Přísaha,0,0,0,S - TYPO NENAČOVICE,prisaha
-2021-05-21,-200000,Bezhotovostní platba,,Vrácení peněz - chybí účel platby,,,,Vrácení peněz - chybí účel platby,prisaha
-2021-05-21,-100000,Okamžitá odchozí platba,,Vrácení peněz - chybí účel platby,,,,Vrácení peněz - chybí účel platby,prisaha
+2021-05-21,1e+05,Bezhotovostní příjem,SOCHR LUBOMÍR,Dar hnutí Přísaha,0,0,0,SOCHR LUBOMÍR,prisaha
+2021-05-21,2e+05,Bezhotovostní příjem,S - TYPO NENAČOVICE,Dar hnutí Přísaha,0,0,0,S - TYPO NENAČOVICE,prisaha
+2021-05-21,-2e+05,Bezhotovostní platba,,Vrácení peněz - chybí účel platby,,,,Vrácení peněz - chybí účel platby,prisaha
+2021-05-21,-1e+05,Okamžitá odchozí platba,,Vrácení peněz - chybí účel platby,,,,Vrácení peněz - chybí účel platby,prisaha
 2021-05-21,-50000,Okamžitá odchozí platba,,Vrácení peněz - nelze identifikovat účel platby,,,,Vrácení peněz - nelze identifikovat účel platby,prisaha
 2021-05-21,200,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Petr Záhora - Převod daru poslané na volební účet místo na zvláštní účet kampaně,,,,Petr Záhora - Převod daru poslané na volební účet místo na zvláštní účet kampaně,prisaha
 2021-05-21,1000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Jiří Daňhel - Převod daru poslané na volební účet místo na zvláštní účet kampaně,,,,Jiří Daňhel - Převod daru poslané na volební účet místo na zvláštní účet kampaně,prisaha
@@ -632,9 +632,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-21,1000,Okamžitá příchozí platba,ŘÍHA VLADIMÍR,Dar hnutí Přísaha - Občanské hnutí Roberta Šlachty,,,,ŘÍHA VLADIMÍR,prisaha
 2021-05-20,200,Okamžitá příchozí platba,Martina Šafránková,"""DAR HNUTÍ""",,,,Martina Šafránková,prisaha
 2021-05-20,500,Vklad v hotovosti,Jana Holubová Dar hnutí,,558,,,Jana Holubová Dar hnutí,prisaha
-2021-05-20,500000,Bezhotovostní příjem,SUCHÁNEK JIŘÍ,dar hnutí Přísaha,308,0,0,SUCHÁNEK JIŘÍ,prisaha
+2021-05-20,5e+05,Bezhotovostní příjem,SUCHÁNEK JIŘÍ,dar hnutí Přísaha,308,0,0,SUCHÁNEK JIŘÍ,prisaha
 2021-05-20,100,Okamžitá příchozí platba,"Sieber Radomil,Ing.",DAR HNUTÍ,0,,,"Sieber Radomil,Ing.",prisaha
-2021-05-20,100000,Bezhotovostní příjem,T.J. LSD ROAD S.R.O.,T.J. LSD Road dar,0,0,0,T.J. LSD ROAD S.R.O.,prisaha
+2021-05-20,1e+05,Bezhotovostní příjem,T.J. LSD ROAD S.R.O.,T.J. LSD Road dar,0,0,0,T.J. LSD ROAD S.R.O.,prisaha
 2021-05-20,2000,Vklad v hotovosti,22.7. Jana,,558,,,22.7. Jana,prisaha
 2021-05-20,500,Bezhotovostní příjem,KUBÁTOVÁ DAGMAR,,0,0,0,"Dar, KUBÁTOVÁ DAGMAR",prisaha
 2021-05-20,500,Bezhotovostní příjem,BERGROVÁ MILUŠE,,0,0,0,"Dar, BERGROVÁ MILUŠE",prisaha
@@ -648,8 +648,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-19,2000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod daru poslané na volební účet místo na zvláštní účet kampaně,,,,Převod daru poslané na volební účet místo na zvláštní účet kampaně. Miroslav Brůža,prisaha
 2021-05-19,500,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod daru poslané na volební účet místo na zvláštní účet kampaně,,,,Převod daru poslané na volební účet místo na zvláštní účet kampaně. Petr Klímek,prisaha
 2021-05-19,-150000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
-2021-05-19,100000,Bezhotovostní příjem,SOCHR LUBOMÍR,,0,535911100,0,SOCHR LUBOMÍR,prisaha
-2021-05-19,200000,Bezhotovostní příjem,S - TYPO NENAČOVICE,,0,25621998,0,S - TYPO NENAČOVICE,prisaha
+2021-05-19,1e+05,Bezhotovostní příjem,SOCHR LUBOMÍR,,0,535911100,0,SOCHR LUBOMÍR,prisaha
+2021-05-19,2e+05,Bezhotovostní příjem,S - TYPO NENAČOVICE,,0,25621998,0,S - TYPO NENAČOVICE,prisaha
 2021-05-19,7857,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,STRIPE,0,0,0,"Dar, STRIPE TECHNOLOGY EU",prisaha
 2021-05-18,500,Okamžitá příchozí platba,Bublík Jaroslav,dar spolku,0,,,Bublík Jaroslav,prisaha
 2021-05-18,500,Bezhotovostní příjem,MALEC LADISLAV,Dar hnutí,0,0,0,MALEC LADISLAV,prisaha
@@ -716,7 +716,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-07,3127.08,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,STRIPE,0,0,0,"Dar, STRIPE TECHNOLOGY EU",prisaha
 2021-05-07,200,Okamžitá příchozí platba,Hlávková Jana,dar hnutí,0,,,Hlávková Jana,prisaha
 2021-05-06,1000,Okamžitá příchozí platba,Zenknerová Naděžda,Dar hnuti Prisaha,0,,,Zenknerová Naděžda,prisaha
-2021-05-06,-100000,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-05-06,-1e+05,Platba převodem uvnitř banky,,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-05-06,4299.4,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,STRIPE,0,0,0,"Dar, STRIPE TECHNOLOGY EU",prisaha
 2021-05-05,10000,Okamžitá příchozí platba,PETR ELIÁŠ,dar Vysočina,,,,PETR ELIÁŠ,prisaha
 2021-05-05,3328.4,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,STRIPE,0,0,0,"Dar, STRIPE TECHNOLOGY EU",prisaha
@@ -756,7 +756,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-28,500,Bezhotovostní příjem,Tomáš Nič,Dar hnutí,,,,Tomáš Nič,prisaha
 2021-04-27,100,Okamžitá příchozí platba,Roman Hromada,Dar hnutí,,,,Roman Hromada,prisaha
 2021-04-27,2000,Okamžitá příchozí platba,Jan Zeman,Dar hnutí (MUDr. Jan Zeman),,,,Jan Zeman,prisaha
-2021-04-27,-300000,Platba převodem uvnitř banky,,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,,,,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,prisaha
+2021-04-27,-3e+05,Platba převodem uvnitř banky,,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,,,,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,prisaha
 2021-04-27,-10000,Platba převodem uvnitř banky,,Převod na účet PŘÍSAHA - PROVOZNÍ ÚČET,,,,Převod na účet PŘÍSAHA - PROVOZNÍ ÚČET,prisaha
 2021-04-27,300,Okamžitá příchozí platba,KARLÍK VLASTIMIL,Dar hnutí,,0,,KARLÍK VLASTIMIL,prisaha
 2021-04-27,486,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,STRIPE,0,0,0,"Dar, STRIPE TECHNOLOGY EU",prisaha

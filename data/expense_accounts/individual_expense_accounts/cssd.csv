@@ -163,8 +163,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-04,-1317.9,Karetní transakce,,"Nákup: BENZINA CS 0127,  PLZENSKA 835, KLATOVY, 33901, CZE, dne 3.9.2021, částka  1317.90 CZK",,9502,,"Nákup: BENZINA CS 0127,  PLZENSKA 835, KLATOVY, 33901, CZE, dne 3.9.2021, částka  1317.90 CZK",cssd
 2021-09-03,33541.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
 2021-09-03,70000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru,  Jana Maláčová, Praha, volby PS PČR",,,,"převod daru,  Jana Maláčová, Praha, volby PS PČR",cssd
-2021-09-03,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",cssd
-2021-09-03,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Lubomír Zaorálek, Moravskoslezský kraj, volby PS PČR",cssd
+2021-09-03,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Petra Krejčířová, Moravskoslezský kraj, volby PS PČR",cssd
 2021-09-03,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",,,,"převod daru, Renata Hulvová, Moravskoslezský kraj, volby PS PČR",cssd
 2021-09-03,15000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",,,,"převod daru, Markéta Juchelková, Pardubický kraj, volby PS PČR",cssd
 2021-09-03,600,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
@@ -244,7 +244,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-13,230000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP ČSSD Jihočeský kraj na volby PS PČR,,,,převod z KP ČSSD Jihočeský kraj na volby PS PČR,cssd
 2021-08-13,-2939864.4,Bezhotovostní platba,,ČSSD,308,310210057,,"BigMedia, spol. s r.o., záloha, pronájem reklamních panelů, ústředí",cssd
 2021-08-13,-302500,Bezhotovostní platba,,ČSSD,308,45821,,"Ewing s.r.o., příprava kreativní části, ústředí",cssd
-2021-08-13,3000000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-08-13,3e+06,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
 2021-08-12,-1725,Karetní transakce,,"Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK",,4376,,"Nákup: CESKA POSTA  77008,  HORNI NAMESTI 407/27, OLOMOUC, 77008, CZE, dne 11.8.2021, částka  1725.00 CZK",cssd
 2021-08-11,550000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Zlínský kraj na volby PS PČR,,,,převod z KP Zlínský kraj na volby PS PČR,cssd
 2021-08-11,-12100,Okamžitá odchozí platba,,ČSSD,308,21075,,"Herzmann s.r.o., studie projektu, ústředí",cssd
@@ -283,8 +283,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-13,-69397.13,Bezhotovostní platba,,ČSSD,308,34521,,"Ewing s.r.o., centrální profil",cssd
 2021-07-13,-24200,Bezhotovostní platba,,ČSSD,308,20210025,,"Pavel Kopečný, grafické a konzultační práce",cssd
 2021-07-13,214225.38,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod na volby PS PČR, KP Královéhradecký",,,,"převod na volby PS PČR, KP Královéhradecký",cssd
-2021-07-09,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",,,,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",cssd
-2021-07-09,100000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",,,,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",cssd
+2021-07-09,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",,,,"převod daru Olga Sehnalová, volby PS PČR, Zlínský kraj",cssd
+2021-07-09,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",,,,"převod daru Jan Birke, volby PS PČR, Královéhradecký kraj",cssd
 2021-07-09,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj",,,,"převod daru Pavel Havíř, volby PS PČR, Pardubický kraj",cssd
 2021-07-08,48400,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský na volby PS PČR,,,,převod z KP Plzeňský na volby PS PČR,cssd
 2021-07-07,-121000,Bezhotovostní platba,,,308,34621,,"Ewing s.r.o., konzultace, poradenství",cssd
@@ -299,7 +299,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-24,20000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj",558,9,,"převod daru, Jindřich Šnejdrla, volby PSPČR, Zlínský kraj",cssd
 2021-06-21,-20000,Karetní transakce,,"Nákup: FACEBK *Y73HR4KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.6.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK *Y73HR4KLW2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 20.6.2021, částka  20000.00 CZK",cssd
 2021-06-21,-181500,Bezhotovostní platba,,ČSSD Praha,308,21001,36,SANEP s.r.o. - průzkum veřejného mínění,cssd
-2021-06-21,200000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,ČSSD Praha,cssd
+2021-06-21,2e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,ČSSD Praha,cssd
 2021-06-15,-10500,Okamžitá odchozí platba,,ČSSD Praha,308,292021,33,SPORT IMAGE - podklady mediální prezentace ČSSD,cssd
 2021-06-14,-12100,Okamžitá odchozí platba,,ČSSD Praha,308,21052,34,Herzmann s.r.o. - projekt Český volič,cssd
 2021-06-14,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,ČSSD Praha,cssd
@@ -321,7 +321,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-03,-154275,Bezhotovostní platba,,ČSSD Praha,308,210116,22,NMS Market Research - výzkum veřejného mínění,cssd
 2021-05-03,150000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,Převod finančních prostředků z ÚS,cssd
 2021-04-27,-577088.33,Bezhotovostní platba,,ČSSD Praha,308,4202102574,20,BigMedia  s.r.o. - pronájem rek.ploch 4/2021,cssd
-2021-04-27,600000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,Převod finančních prostředků z ÚS,cssd
+2021-04-27,6e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,Převod finančních prostředků z ÚS,cssd
 2021-04-26,-12100,Okamžitá odchozí platba,,ČSSD Praha,308,21031,23,Herzmann s.r.o. - projekt Český volič,cssd
 2021-04-26,-55115.5,Bezhotovostní platba,,ČSSD Praha,308,4212100682,21,BigMedia s.r.o.. - tisk reklamních materiálů,cssd
 2021-04-26,70000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,ČSSD Praha,308,9,,Převod finančních prostředků z ÚS,cssd

@@ -486,7 +486,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-02,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2021-07-01,50000,Platba převodem uvnitř banky,"Ing. Liška, Robert","Robert Liška, KDU-ČSL Brno",,391975,709,"Robert Liška, KDU-ČSL Brno",kdu-csl
 2021-07-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
-2021-07-01,300000,Bezhotovostní příjem,POLABSKÉ MLÉKARNY A.,Pomoc Polabské mlékárny Poděbrady,558,45148678,999,POLABSKÉ MLÉKARNY A.,kdu-csl
+2021-07-01,3e+05,Bezhotovostní příjem,POLABSKÉ MLÉKARNY A.,Pomoc Polabské mlékárny Poděbrady,558,45148678,999,POLABSKÉ MLÉKARNY A.,kdu-csl
 2021-06-30,1200,Bezhotovostní příjem,PSOTKA KAMIL,Dar KDU-CSL Zlin Kamil Psotka,,0,801,PSOTKA KAMIL,kdu-csl
 2021-06-30,1666,Bezhotovostní příjem,RŮŽIČKA PAVEL,Plzeňský kraj,0,1,351,RŮŽIČKA PAVEL,kdu-csl
 2021-06-29,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
@@ -496,9 +496,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-25,2900,Bezhotovostní příjem,HUBÁČEK PAVEL,Plzeňský kraj,0,0,351,HUBÁČEK PAVEL,kdu-csl
 2021-06-25,200,Bezhotovostní příjem,OSTROVSKY VACLAV,pravidelny_prispevek,,23021988,713,OSTROVSKY VACLAV,kdu-csl
 2021-06-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
-2021-06-24,-3000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2021-06-24,-3e+06,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
 2021-06-24,2000,Bezhotovostní příjem,BAZALA JOSEF,JOSEF BAZALA PŘÍSPĚVEK KDU-ČSL,0,0,0,BAZALA JOSEF,kdu-csl
-2021-06-22,200000,Bezhotovostní příjem,VENDEAVOUR A.S.,,308,211900006,0,VENDEAVOUR A.S.,kdu-csl
+2021-06-22,2e+05,Bezhotovostní příjem,VENDEAVOUR A.S.,,308,211900006,0,VENDEAVOUR A.S.,kdu-csl
 2021-06-22,1000,Bezhotovostní příjem,KLIMEŠ PAVEL,Pavel Klimeš - DAR,,21041984,725,KLIMEŠ PAVEL,kdu-csl
 2021-06-22,575,Bezhotovostní příjem,Plešinger David,DPlesinger dar 2020 - měsíčně,709,7411293967,,Plešinger David,kdu-csl
 2021-06-21,112500,Platba převodem uvnitř banky,Strana zelených,podíl ze státního rozpočtu přijatý za mandát P. Orel  KDU-ČSL - 2. Q 2021,,,,podíl ze státního rozpočtu přijatý za mandát P. Orel  KDU-ČSL - 2. Q 2021,kdu-csl
@@ -521,7 +521,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-18,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
 2021-06-17,10000,Okamžitá příchozí platba,Ing. Karel Hrubeš,hrubeš,,14071972,301,Ing. Karel Hrubeš,kdu-csl
 2021-06-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
-2021-06-16,100000,Okamžitá příchozí platba,"Kaňkovský Vít,MUDr.",Dar krajské organizaci KDU-ČSL Vysočina,0,700205,651,"Kaňkovský Vít,MUDr.",kdu-csl
+2021-06-16,1e+05,Okamžitá příchozí platba,"Kaňkovský Vít,MUDr.",Dar krajské organizaci KDU-ČSL Vysočina,0,700205,651,"Kaňkovský Vít,MUDr.",kdu-csl
 2021-06-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl
 2021-06-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
 2021-06-16,3200,Bezhotovostní příjem,"Kaňkovský Vít,MUDr.",,0,5021970,651,"Kaňkovský Vít,MUDr.",kdu-csl
@@ -546,8 +546,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2021-06-10,3000,Bezhotovostní příjem,Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Benešík Ondřej,kdu-csl
 2021-06-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
-2021-06-08,-12000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
-2021-06-08,200000,Bezhotovostní příjem,ŠIMÁK MAREK,,,2106070093,,ŠIMÁK MAREK,kdu-csl
+2021-06-08,-1.2e+07,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2021-06-08,2e+05,Bezhotovostní příjem,ŠIMÁK MAREK,,,2106070093,,ŠIMÁK MAREK,kdu-csl
 2021-06-07,56250,Platba převodem uvnitř banky,Hnutí pro Prahu 11,Příspěvek na senátora LK za I/21,,7062021,,Příspěvek na senátora LK za I/21,kdu-csl
 2021-06-07,300,Okamžitá příchozí platba,Straka Karel,k.straka žerotínova175 bludov,308,,,Straka Karel,kdu-csl
 2021-06-07,10537500,Bezhotovostní příjem,MF,1403/10933/2021-79 KDU-ČSL,6418,109332021,0,MF,kdu-csl
@@ -557,9 +557,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-07,1000,Bezhotovostní příjem,TUČKOVÁ HELENA,,308,29121972,651,TUČKOVÁ HELENA,kdu-csl
 2021-06-07,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
 2021-06-07,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
-2021-06-03,200000,Bezhotovostní příjem,POLÍVKA PETR,dar,0,2106030092,0,POLÍVKA PETR,kdu-csl
+2021-06-03,2e+05,Bezhotovostní příjem,POLÍVKA PETR,dar,0,2106030092,0,POLÍVKA PETR,kdu-csl
 2021-06-02,5000,Vklad v hotovosti,dar pro okres Prostějov Gabriela Jančíková,,558,,,dar pro okres Prostějov Gabriela Jančíková,kdu-csl
-2021-06-02,200000,Okamžitá příchozí platba,"Hynek Karel,MUDr.",,0,,,"Hynek Karel,MUDr.",kdu-csl
+2021-06-02,2e+05,Okamžitá příchozí platba,"Hynek Karel,MUDr.",,0,,,"Hynek Karel,MUDr.",kdu-csl
 2021-06-02,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2021-06-01,10000,Bezhotovostní příjem,Ludmilla Okamura,Hayato Okamura - příspěvek do kampaně,,,101,Ludmilla Okamura,kdu-csl
 2021-06-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
@@ -611,7 +611,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-13,5000,Bezhotovostní příjem,LUKAC JAN BOHDAN,Dar pro JCK organizaci KDU-CSL,,0,,LUKAC JAN BOHDAN,kdu-csl
 2021-05-12,33720,Okamžitá příchozí platba,NĚMEC JIŘÍ,,,25021971,701,NĚMEC JIŘÍ,kdu-csl
 2021-05-12,3480,Bezhotovostní příjem,IVO SLAVOTINEK,I.SLAVOTÍNEK_DAR PRO OLOMOUCKÝ KRAJ,,760131,751,IVO SLAVOTINEK,kdu-csl
-2021-05-12,100000,Bezhotovostní příjem,HOŘAVA PAVEL,Dar na provoz KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
+2021-05-12,1e+05,Bezhotovostní příjem,HOŘAVA PAVEL,Dar na provoz KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
 2021-05-11,2000,Okamžitá příchozí platba,Mgr. David Chlupáček,dar,651,2105100089,,Mgr. David Chlupáček,kdu-csl
 2021-05-11,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
 2021-05-11,3000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
@@ -628,7 +628,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-07,1000,Bezhotovostní příjem,TUČKOVÁ HELENA,,308,29121972,651,TUČKOVÁ HELENA,kdu-csl
 2021-05-07,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
 2021-05-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
-2021-05-06,300000,Bezhotovostní příjem,"KALAB - INVEST, S.R.",dar na zaklade darovaci smlouvy,,6213022,701,"KALAB - INVEST, S.R.",kdu-csl
+2021-05-06,3e+05,Bezhotovostní příjem,"KALAB - INVEST, S.R.",dar na zaklade darovaci smlouvy,,6213022,701,"KALAB - INVEST, S.R.",kdu-csl
 2021-05-05,20000,Okamžitá příchozí platba,Weisbauer František,Dar - od František Weisbauer k podpoře činnosti MO KDU-ČSL Pardubice. Uzavřeno v Pardubicích 4.5.2021.,0,,601,Weisbauer František,kdu-csl
 2021-05-05,3000,Bezhotovostní příjem,Michal Hořínek,,,28101976,851,Michal Hořínek,kdu-csl
 2021-05-04,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
@@ -669,7 +669,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-19,2100,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl
 2021-04-19,2500,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
 2021-04-19,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
-2021-04-16,-14000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2021-04-16,-1.4e+07,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
 2021-04-16,3000,Bezhotovostní příjem,Michal Hořínek,,,28101976,851,Michal Hořínek,kdu-csl
 2021-04-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl
 2021-04-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
@@ -682,7 +682,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-15,1000,Bezhotovostní příjem,"Derner Michal,Ing.",Michal Derner,0,12091962,551,"Derner Michal,Ing.",kdu-csl
 2021-04-15,1500,Bezhotovostní příjem,"Váňová Ivana,MBA",,0,690412,851,"Váňová Ivana,MBA",kdu-csl
 2021-04-15,7178,Bezhotovostní příjem,KOCMAN RICHARD,Plzensky kraj,,1,351,KOCMAN RICHARD,kdu-csl
-2021-04-14,100000,Platba převodem uvnitř banky,"Svobodová, Helena",Helena Svobodová,,31051965,709,Helena Svobodová,kdu-csl
+2021-04-14,1e+05,Platba převodem uvnitř banky,"Svobodová, Helena",Helena Svobodová,,31051965,709,Helena Svobodová,kdu-csl
 2021-04-14,10537500,Bezhotovostní příjem,MF,,6418,4012021,0,MF,kdu-csl
 2021-04-14,1700,Bezhotovostní příjem,HOVJACKÝ ONDŘEJ,Plzeňský kraj,0,1,351,HOVJACKÝ ONDŘEJ,kdu-csl
 2021-04-14,750,Bezhotovostní příjem,RUZICKA JAN,Jan Ruzicka,,1101984,725,RUZICKA JAN,kdu-csl
@@ -706,7 +706,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-12,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
 2021-04-11,10000,Okamžitá příchozí platba,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2021-04-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
-2021-04-08,100000,Okamžitá příchozí platba,IVETA KRÁLOVÁ,Iveta Kralova,,761974,709,IVETA KRÁLOVÁ,kdu-csl
+2021-04-08,1e+05,Okamžitá příchozí platba,IVETA KRÁLOVÁ,Iveta Kralova,,761974,709,IVETA KRÁLOVÁ,kdu-csl
 2021-04-08,2000,Bezhotovostní příjem,KOJZAR JAROSLAV,Plzeňský kraj - Jaroslav Kojzar,308,1,351,KOJZAR JAROSLAV,kdu-csl
 2021-04-08,16500,Bezhotovostní příjem,VASTIK FRANTISEK,dar Vastik (DR),558,16071946,851,VASTIK FRANTISEK,kdu-csl
 2021-04-08,5000,Bezhotovostní příjem,AMIPE S.R.O.,Dar AMIPE pro KDU-CSL,308,28761871,,AMIPE S.R.O.,kdu-csl
@@ -719,7 +719,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-06,3000,Bezhotovostní příjem,Michal Hořínek,,,28101976,851,Michal Hořínek,kdu-csl
 2021-04-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
 2021-04-06,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
-2021-04-05,100000,Platba převodem uvnitř banky,"Bělobrádková, Jana",,,25121976,551,,kdu-csl
+2021-04-05,1e+05,Platba převodem uvnitř banky,"Bělobrádková, Jana",,,25121976,551,,kdu-csl
 2021-04-02,500,Platba převodem uvnitř banky,"Molin, Ondřej",dar - Na provoz - 751,,2104020079,,dar - Na provoz - 751,kdu-csl
 2021-04-01,2000,Okamžitá příchozí platba,"Hořínek Michal,Mgr.",,0,28101976,851,"Hořínek Michal,Mgr.",kdu-csl
 2021-04-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
@@ -766,7 +766,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-03-18,2100,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl
 2021-03-18,2500,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
 2021-03-18,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
-2021-03-18,900000,Bezhotovostní příjem,ZAVALIANIS SOTIRIOS,Darovací smlouva od Sotirios Zavalianis,0,0,0,ZAVALIANIS SOTIRIOS,kdu-csl
+2021-03-18,9e+05,Bezhotovostní příjem,ZAVALIANIS SOTIRIOS,Darovací smlouva od Sotirios Zavalianis,0,0,0,ZAVALIANIS SOTIRIOS,kdu-csl
 2021-03-17,50000,Okamžitá příchozí platba,Valíková Hana,darovací smlouva Valíková Hana 29.12.1990,0,29121990,,Valíková Hana,kdu-csl
 2021-03-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
 2021-03-16,12000,Okamžitá příchozí platba,"Lodr Jiří,Ing.",Lodr Jiří dar na KV PK a OO PM na polovinu 2021,558,1,351,"Lodr Jiří,Ing.",kdu-csl
@@ -833,10 +833,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-03-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
 2021-02-26,100,Bezhotovostní příjem,DAN DRÁPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRÁPAL,kdu-csl
 2021-02-26,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
-2021-02-25,100000,Bezhotovostní příjem,ŽÁKOVÁ JANA,,0,0,0,ŽÁKOVÁ JANA,kdu-csl
+2021-02-25,1e+05,Bezhotovostní příjem,ŽÁKOVÁ JANA,,0,0,0,ŽÁKOVÁ JANA,kdu-csl
 2021-02-25,200,Bezhotovostní příjem,OSTROVSKY VACLAV,pravidelny_prispevek,,23021988,713,OSTROVSKY VACLAV,kdu-csl
 2021-02-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
-2021-02-24,100000,Okamžitá příchozí platba,Hradišťská lékárensk,dar Hradištská lékárenská,,,,Hradišťská lékárensk,kdu-csl
+2021-02-24,1e+05,Okamžitá příchozí platba,Hradišťská lékárensk,dar Hradištská lékárenská,,,,Hradišťská lékárensk,kdu-csl
 2021-02-24,2000,Bezhotovostní příjem,BAZALA JOSEF,JOSEF BAZALA PŘÍSPĚVEK KDU-ČSL,0,0,0,BAZALA JOSEF,kdu-csl
 2021-02-23,150000,Okamžitá příchozí platba,MUDr. Zuzana Roithov,Dar  pro Jihočeskou organizaci -volby do PS 2021,,30011053,,MUDr. Zuzana Roithov,kdu-csl
 2021-02-23,2000,Bezhotovostní příjem,"NOVOTNY ANTONIN,ST.",dar-na provoz-000,0,2102220069,,"NOVOTNY ANTONIN,ST.",kdu-csl
@@ -852,7 +852,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-22,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
 2021-02-22,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
 2021-02-22,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
-2021-02-21,100000,Okamžitá příchozí platba,"Kunčar Patrik,Ing.",Dar,0,,,"Kunčar Patrik,Ing.",kdu-csl
+2021-02-21,1e+05,Okamžitá příchozí platba,"Kunčar Patrik,Ing.",Dar,0,,,"Kunčar Patrik,Ing.",kdu-csl
 2021-02-19,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl
 2021-02-18,3000,Bezhotovostní příjem,Michal Hořínek,,,28101976,851,Michal Hořínek,kdu-csl
 2021-02-18,2100,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl
@@ -888,7 +888,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-08,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
 2021-02-08,150,Bezhotovostní příjem,PTACEK ONDREJ,Dar,,0,,PTACEK ONDREJ,kdu-csl
 2021-02-08,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
-2021-02-02,100000,Bezhotovostní příjem,DOLEŽÁLEK VÍT,koalice SPOLU zvítězí,0,0,0,DOLEŽÁLEK VÍT,kdu-csl
+2021-02-02,1e+05,Bezhotovostní příjem,DOLEŽÁLEK VÍT,koalice SPOLU zvítězí,0,0,0,DOLEŽÁLEK VÍT,kdu-csl
 2021-02-02,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2021-02-01,35000,Okamžitá příchozí platba,Slezáková Věra,dar KDU -CSL,0,7562311933,,Slezáková Věra,kdu-csl
 2021-02-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
@@ -898,7 +898,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-29,100,Bezhotovostní příjem,Žáček Zdeněk,DAR,,,,Žáček Zdeněk,kdu-csl
 2021-01-29,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
 2021-01-28,100,Bezhotovostní příjem,DAN DRÁPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRÁPAL,kdu-csl
-2021-01-28,100000,Bezhotovostní příjem,HOŘAVA PAVEL,Dar KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
+2021-01-28,1e+05,Bezhotovostní příjem,HOŘAVA PAVEL,Dar KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
 2021-01-27,5000,Platba převodem uvnitř banky,"R36.cz, s.r.o.",dar,,28826736,,dar,kdu-csl
 2021-01-26,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
 2021-01-25,5000,Bezhotovostní příjem,LEDVINKA FRANTIŠEK,,0,24071962,0,LEDVINKA FRANTIŠEK,kdu-csl
@@ -1079,7 +1079,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-12-04,84000,Bezhotovostní příjem,SMETANA DAVID,KDU DAR,308,15063879,551,SMETANA DAVID,kdu-csl
 2020-12-04,18000,Okamžitá příchozí platba,Herzán David,David Herzán,0,1071973,721,Herzán David,kdu-csl
 2020-12-03,62500,Platba převodem uvnitř banky,Občanská demokratická strana,,378,2020042,,,kdu-csl
-2020-12-02,100000,Bezhotovostní příjem,SIKORA MARCEL,Marcel Sikora,308,75930781,851,SIKORA MARCEL,kdu-csl
+2020-12-02,1e+05,Bezhotovostní příjem,SIKORA MARCEL,Marcel Sikora,308,75930781,851,SIKORA MARCEL,kdu-csl
 2020-12-02,20000,Bezhotovostní příjem,Leder Filip,Dar,,16021974,709,Leder Filip,kdu-csl
 2020-12-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
 2020-12-01,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
@@ -1142,7 +1142,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-11-13,64000,Okamžitá příchozí platba,Šojdrová Michaela,Šojdrová dar ELS,308,28101963,,Šojdrová Michaela,kdu-csl
 2020-11-13,100,Bezhotovostní příjem,Daniel Tavlaridis,,0,19910811,999,Daniel Tavlaridis,kdu-csl
 2020-11-13,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
-2020-11-12,100000,Platba převodem uvnitř banky,"Ing. Niemiec, Bohuslav",,,851,11021982,,kdu-csl
+2020-11-12,1e+05,Platba převodem uvnitř banky,"Ing. Niemiec, Bohuslav",,,851,11021982,,kdu-csl
 2020-11-12,50000,Bezhotovostní příjem,ZETRADE S.R.O.,,,361968,717,ZETRADE S.R.O.,kdu-csl
 2020-11-12,41000,Okamžitá příchozí platba,Šojdrová Michaela,dar Šojdrová,308,6360281070,,Šojdrová Michaela,kdu-csl
 2020-11-12,45000,Bezhotovostní příjem,SEDLÁK PAVEL,Sedlak dar KDU-CSL,0,22091986,701,SEDLÁK PAVEL,kdu-csl
@@ -1153,27 +1153,27 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-11-11,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2020-11-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2020-11-10,3000,Bezhotovostní příjem,Benešík Ondřej,Členský příspěvěk KDU-ČSL,0,801,0,Benešík Ondřej,kdu-csl
-2020-11-10,100000,Bezhotovostní příjem,ZAMECNIK JAN,,,11021985,701,ZAMECNIK JAN,kdu-csl
+2020-11-10,1e+05,Bezhotovostní příjem,ZAMECNIK JAN,,,11021985,701,ZAMECNIK JAN,kdu-csl
 2020-11-10,12000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 614239 06.11.2020 c 2OLDR/CHUHLI*R*,0,30111962,,"CESKA POSTA, S.P.",kdu-csl
 2020-11-09,3400,Okamžitá příchozí platba,Blahová Michaela,,0,19061969,,Blahová Michaela,kdu-csl
 2020-11-09,2600,Bezhotovostní příjem,HELLER SIMON,SImon Heller,,0,,HELLER SIMON,kdu-csl
 2020-11-09,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
-2020-11-09,100000,Bezhotovostní příjem,VYHLÍDKOVÁ DANA,,0,26081964,701,VYHLÍDKOVÁ DANA,kdu-csl
+2020-11-09,1e+05,Bezhotovostní příjem,VYHLÍDKOVÁ DANA,,0,26081964,701,VYHLÍDKOVÁ DANA,kdu-csl
 2020-11-09,15000,Bezhotovostní příjem,Marek Plawny,"Marek Plawny, Havířov",,28061969,851,Marek Plawny,kdu-csl
 2020-11-09,200,Bezhotovostní příjem,HLAVINKA JIŘÍ,dar pro STC,,4041954,201,HLAVINKA JIŘÍ,kdu-csl
 2020-11-09,1000,Bezhotovostní příjem,TUČKOVÁ HELENA,,308,29121972,651,TUČKOVÁ HELENA,kdu-csl
 2020-11-09,150,Bezhotovostní příjem,PTACEK ONDREJ,Dar,,0,,PTACEK ONDREJ,kdu-csl
-2020-11-09,100000,Bezhotovostní příjem,BRZESKOVA MONIKA,"Dar, Brzeskova Monika",,11061977,,BRZESKOVA MONIKA,kdu-csl
+2020-11-09,1e+05,Bezhotovostní příjem,BRZESKOVA MONIKA,"Dar, Brzeskova Monika",,11061977,,BRZESKOVA MONIKA,kdu-csl
 2020-11-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
 2020-11-09,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
 2020-11-08,32224,Okamžitá příchozí platba,Ondřej Závodský,Dar Závodský,0,20111979,30,Ondřej Závodský,kdu-csl
-2020-11-06,-13000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2020-11-06,-1.3e+07,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
 2020-11-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
-2020-11-05,100000,Bezhotovostní příjem,SLOVÁČEK VÍT,Vit Slovacek,0,341961,851,SLOVÁČEK VÍT,kdu-csl
-2020-11-04,-100000,Platba převodem uvnitř banky,,převod daru - Závodský Ondřej,,,,převod daru - Závodský Ondřej,kdu-csl
+2020-11-05,1e+05,Bezhotovostní příjem,SLOVÁČEK VÍT,Vit Slovacek,0,341961,851,SLOVÁČEK VÍT,kdu-csl
+2020-11-04,-1e+05,Platba převodem uvnitř banky,,převod daru - Závodský Ondřej,,,,převod daru - Závodský Ondřej,kdu-csl
 2020-11-04,5400,Okamžitá příchozí platba,DROBÍLEK VLASTISLA,V.Drobilek-dar,,4071964,,DROBÍLEK VLASTISLA,kdu-csl
 2020-11-04,10000,Bezhotovostní příjem,Kaplan Tomáš,Dar - Mgr. Kaplan,,7209290209,101,Kaplan Tomáš,kdu-csl
-2020-11-03,100000,Okamžitá příchozí platba,Ondřej Závodský,Dar Závodský,0,20111979,30,Ondřej Závodský,kdu-csl
+2020-11-03,1e+05,Okamžitá příchozí platba,Ondřej Závodský,Dar Závodský,0,20111979,30,Ondřej Závodský,kdu-csl
 2020-11-03,10854166,Bezhotovostní příjem,MF,,6418,249872020,0,MF,kdu-csl
 2020-11-02,67000,Okamžitá příchozí platba,MUDr. Zuzana Roithov,příspěvěk dar  1-12. 2020,,30011953,,MUDr. Zuzana Roithov,kdu-csl
 2020-11-02,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
@@ -1188,9 +1188,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-30,84558,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, 3Q2020 darovací smlouvaKDU-ČSL (zhmp)",308,71339728,,TOP 09,kdu-csl
 2020-10-29,4000,Okamžitá příchozí platba,Arnošt Vogel,A. Vogel - Dar,,,,Arnošt Vogel,kdu-csl
 2020-10-29,6624.26,Bezhotovostní příjem,SIKORA MARCEL,Marcel Sikora-KDU-CSL,308,75930781,0,SIKORA MARCEL,kdu-csl
-2020-10-28,100000,Okamžitá příchozí platba,"Carbol Jiří,Ing.",Finanční dar pro KDU-ČSL Moravskosl,308,2041959,851,"Carbol Jiří,Ing.",kdu-csl
+2020-10-28,1e+05,Okamžitá příchozí platba,"Carbol Jiří,Ing.",Finanční dar pro KDU-ČSL Moravskosl,308,2041959,851,"Carbol Jiří,Ing.",kdu-csl
 2020-10-27,-2900,Platba převodem uvnitř banky,,,,1886511705,42,dar - KDU-ČSL,kdu-csl
-2020-10-27,100000,Okamžitá příchozí platba,KOCOUREK RADIM,,,68690100,701,KOCOUREK RADIM,kdu-csl
+2020-10-27,1e+05,Okamžitá příchozí platba,KOCOUREK RADIM,,,68690100,701,KOCOUREK RADIM,kdu-csl
 2020-10-27,100,Bezhotovostní příjem,DAN DRAPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRAPAL,kdu-csl
 2020-10-27,100,Bezhotovostní příjem,Žáček Zdeněk,DAR,,,,Žáček Zdeněk,kdu-csl
 2020-10-26,18000,Okamžitá příchozí platba,Paulová Edita,Miroslav Paul,0,681963,,Paulová Edita,kdu-csl
@@ -1201,17 +1201,17 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-25,5000,Okamžitá příchozí platba,Ing. Alois Vybíral,Dar KDU-ČSL Znojmo,,24081952,729,Ing. Alois Vybíral,kdu-csl
 2020-10-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
 2020-10-21,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
-2020-10-21,100000,Bezhotovostní příjem,"Hubertova lesní, s.r",KDU-CSL: dar,,2010200026,,"Hubertova lesní, s.r",kdu-csl
+2020-10-21,1e+05,Bezhotovostní příjem,"Hubertova lesní, s.r",KDU-CSL: dar,,2010200026,,"Hubertova lesní, s.r",kdu-csl
 2020-10-21,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
 2020-10-21,1000,Bezhotovostní příjem,KLIMEŠ PAVEL,Pavel Klimeš - DAR,,21041984,725,KLIMEŠ PAVEL,kdu-csl
-2020-10-20,100000,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
+2020-10-20,1e+05,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
 2020-10-20,150,Bezhotovostní příjem,Ing. Petr Kousal,zdraví Petr Kousal,0,540315,999,Ing. Petr Kousal,kdu-csl
 2020-10-20,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl
 2020-10-20,2000,Bezhotovostní příjem,"Kunčar Patrik,Ing.",,0,27021973,801,"Kunčar Patrik,Ing.",kdu-csl
 2020-10-20,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
 2020-10-20,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl
 2020-10-20,3000,Bezhotovostní příjem,Chalánková Jitka,chalánková příspěvek okres prostějov,558,763,,Chalánková Jitka,kdu-csl
-2020-10-20,100000,Bezhotovostní příjem,CURYLO LUKAS,,,3021974,851,CURYLO LUKAS,kdu-csl
+2020-10-20,1e+05,Bezhotovostní příjem,CURYLO LUKAS,,,3021974,851,CURYLO LUKAS,kdu-csl
 2020-10-19,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
 2020-10-19,3500,Bezhotovostní příjem,Adéla Botková,Dar KDU-ČSL Pavel Botek,308,21011972,801,Adéla Botková,kdu-csl
 2020-10-19,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
@@ -1235,19 +1235,19 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-13,2000,Okamžitá příchozí platba,Ing. Dana Forišková,od Foriskove,308,5655172039,851,Ing. Dana Forišková,kdu-csl
 2020-10-13,677,Okamžitá příchozí platba,Vodáková Tereza,pro Olomoucký kraj,0,,751,Vodáková Tereza,kdu-csl
 2020-10-13,10000,Okamžitá příchozí platba,"Kašný Miroslav,Mgr.",Kašný 2020,0,14011960,,"Kašný Miroslav,Mgr.",kdu-csl
-2020-10-13,100000,Bezhotovostní příjem,NAVRÁTIL JIŘÍ,Dar krajské kanceláři MSK,308,13061977,851,NAVRÁTIL JIŘÍ,kdu-csl
+2020-10-13,1e+05,Bezhotovostní příjem,NAVRÁTIL JIŘÍ,Dar krajské kanceláři MSK,308,13061977,851,NAVRÁTIL JIŘÍ,kdu-csl
 2020-10-13,100,Bezhotovostní příjem,Daniel Tavlaridis,,0,19910811,999,Daniel Tavlaridis,kdu-csl
 2020-10-13,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2020-10-13,3500,Bezhotovostní příjem,"Derner Vladimír,Ing.",Derner dar,0,13071956,551,"Derner Vladimír,Ing.",kdu-csl
 2020-10-13,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2020-10-12,43500,Bezhotovostní příjem,VYBORNY MAREK,,,0,601,VYBORNY MAREK,kdu-csl
-2020-10-12,100000,Bezhotovostní příjem,MUSIL PETR,Petr Musil,0,25121976,709,MUSIL PETR,kdu-csl
+2020-10-12,1e+05,Bezhotovostní příjem,MUSIL PETR,Petr Musil,0,25121976,709,MUSIL PETR,kdu-csl
 2020-10-12,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2020-10-12,3000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
 2020-10-12,3000,Bezhotovostní příjem,Benešík Ondřej,Členský příspěvěk KDU-ČSL,0,801,0,Benešík Ondřej,kdu-csl
 2020-10-12,30000,Bezhotovostní příjem,BARTOSEK JAN,Dar J.Bartosek,,0,,BARTOSEK JAN,kdu-csl
 2020-10-11,16100,Okamžitá příchozí platba,"Marek Světnička, DiS",,138,17121969,851,"Marek Světnička, DiS",kdu-csl
-2020-10-09,100000,Bezhotovostní příjem,MUSIL PETR,Petr Musil,0,25121976,709,MUSIL PETR,kdu-csl
+2020-10-09,1e+05,Bezhotovostní příjem,MUSIL PETR,Petr Musil,0,25121976,709,MUSIL PETR,kdu-csl
 2020-10-09,50000,Okamžitá příchozí platba,Machová Marie,finanční dar KDU-ČSL,0,2541965,709,Machová Marie,kdu-csl
 2020-10-09,50000,Bezhotovostní příjem,"KALAB - INVEST, S.R.",Dar na zaklade darovaci smlouvy,,6213022,713,"KALAB - INVEST, S.R.",kdu-csl
 2020-10-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
@@ -1265,20 +1265,20 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-07,1000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 613153 05.10.2020 c 1002ZDE*VEZJELEN,0,24031947,729,"CESKA POSTA, S.P.",kdu-csl
 2020-10-07,25000,Bezhotovostní příjem,SKD BUCOVICE,"Spolecnost Katolickeho domu vBucovicich, z. s.",,42660297,725,SKD BUCOVICE,kdu-csl
 2020-10-06,31460,Okamžitá příchozí platba,"Jajtner Pavel,MUDr.",,0,27111973,729,"Jajtner Pavel,MUDr.",kdu-csl
-2020-10-06,200000,Vklad v hotovosti,,,558,9031973,709,,kdu-csl
+2020-10-06,2e+05,Vklad v hotovosti,,,558,9031973,709,,kdu-csl
 2020-10-06,16500,Bezhotovostní příjem,VASTIK FRANTISEK,dar Vastik (DR),558,16071946,851,VASTIK FRANTISEK,kdu-csl
-2020-10-06,-16000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2020-10-06,-1.6e+07,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
 2020-10-06,50000,Bezhotovostní příjem,JAN GROLICH,KRAJSKÉ VOLBY JMK,,11061984,713,JAN GROLICH,kdu-csl
 2020-10-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
-2020-10-06,100000,Bezhotovostní příjem,VESELY JIRI,,,27011969,551,VESELY JIRI,kdu-csl
-2020-10-05,100000,Platba převodem uvnitř banky,Piknik box s.r.o.,dar KDU ČSL,,5154979,713,dar KDU ČSL,kdu-csl
+2020-10-06,1e+05,Bezhotovostní příjem,VESELY JIRI,,,27011969,551,VESELY JIRI,kdu-csl
+2020-10-05,1e+05,Platba převodem uvnitř banky,Piknik box s.r.o.,dar KDU ČSL,,5154979,713,dar KDU ČSL,kdu-csl
 2020-10-05,225000,Platba převodem uvnitř banky,Strana zelených,"podíl KDU-ČSL z mandátů Seitlová, Orel - 3. čtvrtletí 2020",,,,"podíl KDU-ČSL z mandátů Seitlová, Orel - 3. čtvrtletí 2020",kdu-csl
 2020-10-05,30000,Platba převodem uvnitř banky,SENÁTOR 21,"SENÁTOR 21 zaslání příspěvku na kampaň koaličního kandidáta Václava Hampla, 2. kolo - obv. č. 27 - Praha 1",,27,,"SENÁTOR 21 zaslání příspěvku na kampaň koaličního kandidáta Václava Hampla, 2. kolo - obv. č. 27 - Praha 1",kdu-csl
-2020-10-05,200000,Bezhotovostní příjem,VINAMET CZ S.R.O.,,0,26845148,0,VINAMET CZ S.R.O.,kdu-csl
+2020-10-05,2e+05,Bezhotovostní příjem,VINAMET CZ S.R.O.,,0,26845148,0,VINAMET CZ S.R.O.,kdu-csl
 2020-10-05,6250,Bezhotovostní příjem,UCHYTIL MIROSLAV,Darovaci smlouva - KDU CSL,,15051958,551,UCHYTIL MIROSLAV,kdu-csl
 2020-10-03,1000,Okamžitá příchozí platba,Tomáš Burger,"Tomas Burger, Praha 7",9,7206042855,27,Tomáš Burger,kdu-csl
 2020-10-03,2000,Okamžitá příchozí platba,"Maclová Anna,Ing.",na volební kampaň prof. Jana Čápa -,0,45,,"Maclová Anna,Ing.",kdu-csl
-2020-10-02,100000,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
+2020-10-02,1e+05,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
 2020-10-02,30300,Bezhotovostní příjem,DVORAK ZDENEK,,,180154,301,DVORAK ZDENEK,kdu-csl
 2020-10-01,30000,Okamžitá příchozí platba,"Zubní lékařství, MUD",Volební kampaň Jiřího Miholy,0,75833492,709,"Zubní lékařství, MUD",kdu-csl
 2020-10-01,7378,Bezhotovostní příjem,SLOVÁČEK VÍT,Vit Slovacek,0,341961,851,SLOVÁČEK VÍT,kdu-csl
@@ -1298,16 +1298,16 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-29,150,Bezhotovostní příjem,OSTROVSKY VACLAV,Vaclav Ostrovsky - pravidelny prispevek,,0,,OSTROVSKY VACLAV,kdu-csl
 2020-09-29,3000,Bezhotovostní příjem,HROMADKA MARTIN,,,24051979,851,HROMADKA MARTIN,kdu-csl
 2020-09-29,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
-2020-09-29,100000,Bezhotovostní příjem,Jurčíková Stanislava,Stanislava Jurčíková,,1121982,709,Jurčíková Stanislava,kdu-csl
+2020-09-29,1e+05,Bezhotovostní příjem,Jurčíková Stanislava,Stanislava Jurčíková,,1121982,709,Jurčíková Stanislava,kdu-csl
 2020-09-26,4500,Okamžitá příchozí platba,"Šafařík Jan,Ing.,MBA",Dar na volby Olm kraj,0,,751,"Šafařík Jan,Ing.,MBA",kdu-csl
 2020-09-25,50000,Okamžitá příchozí platba,Černín František,Make Jižní Morava žlutá again!,0,28111986,701,Černín František,kdu-csl
 2020-09-25,50000,Bezhotovostní příjem,MÁČAL TOMÁŠ,,0,45612595,57,MÁČAL TOMÁŠ,kdu-csl
-2020-09-25,100000,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
+2020-09-25,1e+05,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
 2020-09-25,100,Bezhotovostní příjem,DAN DRAPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRAPAL,kdu-csl
 2020-09-25,100,Bezhotovostní příjem,Žáček Zdeněk,DAR,,,,Žáček Zdeněk,kdu-csl
 2020-09-25,5000,Okamžitá příchozí platba,Šojdrová Michaela,dar Jihočeský kraj,308,28101963,,Šojdrová Michaela,kdu-csl
-2020-09-25,200000,Bezhotovostní příjem,KOZAK ALES,601200,558,27011952,709,KOZAK ALES,kdu-csl
-2020-09-25,100000,Bezhotovostní příjem,VAVERKA PETR,Petr Vaverka,,22101960,709,VAVERKA PETR,kdu-csl
+2020-09-25,2e+05,Bezhotovostní příjem,KOZAK ALES,601200,558,27011952,709,KOZAK ALES,kdu-csl
+2020-09-25,1e+05,Bezhotovostní příjem,VAVERKA PETR,Petr Vaverka,,22101960,709,VAVERKA PETR,kdu-csl
 2020-09-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
 2020-09-25,1000,Bezhotovostní příjem,KOZUBIKOVA ZDENKA,,801,2009240024,,KOZUBIKOVA ZDENKA,kdu-csl
 2020-09-25,2000,Bezhotovostní příjem,FILIP HUNEK,VÁCLAV HAMPL - DAR,,8107090178,27,FILIP HUNEK,kdu-csl
@@ -1320,7 +1320,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-24,20000,Bezhotovostní příjem,CELAROVÁ IVETA,,,6359120130,27,CELAROVÁ IVETA,kdu-csl
 2020-09-24,50000,Bezhotovostní příjem,"PASSERINVEST GROUP,",FIN. DAR DLE DS ZE DNE 27.8.2020SML-01-2020-60,,26118963,,"PASSERINVEST GROUP,",kdu-csl
 2020-09-23,10833,Okamžitá příchozí platba,"Machů Martin,Ing.",,0,7111978,5511,"Machů Martin,Ing.",kdu-csl
-2020-09-23,100000,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
+2020-09-23,1e+05,Okamžitá příchozí platba,Ondřej Závodský,Volby senát,0,20111979,30,Ondřej Závodský,kdu-csl
 2020-09-23,34520,Platba převodem uvnitř banky,"Ing. Niemiec, Bohuslav",Volby msk v+l,,11021982,851,Volby msk v+l,kdu-csl
 2020-09-23,1000,Platba převodem uvnitř banky,"ak. mal. Stroblová, Milada",,,535911279,27,,kdu-csl
 2020-09-23,50000,Bezhotovostní příjem,BARTOSEK JAN,,,0,,BARTOSEK JAN,kdu-csl
@@ -1363,7 +1363,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-17,2900,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/20,,3021971,709,SUCHY JAROSLAV,kdu-csl
 2020-09-17,40000,Bezhotovostní příjem,OUŘEDNÍKOVÁ RADKA,Ouředník Miroslav,308,9,0,OUŘEDNÍKOVÁ RADKA,kdu-csl
 2020-09-17,20000,Bezhotovostní příjem,Leder Filip,Dar,,16021974,709,Leder Filip,kdu-csl
-2020-09-17,100000,Bezhotovostní příjem,KAFKA JAN,,,0,601,KAFKA JAN,kdu-csl
+2020-09-17,1e+05,Bezhotovostní příjem,KAFKA JAN,,,0,601,KAFKA JAN,kdu-csl
 2020-09-16,3394,Platba převodem uvnitř banky,"Ing. Jedlička, Michal",,,10091980,851,,kdu-csl
 2020-09-16,70000,Bezhotovostní příjem,DOLEŽÁLEK VÍT,Dar na krajské volby,0,0,0,DOLEŽÁLEK VÍT,kdu-csl
 2020-09-16,3200,Bezhotovostní příjem,"Kaňkovský Vít,MUDr.",,0,5021970,651,"Kaňkovský Vít,MUDr.",kdu-csl
@@ -1374,8 +1374,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-16,75000,Bezhotovostní příjem,JURECKA MARIAN,DAR M. Jurecka KDU Olomoucky kraj,,0,,JURECKA MARIAN,kdu-csl
 2020-09-15,2000,Okamžitá příchozí platba,JIRAN STANISLAV,,0,1,,JIRAN STANISLAV,kdu-csl
 2020-09-15,1000,Platba převodem uvnitř banky,"RNDr. Banaš, Marek Ph.D.",dar pro Olomoucký kraj,,,751,dar pro Olomoucký kraj,kdu-csl
-2020-09-15,100000,Bezhotovostní příjem,JIRI HASON,"JIŘÍ HASOŇ, 17.12.1980",,17121980,709,JIRI HASON,kdu-csl
-2020-09-15,100000,Bezhotovostní příjem,ONDREJ ZAVODSKY,VOLBY SENÁT,,20111979,30,ONDREJ ZAVODSKY,kdu-csl
+2020-09-15,1e+05,Bezhotovostní příjem,JIRI HASON,"JIŘÍ HASOŇ, 17.12.1980",,17121980,709,JIRI HASON,kdu-csl
+2020-09-15,1e+05,Bezhotovostní příjem,ONDREJ ZAVODSKY,VOLBY SENÁT,,20111979,30,ONDREJ ZAVODSKY,kdu-csl
 2020-09-15,10000,Bezhotovostní příjem,SEITLOVÁ JITKA,dar pro volby  Olomoucký kraj,307,0,751,SEITLOVÁ JITKA,kdu-csl
 2020-09-15,2000,Bezhotovostní příjem,Filip Chvátal,Filip Chvátal pravidelný příspěvekKDU Brno,,27051986,709,Filip Chvátal,kdu-csl
 2020-09-15,2000,Bezhotovostní příjem,"Bradáč František,Ing",,0,0,0,"Bradáč František,Ing",kdu-csl
@@ -1399,7 +1399,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-11,5000,Bezhotovostní příjem,František Horák,Dar na volby pro Olomoucký kraj - František Horák,,,,František Horák,kdu-csl
 2020-09-11,1250,Bezhotovostní příjem,BARANEK PETR,Baranek Petr MSK IX/2020,851,16021960,,BARANEK PETR,kdu-csl
 2020-09-11,-116046.6,Bezhotovostní platba,,převod na provoz,558,442704,,převod na provoz,kdu-csl
-2020-09-11,100000,Bezhotovostní příjem,TOMÁŠ TOMÁŠ,Tomáš Tomáš,0,19011968,60,TOMÁŠ TOMÁŠ,kdu-csl
+2020-09-11,1e+05,Bezhotovostní příjem,TOMÁŠ TOMÁŠ,Tomáš Tomáš,0,19011968,60,TOMÁŠ TOMÁŠ,kdu-csl
 2020-09-11,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2020-09-11,5000,Okamžitá příchozí platba,"Filip Martin,Ing.",Jihočeský kraj (Martin Filip),0,,,"Filip Martin,Ing.",kdu-csl
 2020-09-11,33965,Bezhotovostní příjem,SIKORA MARCEL,,308,75930781,851,SIKORA MARCEL,kdu-csl
@@ -1413,7 +1413,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-09,50000,Platba převodem uvnitř banky,Občanská demokratická strana,převod na volby,,442704,,převod na volby,kdu-csl
 2020-09-09,1000,Bezhotovostní příjem,HANACEK VLADIMIR,,,28011987,301,HANACEK VLADIMIR,kdu-csl
 2020-09-09,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
-2020-09-09,100000,Bezhotovostní příjem,STAMOS UHERSKÉ HRADI,,558,46346171,0,STAMOS UHERSKÉ HRADI,kdu-csl
+2020-09-09,1e+05,Bezhotovostní příjem,STAMOS UHERSKÉ HRADI,,558,46346171,0,STAMOS UHERSKÉ HRADI,kdu-csl
 2020-09-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
 2020-09-09,70000,Bezhotovostní příjem,"Antonius, z.s.",volby do KZ Lbc kraj,,501,,"Antonius, z.s.",kdu-csl
 2020-09-09,6000,Bezhotovostní příjem,Řeznictví a uzenářst,"dar Řeznictví a uzenářství OldřichČejka, s.r.o.",0,601,601,Řeznictví a uzenářst,kdu-csl
@@ -1425,11 +1425,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-08,20000,Bezhotovostní příjem,HELLER SIMON,Simon Heller,,0,,HELLER SIMON,kdu-csl
 2020-09-08,5000,Bezhotovostní příjem,HELLER SIMON,Simon Heller,,0,,HELLER SIMON,kdu-csl
 2020-09-08,-50000,Platba převodem uvnitř banky,,převod  na volby,,442704,,převod na volby,kdu-csl
-2020-09-08,-700000,Platba převodem uvnitř banky,,převod  na volby,,,,převod na volby,kdu-csl
+2020-09-08,-7e+05,Platba převodem uvnitř banky,,převod  na volby,,,,převod na volby,kdu-csl
 2020-09-08,-5000,Platba převodem uvnitř banky,,převod na volby,,,,převod na volby,kdu-csl
 2020-09-08,10000,Bezhotovostní příjem,JELINKOVA SARKA,Dar krajske volby 2020,308,24011968,801,JELINKOVA SARKA,kdu-csl
 2020-09-08,150,Bezhotovostní příjem,PTACEK ONDREJ,Dar,,0,,PTACEK ONDREJ,kdu-csl
-2020-09-08,200000,Bezhotovostní příjem,NEPALOVÁ JIŘINA,"FINANCNI DAR NA VOLEBNI KAMPAN JITKY SEITLOVE, VOLEBNI OBVOD 63",,,63,NEPALOVÁ JIŘINA,kdu-csl
+2020-09-08,2e+05,Bezhotovostní příjem,NEPALOVÁ JIŘINA,"FINANCNI DAR NA VOLEBNI KAMPAN JITKY SEITLOVE, VOLEBNI OBVOD 63",,,63,NEPALOVÁ JIŘINA,kdu-csl
 2020-09-08,20000,Bezhotovostní příjem,LANGR MIROSLAV,18071965 Dar Langr,,,,LANGR MIROSLAV,kdu-csl
 2020-09-07,8000,Okamžitá příchozí platba,"Maclová Anna,Ing.",krajské volby Koalice pro Královéhr,0,,5511,"Maclová Anna,Ing.",kdu-csl
 2020-09-07,4750,Bezhotovostní příjem,Michal Stankay,Pavlína Stankayová,,26011979,851,Michal Stankay,kdu-csl
@@ -1470,7 +1470,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-31,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
 2020-08-30,3650,Okamžitá příchozí platba,DOPRASTAV PERÚTKA,,,28606370,,DOPRASTAV PERÚTKA,kdu-csl
 2020-08-28,25000,Bezhotovostní příjem,MAKOVEC ALOIS,,0,0,0,MAKOVEC ALOIS,kdu-csl
-2020-08-28,-8000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2020-08-28,-8e+06,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
 2020-08-28,-5000,Platba převodem uvnitř banky,,,,,,převod na volby - převod daru,kdu-csl
 2020-08-28,-50000,Platba převodem uvnitř banky,,,,,,převod na volby - převod daru,kdu-csl
 2020-08-28,3000,Platba převodem uvnitř banky,"Karczmarczyk, Roman","dar, krajské volby, Roman Karczmarczyk",,6839924,851,"dar, krajské volby, Roman Karczmarczyk",kdu-csl
@@ -1485,7 +1485,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-26,150,Bezhotovostní příjem,OSTROVSKY VACLAV,Vaclav Ostrovsky - pravidelny prispevek,,0,,OSTROVSKY VACLAV,kdu-csl
 2020-08-26,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
 2020-08-25,50000,Bezhotovostní příjem,KOLOMAZNÍK MILOSLAV,dar kolomaznik,0,650614,0,KOLOMAZNÍK MILOSLAV,kdu-csl
-2020-08-25,100000,Bezhotovostní příjem,DVOŘÁČEK JIŘÍ,Dar KDU-ČSL,0,0,0,DVOŘÁČEK JIŘÍ,kdu-csl
+2020-08-25,1e+05,Bezhotovostní příjem,DVOŘÁČEK JIŘÍ,Dar KDU-ČSL,0,0,0,DVOŘÁČEK JIŘÍ,kdu-csl
 2020-08-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
 2020-08-24,20000,Bezhotovostní příjem,MARTÍNEK JAN,DAR - JČK,0,0,301,MARTÍNEK JAN,kdu-csl
 2020-08-24,30000,Okamžitá příchozí platba,Jurníček Radek,Dar,0,10121961,57,Jurníček Radek,kdu-csl
@@ -1500,13 +1500,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-20,50000,Vklad v hotovosti,Dar - Helena Klimplová,,558,,57,Dar - Helena Klimplová,kdu-csl
 2020-08-20,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl
 2020-08-20,150,Bezhotovostní příjem,Ing. Petr Kousal,zdraví Petr Kousal,0,540315,999,Ing. Petr Kousal,kdu-csl
-2020-08-20,100000,Bezhotovostní příjem,TOMÁŠ TOMÁŠ,Tomáš Tomáš senátní kampaň,0,19011968,60,TOMÁŠ TOMÁŠ,kdu-csl
+2020-08-20,1e+05,Bezhotovostní příjem,TOMÁŠ TOMÁŠ,Tomáš Tomáš senátní kampaň,0,19011968,60,TOMÁŠ TOMÁŠ,kdu-csl
 2020-08-20,3000,Bezhotovostní příjem,Chalánková Jitka,chalánková příspěvek okres prostějov,558,763,,Chalánková Jitka,kdu-csl
 2020-08-20,2000,Bezhotovostní příjem,"Kunčar Patrik,Ing.",,0,27021973,801,"Kunčar Patrik,Ing.",kdu-csl
 2020-08-20,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
 2020-08-20,20000,Bezhotovostní příjem,ABRAHÁM ONDŘEJ,dar STEHLÍK,,,,ABRAHÁM ONDŘEJ,kdu-csl
 2020-08-19,500,Bezhotovostní příjem,Miroslav Válek,Dar pro KDU-ČSL,,540713,,Miroslav Válek,kdu-csl
-2020-08-19,100000,Okamžitá příchozí platba,"Carbol Jiří,Ing.",Finanční dar na senátní kampaň - ob,308,2041959,851,"Carbol Jiří,Ing.",kdu-csl
+2020-08-19,1e+05,Okamžitá příchozí platba,"Carbol Jiří,Ing.",Finanční dar na senátní kampaň - ob,308,2041959,851,"Carbol Jiří,Ing.",kdu-csl
 2020-08-19,150000,Vklad v hotovosti,,,558,22101960,709,,kdu-csl
 2020-08-19,50000,Bezhotovostní příjem,Hečko Jiří,STEHLIK,,,,Hečko Jiří,kdu-csl
 2020-08-19,3500,Bezhotovostní příjem,Adéla Botková,Dar KDU-ČSL Pavel Botek,308,21011972,801,Adéla Botková,kdu-csl
@@ -1568,7 +1568,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-11,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2020-08-10,21000,Okamžitá příchozí platba,LUMÍR ASCHENBRENNER,Plzeňský kraj,,,351,LUMÍR ASCHENBRENNER,kdu-csl
 2020-08-10,300,Okamžitá příchozí platba,"Daďo Stanislav,Ing.",,0,340325799,,"Daďo Stanislav,Ing.",kdu-csl
-2020-08-10,100000,Bezhotovostní příjem,NAVLÁČIL STAVEBNÍ FI,"Navlacil stavebni firma, s.r.o.",308,25301144,0,NAVLÁČIL STAVEBNÍ FI,kdu-csl
+2020-08-10,1e+05,Bezhotovostní příjem,NAVLÁČIL STAVEBNÍ FI,"Navlacil stavebni firma, s.r.o.",308,25301144,0,NAVLÁČIL STAVEBNÍ FI,kdu-csl
 2020-08-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2020-08-10,150,Bezhotovostní příjem,PTACEK ONDREJ,Dar,,0,,PTACEK ONDREJ,kdu-csl
 2020-08-10,3000,Bezhotovostní příjem,Benešík Ondřej,Členský příspěvěk KDU-ČSL,0,801,0,Benešík Ondřej,kdu-csl
@@ -1589,10 +1589,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-04,2500,Okamžitá příchozí platba,"Liberda Josef,Ing.",Dar pro Olomoucky kraj,0,5807030218,751,"Liberda Josef,Ing.",kdu-csl
 2020-08-04,6000,Bezhotovostní příjem,DRAHOŠ PETR,dar Petr Drahoš,0,0,601,DRAHOŠ PETR,kdu-csl
 2020-08-04,10000,Okamžitá příchozí platba,"Kašný Miroslav,Mgr.",Kašný 2020,0,14011960,,"Kašný Miroslav,Mgr.",kdu-csl
-2020-08-04,-700000,Platba převodem uvnitř banky,,převod na volby - Hampl V.,558,442704,,převod na volby - Hampl V.,kdu-csl
+2020-08-04,-7e+05,Platba převodem uvnitř banky,,převod na volby - Hampl V.,558,442704,,převod na volby - Hampl V.,kdu-csl
 2020-08-04,2500,Bezhotovostní příjem,DOSTAL TOMÁŠ,Dostal-Dar pro Olomoucky kraj,558,710214,751,DOSTAL TOMÁŠ,kdu-csl
-2020-08-03,200000,Platba převodem uvnitř banky,Strana zelených,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Jitka Seitlová VO 63, Strana zelených, IČO 00409740",,,,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Jitka Seitlová VO 63, Strana zelených, IČO 00409740",kdu-csl
-2020-08-03,100000,Bezhotovostní příjem,TAUCHMAN MILOSLAV,"Hodne stesti, mily Honzo!",,13021957,45,TAUCHMAN MILOSLAV,kdu-csl
+2020-08-03,2e+05,Platba převodem uvnitř banky,Strana zelených,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Jitka Seitlová VO 63, Strana zelených, IČO 00409740",,,,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Jitka Seitlová VO 63, Strana zelených, IČO 00409740",kdu-csl
+2020-08-03,1e+05,Bezhotovostní příjem,TAUCHMAN MILOSLAV,"Hodne stesti, mily Honzo!",,13021957,45,TAUCHMAN MILOSLAV,kdu-csl
 2020-08-03,5000,Bezhotovostní příjem,Marek Plawny,"Marek Plawny, Havířov",,28061969,851,Marek Plawny,kdu-csl
 2020-08-03,10000,Bezhotovostní příjem,HAMALOVA DAGMAR,,705,6071969,,HAMALOVA DAGMAR,kdu-csl
 2020-08-03,2500,Bezhotovostní příjem,BUZZIOVA BOHUNKA,dar pro Olomoucky kraj,,470310441,751,BUZZIOVA BOHUNKA,kdu-csl
@@ -1607,10 +1607,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-29,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
 2020-07-28,100,Bezhotovostní příjem,DAN DRAPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRAPAL,kdu-csl
 2020-07-28,100,Bezhotovostní příjem,Žáček Zdeněk,DAR,,,,Žáček Zdeněk,kdu-csl
-2020-07-28,100000,Bezhotovostní příjem,ZAMECNIK JAN,,,11021985,701,ZAMECNIK JAN,kdu-csl
+2020-07-28,1e+05,Bezhotovostní příjem,ZAMECNIK JAN,,,11021985,701,ZAMECNIK JAN,kdu-csl
 2020-07-27,2400,Okamžitá příchozí platba,DOPRASTAV PERÚTKA,,,28606370,,DOPRASTAV PERÚTKA,kdu-csl
 2020-07-27,15000,Okamžitá příchozí platba,Ing. Dana Forišková,od Foriškové,308,5655172039,851,Ing. Dana Forišková,kdu-csl
-2020-07-27,100000,Okamžitá příchozí platba,Mencová Miroslava,dar KDU-ČSL,0,5461133018,,Mencová Miroslava,kdu-csl
+2020-07-27,1e+05,Okamžitá příchozí platba,Mencová Miroslava,dar KDU-ČSL,0,5461133018,,Mencová Miroslava,kdu-csl
 2020-07-27,50000,Bezhotovostní příjem,KLAŠKOVÁ LENKA,Dar Jar. Klaška senátní volby Vyškov,0,28061962,57,KLAŠKOVÁ LENKA,kdu-csl
 2020-07-27,150,Bezhotovostní příjem,OSTROVSKY VACLAV,Vaclav Ostrovsky - pravidelny prispevek,,0,,OSTROVSKY VACLAV,kdu-csl
 2020-07-27,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
@@ -1637,14 +1637,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-20,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
 2020-07-20,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
 2020-07-20,5000,Bezhotovostní příjem,"D-HOLZ, S.R.O.",,0,60740426,0,"D-HOLZ, S.R.O.",kdu-csl
-2020-07-17,200000,Bezhotovostní příjem,"TOMA OLOMOUC, S.R.O.",,308,1810740,0,"TOMA OLOMOUC, S.R.O.",kdu-csl
+2020-07-17,2e+05,Bezhotovostní příjem,"TOMA OLOMOUC, S.R.O.",,308,1810740,0,"TOMA OLOMOUC, S.R.O.",kdu-csl
 2020-07-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
 2020-07-17,2900,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/20,,3021971,709,SUCHY JAROSLAV,kdu-csl
 2020-07-16,20000,Okamžitá příchozí platba,MUDr. Zuzana Roithov,dar Roithová pro kampaň lídra JČK- F.Talíře,,,,MUDr. Zuzana Roithov,kdu-csl
 2020-07-16,11850,Bezhotovostní příjem,SIKORA MARCEL,kampan kraj-Marcel Sikora,308,6121987,851,SIKORA MARCEL,kdu-csl
 2020-07-16,3200,Bezhotovostní příjem,"Kaňkovský Vít,MUDr.",,0,5021970,651,"Kaňkovský Vít,MUDr.",kdu-csl
 2020-07-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
-2020-07-16,100000,Bezhotovostní příjem,HOŘAVA PAVEL,Dar KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
+2020-07-16,1e+05,Bezhotovostní příjem,HOŘAVA PAVEL,Dar KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
 2020-07-16,150,Bezhotovostní příjem,Weber Tomáš,Pozdrav z Prostějova,999,19860304,,Weber Tomáš,kdu-csl
 2020-07-16,150,Bezhotovostní příjem,Weber Tomáš,Pozdrav z Prostějova,999,19831015,,Weber Tomáš,kdu-csl
 2020-07-16,3000,Bezhotovostní příjem,Polcr Pavel,dar Pavel Polcr,,,,Polcr Pavel,kdu-csl
@@ -1678,7 +1678,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-09,2000,Bezhotovostní příjem,KUDELA PETR,,0,10031969,851,KUDELA PETR,kdu-csl
 2020-07-09,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
 2020-07-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
-2020-07-08,300000,Platba převodem uvnitř banky,Strana zelených,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Václav Hampl VO 27, Strana zelených, IČO 00409740",,,,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Václav Hampl VO 27, Strana zelených, IČO 00409740",kdu-csl
+2020-07-08,3e+05,Platba převodem uvnitř banky,Strana zelených,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Václav Hampl VO 27, Strana zelených, IČO 00409740",,,,"dar ve prospěch KDU-ČSL na kampaň do Senátu - Václav Hampl VO 27, Strana zelených, IČO 00409740",kdu-csl
 2020-07-08,15000,Okamžitá příchozí platba,Bartošová Ivana,Dar Plzeňský kraj,0,,,Bartošová Ivana,kdu-csl
 2020-07-08,150,Bezhotovostní příjem,PTACEK ONDREJ,Dar,,0,,PTACEK ONDREJ,kdu-csl
 2020-07-08,12000,Bezhotovostní příjem,VASA ANTONIN,,,11061969,651,VASA ANTONIN,kdu-csl
@@ -1695,7 +1695,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-02,225000,Platba převodem uvnitř banky,Strana zelených,"podíl KDU-ČSL z mandátů Seitlová, Orel - 2. čtvrtletí 2020",,,,"podíl KDU-ČSL z mandátů Seitlová, Orel - 2. čtvrtletí 2020",kdu-csl
 2020-07-01,4000,Okamžitá příchozí platba,Vereš Vojtěch,,0,3091976,851,Vereš Vojtěch,kdu-csl
 2020-07-01,164000,Bezhotovostní příjem,RELAX CENTRUM KOLŠTE,DAR,308,1810481,0,RELAX CENTRUM KOLŠTE,kdu-csl
-2020-07-01,200000,Bezhotovostní příjem,SEITLOVÁ JITKA,dar pro v. obvod č.63,0,0,63,SEITLOVÁ JITKA,kdu-csl
+2020-07-01,2e+05,Bezhotovostní příjem,SEITLOVÁ JITKA,dar pro v. obvod č.63,0,0,63,SEITLOVÁ JITKA,kdu-csl
 2020-07-01,15000,Bezhotovostní příjem,GATEMA HOLDING S.R.O,,8,8745854,705,GATEMA HOLDING S.R.O,kdu-csl
 2020-07-01,40000,Bezhotovostní příjem,JANATA PAVEL,pro KDU-ČSL Třebíč,0,18071960,0,JANATA PAVEL,kdu-csl
 2020-07-01,20000,Bezhotovostní příjem,KLÍMA KAREL,krajské volby KHK,8,0,5511,KLÍMA KAREL,kdu-csl
@@ -1704,7 +1704,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-30,4300,Okamžitá příchozí platba,DOPRASTAV PERÚTKA,,,28606370,,DOPRASTAV PERÚTKA,kdu-csl
 2020-06-30,40947,Bezhotovostní příjem,SIKORA MARCEL,Marcel Sikora-kampan,308,6121987,851,SIKORA MARCEL,kdu-csl
 2020-06-30,2750,Platba převodem uvnitř banky,"Oravčík, Pavel",Pavel Oravčík - Havířov,,23021973,851,Pavel Oravčík - Havířov,kdu-csl
-2020-06-30,100000,Bezhotovostní příjem,ŽÁKOVÁ JANA,dar,0,0,0,ŽÁKOVÁ JANA,kdu-csl
+2020-06-30,1e+05,Bezhotovostní příjem,ŽÁKOVÁ JANA,dar,0,0,0,ŽÁKOVÁ JANA,kdu-csl
 2020-06-30,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
 2020-06-29,2000,Okamžitá příchozí platba,"Pražáková Věra,Bc.",,0,20121961,851,"Pražáková Věra,Bc.",kdu-csl
 2020-06-29,15000,Bezhotovostní příjem,BERAN VIT,Darovaci smlouva KDU,,22051967,709,BERAN VIT,kdu-csl
@@ -1726,7 +1726,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-22,150,Bezhotovostní příjem,Ing. Petr Kousal,zdraví Petr Kousal,0,540315,999,Ing. Petr Kousal,kdu-csl
 2020-06-22,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl
 2020-06-22,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
-2020-06-22,100000,Bezhotovostní příjem,BINDR PETR,na volebni kampan senatorky JitkySeitlove,,0,63,BINDR PETR,kdu-csl
+2020-06-22,1e+05,Bezhotovostní příjem,BINDR PETR,na volebni kampan senatorky JitkySeitlove,,0,63,BINDR PETR,kdu-csl
 2020-06-22,2000,Bezhotovostní příjem,"Kunčar Patrik,Ing.",,0,27021973,801,"Kunčar Patrik,Ing.",kdu-csl
 2020-06-22,3000,Bezhotovostní příjem,Chalánková Jitka,chalánková příspěvek okres prostějov,558,763,,Chalánková Jitka,kdu-csl
 2020-06-22,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
@@ -1738,7 +1738,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-18,2500,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
 2020-06-18,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
 2020-06-18,50000,Bezhotovostní příjem,Jan Písařík,Jan Písařík - dar,,27041988,,Jan Písařík,kdu-csl
-2020-06-17,100000,Bezhotovostní příjem,HOŘAVA PAVEL,Dar KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
+2020-06-17,1e+05,Bezhotovostní příjem,HOŘAVA PAVEL,Dar KDU-ČSL,0,222630,0,HOŘAVA PAVEL,kdu-csl
 2020-06-17,54000,Bezhotovostní příjem,PACHTA PETR,dar Petr Pachta,,0,,PACHTA PETR,kdu-csl
 2020-06-17,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
 2020-06-17,2900,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/20,,3021971,709,SUCHY JAROSLAV,kdu-csl
@@ -1754,17 +1754,17 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-15,1000,Bezhotovostní příjem,"Derner Michal,Ing.",Michal Derner,0,12091962,551,"Derner Michal,Ing.",kdu-csl
 2020-06-15,750,Bezhotovostní příjem,RUZICKA JAN,Jan Ruzicka,,1101984,725,RUZICKA JAN,kdu-csl
 2020-06-15,100,Bezhotovostní příjem,STUKAVCOVA DANUSE,Jiri Stukavec- dar,,9091981,725,STUKAVCOVA DANUSE,kdu-csl
-2020-06-15,100000,Bezhotovostní příjem,MATL PETR,dar KDU-CSL,,27081950,709,MATL PETR,kdu-csl
+2020-06-15,1e+05,Bezhotovostní příjem,MATL PETR,dar KDU-CSL,,27081950,709,MATL PETR,kdu-csl
 2020-06-15,1500,Bezhotovostní příjem,Váňová Ivana,,0,690412,851,Váňová Ivana,kdu-csl
 2020-06-15,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2020-06-15,3500,Bezhotovostní příjem,"Derner Vladimír,Ing.",Derner dar,0,13071956,551,"Derner Vladimír,Ing.",kdu-csl
 2020-06-15,2000,Bezhotovostní příjem,"Bradáč František,Ing",,0,0,0,"Bradáč František,Ing",kdu-csl
-2020-06-15,100000,Bezhotovostní příjem,VOLBA PRO MĚSTO,,5511,68210396,0,VOLBA PRO MĚSTO,kdu-csl
-2020-06-14,100000,Okamžitá příchozí platba,"Šimonovský Milan,Ing",,0,17021949,709,"Šimonovský Milan,Ing",kdu-csl
+2020-06-15,1e+05,Bezhotovostní příjem,VOLBA PRO MĚSTO,,5511,68210396,0,VOLBA PRO MĚSTO,kdu-csl
+2020-06-14,1e+05,Okamžitá příchozí platba,"Šimonovský Milan,Ing",,0,17021949,709,"Šimonovský Milan,Ing",kdu-csl
 2020-06-14,20000,Okamžitá příchozí platba,"Kotajná Dagmar,Mgr.",dar Dagmar Kotajná,0,,,"Kotajná Dagmar,Mgr.",kdu-csl
 2020-06-12,1250,Bezhotovostní příjem,BARANEK PETR,Baranek Petr MSK VI/2020,851,16021960,,BARANEK PETR,kdu-csl
 2020-06-11,2500,Okamžitá příchozí platba,"Fidrmuc Jaroslav,Mgr",Jaroslav Fidrmuc Dar pro Olomoucký,751,5804261397,,"Fidrmuc Jaroslav,Mgr",kdu-csl
-2020-06-11,100000,Bezhotovostní příjem,"KALAB - INVEST, S.R.",Dar na zaklade darovaci smlouvy,,0,701,"KALAB - INVEST, S.R.",kdu-csl
+2020-06-11,1e+05,Bezhotovostní příjem,"KALAB - INVEST, S.R.",Dar na zaklade darovaci smlouvy,,0,701,"KALAB - INVEST, S.R.",kdu-csl
 2020-06-11,20000,Okamžitá příchozí platba,"Marek Světnička, DiS",Našim na krajské volby :-),138,17121969,851,"Marek Světnička, DiS",kdu-csl
 2020-06-11,16100,Okamžitá příchozí platba,"Marek Světnička, DiS",,138,17121969,851,"Marek Světnička, DiS",kdu-csl
 2020-06-11,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl
@@ -1775,7 +1775,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2020-06-10,130000,Bezhotovostní příjem,KAZMER DUSAN,Miriam Kazmer - dar,,0,,KAZMER DUSAN,kdu-csl
 2020-06-10,3000,Bezhotovostní příjem,Benešík Ondřej,Členský příspěvěk KDU-ČSL,0,801,0,Benešík Ondřej,kdu-csl
-2020-06-10,100000,Bezhotovostní příjem,JUDAS JAROMIR,Dar Judas KDU,,19021971,709,JUDAS JAROMIR,kdu-csl
+2020-06-10,1e+05,Bezhotovostní příjem,JUDAS JAROMIR,Dar Judas KDU,,19021971,709,JUDAS JAROMIR,kdu-csl
 2020-06-09,10000,Okamžitá příchozí platba,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2020-06-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
 2020-06-08,10000,Okamžitá příchozí platba,Šojdrová Michaela,dar Šojdrová,308,28101963,801,Šojdrová Michaela,kdu-csl
@@ -1843,7 +1843,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-05-15,1500,Bezhotovostní příjem,Váňová Ivana,,0,690412,851,Váňová Ivana,kdu-csl
 2020-05-15,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,999,19760131,IVO SLAVOTINEK,kdu-csl
 2020-05-14,50000,Platba převodem uvnitř banky,"Málek, Roman MBA",dar,,8108043152,,dar,kdu-csl
-2020-05-14,200000,Platba převodem uvnitř banky,"MÁLEK & PARTNERS, s.r.o.",dar,,8262012,,dar,kdu-csl
+2020-05-14,2e+05,Platba převodem uvnitř banky,"MÁLEK & PARTNERS, s.r.o.",dar,,8262012,,dar,kdu-csl
 2020-05-14,750,Bezhotovostní příjem,RUZICKA JAN,Jan Ruzicka,,1101984,725,RUZICKA JAN,kdu-csl
 2020-05-14,100,Bezhotovostní příjem,STUKAVCOVA DANUSE,Jiri Stukavec- dar,,9091981,725,STUKAVCOVA DANUSE,kdu-csl
 2020-05-14,2000,Bezhotovostní příjem,BARANEK PETR,Baranek Petr Poplatek kandidata krajske volby,851,16021960,,BARANEK PETR,kdu-csl
@@ -1866,7 +1866,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-05-12,150000,Bezhotovostní příjem,"Čáp Jan,Prof.MUDr.",,0,21021953,45,"Čáp Jan,Prof.MUDr.",kdu-csl
 2020-05-12,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2020-05-12,30000,Bezhotovostní příjem,MARKETA CACAKOVA,DAR M. CACÁKOVÁ,558,1021978,,MARKETA CACAKOVA,kdu-csl
-2020-05-12,100000,Bezhotovostní příjem,PLAS MAREK,Marek Plas,,1031974,709,PLAS MAREK,kdu-csl
+2020-05-12,1e+05,Bezhotovostní příjem,PLAS MAREK,Marek Plas,,1031974,709,PLAS MAREK,kdu-csl
 2020-05-12,2000,Bezhotovostní příjem,Pavel Stuchlý,,,5071976,851,Pavel Stuchlý,kdu-csl
 2020-05-11,41665,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - vyrovnání za mandáty v KVK dle smlouvy - 1. čtvrtletí 2020,,,,STAN - vyrovnání za mandáty v KVK dle smlouvy - 1. čtvrtletí 2020,kdu-csl
 2020-05-11,11033,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - vyrovnání za mandáty na MHMP dle smlouvy - 1. čtvrtletí 2020,,,,STAN - vyrovnání za mandáty na MHMP dle smlouvy - 1. čtvrtletí 2020,kdu-csl
@@ -1914,7 +1914,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-04-27,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
 2020-04-27,12000,Bezhotovostní příjem,JURÁNEK ZDENĚK,DAR KDU-ČSL,0,28081981,729,JURÁNEK ZDENĚK,kdu-csl
 2020-04-27,2000,Bezhotovostní příjem,LISKOVA JARMILA,,,7661034931,851,LISKOVA JARMILA,kdu-csl
-2020-04-26,100000,Platba převodem uvnitř banky,"Bělobrádková, Jana",,,25121976,5511,,kdu-csl
+2020-04-26,1e+05,Platba převodem uvnitř banky,"Bělobrádková, Jana",,,25121976,5511,,kdu-csl
 2020-04-26,20000,Okamžitá příchozí platba,Blahová Michaela,dar pro senátní volby obvod Zlín č.,0,19061969,,Blahová Michaela,kdu-csl
 2020-04-26,2000,Okamžitá příchozí platba,JAROSLAV PERÚTKA,Jaroslav Perútka,,30041964,851,JAROSLAV PERÚTKA,kdu-csl
 2020-04-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
@@ -1935,7 +1935,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-04-21,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
 2020-04-21,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
 2020-04-21,22000,Bezhotovostní příjem,KDU-ČSL,OV KDU-ČSL Karviná,8,0,851,KDU-ČSL,kdu-csl
-2020-04-21,200000,Bezhotovostní příjem,ŠMÍD TOMÁŠ,,0,28021983,709,ŠMÍD TOMÁŠ,kdu-csl
+2020-04-21,2e+05,Bezhotovostní příjem,ŠMÍD TOMÁŠ,,0,28021983,709,ŠMÍD TOMÁŠ,kdu-csl
 2020-04-21,150,Bezhotovostní příjem,Weber Tomáš,Zdař Bůh - Tomáš Weber,999,19831015,,Weber Tomáš,kdu-csl
 2020-04-21,150,Bezhotovostní příjem,Weber Tomáš,Zdař Bůh - Jana Weberová,999,19860304,,Weber Tomáš,kdu-csl
 2020-04-21,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl
@@ -1987,14 +1987,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-04-07,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
 2020-04-07,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
 2020-04-06,15000,Platba převodem uvnitř banky,WEB INVESTMENTS s.r.o.,Jirka Hasoň,,17121980,709,Jirka Hasoň,kdu-csl
-2020-04-06,-7000000,Platba převodem uvnitř banky,,převod na provoz,558,442704,,převod na provoz,kdu-csl
+2020-04-06,-7e+06,Platba převodem uvnitř banky,,převod na provoz,558,442704,,převod na provoz,kdu-csl
 2020-04-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
 2020-04-02,2000,Bezhotovostní příjem,HROMADKA MARTIN,,,24051979,851,HROMADKA MARTIN,kdu-csl
 2020-03-31,300,Okamžitá příchozí platba,Straka Karel,k.straka bludov,308,,,Straka Karel,kdu-csl
 2020-03-31,100,Okamžitá příchozí platba,Daniel Tavlaridis,,1991,,999,Daniel Tavlaridis,kdu-csl
 2020-03-31,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
 2020-03-30,100,Bezhotovostní příjem,DAN DRAPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRAPAL,kdu-csl
-2020-03-26,100000,Okamžitá příchozí platba,"Šimonovský Milan,Ing","Milan Šimonovský, dar",0,,709,"Šimonovský Milan,Ing",kdu-csl
+2020-03-26,1e+05,Okamžitá příchozí platba,"Šimonovský Milan,Ing","Milan Šimonovský, dar",0,,709,"Šimonovský Milan,Ing",kdu-csl
 2020-03-26,150,Bezhotovostní příjem,OSTROVSKY VACLAV,Vaclav Ostrovsky - pravidelny prispevek,,0,,OSTROVSKY VACLAV,kdu-csl
 2020-03-26,100,Bezhotovostní příjem,BRABCOVÁ JITKA,DOBROVOLNÝ PŘÍSPĚVEK KDU,558,19610308,999,BRABCOVÁ JITKA,kdu-csl
 2020-03-25,100,Bezhotovostní příjem,Žáček Zdeněk,DAR,,,,Žáček Zdeněk,kdu-csl
@@ -2058,7 +2058,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-03-04,50000,Bezhotovostní příjem,Línek Roman,dar KDU ČSL,,6310061846,601,Línek Roman,kdu-csl
 2020-03-04,500,Bezhotovostní příjem,FOJTICEK PETR,Plzensky kraj - sjezd,,0,351,FOJTICEK PETR,kdu-csl
 2020-03-03,500,Okamžitá příchozí platba,"Kadlec Jan,Ing.",Plzeňský kraj - sjezd Kadlec,308,17111953,351,"Kadlec Jan,Ing.",kdu-csl
-2020-03-03,300000,Bezhotovostní příjem,VKLAD HOTOVOSTI V KB,CAGAŠ BOHUMÍRTŘ. GEN. JANOUŠKA PŘEROVCagaš Bohumír,0,28051946,709,VKLAD HOTOVOSTI V KB,kdu-csl
+2020-03-03,3e+05,Bezhotovostní příjem,VKLAD HOTOVOSTI V KB,CAGAŠ BOHUMÍRTŘ. GEN. JANOUŠKA PŘEROVCagaš Bohumír,0,28051946,709,VKLAD HOTOVOSTI V KB,kdu-csl
 2020-03-02,5000,Bezhotovostní příjem,HELLER SIMON,Simon Heller,301,160188,,HELLER SIMON,kdu-csl
 2020-03-02,7854,Bezhotovostní příjem,MIHOLA JIŘÍ,Mihola - mimořádný příspěvek,0,1061972,709,MIHOLA JIŘÍ,kdu-csl
 2020-02-29,10000,Platba převodem uvnitř banky,"Hulicius, Eduard","Na krajskou kampaň - KDU-ČSL, ADS A NESTRANÍCI - KOALICE PRO PLZEŇSKÝ KRAJ",,,,"Na krajskou kampaň - KDU-ČSL, ADS A NESTRANÍCI - KOALICE PRO PLZEŇSKÝ KRAJ",kdu-csl
@@ -2087,7 +2087,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-02-20,3000,Bezhotovostní příjem,Chalánková Jitka,chalánková příspěvek okres prostějov,558,763,,Chalánková Jitka,kdu-csl
 2020-02-20,2000,Bezhotovostní příjem,"Kunčar Patrik,Ing.",,0,27021973,801,"Kunčar Patrik,Ing.",kdu-csl
 2020-02-20,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
-2020-02-20,200000,Bezhotovostní příjem,"Čáp Jan,Prof.MUDr.",,0,21021953,45,"Čáp Jan,Prof.MUDr.",kdu-csl
+2020-02-20,2e+05,Bezhotovostní příjem,"Čáp Jan,Prof.MUDr.",,0,21021953,45,"Čáp Jan,Prof.MUDr.",kdu-csl
 2020-02-19,1168,Bezhotovostní příjem,PODLIPNÝ JIŘÍ,Plzeňský kraj,0,1,351,PODLIPNÝ JIŘÍ,kdu-csl
 2020-02-19,3000,Vklad v hotovosti,Partners market Česká Třebová,,558,442704,601,Partners market Česká Třebová,kdu-csl
 2020-02-19,3500,Bezhotovostní příjem,Adéla Botková,Dar KDU-ČSL Pavel Botek,308,21011972,801,Adéla Botková,kdu-csl
@@ -2148,7 +2148,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-02-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
 2020-02-05,2600,Bezhotovostní příjem,HUBÁČEK PAVEL,Plzeňský kraj,0,1,351,HUBÁČEK PAVEL,kdu-csl
 2020-02-04,8000,Okamžitá příchozí platba,"Kadlec Rostislav,Mgr",Ústecký kraj MO Krupka,0,,,"Kadlec Rostislav,Mgr",kdu-csl
-2020-02-04,100000,Okamžitá příchozí platba,"Šimonovský Milan,Ing",finanční dar,0,23081951,709,"Šimonovský Milan,Ing",kdu-csl
+2020-02-04,1e+05,Okamžitá příchozí platba,"Šimonovský Milan,Ing",finanční dar,0,23081951,709,"Šimonovský Milan,Ing",kdu-csl
 2020-02-04,8000,Bezhotovostní příjem,RUZICKA FRANTISEK,Krupka,308,1959,,RUZICKA FRANTISEK,kdu-csl
 2020-02-04,500,Platba převodem uvnitř banky,"Ing. Protiva, Václav",dar Protiva,,26091965,301,dar Protiva,kdu-csl
 2020-02-04,2500,Bezhotovostní příjem,MARTIN POUPA,PLZEŇSKÝ KRAJ,,1,351,MARTIN POUPA,kdu-csl
@@ -2301,7 +2301,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-31,3500,Platba převodem uvnitř banky,"Josiek, Vladislav",Vladislav Josiek,,9031984,851,Vladislav Josiek,kdu-csl
 2019-12-31,5000,Okamžitá příchozí platba,"Šiller Vojtěch,Ing.",,851,13011932,,"Šiller Vojtěch,Ing.",kdu-csl
 2019-12-31,5000,Bezhotovostní příjem,HLAVA STANISLAV,,,151962,301,HLAVA STANISLAV,kdu-csl
-2019-12-31,100000,Bezhotovostní příjem,SIKOROVA RENATA,dar Renata Sikorova,308,635911,851,SIKOROVA RENATA,kdu-csl
+2019-12-31,1e+05,Bezhotovostní příjem,SIKOROVA RENATA,dar Renata Sikorova,308,635911,851,SIKOROVA RENATA,kdu-csl
 2019-12-31,30000,Bezhotovostní příjem,SIKORA MARCEL,MArcel Sikora-dar KDU-CSL,308,6121987,851,SIKORA MARCEL,kdu-csl
 2019-12-30,500,Okamžitá příchozí platba,"Horáková Zdeňka,Ing.",Zdeňka Horáková - dar,308,26031984,725,"Horáková Zdeňka,Ing.",kdu-csl
 2019-12-30,7000,Okamžitá příchozí platba,"Houška Miroslav,Ing.",dar Jana Houšková,308,24121961,651,"Houška Miroslav,Ing.",kdu-csl
@@ -2342,7 +2342,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-20,20000,Bezhotovostní příjem,MEDICAS PRAKTIK S.R.,,308,28633873,751,MEDICAS PRAKTIK S.R.,kdu-csl
 2019-12-20,30000,Bezhotovostní příjem,SNK EVROPŠTÍ DEMOKRA,dar od snk ed,308,70869553,0,SNK EVROPŠTÍ DEMOKRA,kdu-csl
 2019-12-20,2000,Bezhotovostní příjem,"Kunčar Patrik,Ing.",,0,27021973,801,"Kunčar Patrik,Ing.",kdu-csl
-2019-12-20,200000,Bezhotovostní příjem,KOZAK ALES,601200,558,27011952,709,KOZAK ALES,kdu-csl
+2019-12-20,2e+05,Bezhotovostní příjem,KOZAK ALES,601200,558,27011952,709,KOZAK ALES,kdu-csl
 2019-12-20,20880,Bezhotovostní příjem,Pelikán Matouš,"Dar pro Ol.kraj, Pelikán, ZČP",,2019,751,Pelikán Matouš,kdu-csl
 2019-12-20,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
 2019-12-19,6000,Bezhotovostní příjem,Martin Šrubař,Martin Šrubař,,19041979,851,Martin Šrubař,kdu-csl
@@ -2355,7 +2355,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-19,5000,Bezhotovostní příjem,DROBÍLEK VLASTISLA,dar - krajské volby,,,,DROBÍLEK VLASTISLA,kdu-csl
 2019-12-19,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl
 2019-12-19,25000,Bezhotovostní příjem,DVORAK ZDENEK,Zdenek Dvorak,,5401182072,,DVORAK ZDENEK,kdu-csl
-2019-12-18,300000,Bezhotovostní příjem,VINAMET CZ S.R.O.,,0,26845148,69,VINAMET CZ S.R.O.,kdu-csl
+2019-12-18,3e+05,Bezhotovostní příjem,VINAMET CZ S.R.O.,,0,26845148,69,VINAMET CZ S.R.O.,kdu-csl
 2019-12-18,5000,Bezhotovostní příjem,Ing. Petr Kousal,"MěO KDU-ČSL Prostějov, Kousal",0,763,,Ing. Petr Kousal,kdu-csl
 2019-12-18,1900,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
 2019-12-18,5000,Bezhotovostní příjem,JELINEK FRANTISEK,,,0,601,JELINEK FRANTISEK,kdu-csl
@@ -2382,7 +2382,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-16,800,Bezhotovostní příjem,"Derner Michal,Ing.",Michal Derner,0,12091962,551,"Derner Michal,Ing.",kdu-csl
 2019-12-16,2000,Bezhotovostní příjem,"Bradáč František,Ing",,0,0,0,"Bradáč František,Ing",kdu-csl
 2019-12-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,DAR,0,8205114676,0,ŘEZNÍČEK JAROSLAV,kdu-csl
-2019-12-15,100000,Platba převodem uvnitř banky,"Bělobrádková, Jana",,,25121976,5511,,kdu-csl
+2019-12-15,1e+05,Platba převodem uvnitř banky,"Bělobrádková, Jana",,,25121976,5511,,kdu-csl
 2019-12-13,1250,Bezhotovostní příjem,BARANEK PETR,Baranek Petr MSK XII/2019,,16021960,851,BARANEK PETR,kdu-csl
 2019-12-13,15000,Platba převodem uvnitř banky,Siuda s.r.o.,,558,20061976,851,,kdu-csl
 2019-12-13,30000,Bezhotovostní příjem,HORÁK JIŘÍ,"Jiří Horák, dar",0,24071984,775,HORÁK JIŘÍ,kdu-csl
