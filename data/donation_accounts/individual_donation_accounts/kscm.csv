@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-09-20,2000,Příchozí úhrada,Miroslav Hajdušík,1182572038,3030,finanční dar KSČM Miroslav Hajdušík,,38100,,CZK,kscm
+2021-09-20,1037,Příchozí úhrada,Ing.Drlý Ladislav,155768073,800,Ing. Ladislav Drlý - finanční dar,0,0,34202,CZK,kscm
+2021-09-20,600,Příchozí úhrada,JANDA ZDENEK,222567352,300,"Zdeněk Janda, Plzeň - finanční dar",,,33203,CZK,kscm
 2021-09-17,6800,Okamžitá úhrada,DVOŘÁK KAREL,156941560,600,"finanční dar Karel Dvořák Na Výsluní 1238, Chotěboř",,770411,36101,CZK,kscm
 2021-09-17,-126897.92,Odchozí úhrada,KSČM,217343303,300,Luzar Leo - fin.dar pro volbyPS PČR,0,38100,,CZK,kscm
 2021-09-17,4000,Okamžitá úhrada,Ing.Zahradník Václav,146308083,800,"DAR, volební náklady, Ing.Václav Zahradník, Plzeň, Na Bradlavce 2",,230352,,CZK,kscm

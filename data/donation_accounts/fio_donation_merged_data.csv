@@ -554,100 +554,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,1000,Bezhotovostní příjem,DAVIS MAGDALÉNA,DAR - ZELENI,0,0,0,DAVIS MAGDALÉNA,zeleni
 2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,Dar,0,9003238,,Stašek Petr,zeleni
 2021-09-12,100,Platba převodem uvnitř banky,"Bednařík, Pavel",dar SZ - Pavel Bednařík,,9002562,,dar SZ - Pavel Bednařík,zeleni
-2021-09-16,-15000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",cssd
-2021-09-16,-5000,Okamžitá odchozí platba,,"ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",cssd
-2021-09-16,-1970,Platba převodem uvnitř banky,,"převod daru, Roman Onderka, pro potřeby Brno město",,,,"převod daru, Roman Onderka, pro potřeby Brno město",cssd
-2021-09-16,-50000,Platba převodem uvnitř banky,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",,,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",cssd
-2021-09-16,-30000,Platba převodem uvnitř banky,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",,,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",cssd
-2021-09-14,-80000,Platba převodem uvnitř banky,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",,,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",cssd
-2021-09-14,-15000,Platba převodem uvnitř banky,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",,,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",cssd
-2021-09-14,-10000,Platba převodem uvnitř banky,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",,,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",cssd
-2021-09-14,-50000,Platba převodem uvnitř banky,,"převod daru, Dana Váhalová, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru, Dana Váhalová, na volby PS PČR, Moravskoslezský kraj",cssd
-2021-09-20,2000,Bezhotovostní příjem,Ing.Kunčar Patrik,,0,27021973,801,Ing.Kunčar Patrik,kdu-csl
-2021-09-16,1500,Platba převodem uvnitř banky,"RNDr. Banaš, Marek Ph.D.",,,,,,kdu-csl
-2021-09-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,,0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl
-2021-09-13,100,Bezhotovostní příjem,Daniel Tavlaridis,,0,19910811,999,Daniel Tavlaridis,kdu-csl
-2021-09-13,300,Bezhotovostní příjem,ŠENKYŘÍKOVÁ BARBOR,,,,,ŠENKYŘÍKOVÁ BARBOR,kdu-csl
-2021-09-17,-130000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
-2021-09-13,-2500000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
-2021-09-13,-450000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
-2021-09-13,-1000,Okamžitá odchozí platba,,"vratka Bažant Jan, není DS, kontakt sekretariat@ods.cz",378,,,"vratka Bažant Jan, není DS, kontakt sekretariat@ods.cz",ods
-2021-09-20,500,Platba převodem uvnitř banky,"Bc Šimek, Petr",,,44016184,193030,,pirati
-2021-09-20,500,Bezhotovostní příjem,Ondřej Volejník,,0,44005897,,Ondřej Volejník,pirati
-2021-09-20,50,Bezhotovostní příjem,Vojtěch Mrázek,,0,44006400,,Vojtěch Mrázek,pirati
-2021-09-20,200,Bezhotovostní příjem,Hana Kunzfeldová,,0,44005213,,Hana Kunzfeldová,pirati
-2021-09-20,300,Bezhotovostní příjem,Jakub Prokeš,,0,83538,1,Jakub Prokeš,pirati
-2021-09-20,-1021000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
-2021-09-20,2000,Bezhotovostní příjem,BUZEK OTAKAR ING.C,,,86092,1,BUZEK OTAKAR ING.C,pirati
-2021-09-20,500,Bezhotovostní příjem,VYHNÁLEK JAROSLAV,,,44006471,1,VYHNÁLEK JAROSLAV,pirati
-2021-09-20,200,Bezhotovostní příjem,Beneš Ladislav,,0,44006575,1,Beneš Ladislav,pirati
-2021-09-20,150,Bezhotovostní příjem,Mgr.Procházková Mart,,0,9001795,,Mgr.Procházková Mart,pirati
-2021-09-19,500,Platba převodem uvnitř banky,DTPak.cz s.r.o.,,,83850,1,,pirati
-2021-09-17,200,Bezhotovostní příjem,Martin Čech,,,44013881,1,Martin Čech,pirati
-2021-09-17,50,Bezhotovostní příjem,Eva Aljanabi,,,44006037,,Eva Aljanabi,pirati
-2021-09-17,250,Bezhotovostní příjem,Andrej Koudelka,,2,44011068,,Andrej Koudelka,pirati
-2021-09-17,100,Bezhotovostní příjem,MONTONIOVA RADKA,,,44011501,2,MONTONIOVA RADKA,pirati
-2021-09-17,300,Platba převodem uvnitř banky,"Petroš, Jakub",,,82717,110404,,pirati
-2021-09-16,10000,Platba převodem uvnitř banky,transla co s.r.o.,,,44016143,193001,,pirati
-2021-09-16,100,Bezhotovostní příjem,Shanaáh Sámir,,,44005196,,Shanaáh Sámir,pirati
-2021-09-16,500,Bezhotovostní příjem,Martin Vlach,,,44014198,1,Martin Vlach,pirati
-2021-09-16,300,Bezhotovostní příjem,Marek Andrt,,,44009880,2,Marek Andrt,pirati
-2021-09-16,100,Bezhotovostní příjem,CHOVANCAK JAKUB,,,44002970,,CHOVANCAK JAKUB,pirati
-2021-09-16,100,Bezhotovostní příjem,Páník Marek,,0,83007,190000,Páník Marek,pirati
-2021-09-16,100,Bezhotovostní příjem,SENKO ALEŠ,,0,44005376,1,SENKO ALEŠ,pirati
-2021-09-15,1000,Okamžitá příchozí platba,Beinstein David,,0,44009169,1,Beinstein David,pirati
-2021-09-15,700,Bezhotovostní příjem,Jan Kranda,,0,44014132,13,Jan Kranda,pirati
-2021-09-15,500,Bezhotovostní příjem,Jiří Schauer,,2,44013871,,Jiří Schauer,pirati
-2021-09-15,1000,Bezhotovostní příjem,Ing. Tomáš Weczerek,,0,85106,1,Ing. Tomáš Weczerek,pirati
-2021-09-15,200,Bezhotovostní příjem,Jan Jurák,,,85297,12,Jan Jurák,pirati
-2021-09-15,100,Bezhotovostní příjem,MgA.Petrová Jitka,,0,,,MgA.Petrová Jitka,pirati
-2021-09-15,200,Bezhotovostní příjem,LITERAK LEOS,,,44005285,,LITERAK LEOS,pirati
-2021-09-15,1000,Bezhotovostní příjem,DOSEDEL FRANTISEK,,,12024,110103,DOSEDEL FRANTISEK,pirati
-2021-09-15,100,Bezhotovostní příjem,STAVOVA MARIA,,,44012394,2,STAVOVA MARIA,pirati
-2021-09-15,100,Bezhotovostní příjem,IVANA KONIGSMARKOVA,,308,83899,1,IVANA KONIGSMARKOVA,pirati
-2021-09-15,500,Bezhotovostní příjem,Daníček Jakub,,0,44014126,1,Daníček Jakub,pirati
-2021-09-15,200,Bezhotovostní příjem,KEŠNEROVÁ PAVLA,,308,44009098,12,KEŠNEROVÁ PAVLA,pirati
-2021-09-14,6000,Okamžitá příchozí platba,Ing. MARTIN ALTSCHMI,,,,110102,Ing. MARTIN ALTSCHMI,pirati
-2021-09-14,100,Bezhotovostní příjem,Tomáš Hort,,,82268,1,Tomáš Hort,pirati
-2021-09-14,100,Bezhotovostní příjem,HOOS MICHAL,,,44005875,,HOOS MICHAL,pirati
-2021-09-14,100,Bezhotovostní příjem,TREBICKY DAVID,,,82547,,TREBICKY DAVID,pirati
-2021-09-14,500,Bezhotovostní příjem,Tolarová Helena,,,44012510,2,Tolarová Helena,pirati
-2021-09-13,200,Bezhotovostní příjem,Miloslava Hechtová,,,85333,,Miloslava Hechtová,pirati
-2021-09-13,3000,Bezhotovostní příjem,Jana Komrsková,,1101,11396,,Jana Komrsková,pirati
-2021-09-13,200,Bezhotovostní příjem,SÝKORA JAROSLAV,,,44013900,1,SÝKORA JAROSLAV,pirati
-2021-09-13,200,Bezhotovostní příjem,ELZNIC MAREK,,,44006532,1,ELZNIC MAREK,pirati
-2021-09-13,100,Bezhotovostní příjem,ŠTEFAN IVO,,,44006097,1,ŠTEFAN IVO,pirati
-2021-09-13,50,Bezhotovostní příjem,MARSIK STEPAN,,,86502,,MARSIK STEPAN,pirati
-2021-09-13,250,Bezhotovostní příjem,MARIK MILOSLAV,,,44011413,2,MARIK MILOSLAV,pirati
-2021-09-13,200,Bezhotovostní příjem,GREBIKOVA MARKETA,,,44006561,1,GREBIKOVA MARKETA,pirati
-2021-09-13,300,Bezhotovostní příjem,BOUDA TOMÁŠ,,0,86199,110708,BOUDA TOMÁŠ,pirati
-2021-09-13,300,Bezhotovostní příjem,HAŠEK KAREL,,0,84537,1,HAŠEK KAREL,pirati
-2021-09-13,500,Bezhotovostní příjem,GREYZERO S.R.O.,,0,44015469,19300,GREYZERO S.R.O.,pirati
-2021-09-12,10000,Platba převodem uvnitř banky,"Špak, Josef",,,85977,3,,pirati
-2021-09-12,1000,Okamžitá příchozí platba,Vohnický Aleš,,0,44016098,193030,Vohnický Aleš,pirati
-2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,,0,44016097,1,Stašek Petr,pirati
-2021-09-20,1000,Okamžitá příchozí platba,Zuzana Manellari,,,,,Zuzana Manellari,prisaha
-2021-09-20,-830000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
-2021-09-17,1000,Bezhotovostní příjem,Miroš Vladimír,,0,,,"Dar, Miroš Vladimír",prisaha
-2021-09-17,2000,Bezhotovostní příjem,KOSAN MICHAL,,,0,,"Dar, KOSAN MICHAL",prisaha
-2021-09-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,,spd
-2021-09-16,-4e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
-2021-09-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,KREJCAROVA JITKA,spd
-2021-09-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
-2021-09-13,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
-2021-09-15,4000,Bezhotovostní příjem,Ing.Suchánek Josef,,0,,,DAR - Ing.Suchánek Josef,stan
-2021-09-20,20000,Bezhotovostní příjem,CHLUMCANSKA DOPRAVA,,308,9,,CHLUMCANSKA DOPRAVA,trikolora
-2021-09-17,2000,Bezhotovostní příjem,VOKRALOVA HANA,,308,123456,,VOKRALOVA HANA,trikolora
-2021-09-17,-1500000,Platba převodem uvnitř banky,,převod na volební výdajový účet,,,,převod na volební výdajový účet,trikolora
-2021-09-16,50,Bezhotovostní příjem,HOLEČEK MIROSLAV,,,9000372,,HOLEČEK MIROSLAV,trikolora
-2021-09-13,8000,Bezhotovostní příjem,Ing.Červenka Ondřej,,0,,,Ing.Červenka Ondřej,trikolora
-2021-09-13,100,Bezhotovostní příjem,HOFÍREK JIŘÍ,,0,2001375,0,HOFÍREK JIŘÍ,trikolora
-2021-09-16,-2e+05,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
-2021-09-14,-5e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
-2021-09-16,-1000,Okamžitá odchozí platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003266,,Voráč Emil,zeleni
-2021-09-16,1000,Okamžitá příchozí platba,Voráč Emil,,308,9003266,,Voráč Emil,zeleni
-2021-09-14,-1000,Okamžitá odchozí platba,,vrácení platby - nejasný účel platby (Strana zelených),,9003243,,ŽIŽKOVÁ LUCIE,zeleni
-2021-09-13,-2000,Okamžitá odchozí platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003240,,KUBINOVA HELENA,zeleni
 2021-09-17,1000,Bezhotovostní příjem,Miroš Vladimír,,0,,,Miroš Vladimír,prisaha
 2021-09-17,2000,Bezhotovostní příjem,KOSAN MICHAL,,,0,,KOSAN MICHAL,prisaha
 2021-09-11,250,Platba převodem uvnitř banky,"Brada, Viktor",Podporuji: Centrálu České pirátské strany,,87039,1,Podporuji: Centrálu České pirátské strany,pirati
@@ -2780,7 +2686,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-05,300,Bezhotovostní příjem,HOUDEK LUKÁŠ,DAR,0,9002902,0,HOUDEK LUKÁŠ,zeleni
 2021-08-05,500,Bezhotovostní příjem,KŘÍŽEK PAVEL ING.,DAR,0,9002601,0,KŘÍŽEK PAVEL ING.,zeleni
 2021-08-05,500,Platba převodem uvnitř banky,"Bc. Surý, Ondřej",dar,,9002953,,dar,zeleni
-2021-08-06,-70000,Platba převodem uvnitř banky,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",cssd
 2021-08-04,1000,Okamžitá příchozí platba,Václavíková Věra,Lidovci lidovcum.,0,,,Václavíková Věra,kdu-csl
 2021-08-04,17000,Okamžitá příchozí platba,Plawny Marek,Marek Plawny-Havířov,138,28061969,851,Plawny Marek,kdu-csl
 2021-08-04,50000,Bezhotovostní příjem,Redwood Capital a.s.,POMOC REDWOOD CAPITALMORAVSKA NOVA VES,,2021,999,Redwood Capital a.s.,kdu-csl

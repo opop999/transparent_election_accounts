@@ -23,15 +23,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,80000,Bezhotovostní příjem,Jana Maláčová,"Dar volby PSPCR 2021 - kraj Praha,Jana Malacova, 24.06.1981",,701,,Jana Maláčová,cssd
 2021-09-13,15000,Okamžitá příchozí platba,Česká spořitelna,"Dar volby PSPČR 2021, Petr Lebeda,23.8.1992",0,23081992,,Česká spořitelna,cssd
 2021-09-13,30000,Bezhotovostní příjem,VESELY ONDREJ,"Dar volby PSPCR 2021, Ondrej Vesely, 3.5.1976",308,3051976,,VESELY ONDREJ,cssd
-2021-09-16,-15000,Okamžitá odchozí platba,,"ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru, Jakub Štědroň, nesplnění podmínek zákona",cssd
-2021-09-16,-5000,Okamžitá odchozí platba,,"ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",308,9,,"ČSSD, vrácení daru Jakub Štědroň, nesplnění podmínek zákona",cssd
-2021-09-16,-1970,Platba převodem uvnitř banky,,"převod daru, Roman Onderka, pro potřeby Brno město",,,,"převod daru, Roman Onderka, pro potřeby Brno město",cssd
-2021-09-16,-50000,Platba převodem uvnitř banky,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",,,,"převod daru, Karel Holík, volby PS PČR, Zlínský kraj",cssd
-2021-09-16,-30000,Platba převodem uvnitř banky,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",,,,"převod daru, Ondřej Veselý, volby PS PČR, Jihočeský kraj",cssd
-2021-09-14,-80000,Platba převodem uvnitř banky,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",,,,"převod daru Jana Maláčová, na volby PS PČR, Kraj Praha",cssd
-2021-09-14,-15000,Platba převodem uvnitř banky,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",,,,"převod daru, Petr Lebeda, na volby PS PČR, Jihočeský kraj",cssd
-2021-09-14,-10000,Platba převodem uvnitř banky,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",,,,"převod daru, Ekologický rozvoj a výstavba s.r.o., na volby PS PČR, Pardubický kraj",cssd
-2021-09-14,-50000,Platba převodem uvnitř banky,,"převod daru, Dana Váhalová, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru, Dana Váhalová, na volby PS PČR, Moravskoslezský kraj",cssd
 2021-09-10,50000,Okamžitá příchozí platba,VÁHALOVÁ DANA,"Dar ve prospěch ČSSD, Dana Váhalová, 28.5. 1966.",308,9,,VÁHALOVÁ DANA,cssd
 2021-09-10,10000,Bezhotovostní příjem,EKOLOGICKY ROZVOJ A,"Dar ve prospech CSSD, Ekologickyrozvoj a vystavba s.r.o., 27504514",558,27504514,0,EKOLOGICKY ROZVOJ A,cssd
 2021-09-10,50000,Okamžitá příchozí platba,"Mgr.Holík Karel,MBA","Dar ve prospěch ČSSD, Karel Holík,15.9.1974",308,15091974,,"Mgr.Holík Karel,MBA",cssd
@@ -66,7 +57,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-16,30000,Okamžitá příchozí platba,Česká spořitelna,Dar ve prospěch ČSSD 5.2.1970,0,5021970,,Česká spořitelna,cssd
 2021-08-15,1e+05,Okamžitá příchozí platba,Česká spořitelna,"Dar ve prospěch ČSSD, Lubomír Zaorálek,6.9.1956",0,691956,,Česká spořitelna,cssd
 2021-08-12,50000,Okamžitá příchozí platba,PhDr.Kaucký Lukáš,"Dar ve prospěch ČSSD, Lukáš Kaucký 05051982",0,5051982,,PhDr.Kaucký Lukáš,cssd
-2021-08-06,-70000,Platba převodem uvnitř banky,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",cssd
 2021-08-06,-70000,Platba převodem uvnitř banky,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",,,,"převod daru, Alena Gajdůšková, Zlínský kraj, na volby PS PČR",cssd
 2021-07-31,70000,Okamžitá příchozí platba,PaedDr.Gajdůšková Al,"Dar ve prospěch ČSSD, Alena Gajdůšková,15.4.1954",308,15041954,,PaedDr.Gajdůšková Al,cssd
 2021-07-29,-111000,Platba převodem uvnitř banky,,"převod daru, Josef Říha, Zlínský kraj, na volby PS PČR",,,,"převod daru, Josef Říha, Zlínský kraj, na volby PS PČR",cssd

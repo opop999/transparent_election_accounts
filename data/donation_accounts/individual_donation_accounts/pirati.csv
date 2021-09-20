@@ -168,60 +168,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-12,500,Okamžitá příchozí platba,Josef Veselý,DAR 84816/193000,,84816,193000,Josef Veselý,pirati
 2021-09-12,1000,Okamžitá příchozí platba,Vohnický Aleš,,0,44016098,193030,Vohnický Aleš,pirati
 2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,,0,44016097,1,Stašek Petr,pirati
-2021-09-20,500,Platba převodem uvnitř banky,"Bc Šimek, Petr",,,44016184,193030,,pirati
-2021-09-20,500,Bezhotovostní příjem,Ondřej Volejník,,0,44005897,,Ondřej Volejník,pirati
-2021-09-20,50,Bezhotovostní příjem,Vojtěch Mrázek,,0,44006400,,Vojtěch Mrázek,pirati
-2021-09-20,200,Bezhotovostní příjem,Hana Kunzfeldová,,0,44005213,,Hana Kunzfeldová,pirati
-2021-09-20,300,Bezhotovostní příjem,Jakub Prokeš,,0,83538,1,Jakub Prokeš,pirati
-2021-09-20,-1021000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
-2021-09-20,2000,Bezhotovostní příjem,BUZEK OTAKAR ING.C,,,86092,1,BUZEK OTAKAR ING.C,pirati
-2021-09-20,500,Bezhotovostní příjem,VYHNÁLEK JAROSLAV,,,44006471,1,VYHNÁLEK JAROSLAV,pirati
-2021-09-20,200,Bezhotovostní příjem,Beneš Ladislav,,0,44006575,1,Beneš Ladislav,pirati
-2021-09-20,150,Bezhotovostní příjem,Mgr.Procházková Mart,,0,9001795,,Mgr.Procházková Mart,pirati
-2021-09-19,500,Platba převodem uvnitř banky,DTPak.cz s.r.o.,,,83850,1,,pirati
-2021-09-17,200,Bezhotovostní příjem,Martin Čech,,,44013881,1,Martin Čech,pirati
-2021-09-17,50,Bezhotovostní příjem,Eva Aljanabi,,,44006037,,Eva Aljanabi,pirati
-2021-09-17,250,Bezhotovostní příjem,Andrej Koudelka,,2,44011068,,Andrej Koudelka,pirati
-2021-09-17,100,Bezhotovostní příjem,MONTONIOVA RADKA,,,44011501,2,MONTONIOVA RADKA,pirati
-2021-09-17,300,Platba převodem uvnitř banky,"Petroš, Jakub",,,82717,110404,,pirati
-2021-09-16,10000,Platba převodem uvnitř banky,transla co s.r.o.,,,44016143,193001,,pirati
-2021-09-16,100,Bezhotovostní příjem,Shanaáh Sámir,,,44005196,,Shanaáh Sámir,pirati
-2021-09-16,500,Bezhotovostní příjem,Martin Vlach,,,44014198,1,Martin Vlach,pirati
-2021-09-16,300,Bezhotovostní příjem,Marek Andrt,,,44009880,2,Marek Andrt,pirati
-2021-09-16,100,Bezhotovostní příjem,CHOVANCAK JAKUB,,,44002970,,CHOVANCAK JAKUB,pirati
-2021-09-16,100,Bezhotovostní příjem,Páník Marek,,0,83007,190000,Páník Marek,pirati
-2021-09-16,100,Bezhotovostní příjem,SENKO ALEŠ,,0,44005376,1,SENKO ALEŠ,pirati
-2021-09-15,1000,Okamžitá příchozí platba,Beinstein David,,0,44009169,1,Beinstein David,pirati
-2021-09-15,700,Bezhotovostní příjem,Jan Kranda,,0,44014132,13,Jan Kranda,pirati
-2021-09-15,500,Bezhotovostní příjem,Jiří Schauer,,2,44013871,,Jiří Schauer,pirati
-2021-09-15,1000,Bezhotovostní příjem,Ing. Tomáš Weczerek,,0,85106,1,Ing. Tomáš Weczerek,pirati
-2021-09-15,200,Bezhotovostní příjem,Jan Jurák,,,85297,12,Jan Jurák,pirati
-2021-09-15,100,Bezhotovostní příjem,MgA.Petrová Jitka,,0,,,MgA.Petrová Jitka,pirati
-2021-09-15,200,Bezhotovostní příjem,LITERAK LEOS,,,44005285,,LITERAK LEOS,pirati
-2021-09-15,1000,Bezhotovostní příjem,DOSEDEL FRANTISEK,,,12024,110103,DOSEDEL FRANTISEK,pirati
-2021-09-15,100,Bezhotovostní příjem,STAVOVA MARIA,,,44012394,2,STAVOVA MARIA,pirati
-2021-09-15,100,Bezhotovostní příjem,IVANA KONIGSMARKOVA,,308,83899,1,IVANA KONIGSMARKOVA,pirati
-2021-09-15,500,Bezhotovostní příjem,Daníček Jakub,,0,44014126,1,Daníček Jakub,pirati
-2021-09-15,200,Bezhotovostní příjem,KEŠNEROVÁ PAVLA,,308,44009098,12,KEŠNEROVÁ PAVLA,pirati
-2021-09-14,6000,Okamžitá příchozí platba,Ing. MARTIN ALTSCHMI,,,,110102,Ing. MARTIN ALTSCHMI,pirati
-2021-09-14,100,Bezhotovostní příjem,Tomáš Hort,,,82268,1,Tomáš Hort,pirati
-2021-09-14,100,Bezhotovostní příjem,HOOS MICHAL,,,44005875,,HOOS MICHAL,pirati
-2021-09-14,100,Bezhotovostní příjem,TREBICKY DAVID,,,82547,,TREBICKY DAVID,pirati
-2021-09-14,500,Bezhotovostní příjem,Tolarová Helena,,,44012510,2,Tolarová Helena,pirati
-2021-09-13,200,Bezhotovostní příjem,Miloslava Hechtová,,,85333,,Miloslava Hechtová,pirati
-2021-09-13,3000,Bezhotovostní příjem,Jana Komrsková,,1101,11396,,Jana Komrsková,pirati
-2021-09-13,200,Bezhotovostní příjem,SÝKORA JAROSLAV,,,44013900,1,SÝKORA JAROSLAV,pirati
-2021-09-13,200,Bezhotovostní příjem,ELZNIC MAREK,,,44006532,1,ELZNIC MAREK,pirati
-2021-09-13,100,Bezhotovostní příjem,ŠTEFAN IVO,,,44006097,1,ŠTEFAN IVO,pirati
-2021-09-13,50,Bezhotovostní příjem,MARSIK STEPAN,,,86502,,MARSIK STEPAN,pirati
-2021-09-13,250,Bezhotovostní příjem,MARIK MILOSLAV,,,44011413,2,MARIK MILOSLAV,pirati
-2021-09-13,200,Bezhotovostní příjem,GREBIKOVA MARKETA,,,44006561,1,GREBIKOVA MARKETA,pirati
-2021-09-13,300,Bezhotovostní příjem,BOUDA TOMÁŠ,,0,86199,110708,BOUDA TOMÁŠ,pirati
-2021-09-13,300,Bezhotovostní příjem,HAŠEK KAREL,,0,84537,1,HAŠEK KAREL,pirati
-2021-09-13,500,Bezhotovostní příjem,GREYZERO S.R.O.,,0,44015469,19300,GREYZERO S.R.O.,pirati
-2021-09-12,10000,Platba převodem uvnitř banky,"Špak, Josef",,,85977,3,,pirati
-2021-09-12,1000,Okamžitá příchozí platba,Vohnický Aleš,,0,44016098,193030,Vohnický Aleš,pirati
-2021-09-12,1010,Okamžitá příchozí platba,Stašek Petr,,0,44016097,1,Stašek Petr,pirati
 2021-09-11,250,Platba převodem uvnitř banky,"Brada, Viktor",Podporuji: Centrálu České pirátské strany,,87039,1,Podporuji: Centrálu České pirátské strany,pirati
 2021-09-11,200,Platba převodem uvnitř banky,"Michálek, Vladimír",,,44004062,1,,pirati
 2021-09-11,2200,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch",Vojtěch Pikal - příspěvek Picolo (náhrada na kancelář),558,,400300,Vojtěch Pikal - příspěvek Picolo (náhrada na kancelář),pirati

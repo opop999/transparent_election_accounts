@@ -22,11 +22,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,999,Platba převodem uvnitř banky,"Smejkal, Oldřich","Dar SPD Oldřich Smejkal, Moravany, Vnitřní 3",,,,"Dar SPD Oldřich Smejkal, Moravany, Vnitřní 3",spd
 2021-09-13,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
 2021-09-13,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
-2021-09-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,,spd
-2021-09-16,-4e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
-2021-09-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,KREJCAROVA JITKA,spd
-2021-09-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
-2021-09-13,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-09-09,0.01,Bezhotovostní příjem,Petr Kolář,"Tomio,vracim ti honorar,co jsi mi dal za koncert.Uz te nechci videt.",,,,Petr Kolář,spd
 2021-09-09,83,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,spd
 2021-09-09,1e+05,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 702275 07.09.2021 c 5005JANS I LABAR,0,70200,,"CESKA POSTA, S.P.",spd

@@ -1,4 +1,6 @@
 id,date,amount,symbols,notes,entity_name
+361-20092021 1086 086142 508771,2021-09-20,600,19041984 / 0 / 0,"Janoušková Veronika, - Příchozí platba - Veronika Janoušková",ano_2011
+361-20092021 1086 086149 108776,2021-09-20,600,26121982 / 0 / 0,Janoušek Miloslav - Příchozí platba - Miloslav Janoušek,ano_2011
 120-20210920 PR00000820292,2021-09-20,0.01,25085 / 0 / 0,PRAUS PETR - Příchozí platba - Odveta za napadeni Ceske republiky,ano_2011
 120-20210920 0029651073818,2021-09-20,0.01,2011 / 0 / 0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!",ano_2011
 120-20210920 0029651012989,2021-09-20,0.01,0 / 0 / 0,"Sukač, Martin Václav - Příchozí platba - Příspěvek na cestu ze Strakovy akademie!",ano_2011
@@ -297,8 +299,6 @@ id,date,amount,symbols,notes,entity_name
 120-20210909 PTS436716665,2021-09-10,0.01,25085 / 0 / 0,Jan Libosvár - Příchozí platba - Na přišití uší,ano_2011
 120-20210909 PTS436716669,2021-09-10,0.01,25085 / 0 / 0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii,ano_2011
 120-20210909 PTS436716670,2021-09-10,0.01,25085 / 0 / 0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama,ano_2011
-120-20210909 PTS436716873,2021-09-10,0.01,0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman",ano_2011
-120-20210910 T02AR0HCMFN99,2021-09-10,0.01,0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?",ano_2011
 361-18092021 1086 086150 501440,2021-09-20,500,27091965 / 558 / 0,"Jurča Petr - Příchozí platba - Marta Petržílová, dar, Chodov",soukromnici
 001-10092021 1602 602019 030781,2021-09-10,-60000,3111111 / 0 / 0,Odchozí platba - DAR volby Praha,soukromnici
 001-02092021 1602 602012 166211,2021-09-02,-50000,670513 / 0 / 0,Odchozí platba,soukromnici
@@ -578,6 +578,8 @@ id,date,amount,symbols,notes,entity_name
 000-30092018-060-060-002808518,2018-09-30,-48,0 / 0 / 0,Poplatek,soukromnici
 120-20180921 00126880757,2018-09-24,20000,8105275189 / 0 / 0,ŠEBEK CHOLEWA JAN - Příchozí platba - dar jan šebek cholewa,soukromnici
 120-20180924 664791020,2018-09-24,2500,6611 / 0 / 0,Jitka Linková - Příchozí platba - DAR Strana soukromníků ČR,soukromnici
+120-20210909 PTS436716873,2021-09-10,0.01,0 / 0 / 0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman",ano_2011
+120-20210910 T02AR0HCMFN99,2021-09-10,0.01,0 / 0 / 0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?",ano_2011
 120-20210910 PR00000468456,2021-09-10,12817,24021965 / 0 / 0,ROZEHNAL JIRI - Příchozí platba,ano_2011
 120-20210909 PTS436716716,2021-09-10,0.01,25085 / 0 / 0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii,ano_2011
 120-20210910 1566479100,2021-09-10,0.01,0 / 0 / 0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011

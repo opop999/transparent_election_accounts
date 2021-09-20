@@ -8,8 +8,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-15,250,Bezhotovostní příjem,JIRI MIKES,DAR,,82028,,JIRI MIKES,svobodni
 2021-09-14,-5e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-09-13,1000,Bezhotovostní příjem,JOSEF HRUZA,DAR PRIZNIVCE,,9368,,JOSEF HRUZA,svobodni
-2021-09-16,-2e+05,Platba převodem uvnitř banky,,"Převod na provozní účet (členské příspěvky, ostatní ...)",,,,"Převod na provozní účet (členské příspěvky, ostatní ...)",svobodni
-2021-09-14,-5e+05,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-09-11,1000,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR na kampan za svobodu,,82020,,MACHÁČEK VÍT,svobodni
 2021-09-10,500,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82027,,VASICEK ONDREJ,svobodni
 2021-09-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni

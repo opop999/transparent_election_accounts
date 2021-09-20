@@ -77,12 +77,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,60000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR volby Praha,0,3111111,0,STRANA SOUKROMNÍKŮ Č,trikolora
 2021-09-13,100,Bezhotovostní příjem,HOFÍREK JIŘÍ,,0,2001375,0,HOFÍREK JIŘÍ,trikolora
 2021-09-12,3333,Okamžitá příchozí platba,Ing. Pavel Kutka,DAR,,123456,,Ing. Pavel Kutka,trikolora
-2021-09-20,20000,Bezhotovostní příjem,CHLUMCANSKA DOPRAVA,,308,9,,CHLUMCANSKA DOPRAVA,trikolora
-2021-09-17,2000,Bezhotovostní příjem,VOKRALOVA HANA,,308,123456,,VOKRALOVA HANA,trikolora
-2021-09-17,-1500000,Platba převodem uvnitř banky,,převod na volební výdajový účet,,,,převod na volební výdajový účet,trikolora
-2021-09-16,50,Bezhotovostní příjem,HOLEČEK MIROSLAV,,,9000372,,HOLEČEK MIROSLAV,trikolora
-2021-09-13,8000,Bezhotovostní příjem,Ing.Červenka Ondřej,,0,,,Ing.Červenka Ondřej,trikolora
-2021-09-13,100,Bezhotovostní příjem,HOFÍREK JIŘÍ,,0,2001375,0,HOFÍREK JIŘÍ,trikolora
 2021-09-11,1000,Platba převodem uvnitř banky,"Kuklík, Pavel","Dar, Pavel Kuklík, 26. 6. 1963",308,1109,,"Dar, Pavel Kuklík, 26. 6. 1963",trikolora
 2021-09-10,10000,Okamžitá příchozí platba,"OteSound, s.r.o.",Dar na cinnost (MUDr. Filip Otevrel),,1222222,,"OteSound, s.r.o.",trikolora
 2021-09-10,20000,Okamžitá příchozí platba,"Linhart Vít,Ing.",Vít Linhart,0,9000379,,"Linhart Vít,Ing.",trikolora

@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-09-20,-60500,Odchozí úhrada,Media Concept s. r. o.,2200559318,2010,volby PČR - tisk.kampaň,0,20210084,,CZK,kscm
+2021-09-20,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
+2021-09-20,40000,Příchozí úhrada,OV KSČM Nový Jičín,299041172,300,OV Nový Jičín parlamentní  volby,8,38104,,CZK,kscm
+2021-09-20,-575,Odchozí úhrada,"Zábřežská kulturní, s.r.o.",200492177,300,volby PČR - výlep,0,14321,,CZK,kscm
+2021-09-20,-769.93,Odchozí úhrada,"Technické služby Třešť, spol.",194626420267,100,volby PČR - výlep,0,1416885,,CZK,kscm
+2021-09-20,-1460,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122625,,CZK,kscm
+2021-09-20,-1758,Odchozí úhrada,Ing. Vladimír Tomeš,191274050237,100,volby PČR - prop.materiály,0,2021268,,CZK,kscm
+2021-09-20,-1902,Odchozí úhrada,"PAROLA, spol. s r.o.",403247681,100,volby PČR - pronájem plochy,0,1186354,,CZK,kscm
+2021-09-20,-2340,Odchozí úhrada,"Technické služby Kutná Hora, s",441998339,800,volby PČR - výlep,0,50210677,,CZK,kscm
+2021-09-20,-2468,Odchozí úhrada,Milan Růžička,1215883319,800,volby PČR - el.přípojka na akci,0,904915,,CZK,kscm
+2021-09-20,-2737,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123243,,CZK,kscm
+2021-09-20,-4912.6,Odchozí úhrada,"SNIP & CO, reklamní společnost",31106641,100,volby PČR - MHD pronájem rekl.ploch,0,21310169,,CZK,kscm
+2021-09-20,-6100,Odchozí úhrada,Mgr. Hana Michálková,354898390217,100,volby PČR - zdrav.asistence,0,202119,,CZK,kscm
+2021-09-20,-30000,Odchozí úhrada,Jaroslav Komínek,214929659,300,volby PČR - správa FB,0,2124,,CZK,kscm
 2021-09-17,-126897.92,Odchozí úhrada,Česká distribuční a.s.,1142008256,5500,volby PČR - distribuce,0,420210318,,CZK,kscm
 2021-09-17,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
 2021-09-17,126897.92,Příchozí úhrada,KSČM,478648033,300,Luzar Leo - fin.dar pro volbyPS PČR,0,38100,,CZK,kscm

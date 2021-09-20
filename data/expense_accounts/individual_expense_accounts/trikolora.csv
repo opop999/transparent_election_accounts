@@ -54,57 +54,6 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-14,20000,Platba převodem uvnitř banky,Svobodní,Příspěvek na krajskou kampaň TSS JMK,,2222222,2222222,Příspěvek na krajskou kampaň TSS JMK,trikolora
 2021-09-14,-20000,Karetní transakce,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",trikolora
 2021-09-13,-10000,Karetní transakce,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",,6981,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",trikolora
-2021-09-20,-2414.21,Karetní transakce,,"Nákup: FACEBK MK4WM7XZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.9.2021, částka  2414.21 CZK",,6981,,"Nákup: FACEBK MK4WM7XZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 19.9.2021, částka  2414.21 CZK",trikolora
-2021-09-20,-20000,Karetní transakce,,"Nákup: FACEBK BKJR3772W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK BKJR3772W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",trikolora
-2021-09-17,-5983,Bezhotovostní platba,,výroba plakátů A2 - Ústecký kraj,308,210083,,výroba plakátů A2 - Ústecký kraj,trikolora
-2021-09-17,-7200,Bezhotovostní platba,,polepy osobních aut - ústecký kraj,,210079,,polepy osobních aut - ústecký kraj,trikolora
-2021-09-17,-4780,Bezhotovostní platba,,platba za výrobu Plakátů - ústecký kraj,308,210078,,platba za výrobu Plakátů - ústecký kraj,trikolora
-2021-09-17,-2143,Bezhotovostní platba,,výroba a potisk reflexních vest - Praha,308,51210020,,výroba a potisk reflexních vest - Praha,trikolora
-2021-09-17,-1000,Bezhotovostní platba,,soudní poplatek - žaloba na ČT - centrála,308,1015103521,,soudní poplatek - žaloba na ČT - centrála,trikolora
-2021-09-17,-7165,Platba převodem uvnitř banky,,výroba PVC bannerů - Liberecký kraj,308,20218462,,výroba PVC bannerů - Liberecký kraj,trikolora
-2021-09-17,-8864,Platba převodem uvnitř banky,,výroba a potisk PVC bannerů - Liberecký kraj,308,20218474,,výroba a potisk PVC bannerů - Liberecký kraj,trikolora
-2021-09-17,-1300,Bezhotovostní platba,,Pronájem plochy - Olomoucký kraj,308,2212101058,,Pronájem plochy - Olomoucký kraj,trikolora
-2021-09-17,-90750,Bezhotovostní platba,,platba parlamentní listy Our Media,308,210100218,,platba parlamentní listy Our Media,trikolora
-2021-09-17,-313.39,Bezhotovostní platba,,doplatek výroba Lipo - Centrála,308,21210029,,doplatek výroba Lipo - Centrála,trikolora
-2021-09-17,-60500,Platba převodem uvnitř banky,,publikace PR Článků - centrála,308,122021541,,publikace PR Článků - centrála,trikolora
-2021-09-16,-20000,Karetní transakce,,"Nákup: FACEBK A6GMW6B2W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK A6GMW6B2W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.9.2021, částka  20000.00 CZK",trikolora
-2021-09-15,-105578,Platba převodem uvnitř banky,,výroba potisku bannerů pro kostky malé Praha,308,20218320,,výroba potisku bannerů pro kostky malé Praha,trikolora
-2021-09-15,-4114,Bezhotovostní platba,,potisk propisek - MSK,308,21275,,potisk propisek - MSK,trikolora
-2021-09-15,-6411,Platba převodem uvnitř banky,,žídek tisk - výroba a tisk letáků MSK,308,218103194,,žídek tisk - výroba a tisk letáků MSK,trikolora
-2021-09-15,-37914.14,Bezhotovostní platba,,Ide art - výroba a tisk MSK,308,802128,,Ide art - výroba a tisk MSK,trikolora
-2021-09-15,-12160,Bezhotovostní platba,,inzerce idnes MSK,308,2321006127,,inzerce idnes MSK,trikolora
-2021-09-15,-59550,Platba převodem uvnitř banky,,Plexi Kašaj - polep autobusů MSK,308,2021000035,,Plexi Kašaj - polep autobusů MSK,trikolora
-2021-09-15,-4537.5,Bezhotovostní platba,,výroba plakátů Moravskoslezský kraj,308,4212101735,,výroba plakátů Moravskoslezský kraj,trikolora
-2021-09-15,-40994.8,Bezhotovostní platba,,pronájem reklamních panelů Moravskoslezský kraj,308,310210075,,pronájem reklamních panelů Moravskoslezský kraj,trikolora
-2021-09-15,-13200,Bezhotovostní platba,,výroba reklamních předmětů pro kampaň - Středočeský kraj,308,12021,,výroba reklamních předmětů pro kampaň - Středočeský kraj,trikolora
-2021-09-15,-1778.7,Bezhotovostní platba,,PPs 75x100 - Středočeský kraj,308,9502021,,PPs 75x100 - Středočeský kraj,trikolora
-2021-09-15,-49610,Bezhotovostní platba,,tisk a výroba letáků A74/A5 Středočeský kraj,308,20211149,,tisk a výroba letáků A74/A5 Středočeský kraj,trikolora
-2021-09-15,-500,Bezhotovostní platba,,zábor veřejného prostranství - Říčany Středočeský kraj,308,13613110,,zábor veřejného prostranství - Říčany Středočeský kraj,trikolora
-2021-09-15,-69236.2,Bezhotovostní platba,,výroba propagačních předmětů a plakátů - Jihomoravský kraj,308,612021,,výroba propagačních předmětů a plakátů - Jihomoravský kraj,trikolora
-2021-09-15,-45980,Platba převodem uvnitř banky,,právní služby - ochranná známka - centrála,308,4992021,,právní služby - ochranná známka - centrála,trikolora
-2021-09-15,-20000,Bezhotovostní platba,,organizační poradenství a projektové řízení - centrála,308,10111,,organizační poradenství a projektové řízení - centrála,trikolora
-2021-09-15,-12100,Bezhotovostní platba,,výroba plakátů do souprav metra - Praha,308,1212100342,,výroba plakátů do souprav metra - Praha,trikolora
-2021-09-15,-96800,Bezhotovostní platba,,pronájem 250 ploch ve vozech metra - Praha,308,330210033,,pronájem 250 ploch ve vozech metra - Praha,trikolora
-2021-09-15,-9680,Bezhotovostní platba,,výroba bannerů pro reklamu Metro - Praha,308,1212100343,,výroba bannerů pro reklamu Metro - Praha,trikolora
-2021-09-15,-159720,Bezhotovostní platba,,pronájem reklamních panelů Metro - Praha,308,330210034,,pronájem reklamních panelů Metro - Praha,trikolora
-2021-09-15,-125452.8,Bezhotovostní platba,,pronájem panelů metro - Praha,308,330210032,,pronájem panelů metro - Praha,trikolora
-2021-09-15,-30855,Bezhotovostní platba,,tisk novin pro Středočeský kraj,308,2122000539,,tisk novin pro Středočeský kraj,trikolora
-2021-09-15,-9668,Bezhotovostní platba,,tisk a výroba skládaček A4- Ústecký kraj,308,210089,,tisk a výroba skládaček A4- Ústecký kraj,trikolora
-2021-09-15,-8531,Bezhotovostní platba,,výroba a tisk A4 skládaček - ÚStecký kraj,308,210088,,výroba a tisk A4 skládaček - ÚStecký kraj,trikolora
-2021-09-15,-4550,Bezhotovostní platba,,tisk skládaček A4 - Ústecký kraj,308,210086,,tisk skládaček A4 - Ústecký kraj,trikolora
-2021-09-15,-1000,Bezhotovostní platba,,propagační služby - Ústecký kraj,308,202101,,propagační služby - Ústecký kraj,trikolora
-2021-09-15,-7260,Bezhotovostní platba,,pronájem sloupů VO - Olomoucký kraj,308,202100301,,pronájem sloupů VO - Olomoucký kraj,trikolora
-2021-09-15,-256036,Bezhotovostní platba,,pronájem billboardových ploch - Olomoucký kraj,308,2022086,,pronájem billboardových ploch - Olomoucký kraj,trikolora
-2021-09-15,-7563,Bezhotovostní platba,,dotisk letáků A5 - Ústecký kraj,308,210092,,dotisk letáků A5 - Ústecký kraj,trikolora
-2021-09-15,-56000,Platba převodem uvnitř banky,,platba za catering a provoz Den Veteránů - Praha,308,20214,,platba za catering a provoz Den Veteránů - Praha,trikolora
-2021-09-15,-205942,Bezhotovostní platba,,Žlutý pes koncert - centrála,308,2021110,,Žlutý pes koncert - centrála,trikolora
-2021-09-15,-7563,Bezhotovostní platba,,dotisk letáků A5 - Ústecký kraj,308,210091,,dotisk letáků A5 - Ústecký kraj,trikolora
-2021-09-15,-9075,Bezhotovostní platba,,výroba a tisk letáků A5 - Ústecký kraj,308,210090,,výroba a tisk letáků A5 - Ústecký kraj,trikolora
-2021-09-15,-9244.4,Bezhotovostní platba,,reklamní plocha a výlep - Středočeský kraj,308,21502159,,reklamní plocha a výlep - Středočeský kraj,trikolora
-2021-09-15,-25047,Bezhotovostní platba,,doplatek za tisk Novin - Olomoucký kraj,,2116000278,,doplatek za tisk Novin - Olomoucký kraj,trikolora
-2021-09-15,-4307.61,Bezhotovostní platba,,polepy petiční stolky - Pardubický kraj,308,21211718,,polepy petiční stolky - Pardubický kraj,trikolora
-2021-09-14,-20000,Karetní transakce,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",trikolora
-2021-09-13,-10000,Karetní transakce,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",,6981,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",trikolora
 2021-09-10,36300,Okamžitá příchozí platba,Brand Institut s.r.o,,308,51210019,,Brand Institut s.r.o,trikolora
 2021-09-10,-7480,Okamžitá odchozí platba,,výlep a pronájem ploch Rengl - Pardubický kraj,308,1022714,,výlep a pronájem ploch Rengl - Pardubický kraj,trikolora
 2021-09-10,-30250,Bezhotovostní platba,,platba za předvolební debaty - Ústecký kraj,308,592021,,platba za předvolební debaty - Ústecký kraj,trikolora
