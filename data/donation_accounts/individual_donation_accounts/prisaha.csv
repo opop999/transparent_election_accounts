@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-21,75000,Okamžitá příchozí platba,Hes Milan,Dar,0,,,Hes Milan,prisaha
+2021-09-21,5000,Bezhotovostní příjem,HORÁK STANISLAV,Dar Hnutí Roberta Šlachty Přísaha,0,501012,0,HORÁK STANISLAV,prisaha
+2021-09-21,1000,Bezhotovostní příjem,SCHAFFER ZBYNĚK,dar hnutí Zbyněk Schaffer,308,640503,0,SCHAFFER ZBYNĚK,prisaha
+2021-09-21,500,Bezhotovostní příjem,VEJDOVSKA JITKA,102003,558,0,,VEJDOVSKA JITKA,prisaha
+2021-09-21,400,Bezhotovostní příjem,SURANOVA JANA,,,0,,SURANOVA JANA,prisaha
+2021-09-20,30000,Okamžitá příchozí platba,Ing.Novotný Pavel,dar hnutí,8,20092021,20092021,Ing.Novotný Pavel,prisaha
+2021-09-20,1000,Okamžitá příchozí platba,Lucie Hejtmánková,Dar hnutí Pavel Hejtmánek,,,,Lucie Hejtmánková,prisaha
+2021-09-20,1000,Okamžitá příchozí platba,Lucie Hejtmánková,Dar hnutí  Lucie Hejtmánková,,,,Lucie Hejtmánková,prisaha
+2021-09-20,1000,Platba převodem uvnitř banky,"Křižan, Petr",dar hnutí,,,,dar hnutí,prisaha
+2021-09-20,1000,Okamžitá příchozí platba,JIŘÍ JANDA,"Dar hnutí, Jan Mlčoch",,,,JIŘÍ JANDA,prisaha
+2021-09-20,1000,Okamžitá příchozí platba,Žák Oldřich,,0,,,Žák Oldřich,prisaha
+2021-09-20,1000,Platba převodem uvnitř banky,"Vaněk, Jakub",Dar hnutí Doskočil Karel,,,,Dar hnutí Doskočil Karel,prisaha
+2021-09-20,1000,Okamžitá příchozí platba,Hanušová Simona,Dar hnutí,0,,,Hanušová Simona,prisaha
 2021-09-20,1000,Okamžitá příchozí platba,OHERA BOHDAN,Dar hnutí...,,,,OHERA BOHDAN,prisaha
 2021-09-20,1000,Okamžitá příchozí platba,Pavel Černý,Dar hnutí,,,,Pavel Černý,prisaha
 2021-09-20,1000,Okamžitá příchozí platba,Ing.Horský Lukáš,DAR_HNUTI,0,,,Ing.Horský Lukáš,prisaha

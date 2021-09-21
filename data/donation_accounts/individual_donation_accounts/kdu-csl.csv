@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-21,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
+2021-09-21,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
+2021-09-21,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl
+2021-09-21,1000,Bezhotovostní příjem,KLIMEŠ PAVEL,Pavel Klimeš - DAR,,21041984,725,KLIMEŠ PAVEL,kdu-csl
+2021-09-21,575,Bezhotovostní příjem,Plešinger David,DPlesinger dar 2020 - měsíčně,709,7411293967,,Plešinger David,kdu-csl
 2021-09-20,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl
 2021-09-20,10537500,Bezhotovostní příjem,MF,1403/18015/2021-107 KDU-ČSL,6418,180152021,0,MF,kdu-csl
 2021-09-20,2200,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl

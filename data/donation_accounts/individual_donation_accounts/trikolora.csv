@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-21,2000,Bezhotovostní příjem,Svoboda Radek,DAR,,234567,,Svoboda Radek,trikolora
+2021-09-20,999,Okamžitá příchozí platba,Pavel Přikryl,"DAR, Pavel Přikryl, 15.08.1961",,,,Pavel Přikryl,trikolora
 2021-09-20,-7000,Platba převodem uvnitř banky,,převod prostředků na mzdový účet,,,,převod prostředků na mzdový účet,trikolora
 2021-09-20,200,Bezhotovostní příjem,Dagmar Hyklová,DAR,,234567,,Dagmar Hyklová,trikolora
 2021-09-20,20000,Bezhotovostní příjem,CHLUMCANSKA DOPRAVA,,308,9,,CHLUMCANSKA DOPRAVA,trikolora

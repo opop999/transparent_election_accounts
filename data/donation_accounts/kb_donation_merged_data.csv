@@ -1,4 +1,5 @@
 id,date,amount,vs,ks,ss,note,entity_name
+120-20210920 00550741236,2021-09-21,0.01,25085,0,0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta,ano_2011
 001-20092021 1602 602017 535851,2021-09-20,1943,6101946,0,0,PEKAR VASIL SILVESTR - Příchozí platba - dar,ano_2011
 361-20092021 1086 086142 508771,2021-09-20,600,19041984,0,0,"Janoušková Veronika, - Příchozí platba - Veronika Janoušková",ano_2011
 361-20092021 1086 086149 108776,2021-09-20,600,26121982,0,0,Janoušek Miloslav - Příchozí platba - Miloslav Janoušek,ano_2011
@@ -43,8 +44,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20210917 PTS440164505,2021-09-20,0.01,0,0,0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.,ano_2011
 120-20210917 PTS440163844,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - NE 2021,ano_2011
 120-20210917 PTS440163846,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii,ano_2011
-120-20210917 PTS440163842,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?",ano_2011
 120-20210917 PTS440163848,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus",ano_2011
+120-20210917 PTS440163842,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?",ano_2011
 120-20210917 PTS440163840,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek",ano_2011
 120-20210917 PTS440163805,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny,ano_2011
 120-20210917 PTS440163582,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama,ano_2011
@@ -298,7 +299,6 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20210910 T02AR0HCMFO65,2021-09-10,0.01,0,0,0,"PETRA PELIKANOVA - Příchozí platba - TRVALE NA CESTU KAMKOLI, TŘEBA DO POPRADU, HLAVNĚ UŽ SE SBALTE A VYPADNĚTE OD VÁLU!",ano_2011
 120-20210910 0029609016789,2021-09-10,0.01,2011,0,0,"Trnka, Tomáš - Příchozí platba - Agente Bureši a bando bezpáteřních hajzlů ze zlodějského hnití, děkuju i za děti za vybrakování státní kasy. Bude líp, ale až budete v base!",ano_2011
 120-20210909 PTS436716665,2021-09-10,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Na přišití uší,ano_2011
-120-20210909 PTS436716669,2021-09-10,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii,ano_2011
 361-18092021 1086 086150 501440,2021-09-20,500,27091965,558,0,"Jurča Petr - Příchozí platba - Marta Petržílová, dar, Chodov",soukromnici
 001-10092021 1602 602019 030781,2021-09-10,-60000,3111111,0,0,Odchozí platba - DAR volby Praha,soukromnici
 001-02092021 1602 602012 166211,2021-09-02,-50000,670513,0,0,Odchozí platba,soukromnici
@@ -546,8 +546,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20190502 19430D0003838,2019-05-02,412500,14232019,6418,0,MF - Příchozí platba,soukromnici
 000-30042019-060-060-002467774,2019-04-30,-18,0,0,0,Poplatek,soukromnici
 000-30042019-060-060-002467773,2019-04-30,-60,0,0,0,Poplatek,soukromnici
-120-20190425 TEBD015295477,2019-04-26,5000,442019,0,0,"SLAVIA POJIŠŤOVNA A. - Příchozí platba - DAR, SLAVIA POJIŠŤOVNA",soukromnici
 001-26042019 1602 602025 715311,2019-04-26,278.3,10,0,0,ŠEBESTA JIŘÍ - Příchozí platba - Jiří Šebesta VOLBY EP,soukromnici
+120-20190425 TEBD015295477,2019-04-26,5000,442019,0,0,"SLAVIA POJIŠŤOVNA A. - Příchozí platba - DAR, SLAVIA POJIŠŤOVNA",soukromnici
 120-20190405 I1904053S3WSU,2019-04-08,5000,42019,308,0,"Valihrach Josef - Příchozí platba - Dar, Valihrach J.",soukromnici
 000-31032019-060-060-002770826,2019-03-31,-60,0,0,0,Poplatek,soukromnici
 000-28022019-060-060-002483564,2019-02-28,-60,0,0,0,Poplatek,soukromnici
@@ -578,6 +578,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 000-30092018-060-060-002808518,2018-09-30,-48,0,0,0,Poplatek,soukromnici
 120-20180921 00126880757,2018-09-24,20000,8105275189,0,0,ŠEBEK CHOLEWA JAN - Příchozí platba - dar jan šebek cholewa,soukromnici
 120-20180924 664791020,2018-09-24,2500,6611,0,0,Jitka Linková - Příchozí platba - DAR Strana soukromníků ČR,soukromnici
+120-20210909 PTS436716669,2021-09-10,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii,ano_2011
 120-20210909 PTS436716670,2021-09-10,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama,ano_2011
 120-20210909 PTS436716873,2021-09-10,0.01,0,0,0,"Miroslav Reich - Příchozí platba - Agente Bureši, odvolávám tě z diverzní akce Premiér. Už jsi způsobil dost škod. Řídící důstojník Šuman",ano_2011
 120-20210910 T02AR0HCMFN99,2021-09-10,0.01,0,0,0,"JIRI POSTUPA - Příchozí platba - A JINAK SE VÁM SPÍ, PANE INŽENÝRE BABIŠI, DOBŘE?",ano_2011

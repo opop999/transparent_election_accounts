@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-21,500,Bezhotovostní příjem,HAJDUCHOVÁ JITKA,DAR 44016191/193000,0,44016191,193000,HAJDUCHOVÁ JITKA,pirati
+2021-09-21,300,Bezhotovostní příjem,Procházka Petr,,0,84483,1,Procházka Petr,pirati
+2021-09-21,1000,Bezhotovostní příjem,KATERINA NECILOVA,PODPORUJI: VOLEBNÍ KAMPAŇ PIRÁTŮ ASTAROSTŮ,,84639,193000,KATERINA NECILOVA,pirati
+2021-09-20,500,Okamžitá příchozí platba,Jan Čáha,DAR 44002911/200024,,44002911,200024,Jan Čáha,pirati
 2021-09-20,2000,Platba převodem uvnitř banky,"Jüngling, Jakub",DAR NA PROVOZ PREROVSKEHO PICE,,,110303,DAR NA PROVOZ PREROVSKEHO PICE,pirati
 2021-09-20,300,Bezhotovostní příjem,Libor Vilímek,"Pan Palačinku přivezou do nemocnice s utrženým uchem. ""Co jste dělal?"" ptají se doktoři. ""Chodil jsem moc dlouho se džbánem pro vodu"". :D :D",,44014202,1,Libor Vilímek,pirati
 2021-09-20,500,Platba převodem uvnitř banky,"Bc Šimek, Petr",,,44016184,193030,,pirati

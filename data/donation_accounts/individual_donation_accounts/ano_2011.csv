@@ -1,4 +1,5 @@
 id,date,amount,vs,ks,ss,note,entity_name
+120-20210920 00550741236,2021-09-21,0.01,25085,0,0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta,ano_2011
 001-20092021 1602 602017 535851,2021-09-20,1943,6101946,0,0,PEKAR VASIL SILVESTR - Příchozí platba - dar,ano_2011
 361-20092021 1086 086142 508771,2021-09-20,600,19041984,0,0,"Janoušková Veronika, - Příchozí platba - Veronika Janoušková",ano_2011
 361-20092021 1086 086149 108776,2021-09-20,600,26121982,0,0,Janoušek Miloslav - Příchozí platba - Miloslav Janoušek,ano_2011
@@ -43,8 +44,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20210917 PTS440164505,2021-09-20,0.01,0,0,0,Miroslav Reich - Příchozí platba - Provize pro Efko z té vaší Stoky.,ano_2011
 120-20210917 PTS440163844,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - NE 2021,ano_2011
 120-20210917 PTS440163846,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii,ano_2011
-120-20210917 PTS440163842,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?",ano_2011
 120-20210917 PTS440163848,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus",ano_2011
+120-20210917 PTS440163842,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - To vám není blbé sloužit zrovna jemu, členové sekty ANO?",ano_2011
 120-20210917 PTS440163840,2021-09-20,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - Není to účelové, ani zmanipulované.Jednoduše jsi zmetek",ano_2011
 120-20210917 PTS440163805,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Retardovanému podvodníkovi na kurz češtiny,ano_2011
 120-20210917 PTS440163582,2021-09-20,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Držce zlatokopce na dovádění s floristama,ano_2011

@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-21,100,Platba převodem uvnitř banky,"Kokoška, Tomáš",dar,,673796,,dar,zeleni
 2021-09-20,2000,Platba převodem uvnitř banky,"Ing. Záruba, Adam Ph.D.",DAR na kampaň - Adam Záruba,,9003277,,DAR na kampaň - Adam Záruba,zeleni
 2021-09-20,2000,Platba převodem uvnitř banky,"Lupač, Marek",Dar pro Zelenou politiku.,,9003276,,Dar pro Zelenou politiku.,zeleni
 2021-09-20,150,Bezhotovostní příjem,Andrea Beláňová,Držím palce,,9002148,,Andrea Beláňová,zeleni

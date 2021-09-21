@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name,contra_account_number,contra_account_bankCode,currency,id
+2021-09-21,-3650,Karetní transakce,,"Nákup: FACEBK 55KW57FK62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  3650.00 CZK",,6835,,"Nákup: FACEBK 55KW57FK62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  3650.00 CZK",pirati_stan,,,,
+2021-09-21,-908,Karetní transakce,,"Nákup: GOPAY  *KYTARY.CZ,  Mezi vodami 2044/23, kytary.cz, 14000, CZE, dne 20.9.2021, částka  908.00 CZK",,9967,,"Nákup: GOPAY  *KYTARY.CZ,  Mezi vodami 2044/23, kytary.cz, 14000, CZE, dne 20.9.2021, částka  908.00 CZK",pirati_stan,,,,
+2021-09-21,-3950,Karetní transakce,,"Nákup: FACEBK 7JNZS8BYQ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  3950.00 CZK",,9967,,"Nákup: FACEBK 7JNZS8BYQ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  3950.00 CZK",pirati_stan,,,,
+2021-09-21,-3000,Karetní transakce,,"Nákup: FACEBK 36MSC83WJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  3000.00 CZK",,8267,,"Nákup: FACEBK 36MSC83WJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  3000.00 CZK",pirati_stan,,,,
+2021-09-21,-3000,Karetní transakce,,"Nákup: FACEBK U3FJ98XVJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  3000.00 CZK",,8267,,"Nákup: FACEBK U3FJ98XVJ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  3000.00 CZK",pirati_stan,,,,
+2021-09-20,-750,Karetní transakce,,"Nákup: FACEBK Y4PJA736Y2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  750.00 CZK",,9967,,"Nákup: FACEBK Y4PJA736Y2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  750.00 CZK",pirati_stan,,,,
+2021-09-20,-5000,Karetní transakce,,"Nákup: FACEBK M7LNL7TRG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  5000.00 CZK",,6835,,"Nákup: FACEBK M7LNL7TRG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  5000.00 CZK",pirati_stan,,,,
+2021-09-20,-20000,Karetní transakce,,"Nákup: FACEBK HP8YJ7PNY2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20000.00 CZK",,8267,,"Nákup: FACEBK HP8YJ7PNY2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20000.00 CZK",pirati_stan,,,,
+2021-09-20,-20000,Karetní transakce,,"Nákup: FACEBK DNQJU7TUF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20000.00 CZK",,8267,,"Nákup: FACEBK DNQJU7TUF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20000.00 CZK",pirati_stan,,,,
 2021-09-20,-3057.1,Okamžitá odchozí platba,,"pp#19171 FO 4179/2021, cen:vs, ceny-pro-nanukovou-soutez, velka-pecka-sro",,33987088,42021,"pp#19171 FO 4179/2021, cen:vs, ceny-pro-nanukovou-soutez, velka-pecka-sro",pirati_stan,,,,
 2021-09-20,-1186.19,Karetní transakce,,"Nákup: Hotel on Booking.com,  Weteringschans 28, Amsterdam, 1017 SG, NLD, dne 20.9.2021, částka  45.50 EUR",,9967,,"Nákup: Hotel on Booking.com,  Weteringschans 28, Amsterdam, 1017 SG, NLD, dne 20.9.2021, částka  45.50 EUR",pirati_stan,,,,
 2021-09-20,-3251.35,Karetní transakce,,"Nákup: Hotel Ibis Praha Malá,  Plzenská 14, Praha 5, 150 00, CZE, dne 19.9.2021, částka  3251.35 CZK",,8267,,"Nákup: Hotel Ibis Praha Malá,  Plzenská 14, Praha 5, 150 00, CZE, dne 19.9.2021, částka  3251.35 CZK",pirati_stan,,,,
@@ -410,6 +419,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,-6954,Bezhotovostní platba,,,308,10122402,3100,"3100-RENGL s.r.o., tisk a výlep plakáty Lkino",ods_kdu-csl_top09,,,,
 2021-09-13,-500,Bezhotovostní platba,,,308,2100000001,3100,"3100-MARA šental , pronájem prostor Lkino",ods_kdu-csl_top09,,,,
 2021-09-13,-27,Okamžitá odchozí platba,,,378,1211270473,2100,2100-Hlavní město Praha,ods_kdu-csl_top09,,,,
+2021-09-21,-20000,Karetní transakce,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",spd,,,,
 2021-09-20,-1422.34,Karetní transakce,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",,3344,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",spd,,,,
 2021-09-20,-1875,Platba převodem uvnitř banky,,"Tisk Sarpet Europe s.r.o., tisk",308,113314979,1400,"Tisk Sarpet Europe s.r.o., tisk",spd,,,,
 2021-09-20,-10246.28,Bezhotovostní platba,,"Rekl. servis RS, spol. s r.o.,výlep",308,2021314,1400,"Rekl. servis RS, spol. s r.o.,výlep",spd,,,,
@@ -483,6 +493,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,2e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd,,,,
 2021-09-13,-20000,Karetní transakce,,"Nákup: FACEBK 9CFYV9FAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 9CFYV9FAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.9.2021, částka  20000.00 CZK",spd,,,,
 2021-09-13,-20000,Karetní transakce,,"Nákup: FACEBK LAY7E9TAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK LAY7E9TAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.9.2021, částka  20000.00 CZK",spd,,,,
+2021-09-20,-20489.4,Karetní transakce,,"Nákup: FACEBK T9SSJ7XKF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20489.40 CZK",,2831,,"Nákup: FACEBK T9SSJ7XKF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20489.40 CZK",cssd,,,,
 2021-09-20,-1157,Karetní transakce,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 17.9.2021, částka  1157.00 CZK",,3429,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 17.9.2021, částka  1157.00 CZK",cssd,,,,
 2021-09-20,-12500,Karetní transakce,,"Nákup: FACEBK 7TBUZ63MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  12500.00 CZK",,2831,,"Nákup: FACEBK 7TBUZ63MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  12500.00 CZK",cssd,,,,
 2021-09-20,-20000,Karetní transakce,,"Nákup: FACEBK X4DHT67LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK X4DHT67LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  20000.00 CZK",cssd,,,,
@@ -656,6 +667,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-14,20000,Platba převodem uvnitř banky,Svobodní,Příspěvek na krajskou kampaň TSS JMK,,2222222,2222222,Příspěvek na krajskou kampaň TSS JMK,trikolora,,,,
 2021-09-14,-20000,Karetní transakce,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK 2D4KX632W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 13.9.2021, částka  20000.00 CZK",trikolora,,,,
 2021-09-13,-10000,Karetní transakce,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",,6981,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 11.9.2021, částka  10000.00 CZK",trikolora,,,,
+2021-09-20,-30000,Bezhotovostní platba,,FA 202110 - koordinace kampaně 2021/07-08,,202110,71,OLK - Alexandra Martináková,zeleni,,,,
+2021-09-20,-17690.2,Bezhotovostní platba,,ZF 8221000072 - volební bannery,,8221000072,42,"ÚLK - ASTRON print, s. r. o.",zeleni,,,,
+2021-09-20,-12100,Karetní transakce,,"Nákup: FACEBK DLL5L7KJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  12100.00 CZK",,6211,,"Nákup: FACEBK DLL5L7KJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  12100.00 CZK",zeleni,,,,
 2021-09-20,795,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,572320,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni,,,,
 2021-09-18,-12100,Karetní transakce,,"Nákup: FACEBK 842S973KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  12100.00 CZK",,6211,,"Nákup: FACEBK 842S973KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 17.9.2021, částka  12100.00 CZK",zeleni,,,,
 2021-09-17,1358,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,1210504,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni,,,,
@@ -4887,6 +4901,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-13,-19602,Odchozí úhrada,"CONFIDENCE MEDIA, s.r.o.",volby PČR - pronájem bilboardu,0,2120003,,,kscm,175221868,300,CZK,
 2021-01-07,1e+06,Příchozí úhrada,KSČM,převod na TRÚ volby PS,0,261,,,kscm,684844,300,CZK,
 2021-01-06,30000,Okamžitá úhrada,KOMUNISTICKÁ STRANA,Vklad na volby do PS ČR,,35202,,,kscm,639541,100,CZK,
+2021-09-21,0.1,,,,0,0,0,VACULIK PAVEL - Příchozí platba - Vsici kradu - v CR nejvic Babis!,ano_2011,,,,120-20210921 PR00000081552
+2021-09-21,-550,,,,558,1521100263,0,Odchozí platba - PYORD0000025414 MESTO KROMERIZ VELKE NAMESTI 115/1KROMERIZ ICO:00287351ZABOR KROMERIZ 21.8.202,ano_2011,,,,001-21092021 1602 602003 002993
 2021-09-20,0.01,,,,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210920 1578580781
 2021-09-20,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210920 1578579177
 2021-09-20,0.01,,,,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210920 1578579099
@@ -4973,16 +4989,16 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-09,1e+07,,,,558,3352,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011,,,,001-09092021 1602 602027 077821
 2021-09-09,-1742.4,,,,558,20210991,0,Odchozí platba - PYORD0000025503 VANESTA REKLAMA S.R.O. 9. KVETNA 627NOVY BOHUMIN ICO:25894510LETACKY,ano_2011,,,,001-09092021 1602 602035 080123
 2021-09-08,0.01,,,,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210908 1562964422
-2021-09-08,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210908 1562957505
 2021-09-08,0.01,,,,0,0,0,BAŽANT JAN - Příchozí platba - My máme na ty slováky prostě smůlu! Viď Bilaku a Husáku...,ano_2011,,,,001-08092021 1602 602007 977571
-2021-09-08,0.01,,,,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011,,,,120-20210907 S70778856
+2021-09-08,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210908 1562957505
 2021-09-08,0.01,,,,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011,,,,120-20210809 220858718
+2021-09-08,0.01,,,,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011,,,,120-20210907 S70778856
 2021-09-08,0.01,,,,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji United Bakeries, Vodňanskou drůbež, Maso Planá, Hyza, Tatra, řepkový olej, Pikok. A přeji ti Andreji šťastnou cestu na hrad - Mírov",ano_2011,,,,120-20210810 220889602
 2021-09-07,-15972,,,,558,1630200012,0,"Odchozí platba - CANIS SAFETY a.s. Poděbradská 260/59, Praha 9 ICO: 26816121 reflexní vesta",ano_2011,,,,001-07092021 1602 602031 955761
 2021-09-07,-16746,,,,558,210802198,0,"Odchozí platba - MP toner, spol s r.o. Drozdovice 1026/2a, Prostejov ICO: 26235463 fixy",ano_2011,,,,001-07092021 1602 602032 955771
 2021-09-07,0.01,,,,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210907 1562582049
-2021-09-07,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210907 1562582726
 2021-09-07,1e+06,,,,558,3352,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011,,,,001-07092021 1602 602027 952391
+2021-09-07,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210907 1562582726
 2021-09-06,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Bureši, Bureši, proč pořád lžeš? Státní dluh přece nejvýše vyšroubovala tvoje neschopná vláda! Pamatuj, že kdo lže, ten taky krade!",ano_2011,,,,361-06092021 1086 086144 106066
 2021-09-06,0.01,,,,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210906 1562374534
 2021-09-06,0.01,,,,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011,,,,120-20210906 1562374397

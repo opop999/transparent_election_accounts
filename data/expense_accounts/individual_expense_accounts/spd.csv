@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-09-21,-20000,Karetní transakce,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",spd
 2021-09-20,-1422.34,Karetní transakce,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",,3344,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",spd
 2021-09-20,-1875,Platba převodem uvnitř banky,,"Tisk Sarpet Europe s.r.o., tisk",308,113314979,1400,"Tisk Sarpet Europe s.r.o., tisk",spd
 2021-09-20,-10246.28,Bezhotovostní platba,,"Rekl. servis RS, spol. s r.o.,výlep",308,2021314,1400,"Rekl. servis RS, spol. s r.o.,výlep",spd
