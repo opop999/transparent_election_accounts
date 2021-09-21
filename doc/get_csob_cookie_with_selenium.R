@@ -61,6 +61,7 @@ return(cookie)
 
 }
 
+
 # Specify arguments of the function
 adress <- "localhost"
 host_port <- 4445L
@@ -68,3 +69,4 @@ container_port <- 4444
 
 # Run the function
 get_csob_cookie(host_port = host_port, container_port = container_port, adress = adress)
+
