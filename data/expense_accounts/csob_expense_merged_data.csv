@@ -1,18 +1,184 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-04,4900,Příchozí úhrada,KSCM,209509078,300,volby PS 2021,,33104,,CZK,kscm
+2021-10-04,3775.2,Příchozí úhrada,KOMUNISTICKÁ STRANA,1130261,100,Převod od OV KSČM Pelhřimov,0,2117023445,,CZK,kscm
+2021-10-04,10368,Příchozí úhrada,KOMUNISTICKÁ STRANA,1130261,100,Převod od OV KSČM Pelhřimov,0,31201816,,CZK,kscm
+2021-10-01,-3800,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba květiny,0,236,,CZK,kscm
+2021-10-01,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,1132611,100,převod od OV KSČM Ústí nad Orlicí,308,35304,,CZK,kscm
+2021-10-01,-4000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba kult.vystoupení,0,241,,CZK,kscm
+2021-10-01,-4000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba ozvučení,0,177,,CZK,kscm
+2021-10-01,-4000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba hudebníprodukce,0,175,,CZK,kscm
+2021-10-01,-4000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba kult.vystoupení,0,238,,CZK,kscm
+2021-10-01,-4200,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,221,,CZK,kscm
+2021-10-01,-4356,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,246,,CZK,kscm
+2021-10-01,-4500,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba hudebníprodukce,0,176,,CZK,kscm
+2021-10-01,-4840,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba Třešnička,0,126,,CZK,kscm
+2021-10-01,-4840,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba Třešnička,0,128,,CZK,kscm
+2021-10-01,-4840,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba Třešnička,0,127,,CZK,kscm
+2021-10-01,-4900,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba org.zajištění,0,239,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba kulturní vystoupení,0,258,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pronájem,0,250,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pronájem,0,206,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pronájem,0,207,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pronájem,0,237,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba hudebníprodukce,0,224,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pronájem,0,208,,CZK,kscm
+2021-10-01,-5000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba kult.vystoupení,0,242,,CZK,kscm
+2021-10-01,-6534,Odchozí úhrada,ČSAD Karviná a.s.,1901791,100,volby PČR - MHD reklama,0,6902210197,,CZK,kscm
+2021-10-01,-6896.64,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117023063,,CZK,kscm
+2021-10-01,-14883,Odchozí úhrada,"TISKÁRNY B.N.B., spol. s r.o.",1154588440207,100,volby PČR - plakáty,0,212011593,,CZK,kscm
+2021-10-01,-17569.2,Odchozí úhrada,OHŘE MEDIA spol. s r.o.,786662550287,100,volby PČR - inzerce,0,107532021,,CZK,kscm
+2021-10-01,-22480,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - doprava,0,2021110283,,CZK,kscm
+2021-10-01,-33723,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - plakáty,0,2021110284,,CZK,kscm
+2021-10-01,-68650,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - doprava volebníchnovin,0,2021110282,,CZK,kscm
+2021-10-01,-155000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - pronájem rekl.panelů,0,2021110285,,CZK,kscm
+2021-10-01,-465000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110279,,CZK,kscm
+2021-10-01,-640000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110281,,CZK,kscm
+2021-10-01,-678160,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - mediální prostor,0,2021110280,,CZK,kscm
+2021-10-01,-120,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,192,,CZK,kscm
+2021-10-01,-144,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,225,,CZK,kscm
+2021-10-01,-180,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,196,,CZK,kscm
+2021-10-01,-196,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,234,,CZK,kscm
+2021-10-01,-240,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,162,,CZK,kscm
+2021-10-01,-250,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,139,,CZK,kscm
+2021-10-01,-303,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba cestovné,0,155,,CZK,kscm
+2021-10-01,-336,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,247,,CZK,kscm
+2021-10-01,-344,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,223,,CZK,kscm
+2021-10-01,-393,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba doprava,0,197,,CZK,kscm
+2021-10-01,-404,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba cestovné,0,156,,CZK,kscm
+2021-10-01,-450,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba zábor,0,183,,CZK,kscm
+2021-10-01,-465,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,129,,CZK,kscm
+2021-10-01,-484,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,137,,CZK,kscm
+2021-10-01,-500,Odchozí úhrada,TSM Semily s.r.o.,1077658200297,100,volby PČR - výlep,0,21039,,CZK,kscm
+2021-10-01,-560,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba ozvučení,0,174,,CZK,kscm
+2021-10-01,-596,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba rozvozletáků,0,136,,CZK,kscm
+2021-10-01,-635,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pohár Lázek,0,195,,CZK,kscm
+2021-10-01,-742,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba ceny dosoutěže,0,232,,CZK,kscm
+2021-10-01,-762,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,138,,CZK,kscm
+2021-10-01,-775,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,184,,CZK,kscm
+2021-10-01,-800,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pronájem,0,249,,CZK,kscm
+2021-10-01,-895,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba foto,0,252,,CZK,kscm
+2021-10-01,-900,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,140,,CZK,kscm
+2021-10-01,-931,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba cestovné,0,193,,CZK,kscm
+2021-10-01,-967,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,233,,CZK,kscm
+2021-10-01,-1000,Odchozí úhrada,TSM Semily s.r.o.,1077658200297,100,volby PČR - výlep,0,21042,,CZK,kscm
+2021-10-01,-1000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba zábor,0,219,,CZK,kscm
+2021-10-01,-1000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba zábor,0,220,,CZK,kscm
+2021-10-01,-1000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba zapůjčení setu,0,235,,CZK,kscm
+2021-10-01,-1137,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,188,,CZK,kscm
+2021-10-01,-1139,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba občerstvení,0,154,,CZK,kscm
+2021-10-01,-1358,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,253,,CZK,kscm
+2021-10-01,-1500,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba půjčovné stan,0,198,,CZK,kscm
+2021-10-01,-1660,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba focení,0,251,,CZK,kscm
+2021-10-01,-1747,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba ceny Lázek,0,199,,CZK,kscm
+2021-10-01,-1800,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba magnetky,0,182,,CZK,kscm
+2021-10-01,-2000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba květiny,0,254,,CZK,kscm
+2021-10-01,-2100,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,170,,CZK,kscm
+2021-10-01,-2100,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba výlep,0,222,,CZK,kscm
+2021-10-01,-2110,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba kytice,0,146,,CZK,kscm
+2021-10-01,-2200,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba hudba,0,248,,CZK,kscm
+2021-10-01,-2522,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba pohár Lázek,0,194,,CZK,kscm
+2021-10-01,-3000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba ozvučení,0,240,,CZK,kscm
+2021-10-01,-3000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba kult.vystoupení,0,243,,CZK,kscm
+2021-10-01,-3000,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba koně,0,244,,CZK,kscm
+2021-10-01,-3146,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - hot.platba WC,0,178,,CZK,kscm
+2021-09-30,10000,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,430131,100,Převod od OV KSČM  Beroun,0,32102,,CZK,kscm
+2021-09-30,4000,Příchozí úhrada,KSČM,478648033,300,Zahradník Václav - dar pro volby do PS PČR,0,33203,,CZK,kscm
+2021-09-30,20000,Příchozí úhrada,KSČM,478648033,300,Vostrá Miloslava - fin.dar provolby do PS PČR,0,32103,,CZK,kscm
+2021-09-30,25000,Příchozí úhrada,KSČM,478648033,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
+2021-09-30,-759,Odchozí úhrada,Městské kulturní centrum Berou,4933131,100,volby PČR - výlep,0,21010092,,CZK,kscm
+2021-09-30,-3665,Odchozí úhrada,Tělovýchovná jednota Sokol Mrá,249750296,300,volby PČR - doprava,0,14021,,CZK,kscm
+2021-09-30,-4840,Odchozí úhrada,Mgr. Ivan Fojt,433921650247,100,volby PČR - časopis Třešnička,0,762021,,CZK,kscm
+2021-09-30,-6142,Odchozí úhrada,ZIKADO s.r.o.,7395520001,5500,volby PČR - reklama v časopise,0,21006849,,CZK,kscm
+2021-09-30,-6142,Odchozí úhrada,ZIKADO s.r.o.,7395520001,5500,volby PČR - reklama v časopise,0,21006885,,CZK,kscm
+2021-09-30,-6158.9,Odchozí úhrada,SEKO BUS PLZEŇ s.r.o.,266490457,300,volby PČR - přeprava osob,0,21136,,CZK,kscm
+2021-09-30,-8712,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117022434,,CZK,kscm
+2021-09-30,-10000,Odchozí úhrada,Michal Dokládal,1984112033,800,volby PČR - pronájem provozovny,0,202101,,CZK,kscm
+2021-09-30,-12805,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123372,,CZK,kscm
+2021-09-30,-16464,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - billboardy,0,2021110255,,CZK,kscm
+2021-09-30,-37542,Odchozí úhrada,"MAFRA, a.s.",1218942011,100,volby PČR - inzerce,0,,,CZK,kscm
+2021-09-30,-53996,Odchozí úhrada,Moraviatisk Vyškov spol. s r.o,864142340287,100,volby PČR - letáky,0,21010261,,CZK,kscm
+2021-09-30,-65870,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,"volby PČR - CVL,VARIAPONT",0,2021110241,,CZK,kscm
+2021-09-30,-160222,Odchozí úhrada,MARF s.r.o.,241299250,300,volby PČR - televizní spot,0,202101485,,CZK,kscm
+2021-09-30,-873943.69,Odchozí úhrada,"Česká pošta, s.p.",133715683,300,volby PČR - roznáška,0,5190573229,,CZK,kscm
+2021-09-30,9950,Příchozí úhrada,KOMUNISTIC.STR.CECH,277904192,300,OV KSČM TEPLICE,558,34206,,CZK,kscm
+2021-09-29,11840,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV RAKOVNÍK /PLATBY HOTOVĚ POŠTA,0,32112,,CZK,kscm
+2021-09-29,-287.95,Odchozí úhrada,Technické služby Otrokovice s.,276256170297,100,volby PČR - výlep,0,551244,,CZK,kscm
+2021-09-29,-432,Odchozí úhrada,Správa města Sezimovo Ústí,1078945050257,100,volby PČR - výlep,0,210815,,CZK,kscm
+2021-09-29,-440,Odchozí úhrada,"Kulturní centrum Bílovec, přís",2401396260,2010,volby PČR - výlep,0,121096,,CZK,kscm
+2021-09-29,-1048,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123349,,CZK,kscm
+2021-09-29,-1705,Odchozí úhrada,Technické služby města Přelouč,192656210237,100,volby PČR - pronájem kontejneru,0,2140208,,CZK,kscm
+2021-09-29,-1768.54,Odchozí úhrada,WIP Reklama spol. s r.o.,1100004396,5500,volby PČR - výlep,0,211301499,,CZK,kscm
+2021-09-29,-3509,Odchozí úhrada,Dopravní podnik města Pardubic,192372930267,100,volby PČR - přeprava osob,0,2021140094,,CZK,kscm
+2021-09-29,-3532.23,Odchozí úhrada,Centrum kultury města Písek,1150763120297,100,volby PČR - výlep,0,12100270,,CZK,kscm
+2021-09-29,-4459.03,Odchozí úhrada,Compag Mladá Boleslav s.r.o.,5708892,800,volby PČR - výlep,0,121000907,,CZK,kscm
+2021-09-29,-5000,Odchozí úhrada,Václav Chaloupka,1015180803,6100,volby PČR - hudební produkce,0,220921,,CZK,kscm
+2021-09-29,-5880,Odchozí úhrada,Lenka Horáková,4188699033,800,volby PČR - reklamní služby,0,2021119,,CZK,kscm
+2021-09-29,-7200,Odchozí úhrada,Dachmedia s.r.o.,2501570617,2010,volby PČR - plachta,0,20210097,,CZK,kscm
+2021-09-29,-7260,Odchozí úhrada,ČSAD Frýdek - Místek a.s.,1306781,100,volby PČR - MHD reklamní služby,0,2009210151,,CZK,kscm
+2021-09-29,-7260,Odchozí úhrada,ROYAL BUS s.r.o.,4171052399,800,volby PČR - doprava Svojšice,0,21064,,CZK,kscm
+2021-09-29,-10200,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - propagace kandidátů,0,20217028,,CZK,kscm
+2021-09-29,-18676.35,Odchozí úhrada,Kulturní zařízení města Valašs,437851,100,volby PČR - výlep,0,210235,,CZK,kscm
+2021-09-29,-24200,Odchozí úhrada,"MAFRA, a.s.",1218942011,100,volby PČR - inzerce,0,2121022731,,CZK,kscm
+2021-09-29,-29330.4,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117021908,,CZK,kscm
+2021-09-29,-30247.58,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117022297,,CZK,kscm
+2021-09-29,-35908,Odchozí úhrada,Švejk team s.r.o.,431977150277,100,volby PČR - pronájem stanu,0,210500257,,CZK,kscm
+2021-09-29,-72733.65,Odchozí úhrada,BOFTISK s.r.o.,234723586,300,"volby PČR - bloky,plakát,leták",0,210582,,CZK,kscm
+2021-09-29,-135798.28,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117021956,,CZK,kscm
+2021-09-29,5000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV KSČM fa: hudba Chaloupka,0,32112,,CZK,kscm
+2021-09-29,3867,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV RAKOVNÍK /platba hotově Pošta,0,32112,,CZK,kscm
+2021-09-29,53996,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm
+2021-09-27,3532.23,Příchozí úhrada,KSCM,209509078,300,,,33104,,CZK,kscm
+2021-09-27,23749,Příchozí úhrada,KOMUNISTICKÁ STRANA,2238231,100,Prevod od OV KSCM Ceske Budejovice,0,33101,,CZK,kscm
+2021-09-27,1048,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-09-27,1768.54,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-09-27,838,Příchozí úhrada,KOMUNISTIC.STR.CECH,299014959,300,prevod od OV KSCM Most,,34205,,CZK,kscm
+2021-09-24,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,636121,100,převod od OV KSCM Benešov,308,32101,2132101,CZK,kscm
+2021-09-24,-10.89,Odchozí úhrada,HLAVNÍ MĚSTO PRAHA,290220005157998,6000,volby PČR - pronájem,0,1211290258,,CZK,kscm
+2021-09-24,-508,Odchozí úhrada,Eko Bi s.r.o.,212186601,300,volby PČR - výlep,0,211000025,,CZK,kscm
+2021-09-24,-880,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120143,,CZK,kscm
+2021-09-24,-1500,Odchozí úhrada,Bohumil Šalda,170239890,300,volby PČR - hudební produkce,0,2021001,,CZK,kscm
+2021-09-24,-2406.69,Odchozí úhrada,Profi-tisk group s.r.o.,2105740231,2700,volby PČR - plakáty,0,11215975,,CZK,kscm
+2021-09-24,-3049.2,Odchozí úhrada,Jiří Drnek,8053133524,600,volby PČR - letáky,0,1342021,,CZK,kscm
+2021-09-24,-3085.5,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1214872106,,CZK,kscm
+2021-09-24,-4810.96,Odchozí úhrada,Profi-tisk group s.r.o.,2105740231,2700,volby PČR - letáky,0,11215941,,CZK,kscm
+2021-09-24,-6050,Odchozí úhrada,Eva Chytková,1641047399,800,volby PČR - výlep,0,2101051,,CZK,kscm
+2021-09-23,1e+05,Příchozí úhrada,KV KSČM,1014789414,6100,,358,33200,,CZK,kscm
+2021-09-23,-480,Odchozí úhrada,Kulturní a informační centrum,504916389,800,volby PČR - výlep,0,202114,,CZK,kscm
+2021-09-23,-1647.21,Odchozí úhrada,"Technické sítě Brno, akciová s",2025576339,800,volby PČR - spotřeba el.energie,0,2021201372,,CZK,kscm
+2021-09-23,-2032.8,Odchozí úhrada,"TECHNICKÝ A DOPRAVNÍ SERVIS, s",8862840237,100,volby PČR - výlep,0,2210698,,CZK,kscm
+2021-09-23,-3659.04,Odchozí úhrada,Město Břeclav,526651,100,volby PČR - výlep,0,101312,,CZK,kscm
+2021-09-23,-3872,Odchozí úhrada,Kulturní a společenské středis,739171,100,volby PČR - výlep,0,21050031,,CZK,kscm
+2021-09-23,-4392.3,Odchozí úhrada,OHŘE MEDIA spol. s r.o.,786662550287,100,volby PČR - inzerce,0,107262021,,CZK,kscm
+2021-09-23,-5264.71,Odchozí úhrada,"ON tisk, s.r.o.",203057410,600,volby PČR - tisk a knihařské práce,0,22412021,,CZK,kscm
+2021-09-23,-9148,Odchozí úhrada,Šárka Klučková,1643667399,800,volby PČR - prop.předměty,0,122021,,CZK,kscm
+2021-09-23,1539,Příchozí úhrada,KOMUNISTIC.STR.CECH,277904192,300,OV KSČM TEPLICE,558,34206,,CZK,kscm
+2021-09-23,2500,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-09-23,432,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-09-23,2032.8,Příchozí úhrada,KOMUNISTICKÁ STRANA,2136331,100,převod od OV KSČM Cheb,0,34101,23621,CZK,kscm
+2021-09-22,-2499,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,1022896,,CZK,kscm
+2021-09-22,5000,Příchozí úhrada,KOMUNISTIC.STR.CECH,299111329,300,převod od OV KSČM Rokycany,,33206,,CZK,kscm
+2021-09-22,2000,Příchozí úhrada,Okresní výb.KSČM PCE,298682816,300,podíl za volby OV KSČM Pardubice,,35302,,CZK,kscm
+2021-09-22,70000,Příchozí úhrada,KOMUNISTIC.STR.CECH,298336657,300,převod KV Pardubice volby 2021,,35300,,CZK,kscm
+2021-09-21,395.2,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko.,0,,,CZK,kscm
+2021-09-21,13000,Příchozí úhrada,KSČM,478648033,300,Kružíková Lidmila - fin.dar pro volby PS PČR,0,35303,,CZK,kscm
+2021-09-21,-145.2,Odchozí úhrada,Město Adamov,191360055309,800,volby PČR - výlep,0,2110189,,CZK,kscm
+2021-09-21,-250,Odchozí úhrada,Městské kulturní středisko Let,1360856309,800,volby PČR - výlep,0,200082,,CZK,kscm
+2021-09-21,-14096.5,Odchozí úhrada,MATCHBALL s.r.o.,247571390,300,volby PČR - polep,0,412469,,CZK,kscm
+2021-09-21,18652,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,331571,100,PŘEVOD OD OV KSČM RYCHNOV N.KN.,558,35204,,CZK,kscm
 2021-09-20,-60500,Odchozí úhrada,Media Concept s. r. o.,2200559318,2010,volby PČR - tisk.kampaň,0,20210084,,CZK,kscm
-2021-09-20,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
-2021-09-20,40000,Příchozí úhrada,OV KSČM Nový Jičín,299041172,300,OV Nový Jičín parlamentní  volby,8,38104,,CZK,kscm
-2021-09-20,-575,Odchozí úhrada,"Zábřežská kulturní, s.r.o.",200492177,300,volby PČR - výlep,0,14321,,CZK,kscm
-2021-09-20,-769.93,Odchozí úhrada,"Technické služby Třešť, spol.",194626420267,100,volby PČR - výlep,0,1416885,,CZK,kscm
-2021-09-20,-1460,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122625,,CZK,kscm
-2021-09-20,-1758,Odchozí úhrada,Ing. Vladimír Tomeš,191274050237,100,volby PČR - prop.materiály,0,2021268,,CZK,kscm
-2021-09-20,-1902,Odchozí úhrada,"PAROLA, spol. s r.o.",403247681,100,volby PČR - pronájem plochy,0,1186354,,CZK,kscm
-2021-09-20,-2340,Odchozí úhrada,"Technické služby Kutná Hora, s",441998339,800,volby PČR - výlep,0,50210677,,CZK,kscm
-2021-09-20,-2468,Odchozí úhrada,Milan Růžička,1215883319,800,volby PČR - el.přípojka na akci,0,904915,,CZK,kscm
-2021-09-20,-2737,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123243,,CZK,kscm
-2021-09-20,-4912.6,Odchozí úhrada,"SNIP & CO, reklamní společnost",31106641,100,volby PČR - MHD pronájem rekl.ploch,0,21310169,,CZK,kscm
-2021-09-20,-6100,Odchozí úhrada,Mgr. Hana Michálková,354898390217,100,volby PČR - zdrav.asistence,0,202119,,CZK,kscm
 2021-09-20,-30000,Odchozí úhrada,Jaroslav Komínek,214929659,300,volby PČR - správa FB,0,2124,,CZK,kscm
+2021-09-20,-6100,Odchozí úhrada,Mgr. Hana Michálková,354898390217,100,volby PČR - zdrav.asistence,0,202119,,CZK,kscm
+2021-09-20,-4912.6,Odchozí úhrada,"SNIP & CO, reklamní společnost",31106641,100,volby PČR - MHD pronájem rekl.ploch,0,21310169,,CZK,kscm
+2021-09-20,-2737,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123243,,CZK,kscm
+2021-09-20,-2468,Odchozí úhrada,Milan Růžička,1215883319,800,volby PČR - el.přípojka na akci,0,904915,,CZK,kscm
+2021-09-20,-2340,Odchozí úhrada,"Technické služby Kutná Hora, s",441998339,800,volby PČR - výlep,0,50210677,,CZK,kscm
+2021-09-20,-1902,Odchozí úhrada,"PAROLA, spol. s r.o.",403247681,100,volby PČR - pronájem plochy,0,1186354,,CZK,kscm
+2021-09-20,-1758,Odchozí úhrada,Ing. Vladimír Tomeš,191274050237,100,volby PČR - prop.materiály,0,2021268,,CZK,kscm
+2021-09-20,-1460,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122625,,CZK,kscm
+2021-09-20,-769.93,Odchozí úhrada,"Technické služby Třešť, spol.",194626420267,100,volby PČR - výlep,0,1416885,,CZK,kscm
+2021-09-20,-575,Odchozí úhrada,"Zábřežská kulturní, s.r.o.",200492177,300,volby PČR - výlep,0,14321,,CZK,kscm
+2021-09-20,40000,Příchozí úhrada,OV KSČM Nový Jičín,299041172,300,OV Nový Jičín parlamentní  volby,8,38104,,CZK,kscm
+2021-09-20,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
 2021-09-17,-126897.92,Odchozí úhrada,Česká distribuční a.s.,1142008256,5500,volby PČR - distribuce,0,420210318,,CZK,kscm
 2021-09-17,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
 2021-09-17,126897.92,Příchozí úhrada,KSČM,478648033,300,Luzar Leo - fin.dar pro volbyPS PČR,0,38100,,CZK,kscm

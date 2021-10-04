@@ -1,4 +1,42 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK SUG9863Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK SUG9863Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",spd
+2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK 3A7VR8T9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 3A7VR8T9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.10.2021, částka  20000.00 CZK",spd
+2021-10-02,-20000,Karetní transakce,,"Nákup: FACEBK ZUQEG8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK ZUQEG8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.10.2021, částka  20000.00 CZK",spd
+2021-10-01,-20000,Karetní transakce,,"Nákup: FACEBK HX9978KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK HX9978KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.9.2021, částka  20000.00 CZK",spd
+2021-09-30,-24200,Bezhotovostní platba,,"A-PROPOS s.r.o., pronájem Pernerova",308,210100282,100,"A-PROPOS s.r.o., pronájem Pernerova",spd
+2021-09-30,-7923.08,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2197004793,300,"VLTAVA LABE MEDIA a.s., inzerce",spd
+2021-09-30,-20000,Karetní transakce,,"Nákup: FACEBK 24ML897AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 24ML897AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20000.00 CZK",spd
+2021-09-29,-20076.18,Karetní transakce,,"Nákup: FACEBK 5WVP363Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20076.18 CZK",,3344,,"Nákup: FACEBK 5WVP363Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20076.18 CZK",spd
+2021-09-29,2e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-29,-20000,Karetní transakce,,"Nákup: FACEBK UNE5T9X9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK UNE5T9X9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",spd
+2021-09-28,-20000,Karetní transakce,,"Nákup: FACEBK BFXED8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK BFXED8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",spd
+2021-09-27,-20000,Karetní transakce,,"Nákup: FACEBK 7GGXT73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 7GGXT73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  20000.00 CZK",spd
+2021-09-27,-20000,Karetní transakce,,"Nákup: FACEBK Y6ELS73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK Y6ELS73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.9.2021, částka  20000.00 CZK",spd
+2021-09-25,-20000,Karetní transakce,,"Nákup: FACEBK THJNQ7P9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK THJNQ7P9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.9.2021, částka  20000.00 CZK",spd
+2021-09-24,-9000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 23.9.2021, částka  9000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 23.9.2021, částka  9000.00 CZK",spd
+2021-09-23,-55200.21,Bezhotovostní platba,,"Č. distribuční k.s., roznos letáků",308,420210321,1400,"Č. distribuční k.s., roznos letáků",spd
+2021-09-23,-35958.78,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2197004849,1100,"VLTAVA LABE MEDIA a.s., inzerce",spd
+2021-09-23,-24899,Platba převodem uvnitř banky,,"DeixeNet s.r.o., plošná inzerce",308,33210028,1100,"DeixeNet s.r.o., plošná inzerce",spd
+2021-09-23,-18453,Platba převodem uvnitř banky,,"GRAMALI s.r.o., samolepky",308,2109029,600,"GRAMALI s.r.o., samolepky",spd
+2021-09-23,-69877.5,Bezhotovostní platba,,"Ladislav Lamka, roznos letáků",308,1886374921,500,"Ladislav Lamka, roznos letáků",spd
+2021-09-23,-16214,Bezhotovostní platba,,"Rencar Praha a.s., volební plochy",308,21500382,500,"Rencar Praha a.s., volební plochy",spd
+2021-09-23,-4537.5,Bezhotovostní platba,,"BigMedia, spol. s r.o., billboardy",308,4212101860,400,"BigMedia, spol. s r.o., billboardy",spd
+2021-09-23,-14217.5,Bezhotovostní platba,,"VM-NEXUS s.r.o., samolepící folie",308,2021200101,1500,"VM-NEXUS s.r.o., samolepící folie",spd
+2021-09-23,-7260,Bezhotovostní platba,,"Olmer ad, s.r.o.,výroba desek na TK",308,210175,100,"Olmer ad, s.r.o.,výroba desek na TK",spd
+2021-09-23,-7235.8,Platba převodem uvnitř banky,,"NBBA, s.r.o., destičky s polepem",308,20210446,100,"NBBA, s.r.o., destičky s polepem",spd
+2021-09-23,-9111.3,Platba převodem uvnitř banky,,"Martin Koutecký, roll-up, košile",308,2021967,100,"Martin Koutecký, roll-up, košile",spd
+2021-09-23,290000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-23,1e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-23,-20000,Karetní transakce,,"Nákup: FACEBK AZVS7AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK AZVS7AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  20000.00 CZK",spd
+2021-09-23,-11423.56,Karetní transakce,,"Nákup: FACEBK NUHB66FZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  11423.56 CZK",,3344,,"Nákup: FACEBK NUHB66FZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  11423.56 CZK",spd
+2021-09-22,-20000,Karetní transakce,,"Nákup: FACEBK RPP8P73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK RPP8P73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.9.2021, částka  20000.00 CZK",spd
+2021-09-22,-28593,Bezhotovostní platba,,"A-PROPOS, produkční práce",,210100272,100,"A-PROPOS, produkční práce",spd
+2021-09-22,-336138,Bezhotovostní platba,,"A-PROPOS, produkční práce",,210100270,100,"A-PROPOS, produkční práce",spd
+2021-09-22,-159297,Bezhotovostní platba,,"A-PROPOS, produkční práce",,210100271,100,"A-PROPOS, produkční práce",spd
+2021-09-22,-52635,Bezhotovostní platba,,"A-PROPOS, tašky s potiskem",,210100269,100,"A-PROPOS, tašky s potiskem",spd
+2021-09-22,-12100,Bezhotovostní platba,,"A-PROPOS, pronájem parkovací plochy",,210100268,100,"A-PROPOS, pronájem parkovací plochy",spd
+2021-09-22,-10890,Bezhotovostní platba,,"A-PROPOS, pronájem parkoviště Děčín",,210100267,100,"A-PROPOS, pronájem parkoviště Děčín",spd
+2021-09-22,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-21,-20000,Karetní transakce,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",spd
 2021-09-20,-1422.34,Karetní transakce,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",,3344,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",spd
 2021-09-20,-1875,Platba převodem uvnitř banky,,"Tisk Sarpet Europe s.r.o., tisk",308,113314979,1400,"Tisk Sarpet Europe s.r.o., tisk",spd

@@ -1,4 +1,120 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,200,Bezhotovostní příjem,POLANSKY ALES,"DAR, Ales Polansky 9.3.1969",,0,,POLANSKY ALES,trikolora
+2021-10-04,999,Bezhotovostní příjem,LORENC RAFAEL,DARRafael Lorenc,,123456,,LORENC RAFAEL,trikolora
+2021-10-04,999,Bezhotovostní příjem,FOŠUMOVÁ JARMILA,,308,9,0,FOŠUMOVÁ JARMILA,trikolora
+2021-10-04,5e+05,Bezhotovostní příjem,Libor Lukáš,"DAR, L. Lukáš",,,,Libor Lukáš,trikolora
+2021-10-04,500,Bezhotovostní příjem,ONDRÁČKOVÁ MONIKA,DAR,0,234567,0,ONDRÁČKOVÁ MONIKA,trikolora
+2021-10-04,1500,Bezhotovostní příjem,KUCERA JAN,"DAR, jan kucera",,123456,,KUCERA JAN,trikolora
+2021-10-04,2000,Bezhotovostní příjem,DVORAK ROMAN,DAR Roman Dvorak,,234567,,DVORAK ROMAN,trikolora
+2021-10-03,1000,Okamžitá příchozí platba,Jaroslav Kraus,DAR,,123456,,Jaroslav Kraus,trikolora
+2021-10-03,100,Okamžitá příchozí platba,Václav Mazánek,DAR příspěvek RP,,2001378,,Václav Mazánek,trikolora
+2021-10-03,2000,Okamžitá příchozí platba,Nejdl Miroslav,,0,234567,,Nejdl Miroslav,trikolora
+2021-10-03,1000,Platba převodem uvnitř banky,"Ing. Lukasová, Martina",DAR,,234567,,DAR,trikolora
+2021-10-03,400,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR na kampan,,123456,,MACHÁČEK VÍT,trikolora
+2021-10-03,100,Okamžitá příchozí platba,ŠINDLER RICHARD,DAR příspěvek RP,,12001915,,ŠINDLER RICHARD,trikolora
+2021-10-02,5000,Okamžitá příchozí platba,Marie Čapková,Dar,,123456,,Marie Čapková,trikolora
+2021-10-02,100,Okamžitá příchozí platba,Jan Vrbica,DAR příspěvek RP,,6001368,,Jan Vrbica,trikolora
+2021-10-02,1000,Platba převodem uvnitř banky,"Ing. Trachtová, Martina",DAR,,234567,,DAR,trikolora
+2021-10-02,1000,Okamžitá příchozí platba,Ing.Kinkor Jiří,DAR,0,234567,,Ing.Kinkor Jiří,trikolora
+2021-10-02,666,Platba převodem uvnitř banky,"Ing. Osvaldová, Vlasta",dar,,234567,,dar,trikolora
+2021-10-01,500,Okamžitá příchozí platba,Petr Žížek,DAR od Petra,,234567,,Petr Žížek,trikolora
+2021-10-01,1000,Okamžitá příchozí platba,Dittrich Karel,DARDittrich Karel,0,123456,,Dittrich Karel,trikolora
+2021-10-01,500,Okamžitá příchozí platba,NOVÁK PETR,"DAR , Petr Novák, 16.4.1963",,,,NOVÁK PETR,trikolora
+2021-10-01,1000,Okamžitá příchozí platba,ROJAROVÁ PAVLA,DAR Trikolora Svobodní Soukromníci,,345678,,ROJAROVÁ PAVLA,trikolora
+2021-10-01,500,Okamžitá příchozí platba,Ing.Bravenec Jiří,"DAR, Jiri Bravenec,1970",0,,,Ing.Bravenec Jiří,trikolora
+2021-10-01,10000,Okamžitá příchozí platba,Ing.Kubata Václav,Dar Praha Kubata internet,0,111111,,Ing.Kubata Václav,trikolora
+2021-10-01,2e+05,Bezhotovostní příjem,STEPANEK PETR,DAR,,123456,,STEPANEK PETR,trikolora
+2021-10-01,200,Bezhotovostní příjem,VOZKA MARTIN,"DAR, Martin Vozka",,234567,,VOZKA MARTIN,trikolora
+2021-10-01,500,Bezhotovostní příjem,TROSKA ROBERT,Dar Stredoceske Trikolore,9944,121212,,TROSKA ROBERT,trikolora
+2021-10-01,3000,Okamžitá příchozí platba,PRIBYSLAVSKY PETR,DAR Petr Přibyslavský IČO 66784069,308,234567,,PRIBYSLAVSKY PETR,trikolora
+2021-09-30,3500,Okamžitá příchozí platba,Jana Jezberová,DAR,8,1444444,,Jana Jezberová,trikolora
+2021-09-30,333,Okamžitá příchozí platba,Petr Benýšek-osobní,DAR Petr a Andrea Benýškovi,,123456,,Petr Benýšek-osobní,trikolora
+2021-09-30,-750000,Platba převodem uvnitř banky,,převod na volební účet Volby 2021,,,,převod na volební účet Volby 2021,trikolora
+2021-09-30,500,Platba převodem uvnitř banky,Dream Gym s. r. o.,DAR,,234567,5222681,DAR,trikolora
+2021-09-30,300,Bezhotovostní příjem,PILARČÍKOVÁ HANA,DAR Pilarčíková Hana,0,234567,0,PILARČÍKOVÁ HANA,trikolora
+2021-09-30,300,Bezhotovostní příjem,KAPRALOVA PETRA RUTH,"DAR, Petra Ruth Kapralova,12.2.1972",,234567,,KAPRALOVA PETRA RUTH,trikolora
+2021-09-30,1000,Platba převodem uvnitř banky,"Čížmář, Luděk","Dar - Luděk Čižmář, 6.11.1941",558,,,"Dar - Luděk Čižmář, 6.11.1941",trikolora
+2021-09-30,100,Bezhotovostní příjem,SEDLÁČEK RICHARD,DAR PŘÍSPĚVEK RP,0,2001324,0,SEDLÁČEK RICHARD,trikolora
+2021-09-30,1e+05,Bezhotovostní příjem,MILENIUM 3000 SPOL.,,308,1333333,25402200,MILENIUM 3000 SPOL.,trikolora
+2021-09-30,30000,Bezhotovostní příjem,Strobach Jiří,Darovací smlouva Jiří Strobach,308,1999999,,Strobach Jiří,trikolora
+2021-09-29,258,Platba převodem uvnitř banky,"Matějíček, Tomáš",DAR,,234567,,DAR,trikolora
+2021-09-29,200,Platba převodem uvnitř banky,"Liška, Jan",DAR,,234567,,DAR,trikolora
+2021-09-29,1500,Okamžitá příchozí platba,Ing.Čada Roman,DAR,0,234567,,Ing.Čada Roman,trikolora
+2021-09-29,20000,Platba převodem uvnitř banky,"Vostenak, John",dar LBK John Vostenak,,1666666,,dar LBK John Vostenak,trikolora
+2021-09-29,300,Bezhotovostní příjem,GRYZBON LUDEK,DAR,,234567,,GRYZBON LUDEK,trikolora
+2021-09-29,500,Bezhotovostní příjem,HEGER MARTIN,DAR,0,234567,0,HEGER MARTIN,trikolora
+2021-09-29,5000,Bezhotovostní příjem,BERÁNKOVÁ MAGDALENA,"DAR Beránková MAgdalena, Hradec Králové",0,234567,0,BERÁNKOVÁ MAGDALENA,trikolora
+2021-09-29,6045,Bezhotovostní příjem,ZÁLOM LUBOŠ,"Ucelovy dar, Stredocesky kraj, Vylep plakatu Berounsko a Horovicko",0,221212,0,ZÁLOM LUBOŠ,trikolora
+2021-09-29,50,Platba převodem uvnitř banky,"Průša, Jiří",DAR,,234567,,DAR,trikolora
+2021-09-29,1000,Bezhotovostní příjem,SLATINSKÝ MARTIN,DAR,0,234567,0,SLATINSKÝ MARTIN,trikolora
+2021-09-29,50000,Bezhotovostní příjem,"PASSERINVEST GROUP,",DAR DLE SMLOUVY SML-01-2021-83,,123456,,"PASSERINVEST GROUP,",trikolora
+2021-09-29,300,Bezhotovostní příjem,JAN KRIVKA,DAR,,123456,,JAN KRIVKA,trikolora
+2021-09-28,1000,Okamžitá příchozí platba,Ing.Věncek Radomír,DAR,0,234567,,Ing.Věncek Radomír,trikolora
+2021-09-28,1100,Platba převodem uvnitř banky,"Haška, Vojtěch",DAR,,123456,,DAR,trikolora
+2021-09-28,-1e+05,Platba převodem uvnitř banky,,převod na provozní účet,,,,převod na provozní účet,trikolora
+2021-09-28,300,Okamžitá příchozí platba,JARABICA MARTIN,DAR,,123456,,JARABICA MARTIN,trikolora
+2021-09-28,10000,Platba převodem uvnitř banky,Penzion Lena s.r.o.,"DAR  Penzion Lena, IČO.06687296",,234567,,"DAR  Penzion Lena, IČO.06687296",trikolora
+2021-09-27,200,Platba převodem uvnitř banky,"Božoň, Radomír",DAR,,234567,,DAR,trikolora
+2021-09-27,5000,Okamžitá příchozí platba,Klofáč Zdeněk,zdenek klofac 24.10.1972 dar,0,111111,,Klofáč Zdeněk,trikolora
+2021-09-27,1001,Bezhotovostní příjem,PETR OBRDLIK,DAR,,234567,,PETR OBRDLIK,trikolora
+2021-09-27,500,Platba převodem uvnitř banky,"MgA. Sandberg, Barbara",dar,,123456,,dar,trikolora
+2021-09-27,1000,Bezhotovostní příjem,LORENCOVA MARCELA,dar,308,234567,,LORENCOVA MARCELA,trikolora
+2021-09-27,2000,Okamžitá příchozí platba,DOLEJŠÍ HELENA,DAR VYSOCINA HELENA DOLEJŠÍ,558,1141414,,DOLEJŠÍ HELENA,trikolora
+2021-09-27,500,Bezhotovostní příjem,LUBOR VISINKA,DAR,,123456,,LUBOR VISINKA,trikolora
+2021-09-27,200,Bezhotovostní příjem,MARTIN VACEK,"DAR, MARTIN VACEK",,,,MARTIN VACEK,trikolora
+2021-09-27,200,Bezhotovostní příjem,Marie Čedíková,Dar Čedíková Marie,,13000986,,Marie Čedíková,trikolora
+2021-09-27,100,Bezhotovostní příjem,ŠVARC RADOSLAV,DAR příspěvek RP,0,15000567,0,ŠVARC RADOSLAV,trikolora
+2021-09-27,200,Bezhotovostní příjem,Milan Letocha,DAR,,234567,,Milan Letocha,trikolora
+2021-09-27,1000,Bezhotovostní příjem,SPACKOVA KATERINA,Dar Spackova K.,,11001183,,SPACKOVA KATERINA,trikolora
+2021-09-27,800,Bezhotovostní příjem,SMEJDIR DANIEL,DAR,,234567,,SMEJDIR DANIEL,trikolora
+2021-09-27,900,Bezhotovostní příjem,Jelínek Jiří,"DAR, Jiří Jelínek",0,123456,,Jelínek Jiří,trikolora
+2021-09-27,100,Bezhotovostní příjem,Novotný Karel,DAR příspěvek RP 03/04/1975,0,13000155,,Novotný Karel,trikolora
+2021-09-27,100,Platba převodem uvnitř banky,"Hošťálek, Miroslav",DAR příspěvek RP Miroslav Hošťálek,308,9000606,,DAR příspěvek RP Miroslav Hošťálek,trikolora
+2021-09-27,1e+05,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR VOLBY STŘEDNÍ ČECHY,0,3121212,0,STRANA SOUKROMNÍKŮ Č,trikolora
+2021-09-27,20000,Bezhotovostní příjem,STRANA SOUKROMNÍKŮ Č,DAR VOLBY PARDUBICKÝ KRAJ,0,3888888,0,STRANA SOUKROMNÍKŮ Č,trikolora
+2021-09-27,1000,Bezhotovostní příjem,VESELÁ ILONA,DAR,0,234567,0,VESELÁ ILONA,trikolora
+2021-09-27,150,Bezhotovostní příjem,ČIHAŘ MICHAL,DAR,0,234567,0,ČIHAŘ MICHAL,trikolora
+2021-09-27,60000,Bezhotovostní příjem,TAMPÍR ŠTĚPÁN,dar pro TSS Jihočeský kraj,,101010,,TAMPÍR ŠTĚPÁN,trikolora
+2021-09-27,1000,Bezhotovostní příjem,IVANA SYKOROVA,DAR,,234567,,IVANA SYKOROVA,trikolora
+2021-09-26,248,Platba převodem uvnitř banky,"Zvolánková, Vlasta",DAR,308,234567,,DAR,trikolora
+2021-09-26,10000,Platba převodem uvnitř banky,"Kostroun, Jiří",DAR,,123456,,DAR,trikolora
+2021-09-26,1000,Okamžitá příchozí platba,Gabriela Vacková,DAR,,234567,,Gabriela Vacková,trikolora
+2021-09-26,1000,Okamžitá příchozí platba,Pálka Antonín,DAR,0,234567,,Pálka Antonín,trikolora
+2021-09-26,500,Okamžitá příchozí platba,Jana Jechová,DAR,,123456,,Jana Jechová,trikolora
+2021-09-26,1000,Platba převodem uvnitř banky,"Mgr. Pololáník, Petr",DAR,,234567,,DAR,trikolora
+2021-09-26,500,Okamžitá příchozí platba,BARTOŇ PETR,dar,,123456,,BARTOŇ PETR,trikolora
+2021-09-25,500,Platba převodem uvnitř banky,"Ing. Dušek, Aleš","Dar, Aleš Dušek, 19.10.1979",,,,"Dar, Aleš Dušek, 19.10.1979",trikolora
+2021-09-25,100,Okamžitá příchozí platba,Marek Lahovský,DAR příspěvek RP,,11002039,,Marek Lahovský,trikolora
+2021-09-24,200,Platba převodem uvnitř banky,"Bc. Munzar, Petr",DAR,,234567,,DAR,trikolora
+2021-09-24,1500,Okamžitá příchozí platba,MUDr. Jakub Hort,DAR,558,234567,,MUDr. Jakub Hort,trikolora
+2021-09-24,5000,Okamžitá příchozí platba,Jana Hicklová,DAR,,234567,,Jana Hicklová,trikolora
+2021-09-24,1000,Okamžitá příchozí platba,DANIEL BOLINA,DAR příspěvek RP,,12001863,,DANIEL BOLINA,trikolora
+2021-09-24,10000,Platba převodem uvnitř banky,MHdent.com s.r.o.,Dar MHdent.com Martin Holecek,,234567,,Dar MHdent.com Martin Holecek,trikolora
+2021-09-24,200,Bezhotovostní příjem,Jiří Rajský,DAR,,234567,,Jiří Rajský,trikolora
+2021-09-24,4000,Bezhotovostní příjem,FRANTISEK HURYCH,DAR,,234567,,FRANTISEK HURYCH,trikolora
+2021-09-24,200,Bezhotovostní příjem,Tomáš Vyrobik,DAR,,234567,,Tomáš Vyrobik,trikolora
+2021-09-24,3e+05,Bezhotovostní příjem,MAJEROVA ZUZANA,DAR TRIKOLORA,,123456,,MAJEROVA ZUZANA,trikolora
+2021-09-23,500,Okamžitá příchozí platba,Radek Malenovský,DAR,308,234567,,Radek Malenovský,trikolora
+2021-09-23,1000,Platba převodem uvnitř banky,"Humhal, Jan",DAR,,234567,,DAR,trikolora
+2021-09-23,500,Okamžitá příchozí platba,VOJTA JIŘÍ,DAR Jiří Vojta,,123456,,VOJTA JIŘÍ,trikolora
+2021-09-23,200,Okamžitá příchozí platba,"BRÁVEK PAVEL, MVDR",DAR příspěvek RP,8,14000443,,"BRÁVEK PAVEL, MVDR",trikolora
+2021-09-23,-1e+06,Platba převodem uvnitř banky,,převod prostředků na volební účet,,,,převod prostředků na volební účet,trikolora
+2021-09-23,108,Okamžitá příchozí platba,Povolný Aleš,DAR,0,234567,,Povolný Aleš,trikolora
+2021-09-23,2000,Okamžitá příchozí platba,Petrů Jan,DAR,0,234567,,Petrů Jan,trikolora
+2021-09-22,121,Platba převodem uvnitř banky,"Ing. Moťka, Pavel",DAR,,234567,,DAR,trikolora
+2021-09-22,111,Okamžitá příchozí platba,Krejčířová Jarmila,DAR příspěvek RP,0,7000705,,Krejčířová Jarmila,trikolora
+2021-09-22,5000,Okamžitá příchozí platba,Jan Pavlíček,DAR - příspěvek - Jan Pavlicek,,,,Jan Pavlíček,trikolora
+2021-09-22,777,Bezhotovostní příjem,Filip Neterda,DAR,,234567,,Filip Neterda,trikolora
+2021-09-22,500,Okamžitá příchozí platba,Borovský Matúš,DAR,0,123456,,Borovský Matúš,trikolora
+2021-09-22,200,Bezhotovostní příjem,JEDLICKA JAN,jedlicka.info@gmailcom,,1000737,,JEDLICKA JAN,trikolora
+2021-09-21,100,Okamžitá příchozí platba,Aksamit Jan,DAR prispevek RP,0,14000442,,Aksamit Jan,trikolora
+2021-09-21,1001,Okamžitá příchozí platba,Polách Jan,DAR,0,234567,,Polách Jan,trikolora
+2021-09-21,400,Okamžitá příchozí platba,Hradilová Marie,DAR,0,123456,,Hradilová Marie,trikolora
+2021-09-21,4000,Okamžitá příchozí platba,Martin Reiser,"Dar pro stc kraj, Martin Reiser, na roznos novin",,121212,,Martin Reiser,trikolora
+2021-09-21,999,Bezhotovostní příjem,HANAK LIBOR,"DAR, Libor Hanak, 31.03.1985",,0,,HANAK LIBOR,trikolora
+2021-09-21,999,Okamžitá příchozí platba,LUKÁŠ DVOŘÁK,DAR příspěvek RP,,14000444,,LUKÁŠ DVOŘÁK,trikolora
+2021-09-21,150,Bezhotovostní příjem,Ing. Petr Maršík,"DAR, Petr Maršík",0,,,Ing. Petr Maršík,trikolora
+2021-09-21,5000,Okamžitá příchozí platba,Marie Čermáková,DAR,,123456,,Marie Čermáková,trikolora
 2021-09-21,2000,Bezhotovostní příjem,Svoboda Radek,DAR,,234567,,Svoboda Radek,trikolora
 2021-09-20,999,Okamžitá příchozí platba,Pavel Přikryl,"DAR, Pavel Přikryl, 15.08.1961",,,,Pavel Přikryl,trikolora
 2021-09-20,-7000,Platba převodem uvnitř banky,,převod prostředků na mzdový účet,,,,převod prostředků na mzdový účet,trikolora

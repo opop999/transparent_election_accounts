@@ -1,8 +1,51 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-04,845,Příchozí úhrada,JAN PIKOUS,6701002203639940,6210,JAN PIKOUS - FINANCNI DAR,,,33101,CZK,kscm
+2021-10-02,100.2,Příchozí úhrada,KOTALA JAN,173998382,300,Jan Kotala - finanční dar KSČM,,,,CZK,kscm
+2021-10-01,200,Příchozí úhrada,Šlechtická Hana,63433153,800,P. Šlechtický Jihlava-finanční dar,0,0,36102,CZK,kscm
+2021-09-30,1500,Příchozí úhrada,RYSANKOVA DOSEDELOVA,105263739,300,finanční dar,,,,CZK,kscm
+2021-09-30,-4000,Odchozí úhrada,KSČM,217343303,300,Zahradník Václav - dar pro volby do PS PČR,0,33203,,CZK,kscm
+2021-09-30,-20000,Odchozí úhrada,KSČM,217343303,300,Vostrá Miloslava - fin.dar provolby do PS PČR,0,32103,,CZK,kscm
+2021-09-30,-25000,Odchozí úhrada,KSČM,217343303,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
+2021-09-30,-1e+05,Odchozí úhrada,,299068519,300,SOUKROMY SVERENECKY FOND - vratka fin.prostředků VOLBY 2021,0,213,,CZK,kscm
+2021-09-30,12652.32,Zúčtování  úroků,,,,,,,,CZK,kscm
+2021-09-30,-5,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,-30,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,-76,Poštovné v ČR,,,,,,,,CZK,kscm
+2021-09-30,-90,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,-40,Poplatek za výpis z účtu,,,,,,,,CZK,kscm
+2021-09-30,-200,Poplatek za vedení účtu,,,,,,,,CZK,kscm
+2021-09-30,-225,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,2550,Okamžitá úhrada,Ing.Šmíd Václav,41900013,800,"Šmíd Václav, Prostějov - finanční dar",,,37103,CZK,kscm
+2021-09-30,10000,Příchozí úhrada,Navrátil Jan,2108732181,2700,Finanční dar - Jan Navrátil,8,11255,29092021,CZK,kscm
+2021-09-29,2000,Příchozí úhrada,KUPCZAK RADEK,167845507,300,Mgr.Radek Kupczak - finanční dar,,38103,,CZK,kscm
+2021-09-29,25000,Příchozí úhrada,Ing.Poživilová Květu,146554153,800,K.Poživilová-fin.dar,0,,,CZK,kscm
+2021-09-29,30000,Okamžitá úhrada,Pojezný Ivo,452408103,800,Finanční dar,,,,CZK,kscm
+2021-09-29,637,Příchozí úhrada,ORSZULIK RADEK,159145375,300,Financni dar KSMC Radek Orszulik,,38103,,CZK,kscm
+2021-09-29,560,Příchozí úhrada,WIEWIÓRKA KAREL,193417350237,100,FIN. DAR KSČM KAREL WIEWIORKA,0,38103,,CZK,kscm
+2021-09-29,6914,Příchozí úhrada,JUDr.Všetečka Petr,142200083,800,"Petr Všetečka, Brno - finanční dar",0,,36202,CZK,kscm
+2021-09-28,1693,Okamžitá úhrada,"Fikáčková, Markéta",2901396021,2010,Markéta Fikáčková- finanční dar,,38103,,CZK,kscm
+2021-09-27,20000,Příchozí úhrada,VOSTRA MILOSLAVA,103801767,300,Finanční  dar,,655526,,CZK,kscm
+2021-09-27,25000,Okamžitá úhrada,JUDr. Jozef Rozsár,7779524001,5500,Finanční dar,,610305,610305,CZK,kscm
+2021-09-27,1e+05,Příchozí úhrada,SOUKROMY SVERENSKY F,299068519,300,VOLBY 2021,0,,,CZK,kscm
+2021-09-27,860,Příchozí úhrada,BRANÝ PETR,1170540231,100,DAR ÚV,308,510525328,33101,CZK,kscm
+2021-09-27,3060,Okamžitá úhrada,Havlíčková Monika,4071772073,800,finanční dar,,38103,,CZK,kscm
+2021-09-25,42.5,Příchozí úhrada,KOTALA JAN,173998382,300,Jan Kotala - finanční dar KSČM,,,,CZK,kscm
+2021-09-24,7370,Okamžitá úhrada,Bc. Rudolf Carvan,1031027809,5500,Dar VIII/2021 Carvan,,551203,,CZK,kscm
+2021-09-24,-1,Odchozí úhrada,,2100203269,2010,Jeřábek Michal - chybný účel platby,0,209,,CZK,kscm
+2021-09-24,-200,Odchozí úhrada,,1015516645,6100,Penka Vladimír - neidentifikovatelný dárce,0,180170,,CZK,kscm
+2021-09-24,-500,Odchozí úhrada,,1155825028,3030,Homola Zdeněk - chybí účel platby,0,9,,CZK,kscm
+2021-09-24,-1500,Odchozí úhrada,,648562073,800,Krejčová Marie - chybí účel platby,0,684003,,CZK,kscm
+2021-09-23,1,Okamžitá úhrada,"Jeřábek, Michal",2100203269,2010,"na volby a  pamatku Míly R., kterýmálem ulopil kapitál ze švýc. bankypro internacioálu",,,,CZK,kscm
+2021-09-23,1500,Okamžitá úhrada,Krejčová Marie,648562073,800,,308,684003,585311,CZK,kscm
+2021-09-21,-13000,Odchozí úhrada,KSČM,217343303,300,Kružíková Lidmila - fin.dar pro volby PS PČR,0,35303,,CZK,kscm
+2021-09-21,5000,Příchozí úhrada,Miroslav Hajdušík,1182572038,3030,finanční dar KSČM Miroslav Hajdušík,,38103,,CZK,kscm
+2021-09-21,500,Příchozí úhrada,NEEX1155825028,100060323910113,300,Neexistující účet 1155825028,6,308,,CZK,kscm
+2021-09-21,-500,Odchozí úhrada,,1155825028,300,Homola Zdeněk - chybí účel platby,0,308,,CZK,kscm
+2021-09-21,-4132,Odchozí úhrada,,1429807143,800,Heřman Václav - chybí účel platby,0,33203,,CZK,kscm
 2021-09-20,13000,Příchozí úhrada,KRUZIKOVA LIDMILA,254662178,300,,0,456222450,0,CZK,kscm
-2021-09-20,1037,Příchozí úhrada,Ing.Drlý Ladislav,155768073,800,Ing. Ladislav Drlý - finanční dar,0,0,34202,CZK,kscm
-2021-09-20,600,Příchozí úhrada,JANDA ZDENEK,222567352,300,"Zdeněk Janda, Plzeň - finanční dar",,,33203,CZK,kscm
 2021-09-20,2000,Příchozí úhrada,Miroslav Hajdušík,1182572038,3030,finanční dar KSČM Miroslav Hajdušík,,38100,,CZK,kscm
+2021-09-20,600,Příchozí úhrada,JANDA ZDENEK,222567352,300,"Zdeněk Janda, Plzeň - finanční dar",,,33203,CZK,kscm
+2021-09-20,1037,Příchozí úhrada,Ing.Drlý Ladislav,155768073,800,Ing. Ladislav Drlý - finanční dar,0,0,34202,CZK,kscm
 2021-09-17,6800,Okamžitá úhrada,DVOŘÁK KAREL,156941560,600,"finanční dar Karel Dvořák Na Výsluní 1238, Chotěboř",,770411,36101,CZK,kscm
 2021-09-17,-126897.92,Odchozí úhrada,KSČM,217343303,300,Luzar Leo - fin.dar pro volbyPS PČR,0,38100,,CZK,kscm
 2021-09-17,4000,Okamžitá úhrada,Ing.Zahradník Václav,146308083,800,"DAR, volební náklady, Ing.Václav Zahradník, Plzeň, Na Bradlavce 2",,230352,,CZK,kscm

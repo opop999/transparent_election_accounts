@@ -1,4 +1,29 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,1000,Bezhotovostní příjem,POHLOVÁ SIMONA,Na vítězství,0,111,0,POHLOVÁ SIMONA,spd
+2021-09-30,10000,Okamžitá příchozí platba,PaedDr. Jaroslav Ber,"Jaroslav Berka, Český Krumlov - dar",308,5901071748,,PaedDr. Jaroslav Ber,spd
+2021-09-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
+2021-09-29,-5.02,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce do státního rozpočtu,,4134940,,Vrácení daru od neidentifikovaného dárce do státního rozpočtu,spd
+2021-09-29,-83,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-09-29,-500,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-09-29,-1000,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-09-29,-111,Platba převodem uvnitř banky,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
+2021-09-29,-399,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-09-29,-130,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-09-29,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-28,0.01,Okamžitá příchozí platba,Petr Kolář,"Ne ne a ne Pitomio,ani na Vanoce zadnou koledu ve tve mešitě nezazpivam",,,,Petr Kolář,spd
+2021-09-28,1,Platba převodem uvnitř banky,"Konečný, Erik",Přidejte se k šíření povědomí o Registru postižených vakcínami - zmínil M.Obrtel: 17min https://www.youtube.com/watch?v=ivbtrsmCjJ8,,,,Přidejte se k šíření povědomí o Registru postižených vakcínami - zmínil M.Obrtel: 17min https://www.youtube.com/watch?v=ivbtrsmCjJ8,spd
+2021-09-27,10000,Okamžitá příchozí platba,PaedDr.Krumer Vladis,DAR KRUMERSPD VOLBY,0,30100,,PaedDr.Krumer Vladis,spd
+2021-09-23,-1e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-23,-10000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-09-23,40000,Okamžitá příchozí platba,JUDr. JOSEF PŘIKRYL,,,77900,,JUDr. JOSEF PŘIKRYL,spd
+2021-09-23,1,Platba převodem uvnitř banky,"Konečný, Erik",Volný bloku: Zkuste získat Soňu Pekovou. Principy přímé demokracie...a asi byste koukali jak veliké kvantum nevoličů přitáhne!,,,,Volný bloku: Zkuste získat Soňu Pekovou. Principy přímé demokracie...a asi byste koukali jak veliké kvantum nevoličů přitáhne!,spd
+2021-09-22,-500,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
+2021-09-22,-1000,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
+2021-09-22,-10.04,Bezhotovostní platba,,Vrácení darů od neidentifikovaných dárců do státního rozpočtu,,4134940,,Vrácení darů od neidentifikovaných dárců do státního rozpočtu,spd
+2021-09-22,1,Platba převodem uvnitř banky,"Konečný, Erik",Dokončení druhého podnětu: to již potvrdilo!,,,,Dokončení druhého podnětu: to již potvrdilo!,spd
+2021-09-22,1,Platba převodem uvnitř banky,"Konečný, Erik","Podnět: S právě popsanými principy se pak lze spojovat bez stranické příslušnosti a tím univerzálně,Ostatně oblíbenost tzv. úřednických vlád",,,,"Podnět: S právě popsanými principy se pak lze spojovat bez stranické příslušnosti a tím univerzálně,Ostatně oblíbenost tzv. úřednických vlád",spd
+2021-09-22,1,Platba převodem uvnitř banky,"Konečný, Erik","Podnět: Nahrazení politiky,řízením odborníky.Vlastnictví garancemi jistot a optimalizacemi technologií - principy geniálního Jacque Fresco",,,,"Podnět: Nahrazení politiky,řízením odborníky.Vlastnictví garancemi jistot a optimalizacemi technologií - principy geniálního Jacque Fresco",spd
+2021-09-21,20000,Bezhotovostní příjem,Dana Černá,dar,0,1062021,,Dana Černá,spd
 2021-09-20,1e+05,Okamžitá příchozí platba,Petra Svedíková Vávr,Petra Svedikova Vavrova,0,60200,,Petra Svedíková Vávr,spd
 2021-09-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,,spd
 2021-09-17,50000,Platba převodem uvnitř banky,"JUDr. Paul, Petr",DAR -  PETR PAUL,308,58601,,DAR -  PETR PAUL,spd

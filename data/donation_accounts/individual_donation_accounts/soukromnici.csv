@@ -1,4 +1,12 @@
 id,date,amount,vs,ks,ss,note,entity_name
+000-30092021-060-060-002162503,2021-09-30,-60,0,0,0,Poplatek,soukromnici
+000-30092021-060-060-002162504,2021-09-30,-54,0,0,0,Poplatek,soukromnici
+120-20210924 I29233001,2021-09-24,10000,1572172,308,0,DIAGMA-X RADIOLOGI - Příchozí platba - dar - volby 2021,soukromnici
+001-24092021 1602 602006 399211,2021-09-24,-1e+05,3121212,0,0,Odchozí platba - DAR VOLBY STŘEDNÍ ČECHY,soukromnici
+001-24092021 1602 602019 405261,2021-09-24,-40000,670513,0,0,Odchozí platba,soukromnici
+361-24092021 1086 086145 102053,2021-09-24,10000,25961519,0,0,Kuba a partneři s.r. - Příchozí platba - volby pard.kraj Kuba,soukromnici
+001-24092021 1602 602018 401551,2021-09-24,-20000,3888888,0,0,Odchozí platba - DAR VOLBY PARDUBICKÝ KRAJ,soukromnici
+001-21092021 1602 602001 659943,2021-09-21,1e+05,140921,308,0,PLESOLAR S.R.O. - Příchozí platba - DAR,soukromnici
 361-18092021 1086 086150 501440,2021-09-20,500,27091965,558,0,"Jurča Petr - Příchozí platba - Marta Petržílová, dar, Chodov",soukromnici
 001-10092021 1602 602019 030781,2021-09-10,-60000,3111111,0,0,Odchozí platba - DAR volby Praha,soukromnici
 001-02092021 1602 602012 166211,2021-09-02,-50000,670513,0,0,Odchozí platba,soukromnici
@@ -227,8 +235,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-29092019 1602 602035 232561,2019-09-30,-31250,201901,0,0,Odchozí platba - mandáty Svobodní I.Q,soukromnici
 001-10092019 1602 602003 157761,2019-09-10,4000,20041971,0,0,SOJKA JAROSLAV - Příchozí platba,soukromnici
 000-31082019-060-060-002407825,2019-08-31,-60,0,0,0,Poplatek,soukromnici
-000-31072019-060-060-002434598,2019-07-31,-60,0,0,0,Poplatek,soukromnici
 000-31072019-060-060-002434599,2019-07-31,-12,0,0,0,Poplatek,soukromnici
+000-31072019-060-060-002434598,2019-07-31,-60,0,0,0,Poplatek,soukromnici
 001-29072019 1602 602034 493881,2019-07-29,5000,25212052,558,0,"RVS CHODOV, S.R.O. - Příchozí platba - RVS Chodov, Jurča",soukromnici
 001-12072019 1602 602032 123821,2019-07-12,10000,11072019,0,0,LINEK LADISLAV - Příchozí platba - Dar dle darovací smlouvy,soukromnici
 000-30062019-060-060-002732402,2019-06-30,-60,0,0,0,Poplatek,soukromnici
@@ -244,14 +252,14 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-20052019 1602 602013 014891,2019-05-20,3165,1605192,558,0,"RVS CHODOV, S.R.O. - Příchozí platba - Jurča K.V.",soukromnici
 001-16052019 1602 602021 160901,2019-05-16,4000,20041971,0,0,SOJKA JAROSLAV - Příchozí platba,soukromnici
 120-20190502 19430D0003838,2019-05-02,412500,14232019,6418,0,MF - Příchozí platba,soukromnici
-000-30042019-060-060-002467774,2019-04-30,-18,0,0,0,Poplatek,soukromnici
 000-30042019-060-060-002467773,2019-04-30,-60,0,0,0,Poplatek,soukromnici
+000-30042019-060-060-002467774,2019-04-30,-18,0,0,0,Poplatek,soukromnici
 001-26042019 1602 602025 715311,2019-04-26,278.3,10,0,0,ŠEBESTA JIŘÍ - Příchozí platba - Jiří Šebesta VOLBY EP,soukromnici
 120-20190425 TEBD015295477,2019-04-26,5000,442019,0,0,"SLAVIA POJIŠŤOVNA A. - Příchozí platba - DAR, SLAVIA POJIŠŤOVNA",soukromnici
 120-20190405 I1904053S3WSU,2019-04-08,5000,42019,308,0,"Valihrach Josef - Příchozí platba - Dar, Valihrach J.",soukromnici
 000-31032019-060-060-002770826,2019-03-31,-60,0,0,0,Poplatek,soukromnici
-000-28022019-060-060-002483564,2019-02-28,-60,0,0,0,Poplatek,soukromnici
 000-28022019-060-060-002483565,2019-02-28,-18,0,0,0,Poplatek,soukromnici
+000-28022019-060-060-002483564,2019-02-28,-60,0,0,0,Poplatek,soukromnici
 001-25022019 1602 602010 206041,2019-02-25,4000,0,0,0,SOJKA JAROSLAV - Příchozí platba,soukromnici
 120-20190208 I04351701,2019-02-08,1000,606007,558,0,SOŇA HERČÍKOVÁ - Příchozí platba - Strana soukromníků - dar 2019 SH,soukromnici
 001-05022019 1602 602026 717911,2019-02-05,-2e+06,5022019,0,0,Odchozí platba - převod na provozní účet,soukromnici

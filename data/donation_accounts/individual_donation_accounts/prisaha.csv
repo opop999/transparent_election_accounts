@@ -1,4 +1,145 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,500,Bezhotovostní příjem,PETR KLIMEK,DAR HNUTÍ,,,,PETR KLIMEK,prisaha
+2021-10-04,6463.9,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-10-03,1000,Okamžitá příchozí platba,Hes Milan,Dar hnuti,0,,,Hes Milan,prisaha
+2021-10-01,50000,Vklad v hotovosti,Dar hnutí - Eliška Stočesová,,558,,,Dar hnutí - Eliška Stočesová,prisaha
+2021-10-01,200,Okamžitá příchozí platba,JOSEF EICHLER,dar hnutí,308,4081950,,JOSEF EICHLER,prisaha
+2021-10-01,158,Bezhotovostní příjem,Pavel Bill,Dar hnutí PŘÍSAHA,0,,257718,Pavel Bill,prisaha
+2021-10-01,200,Bezhotovostní příjem,Jakub Tomek,Dar hnutí,,,,Jakub Tomek,prisaha
+2021-10-01,500,Bezhotovostní příjem,zasl. důchodce Balat,Josef Balatka,0,0,263177,zasl. důchodce Balat,prisaha
+2021-10-01,5000,Bezhotovostní příjem,BAXA STANISLAV,dar hnuti,,30092021,,BAXA STANISLAV,prisaha
+2021-10-01,3008.1,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-30,200,Okamžitá příchozí platba,Ing.Sieber Radomil,přísaha,0,,,Ing.Sieber Radomil,prisaha
+2021-09-30,500,Platba převodem uvnitř banky,"Ing. Heráň, Ivan",dar hnutí,,,,dar hnutí,prisaha
+2021-09-30,1000,Okamžitá příchozí platba,František Třeštik,dar hnutí František Třeštik,,,,František Třeštik,prisaha
+2021-09-30,240000,Platba převodem uvnitř banky,UNISEC s.r.o.,Dar hnutí Přísaha,,,,Dar hnutí Přísaha,prisaha
+2021-09-30,1000,Bezhotovostní příjem,JELINEK MILAN,Jelinek Milan 1955 voleebni vecer,308,5506182132,5506182132,JELINEK MILAN,prisaha
+2021-09-30,12161.4,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-29,-50000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-29,1000,Okamžitá příchozí platba,Šlachta Robert,Dar hnuti,0,,,Šlachta Robert,prisaha
+2021-09-29,500,Bezhotovostní příjem,Martin Krejčí,dar,0,,,Martin Krejčí,prisaha
+2021-09-29,200,Bezhotovostní příjem,Dagmar Čečivová,dar spolku,,,,Dagmar Čečivová,prisaha
+2021-09-29,500,Bezhotovostní příjem,VRBENSKA LYDIE,Dar hnuti,,0,,VRBENSKA LYDIE,prisaha
+2021-09-29,100,Bezhotovostní příjem,FRANC PAVEL,Dar hnuti.,,0,,FRANC PAVEL,prisaha
+2021-09-29,2000,Okamžitá příchozí platba,Miffková Andrea,Filip Šmíd,0,,,Miffková Andrea,prisaha
+2021-09-29,3895,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-29,1000,Bezhotovostní příjem,PELC JAROSLAV,Dar hnutí,0,7105050700,0,PELC JAROSLAV,prisaha
+2021-09-29,6093.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-28,1000,Okamžitá příchozí platba,HEDBÁVNÁ BLANKA,DAR HNUTÍ,,,,HEDBÁVNÁ BLANKA,prisaha
+2021-09-28,4000,Okamžitá příchozí platba,Hes Milan,Dar,0,,,Hes Milan,prisaha
+2021-09-28,1000,Okamžitá příchozí platba,SOCHR TOMAŠ,DAR HNUTÍ,,,,SOCHR TOMAŠ,prisaha
+2021-09-28,1000,Okamžitá příchozí platba,Černá Dana,Dar hnutí,0,,,Černá Dana,prisaha
+2021-09-27,3000,Okamžitá příchozí platba,Fryčová Nicole,dar hnutí,0,,,Fryčová Nicole,prisaha
+2021-09-27,1000,Okamžitá příchozí platba,Dalibor Macháček,Dar hnutí,,,,Dalibor Macháček,prisaha
+2021-09-27,1000,Okamžitá příchozí platba,Danuše Moravcová,Prokůpková - Dar hnutí,,,,Danuše Moravcová,prisaha
+2021-09-27,1000,Okamžitá příchozí platba,MIROSLAV KEJLA,dar hnutí  Kejla Miroslav,,,,MIROSLAV KEJLA,prisaha
+2021-09-27,1000,Platba převodem uvnitř banky,"Pitrun, Tomáš","Tomáš Pitrun, dar",,,,"Tomáš Pitrun, dar",prisaha
+2021-09-27,1000,Bezhotovostní příjem,JARKOVSKÝ TOMÁŠ,Jarkovský,0,9,0,JARKOVSKÝ TOMÁŠ,prisaha
+2021-09-27,1000,Okamžitá příchozí platba,Jiří Omaník,Dar - Jiří O.,,,,Jiří Omaník,prisaha
+2021-09-27,25000,Okamžitá příchozí platba,Hesová Tereza,Dar hnutí,0,,,Hesová Tereza,prisaha
+2021-09-27,50000,Bezhotovostní příjem,Hes Milan,Dar,0,,,Hes Milan,prisaha
+2021-09-27,2000,Okamžitá příchozí platba,Šlachta Robert,Dar hnuti,0,,,Šlachta Robert,prisaha
+2021-09-27,10294.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-27,3924.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-27,500,Bezhotovostní příjem,DONATOVA RENATA,DAR-hnuti Prisaha,,0,,DONATOVA RENATA,prisaha
+2021-09-27,1000,Bezhotovostní příjem,ZEMAN MILOS,Dar hnuti - Milos Zeman,,0,,ZEMAN MILOS,prisaha
+2021-09-27,250,Bezhotovostní příjem,LURIEOVÁ ZDĚNKA,DAR SPOLKU,0,0,0,LURIEOVÁ ZDĚNKA,prisaha
+2021-09-27,2000,Bezhotovostní příjem,KUBISKA JAROSLAV,Dar hnutí,0,0,0,KUBISKA JAROSLAV,prisaha
+2021-09-27,12016.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-27,2000,Bezhotovostní příjem,VÉVODOVÁ MARTINA,Dar hnutí Přísaha,,24092021,,VÉVODOVÁ MARTINA,prisaha
+2021-09-27,1000,Bezhotovostní příjem,ČEJCHAN PETR,Dar hnutí,,,,ČEJCHAN PETR,prisaha
+2021-09-27,1000,Bezhotovostní příjem,MATULÍK JIŘÍ,dar hnutí - Jiří Matulík,,,,MATULÍK JIŘÍ,prisaha
+2021-09-27,1000,Bezhotovostní příjem,SCHILLER PETR,dar hnutí,,,,SCHILLER PETR,prisaha
+2021-09-27,1000,Bezhotovostní příjem,KUNERT MARCEL,Dar hnuti,,0,,KUNERT MARCEL,prisaha
+2021-09-26,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
+2021-09-26,1000,Okamžitá příchozí platba,SAAB LUKÁŠ,Dar Hnutí Róberta Šlachty,,,,SAAB LUKÁŠ,prisaha
+2021-09-25,1000,Okamžitá příchozí platba,RNDr.Dvořák Václav,,0,,,RNDr.Dvořák Václav,prisaha
+2021-09-25,3500,Okamžitá příchozí platba,Masár Zdeněk,Dar Hnutí - banery,0,,,Masár Zdeněk,prisaha
+2021-09-25,10000,Okamžitá příchozí platba,Masár Zdeněk,Dar Hnutí Roberta Šlachty,0,,,Masár Zdeněk,prisaha
+2021-09-25,1000,Okamžitá příchozí platba,FRANTIŠEK RIŠKA,Dar hnutí PŘÍSAHA - RIŠKA František,,,,FRANTIŠEK RIŠKA,prisaha
+2021-09-24,1000,Okamžitá příchozí platba,Iveta Štetinová,dar hnuti,0,,,Iveta Štetinová,prisaha
+2021-09-24,1000,Bezhotovostní příjem,LADISLAV HORYNA,DAR HNUTÍ,,,,LADISLAV HORYNA,prisaha
+2021-09-24,1000,Bezhotovostní příjem,GRMELOVA ZDENKA,dar hnuti  Mgr. Bc. Tomas Grmela,,0,,GRMELOVA ZDENKA,prisaha
+2021-09-24,15000,Okamžitá příchozí platba,RNDr.Dvořák Václav,dar prisaha Dvorak Olomouc,0,,,RNDr.Dvořák Václav,prisaha
+2021-09-24,1000,Okamžitá příchozí platba,ČEKANOVÁ LIBUŠE,DAR HNUTÍ,8,5456130823,,ČEKANOVÁ LIBUŠE,prisaha
+2021-09-24,1000,Bezhotovostní příjem,SCHOMAKEROVA EVA,dar Prisaze Schomaker,,0,,SCHOMAKEROVA EVA,prisaha
+2021-09-24,1000,Bezhotovostní příjem,VÍCHOVÁ VĚRA,DAR HNUTI PŘISAHA,,,,VÍCHOVÁ VĚRA,prisaha
+2021-09-24,1000,Bezhotovostní příjem,Josef Mezulián,Josef Mezulián-dar hnutí,,600319,,Josef Mezulián,prisaha
+2021-09-24,500,Bezhotovostní příjem,KUT VLASTIMIL,dar,,0,,KUT VLASTIMIL,prisaha
+2021-09-24,1000,Bezhotovostní příjem,KUT VLASTIMIL,dar hnuti,,0,,KUT VLASTIMIL,prisaha
+2021-09-24,1000,Okamžitá příchozí platba,Ladislav Poustevník,DAR HNUTÍ,,,,Ladislav Poustevník,prisaha
+2021-09-24,2000,Okamžitá příchozí platba,ZDENĚK KUDRNÁČ,Dar hnutí,,,,ZDENĚK KUDRNÁČ,prisaha
+2021-09-24,15000,Okamžitá příchozí platba,PAVEL MATĚJŮ,Sponzorský dar Přísaha,,,,PAVEL MATĚJŮ,prisaha
+2021-09-24,1000,Okamžitá příchozí platba,Jitka Žížalová,"""Dar hnutí""",,,,Jitka Žížalová,prisaha
+2021-09-24,1000,Platba převodem uvnitř banky,"Hřebačková, Jaroslava",Dar hnutí,,,,Dar hnutí,prisaha
+2021-09-24,1000,Okamžitá příchozí platba,Alžběta Valentová,"Dar hnutí, Martina Vrublová",,,,Alžběta Valentová,prisaha
+2021-09-24,100,Bezhotovostní příjem,ŘÍHA VLADIMÍR,Dar hnutí Přísaha,,,,ŘÍHA VLADIMÍR,prisaha
+2021-09-24,1000,Bezhotovostní příjem,TŮMOVÁ MONIKA,Dar hnutí,308,0,0,TŮMOVÁ MONIKA,prisaha
+2021-09-24,1000,Bezhotovostní příjem,RIHA MIROSLAV,Dar,,0,,RIHA MIROSLAV,prisaha
+2021-09-24,17728.5,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-24,1000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 109973 22.09.2021 c 1003Z B E N EKKLUSDAR HNUTI,0,0,,"CESKA POSTA, S.P.",prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Mgr.Vojíř Michal,Dar hnutí,0,23092021,,Mgr.Vojíř Michal,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Lenka Dořáková,Dar hnutí,,23092021,,Lenka Dořáková,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Bureš Jiří,DAR HNUTÍ - Jiří Bureš,0,,,Bureš Jiří,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,KŮTOVÁ MARIE,Dar hnutí,,,,KŮTOVÁ MARIE,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Michaela Talašová,dar hnutí,,,,Michaela Talašová,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Karel Tichý,DAR HNUTÍ - Karel Tichý,,,,Karel Tichý,prisaha
+2021-09-23,1000,Platba převodem uvnitř banky,"Krojidlo, Marek",Dar hnutí,,,,Dar hnutí,prisaha
+2021-09-23,-870000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Nesvorná Zdeňka,Nesvorná Zdeňka - dar,0,,,Nesvorná Zdeňka,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Žofka David,Dar hnutí,0,,,Žofka David,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Mgr.Krojidlo Roman,DAR HNUTÍ,0,23092021,,Mgr.Krojidlo Roman,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Tomáš Rambousek,Dar hnutí,,,,Tomáš Rambousek,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,STEIDLOVÁ KVĚTUŠE,Dar hnutí.,,707,,STEIDLOVÁ KVĚTUŠE,prisaha
+2021-09-23,1000,Platba převodem uvnitř banky,"Ing. Vondrášková, Jana",Dar hnutí - Ing. Jana Vondrášková,,,,Dar hnutí - Ing. Jana Vondrášková,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,JADRNÁ LENKA,Dar hnutí,,,,JADRNÁ LENKA,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Pundová Marie,Dar hnutí,0,,,Pundová Marie,prisaha
+2021-09-23,220000,Platba převodem uvnitř banky,2HMOTO s.r.o.,Dar hnutí,,,,Dar hnutí,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Jirová Jiřina,Dar hnutí,0,,,Jirová Jiřina,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,PREJZOVÁ IVANA,DAR,,,,PREJZOVÁ IVANA,prisaha
+2021-09-23,10000,Okamžitá příchozí platba,Štetinová Miluše,dar hnuti,0,,,Štetinová Miluše,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Štruncová Radka,Dar hnutí,0,,,Štruncová Radka,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,David Červenka,,,,,"Dar, David Červenka",prisaha
+2021-09-23,1000,Platba převodem uvnitř banky,"Ruman, David",dar hnutí,,23092021,,dar hnutí,prisaha
+2021-09-23,200,Okamžitá příchozí platba,Marie Pečínková,Dar hnutí,,,,Marie Pečínková,prisaha
+2021-09-23,1000,Okamžitá příchozí platba,Stonáčková Andrea,dar hnutí,0,12,,Stonáčková Andrea,prisaha
+2021-09-23,1000,Platba převodem uvnitř banky,"RNDr. Koksa, Vít Ph.D.",Dar hnutí,,,,Dar hnutí,prisaha
+2021-09-23,1000,Bezhotovostní příjem,ŽOFKA LIBOR,DAR HNUTÍ,0,0,0,ŽOFKA LIBOR,prisaha
+2021-09-23,4930.79,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-09-22,1000,Okamžitá příchozí platba,Jana Kubková,dar hnutí,308,,,Jana Kubková,prisaha
+2021-09-22,1000,Platba převodem uvnitř banky,"Navrátil, Lukáš",dar hnutí,,,,dar hnutí,prisaha
+2021-09-22,200,Okamžitá příchozí platba,Milan Zoubek,Dar hnutí,,,,Milan Zoubek,prisaha
+2021-09-22,1000,Okamžitá příchozí platba,Záleský Milan,Dar Hnutí,0,,,Záleský Milan,prisaha
+2021-09-22,2000,Okamžitá příchozí platba,Piskala Zdeněk,Dar hnutí,0,,,Piskala Zdeněk,prisaha
+2021-09-22,40000,Okamžitá příchozí platba,Hejhal Petr,Dar hnutí,0,22092021,,Hejhal Petr,prisaha
+2021-09-22,1000,Bezhotovostní příjem,STRAŇÁK LUKÁŠ,dar hnutí Lukáš Straňák,0,0,0,STRAŇÁK LUKÁŠ,prisaha
+2021-09-22,3000,Bezhotovostní příjem,TOMECZEK TOMAS,dar hnuti,,0,,TOMECZEK TOMAS,prisaha
+2021-09-22,1000,Okamžitá příchozí platba,Bohumila Jenčíková,dar hnuti,,,,Bohumila Jenčíková,prisaha
+2021-09-22,1000,Bezhotovostní příjem,KLEMBARA VOJTĚCH,Dar hnutí,0,0,0,KLEMBARA VOJTĚCH,prisaha
+2021-09-22,500,Bezhotovostní příjem,Mojmír Hruban,Dar hnutí Přísaha,,,,Mojmír Hruban,prisaha
+2021-09-22,2000,Okamžitá příchozí platba,Burianová Jaroslava,Dar,0,,,Burianová Jaroslava,prisaha
+2021-09-22,1000,Okamžitá příchozí platba,Alena Křížková,Dar hnutí PŘÍSAHA,,,,Alena Křížková,prisaha
+2021-09-22,1000,Bezhotovostní příjem,BALŠÁNEK ALEŠ,A. Balšánek - DAR HNUTÍ,0,0,0,BALŠÁNEK ALEŠ,prisaha
+2021-09-22,200,Platba převodem uvnitř banky,"Ing. Bublík, Miroslav",Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,,,,Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,prisaha
+2021-09-22,200,Bezhotovostní příjem,HOLČÍK PATRIK,DAR HNUTÍ,0,0,0,HOLČÍK PATRIK,prisaha
+2021-09-22,1000,Bezhotovostní příjem,DEDÍKOVÁ PAVLA,Dar hnutí Dedik Roman,0,0,0,DEDÍKOVÁ PAVLA,prisaha
+2021-09-22,1000,Bezhotovostní příjem,JIRÁK MARTIN,dar hnutí,0,0,0,JIRÁK MARTIN,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,ROUZEK MILOŠ,dar hnutí,,,,ROUZEK MILOŠ,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,Fialková Hana,Dar hnutí,0,,,Fialková Hana,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,Hofmanová Jiřina,Dar hnutí - Jiřina Hofmanová,0,,,Hofmanová Jiřina,prisaha
+2021-09-21,1000,Platba převodem uvnitř banky,"Panská, Eva",Eva Panská - dar hnutí,,,,Eva Panská - dar hnutí,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,Ženíšek Jan,Dar hnutí - Jan Ženíšek,0,,,Ženíšek Jan,prisaha
+2021-09-21,500,Platba převodem uvnitř banky,"Gurský, Milan","""Dar hnutí""",,,,"""Dar hnutí""",prisaha
+2021-09-21,1000,Platba převodem uvnitř banky,"Fejklová, Veronika",DAR HNUTÍ,,,,DAR HNUTÍ,prisaha
+2021-09-21,1500,Okamžitá příchozí platba,Michal Šeda,Dar hnutí,,,,Michal Šeda,prisaha
+2021-09-21,500,Okamžitá příchozí platba,JOSEF EICHLER,dar hnutí,308,,,JOSEF EICHLER,prisaha
+2021-09-21,1000,Bezhotovostní příjem,SEDLACKOVA ANDREA,dar hnuti,968,0,,SEDLACKOVA ANDREA,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,Pavel Spirov,"Předmět:   Dar hnutí ,    jméno:   Pavel Spirov",,,,Pavel Spirov,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,JÁMBOROVÁ BRONISLA,Dar hnutí - B. Jámborová,558,2112,,JÁMBOROVÁ BRONISLA,prisaha
+2021-09-21,2000,Bezhotovostní příjem,Mojmír Hermann,dar hnutí,,,,Mojmír Hermann,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,Skoupilová Blanka,Dar hnutí,0,,,Skoupilová Blanka,prisaha
+2021-09-21,1000,Okamžitá příchozí platba,Radek Macháč,Dar hnutí,,,,Radek Macháč,prisaha
+2021-09-21,1000,Bezhotovostní příjem,Jan Janků,Dar hnutí,,,,Jan Janků,prisaha
 2021-09-21,75000,Okamžitá příchozí platba,Hes Milan,Dar,0,,,Hes Milan,prisaha
 2021-09-21,5000,Bezhotovostní příjem,HORÁK STANISLAV,Dar Hnutí Roberta Šlachty Přísaha,0,501012,0,HORÁK STANISLAV,prisaha
 2021-09-21,1000,Bezhotovostní příjem,SCHAFFER ZBYNĚK,dar hnutí Zbyněk Schaffer,308,640503,0,SCHAFFER ZBYNĚK,prisaha

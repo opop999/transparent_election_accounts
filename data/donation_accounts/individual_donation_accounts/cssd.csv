@@ -1,4 +1,45 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,-50000,Platba převodem uvnitř banky,,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",,,,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",cssd
+2021-10-04,-50000,Platba převodem uvnitř banky,,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",,,,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",cssd
+2021-10-04,-30000,Platba převodem uvnitř banky,,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",,,,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,-15000,Platba převodem uvnitř banky,,"převod daru Václav Klusák, na volby PS PČR, Kraj Praha",,,,"převod daru Václav Klusák, na volby PS PČR, Kraj Praha",cssd
+2021-09-30,-5000,Platba převodem uvnitř banky,,"převod daru Václav Klusák, pro potřeby OP Praha 6",,,,"převod daru Václav Klusák, pro potřeby OP Praha 6",cssd
+2021-09-30,-30000,Platba převodem uvnitř banky,,"převod daru Roman Ondřich, na volby PS PČR, Jihočeský kraj",,,,"převod daru Roman Ondřich, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,-40000,Platba převodem uvnitř banky,,"převod daru Alena Gajdůšková, na volby PS PČR, Zlínský kraj",,,,"převod daru Alena Gajdůšková, na volby PS PČR, Zlínský kraj",cssd
+2021-09-30,-50000,Platba převodem uvnitř banky,,"převod daru David Šťastný, na volby PS PČR, Jihočeský kraj",,,,"převod daru David Šťastný, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,-4500,Platba převodem uvnitř banky,,"převod daru Ludmila Vlčková, na volby PS PČR, Pardubický kraj",,,,"převod daru Ludmila Vlčková, na volby PS PČR, Pardubický kraj",cssd
+2021-09-30,-20000,Platba převodem uvnitř banky,,"převod daru Josef Bláha, na volby PS PČR, Jihočeský kraj",,,,"převod daru Josef Bláha, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,-10000,Platba převodem uvnitř banky,,"převod daru Vítězslav Ilko, na volby PS PČR, Jihočeský kraj",,,,"převod daru Vítězslav Ilko, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,-50000,Platba převodem uvnitř banky,,"převod daru Barbora Křížová, na volby PS PČR, Jihomoravský kraj",,,,"převod daru Barbora Křížová, na volby PS PČR, Jihomoravský kraj",cssd
+2021-09-30,-1e+05,Platba převodem uvnitř banky,,"převod daru Lukáš Vágner, na volby PS PČR, Jihomoravský kraj",,,,"převod daru Lukáš Vágner, na volby PS PČR, Jihomoravský kraj",cssd
+2021-09-30,-1e+05,Platba převodem uvnitř banky,,"převod daru Lubomír Zaorálek, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru Lubomír Zaorálek, na volby PS PČR, Moravskoslezský kraj",cssd
+2021-09-30,-50000,Platba převodem uvnitř banky,,"převod daru, Roman Bečica, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru, Roman Bečica, na volby PS PČR, Moravskoslezský kraj",cssd
+2021-09-29,30000,Bezhotovostní příjem,BASTLOVÁ OLGA,DAR VOLBY PŠP ČR 2021OLGA BASTLOVÁ 28.6.1970,0,28061970,0,BASTLOVÁ OLGA,cssd
+2021-09-29,-15000,Platba převodem uvnitř banky,,"převod daru Jakub Štědroň, na volby PS PČR, Kraj Praha",,,,"převod daru Jakub Štědroň, na volby PS PČR, Kraj Praha",cssd
+2021-09-29,-5000,Platba převodem uvnitř banky,,"převod daru, Jakub Štědroň, pro potřeby OP Praha 6",,,,"převod daru, Jakub Štědroň, pro potřeby OP Praha 6",cssd
+2021-09-29,-10000,Platba převodem uvnitř banky,,"převod daru, Vilém Čáp, volby do PS PČR,  Kraj Praha",,,,"převod daru, Vilém Čáp, volby do PS PČR,  Kraj Praha",cssd
+2021-09-29,-1e+05,Okamžitá odchozí platba,,"vrácení daru Roman Onderka, nesplnění podmínek zákona",308,409171,,"vrácení daru Roman Onderka, nesplnění podmínek zákona",cssd
+2021-09-27,50000,Platba převodem uvnitř banky,"Bečica, Roman","Dar ve prospěch ČSSD, Roman Bečica 2.8.1971",,2081971,,"Dar ve prospěch ČSSD, Roman Bečica 2.8.1971",cssd
+2021-09-26,50000,Platba převodem uvnitř banky,"Polanský, Tomáš","Dar volby PSPČR 2021, Tomáš Polanský, 25081988",,25081988,,"Dar volby PSPČR 2021, Tomáš Polanský, 25081988",cssd
+2021-09-26,1e+05,Okamžitá příchozí platba,PhDr.Zaorálek Lubomí,"Dar pro ČSSD,Zaorálek 6.9.1956",0,,,PhDr.Zaorálek Lubomí,cssd
+2021-09-24,50000,Bezhotovostní příjem,Mgr.Stráská Ivana,"Dar volby PSPČR 2021,Mgr. Ivana Stráská,21.06.1952",0,21061952,,Mgr.Stráská Ivana,cssd
+2021-09-24,10000,Okamžitá příchozí platba,ILKO VÍTĚZSLAV,"Dar volby PSPČR 2021, Vítězslav Ilko, 09.listopadu 1975",,9111975,,ILKO VÍTĚZSLAV,cssd
+2021-09-24,-50000,Platba převodem uvnitř banky,,"převod daru, Jiří Běhounek, na volby PS PČR, Kraj Vysočina",,,,"převod daru, Jiří Běhounek, na volby PS PČR, Kraj Vysočina",cssd
+2021-09-24,-10000,Platba převodem uvnitř banky,,"převod daru, Pavel Havíř, Pardubický kraj, na volby PS PČR",,,,"převod daru, Pavel Havíř, Pardubický kraj, na volby PS PČR",cssd
+2021-09-24,-1500,Platba převodem uvnitř banky,,"převod daru, Romana Žatecká, na volby PS PČR, Liberecký kraj",,,,"převod daru, Romana Žatecká, na volby PS PČR, Liberecký kraj",cssd
+2021-09-24,-25000,Platba převodem uvnitř banky,,"převod daru, Milan Zahálka, na volby PS PČR, Pardubický kraj",,,,"převod daru, Milan Zahálka, na volby PS PČR, Pardubický kraj",cssd
+2021-09-24,-4120,Platba převodem uvnitř banky,,"převod daru, Alena Šírová, na volby PS PČR, Pardubický kraj",,,,"převod daru, Alena Šírová, na volby PS PČR, Pardubický kraj",cssd
+2021-09-24,1e+05,Bezhotovostní příjem,VAGNER LUKAS,"Dar volby PSPCR 2021, Lukas Vagner26.11.1980",,8011263821,,VAGNER LUKAS,cssd
+2021-09-23,20000,Platba převodem uvnitř banky,"Bláha, Josef","Dar volby PSPČR 2021, Josef Bláha, 10. 8. 1966",,10081966,,"Dar volby PSPČR 2021, Josef Bláha, 10. 8. 1966",cssd
+2021-09-23,4500,Bezhotovostní příjem,Vlčková Ludmila,"dar ve prospěch ČSSD, Ludmila Vlčková, nar. 24. 04. 1956, VS: 24041956",0,24041956,,Vlčková Ludmila,cssd
+2021-09-23,-8737500,Platba převodem uvnitř banky,,"MF ČR, převod státního příspěvku za 3.Q/2021 na úvěrový účet",308,9,,"MF ČR, převod státního příspěvku za 3.Q/2021 na úvěrový účet",cssd
+2021-09-23,-4500,Okamžitá odchozí platba,,"ČSSD, vrácení daru Ludmila Vlčková, nesplnění podmínek zákona",308,9,,"vrácení daru Ludmila Vlčková, nesplnění podmínek zákona",cssd
+2021-09-23,50000,Bezhotovostní příjem,STASTNY DAVID,"Dar volby PSPCR 2021, David Stastny, 17.3.1982",,17031982,,STASTNY DAVID,cssd
+2021-09-22,40000,Okamžitá příchozí platba,PaedDr.Gajdůšková Al,"Dar ve prospěch ČSSD, Alena Gajdůšková,15.4.1954",308,15041954,,PaedDr.Gajdůšková Al,cssd
+2021-09-22,50000,Bezhotovostní příjem,BĚHOUNEK JIŘÍ,"dar ve prospěch ČSSD, MUDr,. Jiří Běhounek 13.5.1952",308,13051952,,BĚHOUNEK JIŘÍ,cssd
+2021-09-21,30000,Bezhotovostní příjem,ONDRICH ROMAN,"Dar volby PSPCR 2021, Roman Ondrich, 24.12.1971",,24121971,,ONDRICH ROMAN,cssd
+2021-09-21,8737500,Bezhotovostní příjem,MF,1403/18015/2021-97 Česká strana sociálně demokratická,6418,180152021,0,"MF ČR, státní příspěvek  za 3.Q/2021",cssd
+2021-09-21,80000,Okamžitá příchozí platba,Hanzel Tomáš,"Dar ve prospěch CSSD, TomášHanzel 10.12.1975,",0,10121957,,Hanzel Tomáš,cssd
 2021-09-20,5000,Okamžitá příchozí platba,"Mgr.Štědroň Jakub,Ph","Dar ve prospěch ČSSD - OP Praha 6, Jakub Štědroň, 22.5.1979",0,22051979,,"Mgr.Štědroň Jakub,Ph",cssd
 2021-09-20,15000,Okamžitá příchozí platba,"Mgr.Štědroň Jakub,Ph","Dar volby PSPČR 2021- Praha, Jakub Štědroň, 22.5.1979",0,22051979,,"Mgr.Štědroň Jakub,Ph",cssd
 2021-09-20,10000,Okamžitá příchozí platba,Vilém Čáp,"Dar volby PSPČR 2021 - Praha, Vilém Čáp 27. 7. 1990",,27071990,,Vilém Čáp,cssd

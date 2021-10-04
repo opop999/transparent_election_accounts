@@ -1,4 +1,178 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",,,,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",cssd
+2021-10-04,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",,,,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",cssd
+2021-10-04,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",,,,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",cssd
+2021-10-04,-1090.3,Karetní transakce,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 1.10.2021, částka  1090.30 CZK",,3429,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 1.10.2021, částka  1090.30 CZK",cssd
+2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK 9G9PE73MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.10.2021, částka  20000.00 CZK",,2831,,"Nákup: FACEBK 9G9PE73MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.10.2021, částka  20000.00 CZK",cssd
+2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK 48BJK8XKW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.10.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 48BJK8XKW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.10.2021, částka  20000.00 CZK",cssd
+2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK DPMKJ8T6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.10.2021, částka  20000.00 CZK",,4829,,"Nákup: FACEBK DPMKJ8T6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.10.2021, částka  20000.00 CZK",cssd
+2021-10-04,-1500.9,Karetní transakce,,"Nákup: BENZINA CS 0186,  SOBESLAVSKA, TABOR, 39001, CZE, dne 3.10.2021, částka  1500.90 CZK",,1861,,"Nákup: BENZINA CS 0186,  SOBESLAVSKA, TABOR, 39001, CZE, dne 3.10.2021, částka  1500.90 CZK",cssd
+2021-10-02,-15000,Karetní transakce,,"Nákup: FACEBK FJPFQ5FP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.10.2021, částka  15000.00 CZK",,1861,,"Nákup: FACEBK FJPFQ5FP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 2.10.2021, částka  15000.00 CZK",cssd
+2021-10-02,-427.7,Karetní transakce,,"Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 30.9.2021, částka  427.70 CZK",,4376,,"Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 30.9.2021, částka  427.70 CZK",cssd
+2021-10-02,-229.6,Karetní transakce,,"Nákup: Lidl dekuje za nakup,  Lidl dekuje za nakup, Prachatice, 38301, CZE, dne 1.10.2021, částka  229.60 CZK",,1861,,"Nákup: Lidl dekuje za nakup,  Lidl dekuje za nakup, Prachatice, 38301, CZE, dne 1.10.2021, částka  229.60 CZK",cssd
+2021-10-02,-1198.4,Karetní transakce,,"Nákup: KAUFLAND CZ  2300,  KAUFLAND CZ 2300, CESKE BUDEJOV, 37011, CZE, dne 1.10.2021, částka  1198.40 CZK",,1861,,"Nákup: KAUFLAND CZ  2300,  KAUFLAND CZ 2300, CESKE BUDEJOV, 37011, CZE, dne 1.10.2021, částka  1198.40 CZK",cssd
+2021-10-02,-10000,Karetní transakce,,"Výběr z bankomatu: ATM P6CZ0059,  SOUSEDSKA 600, LIBEREC, 460 01, CZE, dne 1.10.2021, částka  10000.00 CZK",,2129,,"Výběr z bankomatu: ATM P6CZ0059,  SOUSEDSKA 600, LIBEREC, 460 01, CZE, dne 1.10.2021, částka  10000.00 CZK",cssd
+2021-10-02,-20087.03,Karetní transakce,,"Nákup: FACEBK SHYTL7FLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.10.2021, částka  20087.03 CZK",,5794,,"Nákup: FACEBK SHYTL7FLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 1.10.2021, částka  20087.03 CZK",cssd
+2021-10-02,-20000,Karetní transakce,,"Nákup: FACEBK RZAW7AX6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",,4829,,"Nákup: FACEBK RZAW7AX6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",cssd
+2021-10-02,-1126.16,Karetní transakce,,"Nákup: MOL-C.BUDEJOVICE-616,  RUDOLFOVSKA UL., C.BUDEJOVICE, 37001, CZE, dne 1.10.2021, částka  1126.16 CZK",,1861,,"Nákup: MOL-C.BUDEJOVICE-616,  RUDOLFOVSKA UL., C.BUDEJOVICE, 37001, CZE, dne 1.10.2021, částka  1126.16 CZK",cssd
+2021-10-02,-539.7,Karetní transakce,,"Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 1.10.2021, částka  539.70 CZK",,634,,"Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 1.10.2021, částka  539.70 CZK",cssd
+2021-10-01,-11100,Bezhotovostní platba,,ČSSD,308,9,,"Michal Kucián, ubytování na akci Brno, ústředí",cssd
+2021-10-01,-12000,Bezhotovostní platba,,ČSSD,308,82021,,"Divadelní Ansámbl Beze Všeho z.s., pouťové atrakce, Ústecký kraj",cssd
+2021-10-01,-26993,Bezhotovostní platba,,ČSSD,308,20210009,,"Mgr.Ladislav Sobota, zajištění akce, catering, Kraj Praha",cssd
+2021-10-01,15000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
+2021-10-01,2167,Bezhotovostní příjem,MOANA S. R. O.,,308,2021282,,MOANA S. R. O.,cssd
+2021-10-01,6160,Bezhotovostní příjem,MOANA S. R. O.,,308,2021281,,MOANA S. R. O.,cssd
+2021-10-01,175000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Zlínský kraj na volby PS PČR,,,,převod z KP Zlínský kraj na volby PS PČR,cssd
+2021-10-01,427.7,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR,cssd
+2021-10-01,-1170.2,Karetní transakce,,"Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 30.9.2021, částka  1170.20 CZK",,6681,,"Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 30.9.2021, částka  1170.20 CZK",cssd
+2021-10-01,-793.2,Karetní transakce,,"Nákup: CERPACI STANICE PECKY,  CHVALOVICKA 1041, PECKY, 28911, CZE, dne 30.9.2021, částka  793.20 CZK",,1793,,"Nákup: CERPACI STANICE PECKY,  CHVALOVICKA 1041, PECKY, 28911, CZE, dne 30.9.2021, částka  793.20 CZK",cssd
+2021-09-30,-22506,Platba převodem uvnitř banky,,ČSSD,308,21000612,,"Kristián, spol. s r.o., pronájem a tisk varioposterů, Středočeský kraj",cssd
+2021-09-30,-38236,Bezhotovostní platba,,ČSSD,308,210357,,"SeePOINT s.r.o., tisk a instalace outdoorů laviček, Moravskoslezský kraj",cssd
+2021-09-30,-19965,Platba převodem uvnitř banky,,ČSSD,308,21000599,,"Kristián, spol. s r.o., tisk novin, Kraj Praha",cssd
+2021-09-30,-170126,Bezhotovostní platba,,ČSSD,308,2021125,,"Good Agency s.r.o., inzerce, Jihočeský kraj",cssd
+2021-09-30,-26000,Bezhotovostní platba,,ČSSD,308,202113,,"Milan Pahorecký, akce Dětský den, Ústecký kraj",cssd
+2021-09-30,-1800,Bezhotovostní platba,,ČSSD,308,1000035,,"Tomáš Luska, focení kandidátů, Jihomoravský kraj",cssd
+2021-09-30,-10079,Bezhotovostní platba,,ČSSD,308,2932021,,"Respol, spol. s r.o., inzerce, Jihomoravský kraj",cssd
+2021-09-30,-1197.9,Platba převodem uvnitř banky,,ČSSD,308,2021051,,"Cíl, a.s. v Praze, výroba bannerů, Karlovarský kraj",cssd
+2021-09-30,-3194.4,Platba převodem uvnitř banky,,ČSSD,308,2021052,,"Cíl, .a.s. v Praze, výroba bannerů, Liberecký kraj",cssd
+2021-09-30,-1597.2,Platba převodem uvnitř banky,,ČSSD,308,2021053,,"Cíl, a.s. v Praze, výroba bannerů, Středočeský kraj",cssd
+2021-09-30,-5000,Bezhotovostní platba,,ČSSD,308,2109,,"Milan Šustr, fotografování, Kraj Vysočina",cssd
+2021-09-30,-1573,Bezhotovostní platba,,ČSSD,308,200210089,,"Dům kultury Hodonín, výlep plakátů, Jihomoravský kraj",cssd
+2021-09-30,-968,Bezhotovostní platba,,ČSSD,308,202100175,,"Jiří Štěpánek, tisk M - panel, Královéhradecký kraj",cssd
+2021-09-30,15000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Václav Klusák, na volby PS PČR, Kraj Praha",,,,"převod daru Václav Klusák, na volby PS PČR, Kraj Praha",cssd
+2021-09-30,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Roman Ondřich, na volby PS PČR, Jihočeský kraj",,,,"převod daru Roman Ondřich, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,40000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Alena Gajdůšková, na volby PS PČR, Zlínský kraj",,,,"převod daru Alena Gajdůšková, na volby PS PČR, Zlínský kraj",cssd
+2021-09-30,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru David Šťastný, na volby PS PČR, Jihočeský kraj",,,,"převod daru David Šťastný, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,4500,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Ludmila Vlčková, na volby PS PČR, Pardubický kraj",,,,"převod daru Ludmila Vlčková, na volby PS PČR, Pardubický kraj",cssd
+2021-09-30,20000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Josef Bláha, na volby PS PČR, Jihočeský kraj",,,,"převod daru Josef Bláha, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,10000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Vítězslav Ilko, na volby PS PČR, Jihočeský kraj",,,,"převod daru Vítězslav Ilko, na volby PS PČR, Jihočeský kraj",cssd
+2021-09-30,-5000,Bezhotovostní platba,,ČSSD,308,21130016,,"Pavel Baláž, pronájem zvukové techniky, Liberecký kraj",cssd
+2021-09-30,-8135.92,Platba převodem uvnitř banky,,ČSSD,308,2021048,,"Cíl, a.s. v Praze, polep stánků, ústředí",cssd
+2021-09-30,-7486.88,Platba převodem uvnitř banky,,ČSSD,308,2021049,,"Cíl, a.s. v Praze, roušky s logem ČSSD, ústředí",cssd
+2021-09-30,-2635.38,Platba převodem uvnitř banky,,ČSSD,308,2021050,,"Cíl, a.s. v Praze, tisk letáků, Středočeský kraj",cssd
+2021-09-30,-41104,Bezhotovostní platba,,ČSSD,308,210100250,,"Rychlík catering s.r.o., catering 25.9., ústředí",cssd
+2021-09-30,-171263,Bezhotovostní platba,,ČSSD,308,9121001552,,"Veletrhy Brno, a.s., haly, plochy - nájemné, ústředí",cssd
+2021-09-30,-3436.4,Platba převodem uvnitř banky,,ČSSD,308,2021047,,"Cíl, a.s. v Praze, tisk letáků, Středočeský kraj",cssd
+2021-09-30,-242000,Bezhotovostní platba,,ČSSD,308,58521,,"Ewing s.r.o., zpracování volebních novin, ústředí",cssd
+2021-09-30,-48174,Bezhotovostní platba,,ČSSD,308,202105,,"Martin Novotný, inzerce, bannery, letáky, Středočeský kraj",cssd
+2021-09-30,-15375,Bezhotovostní platba,,ČSSD,308,218060,,"Balonservis s.r.o., akce Klecany, balonky, Středočeský kraj",cssd
+2021-09-30,-630,Bezhotovostní platba,,ČSSD,558,111343,,"Město Lanškroun, místní poplatek, Pardubický kraj",cssd
+2021-09-30,-2362,Bezhotovostní platba,,ČSSD,558,9120029421,,"Město Nymburk, místní poplatek, Středočeský kraj",cssd
+2021-09-30,-500,Bezhotovostní platba,,ČSSD,558,29421,,"Město Nymburk, správní poplatek, Středočeský kraj",cssd
+2021-09-30,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Barbora Křížová, na volby PS PČR, Jihomoravský kraj",,,,"převod daru Barbora Křížová, na volby PS PČR, Jihomoravský kraj",cssd
+2021-09-30,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Lukáš Vágner, na volby PS PČR, Jihomoravský kraj",,,,"převod daru Lukáš Vágner, na volby PS PČR, Jihomoravský kraj",cssd
+2021-09-30,1e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Lubomír Zaorálek, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru Lubomír Zaorálek, na volby PS PČR, Moravskoslezský kraj",cssd
+2021-09-30,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Roman Bečica, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru, Roman Bečica, na volby PS PČR, Moravskoslezský kraj",cssd
+2021-09-30,450000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-09-30,-4065.6,Bezhotovostní platba,,ČSSD,308,101347,,"Město Břeclav, výlepy, Jihomoravský kraj",cssd
+2021-09-30,-2662,Bezhotovostní platba,,ČSSD,308,21453,,"DELTA Business spol. s r.o., letáky, bannery, Královéhradecký kraj",cssd
+2021-09-30,-3397.68,Platba převodem uvnitř banky,,ČSSD,308,2021043,,"Cíl, a.s. v Praze, tisk plakátů, Středočeský kraj",cssd
+2021-09-30,2481,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
+2021-09-30,10079,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-30,1800,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-30,-16159.51,Karetní transakce,,"Nákup: FACEBK 7BDD77TQX2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.9.2021, částka  16159.51 CZK",,9268,,"Nákup: FACEBK 7BDD77TQX2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.9.2021, částka  16159.51 CZK",cssd
+2021-09-30,-463,Karetní transakce,,"Nákup: FACEBK WE7AS8XUB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  463.00 CZK",,2129,,"Nákup: FACEBK WE7AS8XUB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  463.00 CZK",cssd
+2021-09-30,-20000,Karetní transakce,,"Nákup: FACEBK GVKWH77LF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20000.00 CZK",,2831,,"Nákup: FACEBK GVKWH77LF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20000.00 CZK",cssd
+2021-09-29,1974.3,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Karlovarský kraj na volby PS PČR,,,,převod z KP Karlovarský kraj na volby PS PČR,cssd
+2021-09-29,13915,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR,cssd
+2021-09-29,15000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jakub Štědroň, na volby PS PČR, Kraj Praha",,,,"převod daru Jakub Štědroň, na volby PS PČR, Kraj Praha",cssd
+2021-09-29,10000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Vilém Čáp, volby do PS PČR,  Kraj Praha",,,,"převod daru, Vilém Čáp, volby do PS PČR,  Kraj Praha",cssd
+2021-09-29,-496702,Bezhotovostní platba,,ČSSD,308,10122615,,"RENGL, s.r.o., plakátovací kampaň, ústředí",cssd
+2021-09-29,-776941,Platba převodem uvnitř banky,,ČSSD,308,2021036,,"Cíl, a.s. v Praze, výroba a odvoz direct mailu, ústředí",cssd
+2021-09-29,-544500,Bezhotovostní platba,,ČSSD,308,54621,,"Ewing s.r.o., video, radiové spoty, ústředí",cssd
+2021-09-29,-399989.7,Platba převodem uvnitř banky,,ČSSD,308,210100091,,"SACHR design s.r.o., tisky, grafické práce, Zlínský kraj",cssd
+2021-09-29,-396000,Platba převodem uvnitř banky,,ČSSD,308,20210915,,"TO DO Marketing s.r.o., inzerce v MHD, CLV plochy, Moravskoslezský kraj",cssd
+2021-09-29,2700000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-09-29,22506,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-29,26000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Ústecký kraj na volby PS PČR,,,,převod z KP Ústecký kraj na volby PS PČR,cssd
+2021-09-29,9696,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-29,5000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
+2021-09-29,967.6,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
+2021-09-29,1165.76,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR,cssd
+2021-09-29,-7078.11,Karetní transakce,,"Nákup: FACEBK LT2S39F7M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  7078.11 CZK",,4829,,"Nákup: FACEBK LT2S39F7M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  7078.11 CZK",cssd
+2021-09-29,-20000,Karetní transakce,,"Nákup: FACEBK QDGN477LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK QDGN477LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",cssd
+2021-09-29,-932.7,Karetní transakce,,"Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 28.9.2021, částka  932.70 CZK",,634,,"Nákup: CS PRIM HORNI SLAVKOV,  OSVOBODITELU 922, HORNI SLAVKOV, 35731, CZE, dne 28.9.2021, částka  932.70 CZK",cssd
+2021-09-29,-1057.3,Karetní transakce,,"Nákup: CERPACI STANICE PECKY,  CHVALOVICKA 1041, PECKY, 28911, CZE, dne 28.9.2021, částka  1057.30 CZK",,1793,,"Nákup: CERPACI STANICE PECKY,  CHVALOVICKA 1041, PECKY, 28911, CZE, dne 28.9.2021, částka  1057.30 CZK",cssd
+2021-09-28,-6307.66,Karetní transakce,,"Nákup: FACEBK 3KM4P57P92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  6307.66 CZK",,1861,,"Nákup: FACEBK 3KM4P57P92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  6307.66 CZK",cssd
+2021-09-28,-967.6,Karetní transakce,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 27.9.2021, částka  967.60 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 27.9.2021, částka  967.60 CZK",cssd
+2021-09-27,-20311.89,Karetní transakce,,"Nákup: FACEBK HNMPG7FLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  20311.89 CZK",,5794,,"Nákup: FACEBK HNMPG7FLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  20311.89 CZK",cssd
+2021-09-27,-590,Karetní transakce,,"Nákup: FACEBK HCHTN6BUB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  590.00 CZK",,2129,,"Nákup: FACEBK HCHTN6BUB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  590.00 CZK",cssd
+2021-09-27,150000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-09-27,-1423,Karetní transakce,,"Nákup: SHELL 8163,  HUMPOLECKA 1995, PELHRIMOV, 39301, CZE, dne 25.9.2021, částka  1423.00 CZK",,1861,,"Nákup: SHELL 8163,  HUMPOLECKA 1995, PELHRIMOV, 39301, CZE, dne 25.9.2021, částka  1423.00 CZK",cssd
+2021-09-27,-1169.8,Karetní transakce,,"Nákup: OKRUZNI 612,  OKRUZNI, HUMPOLEC, 396 01, CZE, dne 24.9.2021, částka  1169.80 CZK",,3429,,"Nákup: OKRUZNI 612,  OKRUZNI, HUMPOLEC, 396 01, CZE, dne 24.9.2021, částka  1169.80 CZK",cssd
+2021-09-27,-2952.25,Karetní transakce,,"Nákup: FACEBK NNPS48XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.9.2021, částka  2952.25 CZK",,5794,,"Nákup: FACEBK NNPS48XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.9.2021, částka  2952.25 CZK",cssd
+2021-09-27,-1165.76,Karetní transakce,,"Nákup: MOL - PLZEN - 667,  CASTKOVA, PLZEN 26, 32600, CZE, dne 26.9.2021, částka  1165.76 CZK",,9502,,"Nákup: MOL - PLZEN - 667,  CASTKOVA, PLZEN 26, 32600, CZE, dne 26.9.2021, částka  1165.76 CZK",cssd
+2021-09-27,-239,Karetní transakce,,"Nákup: CD KOLIN,  ROREJCOVA 573, KOLIN II, 28000, CZE, dne 25.9.2021, částka  239.00 CZK",,1793,,"Nákup: CD KOLIN,  ROREJCOVA 573, KOLIN II, 28000, CZE, dne 25.9.2021, částka  239.00 CZK",cssd
+2021-09-27,-296,Karetní transakce,,"Nákup: CD BRNO HL.N.,  NADRAZNI 1, P.O.BOX 330, BRNO, 65930, CZE, dne 25.9.2021, částka  296.00 CZK",,1793,,"Nákup: CD BRNO HL.N.,  NADRAZNI 1, P.O.BOX 330, BRNO, 65930, CZE, dne 25.9.2021, částka  296.00 CZK",cssd
+2021-09-25,-20000,Karetní transakce,,"Nákup: FACEBK TBJRU7BLF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.9.2021, částka  20000.00 CZK",,2831,,"Nákup: FACEBK TBJRU7BLF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 25.9.2021, částka  20000.00 CZK",cssd
+2021-09-25,-1041.6,Karetní transakce,,"Nákup: GLOBUS 14 KV CS,  OBCHODNI 30, JENISOV, 362 11, CZE, dne 24.9.2021, částka  1041.60 CZK",,634,,"Nákup: GLOBUS 14 KV CS,  OBCHODNI 30, JENISOV, 362 11, CZE, dne 24.9.2021, částka  1041.60 CZK",cssd
+2021-09-25,-20000,Karetní transakce,,"Nákup: FACEBK 4E3Q38XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 4E3Q38XLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.9.2021, částka  20000.00 CZK",cssd
+2021-09-25,-20000,Karetní transakce,,"Nákup: FACEBK AS76G877M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.9.2021, částka  20000.00 CZK",,4829,,"Nákup: FACEBK AS76G877M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 24.9.2021, částka  20000.00 CZK",cssd
+2021-09-24,1573,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-24,-269,Karetní transakce,,"Nákup: OBCHODNI SPOLECNOST H,  JANA ZABRANY, HUMPOLEC, 396 01, CZE, dne 23.9.2021, částka  269.00 CZK",,3429,,"Nákup: OBCHODNI SPOLECNOST H,  JANA ZABRANY, HUMPOLEC, 396 01, CZE, dne 23.9.2021, částka  269.00 CZK",cssd
+2021-09-24,-7744,Bezhotovostní platba,,ČSSD,308,210100191,,"Europrinty, spol. s r.o., nájem billboardů, Jihomoravský kraj",cssd
+2021-09-24,-24200,Platba převodem uvnitř banky,,ČSSD,308,210100048,,"Martin Kasal, výlep plakátů, Kraj Vysočina",cssd
+2021-09-24,-8470,Bezhotovostní platba,,ČSSD,308,2021076,,"Jan Sláma, grafická příprava BB+CL, sloupová reklama, Pardubický kraj",cssd
+2021-09-24,-9463,Bezhotovostní platba,,ČSSD,308,20210228,,"FiftyFifty kreativní agentura s.r.o., grafiky banneru, reklama do stojanu, Královéhradecký kraj",cssd
+2021-09-24,-7502,Platba převodem uvnitř banky,,ČSSD,308,2021044,,"Cíl, a.s. v Praze, tisk letáků, ústředí",cssd
+2021-09-24,-16770.6,Platba převodem uvnitř banky,,ČSSD,308,2021045,,"Cíl, a.s. v Praze, propagační předměty, Jihomoravský kraj",cssd
+2021-09-24,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Jiří Běhounek, na volby PS PČR, Kraj Vysočina",,,,"převod daru, Jiří Běhounek, na volby PS PČR, Kraj Vysočina",cssd
+2021-09-24,-367.84,Bezhotovostní platba,,ČSSD,308,12100263,,"Centrum kultury města Písek, výlep plakátů, Jihočeský kraj",cssd
+2021-09-24,-6993.8,Bezhotovostní platba,,ČSSD,308,211251,,"Print Promotion s.r.o., prezentační stolky, ústředí",cssd
+2021-09-24,-2474.45,Platba převodem uvnitř banky,,ČSSD,308,2021040,,"Cíl, a.s. v Praze, tisk letáků, Středočeský kraj",cssd
+2021-09-24,-24829.2,Platba převodem uvnitř banky,,ČSSD,308,2021041,,"Cíl, a.s. v Praze, tisk plakátů,  Jihomoravský kraj",cssd
+2021-09-24,-188760,Bezhotovostní platba,,ČSSD,308,20210039,,"JT media, s.r.o., bannerová kampaň, ústředí",cssd
+2021-09-24,-121000,Bezhotovostní platba,,ČSSD,308,54421,,"Ewing  s.r.o., focení, ústředí",cssd
+2021-09-24,-108900,Bezhotovostní platba,,ČSSD,308,54521,,"Ewing s.r.o., web design, ústředí",cssd
+2021-09-24,420000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-09-24,10000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Pavel Havíř, Pardubický kraj, na volby PS PČR",,,,"převod daru, Pavel Havíř, Pardubický kraj, na volby PS PČR",cssd
+2021-09-24,1500,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Romana Žatecká, na volby PS PČR, Liberecký kraj",,,,"převod daru, Romana Žatecká, na volby PS PČR, Liberecký kraj",cssd
+2021-09-24,25000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Milan Zahálka, na volby PS PČR, Pardubický kraj",,,,"převod daru, Milan Zahálka, na volby PS PČR, Pardubický kraj",cssd
+2021-09-24,4120,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru, Alena Šírová, na volby PS PČR, Pardubický kraj",,,,"převod daru, Alena Šírová, na volby PS PČR, Pardubický kraj",cssd
+2021-09-24,-9468.25,Platba převodem uvnitř banky,,ČSSD,308,2021042,,"Cíl, a.s. v Praze, propagační předměty, Středočeský kraj",cssd
+2021-09-24,-3397.68,Platba převodem uvnitř banky,,ČSSD,308,2021043,,"Cíl, a.s. v Praze, tisk plakátů, Středočeský kraj",cssd
+2021-09-24,-3000,Bezhotovostní platba,,ČSSD,308,2021009,,"Kateřina Nejedlá, malování na obličej, Středočeský kraj",cssd
+2021-09-24,-9000,Bezhotovostní platba,,ČSSD,308,2021005,,"Jaromír Janota, hudební produkce, Jihomoravský kraj",cssd
+2021-09-24,-48400,Platba převodem uvnitř banky,,ČSSD,308,122021495,,"TRIMA NEWS s.r.o., publikace PR článku, Plzeňský kraj",cssd
+2021-09-24,-5444.19,Bezhotovostní platba,,ČSSD,308,20210915,,"Daniela Ostrá, dodání plakátů, Olomoucký kraj",cssd
+2021-09-24,-21780,Bezhotovostní platba,,ČSSD,308,20210915,,"Rockisnotdead s.r.o., výlep plakátů, Kraj Vysočina",cssd
+2021-09-24,-1888,Bezhotovostní platba,,ČSSD,308,20210224,,"Agentura D-PRODUCTION, s.r.o., výlep a pronájem plakátovacích ploch, Jihomoravský kraj",cssd
+2021-09-24,-30623.19,Platba převodem uvnitř banky,,ČSSD,308,2021048,,"provocation s.r.o., úprava fotek, grafické práce, tisk, Pardubický kraj",cssd
+2021-09-24,-1318,Bezhotovostní platba,,ČSSD,308,1022813,,"RENGL, s.r.o., záloha za kampaň, Pardubický kraj",cssd
+2021-09-24,-126.7,Bezhotovostní platba,,ČSSD,308,9,,"Markéta Juchelková, propagace na FB, Pardubický kraj",cssd
+2021-09-24,-240,Bezhotovostní platba,,ČSSD,558,2109000236,,"Statutární město Brno, poplatek za zábor, Jihomoravský kraj",cssd
+2021-09-24,-630,Bezhotovostní platba,,ČSSD,558,2120004092,10158599,"Magistrát města Mladá Boleslav, poplatek za užívání prostranství, Středočeský kraj",cssd
+2021-09-24,-240,Bezhotovostní platba,,ČSSD,308,130600343,,"Statutární město Brno, poplatek za zábor, Jihomoravský kraj",cssd
+2021-09-24,976.5,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
+2021-09-24,1285.13,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Ústecký kraj na volby PS PČR,,,,převod z KP Ústecký kraj na volby PS PČR,cssd
+2021-09-24,-1283.1,Karetní transakce,,"Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 22.9.2021, částka  1283.10 CZK",,4376,,"Nákup: AMIGOCERPSTANICE,  DOLNI NOVOSADSKA 421, OLOMOUC, 783 02, CZE, dne 22.9.2021, částka  1283.10 CZK",cssd
+2021-09-24,-976.5,Karetní transakce,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 23.9.2021, částka  976.50 CZK",,2129,,"Nákup: CS PRIM LIBEREC,  LONDYNSKA 560/43, LIBEREC, 46006, CZE, dne 23.9.2021, částka  976.50 CZK",cssd
+2021-09-24,-600,Karetní transakce,,"Nákup: FACEBK UV4Y473VB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  600.00 CZK",,2129,,"Nákup: FACEBK UV4Y473VB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  600.00 CZK",cssd
+2021-09-24,-780,Karetní transakce,,"Nákup: LIVOX S.R.O. LIBEREC,  FRYDLANTSKA 1359/19, LIBEREC, 46001, CZE, dne 23.9.2021, částka  780.00 CZK",,2129,,"Nákup: LIVOX S.R.O. LIBEREC,  FRYDLANTSKA 1359/19, LIBEREC, 46001, CZE, dne 23.9.2021, částka  780.00 CZK",cssd
+2021-09-24,-1285.13,Karetní transakce,,"Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 23.9.2021, částka  1285.13 CZK",,6681,,"Nákup: MOL - USTI N/L - 011,  DECINSKA UL., USTI N. LABEM, 40001, CZE, dne 23.9.2021, částka  1285.13 CZK",cssd
+2021-09-24,-1332,Karetní transakce,,"Nákup: CS PRIM MOR.TREBOVA,  SVITAVSKA,PARC.C.:2712/5, MOR.TREBOVA, 57101, CZE, dne 23.9.2021, částka  1332.00 CZK",,8665,,"Nákup: CS PRIM MOR.TREBOVA,  SVITAVSKA,PARC.C.:2712/5, MOR.TREBOVA, 57101, CZE, dne 23.9.2021, částka  1332.00 CZK",cssd
+2021-09-23,-20000,Karetní transakce,,"Nákup: FACEBK ECHGZ6PLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK ECHGZ6PLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  20000.00 CZK",cssd
+2021-09-23,2000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
+2021-09-23,13565,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP  Ústecký kraj na volby PS PČR,,,,převod z KP  Ústecký kraj na volby PS PČR,cssd
+2021-09-23,13400,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Královéhradecký kraj na volby PS PČR,,,,převod z KP Královéhradecký kraj na volby PS PČR,cssd
+2021-09-23,1283.1,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR,cssd
+2021-09-23,16771,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-23,3000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-23,630,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-23,1188.18,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR,cssd
+2021-09-23,5444.19,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR,cssd
+2021-09-23,3397.68,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-23,11943.25,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-23,24829.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-23,7744,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-23,1888,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-23,48174,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-23,15375,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-09-23,240,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-23,797.94,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Karlovarský kraj na volby PS PČR,,,,převod z KP Karlovarský kraj na volby PS PČR,cssd
+2021-09-23,2880,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-09-22,-1627,Karetní transakce,,"Nákup: OBI Hradec Kralove,  Akademika Bedrny 532/10b, Hradec Kralov, 50002, CZE, dne 21.9.2021, částka  1627.00 CZK",,1793,,"Nákup: OBI Hradec Kralove,  Akademika Bedrny 532/10b, Hradec Kralov, 50002, CZE, dne 21.9.2021, částka  1627.00 CZK",cssd
+2021-09-22,-1188.18,Karetní transakce,,"Nákup: MOL - PLZEN - 064,  JATECNI 49A, PLZEN, 30100, CZE, dne 21.9.2021, částka  1188.18 CZK",,9502,,"Nákup: MOL - PLZEN - 064,  JATECNI 49A, PLZEN, 30100, CZE, dne 21.9.2021, částka  1188.18 CZK",cssd
 2021-09-20,-20489.4,Karetní transakce,,"Nákup: FACEBK T9SSJ7XKF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20489.40 CZK",,2831,,"Nákup: FACEBK T9SSJ7XKF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  20489.40 CZK",cssd
 2021-09-20,-1157,Karetní transakce,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 17.9.2021, částka  1157.00 CZK",,3429,,"Nákup: ZIZKOVA 110,  ZIZKOVA, JIHLAVA, 586 01, CZE, dne 17.9.2021, částka  1157.00 CZK",cssd
 2021-09-20,-12500,Karetní transakce,,"Nákup: FACEBK 7TBUZ63MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  12500.00 CZK",,2831,,"Nákup: FACEBK 7TBUZ63MF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 18.9.2021, částka  12500.00 CZK",cssd

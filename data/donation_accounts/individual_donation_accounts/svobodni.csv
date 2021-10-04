@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-01,100,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82040,,VASICEK ONDREJ,svobodni
+2021-09-29,100,Okamžitá příchozí platba,Josef Němec,Dar,,,,Josef Němec,svobodni
+2021-09-29,100,Bezhotovostní příjem,BURÁŇ PETR,Dar příznivce,0,9372,0,BURÁŇ PETR,svobodni
+2021-09-27,1000,Okamžitá příchozí platba,PEKAŘOVÁ TERÉZIA,DAR,,82038,,PEKAŘOVÁ TERÉZIA,svobodni
+2021-09-27,500,Okamžitá příchozí platba,MACHÁČEK VÍT,DAR,,82037,,MACHÁČEK VÍT,svobodni
+2021-09-27,600,Bezhotovostní příjem,JAN VOMLEL,DAR,,82035,,JAN VOMLEL,svobodni
+2021-09-27,1000,Platba převodem uvnitř banky,"Kocman, Jaroslav",Dar,,82036,,Dar,svobodni
+2021-09-26,100,Okamžitá příchozí platba,Ing. Zbyněk Mlejnek,DAR PRIZNIVCE,,376,,Ing. Zbyněk Mlejnek,svobodni
+2021-09-23,500,Platba převodem uvnitř banky,"Bc. Skočíková, Oldřiška",DAR,,82034,,DAR,svobodni
+2021-09-23,1500,Bezhotovostní příjem,KUCERA JAN,DAR,,82033,,KUCERA JAN,svobodni
+2021-09-21,200,Okamžitá příchozí platba,Marek Lahovský,DAR PRIZNIVCE,,9371,,Marek Lahovský,svobodni
 2021-09-19,200,Okamžitá příchozí platba,Vogel Jan,DAR PRIZNIVCE,0,9370,,Vogel Jan,svobodni
 2021-09-17,250,Okamžitá příchozí platba,Marek Lahovský,DAR,,82032,,Marek Lahovský,svobodni
 2021-09-16,2500,Platba převodem uvnitř banky,"Mgr. Marutová, Jarmila",Dar,,82031,,Dar,svobodni

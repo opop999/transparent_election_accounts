@@ -1,4 +1,49 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,5000,Okamžitá příchozí platba,Šrámek Josef,"DAR, Josef Šrámek",0,3001210006,,Šrámek Josef,ods
+2021-10-04,2e+05,Bezhotovostní příjem,Ungelt Services a.s.,"DAR, Ungelt Services a.s., Praha, K",308,1100210089,,Ungelt Services a.s.,ods
+2021-10-04,20,Bezhotovostní příjem,PETR TYKVART,WWW.SELT.CZ - PRODEJ ZDRAVOTNICKÉ TECHNIKY - DAR,,,,PETR TYKVART,ods
+2021-10-04,20,Bezhotovostní příjem,PETR TYKVART,WWW.ZVYSKY.CZ - FOTO A VIDEO Z DRONU - DAR,,,,PETR TYKVART,ods
+2021-10-04,10000,Platba převodem uvnitř banky,"MUDr. Němečková Crkvenjaš, Zdenka","DAR, Zdenka Němečková Crkvenjaš",,3000210006,,"DAR, Zdenka Němečková Crkvenjaš",ods
+2021-10-04,20000,Bezhotovostní příjem,EUROSEAL A.S.,,0,2702210009,,EUROSEAL A.S.,ods
+2021-10-03,5000,Okamžitá příchozí platba,Plus Med dva s.r.o.,darovací smlouva,308,5554101157,29445591,Plus Med dva s.r.o.,ods
+2021-10-02,2000,Platba převodem uvnitř banky,"Kinčl, Jan","DAR, Jan Kincl",,2701210002,,"DAR, Jan Kincl",ods
+2021-10-01,-290000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
+2021-10-01,-1500,Okamžitá odchozí platba,,"vratka  není DS, prosím kontaktujte : barbora.valouskova@ods.cz",,,,vratka  není DS,ods
+2021-10-01,1000,Okamžitá příchozí platba,Roman Houska,dar pol.strana SPOLU centrala houska roman ke stacirne 2268/28 praha 11 chodov 14900 tel.777788547,6404,640406167,,Roman Houska,ods
+2021-10-01,10000,Bezhotovostní příjem,"CORTEX, A.S.","DAR, CORTEX, a.s.",0,1100210087,0,"CORTEX, A.S.",ods
+2021-10-01,15000,Bezhotovostní příjem,BALOUN PETR,"DAR, Petr Baloun",0,2401210029,0,BALOUN PETR,ods
+2021-10-01,1000,Okamžitá příchozí platba,Jaroslav Dolina,,,2500210007,,"Jaroslav Dolina, DAR",ods
+2021-10-01,5000,Bezhotovostní příjem,PEŠTUKA VÍT,"DAR, Vít Peštuka",,,,"PEŠTUKA VÍT1100210086, DAR",ods
+2021-09-30,17000,Bezhotovostní příjem,BOBYSUD VIT,"DAR, Vit Bobysud",308,2113210011,,"BOBYSUD VIT, DAR",ods
+2021-09-30,10000,Okamžitá příchozí platba,JAN HŘEBEC,"DAR, JAN HŘEBEC",308,2200210018,,"JAN HŘEBEC, DAR",ods
+2021-09-30,5000,Okamžitá příchozí platba,Iva Vavrečková,DAR,,,,"Iva Vavrečková, DAR VS 3300210014",ods
+2021-09-30,20000,Bezhotovostní příjem,NYTRA ZDENĚK,"DAR, Zdeněk Nytra",0,3001210040,0,NYTRA ZDENĚK,ods
+2021-09-30,5000,Bezhotovostní příjem,HICKS ZUZANA,"DAR, Zuzana Hicks",,3100210025,,HICKS ZUZANA,ods
+2021-09-30,2e+05,Bezhotovostní příjem,TOMEK ONDŘEJ,Ondrej Tomek pro ODS,,,,"TOMEK ONDŘEJ, VS 1100210088, DAR",ods
+2021-09-30,10000,Bezhotovostní příjem,VANDAME ZUZANA,"DAR, Zuzana Vandame",,1100210051,,VANDAME ZUZANA,ods
+2021-09-29,-250000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
+2021-09-29,-1,Platba převodem uvnitř banky,,"vrácená platba - Konečný, Erik, není DS",,,,"vrácená platba - Konečný, Erik, není DS",ods
+2021-09-29,5000,Okamžitá příchozí platba,Mgr.Benc Ota,"DAR, Ota Benc",0,3400210016,,Mgr.Benc Ota,ods
+2021-09-29,1000,Bezhotovostní příjem,CVACH VLADIMÍR,"DAR, Vladimir Cvach",0,2400210023,0,CVACH VLADIMÍR,ods
+2021-09-28,1000,Okamžitá příchozí platba,"Mgr.Opatrný Aleš,M.A","DAR, Ales Opatrny",0,1100210082,,"Mgr.Opatrný Aleš,M.A",ods
+2021-09-28,10000,Okamžitá příchozí platba,Ing.Pavlík Pavel,"DAR, Pavel Pavlik",0,2206210003,,Ing.Pavlík Pavel,ods
+2021-09-28,5000,Okamžitá příchozí platba,Ondřej Hladík,"DAR, Ondrej Hladik",,2100210042,,Ondřej Hladík,ods
+2021-09-28,2000,Okamžitá příchozí platba,HYDROPLAN S.R.O.,"DAR, Hydroplan s.r.o.",,1100210085,,HYDROPLAN S.R.O.,ods
+2021-09-28,1,Platba převodem uvnitř banky,"Konečný, Erik",Přidejte se k šíření povědomí o Registru postižených vakcínami - zmínil M.Obrtel: od17min https://www.youtube.com/watch?v=ivbtrsmCjJ8,,,,Přidejte se k šíření povědomí o Registru postižených vakcínami - zmínil M.Obrtel: od17min https://www.youtube.com/watch?v=ivbtrsmCjJ8,ods
+2021-09-27,2e+05,Okamžitá příchozí platba,KROGMAN PETR,"DAR, Petr Krogman",,1100210084,,KROGMAN PETR,ods
+2021-09-24,2000,Bezhotovostní příjem,DBALÝ VÁCLAV,"DAR, Václav Dbalý",0,2113210024,0,DBALÝ VÁCLAV,ods
+2021-09-24,1500,Bezhotovostní příjem,CERMAKOVA MONIKA,dar monika cermakova,,2113210023,,CERMAKOVA MONIKA,ods
+2021-09-23,21000,Okamžitá příchozí platba,Bíro Jaroslav,"DAR, Jaroslav Bíro",0,2113210021,,Bíro Jaroslav,ods
+2021-09-23,-170000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
+2021-09-23,10000,Bezhotovostní příjem,VLADIMIR BRTNIK,"DAR, VLADIMIR BRTNIK",,3402210002,,VLADIMIR BRTNIK,ods
+2021-09-23,50750,Bezhotovostní příjem,MENCL VOJTĚCH ING.,"DAR, Vojtěch Mencl",0,3201210027,0,MENCL VOJTĚCH ING.,ods
+2021-09-22,500,Platba převodem uvnitř banky,"Muzička, Vladimír","DAR, Vladimír Muzička",,2600210022,,"DAR, Vladimír Muzička",ods
+2021-09-22,10000,Vklad v hotovosti,,,558,2804210001,,"DAR, ATS Servis v.o.s",ods
+2021-09-22,1500,Okamžitá příchozí platba,Ing. Jana Bělochová,"Posílám drobný dar pro velkou věc. Děkujeme, za to, co děláte. Přeji vám hodně zdaru ve volbách - přání platí i pro nás, občany.",,,,Ing. Jana Bělochová,ods
+2021-09-22,2000,Bezhotovostní příjem,ŠIMURDA IVAN,"DAR, Ivan Šimurda",0,3200210028,0,ŠIMURDA IVAN,ods
+2021-09-22,1000,Bezhotovostní příjem,MAROUSEK JAKUB,DAR na kampan 2021,,2108210001,,MAROUSEK JAKUB,ods
+2021-09-21,15000,Platba převodem uvnitř banky,"Valenta, Miroslav","DAR, Miroslav Valenta",,1100210081,,"DAR, Miroslav Valenta",ods
+2021-09-21,1000,Okamžitá příchozí platba,Zeman Ondřej,"DAR, Ondřej Zeman",0,2113210014,,Zeman Ondřej,ods
 2021-09-20,32000,Vklad v hotovosti,dar D. Vodrážka,,558,2113210005,,dar D. Vodrážka,ods
 2021-09-20,45000,Bezhotovostní příjem,SEKAL MARTIN,"DAR , Martin Sekal",0,2110210003,0,SEKAL MARTIN,ods
 2021-09-17,-130000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods

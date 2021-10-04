@@ -1,4 +1,219 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,-534193,Bezhotovostní platba,,,558,2210003,1114,"1114-Agentura PS s.r.o., tištěná inzerce Deník , Metro",ods_kdu-csl_top09
+2021-10-04,-50000,Platba převodem uvnitř banky,,,308,2021011,1114,"1114-BLUE HUB s.r.o., poradenství, konzultace",ods_kdu-csl_top09
+2021-10-04,-9205.5,Bezhotovostní platba,,,308,210080,1114,"1114-Adved s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-10-04,-41291.25,Bezhotovostní platba,,,308,210058,1114,"1114-Adved s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-10-04,-4840,Bezhotovostní platba,,,308,20210019,2100,"2100-TH Consulting & Publishing s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-10-04,-10,Bezhotovostní platba,,,308,9030021088,2100,"2100-Městská část Pha 2 , užívání veř. prostoru",ods_kdu-csl_top09
+2021-10-04,-3146,Bezhotovostní platba,,,308,202108101,2200,"2200-ART & AGRO s.r.o., tisk reklamní leták Klinecký",ods_kdu-csl_top09
+2021-10-04,-8260,Bezhotovostní platba,,,308,202109104,2200,"2200-ART & AGRO s.r.o., tisk reklamních tiskovin",ods_kdu-csl_top09
+2021-10-04,-5000,Bezhotovostní platba,,,308,202109102,2200,"2200-ART & AGRO s.r.o., tisk reklamní záložky",ods_kdu-csl_top09
+2021-10-04,-2600,Platba převodem uvnitř banky,,,308,15921,2200,"2200-naše noviny , PR prezentace",ods_kdu-csl_top09
+2021-10-04,-4000,Bezhotovostní platba,,,308,202100040,2200,"2200-BENOL s.r.o., pronájem BB",ods_kdu-csl_top09
+2021-10-04,-28435,Bezhotovostní platba,,,308,210100286,2200,"2200-machart s.r.o., grafické a tiskářské práce",ods_kdu-csl_top09
+2021-10-04,-13750,Bezhotovostní platba,,,308,2210014,2300,"2300-QUO-SB s.r.o., reklama FBC -K",ods_kdu-csl_top09
+2021-10-04,-437,Bezhotovostní platba,,,308,210929,2300,"2300-Karel Šerák , poštovné , parkovné poplatky zábory",ods_kdu-csl_top09
+2021-10-04,-300,Bezhotovostní platba,,,308,12021,2300,"2300-Muzeum JUDr.Otakara Kudrny, pronájem salonku",ods_kdu-csl_top09
+2021-10-04,-4791.6,Bezhotovostní platba,,,308,20804336,2300,"2300-KELT REKLAMA s.r.o., výroba mobilní pozadí TK",ods_kdu-csl_top09
+2021-10-04,-3200,Bezhotovostní platba,,,308,2161148,2300,"2300-RESTAURACE SOLNICE a.s., pronájem , občerstvení na TK",ods_kdu-csl_top09
+2021-10-04,-578,Bezhotovostní platba,,,3558,202108,2400,"2400-Karina Eismanová , občerstvení, jablka",ods_kdu-csl_top09
+2021-10-04,-200,Bezhotovostní platba,,,308,22100657,2400,"2400-Město Rokycany , zábor poplatek - stojna",ods_kdu-csl_top09
+2021-10-04,-2299,Bezhotovostní platba,,,308,146411414,2400,"2400-TOI TOI sanitární systémy s.r.o., mobilní WC",ods_kdu-csl_top09
+2021-10-04,-300,Platba převodem uvnitř banky,,,308,2109012,2400,"2400-Staniclav Kolařík , bannerová reklama- systém ad.hys",ods_kdu-csl_top09
+2021-10-04,-1210,Bezhotovostní platba,,,308,2021208,,"2500-Městský dům kultury Sokolov, poplatek - zábor",ods_kdu-csl_top09
+2021-10-04,-8591,Bezhotovostní platba,,,308,210100174,,"2500-ODDYCH s.r.o., přenosné bannery",ods_kdu-csl_top09
+2021-10-04,-4356,Platba převodem uvnitř banky,,,308,218103547,3000,"3000-ŽÍDEK tisk s.r.o., tisk a lepení BB",ods_kdu-csl_top09
+2021-10-04,-78.13,Bezhotovostní platba,,,308,2101400472,3000,"3000-Město Třinec, elektřina LKino",ods_kdu-csl_top09
+2021-10-04,-440,Platba převodem uvnitř banky,,,308,121099,3000,"3000-Kulturní centrum Bílovec , výlep plakáty",ods_kdu-csl_top09
+2021-10-04,-12705,Platba převodem uvnitř banky,,,308,1211827,3000,"3000-VIDAPRINT PRODUCTION s.r.o., tisk plakátů kandidátů",ods_kdu-csl_top09
+2021-10-04,-4500,Bezhotovostní platba,,,378,20210930,3400,"3400-Tomáš Havlík , hudební vystoupení na akci",ods_kdu-csl_top09
+2021-10-04,-50,Bezhotovostní platba,,,378,210930,3400,"3400-Michael Kubík, přípojka el. energie",ods_kdu-csl_top09
+2021-10-04,-4277,Bezhotovostní platba,,,378,8458052977,3400,"3400- Jana Žáková , spotřební materiál , občerstvení na akci",ods_kdu-csl_top09
+2021-10-04,-1560,Bezhotovostní platba,,,378,20210930,3400,"3400-Josef Herbych, PHM vol. auto",ods_kdu-csl_top09
+2021-10-04,-1300,Bezhotovostní platba,,,378,210930,3400,"3400-Václav Plánka , PHM vol. auto",ods_kdu-csl_top09
+2021-10-04,-1004.2,Bezhotovostní platba,,,378,210920,3400,"3400-Václav Plánka , PHM vol. auto",ods_kdu-csl_top09
+2021-10-04,-2294,Bezhotovostní platba,,,308,21032,3400,"3400-Pavel Trojan , Javořice - občerstvení",ods_kdu-csl_top09
+2021-10-04,-1898,Bezhotovostní platba,,,308,31201833,3400,"3400-Nová tiskárna Pelhřimov s.r.o., tištěná inzerce v Týdeníku",ods_kdu-csl_top09
+2021-10-04,-1000,Bezhotovostní platba,,,308,202110,3400,"3400-Ondřej Rázl , moderování Lkino",ods_kdu-csl_top09
+2021-10-04,-4961,Bezhotovostní platba,,,308,2210855,3400,"3400-JIPRINT s.r.o., tisk letáků",ods_kdu-csl_top09
+2021-10-04,-4000,Bezhotovostní platba,,,308,20210031,3400,"3400-Ondřej Mašek , video Stejskal",ods_kdu-csl_top09
+2021-10-04,-1950,Bezhotovostní platba,,,308,210100059,3400,"3400-STŘED z.ú., pronájem sálu- beseda",ods_kdu-csl_top09
+2021-10-04,-12644.5,Bezhotovostní platba,,,308,1136607,3400,"3400-RAROLA s.r.o., inzerce JI -lídři",ods_kdu-csl_top09
+2021-10-04,-19965,Bezhotovostní platba,,,308,2210821,3400,"3400-JIPRINT s.r.o, tisk letáků - kandidáti",ods_kdu-csl_top09
+2021-10-01,-100,Bezhotovostní platba,,,308,1343001022,1114,"1114-Městská část Praha , poplatek za užívání veř. prostranství",ods_kdu-csl_top09
+2021-10-01,-237.16,Bezhotovostní platba,,,308,2210000201,2300,"1114-Město Kaplice, výlep plakátů",ods_kdu-csl_top09
+2021-10-01,-1899,Bezhotovostní platba,,,308,50210703,2200,"1114-Technické služby Kutná Hora, výlep plakátů",ods_kdu-csl_top09
+2021-10-01,-631.62,Bezhotovostní platba,,,308,1196287,2200,"1114-Technické služby Benešov, výlep plakátů",ods_kdu-csl_top09
+2021-10-01,-1800,Bezhotovostní platba,,,308,60020921,2400,"1114-kulturní a komunitní centrum Přeštice, výlep plakátů",ods_kdu-csl_top09
+2021-10-01,54555.27,Bezhotovostní příjem,Adved s.r.o.,,0,210069,138,"1114-Adved s.r.o., přeplatek faktury",ods_kdu-csl_top09
+2021-10-01,-2500,Platba převodem uvnitř banky,,,308,2101000060,2100,"2100-Jan Pařil , tisk letáky",ods_kdu-csl_top09
+2021-10-01,-9994.6,Bezhotovostní platba,,,308,2572021,2100,"2100-Robert Remiš, tisk letáky",ods_kdu-csl_top09
+2021-10-01,-4704.48,Bezhotovostní platba,,,308,11112197,2100,"2100-ON tisk s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-10-01,-2439.36,Bezhotovostní platba,,,308,2021049,2200,"2200-Miroslav Sejček , výlep plakátů",ods_kdu-csl_top09
+2021-10-01,-2541,Bezhotovostní platba,,,308,36582,2200,"2200-TRIA v.o.s, tisk plakáty SPOLU",ods_kdu-csl_top09
+2021-10-01,-18150,Bezhotovostní platba,,,308,21129,2200,"2200-YDEAL s.r.o., výroba videospotu",ods_kdu-csl_top09
+2021-10-01,-3800,Bezhotovostní platba,,,308,32100462,2200,"2200-Město Uhnošť, poplatek zábor",ods_kdu-csl_top09
+2021-10-01,-6509.8,Bezhotovostní platba,,,378,1882021,2600,"2600-Petr Lán , polepy na auta, samolepky",ods_kdu-csl_top09
+2021-10-01,-25410,Bezhotovostní platba,,,308,103210152,2600,"2600-Dopravní podnik města Ústí nad Labem, pronájem ploch MHD",ods_kdu-csl_top09
+2021-10-01,-3339.6,Bezhotovostní platba,,,308,892100062,2600,"2600-Dopravní podnik města Mostu , pronájem ploch MHD",ods_kdu-csl_top09
+2021-10-01,-20076.32,Bezhotovostní platba,,,308,20210749,2600,"2600-Jiří Bartoš - SLON, tisk volebních materiálů",ods_kdu-csl_top09
+2021-10-01,-189,Bezhotovostní platba,,,0,2948,2800,"2800-Věra Šenková , sáčky na ovoce",ods_kdu-csl_top09
+2021-10-01,-18,Bezhotovostní platba,,,0,1343000003,2800,"2800-Věra Šenková , poplatek zábor Teplice nad M.",ods_kdu-csl_top09
+2021-10-01,-363,Bezhotovostní platba,,,0,9824,2800,"2800-Věra Šenková , poplatek zábor Česká Skalice",ods_kdu-csl_top09
+2021-10-01,-300,Bezhotovostní platba,,,0,6247,2800,"2800-Věra Šenková , poplatek zábor Nová Paka",ods_kdu-csl_top09
+2021-10-01,-1201.08,Bezhotovostní platba,,,0,706036103,2800,"2800-Věra Šenková , občerstvení , spotřební materiál",ods_kdu-csl_top09
+2021-10-01,-1000,Bezhotovostní platba,,,0,696836,2800,"2800-Věra Šenková ,PHM vol. auto",ods_kdu-csl_top09
+2021-10-01,-225,Bezhotovostní platba,,,0,146,2800,"2800-Věra Šenková , občerstvení na akci",ods_kdu-csl_top09
+2021-10-01,-130,Bezhotovostní platba,,,0,1343,2800,"2800-Věra Šenková , místní poplatek Hronov",ods_kdu-csl_top09
+2021-10-01,-100,Bezhotovostní platba,,,0,1361719,2800,"2800-Věra Šenková , poplatek zábor Hronov",ods_kdu-csl_top09
+2021-10-01,-330,Bezhotovostní platba,,,0,632021,2800,"2800-Věra Šenková , poplatek zábor Jaroměř",ods_kdu-csl_top09
+2021-10-01,-5932.88,Bezhotovostní platba,,,0,240921,2900,"2900-Hašková Kateřina , PHM vol. auto",ods_kdu-csl_top09
+2021-10-01,-854,Bezhotovostní platba,,,308,2021048,2900,"2900-Výchdočeské divadlo Pardubice , odběr el. energie",ods_kdu-csl_top09
+2021-10-01,-240,Bezhotovostní platba,,,0,12100454,2900,"2900-Město Jevíčko , poplatek za zábor veř. prostranství",ods_kdu-csl_top09
+2021-10-01,-500,Bezhotovostní platba,,,378,12,3200,"3200-Zuzana Kupčíková , parkovné vol. autobus",ods_kdu-csl_top09
+2021-10-01,-20303,Platba převodem uvnitř banky,,,308,2021018,3200,"3200-Roman Pištelák , výlep plakátů",ods_kdu-csl_top09
+2021-10-01,-77856,Bezhotovostní platba,,,308,20210054,3200,"3200- PACEK s.r.o., technické zajištění , moderování Lkino",ods_kdu-csl_top09
+2021-10-01,-10421.86,Bezhotovostní platba,,,378,15,3300,"3300-Jan Zapletal , PHM vol. auto, poplatky",ods_kdu-csl_top09
+2021-10-01,-3267,Bezhotovostní platba,,,378,14,3300,"3300-Jan Zapletal , pronájem vozidla",ods_kdu-csl_top09
+2021-10-01,-6050,Bezhotovostní platba,,,308,2021100037,3300,"3300-Žijeme reklamou s.r.o., výroba volebních videí",ods_kdu-csl_top09
+2021-09-30,-15004,Bezhotovostní platba,,,308,202108083,2200,"2200-ART & AGRO s.r.o., propagační materiál - kuchařka",ods_kdu-csl_top09
+2021-09-30,-4772,Bezhotovostní platba,,,308,262021,2200,"2200-Mgr. Václav Hraba, výroba reklamního banneru",ods_kdu-csl_top09
+2021-09-30,-221.43,Bezhotovostní platba,,,378,2021210155,2200,"2200-Město Roztoky , elektřina LKino",ods_kdu-csl_top09
+2021-09-30,-785,Bezhotovostní platba,,,378,2021210154,2200,"2200-Město Roztoky, poplatek za zábor veř.prostranství",ods_kdu-csl_top09
+2021-09-30,-3002.01,Bezhotovostní platba,,,308,121053,2200,"2200-KoPe produkce s.r.o., tisk letáky, prop. předměty",ods_kdu-csl_top09
+2021-09-30,-2347,Bezhotovostní platba,,,308,20211329,2200,"2200-B61 s.r.o., polep auta",ods_kdu-csl_top09
+2021-09-30,-363,Bezhotovostní platba,,,308,1196279,2200,"2200-Technické služby Benešov, výlep plakátů",ods_kdu-csl_top09
+2021-09-30,-900,Bezhotovostní platba,,,308,202144,2200,"2200-Tomáš Chum, propagační předměty, placky",ods_kdu-csl_top09
+2021-09-30,-7139,Bezhotovostní platba,,,308,37121,2200,"2200-Josef Lopata, tistěná inzerce",ods_kdu-csl_top09
+2021-09-30,-142,Bezhotovostní platba,,,0,1093223,2800,"2800-Věra Šenková, Občerstvení na akci",ods_kdu-csl_top09
+2021-09-30,-50,Bezhotovostní platba,,,0,157637,2800,"2800-Věra Šenková, poplatek za zábor",ods_kdu-csl_top09
+2021-09-30,-3100,Bezhotovostní platba,,,0,10921,2800,"2800-Věra Šenková, PHM vol. auto",ods_kdu-csl_top09
+2021-09-30,-1331,Bezhotovostní platba,,,0,705031476,2800,"2800-Věra Šenková, občerstvení na vol. akci",ods_kdu-csl_top09
+2021-09-30,-3610,Bezhotovostní platba,,,0,128062,2800,"2800-Věra Šenková, vstupenky do Baldův svět",ods_kdu-csl_top09
+2021-09-30,-501,Bezhotovostní platba,,,0,710104050,2800,"2800-Věra Šenková, kapaliny vol. auto",ods_kdu-csl_top09
+2021-09-30,-1800,Bezhotovostní platba,,,0,120621,2800,"2800-Věra Šenková, občerstvení výjezdy",ods_kdu-csl_top09
+2021-09-30,-3872,Bezhotovostní platba,,,0,100621,2800,"2800-Věra Šenková, občerstvevní výjezdy",ods_kdu-csl_top09
+2021-09-30,-3702,Bezhotovostní platba,,,0,90621,2800,"2800-Věra Šenková, PHM vol. auto",ods_kdu-csl_top09
+2021-09-30,-3630,Bezhotovostní platba,,,308,210200011,2700,"2700-Naše Jablonecko s.r.o., inzerce na web.stránkách",ods_kdu-csl_top09
+2021-09-30,-720,Bezhotovostní platba,,,8,74,2700,"2700-Kultura Mimoň, výlep plakátů",ods_kdu-csl_top09
+2021-09-30,-8167.5,Bezhotovostní platba,,,8,221030,2700,2700-JIWELL s.r.o.. tiskové práce -samolepky,ods_kdu-csl_top09
+2021-09-30,-1591.6,Bezhotovostní platba,,,378,1974,3000,3000-Jan Kuchař -PHM vol. auto,ods_kdu-csl_top09
+2021-09-30,-6171,Bezhotovostní platba,,,308,6902210198,3000,"3000-ČSAD Karviná , reklamní polepy na autobusech",ods_kdu-csl_top09
+2021-09-30,-2076.22,Bezhotovostní platba,,,378,26072021,3100,"3100-Navrátilová Jana, PHM vol. auto",ods_kdu-csl_top09
+2021-09-30,-1700,Bezhotovostní platba,,,378,18062021,3100,"3100-Jeseníky přes hranici z.s., pronájem muzea",ods_kdu-csl_top09
+2021-09-30,-500,Bezhotovostní platba,,,308,19058,3100,"3100-Kraicz Igor , správní poplatky zábory",ods_kdu-csl_top09
+2021-09-30,-500,Bezhotovostní platba,,,308,20210016,3100,"3100-Pavel Hegedüs, Bludov -zábor, poplatek el. energie LKino",ods_kdu-csl_top09
+2021-09-30,-400,Okamžitá odchozí platba,,,308,9110000098,2600,"2600-Město Podbořany , správní poplatek",ods_kdu-csl_top09
+2021-09-29,-756,Bezhotovostní platba,,,308,202100171,2600,"1114-Říp o.p.s., výlep plakátů",ods_kdu-csl_top09
+2021-09-29,-12910.7,Platba převodem uvnitř banky,,,308,20210524,1114,"1114-R36.cz s.r.o., tisk plachet",ods_kdu-csl_top09
+2021-09-29,-32200,Bezhotovostní platba,,,308,20212502,1114,"1114-Middlemen Service Company s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-09-29,-6403.32,Bezhotovostní platba,,,308,210236,1114,"1114-Kulturní zařízení města Valašské Meziříčí, výlep plakátů",ods_kdu-csl_top09
+2021-09-29,-2100,Bezhotovostní platba,,,308,20210031,2900,"1114-Nela Kočová , výlep plakátů Letohrad",ods_kdu-csl_top09
+2021-09-29,-240,Bezhotovostní platba,,,308,202110130,2900,"1114-Obec Lichnov, výlep plakátů",ods_kdu-csl_top09
+2021-09-29,-415,Bezhotovostní platba,,,308,21072,1114,"1114-Kino Vesmír , výlep plakátů Náchod",ods_kdu-csl_top09
+2021-09-29,-387.2,Bezhotovostní platba,,,308,210051,3000,"1114-Obec Mořkov, výlep plakátů",ods_kdu-csl_top09
+2021-09-29,-18500,Bezhotovostní platba,,,308,1121458,1114,"1114-Robert Fürst, výlep plakátů Karlovarský region",ods_kdu-csl_top09
+2021-09-29,-1293,Bezhotovostní platba,,,308,52021,1114,"1114-Pavel Kozdera , reklama na FBC ÚL",ods_kdu-csl_top09
+2021-09-29,-10139.8,Bezhotovostní platba,,,308,41251,1114,"1114-HB Stavia s.r.o., instalace plachet Louny",ods_kdu-csl_top09
+2021-09-29,-109110.54,Bezhotovostní platba,,,308,210069,1114,"1114-Adved s.r.o., propagace Koalice SPOLU - malíř. práce",ods_kdu-csl_top09
+2021-09-29,2395000,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",0,71339728,,TOP 09,ods_kdu-csl_top09
+2021-09-29,-58606.35,Platba převodem uvnitř banky,,,308,20210523,,"3300-R36.cz s.r.o., bannery,stojny Zlínský region",ods_kdu-csl_top09
+2021-09-29,-98000,Platba převodem uvnitř banky,,,308,21,2900,"2900-Matěj Slanař , pronájem reklamních nosičů",ods_kdu-csl_top09
+2021-09-29,-3630,Bezhotovostní platba,,,308,2021100032,3400,"3400-Žijeme reklamou s.r.o., videospoty Kaňkovský",ods_kdu-csl_top09
+2021-09-29,-2115.08,Bezhotovostní platba,,,308,210100146,3400,"3400-Jiří Přibyl, tisk BB plochy Hradební",ods_kdu-csl_top09
+2021-09-29,-1113.2,Bezhotovostní platba,,,308,19091521,3200,"3200-Riessner- Gase s.r.o., nájem plyn.lahve",ods_kdu-csl_top09
+2021-09-29,-32685,Bezhotovostní platba,,,308,2021052,3200,"3200-Dobrá Produkce s.r.o., tisk letáky, plakáty",ods_kdu-csl_top09
+2021-09-29,-29669,Bezhotovostní platba,,,308,2021053,3200,"3200-Dobrá Produkce s.r.o., tisky, stánek instalace",ods_kdu-csl_top09
+2021-09-29,-13068,Bezhotovostní platba,,,308,20210591,2800,"2800-JUTTY Group s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-09-29,-2201,Bezhotovostní platba,,,308,100211079,2800,"2800-Technické služby Hradec Králové , poplatek el. energie Lkino",ods_kdu-csl_top09
+2021-09-29,-22500,Bezhotovostní platba,,,308,2021017,2800,"2800-Jan Kalenský , natáčení videomedailónků",ods_kdu-csl_top09
+2021-09-29,-2230,Bezhotovostní platba,,,378,220009,2200,"2200-Lukáš Toman Paclt , poplatek el. energie, umístění BB",ods_kdu-csl_top09
+2021-09-29,-1754.5,Bezhotovostní platba,,,378,220008,2200,"2200-Lenka kOTKOVÁ , VIZITKY",ods_kdu-csl_top09
+2021-09-29,-908,Bezhotovostní platba,,,308,2021553,2200,"2200-Antonín Straka, pohlednice",ods_kdu-csl_top09
+2021-09-29,-498.52,Bezhotovostní platba,,,308,202189095,2200,"2200-ART & AGRO s.r.o., reklamní letáky",ods_kdu-csl_top09
+2021-09-29,-1089,Bezhotovostní platba,,,308,2021131,2200,"2200-Ivan Hubáček , zhotovení banneru",ods_kdu-csl_top09
+2021-09-29,-1830.1,Bezhotovostní platba,,,308,9,2300,"2300-Jan Pešek, PHM vol. auto",ods_kdu-csl_top09
+2021-09-29,-15000,Bezhotovostní platba,,,308,221113,2300,"2300-Jihočeské týdeníky s.r.o., tištěná inzerce v JČT",ods_kdu-csl_top09
+2021-09-29,-1230.7,Bezhotovostní platba,,,308,8,2300,"2300-Jan Pešek , PHM vol. auto",ods_kdu-csl_top09
+2021-09-29,-2274,Bezhotovostní platba,,,308,666,2300,"2300-Iveta Uhlíková, cestovné",ods_kdu-csl_top09
+2021-09-29,-4000,Bezhotovostní platba,,,308,452021,2300,"2300-Ozvěny Jihlzápadní moravy, inzerce Dačické ozvěny",ods_kdu-csl_top09
+2021-09-27,297,Bezhotovostní příjem,KOSTKA KRASNA LIPA,vratka-vylep plak.-ODS,0,2100200500,0,1114-KOSTKA KRASNA LIPA,ods_kdu-csl_top09
+2021-09-24,-6012,Bezhotovostní platba,,,378,5092021,3100,"3100-Hrubanová Michaela , poplatky za zábory",ods_kdu-csl_top09
+2021-09-24,-3000,Bezhotovostní platba,,,308,5002110021,3100,"3100-Národní památkový ústav , pronájem plochy, na LKIno",ods_kdu-csl_top09
+2021-09-24,-3000,Bezhotovostní platba,,,308,1210554,3100,"3100-Týden na Severu s.r.o., inzerce TOp",ods_kdu-csl_top09
+2021-09-24,-15000,Bezhotovostní platba,,,308,600232021,3100,"3100-Moravský senior , z.s., inzerce, rozhovory",ods_kdu-csl_top09
+2021-09-24,-15000,Bezhotovostní platba,,,308,2100,2100,"2100-Jiří Litera , balónkový plyn",ods_kdu-csl_top09
+2021-09-24,-100,Bezhotovostní platba,,,308,2021112821,2100,"2100-Městská část Praha 5 , zábor veř. prostranství",ods_kdu-csl_top09
+2021-09-24,-5000,Platba převodem uvnitř banky,,,308,1210145,2100,"2100-Meril Company s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-09-24,-3025,Bezhotovostní platba,,,308,210100259,2100,"2100-DRUCKVO s.r.o., tisk letáků",ods_kdu-csl_top09
+2021-09-24,-6050,Bezhotovostní platba,,,308,210100261,2100,"2100-DRUCKVO s.r.o., tisk letáků",ods_kdu-csl_top09
+2021-09-24,-10871,Platba převodem uvnitř banky,,,308,20210358,2100,"2100-RENTAL CZ s.r.o., pronájem elektrocentrála",ods_kdu-csl_top09
+2021-09-24,-3630,Bezhotovostní platba,,,308,3920210053,2100,"2100-Městská část Praha 2 , pronájem , poplatky",ods_kdu-csl_top09
+2021-09-24,-500,Bezhotovostní platba,,,308,1361430715,2600,"2600-Město Louny , správní poplatek - trojran",ods_kdu-csl_top09
+2021-09-24,-500,Bezhotovostní platba,,,308,1361430719,2600,"2600-Město Louny , správní poplatek - trojran",ods_kdu-csl_top09
+2021-09-24,-500,Bezhotovostní platba,,,308,1361430703,2600,"2600-Město Louny , správní poplatek - trojran",ods_kdu-csl_top09
+2021-09-24,-819,Bezhotovostní platba,,,308,272021,2900,"1114-START -Radomír Řehoř, výlep plakátů Jevíčko",ods_kdu-csl_top09
+2021-09-24,-580.8,Bezhotovostní platba,,,308,2210325,3400,"1114-Technické služby města Pelhřimov, výlep plakátů",ods_kdu-csl_top09
+2021-09-24,-330,Bezhotovostní platba,,,308,2170100319,3400,"1114-Služby Telč s.r.o., výlep plakátů",ods_kdu-csl_top09
+2021-09-24,-300,Bezhotovostní platba,,,308,21246,2900,"1114-Město Jablonné nad Orlicí , výlep plakátů",ods_kdu-csl_top09
+2021-09-24,-18910,Okamžitá odchozí platba,,,308,2021031,2700,"2700-Jablonec 2010, z.s., doprava, občerstvení",ods_kdu-csl_top09
+2021-09-24,-3500,Bezhotovostní platba,,,558,2063000012,17821,"2600-Úřad městkého obvodu Ústí nad Labem ,poplatek za využívání VP-LKino",ods_kdu-csl_top09
+2021-09-24,-1104,Bezhotovostní platba,,,558,9102150001,2600,"2600-Město Litoměřice , poplatek za trojhrany",ods_kdu-csl_top09
+2021-09-24,-1968.1,Bezhotovostní platba,,,0,21045767,2600,"2600-Renata Svatošová , PHM vol. auto",ods_kdu-csl_top09
+2021-09-24,-3001,Bezhotovostní platba,,,308,2110183,2600,"2600-Technické služby města, stánek , el.energie, koše",ods_kdu-csl_top09
+2021-09-24,-711212,Bezhotovostní platba,,,308,10123169,1114,"1114-RENGL s.r.o., výlep plakátů celostátní",ods_kdu-csl_top09
+2021-09-24,-184472,Bezhotovostní platba,,,308,10122917,1114,"1114-RENGL s.r.o., výlep plakátů Lkina",ods_kdu-csl_top09
+2021-09-24,-177870,Bezhotovostní platba,,,308,562110970,1114,"1114-Česká tisková Kancelář , licenční smlouva - fotografie",ods_kdu-csl_top09
+2021-09-23,-500,Okamžitá odchozí platba,,Trojhran u Krematoria,378,11701,1361,"2600-Statutární město ústí nad Labem , správní poplatek -trojhran u Krematoria",ods_kdu-csl_top09
+2021-09-23,-15609,Bezhotovostní platba,,,558,22111003,1114,"1114-Vydavatelství STISK s.r.o., inzerce region Opavsko",ods_kdu-csl_top09
+2021-09-23,-464057,Bezhotovostní platba,,,558,2210002,1114,"1114- Agentura P S s.r.o., tištěná inzerce září",ods_kdu-csl_top09
+2021-09-23,-500,Bezhotovostní platba,,,558,8566787361,2600,"2600-Město Litoměřice, správní poplatek -vol. stánek",ods_kdu-csl_top09
+2021-09-23,-500,Bezhotovostní platba,,,558,8566745361,2600,"2600-Město Litoměřice, správní poplatek -trojhrany",ods_kdu-csl_top09
+2021-09-23,-10790.9,Platba převodem uvnitř banky,,,308,20210522,2900,"2900-R36 cz s.r.o., výroba atypických bannerů",ods_kdu-csl_top09
+2021-09-23,-1934.8,Bezhotovostní platba,,,308,36946,2900,"2900-Město Moravská Třebová, pronájem reklamní plochy",ods_kdu-csl_top09
+2021-09-23,-41757,Okamžitá odchozí platba,,,308,20211320,2200,"2200-B61 s.r.o., zapůjčení , potisk , instalace",ods_kdu-csl_top09
+2021-09-23,-1445,Okamžitá odchozí platba,,,3558,202106,2400,"2400-Karina Eismanová, poštovné , zábory",ods_kdu-csl_top09
+2021-09-23,124,Bezhotovostní příjem,Město Nepomuk,zaplaceno 2x,0,10092021,,2400-Město Nepomuk,ods_kdu-csl_top09
+2021-09-22,-100,Bezhotovostní platba,,,0,11701,1361,"2600-Statutární město Ústí nad Labem, správní poplatek akce",ods_kdu-csl_top09
+2021-09-22,-100,Bezhotovostní platba,,,0,11701,1361,"2600-Statutární město Ústí nad Labem, správní poplatek akce 5.10.",ods_kdu-csl_top09
+2021-09-22,-500,Bezhotovostní platba,,,0,11701,1361,"2600-Statutární město Ústí nad Labem, správní poplatek trojhrany",ods_kdu-csl_top09
+2021-09-22,-785,Okamžitá odchozí platba,,,308,1343002741,2200,"2200-Město Poděbrady, poplatek za užívání veř. prostoru",ods_kdu-csl_top09
+2021-09-22,-878.46,Bezhotovostní platba,,,308,121003752,2600,"1114-Marius Pedersen a.s., výlep plakátů",ods_kdu-csl_top09
+2021-09-22,-120,Bezhotovostní platba,,,378,21015,2800,"1114-Kultura Solnice s.r.o., výlep plakátů",ods_kdu-csl_top09
+2021-09-22,-31369.64,Bezhotovostní platba,,,308,20210107,2600,"1114-Radek Žežulka, tisk vol. plachet",ods_kdu-csl_top09
+2021-09-22,-19360,Bezhotovostní platba,,,308,2021000809,1114,"1114-TOMAN & PARTNEŘI, právní služby",ods_kdu-csl_top09
+2021-09-22,-25000,Bezhotovostní platba,,,308,20210011,1114,"1114-Anna Shavit, konzultační činnost",ods_kdu-csl_top09
+2021-09-22,-4235,Bezhotovostní platba,,,308,1121130048,2100,"2100-JOHNY SERVIS s.r.o., mobilní WC",ods_kdu-csl_top09
+2021-09-22,-132903,Platba převodem uvnitř banky,,,308,1421,2100,"2100-Jakub Galuška, propagační materiál",ods_kdu-csl_top09
+2021-09-22,-11461,Platba převodem uvnitř banky,,,308,20210327,2100,"2100-RENTAL CZ s.r.o., elektrocentrála -kino Opatov",ods_kdu-csl_top09
+2021-09-22,-2800,Bezhotovostní platba,,,378,220007,2200,"2200-Andrea Kuncová , správní poplatky vol.. akce",ods_kdu-csl_top09
+2021-09-22,-24421,Bezhotovostní platba,,,378,220006,2200,"2200-Lukáš Toman Paclt, PHM vol. auta",ods_kdu-csl_top09
+2021-09-22,-500,Bezhotovostní platba,,,308,1203001100,2900,"2900-Město Svitavy, zábor veř. prostranství",ods_kdu-csl_top09
+2021-09-22,-100,Bezhotovostní platba,,,308,1202003802,2900,"2900-Město Svitavy, správní poplatek",ods_kdu-csl_top09
+2021-09-22,-1058.75,Bezhotovostní platba,,,308,210100623,2900,"2900-GOLEM GROUP s.r.o., tisk vizitky",ods_kdu-csl_top09
+2021-09-22,-2400,Bezhotovostní platba,,,308,2113000109,3200,"3200-Statutární město Brno , poplatek za zábor",ods_kdu-csl_top09
+2021-09-22,-7986,Bezhotovostní platba,,,308,19030821,3200,"3200-Riessner-Gase s.r.o., helium do balonků",ods_kdu-csl_top09
+2021-09-21,-1644,Bezhotovostní platba,,,308,21010082,2200,"1114-Městské kulturní centrum Beroun, výlep plakátů",ods_kdu-csl_top09
+2021-09-21,-40000,Bezhotovostní platba,,,308,20210905,3000,"1114-Radim Ivan , reklama na soc. sítích",ods_kdu-csl_top09
+2021-09-21,-40000,Bezhotovostní platba,,,308,20210904,3000,"1114-Radim Ivan , reklama na soc. sítích",ods_kdu-csl_top09
+2021-09-21,-7673.6,Bezhotovostní platba,,,378,1974,3000,"3000-Jan Kuchař, PHm , parkovné , občerstvení vol. akce",ods_kdu-csl_top09
+2021-09-21,-755.04,Bezhotovostní platba,,,308,2112120001,3000,"3000-Technické služby Opava , mobilní WC akce Lkino",ods_kdu-csl_top09
+2021-09-21,-19721.79,Platba převodem uvnitř banky,,,308,1211668,3000,"3000-VIDAPRINT PRODUCTION s.r.o., volební trička, plakáty",ods_kdu-csl_top09
+2021-09-21,-48400,Bezhotovostní platba,,,308,21252,3000,"3000-NBC Office a.s., pronájem reklamní plochy",ods_kdu-csl_top09
+2021-09-21,-8644.24,Bezhotovostní platba,,,308,41000203,3000,"3000-Městský dopravní podnik Opava, plakáty",ods_kdu-csl_top09
+2021-09-21,-1000,Bezhotovostní platba,,,308,2100200071,3000,"3000-Správa sportovišť Kopřivnice, pronájem pozemku Lkino",ods_kdu-csl_top09
+2021-09-21,-27926,Platba převodem uvnitř banky,,,308,1211465,3000,"3000-VIDAPRINT PRODUCTION s.r.o., volební trička, letáčky",ods_kdu-csl_top09
+2021-09-21,-4130.18,Bezhotovostní platba,,,378,202109,1114,"1114-Eva Decroix, reklama na FBC",ods_kdu-csl_top09
+2021-09-21,-3146,Bezhotovostní platba,,,378,202109,1114,"1114-Věra Zukalová, reklama na FBC",ods_kdu-csl_top09
+2021-09-21,-2000,Bezhotovostní platba,,,308,42021,1114,"1114-Pavel Kozdera, reklama na FBC",ods_kdu-csl_top09
+2021-09-21,-1098,Bezhotovostní platba,,,308,144,1114,"1114-Indormační centrum a dům kultury Velká Bíteš, výlep plakátů",ods_kdu-csl_top09
+2021-09-21,-659.93,Bezhotovostní platba,,,308,21074,3000,"1114-Městské kulturní centrum Fulnek , výlep plakátů",ods_kdu-csl_top09
+2021-09-21,-560,Bezhotovostní platba,,,308,3794000038,3000,"1114-Město Štramberk , výlep plakátů",ods_kdu-csl_top09
+2021-09-21,-360,Bezhotovostní platba,,,308,1502021,3000,"1114-Obec Metylovice, výlep plakátů",ods_kdu-csl_top09
+2021-09-21,-100,Bezhotovostní platba,,,0,210910,3400,"3400-Michael Kubík , přípojka el. energie",ods_kdu-csl_top09
+2021-09-21,-2081.2,Bezhotovostní platba,,,378,20210910,3400,"3400-Josef Herbych , PHM vol. auto",ods_kdu-csl_top09
+2021-09-21,-26400,Platba převodem uvnitř banky,,,308,20,2700,"2700-Matěj Slanař, reklamní kostky Liberecký r.",ods_kdu-csl_top09
+2021-09-21,-5800,Okamžitá odchozí platba,,,308,1530000081,3300,"3300-Město Kroměříž , poplatek za zábor",ods_kdu-csl_top09
 2021-09-20,-540,Bezhotovostní platba,,,308,518,2300,"2300-Karel Šerák , poštovné",ods_kdu-csl_top09
 2021-09-20,-1850,Bezhotovostní platba,,,308,7,2300,"2300-Jan Pešek , PHM vol. auto",ods_kdu-csl_top09
 2021-09-20,-10000,Bezhotovostní platba,,,308,221109,2300,"2300-Jihočeské týdeníky s.r.o., tištění inzerce",ods_kdu-csl_top09

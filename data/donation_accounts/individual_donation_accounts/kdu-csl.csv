@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-01,500,Okamžitá příchozí platba,Sbor dobrovolných ha,SDH TLUMAČOV-PŮJČENÍ SKÁKACÍHO HRADU,0,,,Sbor dobrovolných ha,kdu-csl
+2021-10-01,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
+2021-10-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
+2021-10-01,1000,Bezhotovostní příjem,POSPÍŠIL JIŘÍ,dar. na provoz-000,,2109210113,,POSPÍŠIL JIŘÍ,kdu-csl
+2021-09-30,2500,Platba převodem uvnitř banky,"Štefek, Stanislav","DAR ŠTEFEK Stanislav, okr. Nový Jičín, MO Příbor",,2981988,,"DAR ŠTEFEK Stanislav, okr. Nový Jičín, MO Příbor",kdu-csl
+2021-09-30,1200,Bezhotovostní příjem,PSOTKA KAMIL,Dar KDU-CSL Zlin Kamil Psotka,,0,801,PSOTKA KAMIL,kdu-csl
+2021-09-30,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
+2021-09-29,5000,Platba převodem uvnitř banky,"Mgr. Golasowská, Pavla",Golasowská volby,,18051964,851,Golasowská volby,kdu-csl
+2021-09-27,100,Bezhotovostní příjem,DAN DRÁPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRÁPAL,kdu-csl
+2021-09-27,500,Bezhotovostní příjem,Marie Kozáková,zvláštní členský příspěvek Marie Kozáková,0,,,Marie Kozáková,kdu-csl
+2021-09-27,200,Bezhotovostní příjem,OSTROVSKY VACLAV,pravidelny_prispevek,,23021988,713,OSTROVSKY VACLAV,kdu-csl
+2021-09-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
+2021-09-24,20000,Bezhotovostní příjem,DOMINIK JURCO,DAR PRO OPAVU,,22071989,851,DOMINIK JURCO,kdu-csl
+2021-09-24,2000,Bezhotovostní příjem,BAZALA JOSEF,JOSEF BAZALA PŘÍSPĚVEK KDU-ČSL,0,0,0,BAZALA JOSEF,kdu-csl
+2021-09-23,20000,Bezhotovostní příjem,"MEDISYN, S.R.O.",dar KDU CSL,558,12021,709,"MEDISYN, S.R.O.",kdu-csl
+2021-09-23,50000,Okamžitá příchozí platba,"Zubní lékařství, MUD",,0,28111954,721,"Zubní lékařství, MUD",kdu-csl
+2021-09-23,1e+05,Bezhotovostní příjem,HORÁK JIŘÍ,"Jiří Horák, dar",0,24071984,701,HORÁK JIŘÍ,kdu-csl
+2021-09-22,-1.5e+07,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2021-09-22,80000,Okamžitá příchozí platba,Ing.Kunčar Patrik,Dar,0,,,Ing.Kunčar Patrik,kdu-csl
+2021-09-22,1000,Bezhotovostní příjem,POSPÍŠIL JIŘÍ,,,,,POSPÍŠIL JIŘÍ,kdu-csl
+2021-09-21,400,Okamžitá příchozí platba,Straka Karel,,308,,,Straka Karel,kdu-csl
+2021-09-21,112500,Platba převodem uvnitř banky,Strana zelených,podíl ze státního rozpočtu přijatý za mandát P. Orel  KDU-ČSL - 3. Q 2021,,,,podíl ze státního rozpočtu přijatý za mandát P. Orel  KDU-ČSL - 3. Q 2021,kdu-csl
+2021-09-21,2810,Bezhotovostní příjem,Mgr. Zdislava Zemánk,zvláštní členské příspěvky,0,3061968,701,Mgr. Zdislava Zemánk,kdu-csl
 2021-09-21,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
 2021-09-21,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
 2021-09-21,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl

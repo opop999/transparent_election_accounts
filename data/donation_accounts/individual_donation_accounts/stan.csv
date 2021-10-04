@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,5000,Okamžitá příchozí platba,David Kašpar,"dar, David Kašpar, 6/11/1976, Praha 10",,6111976,74031621,David Kašpar,stan
+2021-10-04,150000,Bezhotovostní příjem,Investiční a majetko,"DAR  Investiční a majetková, a.s.IČO . 26182556Moravské nám. 690/15, 602 00 Brno",308,26182556,191151121,Investiční a majetko,stan
+2021-10-01,-350000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
+2021-10-01,1e+05,Bezhotovostní příjem,MEDIAPLAN CONCEPT S.,DAR,,214034421,,"DAR - MEDIAPLAN CONCEPT S.R.O. - 09565558, V hůrkách 2144/3, Praha",stan
+2021-09-30,7000,Bezhotovostní příjem,KOBLIZEK OLDRICH,"DAR, O. Koblizek, 1.8.1958, Vraclav",,1081958,211080221,DAR - KOBLIZEK OLDRICH,stan
+2021-09-27,15000,Okamžitá příchozí platba,PT.Ing.Kužílek Oldři,"DAR, Kužílek, 4.1.1956, Praha",0,,215034521,DAR - Ing.Kužílek Oldřich,stan
+2021-09-26,15000,Okamžitá příchozí platba,OVOS s.r.o.,"DAR, OVOS s.r.o., 07479891, Radčina 6 Praha 6",0,,103034021,DAR - OVOS s.r.o.,stan
+2021-09-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,DAR - HNEVSA TOMAS,stan
+2021-09-21,29687.5,Platba převodem uvnitř banky,Strana zelených,podíl ze státního rozpočtu přijatý za krajské mandáty PLK STAN - 3. Q 2021,,,,podíl ze státního rozpočtu přijatý za krajské mandáty PLK STAN - 3. Q 2021,stan
+2021-09-21,15000,Okamžitá příchozí platba,Pavel Kosař,"DAR, Pavel Kosař, 23.9.1986, Praha",,23091986,102033921,DAR - Pavel Kosař,stan
+2021-09-21,500,Bezhotovostní příjem,Jakub Nešpor,"DAR, 8.10.1979, Napajedla",,,,DAR - Jakub Nešpor,stan
+2021-09-21,40000,Bezhotovostní příjem,BLUETECH S.R.O.,"""DAR, Bluetech s. r. o., 49062557""",308,49062557,186100121,DAR - BLUETECH S.R.O.,stan
 2021-09-20,3000,Platba převodem uvnitř banky,"Plevný, Miroslav","DAR, prof. Dr. Ing. Miroslav Plevný nar. 12.10.1965, Cheb",,12101965,213140421,"DAR, prof. Dr. Ing. Miroslav Plevný nar. 12.10.1965, Cheb",stan
 2021-09-17,20000,Bezhotovostní příjem,MACHACEK MARTIN,"DAR, M. Machacek, 15.12.48,Ondrejov",,0,185042621,DAR - MACHACEK MARTIN,stan
 2021-09-15,12000,Okamžitá příchozí platba,Tomáš Bloudek,DAR Tomáš Bloudek 16.7.1970 Roztoky,,16071970,190151021,DAR - Tomáš Bloudek,stan
