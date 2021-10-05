@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,1e+05,Okamžitá příchozí platba,Roman Onderka,"Dar volby PSP ČR 2021,Roman Onderka 11.11.1965",,11111965,,Roman Onderka,cssd
 2021-10-04,-50000,Platba převodem uvnitř banky,,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",,,,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",cssd
 2021-10-04,-50000,Platba převodem uvnitř banky,,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",,,,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",cssd
 2021-10-04,-30000,Platba převodem uvnitř banky,,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",,,,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",cssd

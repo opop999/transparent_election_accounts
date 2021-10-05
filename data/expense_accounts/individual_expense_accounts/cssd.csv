@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,-1579.7,Karetní transakce,,"Nákup: Tesco Pisek,  Tesco Pisek, Pisek, 39701, CZE, dne 4.10.2021, částka  1579.70 CZK",,1861,,"Nákup: Tesco Pisek,  Tesco Pisek, Pisek, 39701, CZE, dne 4.10.2021, částka  1579.70 CZK",cssd
+2021-10-05,-459.4,Karetní transakce,,"Nákup: KAUFLAND CZ  3400,  KAUFLAND CZ 3400, TABOR, 39001, CZE, dne 4.10.2021, částka  459.40 CZK",,1861,,"Nákup: KAUFLAND CZ  3400,  KAUFLAND CZ 3400, TABOR, 39001, CZE, dne 4.10.2021, částka  459.40 CZK",cssd
+2021-10-05,-20000,Karetní transakce,,"Nákup: FACEBK 6ZT8S7TLF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",,2831,,"Nákup: FACEBK 6ZT8S7TLF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",cssd
+2021-10-05,-500,Karetní transakce,,"Nákup: FACEBK 5CJWE9BQH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  500.00 CZK",,8665,,"Nákup: FACEBK 5CJWE9BQH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  500.00 CZK",cssd
 2021-10-04,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",,,,"převod daru Ivana Stráská, na volby PS PČR, Jihočeský kraj",cssd
 2021-10-04,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",,,,"převod daru Tomáš Polanský, na volby PS PČR, Jihočeský kraj",cssd
 2021-10-04,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",,,,"převod daru Olga Bastlová, na volby PS PČR, Jihočeský kraj",cssd

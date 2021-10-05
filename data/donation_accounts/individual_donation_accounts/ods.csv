@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,-240000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
+2021-10-04,-20,Okamžitá odchozí platba,,"vratka není DS,Petr Tykvart, barbora.valouskova@ods.cz",,,,"vratka není DS,Petr Tykvart, barbora.valouskova@ods.cz",ods
+2021-10-04,-20,Okamžitá odchozí platba,,"vratka není DS, Petr Tykvart, barbora.valouskova@ods.cz",,,,"vratka není DS, Petr Tykvart, barbora.valouskova@ods.cz",ods
 2021-10-04,5000,Okamžitá příchozí platba,Šrámek Josef,"DAR, Josef Šrámek",0,3001210006,,Šrámek Josef,ods
 2021-10-04,2e+05,Bezhotovostní příjem,Ungelt Services a.s.,"DAR, Ungelt Services a.s., Praha, K",308,1100210089,,Ungelt Services a.s.,ods
 2021-10-04,20,Bezhotovostní příjem,PETR TYKVART,WWW.SELT.CZ - PRODEJ ZDRAVOTNICKÉ TECHNIKY - DAR,,,,PETR TYKVART,ods

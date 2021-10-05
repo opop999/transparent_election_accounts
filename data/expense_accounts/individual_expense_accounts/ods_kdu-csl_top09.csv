@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,-10000,Okamžitá odchozí platba,,,558,2210013,2100,"2400-Quo-SB s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-10-04,-10000,Okamžitá odchozí platba,,,0,2210012,2400,"2100-Quo-SB s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-10-04,-2170.73,Bezhotovostní platba,,,378,101624031,,"1114-Jana Žáková, reklama na FBC",ods_kdu-csl_top09
+2021-10-04,-5000,Bezhotovostní platba,,,308,82021,1114,"1114-Martin Hybler, koncert- klav. doprovod",ods_kdu-csl_top09
+2021-10-04,-19360,Bezhotovostní platba,,,308,221079,1114,"1114-Boleslav Lysák, výlep plakátů UH",ods_kdu-csl_top09
 2021-10-04,-534193,Bezhotovostní platba,,,558,2210003,1114,"1114-Agentura PS s.r.o., tištěná inzerce Deník , Metro",ods_kdu-csl_top09
 2021-10-04,-50000,Platba převodem uvnitř banky,,,308,2021011,1114,"1114-BLUE HUB s.r.o., poradenství, konzultace",ods_kdu-csl_top09
 2021-10-04,-9205.5,Bezhotovostní platba,,,308,210080,1114,"1114-Adved s.r.o., reklama na FBC",ods_kdu-csl_top09

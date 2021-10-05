@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,100,Bezhotovostní příjem,Ing.Němec Miloš,"DAR, Miloš Němec",0,,,Ing.Němec Miloš,trikolora
+2021-10-05,100,Bezhotovostní příjem,Ing.Pozler Petr,Dar příspěvek RP,0,5000382,,Ing.Pozler Petr,trikolora
+2021-10-05,500,Bezhotovostní příjem,NAJVIRT OLDRICH,DAR Oldrich Najvirt,,123456,,NAJVIRT OLDRICH,trikolora
+2021-10-05,5000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 405367 30.09.2021 c 5PETRTARANDADAR TSS,0,1555555,,"CESKA POSTA, S.P.",trikolora
+2021-10-04,100,Okamžitá příchozí platba,GOTTWALDOVÁ ALENA,DAR příspěvek RP,558,2001377,,GOTTWALDOVÁ ALENA,trikolora
+2021-10-04,10000,Okamžitá příchozí platba,Macek Tomáš,DAR,0,234567,,Macek Tomáš,trikolora
+2021-10-04,2000,Okamžitá příchozí platba,Formánková Radka,DAR     poznámka: Radka Formánková,0,123456,,Formánková Radka,trikolora
+2021-10-04,1000,Okamžitá příchozí platba,ENDAL FILIP,DAR,,234567,,ENDAL FILIP,trikolora
+2021-10-04,800,Bezhotovostní příjem,FRIC VITEZSLAV,prispevek 2021,,11001777,,FRIC VITEZSLAV,trikolora
+2021-10-04,3000,Okamžitá příchozí platba,Ing.Kybast Ondrej,DAR - Ondrej Kybast,0,,,Ing.Kybast Ondrej,trikolora
 2021-10-04,200,Bezhotovostní příjem,POLANSKY ALES,"DAR, Ales Polansky 9.3.1969",,0,,POLANSKY ALES,trikolora
 2021-10-04,999,Bezhotovostní příjem,LORENC RAFAEL,DARRafael Lorenc,,123456,,LORENC RAFAEL,trikolora
 2021-10-04,999,Bezhotovostní příjem,FOŠUMOVÁ JARMILA,,308,9,0,FOŠUMOVÁ JARMILA,trikolora

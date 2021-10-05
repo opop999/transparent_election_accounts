@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,1000,Platba převodem uvnitř banky,"Hudec, Stanislav",dar priznivce,,8313,,dar priznivce,svobodni
+2021-10-05,100,Bezhotovostní příjem,JIRÁČEK FRANTIŠEK,DAR PRIZNIVCE,0,9378,0,JIRÁČEK FRANTIŠEK,svobodni
+2021-10-04,2500,Okamžitá příchozí platba,Kateřina Zíková,dar,,82042,,Kateřina Zíková,svobodni
+2021-10-04,-40000,Platba převodem uvnitř banky,,Převod na účet pracovně právní platby,,,,Převod na účet pracovně právní platby,svobodni
 2021-10-01,100,Bezhotovostní příjem,VASICEK ONDREJ,DAR,,82040,,VASICEK ONDREJ,svobodni
 2021-09-29,100,Okamžitá příchozí platba,Josef Němec,Dar,,,,Josef Němec,svobodni
 2021-09-29,100,Bezhotovostní příjem,BURÁŇ PETR,Dar příznivce,0,9372,0,BURÁŇ PETR,svobodni

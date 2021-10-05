@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,200,Bezhotovostní příjem,Krátký Jiří,"Jiří Krátký, 20.11.1964, Högerova 1098/9, 15200Praha 5, účel MS Praha5",0,,110105,Krátký Jiří,pirati
+2021-10-05,200,Bezhotovostní příjem,TECL LUKÁŠ,,0,44004864,0,TECL LUKÁŠ,pirati
+2021-10-05,992,Bezhotovostní příjem,PAYNOVATIO A.S.,SETTLEMENT setmg6z6w77e,0,0,0,PAYNOVATIO A.S.,pirati
+2021-10-04,-250,Okamžitá odchozí platba,,Vrácený dar Jana Švihnosová - nedostatečná identifikace dárce,,,,Vrácený dar Jana Švihnosová - nedostatečná identifikace dárce,pirati
+2021-10-04,-500,Okamžitá odchozí platba,,Vrácený dar Karel Daniel - nedostatečná identifikace dárce,,,,Vrácený dar Karel Daniel - nedostatečná identifikace dárce,pirati
+2021-10-04,60000,Bezhotovostní příjem,PICKA LIBOR,Picka Libor kraj Plzensky,,1117,,PICKA LIBOR,pirati
 2021-10-04,-530000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
 2021-10-04,250,Bezhotovostní příjem,Mgr. Petr Jedelský,Dar,0,84505,1,Mgr. Petr Jedelský,pirati
 2021-10-04,20,Bezhotovostní příjem,PETR TYKVART,WWW.ZVYSKY.CZ - FOTO A VIDEO Z DRONU - DAR,,,,PETR TYKVART,pirati

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-04,150,Okamžitá příchozí platba,Martin Trubka,"DAR, od MartinTrubka,Zborovská704,Protivín,8.9.1972",,,,Martin Trubka,spd
+2021-10-04,500,Okamžitá příchozí platba,Jindřich Záboj,Dar  Jindřich Záboj Kunštát 40  4.4.1962,,,,Jindřich Záboj,spd
 2021-10-04,1000,Bezhotovostní příjem,POHLOVÁ SIMONA,Na vítězství,0,111,0,POHLOVÁ SIMONA,spd
 2021-09-30,10000,Okamžitá příchozí platba,PaedDr. Jaroslav Ber,"Jaroslav Berka, Český Krumlov - dar",308,5901071748,,PaedDr. Jaroslav Ber,spd
 2021-09-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd

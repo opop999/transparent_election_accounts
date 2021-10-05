@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,1500,Bezhotovostní příjem,DEJMEK WILFRIED,Wilfried Dejmek Vidče 155 75653,0,2109090111,0,DEJMEK WILFRIED,kdu-csl
 2021-10-01,500,Okamžitá příchozí platba,Sbor dobrovolných ha,SDH TLUMAČOV-PŮJČENÍ SKÁKACÍHO HRADU,0,,,Sbor dobrovolných ha,kdu-csl
 2021-10-01,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
 2021-10-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl

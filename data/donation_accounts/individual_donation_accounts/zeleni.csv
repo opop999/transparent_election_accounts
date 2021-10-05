@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,300,Bezhotovostní příjem,Nesvedová Daša,dar,0,9002611,,Nesvedová Daša,zeleni
+2021-10-05,300,Bezhotovostní příjem,HOUDEK LUKÁŠ,DAR,0,9002902,0,HOUDEK LUKÁŠ,zeleni
+2021-10-05,500,Bezhotovostní příjem,KŘÍŽEK PAVEL ING.,DAR,0,9002601,0,KŘÍŽEK PAVEL ING.,zeleni
+2021-10-05,500,Platba převodem uvnitř banky,"Bc. Surý, Ondřej",dar,,9002953,,dar,zeleni
+2021-10-04,1000,Okamžitá příchozí platba,Tereza Štysová,Dar volby 2021,0,0,0,Tereza Štysová,zeleni
+2021-10-04,-2000,Platba převodem uvnitř banky,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003339,,"ROH družstevní kavárna, družstvo",zeleni
+2021-10-04,-100,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9002455,,KLAUSER ONDŘEJ,zeleni
+2021-10-04,-2e+05,Platba převodem uvnitř banky,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-04,400,Bezhotovostní příjem,Veronika Maria Körne,dar,308,9002085,,Veronika Maria Körne,zeleni
 2021-10-04,100,Bezhotovostní příjem,František Šíma,8801100173 DAR,0,8801100173,,František Šíma,zeleni
 2021-10-04,2000,Bezhotovostní příjem,SILVIE CERMAKOVA,DAR,,9003328,,SILVIE CERMAKOVA,zeleni

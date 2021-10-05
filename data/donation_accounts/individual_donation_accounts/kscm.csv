@@ -1,5 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
 2021-10-04,845,Příchozí úhrada,JAN PIKOUS,6701002203639940,6210,JAN PIKOUS - FINANCNI DAR,,,33101,CZK,kscm
+2021-10-04,-40000,Odchozí úhrada,,838671,100,dotace OV Hodonín,0,581,,CZK,kscm
 2021-10-02,100.2,Příchozí úhrada,KOTALA JAN,173998382,300,Jan Kotala - finanční dar KSČM,,,,CZK,kscm
 2021-10-01,200,Příchozí úhrada,Šlechtická Hana,63433153,800,P. Šlechtický Jihlava-finanční dar,0,0,36102,CZK,kscm
 2021-09-30,1500,Příchozí úhrada,RYSANKOVA DOSEDELOVA,105263739,300,finanční dar,,,,CZK,kscm
@@ -25,10 +26,10 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-09-29,6914,Příchozí úhrada,JUDr.Všetečka Petr,142200083,800,"Petr Všetečka, Brno - finanční dar",0,,36202,CZK,kscm
 2021-09-28,1693,Okamžitá úhrada,"Fikáčková, Markéta",2901396021,2010,Markéta Fikáčková- finanční dar,,38103,,CZK,kscm
 2021-09-27,20000,Příchozí úhrada,VOSTRA MILOSLAVA,103801767,300,Finanční  dar,,655526,,CZK,kscm
-2021-09-27,25000,Okamžitá úhrada,JUDr. Jozef Rozsár,7779524001,5500,Finanční dar,,610305,610305,CZK,kscm
-2021-09-27,1e+05,Příchozí úhrada,SOUKROMY SVERENSKY F,299068519,300,VOLBY 2021,0,,,CZK,kscm
-2021-09-27,860,Příchozí úhrada,BRANÝ PETR,1170540231,100,DAR ÚV,308,510525328,33101,CZK,kscm
 2021-09-27,3060,Okamžitá úhrada,Havlíčková Monika,4071772073,800,finanční dar,,38103,,CZK,kscm
+2021-09-27,860,Příchozí úhrada,BRANÝ PETR,1170540231,100,DAR ÚV,308,510525328,33101,CZK,kscm
+2021-09-27,1e+05,Příchozí úhrada,SOUKROMY SVERENSKY F,299068519,300,VOLBY 2021,0,,,CZK,kscm
+2021-09-27,25000,Okamžitá úhrada,JUDr. Jozef Rozsár,7779524001,5500,Finanční dar,,610305,610305,CZK,kscm
 2021-09-25,42.5,Příchozí úhrada,KOTALA JAN,173998382,300,Jan Kotala - finanční dar KSČM,,,,CZK,kscm
 2021-09-24,7370,Okamžitá úhrada,Bc. Rudolf Carvan,1031027809,5500,Dar VIII/2021 Carvan,,551203,,CZK,kscm
 2021-09-24,-1,Odchozí úhrada,,2100203269,2010,Jeřábek Michal - chybný účel platby,0,209,,CZK,kscm
