@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-05,5000,Okamžitá příchozí platba,Marie Čapková,Dar pro Pardubice,,1888888,,Marie Čapková,trikolora
+2021-10-05,1000,Okamžitá příchozí platba,Zahradník Václav,DAR Václav Zahradník,0,,,Zahradník Václav,trikolora
+2021-10-05,100,Okamžitá příchozí platba,Pavla Grigorová,DAR příspěvek RP,,1000738,,Pavla Grigorová,trikolora
+2021-10-05,500,Okamžitá příchozí platba,Vladivoj Rychlý,DAR,,123456,,Vladivoj Rychlý,trikolora
+2021-10-05,500,Bezhotovostní příjem,MATĚJŮ JAN,DAR,0,234567,0,MATĚJŮ JAN,trikolora
+2021-10-05,100,Okamžitá příchozí platba,Vronka Lukáš,DAR příspěvek RP,0,6001341,,Vronka Lukáš,trikolora
+2021-10-05,1000,Platba převodem uvnitř banky,"Buřičová Skácelová, Zuzana",DAR Zuzana Buřičová,,11000025,,DAR Zuzana Buřičová,trikolora
+2021-10-05,500,Bezhotovostní příjem,BENESOVA ZDENKA,"DAR Zdenka Benesova, 26.1.1947",,9000440,,BENESOVA ZDENKA,trikolora
+2021-10-05,1000,Bezhotovostní příjem,Petra Gréková,Dar - Petra Gréková,,234567,,Petra Gréková,trikolora
 2021-10-05,100,Bezhotovostní příjem,Ing.Němec Miloš,"DAR, Miloš Němec",0,,,Ing.Němec Miloš,trikolora
 2021-10-05,100,Bezhotovostní příjem,Ing.Pozler Petr,Dar příspěvek RP,0,5000382,,Ing.Pozler Petr,trikolora
 2021-10-05,500,Bezhotovostní příjem,NAJVIRT OLDRICH,DAR Oldrich Najvirt,,123456,,NAJVIRT OLDRICH,trikolora

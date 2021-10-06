@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,-24200,Karetní transakce,,"Nákup: FACEBK 9QATD9BKK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK 9QATD9BKK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  24200.00 CZK",zeleni
+2021-10-05,-20000,Bezhotovostní platba,,FA 2021023 - správa sociálních sítí a strategie,,2021023,,SZ - Matěj Fišer,zeleni
+2021-10-05,-1260,Bezhotovostní platba,,FA FVK-96/2021 - výlep plakátů,,115596,42,ÚLK - Kabelová televize Kadaň,zeleni
+2021-10-05,-5000,Platba převodem uvnitř banky,,FA 2021-02 - tvorba obsahu na sociální sítě,,202102,,SZ - Lucie Kotvalová,zeleni
+2021-10-05,-968,Bezhotovostní platba,,FA MC5112768 - semínka,8,5112768,64,JMK - COMPUTER MCL Brno,zeleni
+2021-10-05,-69,Bezhotovostní platba,,Příkaz k úhradě - daň DPH za FB,,409740,80,MSK - Finanční úřad,zeleni
+2021-10-05,-5000,Platba převodem uvnitř banky,,FA 121-004 - pronájem prostor,,121004,,"SZ - ZeMě, spolek",zeleni
+2021-10-05,1260,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,115596,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-05,968,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,5112768,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-05,-24200,Karetní transakce,,"Nákup: FACEBK 6RXJE8BJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK 6RXJE8BJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  24200.00 CZK",zeleni
 2021-10-04,-15000,Bezhotovostní platba,,FA 02_21 - poradenské služby PR,,221,,SZ - Petra Koutská Schwarzová,zeleni
 2021-10-04,-3312,Platba převodem uvnitř banky,,FA 1210538 - letáky A5,,1210538,20,STČ - Studio STKI s. r. o.,zeleni

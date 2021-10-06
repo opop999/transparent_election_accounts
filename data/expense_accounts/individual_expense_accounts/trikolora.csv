@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.10.2021, částka  15000.00 CZK",trikolora
+2021-10-05,-9075,Bezhotovostní platba,,platba za systém CRM databáze - centrála,308,202100082,,platba za systém CRM databáze - centrála,trikolora
+2021-10-05,-484,Bezhotovostní platba,,doplatek za výrobu plachty a doprava - Praha,308,21210032,,doplatek za výrobu plachty a doprava - Praha,trikolora
+2021-10-05,-3452.13,Bezhotovostní platba,,platba za technické a organizační zabezpečení koncertu - Vysočina,308,20210073,,platba za technické a organizační zabezpečení koncertu - Vysočina,trikolora
+2021-10-05,-9123,Bezhotovostní platba,,tisk plakátů A1 montáž a demontáž pronájem - Ústecký kraj,308,210339,,tisk plakátů A1 montáž a demontáž pronájem - Ústecký kraj,trikolora
+2021-10-05,-2169.53,Bezhotovostní platba,,výroba samolepky PET-60446 - Olomoucký kraj,308,11216240,,výroba samolepky PET-60446 - Olomoucký kraj,trikolora
+2021-10-05,-1000,Bezhotovostní platba,,Pronájem reklamní plochy - Moravskoslezský kraj,308,8288909,,Pronájem reklamní plochy - Moravskoslezský kraj,trikolora
+2021-10-05,-7567,Platba převodem uvnitř banky,,tisk a výroba bannerů - Moravskoslezský kraj,308,18103260,,tisk a výroba bannerů - Moravskoslezský kraj,trikolora
+2021-10-05,-7260,Bezhotovostní platba,,pronájem billboardové plochy - Moravskoslezský kraj,308,20210030,,pronájem billboardové plochy - Moravskoslezský kraj,trikolora
+2021-10-05,-445,Platba převodem uvnitř banky,,výroba 1ks litého banneru - Moravskoslezský kraj,308,218103270,,výroba 1ks litého banneru - Moravskoslezský kraj,trikolora
+2021-10-05,-19208.75,Bezhotovostní platba,,výroba plakátů a tisk letáků -  Moravskoslezský kraj,308,21283,,výroba plakátů a tisk letáků -  Moravskoslezský kraj,trikolora
+2021-10-05,-5000,Bezhotovostní platba,,výroba a tisk bannerů - Moravskoslezský kraj,308,2021089,,výroba a tisk bannerů - Moravskoslezský kraj,trikolora
+2021-10-05,-5000,Bezhotovostní platba,,výroba a tisk bannerů - Moravskoslezský kraj,308,2021090,,177888228,trikolora
+2021-10-05,-1482,Platba převodem uvnitř banky,,výroba litých bannerů - Moravskoslezský kraj,308,218103355,,výroba litých bannerů - Moravskoslezský kraj,trikolora
+2021-10-05,-6776,Bezhotovostní platba,,výroba a tisk letáků A - Moravskoslezský kraj,308,21290,,výroba a tisk letáků A - Moravskoslezský kraj,trikolora
+2021-10-05,-4840,Bezhotovostní platba,,výroba a střih studiového videa a lídrem MSK - Moravskoslezský kraj,308,21057,,výroba a střih studiového videa a lídrem MSK - Moravskoslezský kraj,trikolora
+2021-10-05,-5458,Platba převodem uvnitř banky,,výroba a tisk PVC bannerů - vysočina,308,20219143,,výroba a tisk PVC bannerů - vysočina,trikolora
+2021-10-05,-2442,Platba převodem uvnitř banky,,výroba a tisk PVC bannerů - Jihočeský kraj,308,20218629,,výroba a tisk PVC bannerů - Jihočeský kraj,trikolora
+2021-10-05,-2779,Platba převodem uvnitř banky,,výroba a tisk PVC Bannerů - Jihočeský kraj,,20218717,,výroba a tisk PVC Bannerů - Jihočeský kraj,trikolora
+2021-10-05,-4666,Platba převodem uvnitř banky,,výroba a tisk PVC Bannerů - Karlovarský kraj,308,20218274,,výroba a tisk PVC Bannerů - Karlovarský kraj,trikolora
+2021-10-05,-877.25,Bezhotovostní platba,,platba za nákup Helia do balonků - Královéhradecký kraj,308,4226582625,,platba za nákup Helia do balonků - Královéhradecký kraj,trikolora
+2021-10-05,-1222,Bezhotovostní platba,,zajištěn í a platba odběru elektrické energie Kutná Hora - Středočeský kraj,308,242100341,,zajištěn í a platba odběru elektrické energie Kutná Hora - Středočeský kraj,trikolora
+2021-10-05,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 4.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 4.10.2021, částka  15000.00 CZK",trikolora
 2021-10-05,-13000,Karetní transakce,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 4.10.2021, částka  13000.00 CZK",,6981,,"Nákup: SEZNAM.CZ,  ul.Radlicka 3294/10, Praha 5 - Smi, 150 00, CZE, dne 4.10.2021, částka  13000.00 CZK",trikolora
 2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK 6YYU38XZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK 6YYU38XZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",trikolora
 2021-10-04,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 3.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 3.10.2021, částka  15000.00 CZK",trikolora

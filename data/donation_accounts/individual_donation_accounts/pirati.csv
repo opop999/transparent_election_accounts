@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,1000,Platba převodem uvnitř banky,"Kolman, Jindřich",,,44015578,193000,,pirati
+2021-10-06,100,Bezhotovostní příjem,MÁCHA LUDĚK,SYMBOLICKÁ PODPORA,0,86071,0,MÁCHA LUDĚK,pirati
+2021-10-06,150,Platba převodem uvnitř banky,"Bc. Zeman, Radek",,,44005152,1,,pirati
+2021-10-05,5000,Okamžitá příchozí platba,Hegenbart Jan,DAR 44006336/193000,0,44006336,193000,Hegenbart Jan,pirati
+2021-10-05,-14980000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
+2021-10-05,14900000,Bezhotovostní příjem,MF,,6418,180152021,0,MF,pirati
+2021-10-05,200,Bezhotovostní příjem,Martin Budař,,0,82392,190000,Martin Budař,pirati
+2021-10-05,-40,Okamžitá odchozí platba,,Vrácené dary Petr Tykvart - nedostatečná identifikace dárce,,,,Vrácené dary Petr Tykvart - nedostatečná identifikace dárce,pirati
+2021-10-05,1000,Bezhotovostní příjem,Miroslav Jaroš,,,86627,1,Miroslav Jaroš,pirati
+2021-10-05,400,Bezhotovostní příjem,Jakub Tichý,,,44015695,110404,Jakub Tichý,pirati
+2021-10-05,200,Bezhotovostní příjem,BLAHNÍK ONDŘEJ,,,84719,190000,BLAHNÍK ONDŘEJ,pirati
+2021-10-05,13959.08,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1680013985,20211004,Global Payments s.r.,pirati
+2021-10-05,200,Bezhotovostní příjem,MORAVOVA ALENA,,,84555,1,MORAVOVA ALENA,pirati
+2021-10-05,500,Bezhotovostní příjem,ZAMOROVA JANA,,,1,,ZAMOROVA JANA,pirati
 2021-10-05,200,Bezhotovostní příjem,Krátký Jiří,"Jiří Krátký, 20.11.1964, Högerova 1098/9, 15200Praha 5, účel MS Praha5",0,,110105,Krátký Jiří,pirati
 2021-10-05,200,Bezhotovostní příjem,TECL LUKÁŠ,,0,44004864,0,TECL LUKÁŠ,pirati
 2021-10-05,992,Bezhotovostní příjem,PAYNOVATIO A.S.,SETTLEMENT setmg6z6w77e,0,0,0,PAYNOVATIO A.S.,pirati

@@ -1,4 +1,25 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,-2250,Bezhotovostní platba,,,378,2040020151,2200,,ods_kdu-csl_top09
+2021-10-05,-2540,Bezhotovostní platba,,,308,2021029,1114,"1114-David Trllo, reklama na FBC",ods_kdu-csl_top09
+2021-10-05,-176,Bezhotovostní platba,,,308,21000132,1114,"1114-Město Vrbno podPradědem, výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-2061.8,Bezhotovostní platba,,,308,2120210276,1114,"1114-Technické služby města Vítkova, výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-1800,Bezhotovostní platba,,,308,4288,3004,"1114-Vladimír Jalůvka, výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-395.67,Bezhotovostní platba,,,308,181013621,3000,"1114-Technické služby města Krnov, výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-290.4,Bezhotovostní platba,,,308,202100415,1114,"1114-Město Protivín , výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-1500,Bezhotovostní platba,,,308,2021036,11114,"1114-Městské kulturní středisko Kojetín, výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-363,Bezhotovostní platba,,,308,1196288,2200,"2200-Technické služby Benešov , výlep plakátů",ods_kdu-csl_top09
+2021-10-05,-3025,Bezhotovostní platba,,,308,312021,2200,"2200-Michal Kopecký , grafická příprava a tisk materiálů",ods_kdu-csl_top09
+2021-10-05,-1287,Bezhotovostní platba,,,308,2202111730,2200,"2200-Technické služby města Příbrami, el. energie",ods_kdu-csl_top09
+2021-10-05,-900,Bezhotovostní platba,,,378,2003001460,3300,"3300-Město Kunovice, poplatek za užívání veř. prostoru",ods_kdu-csl_top09
+2021-10-05,-3652,Bezhotovostní platba,,,378,1970000685,3300,"3300-Město Uherský Brod, poplatek za zábor",ods_kdu-csl_top09
+2021-10-05,-3872,Bezhotovostní platba,,,308,210103569,3300,"3300-HADAČ a ZAPLETAL s.r.o., občerstvení",ods_kdu-csl_top09
+2021-10-05,-26257,Bezhotovostní platba,,,308,11000867,3300,"3300-IMAGE UP s.r.o., polepy vol. auta",ods_kdu-csl_top09
+2021-10-05,-2413.95,Bezhotovostní platba,,,308,2117022711,3300,"3300-VLTAVA LABE MEDIA a.s., tištěná inzerce",ods_kdu-csl_top09
+2021-10-05,-18150,Bezhotovostní platba,,,308,21190298,2500,"2500-W & P EURONOVA s.r.o., pronájem ploch -autobusy",ods_kdu-csl_top09
+2021-10-05,-9070,Okamžitá odchozí platba,,,308,20210338,2700,"2700-Pavel Charousek, inzerce ve zpravodaji",ods_kdu-csl_top09
+2021-10-05,-254100,Bezhotovostní platba,,,308,2021225,1114,"1114-COOT CZ s.r.o., přepravní služby ( auta , BUS)",ods_kdu-csl_top09
+2021-10-05,-560230,Bezhotovostní platba,,,308,210100167,1114,"1114-Dream PRO s.r.o., zahájení Slovanský dům, technika, pronájem občerstvení",ods_kdu-csl_top09
+2021-10-05,-284350,Bezhotovostní platba,,,308,210100127,1114,"1114-Dream Pro, s.r.o., personální zajištění vol. akcí",ods_kdu-csl_top09
 2021-10-04,-10000,Okamžitá odchozí platba,,,558,2210013,2100,"2400-Quo-SB s.r.o., reklama na FBC",ods_kdu-csl_top09
 2021-10-04,-10000,Okamžitá odchozí platba,,,0,2210012,2400,"2100-Quo-SB s.r.o., reklama na FBC",ods_kdu-csl_top09
 2021-10-04,-2170.73,Bezhotovostní platba,,,378,101624031,,"1114-Jana Žáková, reklama na FBC",ods_kdu-csl_top09
