@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK PGT3L732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK PGT3L732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",trikolora
+2021-10-06,7e+05,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora
 2021-10-06,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.10.2021, částka  15000.00 CZK",trikolora
 2021-10-05,-9075,Bezhotovostní platba,,platba za systém CRM databáze - centrála,308,202100082,,platba za systém CRM databáze - centrála,trikolora
 2021-10-05,-484,Bezhotovostní platba,,doplatek za výrobu plachty a doprava - Praha,308,21210032,,doplatek za výrobu plachty a doprava - Praha,trikolora

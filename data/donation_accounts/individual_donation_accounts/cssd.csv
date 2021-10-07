@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,50000,Bezhotovostní příjem,KRAK ANTONIN,"Dar volby PSPCR 2021, AntoninKrak, 30.08.1966",,30081966,,KRAK ANTONIN,cssd
 2021-10-05,-80000,Platba převodem uvnitř banky,,"převod daru Tomáš Hanzel, na volby PS PČR, Moravskoslezský kraj",,,,"převod daru Tomáš Hanzel, na volby PS PČR, Moravskoslezský kraj",cssd
 2021-10-05,-1e+05,Platba převodem uvnitř banky,,"převod daru Roman Onderka, na volby PS PČR, Jihomoravský kraj",,,,"převod daru Roman Onderka, na volby PS PČR, Jihomoravský kraj",cssd
 2021-10-04,1e+05,Okamžitá příchozí platba,Roman Onderka,"Dar volby PSP ČR 2021,Roman Onderka 11.11.1965",,11111965,,Roman Onderka,cssd

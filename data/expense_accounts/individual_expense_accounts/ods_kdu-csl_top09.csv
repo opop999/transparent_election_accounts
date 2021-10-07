@@ -1,5 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-06,-2250,Bezhotovostní platba,,,378,2040020151,2200,,ods_kdu-csl_top09
+2021-10-06,-96800,Bezhotovostní platba,,,308,211600023,1114,"1114-Katolický týdeník s.r.o. , plošný inzerát",ods_kdu-csl_top09
+2021-10-06,-484000,Bezhotovostní platba,,,308,21130,1114,"1114-Ydeal s.r.o., inzerce v tištěných médiích",ods_kdu-csl_top09
+2021-10-06,-2000,Bezhotovostní platba,,,378,525047,2800,"2800-Věra Šenková , volební auto PHM",ods_kdu-csl_top09
+2021-10-06,-3710,Bezhotovostní platba,,,378,610912,2800,"2800-Věra Šenková , volební auto PHM",ods_kdu-csl_top09
+2021-10-06,-11597.85,Platba převodem uvnitř banky,,,308,20210525,2800,"2800-R36.cz s.r.o., výroba a instalace Atyp plachet",ods_kdu-csl_top09
+2021-10-06,-600,Bezhotovostní platba,,,378,5920170047,3200,"3200-Město Rosice , poplatek za zábor",ods_kdu-csl_top09
+2021-10-06,-1610,Bezhotovostní platba,,,378,11,3200,"3200-Zuzana Kupčíková , PHM vol. auto",ods_kdu-csl_top09
+2021-10-06,-48400,Bezhotovostní platba,,,308,1210340,3200,"3200-QUO - SB s.r.o., zajištění provozu atrakce na vol.akcích",ods_kdu-csl_top09
+2021-10-06,-26015,Bezhotovostní platba,,,308,1210339,3200,"3200-QUO - SB s.r.o., zajištění provozu atrakce na vol.akcích",ods_kdu-csl_top09
+2021-10-06,-10000,Bezhotovostní platba,,,308,1210338,3200,"3200-QUO - SB s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-10-06,-600,Bezhotovostní platba,,,308,2021258,3200,"3200-Město Modřice , poplatek za zábor",ods_kdu-csl_top09
+2021-10-06,-2e+06,Bezhotovostní platba,,,308,21127,1114,"1114-Ydeal s.r.o., on line kampaň - bannery, videa",ods_kdu-csl_top09
+2021-10-06,-2250,Bezhotovostní platba,,,378,2040020151,2200,"2200-Statutární město Mladá Boleslav, poplatek za užívání veř. prostranství",ods_kdu-csl_top09
 2021-10-05,-2540,Bezhotovostní platba,,,308,2021029,1114,"1114-David Trllo, reklama na FBC",ods_kdu-csl_top09
 2021-10-05,-176,Bezhotovostní platba,,,308,21000132,1114,"1114-Město Vrbno podPradědem, výlep plakátů",ods_kdu-csl_top09
 2021-10-05,-2061.8,Bezhotovostní platba,,,308,2120210276,1114,"1114-Technické služby města Vítkova, výlep plakátů",ods_kdu-csl_top09
@@ -163,6 +175,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-29,-1230.7,Bezhotovostní platba,,,308,8,2300,"2300-Jan Pešek , PHM vol. auto",ods_kdu-csl_top09
 2021-09-29,-2274,Bezhotovostní platba,,,308,666,2300,"2300-Iveta Uhlíková, cestovné",ods_kdu-csl_top09
 2021-09-29,-4000,Bezhotovostní platba,,,308,452021,2300,"2300-Ozvěny Jihlzápadní moravy, inzerce Dačické ozvěny",ods_kdu-csl_top09
+2021-10-06,-2250,Bezhotovostní platba,,,378,2040020151,2200,,ods_kdu-csl_top09
 2021-09-27,297,Bezhotovostní příjem,KOSTKA KRASNA LIPA,vratka-vylep plak.-ODS,0,2100200500,0,1114-KOSTKA KRASNA LIPA,ods_kdu-csl_top09
 2021-09-24,-6012,Bezhotovostní platba,,,378,5092021,3100,"3100-Hrubanová Michaela , poplatky za zábory",ods_kdu-csl_top09
 2021-09-24,-3000,Bezhotovostní platba,,,308,5002110021,3100,"3100-Národní památkový ústav , pronájem plochy, na LKIno",ods_kdu-csl_top09

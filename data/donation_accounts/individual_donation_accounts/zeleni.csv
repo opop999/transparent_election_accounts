@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,300,Bezhotovostní příjem,Černý Stanislav,Dar pro ZO České Budějovice,0,9002529,,Černý Stanislav,zeleni
+2021-10-07,300,Bezhotovostní příjem,BRADY PAVLA,DAR PRO ZELENÉ,0,9002700,0,BRADY PAVLA,zeleni
+2021-10-06,1000,Okamžitá příchozí platba,Hana Brdková,Dar,,9003360,,Hana Brdková,zeleni
+2021-10-06,5000,Okamžitá příchozí platba,Ing.Zubatý Milan,dar,0,9003359,,Ing.Zubatý Milan,zeleni
+2021-10-06,100,Bezhotovostní příjem,LUKAS NOVAK,DAR - ZELENÍ PRAHA 6,,9001127,,LUKAS NOVAK,zeleni
+2021-10-06,85,Bezhotovostní příjem,PERLIK PAVEL,Dar SZ - Perlik,,9002612,,PERLIK PAVEL,zeleni
+2021-10-06,1000,Bezhotovostní příjem,SNOPEK JAN,dar,,9003357,,SNOPEK JAN,zeleni
 2021-10-05,4000,Okamžitá příchozí platba,Filip Jirouš,Dar pro ZO na Praze 3.,,1301028,,Filip Jirouš,zeleni
 2021-10-05,2000,Platba převodem uvnitř banky,"ROH družstevní kavárna, družstvo",dar,,9003339,,dar,zeleni
 2021-10-05,-1e+05,Platba převodem uvnitř banky,,převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni

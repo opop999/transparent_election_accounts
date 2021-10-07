@@ -1,4 +1,36 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK 8PYTB77LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 8PYTB77LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",cssd
+2021-10-07,-500,Karetní transakce,,"Nákup: FACEBK VFLJU7PPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  500.00 CZK",,8665,,"Nákup: FACEBK VFLJU7PPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  500.00 CZK",cssd
+2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK F2D7D7PLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK F2D7D7PLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",cssd
+2021-10-07,-40,Karetní transakce,,"Nákup: FACEBK *452F793ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",,810,,"Nákup: FACEBK *452F793ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",cssd
+2021-10-07,-0.03,Karetní transakce,,"Nákup: FACEBK *PZ4U67XYD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  0.03 CZK",,810,,"Nákup: FACEBK *PZ4U67XYD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  0.03 CZK",cssd
+2021-10-07,-40,Karetní transakce,,"Nákup: FACEBK *J2K7N8TYD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",,810,,"Nákup: FACEBK *J2K7N8TYD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",cssd
+2021-10-07,-40,Karetní transakce,,"Nákup: FACEBK *EPHHC7FZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",,810,,"Nákup: FACEBK *EPHHC7FZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",cssd
+2021-10-07,-40,Karetní transakce,,"Nákup: FACEBK *B3QE793ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",,810,,"Nákup: FACEBK *B3QE793ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 6.10.2021, částka  40.00 CZK",cssd
+2021-10-06,-299995.3,Platba převodem uvnitř banky,,ČSSD,308,210100097,,"SACHR design s.r.o., tisky, grafické práce, Zlínský kraj",cssd
+2021-10-06,-790,Bezhotovostní platba,,ČSSD,308,2108000123,,"MKS Tachov, výlep plakátů, Plzeňský kraj",cssd
+2021-10-06,-15000,Bezhotovostní platba,,ČSSD,308,210331,,"Znojpres a.s., inzerce, Jihomoravský kraj",cssd
+2021-10-06,-13915,Bezhotovostní platba,,ČSSD,308,20213106,,"JIROUT REKLAMNÍ AGENTURA s.r.o., reklamní předměty, Olomoucký kraj",cssd
+2021-10-06,1000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR,cssd
+2021-10-06,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Vysočina na volby PS PČR,,,,převod z KP Vysočina na volby PS PČR,cssd
+2021-10-06,15000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-10-06,-169.4,Bezhotovostní platba,,ČSSD,308,2210000203,,"Město Kaplice, výlep plakátů, Jihočeský kraj",cssd
+2021-10-06,-8192,Bezhotovostní platba,,ČSSD,308,4121006326,,"Veletrhy Brno, a.s., služby k akci, ústředí",cssd
+2021-10-06,-3100,Bezhotovostní platba,,ČSSD,308,852021,,"Jana Macková, inzerce, Středočeský kraj",cssd
+2021-10-06,-2481,Platba převodem uvnitř banky,,ČSSD,308,2021010,,"Jaroslava Wildnerová, reklamní předměty, Liberecký kraj",cssd
+2021-10-06,-12100,Bezhotovostní platba,,ČSSD,308,1102021,,"Petr Čihák, reklamní propisky, Pardubický kraj",cssd
+2021-10-06,-348.5,Bezhotovostní platba,,ČSSD,308,21043,,"MKS Holýšov, p.o., výlep plakátů, Plzeňský kraj",cssd
+2021-10-06,-2500,Bezhotovostní platba,,ČSSD,308,202102,,"Ja Ja BAND, Jaroslav Pospíšil, hudební produkce, Středočeský kraj",cssd
+2021-10-06,-13565,Platba převodem uvnitř banky,,ČSSD,308,20,,"KAMIMAR s.r.o., občerstvení na kampani, Ústecký kraj",cssd
+2021-10-06,-133100,Bezhotovostní platba,,ČSSD,308,21210145,,"Black Consulting s.r.o., pronájem hyperkostek,  Pardubický kraj",cssd
+2021-10-06,-10601,Bezhotovostní platba,,ČSSD,308,9,,"Lucie Strnadová, drobný nákup, výlepy, hudba, parkovné, Ústecký kraj",cssd
+2021-10-06,5e+05,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-10-06,-20000,Karetní transakce,,"Nákup: FACEBK 66EML7KLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK 66EML7KLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",cssd
+2021-10-06,-20000,Karetní transakce,,"Nákup: FACEBK 5HG2N8K7M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,4829,,"Nákup: FACEBK 5HG2N8K7M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",cssd
+2021-10-06,-20000,Karetní transakce,,"Nákup: FACEBK N9WLT7TLF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,2831,,"Nákup: FACEBK N9WLT7TLF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",cssd
+2021-10-06,-15000,Karetní transakce,,"Nákup: FACEBK AQRHD57Q92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  15000.00 CZK",,1861,,"Nákup: FACEBK AQRHD57Q92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  15000.00 CZK",cssd
+2021-10-06,-1000,Karetní transakce,,"Výběr z bankomatu: FIO BANKA, NÁMĚSTÍ GENERÁLA PÍKY 2703/27, PLZEŇ, 326 00, CZ, dne 6.10.2021, částka  1000.00 CZK",,9502,,"Výběr z bankomatu: FIO BANKA, NÁMĚSTÍ GENERÁLA PÍKY 2703/27, PLZEŇ, 326 00, CZ, dne 6.10.2021, částka  1000.00 CZK",cssd
+2021-10-06,500,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Liberecký kraj na volby PS PČR,,,,převod z KP Liberecký kraj na volby PS PČR,cssd
 2021-10-06,-417.2,Karetní transakce,,"Nákup: Lidl dekuje za nakup,  Lidl dekuje za nakup, Jihlava, 58600, CZE, dne 5.10.2021, částka  417.20 CZK",,3429,,"Nákup: Lidl dekuje za nakup,  Lidl dekuje za nakup, Jihlava, 58600, CZE, dne 5.10.2021, částka  417.20 CZK",cssd
 2021-10-06,-20000,Karetní transakce,,"Nákup: FACEBK MECWL8XKW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  20000.00 CZK",,5794,,"Nákup: FACEBK MECWL8XKW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  20000.00 CZK",cssd
 2021-10-06,-500,Karetní transakce,,"Nákup: FACEBK ES6MJ8TPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  500.00 CZK",,8665,,"Nákup: FACEBK ES6MJ8TPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  500.00 CZK",cssd

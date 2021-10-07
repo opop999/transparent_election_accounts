@@ -1,4 +1,64 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK XR2KL8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK XR2KL8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",spd
+2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK HFZMC7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK HFZMC7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",spd
+2021-10-06,-19320,Platba převodem uvnitř banky,,"Štěpán Žďárský, rekl. banner",308,1210079,300,"Štěpán Žďárský, rekl. banner",spd
+2021-10-06,-472989,Bezhotovostní platba,,"BigMedia, spol. s r.o.,tisk plakátů",308,4212101862,100,"BigMedia, spol. s r.o.,tisk plakátů",spd
+2021-10-06,-65376.3,Bezhotovostní platba,,"MetroZoom s.r.o., tisk plakátů",308,1212100338,100,"MetroZoom s.r.o., tisk plakátů",spd
+2021-10-06,-1840,Bezhotovostní platba,,"Marie Pošarová, plakáty",308,10192,1000,"Marie Pošarová, plakáty",spd
+2021-10-06,-12403,Bezhotovostní platba,,"Michal Doleček, výlepní plochy",308,102021,800,"Michal Doleček, výlepní plochy",spd
+2021-10-06,-30000,Bezhotovostní platba,,"Lukáš Petřík, propagační texty, PR",308,462021,600,"Lukáš Petřík, propagační texty, PR",spd
+2021-10-06,-31000,Platba převodem uvnitř banky,,"Markéta Tomášková, výroba plachet",308,20210011,700,"Markéta Tomášková, výroba plachet",spd
+2021-10-06,-1056.02,Bezhotovostní platba,,"TS Otrokovice s.r.o., výlep plakátů",308,551270,1400,"TS Otrokovice s.r.o., výlep plakátů",spd
+2021-10-06,-605,Bezhotovostní platba,,"HRATES a.s., osvětlení mítink",308,1641000635,1400,"HRATES a.s., osvětlení mítink",spd
+2021-10-06,-12536,Bezhotovostní platba,,"Pavel Choutka, tisk plachet",308,2021162,1200,"Pavel Choutka, tisk plachet",spd
+2021-10-06,-12342,Bezhotovostní platba,,"JIPRINT, s.r.o., letáky, plakáty",308,2210834,1300,"JIPRINT, s.r.o., letáky, plakáty",spd
+2021-10-06,-24200,Bezhotovostní platba,,"W & P EURONOVA s.r.o, reklama",308,21230226,400,"W & P EURONOVA s.r.o, reklama",spd
+2021-10-06,-2840,Bezhotovostní platba,,"TJ Poličná,pronáj. areálu na mítink",308,22021,1400,"TJ Poličná,pronáj. areálu na mítink",spd
+2021-10-06,-4530,Platba převodem uvnitř banky,,"Markéta Tomášková, samolepky busy",308,20210010,700,"Markéta Tomášková, samolepky busy",spd
+2021-10-06,-6076.62,Platba převodem uvnitř banky,,"Lenka Malcharová, tisk plakátů",308,210421,1200,"Lenka Malcharová, tisk plakátů",spd
+2021-10-06,-68594.9,Bezhotovostní platba,,"VLTAVÍN PRINT v.o.s., plakáty A2",308,2021474,100,"VLTAVÍN PRINT v.o.s., plakáty A2",spd
+2021-10-06,-44044,Bezhotovostní platba,,"Ing. Jiří Fischer, plošná inzerce",308,116211,1100,"Ing. Jiří Fischer, plošná inzerce",spd
+2021-10-06,-73273.4,Bezhotovostní platba,,"J. Mastík,grafické, produkční práce",308,36,800,"J. Mastík,grafické, produkční práce",spd
+2021-10-06,-128018,Bezhotovostní platba,,"PULARY, s.r.o.,el. bannery, inzerce",308,80821,700,"PULARY, s.r.o.,el. bannery, inzerce",spd
+2021-10-06,-6050,Bezhotovostní platba,,"Lubomír Vosáhlo,pronájem LED tabule",308,1001438,1100,"Lubomír Vosáhlo,pronájem LED tabule",spd
+2021-10-06,-14913.25,Bezhotovostní platba,,"Ivo Hanák, horizonty",308,210111,1400,"Ivo Hanák, horizonty",spd
+2021-10-06,-11797.5,Bezhotovostní platba,,"Ing. Jiří Fischer, plošná inzerce",308,1012527,1100,"Ing. Jiří Fischer, plošná inzerce",spd
+2021-10-06,-8833,Bezhotovostní platba,,"VLTAVÍN PRINT v.o.s., vizitky",308,2021475,200,"VLTAVÍN PRINT v.o.s., vizitky",spd
+2021-10-06,-12632.4,Bezhotovostní platba,,"Ivo Hanák, pronájem horizontu",308,210112,800,"Ivo Hanák, pronájem horizontu",spd
+2021-10-06,-6757,Bezhotovostní platba,,"MgA. D. Šenkeřík, polepy autobusů",308,792021,1400,"MgA. D. Šenkeřík, polepy autobusů",spd
+2021-10-06,-86757,Bezhotovostní platba,,"MD Vision s.r.o., grafické práce",308,21217061,100,"MD Vision s.r.o., grafické práce",spd
+2021-10-06,-5445,Bezhotovostní platba,,"MD Vision s.r.o., grafické práce",308,21217060,700,"MD Vision s.r.o., grafické práce",spd
+2021-10-06,-17424,Bezhotovostní platba,,"MD Vision s.r.o., grafické práce",308,21217055,1000,"MD Vision s.r.o., grafické práce",spd
+2021-10-06,-13068,Bezhotovostní platba,,"MD Vision s.r.o., grafické práce",308,21217057,900,"MD Vision s.r.o., grafické práce",spd
+2021-10-06,-28858.5,Platba převodem uvnitř banky,,"PRINT-SHOP.cz, s.r.o., bannery",308,210951,900,"PRINT-SHOP.cz, s.r.o., bannery",spd
+2021-10-06,-13915,Platba převodem uvnitř banky,,"Dachmedia s.r.o., tisk plakátů",308,20210096,1400,"Dachmedia s.r.o., tisk plakátů",spd
+2021-10-06,-14000,Bezhotovostní platba,,"Miloslav Filip, výlep plakátů A2",308,5,200,"Miloslav Filip, výlep plakátů A2",spd
+2021-10-06,-13068,Bezhotovostní platba,,"MD Vision s.r.o., grafické práce",308,21217056,200,"MD Vision s.r.o., grafické práce",spd
+2021-10-06,-630894,Bezhotovostní platba,,"MD Vision s.r.o., reklamní předměty",308,21217051,100,"MD Vision s.r.o., reklamní předměty",spd
+2021-10-06,-2375,Bezhotovostní platba,,"Kabelová televize Kadaň, výlep",308,115578,1200,"Kabelová televize Kadaň, výlep",spd
+2021-10-06,-3570,Bezhotovostní platba,,"Josef Lopata, inzerce v tisku",308,36721,1100,"Josef Lopata, inzerce v tisku",spd
+2021-10-06,-1200,Bezhotovostní platba,,"P. Sedláčková, pohonné hmoty",308,1232109141,1000,"P. Sedláčková, pohonné hmoty",spd
+2021-10-06,-2904,Platba převodem uvnitř banky,,"PROTISK, s.r.o., tisk samolepek",308,2021313,500,"PROTISK, s.r.o., tisk samolepek",spd
+2021-10-06,-15000,Platba převodem uvnitř banky,,"SP-Solutions s.r.o.,bezupeč. služby",308,2021023,100,"SP-Solutions s.r.o.,bezupeč. služby",spd
+2021-10-06,-84025,Bezhotovostní platba,,"ZDAR, a.s.,polepy autobusů, laviček",308,6011150238,1300,"ZDAR, a.s.,polepy autobusů, laviček",spd
+2021-10-06,-330,Bezhotovostní platba,,"SLUŽBY TELČ, spol. s r.o., výlep",308,2170100309,1300,"SLUŽBY TELČ, spol. s r.o., výlep",spd
+2021-10-06,-447.98,Bezhotovostní platba,,"TS Třešť, výlep plakátů",308,1416898,1300,"TS Třešť, výlep plakátů",spd
+2021-10-06,-4235,Bezhotovostní platba,,"RAILREKLAM, náhrada poškoz. banneru",308,2120578,100,"RAILREKLAM, náhrada poškoz. banneru",spd
+2021-10-06,-1080,Bezhotovostní platba,,"Město Brumov, výlep plakátů",308,221401,1400,"Město Brumov, výlep plakátů",spd
+2021-10-06,-1328025,Bezhotovostní platba,,"RENGL, s.r.o., tisk, výlep plakátů",308,10123170,100,"RENGL, s.r.o., tisk, výlep plakátů",spd
+2021-10-06,-4235,Bezhotovostní platba,,"RAILREKLAM, náhrada poškoz. banneru",308,2120582,100,"RAILREKLAM, náhrada poškoz. banneru",spd
+2021-10-06,-292820,Bezhotovostní platba,,"PULARY, s.r.o., PPC kampaň",308,50921,700,"PULARY, s.r.o., PPC kampaň",spd
+2021-10-06,-10406,Bezhotovostní platba,,"PULARY, s.r.o., letáky A5",308,60921,700,"PULARY, s.r.o., letáky A5",spd
+2021-10-06,-35755.5,Bezhotovostní platba,,"BARTH Reklamka a.s., polepy,plakáty",308,21211791,900,"BARTH Reklamka a.s., polepy,plakáty",spd
+2021-10-06,-581,Bezhotovostní platba,,"Jiří Novotný, výlep plakátů",308,5604982,1100,"Jiří Novotný, výlep plakátů",spd
+2021-10-06,-3840,Bezhotovostní platba,,"Přemysl Horák, polepy petič. stánků",308,20210082,800,"Přemysl Horák, polepy petič. stánků",spd
+2021-10-06,-12373,Bezhotovostní platba,,"Přemysl Horák, bannery",308,20210081,800,"Přemysl Horák, bannery",spd
+2021-10-06,-10865.8,Platba převodem uvnitř banky,,"PRINT-SHOP.cz, s.r.o., letáky",308,210932,900,"PRINT-SHOP.cz, s.r.o., letáky",spd
+2021-10-06,-18150,Bezhotovostní platba,,"VOGEL MED. INTER., s.r.o., inzerce",308,20210444,1000,"VOGEL MED. INTER., s.r.o., inzerce",spd
+2021-10-06,-27000,Bezhotovostní platba,,"Miloslav Filip, výlep plakátů",308,4,200,"Miloslav Filip, výlep plakátů",spd
+2021-10-06,-950,Bezhotovostní platba,,"Josef Müller, zasklení vitrýny",308,20210306,800,"Josef Müller, zasklení vitrýny",spd
+2021-10-06,4e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-06,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 5.10.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 5.10.2021, částka  15000.00 CZK",spd
 2021-10-06,-20000,Karetní transakce,,"Nákup: FACEBK C9DVB7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK C9DVB7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  20000.00 CZK",spd
 2021-10-05,-20000,Karetní transakce,,"Nákup: FACEBK K2Z4JAFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK K2Z4JAFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",spd
 2021-10-04,-20000,Karetní transakce,,"Nákup: FACEBK SUG9863Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK SUG9863Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",spd

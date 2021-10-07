@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-06,-1000,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
+2021-10-06,-20004.08,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce + úrok,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
 2021-10-05,9637500,Bezhotovostní příjem,MF,,6418,180152021,0,MF,spd
 2021-10-04,150,Okamžitá příchozí platba,Martin Trubka,"DAR, od MartinTrubka,Zborovská704,Protivín,8.9.1972",,,,Martin Trubka,spd
 2021-10-04,500,Okamžitá příchozí platba,Jindřich Záboj,Dar  Jindřich Záboj Kunštát 40  4.4.1962,,,,Jindřich Záboj,spd

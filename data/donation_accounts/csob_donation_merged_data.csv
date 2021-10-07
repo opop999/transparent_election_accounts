@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-07,5000,Příchozí úhrada,SILBER RADOMIR,131684641,300,SilberR dává dar,308,30081960,,CZK,kscm
+2021-10-06,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Je hanbou nasi zeme, ze vasezlocinecka strana stale existuje.Doufejme,ze po volbach alesponnezasedne ve",,,,CZK,kscm
 2021-10-05,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Doufam, ze vase letosni vyroci budevase posledni. Kupredu leva... dopropadliste dejin!",,,,CZK,kscm
 2021-10-05,1500,Okamžitá úhrada,Krejčová Marie,648562073,800,finanční dar,308,684003,,CZK,kscm
 2021-10-05,6687500,Příchozí úhrada,MF,19430011221001,710,,6418,180152021,0,CZK,kscm
@@ -22,11 +24,11 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-09-30,2550,Okamžitá úhrada,Ing.Šmíd Václav,41900013,800,"Šmíd Václav, Prostějov - finanční dar",,,37103,CZK,kscm
 2021-09-30,10000,Příchozí úhrada,Navrátil Jan,2108732181,2700,Finanční dar - Jan Navrátil,8,11255,29092021,CZK,kscm
 2021-09-29,2000,Příchozí úhrada,KUPCZAK RADEK,167845507,300,Mgr.Radek Kupczak - finanční dar,,38103,,CZK,kscm
-2021-09-29,25000,Příchozí úhrada,Ing.Poživilová Květu,146554153,800,K.Poživilová-fin.dar,0,,,CZK,kscm
-2021-09-29,30000,Okamžitá úhrada,Pojezný Ivo,452408103,800,Finanční dar,,,,CZK,kscm
-2021-09-29,637,Příchozí úhrada,ORSZULIK RADEK,159145375,300,Financni dar KSMC Radek Orszulik,,38103,,CZK,kscm
-2021-09-29,560,Příchozí úhrada,WIEWIÓRKA KAREL,193417350237,100,FIN. DAR KSČM KAREL WIEWIORKA,0,38103,,CZK,kscm
 2021-09-29,6914,Příchozí úhrada,JUDr.Všetečka Petr,142200083,800,"Petr Všetečka, Brno - finanční dar",0,,36202,CZK,kscm
+2021-09-29,560,Příchozí úhrada,WIEWIÓRKA KAREL,193417350237,100,FIN. DAR KSČM KAREL WIEWIORKA,0,38103,,CZK,kscm
+2021-09-29,637,Příchozí úhrada,ORSZULIK RADEK,159145375,300,Financni dar KSMC Radek Orszulik,,38103,,CZK,kscm
+2021-09-29,30000,Okamžitá úhrada,Pojezný Ivo,452408103,800,Finanční dar,,,,CZK,kscm
+2021-09-29,25000,Příchozí úhrada,Ing.Poživilová Květu,146554153,800,K.Poživilová-fin.dar,0,,,CZK,kscm
 2021-09-28,1693,Okamžitá úhrada,"Fikáčková, Markéta",2901396021,2010,Markéta Fikáčková- finanční dar,,38103,,CZK,kscm
 2021-09-27,20000,Příchozí úhrada,VOSTRA MILOSLAVA,103801767,300,Finanční  dar,,655526,,CZK,kscm
 2021-09-27,3060,Okamžitá úhrada,Havlíčková Monika,4071772073,800,finanční dar,,38103,,CZK,kscm

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-06,1000,Okamžitá příchozí platba,PETR RŮŽIČKA,,0,2113210019,,PETR RŮŽIČKA,ods
+2021-10-06,8000,Bezhotovostní příjem,ZUKALOVÁ VĚRA,"DAR, Vera Zukalova",0,3102210006,0,ZUKALOVÁ VĚRA,ods
 2021-10-05,-15060000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-10-05,-4207500,Platba převodem uvnitř banky,,"Splátka uvěru Fio banka, a.s.",,,,"Splátka uvěru Fio banka, a.s.",ods
 2021-10-05,21000,Bezhotovostní příjem,MAREK MARTIN,"DAR, Martin Marek",0,2113210020,0,MAREK MARTIN,ods

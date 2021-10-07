@@ -1,6 +1,23 @@
 id,date,amount,vs,ks,ss,note,entity_name
+001-07102021 1602 602009 195083,2021-10-07,-1550,1521100263,558,0,Odchozí platba - PYORD0000025696 MESTO KROMERIZ VELKE NAMESTI 115/1KROMERIZ ICO:00287351ZABOR,ano_2011
+001-07102021 1602 602019 107123,2021-10-07,-15000,2100007,558,0,Odchozí platba - PYORD0000025683 JAN KANA PRUSKA 307/6PUSTIMER ICO:07519575OBCERSTVENI,ano_2011
+120-20210906 295969926,2021-10-06,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011
+001-06102021 1602 602018 766741,2021-10-06,-35000,2091954,558,0,Odchozí platba - Kubec Vojtěch neidentifikovatelný plátce,ano_2011
+001-06102021 1602 602011 925663,2021-10-06,-1000,3020000021,558,0,Odchozí platba - PYORD0000025720 ING. IVANA KOZAKOVA TUCAPY 97HOLESOV DAT.NAR.:18.05.1991VYUCTOVANI KOZAK,ano_2011
 001-06102021 1602 602025 922623,2021-10-06,-2753,3020000018,558,0,Odchozí platba - PYORD0000025691 ONDREJ TRTILEK KOPRETINOVA 2656/2CESKE BUDEJOVICE DAT.NAR.:19.02.1993VYUCTOVANI TRTIL,ano_2011
+120-20211006 1595552182,2021-10-06,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
+361-06102021 1086 086151 102521,2021-10-06,0.01,0,0,0,Schánilová Karolína - Příchozí platba - Osobni majetkove problemy panapremiera stahuji nasi zemi hloubejia hloubeji do izolace. Ostuda!!!,ano_2011
 001-06102021 1602 602024 922613,2021-10-06,-801,3020000017,558,0,Odchozí platba - PYORD0000025690 ONDREJ TRTILEK KOPRETINOVA 2656/2CESKE BUDEJOVICE DAT.NAR.:19.02.1993VYUCTOVANI TRTIL,ano_2011
+120-20210907 295997762,2021-10-06,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji United Bakeries, Vod§anskou drůbež, Maso Planá, Hyza, Tatra, řepkový olej, Pikok. A přeji ti Andreji šťastnou cestu na hrad - Mírov",ano_2011
+001-06102021 1602 602020 766761,2021-10-06,-0.54,0,558,0,Odchozí platba - Paštika Karel neidentifikovatelný plátce úročení,ano_2011
+001-06102021 1602 602021 766771,2021-10-06,-60.89,2091954,558,0,Odchozí platba - Kubec Vojtěch neidentifikovatelný plátce úročení,ano_2011
+120-20211006 1595550347,2021-10-06,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
+361-06102021 1086 086142 501543,2021-10-06,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Čapí hnízdo, střet zájmů, zneužívání dotací, korupce, praní peněz, Pandora Papers? Bureš se vyznamenal víc než dost. Už nikdy víc!",ano_2011
+001-06102021 1602 602009 925643,2021-10-06,-2583.3,3020000026,558,0,Odchozí platba - PYORD0000025715 MARKETA NOWAKOVA CESKA 3HAVIROV DAT.NAR.:06.07.1981VYUCTOVANI NOWAK,ano_2011
+001-06102021 1602 602019 766751,2021-10-06,-500,0,558,0,Odchozí platba - Paštika Karel neidentifikovatelný plátce,ano_2011
+001-06102021 1602 602012 925673,2021-10-06,-3125,3020000023,558,0,Odchozí platba - PYORD0000025721 ING. IVANA KOZAKOVA TUCAPY 97HOLESOV DAT.NAR.:18.05.1991VYUCTOVANI KOZAK,ano_2011
+001-06102021 1602 602008 925633,2021-10-06,-8725,3020000019,558,0,Odchozí platba - PYORD0000025711 KLARA DUBOVSKA OBECNI 196MUKAROV DAT.NAR.:04.07.1985VYUCTOVANI DUBOV,ano_2011
+001-06102021 1602 602010 925653,2021-10-06,-15099,3020000020,558,0,Odchozí platba - PYORD0000025716 ROMANA FISCHEROVA KOMENSKEHO 8LYSA NAD LABEM DAT.NAR.:18.03.1969VYUCT.FISCHEROVA,ano_2011
 001-05102021 1602 602020 249581,2021-10-05,0.01,0,0,0,JAVŮRKOVÁ LEONA - Příchozí platba - příspěvek Burešovi na jednosměrnou jízdenku do Bratislavy,ano_2011
 120-20211005 1595257744,2021-10-05,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-05102021 1602 602025 360853,2021-10-05,-48400,20210032,558,0,Odchozí platba - PYORD0000025703 JAKUB KONECNY HNEVKOVSKEHO 1375/12PRAHA 4 - CHODOICO:04322011KAMERAMANSKE SLUZBY 08+,ano_2011
@@ -195,8 +212,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-09092021 1602 602027 077821,2021-09-09,1e+07,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
 001-09092021 1602 602035 080123,2021-09-09,-1742.4,20210991,558,0,Odchozí platba - PYORD0000025503 VANESTA REKLAMA S.R.O. 9. KVETNA 627NOVY BOHUMIN ICO:25894510LETACKY,ano_2011
 120-20210908 1562964422,2021-09-08,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
-120-20210908 1562957505,2021-09-08,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-08092021 1602 602007 977571,2021-09-08,0.01,0,0,0,BAŽANT JAN - Příchozí platba - My máme na ty slováky prostě smůlu! Viď Bilaku a Husáku...,ano_2011
+120-20210908 1562957505,2021-09-08,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 120-20210907 S70778856,2021-09-08,0.01,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011
 120-20210809 220858718,2021-09-08,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011
 120-20210810 220889602,2021-09-08,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji United Bakeries, Vodňanskou drůbež, Maso Planá, Hyza, Tatra, řepkový olej, Pikok. A přeji ti Andreji šťastnou cestu na hrad - Mírov",ano_2011

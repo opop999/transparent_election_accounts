@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,200,Okamžitá příchozí platba,Záleská Lucie,DAR,0,,,Záleská Lucie,trikolora
+2021-10-06,500,Okamžitá příchozí platba,JANÍKOVÁ RÁZKOVÁ K,DAR,,234567,,JANÍKOVÁ RÁZKOVÁ K,trikolora
+2021-10-06,1000,Okamžitá příchozí platba,BURSÁKOVÁ BRONISLAVA,DAR,,234561,,BURSÁKOVÁ BRONISLAVA,trikolora
+2021-10-06,2e+05,Okamžitá příchozí platba,Ing.Domaniža Ivo,"DAR, Ivo Domaniža",0,,,Ing.Domaniža Ivo,trikolora
+2021-10-06,2e+05,Okamžitá příchozí platba,Dostál Radim,"DAR, Radim Dostál",0,,,Dostál Radim,trikolora
+2021-10-06,-7e+05,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-10-06,2000,Bezhotovostní příjem,VÍZNEROVÁ ZDENA,Ing. Zdena Víznerová DAR,308,234567,0,VÍZNEROVÁ ZDENA,trikolora
+2021-10-06,888,Platba převodem uvnitř banky,"RNDr. Novotný, Tomáš CSc.",DAR,,123456,,DAR,trikolora
+2021-10-06,100,Okamžitá příchozí platba,Škop František,,0,7000405,,Škop František,trikolora
+2021-10-06,100,Bezhotovostní příjem,PEŠKA MARTIN,,0,4000132,0,PEŠKA MARTIN,trikolora
+2021-10-06,1000,Bezhotovostní příjem,ERNEST WACHTL,PŘEVOD PROSTŘEDKŮ,,121212,,ERNEST WACHTL,trikolora
+2021-10-06,1000,Platba převodem uvnitř banky,"Šípek, Václav","DAR, Václav Šípek",,123456,,"DAR, Václav Šípek",trikolora
+2021-10-06,35000,Vklad v hotovosti,dar pro Olomoucký kraj,,558,1777777,,"dar pro Olomoucký kraj, Alois Konšel",trikolora
+2021-10-06,100,Bezhotovostní příjem,PRANTLOVÁ LUCIE,Dar prispevek RP,0,11002040,0,PRANTLOVÁ LUCIE,trikolora
 2021-10-05,5000,Okamžitá příchozí platba,Marie Čapková,Dar pro Pardubice,,1888888,,Marie Čapková,trikolora
 2021-10-05,1000,Okamžitá příchozí platba,Zahradník Václav,DAR Václav Zahradník,0,,,Zahradník Václav,trikolora
 2021-10-05,100,Okamžitá příchozí platba,Pavla Grigorová,DAR příspěvek RP,,1000738,,Pavla Grigorová,trikolora
