@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,300,Okamžitá příchozí platba,Jan Bartoš,příspěvek příznivce Jan Bartoš,,9381,,Jan Bartoš,svobodni
+2021-10-07,500,Bezhotovostní příjem,DAVID VITOVSKY,DAR PRIZNIVCE,,9379,,DAVID VITOVSKY,svobodni
+2021-10-07,250,Platba převodem uvnitř banky,"Drahoňovský, Roman",přeji Vám úspěch ve volbách 2021,,,,přeji Vám úspěch ve volbách 2021,svobodni
 2021-10-05,500,Platba převodem uvnitř banky,"Mgr. Marutová, Jarmila",Dar,,82031,,Dar,svobodni
 2021-10-05,225000,Bezhotovostní příjem,MF,,6418,180152021,0,MF,svobodni
 2021-10-05,1000,Platba převodem uvnitř banky,"Hudec, Stanislav",dar priznivce,,8313,,dar priznivce,svobodni

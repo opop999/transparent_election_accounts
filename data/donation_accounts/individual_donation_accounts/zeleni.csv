@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-08,1000,Bezhotovostní příjem,Ondřej Šindelář,"Dar pro Zelené, protože jsou potřeba.",,,,Ondřej Šindelář,zeleni
+2021-10-08,500,Bezhotovostní příjem,CHAROUZ PAVEL,"""dar""",0,9003366,0,CHAROUZ PAVEL,zeleni
+2021-10-08,1000,Bezhotovostní příjem,BRADY PAVLA,Dar pro MSK - tisk plakátů apod.,0,0,0,BRADY PAVLA,zeleni
+2021-10-08,1000,Bezhotovostní příjem,Kutina Milan,dar Ústecký kraj,,8061045,,Kutina Milan,zeleni
+2021-10-07,300,Platba převodem uvnitř banky,"Zapletalová, Alena",dar - Ať se daří!,,9003369,,dar - Ať se daří!,zeleni
+2021-10-07,500,Okamžitá příchozí platba,"Mgr.Štěpánek Petr,CS",Dar volby psp,0,9003368,,"Mgr.Štěpánek Petr,CS",zeleni
+2021-10-07,-1800,Platba převodem uvnitř banky,,převod darů MSK z darového účtu na volební účet SZ - volby do PS PČR 2021,,21052,80,převod darů MSK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-07,-100,Bezhotovostní platba,,"vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Vladimír Kroupa,zeleni
+2021-10-07,-1e+05,Platba převodem uvnitř banky,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-07,100,Okamžitá příchozí platba,Vladimír Kroupa,Dar,,,,Vladimír Kroupa,zeleni
+2021-10-07,500,Bezhotovostní příjem,Eva Češpivová,Dar,,,,Eva Češpivová,zeleni
+2021-10-07,500,Platba převodem uvnitř banky,"Bártová Dittrichová, Daniela","dar; ještě je naděje, že nekončí tu ty koleje",,9003362,,"dar; ještě je naděje, že nekončí tu ty koleje",zeleni
+2021-10-07,300,Bezhotovostní příjem,ANNA KSIROVA,DAR,,9003361,,ANNA KSIROVA,zeleni
+2021-10-07,500,Bezhotovostní příjem,JAKUB ROZSYPAL,DAR 300 ZO P1/ 200 HK,,9001156,,JAKUB ROZSYPAL,zeleni
+2021-10-07,30,Bezhotovostní příjem,JIRI DOUBRAVSKY,DROBNÝ DAR PRO ZELENÉ,,9002979,,JIRI DOUBRAVSKY,zeleni
 2021-10-07,300,Bezhotovostní příjem,Černý Stanislav,Dar pro ZO České Budějovice,0,9002529,,Černý Stanislav,zeleni
 2021-10-07,300,Bezhotovostní příjem,BRADY PAVLA,DAR PRO ZELENÉ,0,9002700,0,BRADY PAVLA,zeleni
 2021-10-06,1000,Okamžitá příchozí platba,Hana Brdková,Dar,,9003360,,Hana Brdková,zeleni

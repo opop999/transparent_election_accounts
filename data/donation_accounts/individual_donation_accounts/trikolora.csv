@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,150000,Okamžitá příchozí platba,Ing.Domaniža Ivo,"DAR, Ivo Domaniža",0,,,Ing.Domaniža Ivo,trikolora
+2021-10-07,50000,Okamžitá příchozí platba,Daniel Kebis,"DAR, Daniel Kebis",,,,Daniel Kebis,trikolora
+2021-10-07,2e+05,Okamžitá příchozí platba,Mgr.Kebis Daniel,"DAR, Daniel Kebis",0,,,Mgr.Kebis Daniel,trikolora
+2021-10-07,500,Bezhotovostní příjem,OLDRICH JIRSA,DAR - JIRSA OLDŘICH,,123456,,OLDRICH JIRSA,trikolora
+2021-10-07,3e+05,Okamžitá příchozí platba,Ing.Dostál Roman,"DAR, Roman Dostál",0,,,Ing.Dostál Roman,trikolora
+2021-10-07,100,Bezhotovostní příjem,Michal Obrusník,DAR příspěvek RP 06/05/70,0,6000417,,Michal Obrusník,trikolora
+2021-10-07,250000,Okamžitá příchozí platba,Ing.Smrčka Jaroslav,DAR Jaroslav Smrčka,0,,,Ing.Smrčka Jaroslav,trikolora
+2021-10-07,100,Okamžitá příchozí platba,ŘEZNÍKOVÁ MARTINA,DAR příspěvek RP,308,5000569,,ŘEZNÍKOVÁ MARTINA,trikolora
+2021-10-07,1000,Okamžitá příchozí platba,Boleslav Doboš,DAR,,234567,,Boleslav Doboš,trikolora
+2021-10-07,2000,Okamžitá příchozí platba,Pavel Kurek,DAR Pavel Kurek,,123456,,Pavel Kurek,trikolora
+2021-10-07,1000,Bezhotovostní příjem,GALUSZKA JAN,DAR,0,234567,0,GALUSZKA JAN,trikolora
+2021-10-07,5000,Okamžitá příchozí platba,Ing.Jehlář Zbyněk,"DAR, Zbyněk Jehlář",0,,,Ing.Jehlář Zbyněk,trikolora
 2021-10-07,200,Okamžitá příchozí platba,Záleská Lucie,DAR,0,,,Záleská Lucie,trikolora
 2021-10-06,500,Okamžitá příchozí platba,JANÍKOVÁ RÁZKOVÁ K,DAR,,234567,,JANÍKOVÁ RÁZKOVÁ K,trikolora
 2021-10-06,1000,Okamžitá příchozí platba,BURSÁKOVÁ BRONISLAVA,DAR,,234561,,BURSÁKOVÁ BRONISLAVA,trikolora

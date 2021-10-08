@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-08,-24200,Karetní transakce,,"Nákup: FACEBK YJHGT73KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK YJHGT73KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",zeleni
+2021-10-08,-24200,Karetní transakce,,"Nákup: FACEBK YGCTN87JK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK YGCTN87JK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",zeleni
+2021-10-07,-1800,Okamžitá odchozí platba,,FA 21052 - tisk A2,308,21052,80,MSK - Městské kulturní středisko Nový Jičín,zeleni
+2021-10-07,1800,Platba převodem uvnitř banky,Strana zelených,převod darů MSK z darového účtu na volební účet SZ - volby do PS PČR 2021,,21052,80,převod darů MSK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-07,1e+05,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-07,-24200,Karetní transakce,,"Nákup: FACEBK 943FC7XJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK 943FC7XJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  24200.00 CZK",zeleni
 2021-10-06,-43500,Okamžitá odchozí platba,,"FA 47 - kreativa, organizace kampaně",,47,,SZ - Robin Kvapil,zeleni
 2021-10-06,-24200,Karetní transakce,,"Nákup: FACEBK JEHL28KJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK JEHL28KJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  24200.00 CZK",zeleni

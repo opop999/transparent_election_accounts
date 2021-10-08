@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-08,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 7.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 7.10.2021, částka  15000.00 CZK",trikolora
+2021-10-07,-56523.03,Bezhotovostní platba,,Online kampaň TV Prima - Centrála,308,202100946,,Online kampaň TV Prima - Centrála,trikolora
+2021-10-07,-1906,Bezhotovostní platba,,platba a výlep plakátů - Středočeský kraj,308,10123580,,platba a výlep plakátů - Středočeský kraj,trikolora
+2021-10-07,-1815,Bezhotovostní platba,,pronájem sloupů veřejného osvětlení - Olomoucký kraj,308,2100506,,pronájem sloupů veřejného osvětlení - Olomoucký kraj,trikolora
+2021-10-07,-4017.2,Bezhotovostní platba,,mediálně marketingové poradenství - Jihomoravský kraj,308,482021,,mediálně marketingové poradenství - Jihomoravský kraj,trikolora
+2021-10-07,-387.2,Bezhotovostní platba,,pronájem plakátovací plochy - Vysočina,308,2210341,,pronájem plakátovací plochy - Vysočina,trikolora
+2021-10-07,-1228.9,Bezhotovostní platba,,"platba za přípojku elektrické energie ,Pelhřimov - Vysočina",308,2210344,,"platba za přípojku elektrické energie ,Pelhřimov - Vysočina",trikolora
+2021-10-07,-6630.8,Bezhotovostní platba,,výroba a tisk letáků DL - Liberecký kraj,308,3030013902,,výroba a tisk letáků DL - Liberecký kraj,trikolora
+2021-10-07,-11676.5,Bezhotovostní platba,,výroba a montáž banneru - Ústecký kraj,308,2100527,,výroba a montáž banneru - Ústecký kraj,trikolora
+2021-10-07,-1223.8,Bezhotovostní platba,,platba za elektřinu a helium - Centrála,308,21210033,,platba za elektřinu a helium - Centrála,trikolora
+2021-10-07,-166617,Bezhotovostní platba,,doplatek za marketingové a reklamní služby srpen - Centrála,308,21210030,,doplatek za marketingové a reklamní služby srpen - Centrála,trikolora
+2021-10-07,-30250,Bezhotovostní platba,,výroba tisk a instalace polepů - Pardubický kraj,308,21211836,,výroba tisk a instalace polepů - Pardubický kraj,trikolora
+2021-10-07,-16335,Bezhotovostní platba,,volební propagace a marketing smlouvy 001366 - Pardubický kraj,308,21201013,,volební propagace a marketing smlouvy 001366 - Pardubický kraj,trikolora
+2021-10-07,-20000,Bezhotovostní platba,,"výroba, příprava a dodání propagačních materiálů - Praha",308,20211014,,"výroba, příprava a dodání propagačních materiálů - Praha",trikolora
+2021-10-07,-2600,Bezhotovostní platba,,výlep plakátů - Ústecký kraj,308,210058,,výlep plakátů - Ústecký kraj,trikolora
+2021-10-07,-9244.4,Bezhotovostní platba,,tisk a výlep billboardů - Liberecký kraj,308,21502159,,tisk a výlep billboardů - Liberecký kraj,trikolora
+2021-10-07,-10890,Bezhotovostní platba,,výroba a tisk 9 polepů - Karlovarský kraj,308,21230231,,výroba a tisk 9 polepů - Karlovarský kraj,trikolora
+2021-10-07,-880,Bezhotovostní platba,,výlep plakátů v obci Kojetín - Olomoucký kraj,308,2021039,,výlep plakátů v obci Kojetín - Olomoucký kraj,trikolora
+2021-10-07,-15000,Bezhotovostní platba,,facebooková a instagramová kampaň - Královéhradecký kraj,308,202100013,,facebooková a instagramová kampaň - Královéhradecký kraj,trikolora
+2021-10-07,-24200,Bezhotovostní platba,,inzerce v časopise Program - Moravskoslezský kraj,308,2110225,,inzerce v časopise Program - Moravskoslezský kraj,trikolora
+2021-10-07,-1800,Bezhotovostní platba,,výroba a tisk letáků A6 - Moravskosslezský kraj,308,21316,,výroba a tisk letáků A6 - Moravskosslezský kraj,trikolora
+2021-10-07,-1000,Bezhotovostní platba,,pronájem sálu - Moravskoselzský kraj,308,2021097,,pronájem sálu - Moravskoselzský kraj,trikolora
+2021-10-07,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 6.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 6.10.2021, částka  15000.00 CZK",trikolora
 2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK PGT3L732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK PGT3L732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",trikolora
 2021-10-06,7e+05,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora
 2021-10-06,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *ADS8783975015,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.10.2021, částka  15000.00 CZK",trikolora

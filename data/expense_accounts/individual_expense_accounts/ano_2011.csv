@@ -1,4 +1,14 @@
 id,date,amount,vs,ks,ss,note,entity_name
+001-08102021 1602 602024 234153,2021-10-08,-2358,3020000025,558,0,Odchozí platba - PYORD0000025713 KLARA DUBOVSKA OBECNI 196MUKAROV DAT.NAR.:04.07.1985VYUCTOVANI DUBOV,ano_2011
+001-08102021 1602 602017 234083,2021-10-08,-2159.78,3020000022,558,0,Odchozí platba - PYORD0000025717 JAROSLAV HEDVICAK PURKYNOVA 475/15ZDAR NAD SAZAVOU DAT.NAR.:19.05.1987VYUCTOVANI HEDVI,ano_2011
+001-08102021 1602 602016 234073,2021-10-08,-2107,3020000024,558,0,Odchozí platba - PYORD0000025712 KLARA DUBOVSKA OBECNI 196MUKAROV DAT.NAR.:04.07.1985VYUCTOVANI DUBOV,ano_2011
+001-08102021 1602 602034 143973,2021-10-08,-152958,2121019707,558,0,"Odchozí platba - PYORD0000025648 MAFRA, A.S. KARLA ENGLISE 519/11PRAHA 5 ICO:45313351REKLAMA V NOVINACH_KRES",ano_2011
+001-08102021 1602 602002 140323,2021-10-08,-477297,2180202,558,0,"Odchozí platba - PYORD0000025613 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101FOCENI",ano_2011
+001-08102021 1602 602005 140353,2021-10-08,-198924,2180203,558,0,"Odchozí platba - PYORD0000025614 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101KONCEPT A ZPRACOVANI KA",ano_2011
+361-07102021 1086 086148 501397,2021-10-07,0.01,0,0,0,"Schánilová Karolína - Příchozí platba - Uz se vam to, doufejme, krati. Anam taky. Vase vlada je utrpeni",ano_2011
+120-20211007 1597304915,2021-10-07,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
+120-20211007 1597304799,2021-10-07,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
+361-07102021 1086 086145 101015,2021-10-07,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Pročpak Bureš posílal syna na Krym, když má vily ve Francii?",ano_2011
 001-07102021 1602 602009 195083,2021-10-07,-1550,1521100263,558,0,Odchozí platba - PYORD0000025696 MESTO KROMERIZ VELKE NAMESTI 115/1KROMERIZ ICO:00287351ZABOR,ano_2011
 001-07102021 1602 602019 107123,2021-10-07,-15000,2100007,558,0,Odchozí platba - PYORD0000025683 JAN KANA PRUSKA 307/6PUSTIMER ICO:07519575OBCERSTVENI,ano_2011
 120-20210906 295969926,2021-10-06,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011
@@ -24,8 +34,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20211005 1595256644,2021-10-05,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-05102021 1602 602018 360783,2021-10-05,-69696,4202107146,558,0,"Odchozí platba - PYORD0000025699 BIGMEDIA, SPOL. S R.O. NA STRZI 2097/63PRAHA 4 ICO:26479451REKLAMNI PLOCHY",ano_2011
 001-05102021 1602 602000 909311,2021-10-05,-6390,5118358713,558,0,Odchozí platba - Česká pošta R2 432-171 uhrazeno z provozního účtu,ano_2011
-120-20211005 T02AR0HDDER3E,2021-10-05,0.01,0,0,0,JAN BAZANT - Příchozí platba - TVL. ANDY ZABER! JINAK SI ASI TY KLUKU PŮJDEŠ PO VOLBÁCH SEDNOUT. NĚJAK SE TY LŽI A PRŮSERY HROMADÍ.,ano_2011
 001-05102021 1602 602034 360943,2021-10-05,-40000,200232,558,0,Odchozí platba - PYORD0000025707 DAVID SEDIVY HUSNIKOVA 2087/24PRAHA - STODULKY ICO:87378124FOTOPRACE 08+09/2021,ano_2011
+120-20211005 T02AR0HDDER3E,2021-10-05,0.01,0,0,0,JAN BAZANT - Příchozí platba - TVL. ANDY ZABER! JINAK SI ASI TY KLUKU PŮJDEŠ PO VOLBÁCH SEDNOUT. NĚJAK SE TY LŽI A PRŮSERY HROMADÍ.,ano_2011
 361-05102021 1086 086143 503355,2021-10-05,0.01,0,0,0,Schánilová Karolína - Příchozí platba - Patrite na smetiste dejin! Zkazilijste co jste mohli a Babis jehrozbou pro demokracii v teto zemi.,ano_2011
 120-20211004 T02AR0HDCOPEK,2021-10-05,0.01,0,0,0,JAN BAZANT - Příchozí platba - KDEPAK MIGRANTI. OLIGARCHOVÉ S KUNÍM KSICHTEM K NÁM Z VÝCHODU LEZOU! LŽOU TU A KRADOU.,ano_2011
 120-20211004 1595040163,2021-10-04,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
@@ -214,8 +224,8 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20210908 1562964422,2021-09-08,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-08092021 1602 602007 977571,2021-09-08,0.01,0,0,0,BAŽANT JAN - Příchozí platba - My máme na ty slováky prostě smůlu! Viď Bilaku a Husáku...,ano_2011
 120-20210908 1562957505,2021-09-08,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
-120-20210907 S70778856,2021-09-08,0.01,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011
 120-20210809 220858718,2021-09-08,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011
+120-20210907 S70778856,2021-09-08,0.01,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011
 120-20210810 220889602,2021-09-08,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji United Bakeries, Vodňanskou drůbež, Maso Planá, Hyza, Tatra, řepkový olej, Pikok. A přeji ti Andreji šťastnou cestu na hrad - Mírov",ano_2011
 001-07092021 1602 602031 955761,2021-09-07,-15972,1630200012,558,0,"Odchozí platba - CANIS SAFETY a.s. Poděbradská 260/59, Praha 9 ICO: 26816121 reflexní vesta",ano_2011
 001-07092021 1602 602032 955771,2021-09-07,-16746,210802198,558,0,"Odchozí platba - MP toner, spol s r.o. Drozdovice 1026/2a, Prostejov ICO: 26235463 fixy",ano_2011

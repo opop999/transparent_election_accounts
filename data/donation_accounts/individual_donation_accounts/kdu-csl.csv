@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-07,1e+05,Okamžitá příchozí platba,MUDr.Kaňkovský Vít,Dar krajské organizaci KDU-ČSL Vysočina,0,700205,651,MUDr.Kaňkovský Vít,kdu-csl
+2021-10-07,7700,Okamžitá příchozí platba,GOGELOVÁ REGINA,Gogelová Regina dar,,17121967,851,GOGELOVÁ REGINA,kdu-csl
+2021-10-07,1500,Bezhotovostní příjem,VÍTKOVÁ JAROMÍRA,Vítková,0,0,0,VÍTKOVÁ JAROMÍRA,kdu-csl
+2021-10-07,1000,Bezhotovostní příjem,TUČKOVÁ HELENA,,308,29121972,651,TUČKOVÁ HELENA,kdu-csl
+2021-10-07,200,Bezhotovostní příjem,HLAVINKA JIŘÍ,dar pro STC,,4041954,201,HLAVINKA JIŘÍ,kdu-csl
 2021-10-07,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
 2021-10-06,35000,Bezhotovostní příjem,VÁHALA A SPOL.S.R.O.,dar pro Zlínský kraj,0,13643819,0,VÁHALA A SPOL.S.R.O.,kdu-csl
 2021-10-06,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl

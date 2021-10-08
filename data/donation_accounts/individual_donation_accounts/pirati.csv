@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-08,2291.95,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1690000640,20211007,Global Payments s.r.,pirati
+2021-10-08,300,Bezhotovostní příjem,ZIKES JAROSLAV,23,,44005167,10,ZIKES JAROSLAV,pirati
+2021-10-08,50,Bezhotovostní příjem,SABO PETR,PIRÁTI,0,44004533,1,SABO PETR,pirati
+2021-10-08,200,Bezhotovostní příjem,JANOUŠEK TOMÁŠ,PIRÁTI,0,84101,1,JANOUŠEK TOMÁŠ,pirati
+2021-10-08,300,Bezhotovostní příjem,HRUBÝ ONDŘEJ,,0,82522,190000,HRUBÝ ONDŘEJ,pirati
+2021-10-08,29040,Bezhotovostní příjem,DUBEC LUKÁŠ,"Lukáš Dubec, 22.5.1984Vranovská Ves 60, 671 51",,,110601,DUBEC LUKÁŠ,pirati
+2021-10-08,500,Platba převodem uvnitř banky,"Ing. Kryl, Milan","Milan Kryl, nar.29.1.1961, Filmařská 507/6, Praha 5,  účel = MS Praha 5",,,110105,"Milan Kryl, nar.29.1.1961, Filmařská 507/6, Praha 5,  účel = MS Praha 5",pirati
+2021-10-08,200,Platba převodem uvnitř banky,"Podhorský, Jiří",,,44004362,,,pirati
+2021-10-08,2000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga","Olga Richterová, Praha 10",,682,110110,"Olga Richterová, Praha 10",pirati
+2021-10-07,29040,Okamžitá příchozí platba,Zdeněk Kosour,"Dar k darovací smlouvě mezi Zdeněk Kosour 25.11.1981 a Česká pirátská strana, účel kampaň v týdeníku Znojemsko",,,110601,Zdeněk Kosour,pirati
+2021-10-07,300,Okamžitá příchozí platba,Vlčová Věra,DAR 83924/193000,0,83924,193000,Vlčová Věra,pirati
+2021-10-07,1000,Bezhotovostní příjem,PAVEL KUPKA,"HODNĚ SIL, JEDE SE DO FINÁLE",1,44006052,,PAVEL KUPKA,pirati
+2021-10-07,2000,Okamžitá příchozí platba,Jaroslav Němec,dar MS Piráti Praha 2 na Klubovnu,,83395,110102,Jaroslav Němec,pirati
+2021-10-07,100,Bezhotovostní příjem,Dalibor Vágner,,,83841,190000,Dalibor Vágner,pirati
+2021-10-07,12487.38,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1680061256,20211006,Global Payments s.r.,pirati
 2021-10-07,500,Bezhotovostní příjem,Ing.Trefil Vladislav,"Vladislav Trefil, U lesoparku 933,25091 Zeleneč",0,44005723,1,Ing.Trefil Vladislav,pirati
 2021-10-07,300,Bezhotovostní příjem,SÁZEL JIŘÍ,DAR PIRÁTSKÁ STRANA,0,44005537,1,SÁZEL JIŘÍ,pirati
 2021-10-07,1000,Bezhotovostní příjem,AMLER JAROSLAV,DAR 44016145/193000,0,44016145,193000,AMLER JAROSLAV,pirati

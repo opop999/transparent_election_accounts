@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-08,3000,Okamžitá příchozí platba,Víchová Zdeňka,Dar hnutí,0,,,Víchová Zdeňka,prisaha
+2021-10-08,485,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-10-07,2000,Okamžitá příchozí platba,Mgr.Krupčík Július,Dar hnutí jako účel platby,0,,,Mgr.Krupčík Július,prisaha
+2021-10-07,1000,Okamžitá příchozí platba,David Slovák,Dar hnutí,,,,David Slovák,prisaha
+2021-10-07,10000,Bezhotovostní příjem,SROVNAL PAVEL,,558,510603,0,SROVNAL PAVEL,prisaha
+2021-10-07,5000,Platba převodem uvnitř banky,"ADOME, s.r.o.",Dar hnutí,,,,Dar hnutí,prisaha
+2021-10-07,200,Bezhotovostní příjem,RÝDLOVÁ IVANA,Dar hnutí Přísaha,0,0,0,RÝDLOVÁ IVANA,prisaha
+2021-10-07,100,Bezhotovostní příjem,Olga Štusáková,Dar OH Přísaha - měsíčně,,,,Olga Štusáková,prisaha
 2021-10-07,3132.23,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-10-06,1000,Okamžitá příchozí platba,Fryčová Nicole,Dar hnutí,0,,,Fryčová Nicole,prisaha
 2021-10-06,2000,Bezhotovostní příjem,Kamil Březina,Dar hnutí,,,,Kamil Březina,prisaha

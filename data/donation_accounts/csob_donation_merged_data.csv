@@ -1,5 +1,9 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
 2021-10-07,5000,Příchozí úhrada,SILBER RADOMIR,131684641,300,SilberR dává dar,308,30081960,,CZK,kscm
+2021-10-07,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,223,,CZK,kscm
+2021-10-07,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,222,,CZK,kscm
+2021-10-07,414,Příchozí úhrada,Ivan Maštálka,1047171012,3030,"Ivan Maštálka, Plzeň  - finanční dar",,3231904,33203,CZK,kscm
+2021-10-07,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Uz vas bylo dost! Uz nikdy frontynabanany! Sbohem, soudruzi.",,,,CZK,kscm
 2021-10-06,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Je hanbou nasi zeme, ze vasezlocinecka strana stale existuje.Doufejme,ze po volbach alesponnezasedne ve",,,,CZK,kscm
 2021-10-05,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Doufam, ze vase letosni vyroci budevase posledni. Kupredu leva... dopropadliste dejin!",,,,CZK,kscm
 2021-10-05,1500,Okamžitá úhrada,Krejčová Marie,648562073,800,finanční dar,308,684003,,CZK,kscm
@@ -9,20 +13,20 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-02,100.2,Příchozí úhrada,KOTALA JAN,173998382,300,Jan Kotala - finanční dar KSČM,,,,CZK,kscm
 2021-10-01,200,Příchozí úhrada,Šlechtická Hana,63433153,800,P. Šlechtický Jihlava-finanční dar,0,0,36102,CZK,kscm
 2021-09-30,1500,Příchozí úhrada,RYSANKOVA DOSEDELOVA,105263739,300,finanční dar,,,,CZK,kscm
-2021-09-30,-4000,Odchozí úhrada,KSČM,217343303,300,Zahradník Václav - dar pro volby do PS PČR,0,33203,,CZK,kscm
-2021-09-30,-20000,Odchozí úhrada,KSČM,217343303,300,Vostrá Miloslava - fin.dar provolby do PS PČR,0,32103,,CZK,kscm
-2021-09-30,-25000,Odchozí úhrada,KSČM,217343303,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
-2021-09-30,-1e+05,Odchozí úhrada,,299068519,300,SOUKROMY SVERENECKY FOND - vratka fin.prostředků VOLBY 2021,0,213,,CZK,kscm
-2021-09-30,12652.32,Zúčtování  úroků,,,,,,,,CZK,kscm
-2021-09-30,-5,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
-2021-09-30,-30,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
-2021-09-30,-76,Poštovné v ČR,,,,,,,,CZK,kscm
-2021-09-30,-90,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
-2021-09-30,-40,Poplatek za výpis z účtu,,,,,,,,CZK,kscm
-2021-09-30,-200,Poplatek za vedení účtu,,,,,,,,CZK,kscm
-2021-09-30,-225,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
-2021-09-30,2550,Okamžitá úhrada,Ing.Šmíd Václav,41900013,800,"Šmíd Václav, Prostějov - finanční dar",,,37103,CZK,kscm
 2021-09-30,10000,Příchozí úhrada,Navrátil Jan,2108732181,2700,Finanční dar - Jan Navrátil,8,11255,29092021,CZK,kscm
+2021-09-30,2550,Okamžitá úhrada,Ing.Šmíd Václav,41900013,800,"Šmíd Václav, Prostějov - finanční dar",,,37103,CZK,kscm
+2021-09-30,-225,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,-200,Poplatek za vedení účtu,,,,,,,,CZK,kscm
+2021-09-30,-40,Poplatek za výpis z účtu,,,,,,,,CZK,kscm
+2021-09-30,-90,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,-76,Poštovné v ČR,,,,,,,,CZK,kscm
+2021-09-30,-30,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,-5,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
+2021-09-30,12652.32,Zúčtování  úroků,,,,,,,,CZK,kscm
+2021-09-30,-1e+05,Odchozí úhrada,,299068519,300,SOUKROMY SVERENECKY FOND - vratka fin.prostředků VOLBY 2021,0,213,,CZK,kscm
+2021-09-30,-25000,Odchozí úhrada,KSČM,217343303,300,Rozsár Jozef - fin.dar pro volby do PS PČR,0,32103,,CZK,kscm
+2021-09-30,-20000,Odchozí úhrada,KSČM,217343303,300,Vostrá Miloslava - fin.dar provolby do PS PČR,0,32103,,CZK,kscm
+2021-09-30,-4000,Odchozí úhrada,KSČM,217343303,300,Zahradník Václav - dar pro volby do PS PČR,0,33203,,CZK,kscm
 2021-09-29,2000,Příchozí úhrada,KUPCZAK RADEK,167845507,300,Mgr.Radek Kupczak - finanční dar,,38103,,CZK,kscm
 2021-09-29,6914,Příchozí úhrada,JUDr.Všetečka Petr,142200083,800,"Petr Všetečka, Brno - finanční dar",0,,36202,CZK,kscm
 2021-09-29,560,Příchozí úhrada,WIEWIÓRKA KAREL,193417350237,100,FIN. DAR KSČM KAREL WIEWIORKA,0,38103,,CZK,kscm
