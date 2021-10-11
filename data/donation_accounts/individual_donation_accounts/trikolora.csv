@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-11,100,Okamžitá příchozí platba,Česká spořitelna,Dar příspěvek RP,0,11002044,,Česká spořitelna,trikolora
+2021-10-11,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
+2021-10-11,1000,Bezhotovostní příjem,VLASTIMIL KUBICEK,REGISTRACE,308,1888888,,VLASTIMIL KUBICEK,trikolora
+2021-10-11,500,Bezhotovostní příjem,"ING. JAN BARTOŇ, CSC",Jan Bartoň,0,123456,0,"ING. JAN BARTOŇ, CSC",trikolora
+2021-10-11,100,Bezhotovostní příjem,BLAHUŠ JOZEF,DAR příspěvek RP,,6001372,,BLAHUŠ JOZEF,trikolora
+2021-10-11,200,Bezhotovostní příjem,Urbanec Ladislav,DAR Ladislav Urbanec,0,,,Urbanec Ladislav,trikolora
+2021-10-11,83,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,trikolora
+2021-10-10,100,Okamžitá příchozí platba,Petr Vilček,dar prispevek rp,,8000510,,Petr Vilček,trikolora
+2021-10-10,100,Okamžitá příchozí platba,Maraček David,,0,11002043,,Maraček David,trikolora
+2021-10-10,100,Okamžitá příchozí platba,Ondřej Nemerád,DAR příspěvek RP,,7000707,,Ondřej Nemerád,trikolora
+2021-10-08,100,Okamžitá příchozí platba,Václav Friedrich,DAR příspěvek RP,,6001365,,Václav Friedrich,trikolora
+2021-10-08,150000,Okamžitá příchozí platba,Ing.Domaniža Ivo,"DAR, Ivo Domaniža",0,,,Ing.Domaniža Ivo,trikolora
+2021-10-08,100,Okamžitá příchozí platba,Poživilová Salome,DAR příspěvek RP,0,12001918,,Poživilová Salome,trikolora
+2021-10-08,5000,Okamžitá příchozí platba,VALENTA RADEK,,,1888888,,VALENTA RADEK,trikolora
+2021-10-08,5000,Bezhotovostní příjem,HYKYŠ STANISLAV,,0,1888888,0,HYKYŠ STANISLAV,trikolora
+2021-10-08,100,Bezhotovostní příjem,BĚLOHLÁVEK TOMÁŠ,DAR příspěvek RP,0,11002042,0,BĚLOHLÁVEK TOMÁŠ,trikolora
 2021-10-07,150000,Okamžitá příchozí platba,Ing.Domaniža Ivo,"DAR, Ivo Domaniža",0,,,Ing.Domaniža Ivo,trikolora
 2021-10-07,50000,Okamžitá příchozí platba,Daniel Kebis,"DAR, Daniel Kebis",,,,Daniel Kebis,trikolora
 2021-10-07,2e+05,Okamžitá příchozí platba,Mgr.Kebis Daniel,"DAR, Daniel Kebis",0,,,Mgr.Kebis Daniel,trikolora

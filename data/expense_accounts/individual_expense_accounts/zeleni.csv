@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-10,400,Okamžitá příchozí platba,Přikryl Daniel,"Dekuji vsem priznivcum Zelenych,kteri volili PirStan. Mame hodnotya programove priority v souladua drzime kurz.",0,,,Přikryl Daniel,zeleni
+2021-10-09,200,Okamžitá příchozí platba,Petr Němec,Nevolil jsem Vás ale jste dobrá strana. Přeji hodně úspěchů do budoucna.,,,,Petr Němec,zeleni
+2021-10-09,-24200,Karetní transakce,,"Nákup: FACEBK 3H2K98FJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK 3H2K98FJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  24200.00 CZK",zeleni
+2021-10-08,-786.5,Okamžitá odchozí platba,,FA 210407 - výlep informačních materiálů,308,210407,42,ÚLK - Technické služby Litvínov,zeleni
+2021-10-08,-24200,Karetní transakce,,"Nákup: FACEBK 225B48KJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK 225B48KJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  24200.00 CZK",zeleni
+2021-10-08,786.5,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,210407,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-08,-24200,Karetní transakce,,"Nákup: FACEBK YJHGT73KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK YJHGT73KK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",zeleni
 2021-10-08,-24200,Karetní transakce,,"Nákup: FACEBK YGCTN87JK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK YGCTN87JK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  24200.00 CZK",zeleni
 2021-10-07,-1800,Okamžitá odchozí platba,,FA 21052 - tisk A2,308,21052,80,MSK - Městské kulturní středisko Nový Jičín,zeleni

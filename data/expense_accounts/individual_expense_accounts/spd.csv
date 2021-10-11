@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-11,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.10.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.10.2021, částka  15000.00 CZK",spd
+2021-10-11,-20000,Karetní transakce,,"Nákup: FACEBK G6BT683AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK G6BT683AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",spd
 2021-10-08,-20000,Karetní transakce,,"Nákup: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20000.00 CZK",spd
 2021-10-08,-20172.58,Karetní transakce,,"Nákup: FACEBK VBXG26PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20172.58 CZK",,3344,,"Nákup: FACEBK VBXG26PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20172.58 CZK",spd
 2021-10-07,-36300,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s.,inzerce tisk",308,2117021378,1200,"VLTAVA LABE MEDIA a.s.,inzerce tisk",spd

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-11,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
+2021-10-11,3000,Bezhotovostní příjem,Mgr.Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Mgr.Benešík Ondřej,kdu-csl
+2021-10-11,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
+2021-10-10,10000,Okamžitá příchozí platba,CELÝ ROMAN,Roman Celý,,11081974,701,CELÝ ROMAN,kdu-csl
+2021-10-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
+2021-10-08,1000,Okamžitá příchozí platba,JAN ANGELOVIČ,"dar - Na provoz - 000, Jan Angelovič, Most",0,2110080114,,JAN ANGELOVIČ,kdu-csl
 2021-10-07,1e+05,Okamžitá příchozí platba,MUDr.Kaňkovský Vít,Dar krajské organizaci KDU-ČSL Vysočina,0,700205,651,MUDr.Kaňkovský Vít,kdu-csl
 2021-10-07,7700,Okamžitá příchozí platba,GOGELOVÁ REGINA,Gogelová Regina dar,,17121967,851,GOGELOVÁ REGINA,kdu-csl
 2021-10-07,1500,Bezhotovostní příjem,VÍTKOVÁ JAROMÍRA,Vítková,0,0,0,VÍTKOVÁ JAROMÍRA,kdu-csl

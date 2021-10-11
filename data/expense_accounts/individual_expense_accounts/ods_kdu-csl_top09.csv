@@ -1,4 +1,23 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-09,-4537.5,Bezhotovostní platba,,,308,1100822,2200,,ods_kdu-csl_top09
+2021-10-08,-5000,Okamžitá odchozí platba,,,308,20210029,2100,"2100-Markéta Pečenková , školení DTD kampaň",ods_kdu-csl_top09
+2021-10-08,-844.58,Bezhotovostní platba,,,308,2021291,3400,"3400-Grespo s.r.o., tisk plakátů",ods_kdu-csl_top09
+2021-10-08,-4186,Bezhotovostní platba,,,378,6102021,3400,"3400-Ivana Kazdová , technické zajištění akcí Rokštějn a Luka n.Jihl.",ods_kdu-csl_top09
+2021-10-08,-4250,Bezhotovostní platba,,,378,34001,3400,"3400-Jiří Blažek , zajištění akce Pelhřimov",ods_kdu-csl_top09
+2021-10-08,-1000,Bezhotovostní platba,,,378,6102021,3400,"3400-Čeněk Jůzl, ukázka výcvik psů",ods_kdu-csl_top09
+2021-10-08,-508,Bezhotovostní platba,,,378,210920,3400,"3400-Michael Kubík , mítink -akce megabubliny",ods_kdu-csl_top09
+2021-10-08,-1800,Bezhotovostní platba,,,308,32,3400,"3400-Libor Veselý, ozvučení a moderování akce",ods_kdu-csl_top09
+2021-10-08,-6600,Platba převodem uvnitř banky,,,308,21001,3400,"3400-OK KDU-ČSL, pronájem BB plochy",ods_kdu-csl_top09
+2021-10-08,-6200,Bezhotovostní platba,,,308,21091,3400,"3400-Filip Bláha , grafické práce",ods_kdu-csl_top09
+2021-10-08,-869.7,Bezhotovostní platba,,,378,13,2500,"2500-Tomáš Grosser, materiál do vol. stánku",ods_kdu-csl_top09
+2021-10-08,-2000,Bezhotovostní platba,,,378,12,2500,"2500-Tomáš Grosser, PHM vol. auto",ods_kdu-csl_top09
+2021-10-08,-12100,Bezhotovostní platba,,,308,1121457,2500,"2500-Robert Fürst, zajištění lamposterů",ods_kdu-csl_top09
+2021-10-08,-12113,Bezhotovostní platba,,,308,1121459,2500,"2500-Robert Fürst, výlep plakátů",ods_kdu-csl_top09
+2021-10-08,-10890,Bezhotovostní platba,,,308,21230229,2500,"2500-W & P Euronova s.r.o., výroba polepu autobusů",ods_kdu-csl_top09
+2021-10-08,-4574,Bezhotovostní platba,,,308,2021007,2500,"2500-Viral Communication s.r.o., tisk skládaček DL",ods_kdu-csl_top09
+2021-10-08,-800,Bezhotovostní platba,,,378,9100000796,2200,"2200-Město Rakovník , el. energie na akci",ods_kdu-csl_top09
+2021-10-08,-2000,Bezhotovostní platba,,,308,20210028,2200,"2200-SK Rakovník , pronájem rekl. ploch",ods_kdu-csl_top09
+2021-10-08,-44,Bezhotovostní platba,,,308,202100105,2200,"2200-Město Rakovník , užívání veř. prostranství",ods_kdu-csl_top09
 2021-10-07,-46.02,Platba převodem uvnitř banky,,,308,5210928682,1114,"1114-Internet.CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-10-07,-46.02,Platba převodem uvnitř banky,,,308,5210928693,1114,"1114-Internet.CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-10-07,-9496.08,Okamžitá odchozí platba,,,308,210079,2900,"2900-Pernštejn media a.s., interce",ods_kdu-csl_top09

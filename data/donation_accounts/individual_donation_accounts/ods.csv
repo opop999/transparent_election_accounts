@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-11,1000,Bezhotovostní příjem,Cejnarová Jeanette,dar - Jeanette Cejnarová,0,2113210013,,Cejnarová Jeanette,ods
+2021-10-11,2000,Bezhotovostní příjem,JAKOBEC KAREL,"DAR, Karel Jakobec",0,2500210006,0,JAKOBEC KAREL,ods
+2021-10-09,15000,Platba převodem uvnitř banky,"Mgr. Kopejtková, Alena","DAR, Alena Kopejtková",,2113210028,,"DAR, Alena Kopejtková",ods
+2021-10-08,1000,Bezhotovostní příjem,POSPÍŠIL MICHAL,,0,2500210003,0,POSPÍŠIL MICHAL,ods
+2021-10-08,23586,Okamžitá příchozí platba,Bc.Ondřík Ivan,"DAR, Ivan Ondřík",0,3201210039,,Bc.Ondřík Ivan,ods
 2021-10-07,101000,Okamžitá příchozí platba,"Triodum, s.r.o.",,0,3201210040,,"Triodum, s.r.o.",ods
 2021-10-06,1000,Okamžitá příchozí platba,PETR RŮŽIČKA,,0,2113210019,,PETR RŮŽIČKA,ods
 2021-10-06,8000,Bezhotovostní příjem,ZUKALOVÁ VĚRA,"DAR, Vera Zukalova",0,3102210006,0,ZUKALOVÁ VĚRA,ods
