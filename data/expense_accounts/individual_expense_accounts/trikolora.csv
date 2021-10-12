@@ -1,4 +1,23 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,9244.4,Bezhotovostní příjem,EUROPLAKAT SPOL. S R,,308,21502159,0,EUROPLAKAT SPOL. S R,trikolora
+2021-10-11,-20250,Okamžitá odchozí platba,,organizace koncertu a zajištění zdravotního dozoru - Praha,308,32021,,organizace koncertu a zajištění zdravotního dozoru - Praha,trikolora
+2021-10-11,-24200,Bezhotovostní platba,,reklamní kampaň Protiproud - Centrála,308,210100017,,reklamní kampaň Protiproud - Centrála,trikolora
+2021-10-11,-593613.9,Bezhotovostní platba,,platba za technické zajištění trikolora tour - Centrála,308,319,,platba za technické zajištění trikolora tour - Centrála,trikolora
+2021-10-11,-60500,Bezhotovostní platba,,platba za inzerci Metro a 5+2 - Praha,308,2121024119,,platba za inzerci Metro a 5+2 - Praha,trikolora
+2021-10-11,-22010,Bezhotovostní platba,,výroba a tisk letáků - Liberecký kraj,308,2021025,,výroba a tisk letáků - Liberecký kraj,trikolora
+2021-10-11,-47375,Bezhotovostní platba,,"pronájem prostor, catering, produkce volební štáb - Centrála",308,51210024,,"pronájem prostor, catering, produkce volební štáb - Centrála",trikolora
+2021-10-11,-11000,Bezhotovostní platba,,výroba reklamních předmětů pro volební kampaň - Středočeský kraj,308,32021,,výroba reklamních předmětů pro volební kampaň - Středočeský kraj,trikolora
+2021-10-11,-20900,Platba převodem uvnitř banky,,marketingová a reklamní kampaň - Středočeský kraj,308,2101004,,marketingová a reklamní kampaň - Středočeský kraj,trikolora
+2021-10-11,-1200,Bezhotovostní platba,,platba za zábor veřejného prostranství Děčín - Ústecký kraj,308,9200003387,,platba za zábor veřejného prostranství Děčín - Ústecký kraj,trikolora
+2021-10-11,-64509.94,Bezhotovostní platba,,platba za pronájem reklamních panelů - Olomoucký kraj,308,2100661,,platba za pronájem reklamních panelů - Olomoucký kraj,trikolora
+2021-10-11,-3524.73,Bezhotovostní platba,,tisk plakátů A2 - Středočeský kraj,308,20211310,,tisk plakátů A2 - Středočeský kraj,trikolora
+2021-10-11,-750,Bezhotovostní platba,,poplatek za pronájem reklamní plochy obci - Jihomoravský kraj,308,2021060,,poplatek za pronájem reklamní plochy obci - Jihomoravský kraj,trikolora
+2021-10-11,-996,Bezhotovostní platba,,pronájem sloupů veřejného osvětlení - Olomoucký kraj,308,2102000132,,pronájem sloupů veřejného osvětlení - Olomoucký kraj,trikolora
+2021-10-11,-9438,Bezhotovostní platba,,výroba balónků na volební kampaň - středočeský kraj,308,210100630,,výroba balónků na volební kampaň - středočeský kraj,trikolora
+2021-10-11,-5600,Bezhotovostní platba,,tisk letáků A4 - Pardubický kraj,308,20210098,,tisk letáků A4 - Pardubický kraj,trikolora
+2021-10-11,-6413,Bezhotovostní platba,,Pronájem reklamních ploch - Liberecký kraj,308,2202021,,Pronájem reklamních ploch - Liberecký kraj,trikolora
+2021-10-11,-665.5,Bezhotovostní platba,,tisk plakátů A3 - Liberecký kraj,308,1100731,,tisk plakátů A3 - Liberecký kraj,trikolora
+2021-10-11,6e+05,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora
 2021-10-09,-20000,Karetní transakce,,"Nákup: FACEBK M7MSR7PZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK M7MSR7PZV2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",trikolora
 2021-10-09,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 8.10.2021, částka  15000.00 CZK",,6981,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 8.10.2021, částka  15000.00 CZK",trikolora
 2021-10-09,-20000,Karetní transakce,,"Nákup: FACEBK UHY2N732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  20000.00 CZK",,6981,,"Nákup: FACEBK UHY2N732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  20000.00 CZK",trikolora

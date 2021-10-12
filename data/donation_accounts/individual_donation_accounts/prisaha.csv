@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha
+2021-10-11,9000,Okamžitá příchozí platba,Štetinová Iveta,dar hnuti,0,,,Štetinová Iveta,prisaha
+2021-10-11,-635000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-10-11,-20000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-10-11,1000,Okamžitá příchozí platba,Dalibor Macháček,Dar hnutí,,,,Dalibor Macháček,prisaha
 2021-10-11,2000,Bezhotovostní příjem,ZNAMENACEK DAVID,"Dar hnuti, jako ucel platby",,0,,ZNAMENACEK DAVID,prisaha
 2021-10-11,500,Bezhotovostní příjem,Tomáš Sedlák,Dar hnutí,,7803224825,,Tomáš Sedlák,prisaha
 2021-10-11,674.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha

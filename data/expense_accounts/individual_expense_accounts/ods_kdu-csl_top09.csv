@@ -1,5 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-09,-4537.5,Bezhotovostní platba,,,308,1100822,2200,,ods_kdu-csl_top09
+2021-10-12,-19130,Bezhotovostní platba,,,308,2021033,2700,,ods_kdu-csl_top09
+2021-10-11,-1212,Bezhotovostní platba,,,308,677,2300,"2300-Iveta Uhlíková , cestovné",ods_kdu-csl_top09
+2021-10-11,-2082,Bezhotovostní platba,,,308,676,2300,"2300-Karel Šerák , cestovné",ods_kdu-csl_top09
+2021-10-11,-257,Bezhotovostní platba,,,308,211006,2300,"2300-Karel Šerák , parkovné , poplatek zábor",ods_kdu-csl_top09
+2021-10-11,-2663.8,Bezhotovostní platba,,,308,10,2300,"2300-Jan Pešek , PHM vol. auto",ods_kdu-csl_top09
+2021-10-11,-866,Bezhotovostní platba,,,308,674,2300,"2300-Iveta Uhlíková , cestovné",ods_kdu-csl_top09
+2021-10-11,-3805.79,Bezhotovostní platba,,,308,5190574369,2300,"2300-Česká pošta s.p., roznos volebních novin",ods_kdu-csl_top09
+2021-10-11,-726,Bezhotovostní platba,,,308,9806050634,2300,"2300-Město Dačice, pronájem pozemku-stojka",ods_kdu-csl_top09
+2021-10-11,-302500,Bezhotovostní platba,,,308,412021,1114,"1114-1. Herecká agentura s.r.o., režijní práce",ods_kdu-csl_top09
+2021-10-09,-4537.5,Bezhotovostní platba,,,308,1100822,2200,"2200-LABEL s.r.o., tisk letáků",ods_kdu-csl_top09
 2021-10-08,-5000,Okamžitá odchozí platba,,,308,20210029,2100,"2100-Markéta Pečenková , školení DTD kampaň",ods_kdu-csl_top09
 2021-10-08,-844.58,Bezhotovostní platba,,,308,2021291,3400,"3400-Grespo s.r.o., tisk plakátů",ods_kdu-csl_top09
 2021-10-08,-4186,Bezhotovostní platba,,,378,6102021,3400,"3400-Ivana Kazdová , technické zajištění akcí Rokštějn a Luka n.Jihl.",ods_kdu-csl_top09
@@ -100,6 +109,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-04,-1950,Bezhotovostní platba,,,308,210100059,3400,"3400-STŘED z.ú., pronájem sálu- beseda",ods_kdu-csl_top09
 2021-10-04,-12644.5,Bezhotovostní platba,,,308,1136607,3400,"3400-RAROLA s.r.o., inzerce JI -lídři",ods_kdu-csl_top09
 2021-10-04,-19965,Bezhotovostní platba,,,308,2210821,3400,"3400-JIPRINT s.r.o, tisk letáků - kandidáti",ods_kdu-csl_top09
+2021-10-09,-4537.5,Bezhotovostní platba,,,308,1100822,2200,,ods_kdu-csl_top09
 2021-10-01,-100,Bezhotovostní platba,,,308,1343001022,1114,"1114-Městská část Praha , poplatek za užívání veř. prostranství",ods_kdu-csl_top09
 2021-10-01,-237.16,Bezhotovostní platba,,,308,2210000201,2300,"1114-Město Kaplice, výlep plakátů",ods_kdu-csl_top09
 2021-10-01,-1899,Bezhotovostní platba,,,308,50210703,2200,"1114-Technické služby Kutná Hora, výlep plakátů",ods_kdu-csl_top09

@@ -1,6 +1,11 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-12,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
+2021-10-12,2400,Příchozí úhrada,ČERNÝ RADEK,163139699,600,finanční dar,558,42021,,CZK,kscm
+2021-10-12,415,Příchozí úhrada,Borka Jaroslav,346060123,800,"Jaroslav Borka, Karlovy Vary - finanční dar",0,0,34102,CZK,kscm
 2021-10-11,300,Příchozí úhrada,Mandát Stanislav,2110143722,2700,Mandát Stanislav -finanční dar,4202,,,CZK,kscm
 2021-10-11,3000,Příchozí úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,308,,0,CZK,kscm
+2021-10-11,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,9,,CZK,kscm
+2021-10-11,200,Okamžitá úhrada,Havelka Josef,1155122103,800,"dar Moravský Krumlov, Řeznovická 1684, Josef Havelka",,300470,,CZK,kscm
 2021-10-11,1400,Příchozí úhrada,JUHOVA JAROSLAVA,176167891,300,"""Miloslav Švantner,Plzeň - finančnídar""",,,33203,CZK,kscm
 2021-10-10,16000,Příchozí úhrada,VALENTA JIRI,125612502,300,J.Valenta finanční dar,,,,CZK,kscm
 2021-10-10,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,Srdecna gratulace k vysledku voleb!,,,,CZK,kscm

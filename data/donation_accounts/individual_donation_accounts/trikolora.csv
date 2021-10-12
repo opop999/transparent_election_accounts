@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,500,Bezhotovostní příjem,FERENČÍK ŠTĚPÁN,DAR příspěvek RP,0,9000699,0,FERENČÍK ŠTĚPÁN,trikolora
+2021-10-12,500,Bezhotovostní příjem,ŘIHOVÁ LENKA,DAR příspěvek RP,0,15000568,0,ŘIHOVÁ LENKA,trikolora
+2021-10-12,100,Bezhotovostní příjem,JAKUBÍK IVO,DAR příspěvek RP,,7000708,,JAKUBÍK IVO,trikolora
+2021-10-11,100,Okamžitá příchozí platba,Martin Veselý,DAR příspěvek RP,,12001922,,Martin Veselý,trikolora
+2021-10-11,-6e+05,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
 2021-10-11,100,Okamžitá příchozí platba,Česká spořitelna,Dar příspěvek RP,0,11002044,,Česká spořitelna,trikolora
 2021-10-11,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
 2021-10-11,1000,Bezhotovostní příjem,VLASTIMIL KUBICEK,REGISTRACE,308,1888888,,VLASTIMIL KUBICEK,trikolora

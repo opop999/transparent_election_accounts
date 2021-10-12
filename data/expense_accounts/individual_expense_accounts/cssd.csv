@@ -1,4 +1,23 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,-36106.02,Karetní transakce,,"Nákup: FACEBK WVCXR8T6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  36106.02 CZK",,4829,,"Nákup: FACEBK WVCXR8T6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  36106.02 CZK",cssd
+2021-10-12,-413,Karetní transakce,,"Nákup: FACEBK RKWZL73VB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  413.00 CZK",,2129,,"Nákup: FACEBK RKWZL73VB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  413.00 CZK",cssd
+2021-10-11,-3025,Bezhotovostní platba,,ČSSD,308,61721,,"Ewing s.r.o., webové rozhraní ""JOLLOR"", ústředí",cssd
+2021-10-11,-5000,Bezhotovostní platba,,ČSSD,308,852021,,"Monika Langrová, inzerce, Středočeský kraj",cssd
+2021-10-11,-24132.24,Bezhotovostní platba,,ČSSD,308,2117023914,,"VLTAVA LABE MEDIA a.s., inzerce, Kraj Vysočina",cssd
+2021-10-11,-926.86,Bezhotovostní platba,,ČSSD,308,181013721,,"TECHNICKÉ SLUŽBY KRNOV s.r.o., výlep plakátů, Moravskoslezský kraj",cssd
+2021-10-11,-26000,Platba převodem uvnitř banky,,ČSSD,308,2101,,"RIVIÉRA PÍSTOVICE, s.r.o., catering na akci, Jihomoravský kraj",cssd
+2021-10-11,-10558.94,Bezhotovostní platba,,ČSSD,308,2117023296,,"VLTAVA LABE MEDIA a.s., inzerce, Olomoucký kraj",cssd
+2021-10-11,-26620,Bezhotovostní platba,,ČSSD,308,210101501,,"KELI-PRO Centrum digitálního tisku s.r.o., dopisy, Středočeský kraj",cssd
+2021-10-11,-907.5,Bezhotovostní platba,,ČSSD,308,210101502,,"KELI-PRO Centrum digitálního tisku s.r.o., pohlednice, Středočeský kraj",cssd
+2021-10-11,-22627,Platba převodem uvnitř banky,,ČSSD,308,2021059,,"Cíl, a.s. v Praze, instalace bannerů, ústředí",cssd
+2021-10-11,-2551.89,Platba převodem uvnitř banky,,ČSSD,308,2021057,,"Cíl, a.s. v Praze, potisk desky, ústředí",cssd
+2021-10-11,-4936.8,Bezhotovostní platba,,ČSSD,308,714210112,,"Služby města Pardubic a.s., výlep plakátů, Pardubický kraj",cssd
+2021-10-11,-2588,Bezhotovostní platba,,ČSSD,308,5000377,,"Florea Holland s.r.o., růže, Středočeský kraj",cssd
+2021-10-11,-480,Bezhotovostní platba,,ČSSD,308,115588,,"Kabelová televize Kadaň, a.s., výlep plakátů, Ústecký kraj",cssd
+2021-10-11,-18150,Platba převodem uvnitř banky,,ČSSD,308,2021053,,"provocation s.r.o., Dohoda o narovnání, ústředí",cssd
+2021-10-11,-5198,Bezhotovostní platba,,ČSSD,308,9,,"Plívová, občerstvení na akci, ústředí",cssd
+2021-10-11,-555.73,Bezhotovostní platba,,ČSSD,308,9,,"Plívová, občerstvení na akci, ústředí",cssd
+2021-10-11,3496,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
 2021-10-11,81890.9,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
 2021-10-11,183056,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR,cssd
 2021-10-11,7176,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Plzeňský kraj na volby PS PČR,,,,převod z KP Plzeňský kraj na volby PS PČR,cssd

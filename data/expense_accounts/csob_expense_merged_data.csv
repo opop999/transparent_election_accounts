@@ -1,6 +1,22 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
 2021-10-11,447.7,Příchozí úhrada,KSCM,209509078,300,volby PS 2021,,33104,,CZK,kscm
+2021-10-11,40000,Příchozí úhrada,KOMUNISTIC.STR.CECH,298971749,300,Převod na TÚ,,33100,,CZK,kscm
 2021-10-11,1768.54,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,,33107,,CZK,kscm
+2021-10-11,4235,Okamžitá úhrada,KOMUNISTIC.STR.CECH,299325124,300,inzerce volby do PS PČR,,1146163,,CZK,kscm
+2021-10-11,-176,Odchozí úhrada,Město Vrbno pod Pradědem,1720771,100,volby PČR - výlep,0,21000131,,CZK,kscm
+2021-10-11,-180,Odchozí úhrada,Technické služby města Benátky,28827181,100,volby PČR - výlep,0,321135,,CZK,kscm
+2021-10-11,-447.7,Odchozí úhrada,Město Protivín,90050001824271,100,volby PČR - výlep,0,202100414,,CZK,kscm
+2021-10-11,-500,Odchozí úhrada,Statutární město Teplice,190000226501,100,volby PČR - odběr elektřiny,0,711210150,,CZK,kscm
+2021-10-11,-1768.54,Odchozí úhrada,WIP Reklama spol. s r.o.,1100004396,5500,volby PČR - výlep,0,211301751,,CZK,kscm
+2021-10-11,-2160.09,Odchozí úhrada,Ing. Ivo Mischinger,592544801,100,volby PČR - výlep,0,202100546,,CZK,kscm
+2021-10-11,-3100,Odchozí úhrada,Jana Macková,1015070807,6100,volby PČR - inzerce,0,802021,,CZK,kscm
+2021-10-11,-8432.62,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznos,0,5190573193,,CZK,kscm
+2021-10-11,-16600,Odchozí úhrada,Dr. Milan Havlíček,816045201,100,volby PČR - plakáty,0,2021026,,CZK,kscm
+2021-10-11,-18755,Odchozí úhrada,JALOVEC s.r.o.,357485680287,100,volby PČR - inzerce,0,202100815,,CZK,kscm
+2021-10-11,-25229.52,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznos,0,5190573194,,CZK,kscm
+2021-10-11,-29645,Odchozí úhrada,"PAROLA, spol. s r.o.",403247681,100,volby PČR - inzerce,0,1136669,,CZK,kscm
+2021-10-11,-38332.8,Odchozí úhrada,EUROPLAKAT spol. s r. o.,406749011,100,volby PČR - pronájem rekl.plochy,0,21502211,,CZK,kscm
+2021-10-11,-84472.56,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117023446,,CZK,kscm
 2021-10-11,2047.67,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko.,0,,,CZK,kscm
 2021-10-08,-57112,Odchozí úhrada,MT & Coaching s.r.o.,2000503088,2010,volby PČR - mediální přípravakandidátů,0,2161002,,CZK,kscm
 2021-10-08,1270.5,Příchozí úhrada,KOMUNISTIC.STR.CECH,299014959,300,převod od OV KSCM Most,,34205,,CZK,kscm

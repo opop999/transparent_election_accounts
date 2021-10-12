@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-11,-400,Bezhotovostní platba,,vratka mylné platby - jak poslat dar: dary.zeleni.cz,,,,Přikryl Daniel,zeleni
+2021-10-11,-200,Bezhotovostní platba,,vratka mylné platby - jak poslat dar: dary.zeleni.cz,,,,Petr Němec,zeleni
+2021-10-11,-25000,Bezhotovostní platba,,FA 210030 - poradenství a služby Public & media relations,,210030,,SZ - Svatopluk Bartík,zeleni
+2021-10-11,-3100,Bezhotovostní platba,,FA 832021 - inzerce v novinách,308,832021,20,STČ - Jana Macková,zeleni
+2021-10-11,3100,Platba převodem uvnitř banky,Strana zelených,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,832021,20,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-11,-3000,Bezhotovostní platba,,FA 2021032 - fotografování,,2021032,,SZ - Anna Šolcová,zeleni
 2021-10-10,400,Okamžitá příchozí platba,Přikryl Daniel,"Dekuji vsem priznivcum Zelenych,kteri volili PirStan. Mame hodnotya programove priority v souladua drzime kurz.",0,,,Přikryl Daniel,zeleni
 2021-10-09,200,Okamžitá příchozí platba,Petr Němec,Nevolil jsem Vás ale jste dobrá strana. Přeji hodně úspěchů do budoucna.,,,,Petr Němec,zeleni
 2021-10-09,-24200,Karetní transakce,,"Nákup: FACEBK 3H2K98FJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  24200.00 CZK",,6211,,"Nákup: FACEBK 3H2K98FJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 8.10.2021, částka  24200.00 CZK",zeleni

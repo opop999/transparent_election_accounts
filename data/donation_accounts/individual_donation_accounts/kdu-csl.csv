@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-11,58000,Okamžitá příchozí platba,Čižinský Jan,Dar podle prispevkoveho radu,0,7804220105,101,Čižinský Jan,kdu-csl
+2021-10-11,40000,Bezhotovostní příjem,CURYLO LUKAS,,,3021974,851,CURYLO LUKAS,kdu-csl
+2021-10-11,3000,Bezhotovostní příjem,POMIKÁLEK VÁCLAV,,308,12061961,851,POMIKÁLEK VÁCLAV,kdu-csl
 2021-10-11,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2021-10-11,3000,Bezhotovostní příjem,Mgr.Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Mgr.Benešík Ondřej,kdu-csl
 2021-10-11,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
