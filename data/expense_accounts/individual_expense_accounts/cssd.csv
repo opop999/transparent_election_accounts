@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,-42350,Bezhotovostní platba,,ČSSD,308,6502210132,,"Dopravní podnik města Brna, a.s., plavba lodí, Jihomoravský kraj",cssd
+2021-10-12,-14900,Bezhotovostní platba,,ČSSD,308,210100219,,"GRAFTIS - grafika a tisk, s.r.o., tisk bannerů,plakátů, Kraj Praha",cssd
+2021-10-12,-200,Bezhotovostní platba,,ČSSD,308,20210008,,"CZpeak services s.r.o., růže na akci, Královéhradecký kraj",cssd
+2021-10-12,-2000,Bezhotovostní platba,,ČSSD,308,20210007,,"CZpeak services s.r.o., zajištění bčerstvení, Královéhradecký kraj",cssd
+2021-10-12,-6000,Bezhotovostní platba,,ČSSD,308,20210006,,"CZpeak services s.r.o., umístění plachty, Pardubický kraj",cssd
+2021-10-12,-15909.08,Platba převodem uvnitř banky,,ČSSD,308,21220185,,"dům tisku s.r.o., tisk vizitek,plakátů, letáků, Ústecký kraj",cssd
+2021-10-12,-544.5,Bezhotovostní platba,,,308,202100413,,"Město Protivín, vylepení plakátů, Jihočeský kraj",cssd
+2021-10-12,-3600,Bezhotovostní platba,,ČSSD,308,10101732,,"Technické služby Moravská Třebová s.r.o., výlep  plakátů, Pardubický kraj",cssd
+2021-10-12,-3401,Bezhotovostní platba,,ČSSD,308,9,,"Lenka Rašková, drobné výdaje, Olomoucký kraj",cssd
+2021-10-12,-7839,Bezhotovostní platba,,ČSSD,308,9,,"Tomáš Šenkeřík, drobné výdaje, Zlínský kraj",cssd
+2021-10-12,56620,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-10-12,154013,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
+2021-10-12,360322,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Moravskoslezský kraj na volby PS PČR,,,,převod z KP Moravskoslezský kraj na volby PS PČR,cssd
 2021-10-12,-36106.02,Karetní transakce,,"Nákup: FACEBK WVCXR8T6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  36106.02 CZK",,4829,,"Nákup: FACEBK WVCXR8T6M2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  36106.02 CZK",cssd
 2021-10-12,-413,Karetní transakce,,"Nákup: FACEBK RKWZL73VB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  413.00 CZK",,2129,,"Nákup: FACEBK RKWZL73VB2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.10.2021, částka  413.00 CZK",cssd
 2021-10-11,-3025,Bezhotovostní platba,,ČSSD,308,61721,,"Ewing s.r.o., webové rozhraní ""JOLLOR"", ústředí",cssd

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,36000,Bezhotovostní příjem,TOMÁŠEK PETR,"DAR, Petr Tomášek",0,2902210007,0,TOMÁŠEK PETR,ods
+2021-10-12,20000,Okamžitá příchozí platba,Ing. Miroslav Svozil,"DAR, Miroslav Svozil",0,3001210041,,Ing. Miroslav Svozil,ods
+2021-10-12,70000,Okamžitá příchozí platba,Ing. Miroslav Svozil,"DAR,Miroslav Svozil",0,3001210042,,Ing. Miroslav Svozil,ods
+2021-10-12,23000,Okamžitá příchozí platba,"Jablonec 2010, z.s.","DAR, Jablonec 2010, z.s.",,2703210007,,"Jablonec 2010, z.s.",ods
+2021-10-12,24000,Okamžitá příchozí platba,"Jablonec 2010, z.s.","DAR, Jablonec 2010, z.s.",,2703210008,,"Jablonec 2010, z.s.",ods
+2021-10-12,24000,Okamžitá příchozí platba,"Jablonec 2010, z.s.","DAR, Jablonec 2010, z.s.",,2704210003,,"Jablonec 2010, z.s.",ods
 2021-10-11,1000,Bezhotovostní příjem,Cejnarová Jeanette,dar - Jeanette Cejnarová,0,2113210013,,Cejnarová Jeanette,ods
 2021-10-11,2000,Bezhotovostní příjem,JAKOBEC KAREL,"DAR, Karel Jakobec",0,2500210006,0,JAKOBEC KAREL,ods
 2021-10-09,15000,Platba převodem uvnitř banky,"Mgr. Kopejtková, Alena","DAR, Alena Kopejtková",,2113210028,,"DAR, Alena Kopejtková",ods

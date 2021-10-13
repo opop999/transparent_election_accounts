@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-13,200,Bezhotovostní příjem,Řezník Michal,Dar hnutí,0,,,Řezník Michal,prisaha
+2021-10-12,-104000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-10-12,-208000,Platba převodem uvnitř banky,,Převod na mzdový účet hnutí PŘÍSAHA,,,,Převod na mzdový účet hnutí PŘÍSAHA,prisaha
+2021-10-12,500,Platba převodem uvnitř banky,"Jungmann, Oldřich",členský příspěvek,,,,členský příspěvek,prisaha
+2021-10-12,5000,Vklad v hotovosti,,,558,,,,prisaha
+2021-10-12,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha
 2021-10-12,200,Bezhotovostní příjem,HEPL ROMAN,DAR PŘÍSAHA,0,0,0,HEPL ROMAN,prisaha
 2021-10-11,9000,Okamžitá příchozí platba,Štetinová Iveta,dar hnuti,0,,,Štetinová Iveta,prisaha
 2021-10-11,-635000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha

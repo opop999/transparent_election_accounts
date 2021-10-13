@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-13,1000,Bezhotovostní příjem,DAMEK JAN,JAN DAMEK PRO MS F-M PIRÁTI,0,44015609,110404,DAMEK JAN,pirati
+2021-10-13,300,Bezhotovostní příjem,HAŠEK KAREL,,0,84537,1,HAŠEK KAREL,pirati
+2021-10-13,666,Platba převodem uvnitř banky,"Karlík, Petr",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-10-13,2000,Platba převodem uvnitř banky,"Švadlenka, Martin",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-10-13,200,Bezhotovostní příjem,Vladimír Zábranský,Pirátská strana,0,86909,1,Vladimír Zábranský,pirati
+2021-10-13,500,Bezhotovostní příjem,JAKUB HANUS,DÍKY ZA VAŠI PRÁCI,,82998,193000,JAKUB HANUS,pirati
+2021-10-12,2000,Okamžitá příchozí platba,Skálová Zuzana,,0,44016332,,Skálová Zuzana,pirati
+2021-10-12,8000,Okamžitá příchozí platba,Žídková Hana,Arnošt Žídek - roční desátek,0,44016331,140400,Žídková Hana,pirati
+2021-10-12,200,Bezhotovostní příjem,MARTIN KRYL,PIRÁTI - DAR,,44011156,,MARTIN KRYL,pirati
+2021-10-12,3000,Bezhotovostní příjem,Jana Komrsková,,1101,11396,,Jana Komrsková,pirati
+2021-10-12,200,Bezhotovostní příjem,Miloslava Hechtová,,,85333,,Miloslava Hechtová,pirati
+2021-10-12,1500,Bezhotovostní příjem,Jan Adamec,Dar na provoz MS Praha 12,,,110112,Jan Adamec,pirati
+2021-10-12,150,Bezhotovostní příjem,Michal Polák,Sharing is caring,,85367,1,Michal Polák,pirati
+2021-10-12,100,Bezhotovostní příjem,Tomáš Hort,,,82268,1,Tomáš Hort,pirati
 2021-10-12,4717.01,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1700003172,20211011,Global Payments s.r.,pirati
 2021-10-12,300,Bezhotovostní příjem,BOUDA TOMÁŠ,,0,86199,110708,BOUDA TOMÁŠ,pirati
 2021-10-12,500,Bezhotovostní příjem,BECK JAN,PIRATES,0,44005705,1,BECK JAN,pirati

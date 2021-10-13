@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,77440,Platba převodem uvnitř banky,"OUTDOOR MEDIA CZ, s.r.o.",vratka úhrady ze dne 10.8. 2021,,202103,,vratka úhrady ze dne 10.8. 2021,trikolora
+2021-10-12,1482,Platba převodem uvnitř banky,ŽÍDEK tisk s.r.o.,vrácení platby-uhrazeno 2x,308,218103355,,vrácení platby-uhrazeno 2x,trikolora
 2021-10-12,9244.4,Bezhotovostní příjem,EUROPLAKAT SPOL. S R,,308,21502159,0,EUROPLAKAT SPOL. S R,trikolora
 2021-10-11,-20250,Okamžitá odchozí platba,,organizace koncertu a zajištění zdravotního dozoru - Praha,308,32021,,organizace koncertu a zajištění zdravotního dozoru - Praha,trikolora
 2021-10-11,-24200,Bezhotovostní platba,,reklamní kampaň Protiproud - Centrála,308,210100017,,reklamní kampaň Protiproud - Centrála,trikolora

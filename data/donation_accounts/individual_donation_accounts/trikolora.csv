@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-13,300,Bezhotovostní příjem,BĚLOHLÁVEK TOMÁŠ,"DAR, TOMÁŠ BĚLOHLÁVEK",0,0,0,BĚLOHLÁVEK TOMÁŠ,trikolora
+2021-10-12,100,Bezhotovostní příjem,DOLEZAL JAN,DAR prispevek RP,308,11002045,18,DOLEZAL JAN,trikolora
+2021-10-12,100,Okamžitá příchozí platba,BERGER MARTIN,,,12000025,,BERGER MARTIN,trikolora
+2021-10-12,50000,Bezhotovostní příjem,Chmela Emil,"DAR, Emil Chmela",,123456,,Chmela Emil,trikolora
 2021-10-12,500,Bezhotovostní příjem,FERENČÍK ŠTĚPÁN,DAR příspěvek RP,0,9000699,0,FERENČÍK ŠTĚPÁN,trikolora
 2021-10-12,500,Bezhotovostní příjem,ŘIHOVÁ LENKA,DAR příspěvek RP,0,15000568,0,ŘIHOVÁ LENKA,trikolora
 2021-10-12,100,Bezhotovostní příjem,JAKUBÍK IVO,DAR příspěvek RP,,7000708,,JAKUBÍK IVO,trikolora

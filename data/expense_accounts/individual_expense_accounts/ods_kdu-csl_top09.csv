@@ -1,5 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-12,-19130,Bezhotovostní platba,,,308,2021033,2700,,ods_kdu-csl_top09
+2021-10-12,-112638.9,Platba převodem uvnitř banky,,,308,20210046,1114,"1114-Nordeko a.s., tisk  BB, distribuce",ods_kdu-csl_top09
+2021-10-12,-43705,Platba převodem uvnitř banky,,,308,2021022,11114,"1114-Roman Pištělák, výlep plakátů",ods_kdu-csl_top09
+2021-10-12,-790,Bezhotovostní platba,,,308,2108000120,1114,"1114-Městské kulturní středisko Tachov, výlep plakátů",ods_kdu-csl_top09
+2021-10-12,-840,Bezhotovostní platba,,,308,21135,1114,"1114-Městské kulturní zařízení, výlep plakátů",ods_kdu-csl_top09
+2021-10-12,-28602.95,Bezhotovostní platba,,,308,2103000105,1114,"1114-Katolický týdeník s.r.o., tištěná inzerce",ods_kdu-csl_top09
+2021-10-12,-200,Bezhotovostní platba,,,308,210100041,1114,"1114-Kulturní zařízení města Postoloprty, výlep plakátů",ods_kdu-csl_top09
+2021-10-12,-19130,Bezhotovostní platba,,,308,2021033,2700,"2700-Jablonec 2010 z.s., zajištění akcí , výlep plakátů , občerstvení",ods_kdu-csl_top09
 2021-10-11,-1212,Bezhotovostní platba,,,308,677,2300,"2300-Iveta Uhlíková , cestovné",ods_kdu-csl_top09
 2021-10-11,-2082,Bezhotovostní platba,,,308,676,2300,"2300-Karel Šerák , cestovné",ods_kdu-csl_top09
 2021-10-11,-257,Bezhotovostní platba,,,308,211006,2300,"2300-Karel Šerák , parkovné , poplatek zábor",ods_kdu-csl_top09
@@ -63,6 +69,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-05,-254100,Bezhotovostní platba,,,308,2021225,1114,"1114-COOT CZ s.r.o., přepravní služby ( auta , BUS)",ods_kdu-csl_top09
 2021-10-05,-560230,Bezhotovostní platba,,,308,210100167,1114,"1114-Dream PRO s.r.o., zahájení Slovanský dům, technika, pronájem občerstvení",ods_kdu-csl_top09
 2021-10-05,-284350,Bezhotovostní platba,,,308,210100127,1114,"1114-Dream Pro, s.r.o., personální zajištění vol. akcí",ods_kdu-csl_top09
+2021-10-12,-19130,Bezhotovostní platba,,,308,2021033,2700,,ods_kdu-csl_top09
 2021-10-04,-10000,Okamžitá odchozí platba,,,558,2210013,2100,"2400-Quo-SB s.r.o., reklama na FBC",ods_kdu-csl_top09
 2021-10-04,-10000,Okamžitá odchozí platba,,,0,2210012,2400,"2100-Quo-SB s.r.o., reklama na FBC",ods_kdu-csl_top09
 2021-10-04,-2170.73,Bezhotovostní platba,,,378,101624031,,"1114-Jana Žáková, reklama na FBC",ods_kdu-csl_top09

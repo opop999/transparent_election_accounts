@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-12,-8625.7,Platba převodem uvnitř banky,,vratka mylné platby - provozní účet KO ÚLK,,,42,vratka mylné platby - provozní účet KO ÚLK,zeleni
+2021-10-12,-5910,Platba převodem uvnitř banky,,FA 1210583 - deska s potiskem,,1210583,,SZ - Studio STKI s. r. o.,zeleni
+2021-10-12,-30831,Bezhotovostní platba,,FV-3762/2021 - výlep plakátů,,10123762,42,"ÚLK - RENGL, s.r.o.",zeleni
+2021-10-12,-15000,Bezhotovostní platba,,"FA 49 - kreativa, organizace kampaně",,49,,SZ - Robin Kvapil,zeleni
+2021-10-12,-9692,Platba převodem uvnitř banky,,FA 202101 - zajištění tiskového brífinku,,202101,,SZ - Poradenství Bartík,zeleni
+2021-10-12,30831,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,10123762,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-12,8625.7,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-11,-400,Bezhotovostní platba,,vratka mylné platby - jak poslat dar: dary.zeleni.cz,,,,Přikryl Daniel,zeleni
 2021-10-11,-200,Bezhotovostní platba,,vratka mylné platby - jak poslat dar: dary.zeleni.cz,,,,Petr Němec,zeleni
 2021-10-11,-25000,Bezhotovostní platba,,FA 210030 - poradenství a služby Public & media relations,,210030,,SZ - Svatopluk Bartík,zeleni
