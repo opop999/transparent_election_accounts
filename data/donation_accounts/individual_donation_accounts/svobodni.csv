@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-14,100,Bezhotovostní příjem,PHILIPPA HANAKO HANA,DAR PRIZNIVCE,,9335,,PHILIPPA HANAKO HANA,svobodni
+2021-10-13,200,Okamžitá příchozí platba,Jan Burda,DAR PRIZNIVCE,,7975,,Jan Burda,svobodni
+2021-10-13,300,Okamžitá příchozí platba,Pavel Růžička,příspěvek příznivce Pavel Růžička,,9401,,Pavel Růžička,svobodni
+2021-10-13,100,Bezhotovostní příjem,JAN VOMLEL,DAR PRIZNIVCE,,9402,,JAN VOMLEL,svobodni
 2021-10-12,500,Okamžitá příchozí platba,BURSÁKOVÁ BRONISLAVA,příspěvek příznivce Bronislava Bursáková,,9397,,BURSÁKOVÁ BRONISLAVA,svobodni
 2021-10-12,100,Okamžitá příchozí platba,RUBIN TOMÁŠ,DAR PRIZNIVCE,,9396,,RUBIN TOMÁŠ,svobodni
 2021-10-12,200,Okamžitá příchozí platba,MILABERSKÝ MICHAL,,,9394,,MILABERSKÝ MICHAL,svobodni

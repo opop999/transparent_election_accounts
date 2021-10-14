@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-14,1000,Bezhotovostní příjem,MUDr. Ladislav Jon,DAR  MUDr Ladislav Jon IČO 47731168,558,47731168,,MUDr. Ladislav Jon,trikolora
+2021-10-14,1000,Bezhotovostní příjem,Kubín Zdeněk,podpora trikolory,,1888888,,Kubín Zdeněk,trikolora
+2021-10-13,100,Okamžitá příchozí platba,Jakub Danel,DAR příspěvek RP,,6001374,,Jakub Danel,trikolora
+2021-10-13,111,Bezhotovostní příjem,MATĚK JINDŘICH,DAR příspěvek RP,0,9000700,0,MATĚK JINDŘICH,trikolora
 2021-10-13,300,Bezhotovostní příjem,BĚLOHLÁVEK TOMÁŠ,"DAR, TOMÁŠ BĚLOHLÁVEK",0,0,0,BĚLOHLÁVEK TOMÁŠ,trikolora
 2021-10-12,100,Bezhotovostní příjem,DOLEZAL JAN,DAR prispevek RP,308,11002045,18,DOLEZAL JAN,trikolora
 2021-10-12,100,Okamžitá příchozí platba,BERGER MARTIN,,,12000025,,BERGER MARTIN,trikolora

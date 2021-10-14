@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-13,-3e+06,Bezhotovostní platba,,"Český Domov,tisk a distribuce novin",308,21002,100,"Český Domov,tisk a distribuce novin",spd
+2021-10-13,-447.98,Bezhotovostní platba,,"TS Třešť, spol. s r.o., výlep",308,1416797,1300,"TS Třešť, spol. s r.o., výlep",spd
+2021-10-13,-760,Bezhotovostní platba,,"Obec Okrouhlice, pronájem ploch",308,210179,1300,"Obec Okrouhlice, pronájem ploch",spd
+2021-10-13,-65340,Bezhotovostní platba,,"Olmer ad, s.r.o., tech. zajištění",308,210200,100,"Olmer ad, s.r.o., tech. zajištění",spd
+2021-10-13,-47614,Bezhotovostní platba,,"Agentura A-PROPOS, vícenáklady",308,210100291,100,"Agentura A-PROPOS, vícenáklady",spd
+2021-10-13,-42229,Bezhotovostní platba,,"Agentura A-PROPOS , vícenáklady",308,210100290,100,"Agentura A-PROPOS , vícenáklady",spd
+2021-10-13,-6473.5,Bezhotovostní platba,,"BigMedia, spol. s r.o.,náhr. plochy",308,4212102144,100,"BigMedia, spol. s r.o.,náhr. plochy",spd
+2021-10-13,-16000,Bezhotovostní platba,,"Filip Mruzek, soc. sítě, web",308,20210031,100,"Filip Mruzek, soc. sítě, web",spd
+2021-10-13,-64614,Bezhotovostní platba,,"MD Vision s.r.o., grafické práce",308,21217067,100,"MD Vision s.r.o., grafické práce",spd
+2021-10-13,-61589,Bezhotovostní platba,,"MD Vision s.r.o., focení kandidátů",308,21217068,100,"MD Vision s.r.o., focení kandidátů",spd
+2021-10-13,-330621,Bezhotovostní platba,,"MD Vision s.r.o., focení kandidátů",308,21217066,100,"MD Vision s.r.o., focení kandidátů",spd
+2021-10-13,-121000,Bezhotovostní platba,,"Kolda studio s.r.o., vystoupení",308,1721,100,"Kolda studio s.r.o., vystoupení",spd
+2021-10-13,-20000,Bezhotovostní platba,,"Ondřej Březina, výkon. marketing FB",308,20210013,100,"Ondřej Březina, výkon. marketing FB",spd
+2021-10-13,4e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-10-11,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.10.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.10.2021, částka  15000.00 CZK",spd
 2021-10-11,-20000,Karetní transakce,,"Nákup: FACEBK G6BT683AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK G6BT683AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",spd
 2021-10-08,-20000,Karetní transakce,,"Nákup: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20000.00 CZK",spd

@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-13,6000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jaroslav Špaček, na volby PS PČR, Pardubický kraj",,,,"převod daru Jaroslav Špaček, na volby PS PČR, Pardubický kraj",cssd
+2021-10-13,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Antonín Krák, na volby PS PČR, Jihočeský kraj",,,,"převod daru Antonín Krák, na volby PS PČR, Jihočeský kraj",cssd
+2021-10-13,-4046.9,Platba převodem uvnitř banky,,ČSSD,308,2021058,,"Cíl, a.s. v Praze, propagační předměty, ústředí",cssd
+2021-10-13,-11197,Bezhotovostní platba,,ČSSD,308,1072021,,"harst agency s.r.o., pronájem a polep automobilu, Kraj Vysočina",cssd
+2021-10-13,-12100,Bezhotovostní platba,,ČSSD,308,1166224,,"PAROLA, spol. s r.o., plošná inzerce, Kraj Vysočina",cssd
+2021-10-13,63111.39,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR,cssd
+2021-10-13,-22,Bezhotovostní platba,,ČSSD,308,9,,"Ondřej Kuba, drobný nákup, Pardubický kraj",cssd
+2021-10-13,-1394,Platba převodem uvnitř banky,,ČSSD,308,9,,"Zdenka Molková, drobný nákup, Pardubický kraj",cssd
+2021-10-13,-6438,Bezhotovostní platba,,ČSSD,308,9,,"Michaela Skalická, drobný nákup, Pardubický kraj",cssd
+2021-10-13,-404.7,Bezhotovostní platba,,ČSSD,308,9,,"Markéta Juchelková, drobný nákup, Pardubický kraj",cssd
+2021-10-13,-2280,Bezhotovostní platba,,ČSSD,558,2621210106,,"Městský obvod Pardubice III, užívání veřejného prostranství, Pardubický kraj",cssd
+2021-10-13,-2280,Bezhotovostní platba,,ČSSD,558,2100537,1343,"Městský obvod Pardubice V, užívání veřejného prostranství, Pardubický kraj",cssd
+2021-10-13,-3500,Okamžitá odchozí platba,,ČSSD,308,202109,,"Květiny Alena Pelnářová, růže, Jihočeský kraj",cssd
+2021-10-13,52223.6,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-10-13,10601,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Ústecký kraj na volby PS PČR,,,,převod z KP Ústecký kraj na volby PS PČR,cssd
+2021-10-13,-378,Karetní transakce,,"Nákup: MESTSKY OBVOD 3,  SADY PETATRICATNIKU, PLZEN 1, 301 00, CZE, dne 12.10.2021, částka  378.00 CZK",,9502,,"Nákup: MESTSKY OBVOD 3,  SADY PETATRICATNIKU, PLZEN 1, 301 00, CZE, dne 12.10.2021, částka  378.00 CZK",cssd
+2021-10-13,-346985.65,Bezhotovostní platba,,ČSSD,308,61521,,"Ewing s.r.o., centrální profil, správa FB, ústředí",cssd
+2021-10-13,-121000,Bezhotovostní platba,,ČSSD,308,61621,,"Ewing s.r.o., konzultační a strategické poradenství, ústředí",cssd
+2021-10-13,-313390,Bezhotovostní platba,,ČSSD,308,7621,,"LL Production, s.r.o., zajištění programové konference v Brně, ústředí",cssd
+2021-10-13,-1540690.99,Bezhotovostní platba,,ČSSD,308,5190573355,,"Česká pošta, s.p., kompletace, roznáška, ústředí",cssd
+2021-10-13,-1391591.86,Bezhotovostní platba,,ČSSD,308,5118373474,,"Česká pošta, s.p., roznáška materiálů, ústředí",cssd
+2021-10-13,-363000,Bezhotovostní platba,,ČSSD,308,4212102106,,"BigMedia, spol. s r.o., tisk plakátů, ústředí",cssd
+2021-10-13,3500000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
 2021-10-12,-42350,Bezhotovostní platba,,ČSSD,308,6502210132,,"Dopravní podnik města Brna, a.s., plavba lodí, Jihomoravský kraj",cssd
 2021-10-12,-14900,Bezhotovostní platba,,ČSSD,308,210100219,,"GRAFTIS - grafika a tisk, s.r.o., tisk bannerů,plakátů, Kraj Praha",cssd
 2021-10-12,-200,Bezhotovostní platba,,ČSSD,308,20210008,,"CZpeak services s.r.o., růže na akci, Královéhradecký kraj",cssd

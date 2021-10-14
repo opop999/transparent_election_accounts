@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-13,280,Okamžitá úhrada,OBVODNÍ VÝBOR KOMUNI,293872389,800,Zábor místa volby OV P 10,,,,CZK,kscm
+2021-10-13,6582,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,2237511,100,,558,35201,,CZK,kscm
 2021-10-12,36091.53,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm
 2021-10-12,-80,Odchozí úhrada,Město Bučovice,9023500287,100,volby PČR - výlep,0,2091000016,,CZK,kscm
 2021-10-12,-948,Odchozí úhrada,Technické služby Havlíčkův Bro,1426521,100,volby PČR - zpřístupnění zásuvkové skříně,0,22100212,,CZK,kscm
@@ -63,20 +65,20 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-07,-50820,Odchozí úhrada,Český Domov Media House s.r.o.,2110626628,2700,volby PČR - inzerce,0,21321214,,CZK,kscm
 2021-10-07,-1488153.17,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190573350,,CZK,kscm
 2021-10-06,4284,Příchozí úhrada,OV KSČM Praha 1,299098208,300,Převod na TÚ z OV P 1,,31101,,CZK,kscm
-2021-10-06,160000,Příchozí úhrada,KSCM,15183073,300,,558,34200,,CZK,kscm
-2021-10-06,300,Příchozí úhrada,KSCM,209509078,300,volby PS 2021,,33104,,CZK,kscm
-2021-10-06,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
-2021-10-06,-300,Odchozí úhrada,Milevskem s.r.o.,5295149349,800,volby PČR - výlep,0,2021048,,CZK,kscm
-2021-10-06,-4000,Odchozí úhrada,Richard Sitta,2279375123,800,volby PČR - hudební produkce,0,2021001,,CZK,kscm
-2021-10-06,-4235,Odchozí úhrada,"PAROLA, spol. s r.o.",403247681,100,volby PČR - inzerce,0,1156211,,CZK,kscm
-2021-10-06,-5000,Odchozí úhrada,Václav Chaloupka,1015180803,6100,volby PČR - hudební produkce,0,51021,,CZK,kscm
-2021-10-06,-7623,Odchozí úhrada,WIP Reklama spol. s r.o.,1100004396,5500,volby PČR - pronájem plochy BB,0,211301562,,CZK,kscm
-2021-10-06,-9180,Odchozí úhrada,"BD trans, spol. s r.o.",2100402030,2010,volby PČR - přeprava osob,0,21123,,CZK,kscm
-2021-10-06,-18831,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123404,,CZK,kscm
-2021-10-06,-23199.33,Odchozí úhrada,Media Concept s. r. o.,2200559318,2010,volby PČR - inzerce,0,20210104,,CZK,kscm
-2021-10-06,900,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV Rakovník /platba hotově pošta,0,32112,,CZK,kscm
-2021-10-06,500,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV RAKOVNÍK /platba hotově zábor místa,0,32112,,CZK,kscm
 2021-10-06,5000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV Rakovník / hudba mítink,0,32112,,CZK,kscm
+2021-10-06,500,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV RAKOVNÍK /platba hotově zábor místa,0,32112,,CZK,kscm
+2021-10-06,900,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV Rakovník /platba hotově pošta,0,32112,,CZK,kscm
+2021-10-06,-23199.33,Odchozí úhrada,Media Concept s. r. o.,2200559318,2010,volby PČR - inzerce,0,20210104,,CZK,kscm
+2021-10-06,-18831,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123404,,CZK,kscm
+2021-10-06,-9180,Odchozí úhrada,"BD trans, spol. s r.o.",2100402030,2010,volby PČR - přeprava osob,0,21123,,CZK,kscm
+2021-10-06,-7623,Odchozí úhrada,WIP Reklama spol. s r.o.,1100004396,5500,volby PČR - pronájem plochy BB,0,211301562,,CZK,kscm
+2021-10-06,-5000,Odchozí úhrada,Václav Chaloupka,1015180803,6100,volby PČR - hudební produkce,0,51021,,CZK,kscm
+2021-10-06,-4235,Odchozí úhrada,"PAROLA, spol. s r.o.",403247681,100,volby PČR - inzerce,0,1156211,,CZK,kscm
+2021-10-06,-4000,Odchozí úhrada,Richard Sitta,2279375123,800,volby PČR - hudební produkce,0,2021001,,CZK,kscm
+2021-10-06,-300,Odchozí úhrada,Milevskem s.r.o.,5295149349,800,volby PČR - výlep,0,2021048,,CZK,kscm
+2021-10-06,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
+2021-10-06,300,Příchozí úhrada,KSCM,209509078,300,volby PS 2021,,33104,,CZK,kscm
+2021-10-06,160000,Příchozí úhrada,KSCM,15183073,300,,558,34200,,CZK,kscm
 2021-10-05,-155000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - pronájem panelů metro,0,2021110286,,CZK,kscm
 2021-10-05,-15125,Odchozí úhrada,Blahoslav Frank,864101700207,100,volby PČR - hudební produkce,0,2021017,,CZK,kscm
 2021-10-05,-10080.51,Odchozí úhrada,Ladislav Ketner,188619605,300,volby PČR - přeprava osob,0,202193,,CZK,kscm

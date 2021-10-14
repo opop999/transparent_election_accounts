@@ -1,4 +1,51 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-14,600,Bezhotovostní příjem,ŠVEC MARTIN,dar,,9002634,,ŠVEC MARTIN,zeleni
+2021-10-14,500,Bezhotovostní příjem,Tomáš Hrabal,,,9003567,,Tomáš Hrabal,zeleni
+2021-10-14,200,Bezhotovostní příjem,Petra Zikmundová,Pravidelný dar,,9003691,,Petra Zikmundová,zeleni
+2021-10-14,300,Bezhotovostní příjem,Zuzana Josková,Dar,,,,Zuzana Josková,zeleni
+2021-10-14,300,Bezhotovostní příjem,František Vodsloň,dar,,9003663,,František Vodsloň,zeleni
+2021-10-14,100,Bezhotovostní příjem,VECEREK BOHUMIR,dar pro ZO Novy Jicin,,0,,VECEREK BOHUMIR,zeleni
+2021-10-14,150,Bezhotovostní příjem,CERNY MATOUS,dar,,9001010,,CERNY MATOUS,zeleni
+2021-10-14,1000,Bezhotovostní příjem,Oplatek David,Dar ZO SZ Brno-střed,0,0,0,Oplatek David,zeleni
+2021-10-14,150,Bezhotovostní příjem,Novák Ondřej,Dar,0,9002639,,Novák Ondřej,zeleni
+2021-10-14,1000,Bezhotovostní příjem,Mgr.Flamiková Jasna,Dar ZO SZ Brno-střed,0,0,0,Mgr.Flamiková Jasna,zeleni
+2021-10-14,500,Bezhotovostní příjem,Ing.Nesrstová Jitka,dar - medialni poradce,0,9002892,,Ing.Nesrstová Jitka,zeleni
+2021-10-14,150,Bezhotovostní příjem,Ing.Sirotná Kamila,dar,0,9002637,,Ing.Sirotná Kamila,zeleni
+2021-10-14,250,Bezhotovostní příjem,BLÁHOVEC BOHDAN,JEDNÁ SE O DAR,0,9003552,0,BLÁHOVEC BOHDAN,zeleni
+2021-10-14,250,Bezhotovostní příjem,PODHORSKÁ VERONIKA,DAR,0,9003531,0,PODHORSKÁ VERONIKA,zeleni
+2021-10-14,300,Bezhotovostní příjem,HRUŠKA MARTIN,DAR; 50 % P10; 50 % HK,0,9002646,0,HRUŠKA MARTIN,zeleni
+2021-10-14,150,Bezhotovostní příjem,TRUKSOVÁ BARBORA,DAR PRAVIDELNY TRUKSOVA,0,9002594,0,TRUKSOVÁ BARBORA,zeleni
+2021-10-14,100,Bezhotovostní příjem,KRISTYNA CIPROVA,PŘEVOD PROSTŘEDKŮ,,,,KRISTYNA CIPROVA,zeleni
+2021-10-13,3000,Okamžitá příchozí platba,Ing.Hakr Tomáš,dar,0,9003709,,Ing.Hakr Tomáš,zeleni
+2021-10-13,250,Okamžitá příchozí platba,Bc. Jana Melková,Dar,,9003708,,Bc. Jana Melková,zeleni
+2021-10-13,600,Okamžitá příchozí platba,Mgr.Wünschová Anna,"Dar. Díky za skvělou kampaň, Magdo.",0,9003707,,Mgr.Wünschová Anna,zeleni
+2021-10-13,600,Platba převodem uvnitř banky,"Chmiel, Elžbieta",Dar,,9003689,,Dar,zeleni
+2021-10-13,2000,Okamžitá příchozí platba,Lesch Kateřina,"Dar Zeleným, Kateřina Lesch",0,9003703,,Lesch Kateřina,zeleni
+2021-10-13,300,Okamžitá příchozí platba,JIŘÍ FOLTÁK,dar,,9003705,,JIŘÍ FOLTÁK,zeleni
+2021-10-13,1000,Okamžitá příchozí platba,Kunc Michal,dar,0,9003704,,Kunc Michal,zeleni
+2021-10-13,500,Bezhotovostní příjem,RICHTA TOMAS,DAR na prazskeho socmeda,,1111144,,RICHTA TOMAS,zeleni
+2021-10-13,-1000,Okamžitá odchozí platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003004,,VLADAROVA JIRINA,zeleni
+2021-10-13,-1000,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9001008,,Hladíková Marie,zeleni
+2021-10-13,-600,Platba převodem uvnitř banky,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003689,,"Chmiel, Elžbieta",zeleni
+2021-10-13,-300,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,1005,,Jan Jerman,zeleni
+2021-10-13,25000,Okamžitá příchozí platba,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, darovací smlouva Strana zelených Kroměříž",308,71339728,,TOP 09,zeleni
+2021-10-13,1000,Bezhotovostní příjem,VLADAROVA JIRINA,,,9003004,,VLADAROVA JIRINA,zeleni
+2021-10-13,600,Okamžitá příchozí platba,Štefanidesová Anna,dar,0,9003702,,Štefanidesová Anna,zeleni
+2021-10-13,400,Bezhotovostní příjem,Černý Daniel,DAR na pražského socmeda,0,1111143,,Černý Daniel,zeleni
+2021-10-13,1000,Platba převodem uvnitř banky,"Palán, David",Dar pro Zelené na provoz centrální organizační jednotky bez přesného určení,,9003701,,Dar pro Zelené na provoz centrální organizační jednotky bez přesného určení,zeleni
+2021-10-13,500,Okamžitá příchozí platba,Mgr. ANNA JANČAŘÍKOV,dar,,9003700,,Mgr. ANNA JANČAŘÍKOV,zeleni
+2021-10-13,1000,Bezhotovostní příjem,PELTAN TOMÁŠ,dar,0,9003695,0,PELTAN TOMÁŠ,zeleni
+2021-10-13,500,Bezhotovostní příjem,Lukáš Zorník,"dar  odpustek, ze jsem uprednostnilPirStan.. je vas treba",,9003696,,Lukáš Zorník,zeleni
+2021-10-13,1000,Okamžitá příchozí platba,Kristina Volná,dar,,9001009,,Kristina Volná,zeleni
+2021-10-13,1000,Bezhotovostní příjem,FERKL LUKAS,Dar,,9001006,,FERKL LUKAS,zeleni
+2021-10-13,2000,Platba převodem uvnitř banky,"Šanda, Ondřej",dar na zelenou budoucnost,,9003698,,dar na zelenou budoucnost,zeleni
+2021-10-13,1000,Okamžitá příchozí platba,Hladíková Marie,,0,9001008,,Hladíková Marie,zeleni
+2021-10-13,300,Okamžitá příchozí platba,JANA ČEJPOVÁ,dar Čejpová pro Zelené,,9003662,,JANA ČEJPOVÁ,zeleni
+2021-10-13,250,Bezhotovostní příjem,Jiří Hubáček,dar,,9003466,,Jiří Hubáček,zeleni
+2021-10-13,100,Bezhotovostní příjem,KROS MILAN,Dar,,9003556,,KROS MILAN,zeleni
+2021-10-13,1000,Bezhotovostní příjem,Tereza Koldus Franto,dar  volební odpustek,,,,Tereza Koldus Franto,zeleni
+2021-10-13,600,Bezhotovostní příjem,Tereza Němečková,Dar,,9003672,,Tereza Němečková,zeleni
+2021-10-13,250,Bezhotovostní příjem,Petr Novák,dar,,9003593,,Petr Novák,zeleni
 2021-10-13,150,Bezhotovostní příjem,Černý Daniel,pravidelný dar,0,9002638,,Černý Daniel,zeleni
 2021-10-13,200,Bezhotovostní příjem,Kocurek Josef,Dar,0,9002630,,Kocurek Josef,zeleni
 2021-10-13,300,Bezhotovostní příjem,Šorm Martin,dar,0,9003673,,Šorm Martin,zeleni
