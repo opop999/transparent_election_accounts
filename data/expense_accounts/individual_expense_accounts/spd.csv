@@ -1,4 +1,37 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-14,-287.98,Bezhotovostní platba,,"Město Kaplice, výlep plakátů",308,2210000198,200,"Město Kaplice, výlep plakátů",spd
+2021-10-14,-1800,Bezhotovostní platba,,"Spúráva města Sez. Ústí, výlep",308,210840,200,"Spúráva města Sez. Ústí, výlep",spd
+2021-10-14,-10000,Bezhotovostní platba,,"Creative media Group, video záznam",308,121008,900,"Creative media Group, video záznam",spd
+2021-10-14,-5082,Bezhotovostní platba,,"Pernštejn media s.r.o.,inzerce tisk",308,210080,900,"Pernštejn media s.r.o.,inzerce tisk",spd
+2021-10-14,-1851.3,Bezhotovostní platba,,"PAROLA, spol. s r.o., inzerce tisk",308,1136699,1300,"PAROLA, spol. s r.o., inzerce tisk",spd
+2021-10-14,-1835.4,Bezhotovostní platba,,"Hana Dlabačová, phm, lepidlo",308,2171,1300,"Hana Dlabačová, phm, lepidlo",spd
+2021-10-14,-3148.2,Bezhotovostní platba,,"Ivo Domkář, pohonné hmoty",308,5051210823,1300,"Ivo Domkář, pohonné hmoty",spd
+2021-10-14,-742,Bezhotovostní platba,,ova media sol. s.r.o. plachta,308,20210059,700,ova media sol. s.r.o. plachta,spd
+2021-10-14,-8039.24,Bezhotovostní platba,,"Peter Harvánek, petiční stánky",308,12103771,700,"Peter Harvánek, petiční stánky",spd
+2021-10-14,-1500,Platba převodem uvnitř banky,,"David Varyš, rekl. plochy",308,20210005,700,"David Varyš, rekl. plochy",spd
+2021-10-14,-1912,Bezhotovostní platba,,"PULARY, s.r.o., letáky A3",308,140921,700,"PULARY, s.r.o., letáky A3",spd
+2021-10-14,-6292,Platba převodem uvnitř banky,,"GRAMALI s.r.o., plakát A3",308,2108027,600,"GRAMALI s.r.o., plakát A3",spd
+2021-10-14,-348.48,Bezhotovostní platba,,"Město Jáchymov, výlep plakátů",308,20210030,400,"Město Jáchymov, výlep plakátů",spd
+2021-10-14,-300,Bezhotovostní platba,,"MKS v Kynšperku nad Ohří, výlep",308,2521,400,"MKS v Kynšperku nad Ohří, výlep",spd
+2021-10-14,-4537.5,Bezhotovostní platba,,"BigMedia, spol. s r.o., plakáty",308,4212101864,300,"BigMedia, spol. s r.o., plakáty",spd
+2021-10-14,-280115,Bezhotovostní platba,,"DP města Brna, a.s.,reklamní plochy",308,8004210512,300,"DP města Brna, a.s.,reklamní plochy",spd
+2021-10-14,-1445.3,Bezhotovostní platba,,"Jaroslav Zadrobílek, pohonné hmoty",308,122874,1200,"Jaroslav Zadrobílek, pohonné hmoty",spd
+2021-10-14,-2870.4,Bezhotovostní platba,,"Růžena Peterková, pohonné hmoty",308,8016,1200,"Růžena Peterková, pohonné hmoty",spd
+2021-10-14,-425,Bezhotovostní platba,,"Milevskem s.r.o., výlep plakátů",308,2021045,200,"Milevskem s.r.o., výlep plakátů",spd
+2021-10-14,-120,Bezhotovostní platba,,"Město Trhové Sviny, výlep plakátů",308,160804,200,"Město Trhové Sviny, výlep plakátů",spd
+2021-10-14,-3328,Bezhotovostní platba,,"Město Dačice, výlep plakátů",308,9800000112,200,"Město Dačice, výlep plakátů",spd
+2021-10-14,-17745.86,Bezhotovostní platba,,"WIP Reklama spol. s r.o., výlep",308,211301559,200,"WIP Reklama spol. s r.o., výlep",spd
+2021-10-14,-25105,Bezhotovostní platba,,"RENGL, s.r.o., výlep plakátů",308,10123331,200,"RENGL, s.r.o., výlep plakátů",spd
+2021-10-14,-16698,Bezhotovostní platba,,"Jiří Vinklát, tisk a polep dodávky",308,2021020,200,"Jiří Vinklát, tisk a polep dodávky",spd
+2021-10-14,-544.5,Bezhotovostní platba,,"Město Protivín, výlep plakátů",308,202100416,200,"Město Protivín, výlep plakátů",spd
+2021-10-14,-30000,Bezhotovostní platba,,"Vítězslav Postl, billboardy",308,202111,200,"Vítězslav Postl, billboardy",spd
+2021-10-14,-22990,Bezhotovostní platba,,"PAROLA, spol.s r.o.,inzerce v tisku",308,1146162,1300,"PAROLA, spol.s r.o.,inzerce v tisku",spd
+2021-10-14,-4791.6,Bezhotovostní platba,,"Centrum kultury Písek,výlep plakátů",308,12100276,200,"Centrum kultury Písek,výlep plakátů",spd
+2021-10-14,-907.5,Bezhotovostní platba,,"BigMedia, spol. s r.o., plakát",308,4212101865,300,"BigMedia, spol. s r.o., plakát",spd
+2021-10-14,-7281.78,Bezhotovostní platba,,"BigMedia, spol. s r.o.,rekl. plochy",308,4202107038,300,"BigMedia, spol. s r.o.,rekl. plochy",spd
+2021-10-14,-3630,Bezhotovostní platba,,"BigMedia, spol s r.o., billboardy",308,4212102143,200,"BigMedia, spol s r.o., billboardy",spd
+2021-10-14,-12100,Platba převodem uvnitř banky,,"ZIP Inzert s.r.o., reklama v tisku",308,2021601,200,"ZIP Inzert s.r.o., reklama v tisku",spd
+2021-10-14,-336,Bezhotovostní platba,,"MK středisko Vodňany, výlep plakátů",308,2021091,200,"MK středisko Vodňany, výlep plakátů",spd
 2021-10-13,-3e+06,Bezhotovostní platba,,"Český Domov,tisk a distribuce novin",308,21002,100,"Český Domov,tisk a distribuce novin",spd
 2021-10-13,-447.98,Bezhotovostní platba,,"TS Třešť, spol. s r.o., výlep",308,1416797,1300,"TS Třešť, spol. s r.o., výlep",spd
 2021-10-13,-760,Bezhotovostní platba,,"Obec Okrouhlice, pronájem ploch",308,210179,1300,"Obec Okrouhlice, pronájem ploch",spd

@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-14,-2855.6,Okamžitá odchozí platba,,Fakturujeme Vám reklamu v MHD. Příjemce město Zlín,,2171484,,Fakturujeme Vám reklamu v MHD. Příjemce město Zlín,prisaha
+2021-10-14,5000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Účetní převod k platbě z 27.08.2021 Kauce k nájmu kancelář Plzen,,,,Účetní převod k platbě z 27.08.2021 Kauce k nájmu kancelář Plzen,prisaha
+2021-10-14,-400,Okamžitá odchozí platba,,"Fakturujeme Vám korekturu textu, rozhovor EN, Příjemce Kristýna Chvojková",,2021036,,"Fakturujeme Vám korekturu textu, rozhovor EN, Příjemce Kristýna Chvojková",prisaha
 2021-10-12,-8686,Okamžitá odchozí platba,,Platba za nájem krajské kanceláře Hradec Králové včetně záloh na energie za 10 - 2021. Příjemce paní Šmátalová,,75952211,,Platba za nájem krajské kanceláře Hradec Králové včetně záloh na energie za 10 - 2021. Příjemce paní Šmátalová,prisaha
 2021-10-12,-6680,Okamžitá odchozí platba,,Fakturujeme Vám nájemné kanceláře v Plzni za 10 - 2021. Příjemce pan Kovařík,,1,,Fakturujeme Vám nájemné kanceláře v Plzni za 10 - 2021. Příjemce pan Kovařík,prisaha
 2021-10-12,-87120,Okamžitá odchozí platba,,"Fakturujeme Vám nájemné kanceláře Praha, Sluneční náměstí 2583/11 za období 09 - 2021. Příjemce Sun Square sro",,1012021,,"Fakturujeme Vám nájemné kanceláře Praha, Sluneční náměstí 2583/11 za období 09 - 2021. Příjemce Sun Square sro",prisaha

@@ -1,4 +1,21 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,1200,Bezhotovostní příjem,PTACEK PAVEL,Pirate sails,,44006183,1,PTACEK PAVEL,pirati
+2021-10-15,200,Bezhotovostní příjem,LITERAK LEOS,,,44005285,,LITERAK LEOS,pirati
+2021-10-15,1000,Bezhotovostní příjem,DOSEDEL FRANTISEK,,,12024,110103,DOSEDEL FRANTISEK,pirati
+2021-10-15,500,Bezhotovostní příjem,BELSAN JIRI,Dar pro MS Praha 10,,13320,110110,BELSAN JIRI,pirati
+2021-10-15,500,Bezhotovostní příjem,DUDEK ADAM,,,84803,1,DUDEK ADAM,pirati
+2021-10-15,100,Bezhotovostní příjem,STAVOVA MARIA,,,44012394,2,STAVOVA MARIA,pirati
+2021-10-15,100,Bezhotovostní příjem,IVANA KONIGSMARKOVA,,308,83899,1,IVANA KONIGSMARKOVA,pirati
+2021-10-15,500,Bezhotovostní příjem,KAREL FILIP,"Filip Karel, 27.1.1981U Kavalirky 2, Praha 5, 150 00ucel = MS Praha 5",,0,110105,KAREL FILIP,pirati
+2021-10-15,200,Bezhotovostní příjem,Markéta Lánská,Podpora - M. Lánská,,44016338,1,Markéta Lánská,pirati
+2021-10-15,100,Bezhotovostní příjem,MgA.Petrová Jitka,,0,,,MgA.Petrová Jitka,pirati
+2021-10-15,1500,Bezhotovostní příjem,KOCOUREK JOSEF,ZÁMĚR PROV. VÝDAJE MS PRAHA 11,0,0,110111,KOCOUREK JOSEF,pirati
+2021-10-15,500,Bezhotovostní příjem,KRAMOLIŠOVÁ LUDMILA,PIRÁTI-DAR,0,44016313,1,KRAMOLIŠOVÁ LUDMILA,pirati
+2021-10-15,500,Platba převodem uvnitř banky,"Mazur, Daniel","Daniel Mazur, nar. 26.5.1978, Werichova 947/1, Praha 5 - dar MS Piráti Praha 5: 500,- měsíčně od 12/2020",,780526,110105,"Daniel Mazur, nar. 26.5.1978, Werichova 947/1, Praha 5 - dar MS Piráti Praha 5: 500,- měsíčně od 12/2020",pirati
+2021-10-15,4096,Platba převodem uvnitř banky,"Ing. Polanský, Ondřej",dar MSK,,,110400,dar MSK,pirati
+2021-10-15,250,Platba převodem uvnitř banky,"Bauer, Karel","Karel Bauer, Svornosti 1497/1,15000 Praha 5, 04.08.1961, MS Praha 5",,85838,110105,"Karel Bauer, Svornosti 1497/1,15000 Praha 5, 04.08.1961, MS Praha 5",pirati
+2021-10-14,500,Platba převodem uvnitř banky,"Coufal, Josef","Sorry, ze jsem vas nevolil (a nekrouzkoval)",1,44016341,1,"Sorry, ze jsem vas nevolil (a nekrouzkoval)",pirati
+2021-10-14,400,Bezhotovostní příjem,KEŠNEROVÁ PAVLA,,308,44009098,12,KEŠNEROVÁ PAVLA,pirati
 2021-10-14,1000,Bezhotovostní příjem,PLAVCOVÁ JARMILA,Držte se!,158,83449,,PLAVCOVÁ JARMILA,pirati
 2021-10-14,100,Bezhotovostní příjem,HOOS MICHAL,,,44005875,,HOOS MICHAL,pirati
 2021-10-14,2109.87,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1700045885,20211013,Global Payments s.r.,pirati

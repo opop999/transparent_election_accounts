@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,40000,Bezhotovostní příjem,ŠIK EVŽEN,ODS regionalni podpora,0,3201210041,0,ŠIK EVŽEN,ods
+2021-10-15,74000,Bezhotovostní příjem,ELIZ S.R.O.,regionalni podpora,0,3201210042,0,ELIZ S.R.O.,ods
 2021-10-13,-340000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-10-13,-1000,Okamžitá odchozí platba,,"Houska Roman vratka není DS, prosím kontaktujte : barbora.valouskova@ods.cz",,,,"Houska Roman vratka není DS, prosím kontaktujte : barbora.valouskova@ods.cz",ods
 2021-10-12,36000,Bezhotovostní příjem,TOMÁŠEK PETR,"DAR, Petr Tomášek",0,2902210007,0,TOMÁŠEK PETR,ods

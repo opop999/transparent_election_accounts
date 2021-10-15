@@ -1,4 +1,23 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-14,6720,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,TÚ PŘEVOD OD OV KSČM RAKOVNÍK /horizonty,0,32112,,CZK,kscm
+2021-10-14,-15760.25,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - prop.předměty,0,210533,,CZK,kscm
+2021-10-14,-42350,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024286,,CZK,kscm
+2021-10-14,-50000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - zajištění cateringu,0,2021110304,,CZK,kscm
+2021-10-14,-67397,Odchozí úhrada,PLAKÁT s.r.o.,2100140675,2010,volby PČR . výlep,0,20212002,,CZK,kscm
+2021-10-14,-145000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110302,,CZK,kscm
+2021-10-14,-201400,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - volební logo,0,2021110303,,CZK,kscm
+2021-10-14,-663600,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110301,,CZK,kscm
+2021-10-14,-520,Odchozí úhrada,"Kultura Mimoň, příspěvková org",232970401,600,volby PČR - výlep,0,141,,CZK,kscm
+2021-10-14,-523,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123625,,CZK,kscm
+2021-10-14,-719,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123391,,CZK,kscm
+2021-10-14,-836,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120150,,CZK,kscm
+2021-10-14,-3500,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120175,,CZK,kscm
+2021-10-14,-3993,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - propag.předměty,0,2021110299,,CZK,kscm
+2021-10-14,-4400,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - banery,0,,,CZK,kscm
+2021-10-14,-6128.65,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - plakát,0,210535,,CZK,kscm
+2021-10-14,-6582,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123761,,CZK,kscm
+2021-10-14,-10000,Odchozí úhrada,SPAZ - Sdružení přátel pro a,244282518,300,volby PČR - pronájem provozovny,0,202110,,CZK,kscm
+2021-10-14,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,835681,100,převod od OV Jihlava,0,,,CZK,kscm
 2021-10-13,280,Okamžitá úhrada,OBVODNÍ VÝBOR KOMUNI,293872389,800,Zábor místa volby OV P 10,,,,CZK,kscm
 2021-10-13,6582,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,2237511,100,,558,35201,,CZK,kscm
 2021-10-12,36091.53,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm
@@ -47,23 +66,23 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-08,-30000,Odchozí úhrada,BORŠIČANKA AK-o.s.,259434975,300,volby PČR - hudební produkce,0,202107,,CZK,kscm
 2021-10-08,-30008,Odchozí úhrada,"Haná Press, s.r.o.",78032272,5500,volby PČR - inzerce,0,211801404,,CZK,kscm
 2021-10-07,10000,Příchozí úhrada,KOMUNISTICKÁ STRANA,1132611,100,převod od OV KSČM Ústí nad Orlicí,308,35304,,CZK,kscm
-2021-10-07,8772.5,Příchozí úhrada,KOMUNISTICKÁ STRANA,1237341,100,,0,34102,,CZK,kscm
-2021-10-07,12523,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,2237511,100,,558,35201,,CZK,kscm
-2021-10-07,-447,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - expedice Krajánek,0,20217034,,CZK,kscm
-2021-10-07,-719,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123392,,CZK,kscm
-2021-10-07,-1270.5,Odchozí úhrada,Technické služby Litvínov s.r.,787166740297,100,volby PČR - výlep,0,210390,,CZK,kscm
-2021-10-07,-2185,Odchozí úhrada,"Kabelová televize Kadaň, a.s.",11907441,100,volby PČR - výlep,0,115594,,CZK,kscm
-2021-10-07,-3581.6,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - leták,0,210587,,CZK,kscm
-2021-10-07,-4284.8,Odchozí úhrada,"Česká pošta, s.p.",100393657,300,volby PČR - roznáška,0,5118373483,,CZK,kscm
-2021-10-07,-4900,Odchozí úhrada,ZIP Inzert s.r.o.,2900903909,2010,volby PČR - reklama,0,2021610,,CZK,kscm
-2021-10-07,-5000,Odchozí úhrada,Mgr. Vladimír Frouz,279162450267,100,volby PČR - grafické a reklamní práce,0,2021000008,,CZK,kscm
-2021-10-07,-5300,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - plakáty,0,20217029,,CZK,kscm
-2021-10-07,-6776,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5115232217,,CZK,kscm
-2021-10-07,-16254.95,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,,,CZK,kscm
-2021-10-07,-25001.76,Odchozí úhrada,"Česká pošta, s.p.",133715683,300,volby PČR - roznáška,0,,,CZK,kscm
-2021-10-07,-30250,Odchozí úhrada,"Vogel Medien International, s.",72827293,300,volby PČR - inzerce,0,20210512,,CZK,kscm
-2021-10-07,-50820,Odchozí úhrada,Český Domov Media House s.r.o.,2110626628,2700,volby PČR - inzerce,0,21321214,,CZK,kscm
 2021-10-07,-1488153.17,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190573350,,CZK,kscm
+2021-10-07,-50820,Odchozí úhrada,Český Domov Media House s.r.o.,2110626628,2700,volby PČR - inzerce,0,21321214,,CZK,kscm
+2021-10-07,-30250,Odchozí úhrada,"Vogel Medien International, s.",72827293,300,volby PČR - inzerce,0,20210512,,CZK,kscm
+2021-10-07,-25001.76,Odchozí úhrada,"Česká pošta, s.p.",133715683,300,volby PČR - roznáška,0,,,CZK,kscm
+2021-10-07,-16254.95,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,,,CZK,kscm
+2021-10-07,-6776,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5115232217,,CZK,kscm
+2021-10-07,-5300,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - plakáty,0,20217029,,CZK,kscm
+2021-10-07,-5000,Odchozí úhrada,Mgr. Vladimír Frouz,279162450267,100,volby PČR - grafické a reklamní práce,0,2021000008,,CZK,kscm
+2021-10-07,-4900,Odchozí úhrada,ZIP Inzert s.r.o.,2900903909,2010,volby PČR - reklama,0,2021610,,CZK,kscm
+2021-10-07,-4284.8,Odchozí úhrada,"Česká pošta, s.p.",100393657,300,volby PČR - roznáška,0,5118373483,,CZK,kscm
+2021-10-07,-3581.6,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - leták,0,210587,,CZK,kscm
+2021-10-07,-2185,Odchozí úhrada,"Kabelová televize Kadaň, a.s.",11907441,100,volby PČR - výlep,0,115594,,CZK,kscm
+2021-10-07,-1270.5,Odchozí úhrada,Technické služby Litvínov s.r.,787166740297,100,volby PČR - výlep,0,210390,,CZK,kscm
+2021-10-07,-719,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123392,,CZK,kscm
+2021-10-07,-447,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - expedice Krajánek,0,20217034,,CZK,kscm
+2021-10-07,12523,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,2237511,100,,558,35201,,CZK,kscm
+2021-10-07,8772.5,Příchozí úhrada,KOMUNISTICKÁ STRANA,1237341,100,,0,34102,,CZK,kscm
 2021-10-06,4284,Příchozí úhrada,OV KSČM Praha 1,299098208,300,Převod na TÚ z OV P 1,,31101,,CZK,kscm
 2021-10-06,5000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV Rakovník / hudba mítink,0,32112,,CZK,kscm
 2021-10-06,500,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV RAKOVNÍK /platba hotově zábor místa,0,32112,,CZK,kscm

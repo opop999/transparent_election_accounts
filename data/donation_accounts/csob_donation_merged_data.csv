@@ -1,5 +1,15 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
+2021-10-15,1000,Příchozí úhrada,PaedDr Šlambor Jaros,157858013,800,Jar.Šlambor_Prostějov_fin.dar,0,10249,322,CZK,kscm
+2021-10-15,850,Příchozí úhrada,NEVORAL MAREK,153867035,600,finanční dar,2018,760308,36100,CZK,kscm
+2021-10-15,286,Příchozí úhrada,ŠVESTKA JAN,160988337,600,Jan Švestka - dar,,34202,34202,CZK,kscm
+2021-10-15,16384,Příchozí úhrada,JUDr.Grospič Stanisl,694007003,800,finanční dar,0,640725,5005,CZK,kscm
+2021-10-15,1300,Příchozí úhrada,KOMINEK JAROSLAV,214929659,300,Jaroslav Komínek Finanční dar,,,34202,CZK,kscm
+2021-10-15,1900,Příchozí úhrada,KOMINEK JAROSLAV,214929659,300,Jaroslav Komínek Finanční dar,,,34200,CZK,kscm
 2021-10-14,1719,Příchozí úhrada,SEKERAKOVA YVETA,151653156,300,Yveta Sekeráková - finanční dar,,38106,,CZK,kscm
+2021-10-14,5000,Příchozí úhrada,KALOUSKOVÁ IVANA,1077690420257,100,finanční dar,0,9,,CZK,kscm
+2021-10-14,13000,Příchozí úhrada,CECH JAROSLAV,105122688,300,Finačni  dar.,,38105,,CZK,kscm
+2021-10-14,1875,Příchozí úhrada,LEICHTEROVA HELENA,198919855,300,Helena Leichterova - dar (9/2021),,,,CZK,kscm
 2021-10-13,2572,Příchozí úhrada,Tomáš Zíka,2070974002,5500,finanční dar,0,34200,,CZK,kscm
 2021-10-13,652,Příchozí úhrada,SEFCIK ZBYNEK,5409075,300,"Zbyněk Šefčík, Plzeň -finanční dar",,,33203,CZK,kscm
 2021-10-12,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
@@ -17,10 +27,10 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-08,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,Komunisti jsou nejlepsi! Ted uz simuj halir nechate? :D :D :D,,,,CZK,kscm
 2021-10-08,35000,Okamžitá úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,9,,,CZK,kscm
 2021-10-07,5000,Příchozí úhrada,SILBER RADOMIR,131684641,300,SilberR dává dar,308,30081960,,CZK,kscm
-2021-10-07,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,223,,CZK,kscm
-2021-10-07,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,222,,CZK,kscm
-2021-10-07,414,Příchozí úhrada,Ivan Maštálka,1047171012,3030,"Ivan Maštálka, Plzeň  - finanční dar",,3231904,33203,CZK,kscm
 2021-10-07,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Uz vas bylo dost! Uz nikdy frontynabanany! Sbohem, soudruzi.",,,,CZK,kscm
+2021-10-07,414,Příchozí úhrada,Ivan Maštálka,1047171012,3030,"Ivan Maštálka, Plzeň  - finanční dar",,3231904,33203,CZK,kscm
+2021-10-07,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,222,,CZK,kscm
+2021-10-07,-0.01,Odchozí úhrada,,2471845113,800,Schánilová Karolína - vratka fin.prostředků,0,223,,CZK,kscm
 2021-10-06,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Je hanbou nasi zeme, ze vasezlocinecka strana stale existuje.Doufejme,ze po volbach alesponnezasedne ve",,,,CZK,kscm
 2021-10-05,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,"Doufam, ze vase letosni vyroci budevase posledni. Kupredu leva... dopropadliste dejin!",,,,CZK,kscm
 2021-10-05,6687500,Příchozí úhrada,MF,19430011221001,710,,6418,180152021,0,CZK,kscm

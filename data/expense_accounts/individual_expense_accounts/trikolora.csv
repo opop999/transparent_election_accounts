@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-14,-25000,Okamžitá odchozí platba,,platba za organizační poradenství a projektové řízení - centrála,308,42021,,platba za organizační poradenství a projektové řízení - centrála,trikolora
+2021-10-14,-15261.12,Bezhotovostní platba,,pronájem reklamních ploch - Moravskoslezský kraj,308,20210067,,pronájem reklamních ploch - Moravskoslezský kraj,trikolora
+2021-10-14,-5000,Bezhotovostní platba,,Pronájem reklamní plochy - Moravskoslezský kraj,308,8288909,,Pronájem reklamní plochy - Moravskoslezský kraj,trikolora
+2021-10-14,-3703,Platba převodem uvnitř banky,,polep petičního a reklamního stánku - Olomoucký kraj,308,11210543,,polep petičního a reklamního stánku - Olomoucký kraj,trikolora
+2021-10-14,-4719,Platba převodem uvnitř banky,,polep vozu VW Touareg - Olomoucký kraj,308,11210615,,polep vozu VW Touareg - Olomoucký kraj,trikolora
+2021-10-14,-25264.82,Bezhotovostní platba,,"grafické práce, výroba a tisk letáků - Pardubický kraj",308,21212108,,"grafické práce, výroba a tisk letáků - Pardubický kraj",trikolora
+2021-10-14,-10000,Bezhotovostní platba,,umístění a pronájem reklamního modulu - Pardubický kraj,308,2021025,,umístění a pronájem reklamního modulu - Pardubický kraj,trikolora
+2021-10-14,-180.29,Bezhotovostní platba,,platba za doménu trikolorapraha.cz,308,5211002255,,platba za doménu trikolorapraha.cz,trikolora
+2021-10-14,-12160.5,Platba převodem uvnitř banky,,výroba a distribuce 13 billboardů - Moravskoslezský kraj,308,2210518,,výroba a distribuce 13 billboardů - Moravskoslezský kraj,trikolora
+2021-10-14,-1071,Bezhotovostní platba,,výroba a tisk plakátů A2 - Vysočina,308,2100515,,výroba a tisk plakátů A2 - Vysočina,trikolora
+2021-10-14,-6031.85,Bezhotovostní platba,,výroba propagačních materiálů volím č.8 - Vysočina,308,2021384,,výroba propagačních materiálů volím č.8 - Vysočina,trikolora
+2021-10-14,-900,Bezhotovostní platba,,poplatek za využívání veřejného prostranství - Ústecký kraj,308,5063000175,,poplatek za využívání veřejného prostranství - Ústecký kraj,trikolora
+2021-10-14,-38115,Platba převodem uvnitř banky,,výroba obřího banneru 10x15m v Letňanech - Praha,308,22121037,,výroba obřího banneru 10x15m v Letňanech - Praha,trikolora
+2021-10-14,-16000,Bezhotovostní platba,,instalace obřího banneru v Letňanech - Praha,308,2721,,instalace obřího banneru v Letňanech - Praha,trikolora
 2021-10-12,77440,Platba převodem uvnitř banky,"OUTDOOR MEDIA CZ, s.r.o.",vratka úhrady ze dne 10.8. 2021,,202103,,vratka úhrady ze dne 10.8. 2021,trikolora
 2021-10-12,1482,Platba převodem uvnitř banky,ŽÍDEK tisk s.r.o.,vrácení platby-uhrazeno 2x,308,218103355,,vrácení platby-uhrazeno 2x,trikolora
 2021-10-12,9244.4,Bezhotovostní příjem,EUROPLAKAT SPOL. S R,,308,21502159,0,EUROPLAKAT SPOL. S R,trikolora

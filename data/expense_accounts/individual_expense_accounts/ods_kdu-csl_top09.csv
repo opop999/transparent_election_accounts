@@ -1,13 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-14,-14999.16,Bezhotovostní platba,,,308,202110283,2400,,ods_kdu-csl_top09
-2021-10-14,-21175,Bezhotovostní platba,,,308,20210194,2400,,ods_kdu-csl_top09
-2021-10-14,-1452,Bezhotovostní platba,,,308,2021056,2200,,ods_kdu-csl_top09
-2021-10-14,-8342.3,Bezhotovostní platba,,,379,220013,2200,,ods_kdu-csl_top09
-2021-10-14,-1000,Bezhotovostní platba,,,308,2119022,2200,,ods_kdu-csl_top09
-2021-10-14,-2565.2,Bezhotovostní platba,,,308,1100920,2200,,ods_kdu-csl_top09
-2021-10-14,-14157,Bezhotovostní platba,,,308,3110210644,2200,,ods_kdu-csl_top09
-2021-10-14,-1000,Bezhotovostní platba,,,308,262021,3000,,ods_kdu-csl_top09
-2021-10-14,-5184,Bezhotovostní platba,,,308,21010601,3000,,ods_kdu-csl_top09
+2021-10-14,-90,Bezhotovostní platba,,,558,2100,2100,"2100-Městská část Praha 15, místní poplatek za zábor",ods_kdu-csl_top09
+2021-10-14,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Jiří Litera, plyn-balónky",ods_kdu-csl_top09
+2021-10-14,-43100,Bezhotovostní platba,,,308,2021033,2100,"2100-Tisknu24 .cz s.r.o., dotisk letáky, grafické práce",ods_kdu-csl_top09
+2021-10-14,-2500,Bezhotovostní platba,,,308,210100282,2100,"2100-DRUCKVO s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-10-14,-10500,Bezhotovostní platba,,,308,10,2100,"2100-Daniel Eliáš, pronájem stroje na cukrovou vatu",ods_kdu-csl_top09
+2021-10-14,-35000,Platba převodem uvnitř banky,,,308,20210007,1114,"1114-SNConsulting s.r.o., reklama na FBC Skopeček",ods_kdu-csl_top09
+2021-10-14,-7260,Bezhotovostní platba,,,308,21087,1114,"1114-Martin Malý, fotografické práce",ods_kdu-csl_top09
+2021-10-14,-14999.16,Bezhotovostní platba,,,308,202110283,2400,"2400-Petr Šmíd, inzerce magazín oko SPOLU",ods_kdu-csl_top09
+2021-10-14,-21175,Bezhotovostní platba,,,308,20210194,2400,"2400-PROPAGANDA S.R.O., inzerce žURNÁL",ods_kdu-csl_top09
+2021-10-14,-1452,Bezhotovostní platba,,,308,2021056,2200,"2200-Miroslav Sejček , výlep plakátů",ods_kdu-csl_top09
+2021-10-14,-8342.3,Bezhotovostní platba,,,379,220013,2200,"2200-Lukáš Toman Paclt , poplatky a PHM vol. auto",ods_kdu-csl_top09
+2021-10-14,-1000,Bezhotovostní platba,,,308,2119022,2200,"2200-Brandejská hospoda s.r.o., pronájem prostor",ods_kdu-csl_top09
+2021-10-14,-2565.2,Bezhotovostní platba,,,308,1100920,2200,"2200-LABEL s.r.o., tisk letáků",ods_kdu-csl_top09
+2021-10-14,-14157,Bezhotovostní platba,,,308,3110210644,2200,"2200-Tomáš Sedláček, potisk triček SPOLU",ods_kdu-csl_top09
+2021-10-14,-1000,Bezhotovostní platba,,,308,262021,3000,"3000-Radka Švejnohová, správa FBC",ods_kdu-csl_top09
+2021-10-14,-5184,Bezhotovostní platba,,,308,21010601,3000,"3000-TISKNE MITO s.r.o., tisk BB",ods_kdu-csl_top09
 2021-10-13,-3640,Bezhotovostní platba,,,378,1530000081,3300,"3300-Město Kroměříž , poplatek za zábor",ods_kdu-csl_top09
 2021-10-13,-615,Bezhotovostní platba,,,308,160021080,3300,3300-Weston Investmens a.s . ubytování,ods_kdu-csl_top09
 2021-10-13,-18755,Bezhotovostní platba,,,308,202100811,3300,"3300-JALOVEC s.r.o., inzerce Jalovec",ods_kdu-csl_top09
@@ -90,6 +97,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-07,-46.02,Platba převodem uvnitř banky,,,308,5210928682,1114,"1114-Internet.CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-10-07,-46.02,Platba převodem uvnitř banky,,,308,5210928693,1114,"1114-Internet.CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-10-07,-9496.08,Okamžitá odchozí platba,,,308,210079,2900,"2900-Pernštejn media a.s., interce",ods_kdu-csl_top09
+2021-10-14,-14999.16,Bezhotovostní platba,,,308,202110283,2400,,ods_kdu-csl_top09
+2021-10-14,-21175,Bezhotovostní platba,,,308,20210194,2400,,ods_kdu-csl_top09
+2021-10-14,-1452,Bezhotovostní platba,,,308,2021056,2200,,ods_kdu-csl_top09
+2021-10-14,-8342.3,Bezhotovostní platba,,,379,220013,2200,,ods_kdu-csl_top09
+2021-10-14,-1000,Bezhotovostní platba,,,308,2119022,2200,,ods_kdu-csl_top09
+2021-10-14,-2565.2,Bezhotovostní platba,,,308,1100920,2200,,ods_kdu-csl_top09
+2021-10-14,-14157,Bezhotovostní platba,,,308,3110210644,2200,,ods_kdu-csl_top09
+2021-10-14,-1000,Bezhotovostní platba,,,308,262021,3000,,ods_kdu-csl_top09
+2021-10-14,-5184,Bezhotovostní platba,,,308,21010601,3000,,ods_kdu-csl_top09
 2021-10-06,-96800,Bezhotovostní platba,,,308,211600023,1114,"1114-Katolický týdeník s.r.o. , plošný inzerát",ods_kdu-csl_top09
 2021-10-06,-484000,Bezhotovostní platba,,,308,21130,1114,"1114-Ydeal s.r.o., inzerce v tištěných médiích",ods_kdu-csl_top09
 2021-10-06,-2000,Bezhotovostní platba,,,378,525047,2800,"2800-Věra Šenková , volební auto PHM",ods_kdu-csl_top09

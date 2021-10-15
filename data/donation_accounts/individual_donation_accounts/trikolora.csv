@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,100,Bezhotovostní příjem,Bladesová Hana,Dar Hana Bladesová,0,6000825,,Bladesová Hana,trikolora
+2021-10-15,100,Platba převodem uvnitř banky,"Škrabálek, Petr","DAR, Jitka Krátká",,,,"DAR, Jitka Krátká",trikolora
+2021-10-14,-24000,Platba převodem uvnitř banky,,převod prostředků na mzdový účet,,,,převod prostředků na mzdový účet,trikolora
+2021-10-14,100,Bezhotovostní příjem,KHASOVÁ LENKA,DAR příspěvek RP,0,12001923,0,KHASOVÁ LENKA,trikolora
 2021-10-14,1000,Bezhotovostní příjem,MUDr. Ladislav Jon,DAR  MUDr Ladislav Jon IČO 47731168,558,47731168,,MUDr. Ladislav Jon,trikolora
 2021-10-14,1000,Bezhotovostní příjem,Kubín Zdeněk,podpora trikolory,,1888888,,Kubín Zdeněk,trikolora
 2021-10-13,100,Okamžitá příchozí platba,Jakub Danel,DAR příspěvek RP,,6001374,,Jakub Danel,trikolora

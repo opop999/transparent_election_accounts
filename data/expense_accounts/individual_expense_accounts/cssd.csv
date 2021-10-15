@@ -1,4 +1,29 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,-813.03,Karetní transakce,,"Nákup: FACEBK *PRSDE93ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.10.2021, částka  813.03 CZK",,810,,"Nákup: FACEBK *PRSDE93ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.10.2021, částka  813.03 CZK",cssd
+2021-10-14,-304.16,Karetní transakce,,"Nákup: FACEBK 9QSL38PPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  304.16 CZK",,8665,,"Nákup: FACEBK 9QSL38PPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  304.16 CZK",cssd
+2021-10-14,-168,Bezhotovostní platba,,ČSSD,308,210118,,"SAK Studénka, výlep plakátů, Moravskoslezský kraj",cssd
+2021-10-14,-6894.25,Bezhotovostní platba,,ČSSD,308,210100024,,"Catering Olomouc s.r.o., občerstvení, Olomoucký kraj",cssd
+2021-10-14,-2874.96,Bezhotovostní platba,,ČSSD,308,5102807605,,"Česká pošta, s.p., roznáška materiálů, Jihočeský kraj",cssd
+2021-10-14,-726,Bezhotovostní platba,,ČSSD,308,2021072,,"Městské informační a kulturní středisko Krnov, vyvěšení banneru, Moravskoslezský kraj",cssd
+2021-10-14,-600,Bezhotovostní platba,,ČSSD,308,2021100981,,"Město Třeboň, výlep plakátů, Jihočeský kraj",cssd
+2021-10-14,-5000,Bezhotovostní platba,,ČSSD,308,2021257,,"JAMASE GROUP s.r.o., polep vozidla, Olomoucký kraj",cssd
+2021-10-14,-7163,Bezhotovostní platba,,ČSSD,308,210087,,"Pelmark s.r.o., inzerce, Kraj Vysočina",cssd
+2021-10-14,-34920.6,Bezhotovostní platba,,ČSSD,308,2117024194,,"VLTAVA LABE MEDIA a.s., inzerce, Jihomoravský kraj",cssd
+2021-10-14,-18400,Bezhotovostní platba,,ČSSD,308,2021133,,"Bittengl František, růže, Plzeňský kraj",cssd
+2021-10-14,-839,Bezhotovostní platba,,ČSSD,308,2021128,,"Městské KS Klatovy, výlep plakátů, Plzeňský kraj",cssd
+2021-10-14,-1512.5,Bezhotovostní platba,,ČSSD,308,63621,,"Ewing s.r.o., webové rozhraní ""JOLLOR"", ústředí",cssd
+2021-10-14,-280,Bezhotovostní platba,,ČSSD,308,2421,,"MKS v Kynšperku nad Ohří, výlep plakátů, Karlovarský kraj",cssd
+2021-10-14,-63525,Bezhotovostní platba,,ČSSD,308,62121,,"Ewing s.r.o., příprava mimořádných akcí, ústředí",cssd
+2021-10-14,-2323.2,Bezhotovostní platba,,ČSSD,308,12100301,,"Centrum kultury města Písek, výlep plakátů, Jihočeský kraj",cssd
+2021-10-14,-4235,Bezhotovostní platba,,ČSSD,308,2021159,,"PLAKÁT s.r.o., výlep plakátů, pronájem reklamní plochy, Jihomoravský kraj",cssd
+2021-10-14,-3025,Bezhotovostní platba,,ČSSD,308,20210133,,"Jesenický týdeník s.r.o., inzerce, Olomoucký kraj",cssd
+2021-10-14,-4000,Bezhotovostní platba,,ČSSD,308,202112,,"o.s. SPAZ, umístění reklamních zařízení, Olomoucký kraj",cssd
+2021-10-14,-30000,Platba převodem uvnitř banky,,ČSSD,308,202102002,,"Petr Kudláček, zajištění akcí, Olomoucký kraj",cssd
+2021-10-14,-13068,Bezhotovostní platba,,ČSSD,308,2100193,,"SERM s.r.o., montáž + demontáž stánku, Jihomoravský kraj",cssd
+2021-10-14,-24684.64,Bezhotovostní platba,,ČSSD,308,9,,"Petra Krejčířová, drobné vydání, poštovné, PHM, bannery, občerstvení, Moravskoslezský kraj",cssd
+2021-10-14,126.7,Bezhotovostní příjem,JUCHELKOVA MARKETA,"Juchelkova Marketa,uhrada preplatkuFB, Pardubicky kraj",8,9,,JUCHELKOVA MARKETA,cssd
+2021-10-14,60500,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-10-14,20635,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Praha na volby PS PČR,,,,převod z KP Praha na volby PS PČR,cssd
 2021-10-13,6000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jaroslav Špaček, na volby PS PČR, Pardubický kraj",,,,"převod daru Jaroslav Špaček, na volby PS PČR, Pardubický kraj",cssd
 2021-10-13,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Antonín Krák, na volby PS PČR, Jihočeský kraj",,,,"převod daru Antonín Krák, na volby PS PČR, Jihočeský kraj",cssd
 2021-10-13,-4046.9,Platba převodem uvnitř banky,,ČSSD,308,2021058,,"Cíl, a.s. v Praze, propagační předměty, ústředí",cssd

@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,-20501.41,Karetní transakce,,"Nákup: FACEBK KYRBP8BJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  20501.41 CZK",,6211,,"Nákup: FACEBK KYRBP8BJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  20501.41 CZK",zeleni
+2021-10-14,15000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,202110,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-14,154,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,409740,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-14,-10000,Bezhotovostní platba,,FA 121019 - tvorba videa,,121019,,SZ - Vojtěch Kuřátko,zeleni
 2021-10-13,1248,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,21239067,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-13,4795.47,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,21239067,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-12,-8625.7,Platba převodem uvnitř banky,,vratka mylné platby - provozní účet KO ÚLK,,,42,vratka mylné platby - provozní účet KO ÚLK,zeleni

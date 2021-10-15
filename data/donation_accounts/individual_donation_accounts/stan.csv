@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,4000,Bezhotovostní příjem,Ing.Suchánek Josef,,0,,,Ing.Suchánek Josef,stan
 2021-10-14,80000,Bezhotovostní příjem,ŠTROBACHOVÁ PAVLA,"dar od Štrobachová, 30.6.1960, Smečno",,605630,151041421,ŠTROBACHOVÁ PAVLA,stan
 2021-10-13,20000,Okamžitá příchozí platba,Mrazírny Eurofrost s,"DAR, Mrazírny Eurofrost s.r.o., 05398746,  Úžice",,5398746,223153321,Mrazírny Eurofrost s,stan
 2021-10-13,5000,Bezhotovostní příjem,MATUSKA BOHUSLAV,"DAR, Bohuslav Matuska, 12.04.1980,Praha 2",,12041980,222153221,MATUSKA BOHUSLAV,stan

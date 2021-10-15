@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,200,Bezhotovostní příjem,PACHOLA JAROSLAV,dar priznivce,,3924,,PACHOLA JAROSLAV,svobodni
+2021-10-14,100,Bezhotovostní příjem,CHALUPA BOHUSLAV,DAR PRIZNIVCE,,9403,,CHALUPA BOHUSLAV,svobodni
+2021-10-14,500,Platba převodem uvnitř banky,"Ing. Špirk, Martin",DAR,,82045,,DAR,svobodni
+2021-10-14,100,Okamžitá příchozí platba,Martin Reiser,DAR PRIZNIVCE,,6805,,Martin Reiser,svobodni
 2021-10-14,100,Bezhotovostní příjem,PHILIPPA HANAKO HANA,DAR PRIZNIVCE,,9335,,PHILIPPA HANAKO HANA,svobodni
 2021-10-13,200,Okamžitá příchozí platba,Jan Burda,DAR PRIZNIVCE,,7975,,Jan Burda,svobodni
 2021-10-13,300,Okamžitá příchozí platba,Pavel Růžička,příspěvek příznivce Pavel Růžička,,9401,,Pavel Růžička,svobodni
