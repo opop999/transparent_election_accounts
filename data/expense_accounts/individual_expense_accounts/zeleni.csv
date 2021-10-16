@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,-2828,Bezhotovostní platba,,"PD 76 - kopírování, kancelářské potřeby (Copy centrum)",,76,31,JHČ - Matouš Bičák,zeleni
+2021-10-15,-3200,Bezhotovostní platba,,PD 1140858 - výroba letáků A5 (Region),,1140858,31,JHČ - Matouš Bičák,zeleni
+2021-10-15,-229.3,Bezhotovostní platba,,PD 791159764 - papírnické zboží (Moravel),,791159764,71,OLK - Alexandra Martináková,zeleni
+2021-10-15,-1017,Bezhotovostní platba,,PD 315721 - jablka (Drago),,315721,71,OLK - Alexandra Martináková,zeleni
+2021-10-15,-5580.32,Bezhotovostní platba,,FB - reklama na sociálních sítích,,,71,OLK - Alexandra Martináková,zeleni
+2021-10-15,-15000,Okamžitá odchozí platba,,FA 202111 - koordinace kampaně 2021/09,,202111,71,OLK - Alexandra Martináková,zeleni
+2021-10-15,-154,Bezhotovostní platba,,Příkaz k úhradě - daň DPH za FB,,409740,71,OLK - Finanční úřad,zeleni
+2021-10-15,6028,Platba převodem uvnitř banky,Strana zelených,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,,31,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-15,783.15,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,1,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-15,-20501.41,Karetní transakce,,"Nákup: FACEBK KYRBP8BJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  20501.41 CZK",,6211,,"Nákup: FACEBK KYRBP8BJK2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  20501.41 CZK",zeleni
 2021-10-14,15000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,202110,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-14,154,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,409740,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni

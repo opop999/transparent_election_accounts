@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-10-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
 2021-10-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
 2021-10-13,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd

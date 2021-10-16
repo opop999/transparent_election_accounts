@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,-4719,Bezhotovostní platba,,ČSSD,308,120100743,,"Výstaviště Flora Olomouc, a.s., zábor prostranství, Olomoucký kraj",cssd
+2021-10-15,-4114,Bezhotovostní platba,,ČSSD,308,202109156,,"L.Vitanovský, pověšení plachty, Jihomoravský kraj",cssd
+2021-10-15,-3025,Platba převodem uvnitř banky,,ČSSD,308,20210133,,"Jesenický týdeník s.r.o., plošná inzerce, Olomoucký kraj",cssd
+2021-10-15,-1500,Bezhotovostní platba,,ČSSD,308,2101004,,"Sweet Republic s.r.o., catering, Kraj Praha",cssd
+2021-10-15,-3230,Bezhotovostní platba,,ČSSD,308,9,,"Ferina Hana, drobný nákup, správní poplatky, zábory, Jihomoravský kraj",cssd
+2021-10-15,4719,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Olomoucký kraj na volby PS PČR,,,,převod z KP Olomoucký kraj na volby PS PČR,cssd
+2021-10-15,3025,Bezhotovostní příjem,Účet neexistuje.,Vratka ze zrušeného účtu.č.000000-1806504309,6,20210133,,Účet neexistuje.,cssd
 2021-10-15,-813.03,Karetní transakce,,"Nákup: FACEBK *PRSDE93ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.10.2021, částka  813.03 CZK",,810,,"Nákup: FACEBK *PRSDE93ZD2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.10.2021, částka  813.03 CZK",cssd
 2021-10-14,-304.16,Karetní transakce,,"Nákup: FACEBK 9QSL38PPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  304.16 CZK",,8665,,"Nákup: FACEBK 9QSL38PPH2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.10.2021, částka  304.16 CZK",cssd
 2021-10-14,-168,Bezhotovostní platba,,ČSSD,308,210118,,"SAK Studénka, výlep plakátů, Moravskoslezský kraj",cssd

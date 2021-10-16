@@ -1,11 +1,14 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
-2021-10-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
+2021-10-15,2527,Příchozí úhrada,KUBEŠ PETR,435069260217,100,Petr Kubeš - finanční dar,0,,,CZK,kscm
 2021-10-15,1000,Příchozí úhrada,PaedDr Šlambor Jaros,157858013,800,Jar.Šlambor_Prostějov_fin.dar,0,10249,322,CZK,kscm
 2021-10-15,850,Příchozí úhrada,NEVORAL MAREK,153867035,600,finanční dar,2018,760308,36100,CZK,kscm
 2021-10-15,286,Příchozí úhrada,ŠVESTKA JAN,160988337,600,Jan Švestka - dar,,34202,34202,CZK,kscm
 2021-10-15,16384,Příchozí úhrada,JUDr.Grospič Stanisl,694007003,800,finanční dar,0,640725,5005,CZK,kscm
 2021-10-15,1300,Příchozí úhrada,KOMINEK JAROSLAV,214929659,300,Jaroslav Komínek Finanční dar,,,34202,CZK,kscm
 2021-10-15,1900,Příchozí úhrada,KOMINEK JAROSLAV,214929659,300,Jaroslav Komínek Finanční dar,,,34200,CZK,kscm
+2021-10-15,1300,Příchozí úhrada,Matlachová Koníčková,2800898911,2010,Petra Matlachová - finanční dar,,34202,,CZK,kscm
+2021-10-15,500,Příchozí úhrada,Bartůňková Věra,779874173,800,"Věra Bartůňková, finanční dar",0,34102,0,CZK,kscm
+2021-10-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
 2021-10-14,1719,Příchozí úhrada,SEKERAKOVA YVETA,151653156,300,Yveta Sekeráková - finanční dar,,38106,,CZK,kscm
 2021-10-14,5000,Příchozí úhrada,KALOUSKOVÁ IVANA,1077690420257,100,finanční dar,0,9,,CZK,kscm
 2021-10-14,13000,Příchozí úhrada,CECH JAROSLAV,105122688,300,Finačni  dar.,,38105,,CZK,kscm

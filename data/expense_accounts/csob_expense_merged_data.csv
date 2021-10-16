@@ -57,14 +57,14 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-11,-84472.56,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117023446,,CZK,kscm
 2021-10-11,2047.67,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko.,0,,,CZK,kscm
 2021-10-08,-57112,Odchozí úhrada,MT & Coaching s.r.o.,2000503088,2010,volby PČR - mediální přípravakandidátů,0,2161002,,CZK,kscm
-2021-10-08,1270.5,Příchozí úhrada,KOMUNISTIC.STR.CECH,299014959,300,převod od OV KSCM Most,,34205,,CZK,kscm
-2021-10-08,9853,Příchozí úhrada,KOMUNISTIC.STR.CECH,277904192,300,OV KSČM TEPLICE,558,34206,,CZK,kscm
-2021-10-08,-1200,Odchozí úhrada,Dr. Milan Havlíček,816045201,100,volby PČR - letáčky,0,2021027,,CZK,kscm
-2021-10-08,-2047.67,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190573299,,CZK,kscm
-2021-10-08,-5180.73,Odchozí úhrada,BABKA s.r.o.,782876490277,100,volby PČR - reklamní předměty,0,2210293,,CZK,kscm
-2021-10-08,-8772.5,Odchozí úhrada,Robert Fürst,195985210207,100,volby PČR - výlep,0,2121100,,CZK,kscm
-2021-10-08,-30000,Odchozí úhrada,BORŠIČANKA AK-o.s.,259434975,300,volby PČR - hudební produkce,0,202107,,CZK,kscm
 2021-10-08,-30008,Odchozí úhrada,"Haná Press, s.r.o.",78032272,5500,volby PČR - inzerce,0,211801404,,CZK,kscm
+2021-10-08,-30000,Odchozí úhrada,BORŠIČANKA AK-o.s.,259434975,300,volby PČR - hudební produkce,0,202107,,CZK,kscm
+2021-10-08,-8772.5,Odchozí úhrada,Robert Fürst,195985210207,100,volby PČR - výlep,0,2121100,,CZK,kscm
+2021-10-08,-5180.73,Odchozí úhrada,BABKA s.r.o.,782876490277,100,volby PČR - reklamní předměty,0,2210293,,CZK,kscm
+2021-10-08,-2047.67,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190573299,,CZK,kscm
+2021-10-08,-1200,Odchozí úhrada,Dr. Milan Havlíček,816045201,100,volby PČR - letáčky,0,2021027,,CZK,kscm
+2021-10-08,9853,Příchozí úhrada,KOMUNISTIC.STR.CECH,277904192,300,OV KSČM TEPLICE,558,34206,,CZK,kscm
+2021-10-08,1270.5,Příchozí úhrada,KOMUNISTIC.STR.CECH,299014959,300,převod od OV KSCM Most,,34205,,CZK,kscm
 2021-10-07,10000,Příchozí úhrada,KOMUNISTICKÁ STRANA,1132611,100,převod od OV KSČM Ústí nad Orlicí,308,35304,,CZK,kscm
 2021-10-07,-1488153.17,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190573350,,CZK,kscm
 2021-10-07,-50820,Odchozí úhrada,Český Domov Media House s.r.o.,2110626628,2700,volby PČR - inzerce,0,21321214,,CZK,kscm

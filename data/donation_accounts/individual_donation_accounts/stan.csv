@@ -1,10 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
 2021-10-15,4000,Bezhotovostní příjem,Ing.Suchánek Josef,,0,,,Ing.Suchánek Josef,stan
+2021-10-14,80000,Bezhotovostní příjem,ŠTROBACHOVÁ PAVLA,"dar od Štrobachová, 30.6.1960, Smečno",,605630,151041421,DAR - ŠTROBACHOVÁ PAVLA,stan
+2021-10-13,20000,Okamžitá příchozí platba,Mrazírny Eurofrost s,"DAR, Mrazírny Eurofrost s.r.o., 05398746,  Úžice",,5398746,223153321,DAR - Mrazírny Eurofrost,stan
+2021-10-13,5000,Bezhotovostní příjem,MATUSKA BOHUSLAV,"DAR, Bohuslav Matuska, 12.04.1980,Praha 2",,12041980,222153221,DAR - MATUSKA BOHUSLAV,stan
+2021-10-11,80000,Okamžitá příchozí platba,ŠTROBACHOVÁ PAVLA,"dar od Štrobachová, 30.6.1960, Smečno",,605630,221042721,DAR - ŠTROBACHOVÁ PAVLA,stan
+2021-10-08,5000,Okamžitá příchozí platba,MUDr.Hofírek Ivo,DAR Starostove & Pirati  MUDr. I. Hofirek,0,211008523,,MUDr.Hofírek Ivo,stan
+2021-10-08,15000,Okamžitá příchozí platba,Fuchsová Marie,DAR Marie Fuchsová 10 9 1946 PLZEN,0,100946,14130121,DAR - Fuchsová Marie,stan
 2021-10-14,80000,Bezhotovostní příjem,ŠTROBACHOVÁ PAVLA,"dar od Štrobachová, 30.6.1960, Smečno",,605630,151041421,ŠTROBACHOVÁ PAVLA,stan
 2021-10-13,20000,Okamžitá příchozí platba,Mrazírny Eurofrost s,"DAR, Mrazírny Eurofrost s.r.o., 05398746,  Úžice",,5398746,223153321,Mrazírny Eurofrost s,stan
 2021-10-13,5000,Bezhotovostní příjem,MATUSKA BOHUSLAV,"DAR, Bohuslav Matuska, 12.04.1980,Praha 2",,12041980,222153221,MATUSKA BOHUSLAV,stan
 2021-10-11,80000,Okamžitá příchozí platba,ŠTROBACHOVÁ PAVLA,"dar od Štrobachová, 30.6.1960, Smečno",,605630,221042721,ŠTROBACHOVÁ PAVLA,stan
-2021-10-08,5000,Okamžitá příchozí platba,MUDr.Hofírek Ivo,DAR Starostove & Pirati  MUDr. I. Hofirek,0,211008523,,MUDr.Hofírek Ivo,stan
 2021-10-08,15000,Okamžitá příchozí platba,Fuchsová Marie,DAR Marie Fuchsová 10 9 1946 PLZEN,0,100946,14130121,Fuchsová Marie,stan
 2021-10-07,40625,Platba převodem uvnitř banky,Hnutí SOL,Vyrovnání na základě koaliční smlouvy SOL / STAN 3Q/2021,,,,Vyrovnání na základě koaliční smlouvy SOL / STAN 3Q/2021,stan
 2021-10-06,4000,Bezhotovostní příjem,JUDr.Pánková Eva,"DAR, Eva Pánková, 9.6.1975, Praha",,9061975,88033021,JUDr.Pánková Eva,stan

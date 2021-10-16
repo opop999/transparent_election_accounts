@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-15,-160000,Platba převodem uvnitř banky,,1114-převod financí,,,,1114-převod financí,ods
+2021-10-15,750,Bezhotovostní příjem,OPLETAL PETR,"Dar, Petr Opletal",,0,,OPLETAL PETR,ods
+2021-10-15,11000,Bezhotovostní příjem,KOPŘIVA PETR,"DAR, Petr Kopřiva",0,3104210004,0,KOPŘIVA PETR,ods
+2021-10-15,3500,Bezhotovostní příjem,CIGÁNEK VLADIMÍR,DAR Vlasta Fajtlová,0,3001210030,0,CIGÁNEK VLADIMÍR,ods
+2021-10-15,24000,Okamžitá příchozí platba,BĚLOHRADSKÝ LUKÁŠ,"DAR, Lukáš Bělohradský",,2704210004,,BĚLOHRADSKÝ LUKÁŠ,ods
 2021-10-15,40000,Bezhotovostní příjem,ŠIK EVŽEN,ODS regionalni podpora,0,3201210041,0,ŠIK EVŽEN,ods
 2021-10-15,74000,Bezhotovostní příjem,ELIZ S.R.O.,regionalni podpora,0,3201210042,0,ELIZ S.R.O.,ods
 2021-10-13,-340000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
