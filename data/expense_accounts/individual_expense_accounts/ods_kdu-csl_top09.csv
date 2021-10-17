@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-17,-558,Bezhotovostní platba,,,558,1020211339,2400,,ods_kdu-csl_top09
+2021-10-17,-5700,Bezhotovostní platba,,,3558,202109,2400,,ods_kdu-csl_top09
 2021-10-15,-6200,Bezhotovostní platba,,,308,21091,3400,"3400-Filip Bláha , grafické práce",ods_kdu-csl_top09
 2021-10-15,-30293.56,Platba převodem uvnitř banky,,,558,5589,3400,"3400-První pozice s.r.o., záloha kampaň 9-2021",ods_kdu-csl_top09
 2021-10-15,-37201.5,Bezhotovostní platba,,,378,2021094,2300,"1114-Jan Bauer, reklama na FBC 10-2021",ods_kdu-csl_top09

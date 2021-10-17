@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-17,-877.17,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.10.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.10.2021, částka  39.00 USD",spd
 2021-10-14,-287.98,Bezhotovostní platba,,"Město Kaplice, výlep plakátů",308,2210000198,200,"Město Kaplice, výlep plakátů",spd
 2021-10-14,-1800,Bezhotovostní platba,,"Spúráva města Sez. Ústí, výlep",308,210840,200,"Spúráva města Sez. Ústí, výlep",spd
 2021-10-14,-10000,Bezhotovostní platba,,"Creative media Group, video záznam",308,121008,900,"Creative media Group, video záznam",spd

@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-17,200,Okamžitá příchozí platba,Martin Bahenský,dar - za volební hlas,,1001028,,Martin Bahenský,zeleni
+2021-10-17,1000,Okamžitá příchozí platba,Mgr.MgA Martin Staše,dar,,9001011,,Mgr.MgA Martin Staše,zeleni
+2021-10-17,600,Okamžitá příchozí platba,MUDr.Horák Vít,dar,0,9003736,,MUDr.Horák Vít,zeleni
+2021-10-16,600,Platba převodem uvnitř banky,"Halamová, Eva",dar,,9003733,,dar,zeleni
+2021-10-16,1000,Okamžitá příchozí platba,Kubík Adam,,0,,,Kubík Adam,zeleni
+2021-10-16,500,Okamžitá příchozí platba,Pešta Miroslav,DAR - PRO ZO PRAHA 9,0,9003624,,Pešta Miroslav,zeleni
+2021-10-16,800,Okamžitá příchozí platba,Michal Harsa,DAR - povolebni podpora Strany Zelenych,,9003731,,Michal Harsa,zeleni
 2021-10-16,150,Platba převodem uvnitř banky,"Mgr. Hándl, Jiří",dar,,9002761,,dar,zeleni
 2021-10-16,300,Platba převodem uvnitř banky,"Křížová, Sylvie",,,9003727,,,zeleni
 2021-10-16,300,Platba převodem uvnitř banky,"Valenta, Roman",dar,,9002644,,dar,zeleni

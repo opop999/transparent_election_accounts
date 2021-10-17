@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-17,100,Okamžitá příchozí platba,Roman Eliáš,DAR  příspěvek  RP,,2001381,,Roman Eliáš,trikolora
+2021-10-16,100,Okamžitá příchozí platba,ŠIMUŠÁK ERIK,,,,,ŠIMUŠÁK ERIK,trikolora
 2021-10-15,200,Bezhotovostní příjem,MATUSIKOVA JANA,DAR prispevek RP,,15000569,,MATUSIKOVA JANA,trikolora
 2021-10-15,1000,Bezhotovostní příjem,VRÁNA PAVEL,"DAR, PAVEL VRÁNA",0,,,VRÁNA PAVEL,trikolora
 2021-10-15,100,Bezhotovostní příjem,Bladesová Hana,Dar Hana Bladesová,0,6000825,,Bladesová Hana,trikolora
