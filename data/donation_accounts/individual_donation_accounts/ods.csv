@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,30000,Bezhotovostní příjem,ČERVINKA ZDENĚK,regionální podpora,308,3201210043,0,ČERVINKA ZDENĚK,ods
 2021-10-15,-160000,Platba převodem uvnitř banky,,1114-převod financí,,,,1114-převod financí,ods
 2021-10-15,750,Bezhotovostní příjem,OPLETAL PETR,"Dar, Petr Opletal",,0,,OPLETAL PETR,ods
 2021-10-15,11000,Bezhotovostní příjem,KOPŘIVA PETR,"DAR, Petr Kopřiva",0,3104210004,0,KOPŘIVA PETR,ods

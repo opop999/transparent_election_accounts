@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-18,2563,Příchozí úhrada,KOMUNISTICKÁ STRANA,439291,100,Převod od OV KSČM Strakonice,0,33106,,CZK,kscm
 2021-10-14,6720,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,TÚ PŘEVOD OD OV KSČM RAKOVNÍK /horizonty,0,32112,,CZK,kscm
 2021-10-14,-15760.25,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - prop.předměty,0,210533,,CZK,kscm
 2021-10-14,-42350,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024286,,CZK,kscm

@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-18,340,Příchozí úhrada,Havlíčková Monika,4071772073,800,finanční dar,0,38103,,CZK,kscm
 2021-10-15,2527,Příchozí úhrada,KUBEŠ PETR,435069260217,100,Petr Kubeš - finanční dar,0,,,CZK,kscm
 2021-10-15,1000,Příchozí úhrada,PaedDr Šlambor Jaros,157858013,800,Jar.Šlambor_Prostějov_fin.dar,0,10249,322,CZK,kscm
 2021-10-15,850,Příchozí úhrada,NEVORAL MAREK,153867035,600,finanční dar,2018,760308,36100,CZK,kscm
@@ -24,8 +25,8 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-11,200,Okamžitá úhrada,Havelka Josef,1155122103,800,"dar Moravský Krumlov, Řeznovická 1684, Josef Havelka",,300470,,CZK,kscm
 2021-10-11,1400,Příchozí úhrada,JUHOVA JAROSLAVA,176167891,300,"""Miloslav Švantner,Plzeň - finančnídar""",,,33203,CZK,kscm
 2021-10-10,16000,Příchozí úhrada,VALENTA JIRI,125612502,300,J.Valenta finanční dar,,,,CZK,kscm
-2021-10-10,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,Srdecna gratulace k vysledku voleb!,,,,CZK,kscm
 2021-10-10,1060,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar ZPK,,,33200,CZK,kscm
+2021-10-10,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,Srdecna gratulace k vysledku voleb!,,,,CZK,kscm
 2021-10-09,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,198/1993,,,,CZK,kscm
 2021-10-08,0.01,Okamžitá úhrada,Schánilová Karolína,2471845113,800,Komunisti jsou nejlepsi! Ted uz simuj halir nechate? :D :D :D,,,,CZK,kscm
 2021-10-08,35000,Okamžitá úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,9,,,CZK,kscm

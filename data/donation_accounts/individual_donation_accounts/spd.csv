@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,KREJCAROVA JITKA,spd
+2021-10-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,,spd
 2021-10-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
 2021-10-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-10-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd

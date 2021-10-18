@@ -1,4 +1,22 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,500,Bezhotovostní příjem,Milan Vachovec,"Dar - Milan Vachovec,Smetanova 372,252 25 Jinočany",,9002648,,Milan Vachovec,zeleni
+2021-10-18,200,Bezhotovostní příjem,ŠKODA JAKUB,dar,,9003260,,ŠKODA JAKUB,zeleni
+2021-10-18,250,Bezhotovostní příjem,JEDLICKA JINDRICH,"Dar, mesicne 100 hl.kanc. 150 JmKO",,9002975,,JEDLICKA JINDRICH,zeleni
+2021-10-18,800,Bezhotovostní příjem,MASARE VIT,300 centru/200 Martin Ander do Senatu/300 KO Praha,,9002355,,MASARE VIT,zeleni
+2021-10-18,1000,Bezhotovostní příjem,VLCEK JAN,Dar,,9003739,,VLCEK JAN,zeleni
+2021-10-18,1000,Bezhotovostní příjem,DOLEZAL MILOSLAV,dar,,9003740,,DOLEZAL MILOSLAV,zeleni
+2021-10-18,400,Bezhotovostní příjem,Ujfaluši Robin,Dar,0,9003734,,Ujfaluši Robin,zeleni
+2021-10-18,700,Bezhotovostní příjem,Vacková Hana,"Dar - 500 ZO Olomouc,200,. celostát.SZ",0,0,104,Vacková Hana,zeleni
+2021-10-18,250,Bezhotovostní příjem,Mgr.Preclíková Andre,dar,0,9003482,,Mgr.Preclíková Andre,zeleni
+2021-10-18,1000,Bezhotovostní příjem,Žitný Zbyněk,Dar,0,9002038,0,Žitný Zbyněk,zeleni
+2021-10-18,100,Platba převodem uvnitř banky,"Ing. Kropáček, Ivo",dar,,9003365,,dar,zeleni
+2021-10-18,2000,Bezhotovostní příjem,HOROVÁ ALICE,"dar                           , 1234567890123456789012345",0,6954093234,0,HOROVÁ ALICE,zeleni
+2021-10-18,250,Bezhotovostní příjem,DUDÁČKOVÁ TAŤÁNA,DAR PRO STRANU ZELENYCH,0,0,0,DUDÁČKOVÁ TAŤÁNA,zeleni
+2021-10-18,300,Bezhotovostní příjem,MELOUN JAROSLAV,DAR,0,9003694,0,MELOUN JAROSLAV,zeleni
+2021-10-18,300,Bezhotovostní příjem,GLOBOČNÍK PETR,DAR GLOBOČNÍK,0,0,0,GLOBOČNÍK PETR,zeleni
+2021-10-18,220,Bezhotovostní příjem,JEDLIČKOVÁ ZUZANA,DAR,0,9003697,0,JEDLIČKOVÁ ZUZANA,zeleni
+2021-10-18,200,Bezhotovostní příjem,MÜLLEROVÁ TEREZA,ZELENÍ PRO ZO ČESKÉ BUDĚJOVICE,0,9002495,0,MÜLLEROVÁ TEREZA,zeleni
+2021-10-18,200,Bezhotovostní příjem,ŠTĚPÁNKOVÁ VĚRA,DAR - STRANA ZELENYCH,0,9003656,0,ŠTĚPÁNKOVÁ VĚRA,zeleni
 2021-10-17,200,Okamžitá příchozí platba,Martin Bahenský,dar - za volební hlas,,1001028,,Martin Bahenský,zeleni
 2021-10-17,1000,Okamžitá příchozí platba,Mgr.MgA Martin Staše,dar,,9001011,,Mgr.MgA Martin Staše,zeleni
 2021-10-17,600,Okamžitá příchozí platba,MUDr.Horák Vít,dar,0,9003736,,MUDr.Horák Vít,zeleni
