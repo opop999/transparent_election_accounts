@@ -23,7 +23,7 @@ jobs:
     # New, Selenium-based KB extraction workflow.
     - name: Scrape KB bank accounts with Selenium
       run: |
-        Rscript -e "install.packages('Rselenium')"
+        Rscript -e "install.packages('RSelenium')"
         Rscript 01_scrape_kb_accounts_selenium.R
     # Older, API-based extraction workflow for KB. Now obsolete, since unique token is required for each call.
     #- name: Scrape KB bank accounts with API
