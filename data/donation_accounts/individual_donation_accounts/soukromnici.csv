@@ -2,11 +2,11 @@ id,date,amount,vs,ks,ss,note,entity_name
 000-30092021-060-060-002162503,2021-09-30,-60,0,0,0,Poplatek,soukromnici
 000-30092021-060-060-002162504,2021-09-30,-54,0,0,0,Poplatek,soukromnici
 120-20210924 I29233001,2021-09-24,10000,1572172,308,0,DIAGMA-X RADIOLOGI - Příchozí platba - dar - volby 2021,soukromnici
-001-24092021 1602 602006 399211,2021-09-24,-1e+05,3121212,0,0,Odchozí platba - DAR VOLBY STŘEDNÍ ČECHY,soukromnici
+001-24092021 1602 602006 399211,2021-09-24,-100000,3121212,0,0,Odchozí platba - DAR VOLBY STŘEDNÍ ČECHY,soukromnici
 001-24092021 1602 602019 405261,2021-09-24,-40000,670513,0,0,Odchozí platba,soukromnici
 361-24092021 1086 086145 102053,2021-09-24,10000,25961519,0,0,Kuba a partneři s.r. - Příchozí platba - volby pard.kraj Kuba,soukromnici
 001-24092021 1602 602018 401551,2021-09-24,-20000,3888888,0,0,Odchozí platba - DAR VOLBY PARDUBICKÝ KRAJ,soukromnici
-001-21092021 1602 602001 659943,2021-09-21,1e+05,140921,308,0,PLESOLAR S.R.O. - Příchozí platba - DAR,soukromnici
+001-21092021 1602 602001 659943,2021-09-21,100000,140921,308,0,PLESOLAR S.R.O. - Příchozí platba - DAR,soukromnici
 361-18092021 1086 086150 501440,2021-09-20,500,27091965,558,0,"Jurča Petr - Příchozí platba - Marta Petržílová, dar, Chodov",soukromnici
 001-10092021 1602 602019 030781,2021-09-10,-60000,3111111,0,0,Odchozí platba - DAR volby Praha,soukromnici
 001-02092021 1602 602012 166211,2021-09-02,-50000,670513,0,0,Odchozí platba,soukromnici
@@ -17,7 +17,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-09082021 1602 602012 047141,2021-08-09,-160000,3888888,0,0,Odchozí platba - DAR volby Pardubický kraj,soukromnici
 001-09082021 1602 602022 051311,2021-08-09,-66000,3333333,0,0,Odchozí platba - DAR volby Karlovarský kraj,soukromnici
 120-20210806 PR00000266429,2021-08-09,40000,1572172,308,0,"DIAGMA-X RADIOLOGIE - Příchozí platba - dar - volby 2021, Pardubicky, Maca",soukromnici
-001-06082021 1602 602002 759961,2021-08-06,1e+05,882021,0,0,BAJER PETR - Příchozí platba - DAR volby Pardubický kraj,soukromnici
+001-06082021 1602 602002 759961,2021-08-06,100000,882021,0,0,BAJER PETR - Příchozí platba - DAR volby Pardubický kraj,soukromnici
 001-06082021 1602 602002 669681,2021-08-06,-50000,670513,0,0,Odchozí platba,soukromnici
 361-04082021 1086 086147 500136,2021-08-04,100,2021,0,0,Pavel Káčerek - Příchozí platba,soukromnici
 361-04082021 1086 086149 500140,2021-08-04,100,2021,0,0,Pavel Káčerek - Příchozí platba,soukromnici
@@ -27,7 +27,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 000-31072021-060-060-001858860,2021-07-31,-66,0,0,0,Poplatek,soukromnici
 361-24072021 1086 086143 501093,2021-07-25,5000,0,0,0,Ing. Jan Prádler - Příchozí platba - Dar Soukromníci,soukromnici
 001-18072021 1602 602007 061081,2021-07-19,-30000,670513,0,0,Odchozí platba,soukromnici
-001-15072021 1602 602030 142341,2021-07-15,-5e+05,71339655,0,0,Odchozí platba - DAR volby Soukromníci,soukromnici
+001-15072021 1602 602030 142341,2021-07-15,-500000,71339655,0,0,Odchozí platba - DAR volby Soukromníci,soukromnici
 361-14072021 1086 086151 503803,2021-07-14,10000,10881450,0,0,Kuba and partners s. - Příchozí platba - volby pard.kraj Kuba,soukromnici
 361-14072021 1086 086149 503794,2021-07-14,10000,25961519,0,0,Kuba a partneři s.r. - Příchozí platba - volby pard.kraj Kuba,soukromnici
 361-12072021 1086 086148 105667,2021-07-12,25000,2021047,0,1111,Občanská demokratick - Příchozí platba - ODS - vyrovnání 2.Q.2021,soukromnici
@@ -38,15 +38,15 @@ id,date,amount,vs,ks,ss,note,entity_name
 259-07072021 1602000AZ9Z37,2021-07-07,5000,292021,0,0,"ICOM TRANSPORT A.S. - Příchozí platba - DAR - ICOM transport a.s., Strana soukromníků České republiky",soukromnici
 000-30062021-060-060-002180987,2021-06-30,-42,0,0,0,Poplatek,soukromnici
 000-30062021-060-060-002180986,2021-06-30,-60,0,0,0,Poplatek,soukromnici
-120-20210629 17460897,2021-06-29,1e+05,1,0,0,"GMT Europe, a.s. - Příchozí platba - DAR GMTEUROPE",soukromnici
+120-20210629 17460897,2021-06-29,100000,1,0,0,"GMT Europe, a.s. - Příchozí platba - DAR GMTEUROPE",soukromnici
 120-20210622 21621D0005029,2021-06-22,125000,109332021,6418,0,MF - Příchozí platba,soukromnici
 361-21062021 1086 086144 105886,2021-06-21,62500,0,0,0,STAROSTOVÉ A NEZÁVIS - Příchozí platba - STAN - vyrovnání za mandáty - Ústecký kraj - 2Q 2021,soukromnici
 001-17062021 1602 602010 294251,2021-06-17,-50000,670513,0,0,Odchozí platba,soukromnici
-001-15062021 1602 602003 625331,2021-06-15,-2e+06,71339655,0,0,Odchozí platba - DAR volby Soukromníci,soukromnici
-001-07062021 1602 602025 441951,2021-06-07,1e+06,381956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
-001-07062021 1602 602007 420681,2021-06-07,3e+05,381956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
+001-15062021 1602 602003 625331,2021-06-15,-2000000,71339655,0,0,Odchozí platba - DAR volby Soukromníci,soukromnici
+001-07062021 1602 602025 441951,2021-06-07,1000000,381956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
+001-07062021 1602 602007 420681,2021-06-07,300000,381956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
 000-31052021-060-060-001875094,2021-05-31,-60,0,0,0,Poplatek,soukromnici
-001-31052021 1602 602035 173431,2021-05-31,-2e+05,670513,0,0,Odchozí platba,soukromnici
+001-31052021 1602 602035 173431,2021-05-31,-200000,670513,0,0,Odchozí platba,soukromnici
 000-31052021-060-060-001875095,2021-05-31,-48,0,0,0,Poplatek,soukromnici
 001-27052021 1602 602027 354731,2021-05-27,-12500,0,0,0,"Odchozí platba - mandáty 1,2,3/2021 podíl Soukromníci ZLK",soukromnici
 001-27052021 1602 602023 350991,2021-05-27,-46875,0,0,0,"Odchozí platba - mandáty podíl Soukromníci 1,2,3/2021 Zlínský",soukromnici
@@ -61,10 +61,10 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20210428 0029051346034,2021-04-28,100,820324,558,0,"Kučera, Robert - Příchozí platba - Miroslav Chadima Praha 21,symp. příspěvek 2021",soukromnici
 361-27042021 1086 086143 102740,2021-04-27,200,2021,0,0,Ing.Smotlacha Radek - Příchozí platba - J.Smotlachová,soukromnici
 120-20210426 1446255504,2021-04-27,400,2604,0,0,"Jitka Linková - Příchozí platba - Bábek, Kubátovi, Krákorová",soukromnici
-001-12042021 1602 602005 694861,2021-04-12,-1e+05,670513,0,0,Odchozí platba,soukromnici
+001-12042021 1602 602005 694861,2021-04-12,-100000,670513,0,0,Odchozí platba,soukromnici
 001-08042021 1602 602020 167991,2021-04-08,100,0,0,0,GREGOROVÁ JANA - Příchozí platba - Jana Gregorová,soukromnici
 001-06042021 1602 602031 773493,2021-04-06,5000,332021,0,0,"RACIO, S. R. O. - Příchozí platba - Dar",soukromnici
-001-31032021 1602 602003 619481,2021-03-31,1e+06,30032021,8,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
+001-31032021 1602 602003 619481,2021-03-31,1000000,30032021,8,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
 000-31032021-060-060-002205490,2021-03-31,-60,0,0,0,Poplatek,soukromnici
 000-31032021-060-060-002205491,2021-03-31,-78,0,0,0,Poplatek,soukromnici
 361-30032021 1086 086145 502095,2021-03-30,5000,0,0,0,Petr Dvořák - Příchozí platba - DAR - Petr Dvořák,soukromnici
@@ -96,13 +96,13 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-05122020 1602 602007 144111,2020-12-07,-31250,0,0,0,"Odchozí platba - mandáty Trikolóra 11,12/2020 ZLK",soukromnici
 001-05122020 1602 602034 157331,2020-12-07,-8333,0,0,0,"Odchozí platba - mandáty Nezávislí 11,12/2020 ZLK",soukromnici
 361-02122020 1086 086150 608362,2020-12-02,62500,0,0,0,STAROSTOVÉ A NEZÁVIS - Příchozí platba - STAN - vyrovnání za mandáty - Ústecký kraj - 4Q 2020,soukromnici
-001-01122020 1602 602026 392421,2020-12-01,-2e+05,1122020,0,0,Odchozí platba - převod prostředků na provozní účet,soukromnici
+001-01122020 1602 602026 392421,2020-12-01,-200000,1122020,0,0,Odchozí platba - převod prostředků na provozní účet,soukromnici
 000-30112020-060-060-001937608,2020-11-30,-60,0,0,0,Poplatek,soukromnici
 000-30112020-060-060-001937609,2020-11-30,-6,0,0,0,Poplatek,soukromnici
 120-20201123 20B19D0002338,2020-11-23,220833,249872020,6418,0,MF - Příchozí platba,soukromnici
 000-31102020-060-060-001948776,2020-10-31,-60,0,0,0,Poplatek,soukromnici
 000-31102020-060-060-001948777,2020-10-31,-78,0,0,0,Poplatek,soukromnici
-001-29102020 1602 602008 268771,2020-10-29,-2e+05,670513,0,0,Odchozí platba,soukromnici
+001-29102020 1602 602008 268771,2020-10-29,-200000,670513,0,0,Odchozí platba,soukromnici
 001-14102020 1602 602028 873921,2020-10-14,-31250,202003,0,0,Odchozí platba,soukromnici
 001-14102020 1602 602027 905361,2020-10-14,-20833,202003,0,0,Odchozí platba - mandáty STAN III.Q 2020,soukromnici
 001-14102020 1602 602027 860591,2020-10-14,-31250,202001,0,0,Odchozí platba,soukromnici
@@ -110,25 +110,25 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-14102020 1602 602019 889371,2020-10-14,-20833,202001,0,0,Odchozí platba - mandáty STAN I.Q 2020,soukromnici
 001-14102020 1602 602014 867491,2020-10-14,-31250,202002,0,0,Odchozí platba,soukromnici
 120-20201012 20A09D0002059,2020-10-12,412500,156042020,6418,0,MF - Příchozí platba,soukromnici
-001-06102020 1602 602016 928121,2020-10-06,5e+05,5102020,308,0,"VALENTA MIROSLAV - Příchozí platba - DS z 5.10.2020,DAR-SENÁTNÍ VOLBY IVO VALENTA-2.kolo,",soukromnici
-001-06102020 1602 602015 759721,2020-10-06,-5e+05,6102020,0,0,Odchozí platba,soukromnici
-001-05102020 1602 602007 314451,2020-10-05,-5e+05,5102020,0,0,Odchozí platba - vrácení omylem zaslané platby,soukromnici
+001-06102020 1602 602016 928121,2020-10-06,500000,5102020,308,0,"VALENTA MIROSLAV - Příchozí platba - DS z 5.10.2020,DAR-SENÁTNÍ VOLBY IVO VALENTA-2.kolo,",soukromnici
+001-06102020 1602 602015 759721,2020-10-06,-500000,6102020,0,0,Odchozí platba,soukromnici
+001-05102020 1602 602007 314451,2020-10-05,-500000,5102020,0,0,Odchozí platba - vrácení omylem zaslané platby,soukromnici
 001-05102020 1602 602010 347041,2020-10-05,-150000,0,0,0,Odchozí platba,soukromnici
-001-05102020 1602 602029 432111,2020-10-05,5e+05,5102020,308,0,"VALENTA IVO - Příchozí platba - DS z 5.10.2020, DAR-SENÁTNÍ VOLBY IVO VALENTA-2.kolo",soukromnici
+001-05102020 1602 602029 432111,2020-10-05,500000,5102020,308,0,"VALENTA IVO - Příchozí platba - DS z 5.10.2020, DAR-SENÁTNÍ VOLBY IVO VALENTA-2.kolo",soukromnici
 000-30092020-060-060-002261377,2020-09-30,-60,0,0,0,Poplatek,soukromnici
 000-30092020-060-060-002261378,2020-09-30,-78,0,0,0,Poplatek,soukromnici
 120-20200924 PR00000350757,2020-09-25,100,0,0,0,SVIGLER VLADIMIR - Příchozí platba - Svigler,soukromnici
 001-24092020 1602 602026 797831,2020-09-24,-795000,24092020,0,0,Odchozí platba,soukromnici
 001-24092020 1602 602009 740091,2020-09-24,795000,22092020,308,0,"VALENTA IVO - Příchozí platba - DS z z 22.9.2020, DAR - SENÁTNÍ VOLBY IVO VALENTA",soukromnici
 001-22092020 1602 602023 188931,2020-09-22,-250000,71339655,0,251062320,Odchozí platba - DAR Soukromníci volební kampaň Ústecký kraj,soukromnici
-001-22092020 1602 602001 993311,2020-09-22,-5e+05,22092020,0,0,Odchozí platba,soukromnici
+001-22092020 1602 602001 993311,2020-09-22,-500000,22092020,0,0,Odchozí platba,soukromnici
 001-22092020 1602 602005 176911,2020-09-22,-5000,21092020,0,0,Odchozí platba,soukromnici
-001-17092020 1602 602029 378281,2020-09-17,-1e+05,2500200010,0,0,Odchozí platba - DAR Strana soukromníků České republiky,soukromnici
-001-10092020 1602 602023 100871,2020-09-10,5e+05,29072020,308,0,"VALENTA IVO - Příchozí platba - DS z 29.7.2020, DAR-SENÁTNÍ VOLBY IVO VALENTA, 2/2",soukromnici
+001-17092020 1602 602029 378281,2020-09-17,-100000,2500200010,0,0,Odchozí platba - DAR Strana soukromníků České republiky,soukromnici
+001-10092020 1602 602023 100871,2020-09-10,500000,29072020,308,0,"VALENTA IVO - Příchozí platba - DS z 29.7.2020, DAR-SENÁTNÍ VOLBY IVO VALENTA, 2/2",soukromnici
 361-09092020 1086 086143 447534,2020-09-09,30000,202009,558,0,"Jurča Petr - Příchozí platba - Karlovarský kraj, Petr Jurča",soukromnici
 001-08092020 1602 602034 536801,2020-09-08,50000,202099,558,0,"RVS CHODOV, S.R.O. - Příchozí platba - Karlovarský kraj, RVS Chodov",soukromnici
 120-20200904 1225786647,2020-09-04,100,20200904,0,0,Jitka Linková - Příchozí platba - Václav Valečka,soukromnici
-001-03092020 1602 602035 018071,2020-09-03,-2e+05,3092020,0,0,Odchozí platba,soukromnici
+001-03092020 1602 602035 018071,2020-09-03,-200000,3092020,0,0,Odchozí platba,soukromnici
 120-20200901 PR00000205457,2020-09-01,10000,999555,0,0,JAROLIMEK OTTO - Příchozí platba - DAR LBC KRAJ,soukromnici
 001-29082020 1602 602007 047281,2020-08-31,-40000,999999,0,0,Odchozí platba - příspěvek Soukromníci - volby Liberecký kraj,soukromnici
 000-31082020-060-060-001957066,2020-08-31,-96,0,0,0,Poplatek,soukromnici
@@ -137,22 +137,22 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-23082020 1602 602010 194571,2020-08-24,-250000,71339655,0,0,Odchozí platba - Finanční vklad Soukromníci,soukromnici
 001-24082020 1602 602026 491431,2020-08-24,-50000,909090,0,0,Odchozí platba - příspěvek Soukromníci - volby kraj Vysočina,soukromnici
 264-24082020 16020003R5UUX,2020-08-24,4000,49437054,8,0,"IWA, SPOL. S R.O. - Příchozí platba",soukromnici
-001-20082020 1602 602021 910631,2020-08-20,-2e+05,2200200069,0,0,Odchozí platba - DAR PRO ODS STŘEDOČESKÝ KRAJ,soukromnici
+001-20082020 1602 602021 910631,2020-08-20,-200000,2200200069,0,0,Odchozí platba - DAR PRO ODS STŘEDOČESKÝ KRAJ,soukromnici
 001-14082020 1602 602027 576061,2020-08-14,-250000,71339655,0,0,"Odchozí platba - DAR, Soukromníci, 71339655",soukromnici
 001-14082020 1602 602008 579571,2020-08-14,-50000,101010,0,0,"Odchozí platba - DAR, Soukromníci, 71339655",soukromnici
-001-14082020 1602 602033 582781,2020-08-14,-5e+05,0,0,0,Odchozí platba,soukromnici
+001-14082020 1602 602033 582781,2020-08-14,-500000,0,0,0,Odchozí platba,soukromnici
 120-20200812 1204165607,2020-08-13,100,1208,0,0,Jitka Linková - Příchozí platba - Dryml,soukromnici
 120-20200811 1203058084,2020-08-12,300,123,0,0,"Jitka Linková - Příchozí platba - Pavlicová, Pořízek, Nejdl",soukromnici
 361-12082020 1086 086147 288100,2020-08-12,50000,202006,0,0,Ing.Radek Smotlacha - Příchozí platba,soukromnici
 361-11082020 1086 086144 279041,2020-08-11,40000,0,8,0,"Procházková, Světlan - Příchozí platba - dar-kampaň jižní Čechy-krajské volby",soukromnici
-120-20200811 17293099,2020-08-11,5e+05,29072020,308,0,Valenta Ivo - Příchozí platba - DAR-SENÁTNÍ VOLBY IVO VALENTA 1/2 dílčích úhrad,soukromnici
+120-20200811 17293099,2020-08-11,500000,29072020,308,0,Valenta Ivo - Příchozí platba - DAR-SENÁTNÍ VOLBY IVO VALENTA 1/2 dílčích úhrad,soukromnici
 120-20200811 17293098,2020-08-11,250000,5082020,308,0,Valenta Ivo - Příchozí platba - DAR-IVO VALENTA,soukromnici
 120-20200806 T02AR0H2A1AAB,2020-08-06,100,0,0,0,PAVEL VILD - Příchozí platba - PŘEVOD PROSTŘEDKŮ PŘIHLÁŠKA SYMPATIZANTA,soukromnici
 001-31072020 1602 602000 025861,2020-07-31,-30000,670513,0,0,Odchozí platba,soukromnici
 000-31072020-060-060-001972648,2020-07-31,-84,0,0,0,Poplatek,soukromnici
 000-31072020-060-060-001972647,2020-07-31,-60,0,0,0,Poplatek,soukromnici
-001-31072020 1602 602003 028851,2020-07-31,-3e+05,31072020,0,0,Odchozí platba,soukromnici
-001-22072020 1602 602016 608401,2020-07-22,-2e+05,444444,0,0,Odchozí platba - DAR Královéhradecký Strana soukromníků České republiky,soukromnici
+001-31072020 1602 602003 028851,2020-07-31,-300000,31072020,0,0,Odchozí platba,soukromnici
+001-22072020 1602 602016 608401,2020-07-22,-200000,444444,0,0,Odchozí platba - DAR Královéhradecký Strana soukromníků České republiky,soukromnici
 361-22072020 1086 086147 185827,2020-07-22,5000,6773249,0,0,STAVBY MP s.r.o. - Příchozí platba,soukromnici
 001-21072020 1602 602021 416201,2020-07-21,10000,1121964,308,0,MUDROŇKA JIŘÍ - Příchozí platba - Jiří Mudroňka,soukromnici
 361-16072020 1086 086151 154377,2020-07-16,3000,120460,0,0,VÁCLAV ZEMANČÍK LE - Příchozí platba - Pavla Zemančíková,soukromnici
@@ -167,34 +167,34 @@ id,date,amount,vs,ks,ss,note,entity_name
 000-30062020-060-060-002289916,2020-06-30,-54,0,0,0,Poplatek,soukromnici
 000-30062020-060-060-002289915,2020-06-30,-60,0,0,0,Poplatek,soukromnici
 361-30062020 1086 086146 397932,2020-06-30,5000,3362020,0,0,"GRANTEX dotace s.r.o - Příchozí platba - DAR, GRANTEX",soukromnici
-001-25062020 1602 602035 382931,2020-06-25,-2e+05,0,0,0,Odchozí platba,soukromnici
+001-25062020 1602 602035 382931,2020-06-25,-200000,0,0,0,Odchozí platba,soukromnici
 120-20200624 20623D0003938,2020-06-24,412500,39362020,6418,0,MF - Příchozí platba,soukromnici
 361-16062020 1086 086143 323591,2020-06-16,100,20081981,0,0,"Pavel Káčerek - Příchozí platba - Forst, Nejdek, K.Vary",soukromnici
 361-16062020 1086 086147 319992,2020-06-16,100,311045,0,0,"Pavel Káčerek - Příchozí platba - P-Káčerek, Nejdek, K.Vary",soukromnici
 361-16062020 1086 086147 319977,2020-06-16,100,3111963,0,0,"Pavel Káčerek - Příchozí platba - S.Körber, Nejdek, K.Vary",soukromnici
-001-15062020 1602 602019 373701,2020-06-15,2e+05,962020,308,0,"VALENTA IVO - Příchozí platba - DS z 9.6.2020, DAR Ivo Valenta",soukromnici
+001-15062020 1602 602019 373701,2020-06-15,200000,962020,308,0,"VALENTA IVO - Příchozí platba - DS z 9.6.2020, DAR Ivo Valenta",soukromnici
 120-20200602 1138531606,2020-06-02,200,162020,0,0,"Jitka Linková - Příchozí platba - Kubát, Kubátová",soukromnici
-001-01062020 1602 602030 114591,2020-06-01,3e+05,381956,308,0,VALENTA IVO - Příchozí platba - DAR Ivo Valenta (2/2),soukromnici
+001-01062020 1602 602030 114591,2020-06-01,300000,381956,308,0,VALENTA IVO - Příchozí platba - DAR Ivo Valenta (2/2),soukromnici
 000-31052020-060-060-002059846,2020-05-31,-54,0,0,0,Poplatek,soukromnici
 000-31052020-060-060-002059845,2020-05-31,-60,0,0,0,Poplatek,soukromnici
-001-29052020 1602 602021 907261,2020-05-29,-5e+05,29052020,0,0,Odchozí platba,soukromnici
+001-29052020 1602 602021 907261,2020-05-29,-500000,29052020,0,0,Odchozí platba,soukromnici
 361-26052020 1086 086147 203301,2020-05-26,100,0,0,0,PhDr. Jiřina Malasto - Příchozí platba,soukromnici
 001-25052020 1602 602027 706041,2020-05-25,10000,2020,0,0,"RACIO, S. R. O. - Příchozí platba - DAR",soukromnici
 120-20200518 1123481894,2020-05-18,200,1505,0,0,"Jitka Linková - Příchozí platba - Gregorová, Krákorová",soukromnici
 120-20200512 1120092325,2020-05-13,100,1205,0,0,Jitka Linková - Příchozí platba - Smotlachová,soukromnici
 001-11052020 1602 602015 589511,2020-05-11,-150000,888888,0,0,"Odchozí platba - DAR, Strana soukromníků České republiky - PK",soukromnici
-001-11052020 1602 602001 566431,2020-05-11,-3e+05,151515,0,0,"Odchozí platba - DAR, Strana soukromníků České republiky",soukromnici
+001-11052020 1602 602001 566431,2020-05-11,-300000,151515,0,0,"Odchozí platba - DAR, Strana soukromníků České republiky",soukromnici
 120-20200505 PR00000317571,2020-05-06,100,5011957,308,0,DVORAK IVAN - Příchozí platba - Soukromnici.cz,soukromnici
 120-20200506 20505D0001109,2020-05-06,412500,7652020,6418,0,MF - Příchozí platba,soukromnici
 000-30042020-060-060-002083464,2020-04-30,-24,0,0,0,Poplatek,soukromnici
 000-30042020-060-060-002083463,2020-04-30,-60,0,0,0,Poplatek,soukromnici
-001-21042020 1602 602030 837241,2020-04-21,4e+05,4032020,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
+001-21042020 1602 602030 837241,2020-04-21,400000,4032020,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici
 120-20200416 T02AR0GSN0A9S,2020-04-17,100,466230,0,0,EMILIA KUCEROVA - Příchozí platba - PRISPEVEK SYMPATIZANT PRAHA 2020,soukromnici
 120-20200402 0027050249970,2020-04-02,30000,1607910,0,0,sledovanitv.cz s.r.o - Příchozí platba,soukromnici
 120-20200402 0027050249972,2020-04-02,20000,1607910,0,0,sledovanitv.cz s.r.o - Příchozí platba,soukromnici
 000-31032020-060-060-002412301,2020-03-31,-18,0,0,0,Poplatek,soukromnici
 000-31032020-060-060-002412300,2020-03-31,-60,0,0,0,Poplatek,soukromnici
-001-25032020 1602 602025 542851,2020-03-25,-5e+05,0,0,0,Odchozí platba - převod prostředků na provozní účet,soukromnici
+001-25032020 1602 602025 542851,2020-03-25,-500000,0,0,0,Odchozí platba - převod prostředků na provozní účet,soukromnici
 120-20200323 1078487498,2020-03-23,1700,11666,0,0,Jitka Linková - Příchozí platba - dar Soukromníkům,soukromnici
 001-09032020 1602 602032 751491,2020-03-09,100,0,308,0,MUDROŇKA JIŘÍ - Příchozí platba,soukromnici
 000-29022020-060-060-002113451,2020-02-29,-60,0,0,0,Poplatek,soukromnici
@@ -216,7 +216,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 000-31122019-060-060-002958778,2019-12-31,-60,0,0,0,Poplatek,soukromnici
 000-31122019-060-060-002958779,2019-12-31,-24,0,0,0,Poplatek,soukromnici
 001-20122019 1602 602036 080161,2019-12-20,5000,2532019,0,0,STRANA SOUKROMNÍKŮ ČESKÉ REPUBLIKY - Příchozí platba - Dar Marek,soukromnici
-001-19122019 1602 602012 658721,2019-12-19,-5e+05,670513,0,0,Odchozí platba,soukromnici
+001-19122019 1602 602012 658721,2019-12-19,-500000,670513,0,0,Odchozí platba,soukromnici
 001-15122019 1602 602027 654761,2019-12-16,-31250,201904,0,0,Odchozí platba,soukromnici
 001-14122019 1602 602009 053851,2019-12-16,1089,652019,558,0,"RVS CHODOV, S.R.O. - Příchozí platba - RVS Chodov, Jurca",soukromnici
 000-30112019-060-060-002379576,2019-11-30,-12,0,0,0,Poplatek,soukromnici
@@ -262,7 +262,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 000-28022019-060-060-002483564,2019-02-28,-60,0,0,0,Poplatek,soukromnici
 001-25022019 1602 602010 206041,2019-02-25,4000,0,0,0,SOJKA JAROSLAV - Příchozí platba,soukromnici
 120-20190208 I04351701,2019-02-08,1000,606007,558,0,SOŇA HERČÍKOVÁ - Příchozí platba - Strana soukromníků - dar 2019 SH,soukromnici
-001-05022019 1602 602026 717911,2019-02-05,-2e+06,5022019,0,0,Odchozí platba - převod na provozní účet,soukromnici
+001-05022019 1602 602026 717911,2019-02-05,-2000000,5022019,0,0,Odchozí platba - převod na provozní účet,soukromnici
 000-31012019-060-060-002521435,2019-01-31,-12,0,0,0,Poplatek,soukromnici
 000-31012019-060-060-002521434,2019-01-31,-60,0,0,0,Poplatek,soukromnici
 120-20190116 00170176544,2019-01-17,5000,6881424,0,0,Simak Peter - Příchozí platba - DAR,soukromnici
@@ -277,10 +277,10 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20181123 I24822701,2018-11-23,9000,1412,0,0,ROBERT KAŠE - Příchozí platba,soukromnici
 000-31102018-060-060-002537440,2018-10-31,-60,0,0,0,Poplatek,soukromnici
 000-31102018-060-060-002537441,2018-10-31,-30,0,0,0,Poplatek,soukromnici
-001-19102018 1602 602035 664831,2018-10-19,-1e+06,19102018,0,0,Odchozí platba,soukromnici
+001-19102018 1602 602035 664831,2018-10-19,-1000000,19102018,0,0,Odchozí platba,soukromnici
 120-20181010 18A08D0007968,2018-10-10,412500,169622018,6418,0,MF - Příchozí platba,soukromnici
 120-20181008 I181008J5WNX6,2018-10-08,6500,0,0,0,"Moudrá Hana,Mgr. - Příchozí platba - Dar H. Moudrá - Hradec Králové",soukromnici
-001-01102018 1602 602001 291901,2018-10-01,-1e+06,27092018,0,0,Odchozí platba,soukromnici
+001-01102018 1602 602001 291901,2018-10-01,-1000000,27092018,0,0,Odchozí platba,soukromnici
 001-01102018 1602 602026 533351,2018-10-01,30000,2302926,558,0,"MANAG DEVELOPMENT, A.S. - Příchozí platba - Dar-MANAG development, a.s.",soukromnici
 000-30092018-060-060-002808517,2018-09-30,-60,0,0,0,Poplatek,soukromnici
 000-30092018-060-060-002808518,2018-09-30,-48,0,0,0,Poplatek,soukromnici
@@ -291,7 +291,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 120-20180911 I04284201,2018-09-11,20000,92018,308,0,CREDIT GARANT A. S - Příchozí platba - darovací smlouva -kampan Senát Hemer,soukromnici
 120-20180906 I40486501,2018-09-07,10000,111,308,0,ALEŠ HEMER - Příchozí platba - Dar - Hemer Senát,soukromnici
 120-20180904 FSYHO15111948,2018-09-05,20000,26863057,308,0,REPONT s.r.o. - Příchozí platba - AV Strana soukromníků České repub,soukromnici
-120-20180903 PR00000573433,2018-09-04,1e+05,2018,308,0,MALIK LUBOMIR - Příchozí platba - fin.dar - Malik Lubomir,soukromnici
+120-20180903 PR00000573433,2018-09-04,100000,2018,308,0,MALIK LUBOMIR - Příchozí platba - fin.dar - Malik Lubomir,soukromnici
 000-31082018-060-060-002531586,2018-08-31,-60,0,0,0,Poplatek,soukromnici
 000-31082018-060-060-002531587,2018-08-31,-78,0,0,0,Poplatek,soukromnici
 001-28082018 1602 602030 207131,2018-08-28,20000,5709300421,0,0,STRÁSKÝ PAVEL - Příchozí platba - Pavel Stráský,soukromnici
