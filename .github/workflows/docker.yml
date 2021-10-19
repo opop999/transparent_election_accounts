@@ -20,11 +20,11 @@ jobs:
     - uses: actions/checkout@v2
     - name: Compile bank accounts list
       run: Rscript 00_save_bank_accounts.R
+    # KB changed its API parameters since 8 October 2021, requiring unique token with each API call, which means that this script does not currently work.
+    - name: Scrape KB bank accounts
+      run: Rscript 01_scrape_kb_accounts_selenium.R
     - name: Scrape FIO bank accounts
       run: Rscript 01_scrape_fio_accounts.R
-# KB changed its API parameters since 8 October 2021, requiring unique token with each API call, which means that this script does not currently work.
-#    - name: Scrape KB bank accounts
-#      run: Rscript 01_scrape_kb_accounts.R
     - name: Scrape CSOB bank accounts
       env:
         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
