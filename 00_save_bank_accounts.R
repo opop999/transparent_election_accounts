@@ -106,27 +106,34 @@ all_accounts_list[["donation_accounts_hlidac"]] <- list(
 )
 
 
-# 3.1 This list is for expense accounts extracted through KB API --------------------------
+# 3.1 This list is for expense accounts extracted through KB API and/or direct extraction-----
 all_accounts_list[["expense_accounts_kb"]] <- list(
   names = c(
     "ano_2011"
   ),
   numbers = c(
-    "4090453"
+    "4090453" # This is formatting for KB API request
+  ),
+  urls = c(
+    "4090453" # This is formatting for direct KB URL
   )
 )
 
 
-# 3.2 This list is for donation accounts extracted through KB API --------------------------
+# 3.2 This list is for donation accounts extracted through KB API and/or direct extraction----
 
 all_accounts_list[["donation_accounts_kb"]] <- list(
   names = c(
     "ano_2011",
     "soukromnici"
   ),
-  numbers = c(
+  numbers = c( # This is formatting for KB API request
     "4070217",
     "1153902720297"
+  ),
+  urls = c( # This is formatting for direct KB URL
+    "4070217",
+    "115-3902720297"
   )
 )
 
