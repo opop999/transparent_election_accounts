@@ -14,6 +14,9 @@ if (any(installed_packages == FALSE)) {
 # Packages loading
 invisible(lapply(packages, library, character.only = TRUE))
 
+# Turn off scientific notation of numbers
+options(scipen = 999)
+
 ## 2. Function for extraction of the expense transparent bank accounts based in CS bank
 scrape_cs_expense_accounts <- function(expense_accounts_cs, dir_name, page_rows, sort, sort_direction, api_key) {
   

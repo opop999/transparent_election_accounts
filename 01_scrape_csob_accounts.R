@@ -14,6 +14,9 @@ if (any(installed_packages == FALSE)) {
 # Packages loading
 invisible(lapply(packages, library, character.only = TRUE))
 
+# Turn off scientific notation of numbers
+options(scipen = 999)
+
 ## 2. Function for extraction of the expense transparent bank accounts based in CSOB bank
 scrape_csob_expense_accounts <- function(expense_accounts_csob, dir_name, page_rows, start_date, end_date, sort, sort_direction, temporary_cookie_csob) {
 

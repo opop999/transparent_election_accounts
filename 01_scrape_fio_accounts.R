@@ -14,6 +14,9 @@ if (any(installed_packages == FALSE)) {
 # Packages loading
 invisible(lapply(packages, library, character.only = TRUE))
 
+# Turn off scientific notation of numbers
+options(scipen = 999)
+
 ## 2. Function for scraping of the expense transparent bank accounts based in FIO bank
 
 scrape_fio_expense_accounts <- function(expense_accounts_fio, dir_name, start_date, end_date) {

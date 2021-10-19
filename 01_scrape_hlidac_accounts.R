@@ -15,6 +15,9 @@ if (any(installed_packages == FALSE)) {
 # Packages loading
 invisible(lapply(packages, library, character.only = TRUE))
 
+# Turn off scientific notation of numbers
+options(scipen = 999)
+
 ## 2. Formulating the function, which uses Hlidac Statu API to extract expense accounts
 
 extract_expense_accounts_hlidac <- function(expense_accounts_hlidac, start_date, end_date, dir_name, sort, descending) {
