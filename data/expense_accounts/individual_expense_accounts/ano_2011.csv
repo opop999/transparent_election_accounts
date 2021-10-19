@@ -71,7 +71,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-29092021 1602 602030 403933,2021-09-29,-5544,1232111500,558,0,"Odchozí platba - PYORD0000025666 CESKE DRAHY, A.S. NABREZI L.SVOBODY 1222PRAHA 1 ICO:70994226JIZDNE",ano_2011
 001-29092021 1602 602033 403963,2021-09-29,-6879,2100112,558,0,Odchozí platba - PYORD0000025670 E K O F I N P C SPOL. S R.O. FIBICHOVA 3547/23USTI NAD LABEM ICO:49901745OBCERSTVENI PRO NOVINAR,ano_2011
 001-29092021 1602 602021 411763,2021-09-29,-24200,21200014,558,0,Odchozí platba - PYORD0000025612 LEVNE KNIHY A.S. DO CERTOUS 2660/16PRAHA 9 - HORNI PICO:28226909UMISTENI KNIHY AB,ano_2011
-001-29092021 1602 602021 394591,2021-09-29,1e+07,3352,558,0,ANO 2011 - Příchozí platba - převod mezi ucty,ano_2011
+001-29092021 1602 602021 394591,2021-09-29,10000000,3352,558,0,ANO 2011 - Příchozí platba - převod mezi ucty,ano_2011
 001-29092021 1602 602032 403953,2021-09-29,-131236.59,142210904,558,0,Odchozí platba - PYORD0000025668 QUO S.R.O. KRIZIKOVA 2158BENESOV ICO:26487985VYROBA TRICEK,ano_2011
 001-29092021 1602 602029 403923,2021-09-29,-4925710,8910000177,558,0,"Odchozí platba - PYORD0000025665 MAFRA, A.S. KARLA ENGLISE 519/11PRAHA 5 ICO:45313351VOLEBNI DOPIS - DOBROPI",ano_2011
 120-20210929 1585895194,2021-09-29,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
@@ -105,7 +105,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-24092021 1602 602028 540923,2021-09-24,-2124,5118367172,558,0,"Odchozí platba - PYORD0000025650 CESKA POSTA, S.P. POLITICKYCH VEZNU 909/4PRAHA 1 ICO:47114983POSTOVNE",ano_2011
 001-24092021 1602 602003 141703,2021-09-24,-5200,221095,558,0,"Odchozí platba - PYORD0000025415 ALZBETINY LAZNE, A.S. SMETANOVY SADSMETANOVY SADY 1145/1KICO:26342421ZABOR PROSTRANSTVI 14.8",ano_2011
 001-24092021 1602 602034 540983,2021-09-24,-1355,3020000014,558,0,Odchozí platba - PYORD0000025654 JAROSLAV HEDVICAK PURKYNOVA 475/15ZDAR NAD SAZAVOU DAT.NAR.:19.5.1987VYUCTOVANI HEDVIC,ano_2011
-001-24092021 1602 602015 303361,2021-09-24,1e+06,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
+001-24092021 1602 602015 303361,2021-09-24,1000000,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
 120-20210924 1582356384,2021-09-24,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-23092021 1602 602019 394241,2021-09-23,0.01,0,0,0,JAVŮRKOVÁ LEONA - Příchozí platba - příspěvek Burešovi na jednosměrnou jízdenku do Bratislavy,ano_2011
 120-20210923 PR00000067948,2021-09-23,0.1,0,0,0,VACULIK PAVEL - Příchozí platba - Vsici kradu - v CR nejvic Babis!,ano_2011
@@ -168,9 +168,9 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-15092021 1602 602031 877243,2021-09-15,-54450,166,558,0,Odchozí platba - PYORD0000025591 EUROAWK S.R.O. KONOPISTSKA 739/16PRAHA 10 - VRSOVIICO:24196819REKLAMNI PLOCHY,ano_2011
 001-15092021 1602 602032 877253,2021-09-15,-2419999.75,21001,558,0,"Odchozí platba - PYORD0000025592 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101MEDIALNI KAMPAN NA FCB",ano_2011
 361-15092021 1086 086146 503484,2021-09-15,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Havlíček dokazuje, že je sprostý kolaborant a zrádce. Hrdě zaštiťuje akci podporovanou Rosatomem v Plzni. Pryč s ANO!",ano_2011
-001-15092021 1602 602033 877263,2021-09-15,-4e+06,2180160,558,0,"Odchozí platba - PYORD0000025593 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101ONLINE KAMPAN",ano_2011
+001-15092021 1602 602033 877263,2021-09-15,-4000000,2180160,558,0,"Odchozí platba - PYORD0000025593 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101ONLINE KAMPAN",ano_2011
 120-20210817 240875042,2021-09-15,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011
-001-15092021 1602 602013 873731,2021-09-15,3e+06,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
+001-15092021 1602 602013 873731,2021-09-15,3000000,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
 001-15092021 1602 602035 877283,2021-09-15,-1815,13931407,558,0,Odchozí platba - PYORD0000025597 ING. VACLAV LANDOVSKY SVATOPLUKA CECHA 4649/20JABLONEC NAICO:13931407FOTOPRACE,ano_2011
 001-15092021 1602 602030 877233,2021-09-15,-508200,4202106067,558,0,"Odchozí platba - PYORD0000025590 BIGMEDIA, SPOL. S R.O. NA STRZI 2097/63PRAHA 4 ICO:26479451REKLAMNI PLOCHY",ano_2011
 120-20210914 S50277766,2021-09-15,0.01,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011
@@ -219,7 +219,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-09092021 1602 602003 080173,2021-09-09,-12098,71443339,3558,0,Odchozí platba - PYORD0000025524 OBOROVA ZDRAVOTNI POJISTOVNA ROSKOTOVA 1225/1PRAHA ICO:47114321ZP ZAMESTNANEC,ano_2011
 001-09092021 1602 602009 080233,2021-09-09,-65563,202108,138,0,Odchozí platba - PYORD0000025562 MZDY - ZUCTOVANI MZDA,ano_2011
 361-09092021 1086 086147 503907,2021-09-09,0.01,9,138,0,"Bc.Němec Martin - Příchozí platba - boží mlýny melou, i když někdy moc pomalu, že by se už začla vařit voda.............",ano_2011
-001-09092021 1602 602027 077821,2021-09-09,1e+07,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
+001-09092021 1602 602027 077821,2021-09-09,10000000,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
 001-09092021 1602 602035 080123,2021-09-09,-1742.4,20210991,558,0,Odchozí platba - PYORD0000025503 VANESTA REKLAMA S.R.O. 9. KVETNA 627NOVY BOHUMIN ICO:25894510LETACKY,ano_2011
 120-20210908 1562964422,2021-09-08,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-08092021 1602 602007 977571,2021-09-08,0.01,0,0,0,BAŽANT JAN - Příchozí platba - My máme na ty slováky prostě smůlu! Viď Bilaku a Husáku...,ano_2011
@@ -231,7 +231,7 @@ id,date,amount,vs,ks,ss,note,entity_name
 001-07092021 1602 602032 955771,2021-09-07,-16746,210802198,558,0,"Odchozí platba - MP toner, spol s r.o. Drozdovice 1026/2a, Prostejov ICO: 26235463 fixy",ano_2011
 120-20210907 1562582049,2021-09-07,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 120-20210907 1562582726,2021-09-07,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
-001-07092021 1602 602027 952391,2021-09-07,1e+06,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
+001-07092021 1602 602027 952391,2021-09-07,1000000,3352,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
 361-06092021 1086 086144 106066,2021-09-06,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Bureši, Bureši, proč pořád lžeš? Státní dluh přece nejvýše vyšroubovala tvoje neschopná vláda! Pamatuj, že kdo lže, ten taky krade!",ano_2011
 120-20210906 1562374534,2021-09-06,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 120-20210906 1562374397,2021-09-06,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
@@ -359,7 +359,7 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 361-18082021 1086 086150 102682,2021-08-18,0.01,9999999999,0,0,"Schnabl, Petr - Příchozí platba - Dar na kampáň !",ano_2011
 120-20210817 1539069422,2021-08-17,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 001-17082021 1602 602026 088173,2021-08-17,-250000,2180088,558,0,"Odchozí platba - PYORD0000025314 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101FCB SCHILLEROVA",ano_2011
-001-17082021 1602 602025 088163,2021-08-17,-8e+05,2180087,558,0,"Odchozí platba - PYORD0000025313 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101FCB AB",ano_2011
+001-17082021 1602 602025 088163,2021-08-17,-800000,2180087,558,0,"Odchozí platba - PYORD0000025313 PRODUCTION TEAM, S. R. O OPLETALOVA 1013/59PRAHA1, NOVE MESTICO:63991101FCB AB",ano_2011
 120-20210816 1572619361,2021-08-17,0.01,0,0,0,Aleš Újezdský - Příchozí platba - Buresovi na vezenske teplaky,ano_2011
 001-17082021 1602 602027 088183,2021-08-17,-4840,20210026,558,0,Odchozí platba - PYORD0000025320 JAKUB KONECNY HNEVKOVSKEHO 1375/12PRAHA 4 - CHODOICO:04322011KAMERAMANSKE SLUZBY 07/,ano_2011
 120-20210817 1539068046,2021-08-17,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
@@ -505,10 +505,10 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 001-15072021 1602 602035 711823,2021-07-15,-484000,210014,558,0,Odchozí platba - PYORD0000025119 CALMIA PLANET A.S. OPLETALOVA 1013/59PRAHA 1 ICO:27862097MARKETING 06/2021,ano_2011
 120-20210715 1501396444,2021-07-15,0.01,666,0,0,Samuel Creeps - Příchozí platba - Na padání ANO. Abyste nemuseli tolik krást z veřejného.,ano_2011
 120-20210715 1501412020,2021-07-15,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
-001-15072021 1602 602029 800711,2021-07-15,1e+07,3352,558,0,ANO 2011 - Příchozí platba - prevod financi na parlamentni volby 2021,ano_2011
+001-15072021 1602 602029 800711,2021-07-15,10000000,3352,558,0,ANO 2011 - Příchozí platba - prevod financi na parlamentni volby 2021,ano_2011
 361-15072021 1086 086143 101999,2021-07-15,0.01,0,0,0,"Koryta, Martin - Příchozí platba - Jste šmejdi největší v čele s kuním ksichtem.",ano_2011
 001-15072021 1602 602030 711773,2021-07-15,-4000,200228,558,0,Odchozí platba - PYORD0000025135 DAVID SEDIVY HUSNIKOVA 2087/24PRAHA - STODULKY ICO:87378124VOLEBNI FOCENI FB 6/202,ano_2011
-001-15072021 1602 602029 711763,2021-07-15,-1e+05,210800002,558,0,"Odchozí platba - PYORD0000025114 GRANT-DABING, SPOL. S R.O. U DRUZSTVA ZIVOT 30PRAHA 4 ICO:62906399VYROBA AUDIOKNIHY AB",ano_2011
+001-15072021 1602 602029 711763,2021-07-15,-100000,210800002,558,0,"Odchozí platba - PYORD0000025114 GRANT-DABING, SPOL. S R.O. U DRUZSTVA ZIVOT 30PRAHA 4 ICO:62906399VYROBA AUDIOKNIHY AB",ano_2011
 120-20210713 S37117781,2021-07-14,0.01,666,666,666,DRS PETR - Příchozí platba - Sbohem STB a KSČ!!,ano_2011
 120-20210615 282370004,2021-07-14,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji United Bakeries, Vodňanskou drůbež, Maso Planá, Hyza, Tatra, řepkový olej, Pikok. A přeji ti Andreji šťastnou cestu na hrad - Mírov",ano_2011
 120-20210614 282247240,2021-07-14,0.01,0,0,0,"Ing. Martin Holla - Příchozí platba - Nekupuji Penam, Česká vejce, Kmotr, Kostelecké uz., Krahulík, Lieken, mlékárna Hlinsko, Odkolek, Olma, Papei, pekárna Zelená louka, Profrost",ano_2011
@@ -526,7 +526,7 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 120-20210709 1494687288,2021-07-09,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 120-20210709 CST0017095587,2021-07-09,0.22,0,666,0,"Ing.Kopáček Jiří - Příchozí platba - Narvi si těch pár drobáků, estébáku, do rypáku!",ano_2011
 120-20210709 1494687311,2021-07-09,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
-001-09072021 1602 602028 900151,2021-07-09,1e+06,9,558,0,ANO 2011 - Příchozí platba - prevod financi na parlamentni volby 2021,ano_2011
+001-09072021 1602 602028 900151,2021-07-09,1000000,9,558,0,ANO 2011 - Příchozí platba - prevod financi na parlamentni volby 2021,ano_2011
 120-20210709 1528761964,2021-07-09,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Jste pojištěni? Stát vám sníží plnění. Pomohou vám vlastní děti? Stát vám o to sníží důchod. Kdo volí ANO, volí zlodějny!",ano_2011
 001-09072021 1602 602003 613413,2021-07-09,-0.23,71443339,558,0,Odchozí platba - PYORD0000025073 NEVYZADANE PLATBY - KB282 . ODVOD DO STATNIHO ROZPOCTU,ano_2011
 120-20210708 1493094993,2021-07-08,0.01,666,0,0,Samuel Creeps - Příchozí platba - Na padání ANO. Abyste nemuseli tolik krást z veřejného.,ano_2011
@@ -779,7 +779,7 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 120-20210511 1429846654,2021-05-11,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 120-20210511 PR00000047696,2021-05-11,0.01,0,0,0,"BECVAR JIRI - Příchozí platba - Buresi, chcipni ty vrahu",ano_2011
 120-20210511 PR00000047703,2021-05-11,0.01,0,0,0,BECVAR JIRI - Příchozí platba - Pro nejvetsiho zlodeje a vraha na teplake,ano_2011
-001-11052021 1602 602020 783231,2021-05-11,1e+06,9,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
+001-11052021 1602 602020 783231,2021-05-11,1000000,9,558,0,ANO 2011 - Příchozí platba - prevod mezi ucty,ano_2011
 361-11052021 1086 086151 502373,2021-05-11,0.43,0,0,0,"Koryta, Martin - Příchozí platba - Skončíte v pekle",ano_2011
 120-20210510 1429847631,2021-05-10,0.01,0,0,0,"Miloslava Sadílková - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
 120-20210509 CST0003212926,2021-05-10,0.22,0,666,0,"Kopáček Jiří,Ing. - Příchozí platba - Narvi si těch pár drobáků, estébáku, do rypáku!",ano_2011
@@ -987,7 +987,7 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 120-20210415 S23848163,2021-04-16,1,1,8,0,LULEK PAVEL - Příchozí platba - Bureš domů,ano_2011
 120-20210416 T02AR0H8NH1A6,2021-04-16,0.01,0,0,0,"RADEK BRENDA - Příchozí platba - POSÍLÁM HALÉŘ, AŤ TU MÁŠ ASPOŇ NĚJAKÝ OBRAT, KDYŽ UŽ OD TEBE DÁVAJÍ SPONZOŘI RUCE PRYČ, ESTÉBÁKU",ano_2011
 120-20210416 1429853760,2021-04-16,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Nechci, aby v naší zemi vládli estébáci, kolaboranti a komunisti. Také neumí hospodařit a naši zemi jen zadlužují.",ano_2011
-001-16042021 1602 602031 224191,2021-04-16,1e+06,9,558,0,ANO 2011 - Příchozí platba - prevod financi HKH na voleb. ucet pro parlamentni volby 2021,ano_2011
+001-16042021 1602 602031 224191,2021-04-16,1000000,9,558,0,ANO 2011 - Příchozí platba - prevod financi HKH na voleb. ucet pro parlamentni volby 2021,ano_2011
 120-20210415 T02AR0H8MQ738,2021-04-16,0.01,0,0,0,"RADEK BRENDA - Příchozí platba - DĚKUJEME PÁNŮM BABIŠOVI, VOJTĚCHOVI A PRYMULOVI, ŽE NÁS PŘIPRAVILI O MOŽNOST ZÍSKAT VČAS VAKCÍNY - VÝSLEDEK - NEJVÍC MRTVÝCH NA SVĚTĚ",ano_2011
 361-16042021 1086 086150 101117,2021-04-16,0.11,212121,666,666666,"Galáš Jaroslav,Ing. - Příchozí platba - PRO ZLOČINCE A GAUNERY ANO DOŽIVOTNÍ KRIMINÁL- PSYCHOPATIČTÍ ZMRDI NEBUDOU DEVASTOVAT NAŠĚ DĚTI",ano_2011
 001-15042021 1602 602017 683783,2021-04-15,-0.01,0,308,0,Odchozí platba - DOC. C00680100137482021 DARCE NELZE IDENT. STEPAN SVACHA,ano_2011
@@ -1167,7 +1167,7 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 001-13042021 1602 602008 835763,2021-04-13,-0.01,0,308,0,Odchozí platba - DOC. C00680100125092021 DARCE NELZE IDENT. STEPAN SVACHA,ano_2011
 001-13042021 1602 602029 835973,2021-04-13,-0.01,0,308,0,Odchozí platba - DOC. C00680100126132021 DARCE NELZE IDENT. KUBICEK MICHAL,ano_2011
 361-13042021 1086 086145 100004,2021-04-13,0.01,0,0,0,"Bilíček, Richard - Příchozí platba - Na podzim mam se svou maminkou narozeniny a nejlepší dárek už je přichystaný půjdete od valu a možná i dotepláků sbohem Hnuti ANO",ano_2011
-001-13042021 1602 602036 379461,2021-04-13,1e+06,9,558,0,ANO 2011 - Příchozí platba - prevod financi HKH na voleb. ucet pro parlamentni volby 2021,ano_2011
+001-13042021 1602 602036 379461,2021-04-13,1000000,9,558,0,ANO 2011 - Příchozí platba - prevod financi HKH na voleb. ucet pro parlamentni volby 2021,ano_2011
 361-13042021 1086 086143 103061,2021-04-13,0.01,0,0,0,Kubíček Michal - Příchozí platba - Babiš nejslabší premier ČR co kdy byl. Navíc ještě STB zloděj ulhanej,ano_2011
 361-13042021 1086 086148 501291,2021-04-13,0.01,0,0,0,"Štěpán Švácha - Příchozí platba - Nekupujte, BUREŠ: VODŇANSKÁ DRŮBEŽ/ Vodňanské kuře, Parkys, PREOL, Astratex, Květinářství Flamengo, STORGE",ano_2011
 001-13042021 1602 602003 835713,2021-04-13,-0.01,0,308,0,"Odchozí platba - DOC. C00680100124382021 DARCE NELZE IDENT. RADA, JAROSLAV",ano_2011
@@ -2089,11 +2089,6 @@ PCODGMBUGAYDAMUAAEJQGSYDCNJWHT2QEDNSLXGAHXAFDAI4MCAAIACLF4H64,2021-10-04,0.01,0,
 001-16032021 1602 602000 878123,2021-03-16,-0.1,0,308,0,"Odchozí platba - DOC. C00680100025752021 NAPADANI ANO 2011 KOUTNY JAN,ING.",ano_2011
 361-16032021 1086 086144 500733,2021-03-16,1,0,0,0,"Jan Ptáček - Příchozí platba - ANO , ČSSD a Zeman, to nejhorší conás mohlo v době pandemie potkat!",ano_2011
 120-20210315 1406266953,2021-03-16,0.01,0,0,0,"Jitka Rusová - Příchozí platba - Sprostý, úložný zloději. Je čas rozpustit tuto rozkrádačskou partu pohůnků a poskoků. Ano, odejděte!!!",ano_2011
-001-20092021 1602 602023 635851,2021-09-20,0.01,0,0,0,BAŽANT JAN - Příchozí platba,ano_2011
-001-18092021 1602 602027 498291,2021-09-20,0.01,0,0,0,BAŽANT JAN - Příchozí platba,ano_2011
-001-18092021 1602 602012 044153,2021-09-20,-13310,20211245,558,0,Odchozí platba,ano_2011
-001-18092021 1602 602007 033373,2021-09-20,-14743.35,20211252,558,0,Odchozí platba,ano_2011
-001-18092021 1602 602032 033253,2021-09-20,-2831.4,714210071,558,0,Odchozí platba,ano_2011
 PCODGMBUGAYDAMUAAEJQGSYDCNJ6GYHXOAL3BOFJXGU3DAMBUUBITQAABEAAAU3UCAIQ,2021-09-18,0.01,0,0,0,"Josef Sadílek - Příchozí platba - Havlíček tendr na Dukovany změnil, aby se v něm udržel Rosatom. Havlíček je sprostý kolaborant a zrádce! Pryč s ANO!",ano_2011
 001-16032021 1602 602006 877813,2021-03-16,-0.01,0,308,0,"Odchozí platba - DOC. C00680100022942021 NAPADANI ANO 2011 HOLINKA, RADIM",ano_2011
 001-16032021 1602 602036 877743,2021-03-16,-1.88,0,308,0,Odchozí platba - DOC. C00680100021682021 NAPADANI ANO 2011 SYLVA STARICNA,ano_2011
