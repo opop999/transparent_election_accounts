@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,-55692,Bezhotovostní platba,,FA 2111 - produkce klipu,,2111,,SZ - Tomáš Hlaváček,zeleni
+2021-10-18,-6897,Bezhotovostní platba,,FA FV21/259 - výroba letáků,,21259,52,HKK - PEACOCK,zeleni
+2021-10-18,50000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-18,6897,Platba převodem uvnitř banky,Strana zelených,převod darů HKK z darového účtu na volební účet SZ - volby do PS PČR 2021,,21259,52,převod darů HKK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-15,-2828,Bezhotovostní platba,,"PD 76 - kopírování, kancelářské potřeby (Copy centrum)",,76,31,JHČ - Matouš Bičák,zeleni
 2021-10-15,-3200,Bezhotovostní platba,,PD 1140858 - výroba letáků A5 (Region),,1140858,31,JHČ - Matouš Bičák,zeleni
 2021-10-15,-229.3,Bezhotovostní platba,,PD 791159764 - papírnické zboží (Moravel),,791159764,71,OLK - Alexandra Martináková,zeleni

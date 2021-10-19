@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,100,Okamžitá příchozí platba,Konrád Juha,příspěvek příznivce Konrád Juha,,9413,,Konrád Juha,svobodni
+2021-10-18,700,Okamžitá příchozí platba,Baroch Robert,dar člena,0,9365,,Baroch Robert,svobodni
+2021-10-18,100,Bezhotovostní příjem,ANTON SECKAR,DAR PRIZNIVCE,1,9410,17102021,ANTON SECKAR,svobodni
+2021-10-18,100,Bezhotovostní příjem,ANTON SECKAR,DAR PRIZNIVCE,1,56794,17102021,ANTON SECKAR,svobodni
+2021-10-18,100,Bezhotovostní příjem,ANTON SECKAR,DAR PRIZNIVCE,1,59410,17102021,ANTON SECKAR,svobodni
 2021-10-18,100,Bezhotovostní příjem,PLESKAC RADOMIR,dar priznivce,,8806,,PLESKAC RADOMIR,svobodni
 2021-10-16,500,Platba převodem uvnitř banky,"Ing. Špaček, Viktor",dar priznivce,,9409,,dar priznivce,svobodni
 2021-10-16,100,Okamžitá příchozí platba,SCHLESINGER ROB,DAR PRIZNIVCE,,9408,,SCHLESINGER ROB,svobodni

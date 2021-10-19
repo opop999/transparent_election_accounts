@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,176321.2,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-10-18,-60500,Bezhotovostní platba,,ČSSD,308,202125,,"MAGMA  communication s.r.o., texty, mediální výstupy, Jihomoravský kraj",cssd
+2021-10-18,-253830,Bezhotovostní platba,,ČSSD,308,10123615,,"RENGL, s.r.o., plakátovací kampaň, ústředí",cssd
+2021-10-18,-414589,Bezhotovostní platba,,ČSSD,308,10123332,,"RENGL, s.r.o., plakátovací kampaň, ústředí",cssd
+2021-10-18,-110950.95,Platba převodem uvnitř banky,,ČSSD,308,210100103,,"SACHR design s.r.o., tisky, grafické práce, Zlínský kraj",cssd
+2021-10-18,-331890.9,Bezhotovostní platba,,ČSSD,308,202112,,"HAVCOM s.r.o., reklamní letáky, Jihomoravský kraj",cssd
+2021-10-18,-169400,Bezhotovostní platba,,ČSSD,308,61921,,"Ewing s.r.o., videa, sociální sítě, ústředí",cssd
+2021-10-18,-338800,Bezhotovostní platba,,ČSSD,308,62021,,"Ewing s.r.o., konzultace, poradenství",cssd
+2021-10-18,-425000,Platba převodem uvnitř banky,,ČSSD,308,20211003,,"TO DO Marketing s.r.o., grafické práce, tisky, bannery, reklama online, Moravskoslezský kraj",cssd
+2021-10-18,-320000,Platba převodem uvnitř banky,,ČSSD,308,9210079,,"NMS Market Research SR, výzkum, ústředí",cssd
+2021-10-18,2420000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-10-18,22845.04,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
 2021-10-15,-4719,Bezhotovostní platba,,ČSSD,308,120100743,,"Výstaviště Flora Olomouc, a.s., zábor prostranství, Olomoucký kraj",cssd
 2021-10-15,-4114,Bezhotovostní platba,,ČSSD,308,202109156,,"L.Vitanovský, pověšení plachty, Jihomoravský kraj",cssd
 2021-10-15,-3025,Platba převodem uvnitř banky,,ČSSD,308,20210133,,"Jesenický týdeník s.r.o., plošná inzerce, Olomoucký kraj",cssd

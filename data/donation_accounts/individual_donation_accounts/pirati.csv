@@ -1,4 +1,21 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-19,256,Bezhotovostní příjem,NYKLES KAREL,DAR PRO KS KVK,0,44004208,5,NYKLES KAREL,pirati
+2021-10-19,3000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",Olga Richterová,,9001650,,Olga Richterová,pirati
+2021-10-19,400,Platba převodem uvnitř banky,"Hudec, Marek",,1,44003408,,,pirati
+2021-10-18,-200,Platba převodem uvnitř banky,,"Členský příspěvek poslán na chybný účet, Dana Balcarová, 130100, 1025",,,,"Členský příspěvek poslán na chybný účet, Dana Balcarová, 130100, 1025",pirati
+2021-10-18,-100,Okamžitá odchozí platba,,"Vratka daru, nedostatečná identifikace dárce, Lukáš Polický",,,,"Vratka daru kvůli nedostatečné identifikaci dárce, prosím chcete-li nás podpořit: https://dary.pirati.cz",pirati
+2021-10-18,-1000,Okamžitá odchozí platba,,"Vratka daru, nedostatečná identifikace dárce, Jiří Pospíšil",,,,"Vratka daru kvůli nedostatečné identifikaci dárce, prosím chcete-li nás podpořit:  https://dary.pirati.cz",pirati
+2021-10-18,-2000,Bezhotovostní platba,,Nedostatečně identifikovaný dar - Jakub Jansta,,,,"Vratka daru kvůli nedostatečné identifikaci dárce, prosím příště přes https://dary.pirati.cz",pirati
+2021-10-18,-3619,Platba převodem uvnitř banky,,"Přeplatek nájem a služby Měst.část Praha 11, FO 5505/2021",,,,"Přeplatek nájem a služby Měst.část Praha 11, FO 5505/2021",pirati
+2021-10-18,200,Bezhotovostní příjem,Aneta Klva§ová,Od Anetky,0,84547,190000,Aneta Klva§ová,pirati
+2021-10-18,50,Bezhotovostní příjem,Vojtěch Mrázek,,0,44006400,,Vojtěch Mrázek,pirati
+2021-10-18,500,Bezhotovostní příjem,Ondřej Volejník,,0,44005897,,Ondřej Volejník,pirati
+2021-10-18,100,Bezhotovostní příjem,"CASTKOVA ZLATA, MGR.",Prispevek,0,82629,1,"CASTKOVA ZLATA, MGR.",pirati
+2021-10-18,500,Bezhotovostní příjem,Martin Vlach,,,44014198,1,Martin Vlach,pirati
+2021-10-18,1000,Bezhotovostní příjem,Michal Breškovec,Účelový dar pro zastupitelské kluby v Ostravě.,,9001682,140401,Michal Breškovec,pirati
+2021-10-18,200,Bezhotovostní příjem,Martin Čech,,,44013881,1,Martin Čech,pirati
+2021-10-18,250,Bezhotovostní příjem,Miroslav Hanák,"M.Hanák, příspěvek na Piráty , Pha, od 2.2021",,44010494,2,Miroslav Hanák,pirati
+2021-10-18,50,Bezhotovostní příjem,Martin Vobořil,Drobný příspěvek pirátům.,,84708,,Martin Vobořil,pirati
 2021-10-18,250,Bezhotovostní příjem,Lauritzenová Klára,Lauritzenová Klára,,44007593,2,Lauritzenová Klára,pirati
 2021-10-18,250,Bezhotovostní příjem,TROJANOVÁ MARCELA,podpora,,44012543,2,TROJANOVÁ MARCELA,pirati
 2021-10-18,982.8,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1710045988,20211017,Global Payments s.r.,pirati

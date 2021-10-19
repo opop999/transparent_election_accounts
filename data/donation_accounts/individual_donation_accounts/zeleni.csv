@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-19,500,Bezhotovostní příjem,MUDr.Hudec Dalibor,Dalibor Hudec pro SZ Opava,0,7461035,,MUDr.Hudec Dalibor,zeleni
+2021-10-19,200,Bezhotovostní příjem,TOMANOVÁ ASKARIOVÁ I,DAR STRANE ZELENYCH,558,9991100122,999,TOMANOVÁ ASKARIOVÁ I,zeleni
+2021-10-19,250,Bezhotovostní příjem,PEK OLGA,DAR,0,9003490,0,PEK OLGA,zeleni
+2021-10-19,300,Bezhotovostní příjem,JINDRA POLÁK,DAR ZELENÍ,0,9003639,0,JINDRA POLÁK,zeleni
+2021-10-18,-50000,Platba převodem uvnitř banky,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-18,-6897,Platba převodem uvnitř banky,,převod darů HKK z darového účtu na volební účet SZ - volby do PS PČR 2021,,21259,52,převod darů HKK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-18,-1000,Bezhotovostní platba,,"vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Kubík Adam,zeleni
+2021-10-18,-300,Platba převodem uvnitř banky,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003727,,"Křížová, Sylvie",zeleni
+2021-10-18,10000,Okamžitá příchozí platba,Prof.Šedlbauer Josef,dar - Zelení Liberecký kraj,0,,,Prof.Šedlbauer Josef,zeleni
+2021-10-18,20000,Okamžitá příchozí platba,Prof.Šedlbauer Josef,dar - Zelení Ústecký kraj,0,,,Prof.Šedlbauer Josef,zeleni
+2021-10-18,250,Bezhotovostní příjem,DANIELA STOLAROVA,DAR,,9003408,,DANIELA STOLAROVA,zeleni
+2021-10-18,100,Bezhotovostní příjem,VITEZSLAV SIDLO,DAR,,9001012,,VITEZSLAV SIDLO,zeleni
+2021-10-18,9113,Platba převodem uvnitř banky,Hradecký demokratický klub,HRADECKY DEMOKRATICKY KLUB  DAR 3.Q 2021,,3204723,,HRADECKY DEMOKRATICKY KLUB  DAR 3.Q 2021,zeleni
+2021-10-18,100,Bezhotovostní příjem,Martin Čihák,dar,0,1111127,,Martin Čihák,zeleni
+2021-10-18,300,Bezhotovostní příjem,BARBORA KOUDELOVÁ,DAR,,9002604,,BARBORA KOUDELOVÁ,zeleni
+2021-10-18,200,Bezhotovostní příjem,ANNA KŠÍROVÁ,DAR,,9002649,,ANNA KŠÍROVÁ,zeleni
+2021-10-18,300,Bezhotovostní příjem,MARTIN KLECKA,DAR,,,,MARTIN KLECKA,zeleni
+2021-10-18,300,Bezhotovostní příjem,MARTINA BOCKOVA,DAR,,9003738,,MARTINA BOCKOVA,zeleni
+2021-10-18,500,Bezhotovostní příjem,DUŠAN OSLEJ,"DAR SZ - 200,- ZO ÚSTÍ NAD LABEM +300,- HK SZ",,,,DUŠAN OSLEJ,zeleni
+2021-10-18,150,Bezhotovostní příjem,PETR KLAPSTE,DAR PETR KLÁPŠTĚ,,9003325,,PETR KLAPSTE,zeleni
+2021-10-18,1000,Bezhotovostní příjem,Ivo Burger,"dar: 750 Brno-sever, 250 centrála",,9002893,,Ivo Burger,zeleni
+2021-10-18,500,Bezhotovostní příjem,Anna Strenková,Dar,,9003737,,Anna Strenková,zeleni
+2021-10-18,1500,Bezhotovostní příjem,Lukáš Lyer,Dar na činnost strany,,,,Lukáš Lyer,zeleni
 2021-10-18,500,Bezhotovostní příjem,Milan Vachovec,"Dar - Milan Vachovec,Smetanova 372,252 25 Jinočany",,9002648,,Milan Vachovec,zeleni
 2021-10-18,200,Bezhotovostní příjem,ŠKODA JAKUB,dar,,9003260,,ŠKODA JAKUB,zeleni
 2021-10-18,250,Bezhotovostní příjem,JEDLICKA JINDRICH,"Dar, mesicne 100 hl.kanc. 150 JmKO",,9002975,,JEDLICKA JINDRICH,zeleni

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,45000,Okamžitá příchozí platba,Mgr.Šašek Jan,"DAR, Jan Šašek",0,2400210011,,Mgr.Šašek Jan,ods
+2021-10-18,7000,Bezhotovostní příjem,CALETKA PETR,"DAR, Petr Caletka",,3104210005,,CALETKA PETR,ods
 2021-10-18,30000,Bezhotovostní příjem,ČERVINKA ZDENĚK,regionální podpora,308,3201210043,0,ČERVINKA ZDENĚK,ods
 2021-10-15,-160000,Platba převodem uvnitř banky,,1114-převod financí,,,,1114-převod financí,ods
 2021-10-15,750,Bezhotovostní příjem,OPLETAL PETR,"Dar, Petr Opletal",,0,,OPLETAL PETR,ods

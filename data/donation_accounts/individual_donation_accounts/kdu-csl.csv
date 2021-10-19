@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-18,50000,Okamžitá příchozí platba,Benešíková Jitka,Dar na KDU-ČSL,0,,,Benešíková Jitka,kdu-csl
+2021-10-18,41760,Okamžitá příchozí platba,"Ing.Šafařík Jan,MBA",Jan Šafařík Olomoucký kraj,0,,,"Ing.Šafařík Jan,MBA",kdu-csl
 2021-10-18,250,Bezhotovostní příjem,FUNDERÁK MARCEL,,,17101962,,FUNDERÁK MARCEL,kdu-csl
 2021-10-18,1800,Bezhotovostní příjem,ŘEZÁČOVÁ PETRA,Petra Řezáčová,,4031977,851,ŘEZÁČOVÁ PETRA,kdu-csl
 2021-10-18,2200,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl

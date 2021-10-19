@@ -1,4 +1,34 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-19,87,Příchozí úhrada,"RENGL, s.r.o.",3936597389,800,DV-34/2021 Komunistická strana Čech,0,103234,,CZK,kscm
+2021-10-18,45000,Příchozí úhrada,KOMUNISTIC.STR.CECH,298336657,300,převod KV Pardubice volby 2021,,35300,,CZK,kscm
+2021-10-18,4343.9,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-10-18,112,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-10-18,1296,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-10-18,336,Příchozí úhrada,KSCM,195520355,300,Převod od OV KSČM Tábor,308,33107,,CZK,kscm
+2021-10-18,137212.3,Příchozí úhrada,MĚSTSKÝ VÝBOR KOMUNI,5237621,100,MeV Brno-volby,0,36202,,CZK,kscm
+2021-10-18,523,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,PŘEVOD OD OV KSČM RAKOVNÍK RENGL TÚ,0,32112,,CZK,kscm
+2021-10-18,22978,Příchozí úhrada,OKRESNÍ VÝBOR KSČM K,832691,100,převod od OV KSČM Kroměříž,0,37201,,CZK,kscm
+2021-10-18,40700,Příchozí úhrada,KOMUNISTICKÁ STRANA,936781,100,"UV KSČM  Volby 21,  vyúčt.dotace ..jiný účet",0,38102,,CZK,kscm
+2021-10-18,1050,Příchozí úhrada,KOMUNISTICKÁ STRANA,936781,100,"UV KSČM volby 2021 vyúčt.38102 dotace Volby 21, DPH za pl.skupinu  ...nový účet",0,38102,,CZK,kscm
+2021-10-18,-360,Odchozí úhrada,Obec Rapotín,21521841,100,volby PČR - výlep,0,2102700068,,CZK,kscm
+2021-10-18,-484,Odchozí úhrada,Město Šumperk,191905609309,800,volby PČR - zábory,0,,,CZK,kscm
+2021-10-18,-800,Odchozí úhrada,Hana Hejlová,2601188036,2010,volby PČR - výlep,0,5121,,CZK,kscm
+2021-10-18,-1030,Odchozí úhrada,"Zábřežská kulturní, s.r.o.",200492177,300,volby PČR - výlep,0,27421,,CZK,kscm
+2021-10-18,-1467,Odchozí úhrada,"Mohelnické kulturní centrum, s",2456551379,800,volby PČR - výlep,0,211000169,,CZK,kscm
+2021-10-18,-1832,Odchozí úhrada,Václav Tomšíček,185663969,600,volby PČR - výlep,0,2021043,,CZK,kscm
+2021-10-18,-2654.08,Odchozí úhrada,"VAPAP, s.r.o.",9109540001,5500,volby PČR -.kanc.potřeby,0,2101200,,CZK,kscm
+2021-10-18,-6860.02,Odchozí úhrada,Compag Mladá Boleslav s.r.o.,5708892,800,volby PČR - výlep,0,121001019,,CZK,kscm
+2021-10-18,-12942.16,Odchozí úhrada,Alpha Supplies s.r.o.,2021166316,8040,volby PČR - toner,0,2110018,,CZK,kscm
+2021-10-18,-31222,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124002,,CZK,kscm
+2021-10-18,-50888,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124001,,CZK,kscm
+2021-10-18,-185981,Odchozí úhrada,MARF s.r.o.,241299250,300,volby PČR - prop.materiály,0,202101593,,CZK,kscm
+2021-10-18,-377976,Odchozí úhrada,MARF s.r.o.,241299250,300,volby PČR - polepy,0,202101592,,CZK,kscm
+2021-10-18,-461000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - sociální sítě,0,2021110307,,CZK,kscm
+2021-10-18,-4114,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1432792106,,CZK,kscm
+2021-10-18,-4560,Odchozí úhrada,"TEPVOS, spol. s r.o.",168752599,300,volby PČR - výlep,0,41210533,,CZK,kscm
+2021-10-18,-4705.26,Odchozí úhrada,"VAPAP, s.r.o.",9109540001,5500,volby PČR - kanc.potřeby,0,2101196,,CZK,kscm
+2021-10-18,-5231.73,Odchozí úhrada,BORGIS a.s.,216646011,100,volby PČR - inzerce,0,2216101621,,CZK,kscm
+2021-10-18,-5671,Odchozí úhrada,Redring s.r.o.,212503435,300,volby PČR - výlep,0,21078,,CZK,kscm
 2021-10-18,2563,Příchozí úhrada,KOMUNISTICKÁ STRANA,439291,100,Převod od OV KSČM Strakonice,0,33106,,CZK,kscm
 2021-10-14,6720,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,TÚ PŘEVOD OD OV KSČM RAKOVNÍK /horizonty,0,32112,,CZK,kscm
 2021-10-14,-15760.25,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - prop.předměty,0,210533,,CZK,kscm

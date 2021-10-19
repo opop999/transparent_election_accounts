@@ -1,7 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-18,30000,Bezhotovostní příjem,HLAVNÍ MĚSTO PRAHA,vrácení jistoty 0/19-02 - TCP - Hlavní město Praha,,2223,,HLAVNÍ MĚSTO PRAHA,ods_kdu-csl_top09
-2021-10-17,-558,Bezhotovostní platba,,,558,1020211339,2400,,ods_kdu-csl_top09
-2021-10-17,-5700,Bezhotovostní platba,,,3558,202109,2400,,ods_kdu-csl_top09
+2021-10-19,-12000,Bezhotovostní platba,,,308,2116,2400,,ods_kdu-csl_top09
+2021-10-18,-968,Platba převodem uvnitř banky,,,308,20217967,2100,"2100-1.Dejvická s.r.o., banner ZUNA",ods_kdu-csl_top09
+2021-10-18,-1053,Platba převodem uvnitř banky,,,308,176653,2100,"2100-1.Dejvická s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-10-18,-9800,Bezhotovostní platba,,,308,20212503,1114,"1114-Middlemen Services Company, reklama na FBC",ods_kdu-csl_top09
+2021-10-18,-28800,Platba převodem uvnitř banky,,,308,202130,1114,"1114-Táňa Niklová Kynclová, grafické práce",ods_kdu-csl_top09
+2021-10-18,-27005,Okamžitá odchozí platba,,,308,20212504,2400,"2400-Middlemen Services Company, reklama na FBC",ods_kdu-csl_top09
+2021-10-18,-30000,Platba převodem uvnitř banky,,1114-Hlavní město Praha - TCP jistina,378,2223,,1114-Hlavní město Praha - TCP jistina,ods_kdu-csl_top09
+2021-10-18,-8470,Okamžitá odchozí platba,,,308,221158,3300,"3300-Hamr marketing s.r.o., mobilní reklama",ods_kdu-csl_top09
+2021-10-18,30000,Bezhotovostní příjem,HLAVNÍ MĚSTO PRAHA,vrácení jistoty 0/19-02 - TCP - Hlavní město Praha,,2223,,1114-HLAVNÍ MĚSTO PRAHA,ods_kdu-csl_top09
+2021-10-17,-558,Bezhotovostní platba,,,558,1020211339,2400,"2400-Město Klatovy, poplatek - zábor",ods_kdu-csl_top09
+2021-10-17,-5700,Bezhotovostní platba,,,3558,202109,2400,"2400-Karina Eismanová , správní poplatky , PHM vol. auto",ods_kdu-csl_top09
 2021-10-15,-6200,Bezhotovostní platba,,,308,21091,3400,"3400-Filip Bláha , grafické práce",ods_kdu-csl_top09
 2021-10-15,-30293.56,Platba převodem uvnitř banky,,,558,5589,3400,"3400-První pozice s.r.o., záloha kampaň 9-2021",ods_kdu-csl_top09
 2021-10-15,-37201.5,Bezhotovostní platba,,,378,2021094,2300,"1114-Jan Bauer, reklama na FBC 10-2021",ods_kdu-csl_top09
@@ -37,12 +45,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-15,-3486,Bezhotovostní platba,,,378,1975,3000,"3000-Jan Kuchař , PHM vol. auto",ods_kdu-csl_top09
 2021-10-15,-3000,Bezhotovostní platba,,,378,2002,3000,"3000-Michaela Gottwaldová, malování na obličej",ods_kdu-csl_top09
 2021-10-15,-10098.16,Bezhotovostní platba,,,378,1974,3000,"3000-Jan Kuchař , PHM vol. auto",ods_kdu-csl_top09
-2021-10-15,-270,Bezhotovostní platba,,,308,2100,2100,"2100-Městská část Praha 5, poplatek za užívání prostranství",ods_kdu-csl_top09
-2021-10-15,-6952,Bezhotovostní platba,,,308,2100,2100,"2100-NONET s.r.o., Občerstvení",ods_kdu-csl_top09
-2021-10-15,-160,Bezhotovostní platba,,,358,2100,2100,"2100-Městská část Praha 4, poplatky za zábor",ods_kdu-csl_top09
+2021-10-15,-270,Bezhotovostní platba,,,308,2100,2100,"2100-Altner Boleslav, poplatek za užívání prostranství MČ Praha 5",ods_kdu-csl_top09
+2021-10-15,-6952,Bezhotovostní platba,,,308,2100,2100,"2100-Mottlová Lenka , vol. akce -občerstvení",ods_kdu-csl_top09
+2021-10-15,-160,Bezhotovostní platba,,,358,2100,2100,"2100-Altner Boleslav, poplatky za zábor  MČ Praha 4",ods_kdu-csl_top09
 2021-10-15,-7000,Platba převodem uvnitř banky,,,308,20210006,2100,"2100-KAFE BOUDA s.r.o., pronájem kavárny",ods_kdu-csl_top09
-2021-10-14,-90,Bezhotovostní platba,,,558,2100,2100,"2100-Městská část Praha 15, místní poplatek za zábor",ods_kdu-csl_top09
-2021-10-14,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Jiří Litera, plyn-balónky",ods_kdu-csl_top09
+2021-10-14,-90,Bezhotovostní platba,,,558,2100,2100,"2100-Altner Boleslav, místní poplatek za zábor MČ Praha 4",ods_kdu-csl_top09
+2021-10-14,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Altner Bolelslav, plyn-balónky",ods_kdu-csl_top09
 2021-10-14,-43100,Bezhotovostní platba,,,308,2021033,2100,"2100-Tisknu24 .cz s.r.o., dotisk letáky, grafické práce",ods_kdu-csl_top09
 2021-10-14,-2500,Bezhotovostní platba,,,308,210100282,2100,"2100-DRUCKVO s.r.o., tisk letáky",ods_kdu-csl_top09
 2021-10-14,-10500,Bezhotovostní platba,,,308,10,2100,"2100-Daniel Eliáš, pronájem stroje na cukrovou vatu",ods_kdu-csl_top09
@@ -117,6 +125,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-11,-3805.79,Bezhotovostní platba,,,308,5190574369,2300,"2300-Česká pošta s.p., roznos volebních novin",ods_kdu-csl_top09
 2021-10-11,-726,Bezhotovostní platba,,,308,9806050634,2300,"2300-Město Dačice, pronájem pozemku-stojka",ods_kdu-csl_top09
 2021-10-11,-302500,Bezhotovostní platba,,,308,412021,1114,"1114-1. Herecká agentura s.r.o., režijní práce",ods_kdu-csl_top09
+2021-10-18,30000,Bezhotovostní příjem,HLAVNÍ MĚSTO PRAHA,vrácení jistoty 0/19-02 - TCP - Hlavní město Praha,,2223,,HLAVNÍ MĚSTO PRAHA,ods_kdu-csl_top09
+2021-10-17,-558,Bezhotovostní platba,,,558,1020211339,2400,,ods_kdu-csl_top09
+2021-10-17,-5700,Bezhotovostní platba,,,3558,202109,2400,,ods_kdu-csl_top09
+2021-10-15,-270,Bezhotovostní platba,,,308,2100,2100,"2100-Městská část Praha 5, poplatek za užívání prostranství",ods_kdu-csl_top09
+2021-10-15,-6952,Bezhotovostní platba,,,308,2100,2100,"2100-NONET s.r.o., Občerstvení",ods_kdu-csl_top09
+2021-10-15,-160,Bezhotovostní platba,,,358,2100,2100,"2100-Městská část Praha 4, poplatky za zábor",ods_kdu-csl_top09
+2021-10-14,-90,Bezhotovostní platba,,,558,2100,2100,"2100-Městská část Praha 15, místní poplatek za zábor",ods_kdu-csl_top09
+2021-10-14,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Jiří Litera, plyn-balónky",ods_kdu-csl_top09
 2021-10-09,-4537.5,Bezhotovostní platba,,,308,1100822,2200,"2200-LABEL s.r.o., tisk letáků",ods_kdu-csl_top09
 2021-10-08,-5000,Okamžitá odchozí platba,,,308,20210029,2100,"2100-Markéta Pečenková , školení DTD kampaň",ods_kdu-csl_top09
 2021-10-08,-844.58,Bezhotovostní platba,,,308,2021291,3400,"3400-Grespo s.r.o., tisk plakátů",ods_kdu-csl_top09
