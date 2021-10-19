@@ -76,12 +76,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-08,-6534,Bezhotovostní platba,,Fakturujeme Vám reklamní materiál na billboardy. Příjemce BigMedia sro,,4212101882,,Fakturujeme Vám reklamní materiál na billboardy. Příjemce BigMedia sro,prisaha
 2021-09-08,-3630,Okamžitá odchozí platba,,Fakturujeme Vám tisk plakátů pro Jihočeský kraj. Příjemce Inpress a.s.,,10521178,,Fakturujeme Vám tisk plakátů pro Jihočeský kraj. Příjemce Inpress a.s.,prisaha
 2021-09-08,-15000,Okamžitá odchozí platba,,"Fakturujeme Vám dle smlouvy pronájem plochy na banner 15 x 6m směr na Svitavy, Příjemce Zbyněk Kříž",,1,,"Fakturujeme Vám dle smlouvy pronájem plochy na banner 15 x 6m směr na Svitavy, Příjemce Zbyněk Kříž",prisaha
-2021-09-08,3e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-08,300000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-09-06,-71250,Okamžitá odchozí platba,,Fakturujeme Vám pronájem 9 krajských kancelářských prostor vč. poplatků a provozních nákladů za 08 - 2021. Příjemce Šimway sro,308,2021104,,Fakturujeme Vám pronájem 9 krajských kancelářských prostor vč. poplatků a provozních nákladů za 08 - 2021. Příjemce Šimway sro,prisaha
 2021-09-06,-4840,Platba převodem uvnitř banky,,Fakturujeme Vám pronájem kanceláře - Litomyšl na 09 - 2021. Příjemce Vicus Aurea,308,2101004112,,Fakturujeme Vám pronájem kanceláře - Litomyšl na 09 - 2021. Příjemce Vicus Aurea,prisaha
 2021-09-06,-11495,Okamžitá odchozí platba,,Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 08 - 2021. Příjemce Šimway sro,308,2021103,,Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 08 - 2021. Příjemce Šimway sro,prisaha
 2021-09-06,-2500,Okamžitá odchozí platba,,Fakturujeme Vám natočení spotu a jeho vysílání. Příjemce paní Nosákovcová,,1321,,Fakturujeme Vám natočení spotu a jeho vysílání. Příjemce paní Nosákovcová,prisaha
-2021-09-06,1e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-09-06,100000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-09-03,-24231.7,Karetní transakce,,"Nákup: FACEBK ZND5B67E62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2021, částka  24231.70 CZK",,8013,,"Nákup: FACEBK ZND5B67E62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 3.9.2021, částka  24231.70 CZK",prisaha
 2021-09-02,-900,Okamžitá odchozí platba,,"Platba za pronájem sálu. Příjemce Městská sportovní Třebon, příspěvková organizace",308,210084,,"Platba za pronájem sálu. Příjemce Městská sportovní Třebon, příspěvková organizace",prisaha
 2021-09-02,-500,Platba převodem uvnitř banky,,Žigo Milan - špatně poslán DAR. Na volební účet místo na zvláštní z 02.09.2021,,,,Žigo Milan - špatně poslán DAR. Na volební účet místo na zvláštní z 02.09.2021,prisaha
@@ -112,7 +112,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-06,-11495,Okamžitá odchozí platba,,Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 07 - 2021.Příjemce Šimwaysro,308,202191,,Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 07 - 2021.Příjemce Šimwaysro,prisaha
 2021-08-06,-79479,Okamžitá odchozí platba,,Fakturujeme Vám pronájem 11 krajských kancelářských prostor vč. poplatků a provozních nákladů za 07 - 2021.Příjemce Šimwaysro,,202192,,Fakturujeme Vám pronájem 11 krajských kancelářských prostor vč. poplatků a provozních nákladů za 07 - 2021.Příjemce Šimwaysro,prisaha
 2021-08-06,-119790,Bezhotovostní platba,,Fakturujeme Vám realizaci projektu Focus group - test vnímání a claimů. Příjemce IBRS - Int. Business and Research Services sro,,2021072001,,Fakturujeme Vám realizaci projektu Focus group - test vnímání a claimů. Příjemce IBRS - Int. Business and Research Services sro,prisaha
-2021-08-06,3e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
+2021-08-06,300000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-08-04,-500,Platba převodem uvnitř banky,,Mičulka Zdeněk dar - Částka poslaná na volební účet místo zvláštní účet z 5.6.2021,,,,Mičulka Zdeněk dar - Částka poslaná na volební účet místo zvláštní účet z 5.6.2021,prisaha
 2021-08-04,-500,Platba převodem uvnitř banky,,Žigo Milan dar - Částka poslaná na volební účet místo zvláštní účet z 04.08.2021,,,,Žigo Milan dar - Částka poslaná na volební účet místo zvláštní účet z 04.08.2021,prisaha
 2021-08-02,500,Bezhotovostní příjem,Žigo Milan,,0,2021,,Žigo Milan,prisaha
@@ -124,7 +124,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-14,-199325,Bezhotovostní platba,,"Fakturujeme Vám sněm hnutí PŘÍSAHA z 26.06.2021, Pronájem prostor, catering,výzdoba,vybavení-obálky,kartičky,jmenovkyatd.Příjemce Šimwaysro",,202186,,"Fakturujeme Vám sněm hnutí PŘÍSAHA z 26.06.2021, Pronájem prostor, catering,výzdoba,vybavení-obálky,kartičky,jmenovkyatd.Příjemce Šimwaysro",prisaha
 2021-07-14,-14634.4,Bezhotovostní platba,,Mgr. Eva Věrná - Notářské služby sněm 26.06.2021 Ostrava,,1210087,,Mgr. Eva Věrná - Notářské služby sněm 26.06.2021 Ostrava,prisaha
 2021-07-14,-30250,Okamžitá odchozí platba,,"Martin Štěpanovský, konzultační činnost - Červen",,202118,,"Martin Štěpanovský, konzultační činnost - Červen",prisaha
-2021-07-14,5e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-07-14,500000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-07-09,-25000,Okamžitá odchozí platba,,"Zuzana Gedeonová, konzultační činnost - květen",,20210007,,"Zuzana Gedeonová, konzultační činnost - květen",prisaha
 2021-07-09,-791.05,Karetní transakce,,"Nákup: FACEBK *RT8SS4XE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 8.7.2021, částka  791.05 CZK",,8013,,"Nákup: FACEBK *RT8SS4XE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 8.7.2021, částka  791.05 CZK",prisaha
 2021-07-02,-500,Platba převodem uvnitř banky,,Žigo Milan dar - Částka poslaná na volební účet místo zvláštní účet,,,,Žigo Milan dar - Částka poslaná na volební účet místo zvláštní účet,prisaha
@@ -137,7 +137,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-01,-192377.9,Bezhotovostní platba,,"Fakturujeme Vám pronájem reklamních ploch 06 - 2021, tisk, výlep a distribuci distribuci plakátů a novin.Příjemce Šimway sro",308,202177,,"Fakturujeme Vám pronájem reklamních ploch 06 - 2021, tisk, výlep a distribuci distribuci plakátů a novin.Příjemce Šimway sro",prisaha
 2021-07-01,-11495,Okamžitá odchozí platba,,Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 06 - 2021. Příjemce Šimway sro,308,202176,,Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 06 - 2021. Příjemce Šimway sro,prisaha
 2021-07-01,-84700,Okamžitá odchozí platba,,"Fakturujeme Vám pronájem kancelářských prostor vč. poplatků a provozních nákladů za 06-2021,Příjemce Šimway sro",308,202175,,"Fakturujeme Vám pronájem kancelářských prostor vč. poplatků a provozních nákladů za 06-2021,Příjemce Šimway sro",prisaha
-2021-07-01,4e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-07-01,400000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-07-01,500,Bezhotovostní příjem,Žigo Milan,,0,2021,,Žigo Milan,prisaha
 2021-06-22,-48400,Okamžitá odchozí platba,,Účetní a mzdové služby 04 - 05 / 2021 - Příjemce platby 22Hlav,8,1210898,,Účetní a mzdové služby 04 - 05 / 2021 - Příjemce platby 22Hlav,prisaha
 2021-06-22,-374000,Bezhotovostní platba,,"Tisk novin ( letáků ) A2 / A4 - 1 000 000 ks, Příjemce platby Tiskána Bílý Slon s r.o.",308,21100252,,"Tisk novin ( letáků ) A2 / A4 - 1 000 000 ks, Příjemce platby Tiskána Bílý Slon s r.o.",prisaha
@@ -148,7 +148,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-16,-374000,Bezhotovostní platba,,"Tisk novin ( letáků ) A2 / A4 - 1 000 000 ks, Příjemce platby Tiskána Bílý Slon s r.o.",308,21100213,,"Tisk novin ( letáků ) A2 / A4 - 1 000 000 ks, Příjemce platby Tiskána Bílý Slon s r.o.",prisaha
 2021-06-16,430000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-06-10,-13436.15,Karetní transakce,,"Nákup: FACEBK *79P3547E62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.6.2021, částka  13436.15 CZK",,8013,,"Nákup: FACEBK *79P3547E62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.6.2021, částka  13436.15 CZK",prisaha
-2021-06-09,1e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-06-09,100000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-06-05,500,Platba převodem uvnitř banky,"Mičulka, Zdeněk",dar na volby,,,,dar na volby,prisaha
 2021-06-04,-245630,Bezhotovostní platba,,"Fakturujeme vám - Venkovní plochy - billboardy, příjemce platby BigMedia, spol. s r.o.",,4202103437,,"Fakturujeme vám - Venkovní plochy - billboardy, příjemce platby BigMedia, spol. s r.o.",prisaha
 2021-06-04,-170445,Bezhotovostní platba,,"Fakturujeme Vám tisk a distribuci letáků 600 000 kusů, příjemce platby Šimway s.r.o.",308,202170,,"Fakturujeme Vám tisk a distribuci letáků 600 000 kusů, příjemce platby Šimway s.r.o.",prisaha
@@ -157,7 +157,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-04,-11495,Okamžitá odchozí platba,,"Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 05 - 2021, příjemce platby Šimway s.r.o.",308,202168,,"Fakturujeme Vám provoz a správu webových stránek PŘÍSAHA - 05 - 2021, příjemce platby Šimway s.r.o.",prisaha
 2021-06-04,-190575,Bezhotovostní platba,,"Fakturujeme Vám organizaci petičních stánků, 45x stánků, 05 - 2021, příjemce platby Šimway s.r.o.",308,202167,,"Fakturujeme Vám organizaci petičních stánků, 45x stánků, 05 - 2021, příjemce platby Šimway s.r.o.",prisaha
 2021-06-04,-84700,Okamžitá odchozí platba,,"Fakturujeme Vám pronájem kancelářských prostor vč. poplatků a provozních nákladů za 05 - 2021, příjemce platby Šimway s.r.o.",308,202166,,"Fakturujeme Vám pronájem kancelářských prostor vč. poplatků a provozních nákladů za 05 - 2021, příjemce platby Šimway s.r.o.",prisaha
-2021-06-04,4e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-06-04,400000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-06-03,-10890,Karetní transakce,,"Nákup: FACEBK *PPZ463FE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.6.2021, částka  10890.00 CZK",,8013,,"Nákup: FACEBK *PPZ463FE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 2.6.2021, částka  10890.00 CZK",prisaha
 2021-05-26,-7260,Karetní transakce,,"Nákup: FACEBK *PFWMX2TE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.5.2021, částka  7260.00 CZK",,8013,,"Nákup: FACEBK *PFWMX2TE62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 25.5.2021, částka  7260.00 CZK",prisaha
 2021-05-21,-200,Platba převodem uvnitř banky,,Petr Záhora - Převod daru poslané na volební účet místo na zvláštní účet kampaně,,,,Petr Záhora - Převod daru poslané na volební účet místo na zvláštní účet kampaně,prisaha
@@ -180,13 +180,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-12,500,Bezhotovostní příjem,hotovostní vklad ATM,"vloženo v ATM 4947451161XXXXXX2349 dne 12052021Most, Bankovni 1300BOUKAL/FRANTISEK",0,12052021,1007394013,hotovostní vklad ATM,prisaha
 2021-05-10,2000,Okamžitá příchozí platba,BRŮŽA MIROSLAV,Dar Miroslav Brůža,,,,BRŮŽA MIROSLAV,prisaha
 2021-05-07,-9,Poplatek - platební karta,,"Poplatek - dotaz na zůstatek v ATM: CSOB 4099 LODENICE, Lodenice, CZE, dne 6.5.2021",,8013,,"Poplatek - dotaz na zůstatek v ATM: CSOB 4099 LODENICE, Lodenice, CZE, dne 6.5.2021",prisaha
-2021-05-06,1e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
+2021-05-06,100000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-05-04,500,Bezhotovostní příjem,PETR KLIMEK,DAR SPOLKU,,,,PETR KLIMEK,prisaha
 2021-05-03,-186200,Bezhotovostní platba,,Reklama na sociálních sítí 04 - 2021,308,202155,,"Reklama na sociálních sítí 04 - 2021, příjemce platby Šimway s.r.o.",prisaha
 2021-05-03,-206650,Bezhotovostní platba,,Tisk letáků 100 000ks a 600 bannerů,308,202156,,"Tisk letáků 100 000ks a 600 bannerů, příjemce platby Šimway s.r.o.",prisaha
 2021-05-03,310000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet PŘÍSAHA,,,,Převod na volební účet PŘÍSAHA,prisaha
 2021-04-27,-208450,Bezhotovostní platba,,"Tisk letáků, 1 mil. kusů",308,21100157,,"Tisk letáků, 1 mil. kusů, příjemce platby Tiskárna Bílý Slon s.r.o.",prisaha
 2021-04-27,-2607.55,Bezhotovostní platba,,"Reklamní banner 3,5 x 0,3m, 5 kusů vč. výlepu",,4212100685,,"Reklamní banner 3,5 x 0,3m, 5 kusů vč. výlepu. příjemce platby BigMedia s.r.o.",prisaha
-2021-04-27,3e+05,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,,,,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,prisaha
+2021-04-27,300000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,,,,Převod na účet PŘÍSAHA - VOLEBNÍ ÚČET,prisaha
 2021-04-27,-500,Okamžitá odchozí platba,,"Dobrý den, děkujeme za dar, bohužel byl zaslán na špatný účet a musíme ho vrátit. Děkujeme za pochopení",,,,"Dobrý den, děkujeme za dar, bohužel byl zaslán na špatný účet a musíme ho vrátit. Děkujeme za pochopení",prisaha
 2021-04-21,500,Okamžitá příchozí platba,Tichopád Aleš,Tichopád Aleš,0,,,Tichopád Aleš,prisaha

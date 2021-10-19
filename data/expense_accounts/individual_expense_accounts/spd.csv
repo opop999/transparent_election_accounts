@@ -33,7 +33,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-14,-3630,Bezhotovostní platba,,"BigMedia, spol s r.o., billboardy",308,4212102143,200,"BigMedia, spol s r.o., billboardy",spd
 2021-10-14,-12100,Platba převodem uvnitř banky,,"ZIP Inzert s.r.o., reklama v tisku",308,2021601,200,"ZIP Inzert s.r.o., reklama v tisku",spd
 2021-10-14,-336,Bezhotovostní platba,,"MK středisko Vodňany, výlep plakátů",308,2021091,200,"MK středisko Vodňany, výlep plakátů",spd
-2021-10-13,-3e+06,Bezhotovostní platba,,"Český Domov,tisk a distribuce novin",308,21002,100,"Český Domov,tisk a distribuce novin",spd
+2021-10-13,-3000000,Bezhotovostní platba,,"Český Domov,tisk a distribuce novin",308,21002,100,"Český Domov,tisk a distribuce novin",spd
 2021-10-13,-447.98,Bezhotovostní platba,,"TS Třešť, spol. s r.o., výlep",308,1416797,1300,"TS Třešť, spol. s r.o., výlep",spd
 2021-10-13,-760,Bezhotovostní platba,,"Obec Okrouhlice, pronájem ploch",308,210179,1300,"Obec Okrouhlice, pronájem ploch",spd
 2021-10-13,-65340,Bezhotovostní platba,,"Olmer ad, s.r.o., tech. zajištění",308,210200,100,"Olmer ad, s.r.o., tech. zajištění",spd
@@ -46,7 +46,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-13,-330621,Bezhotovostní platba,,"MD Vision s.r.o., focení kandidátů",308,21217066,100,"MD Vision s.r.o., focení kandidátů",spd
 2021-10-13,-121000,Bezhotovostní platba,,"Kolda studio s.r.o., vystoupení",308,1721,100,"Kolda studio s.r.o., vystoupení",spd
 2021-10-13,-20000,Bezhotovostní platba,,"Ondřej Březina, výkon. marketing FB",308,20210013,100,"Ondřej Březina, výkon. marketing FB",spd
-2021-10-13,4e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-13,4000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-10-11,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.10.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.10.2021, částka  15000.00 CZK",spd
 2021-10-11,-20000,Karetní transakce,,"Nákup: FACEBK G6BT683AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK G6BT683AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.10.2021, částka  20000.00 CZK",spd
 2021-10-08,-20000,Karetní transakce,,"Nákup: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  20000.00 CZK",spd
@@ -100,7 +100,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-07,-21659,Bezhotovostní platba,,"Jaroslav Holík, tisk letáků",308,113314935,1400,"Jaroslav Holík, tisk letáků",spd
 2021-10-07,-3388,Bezhotovostní platba,,"Jarmila Týnková, výlep plakátů",308,14092021,1100,"Jarmila Týnková, výlep plakátů",spd
 2021-10-07,-937,Platba převodem uvnitř banky,,"Oldřich Černý, vlajky do TV",308,99512021,1100,"Oldřich Černý, vlajky do TV",spd
-2021-10-07,1e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-07,1000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-10-07,-39693.42,Karetní transakce,,"Nákup: FACEBK 6HDR2AX9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  39693.42 CZK",,3344,,"Nákup: FACEBK 6HDR2AX9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.10.2021, částka  39693.42 CZK",spd
 2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK XR2KL8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK XR2KL8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",spd
 2021-10-07,-20000,Karetní transakce,,"Nákup: FACEBK HFZMC7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK HFZMC7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.10.2021, částka  20000.00 CZK",spd
@@ -160,7 +160,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-06,-18150,Bezhotovostní platba,,"VOGEL MED. INTER., s.r.o., inzerce",308,20210444,1000,"VOGEL MED. INTER., s.r.o., inzerce",spd
 2021-10-06,-27000,Bezhotovostní platba,,"Miloslav Filip, výlep plakátů",308,4,200,"Miloslav Filip, výlep plakátů",spd
 2021-10-06,-950,Bezhotovostní platba,,"Josef Müller, zasklení vitrýny",308,20210306,800,"Josef Müller, zasklení vitrýny",spd
-2021-10-06,4e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-06,4000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-10-06,-15000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 5.10.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 5.10.2021, částka  15000.00 CZK",spd
 2021-10-06,-20000,Karetní transakce,,"Nákup: FACEBK C9DVB7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK C9DVB7BAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.10.2021, částka  20000.00 CZK",spd
 2021-10-05,-20000,Karetní transakce,,"Nákup: FACEBK K2Z4JAFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK K2Z4JAFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 4.10.2021, částka  20000.00 CZK",spd
@@ -172,7 +172,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-30,-7923.08,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2197004793,300,"VLTAVA LABE MEDIA a.s., inzerce",spd
 2021-09-30,-20000,Karetní transakce,,"Nákup: FACEBK 24ML897AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 24ML897AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20000.00 CZK",spd
 2021-09-29,-20076.18,Karetní transakce,,"Nákup: FACEBK 5WVP363Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20076.18 CZK",,3344,,"Nákup: FACEBK 5WVP363Z62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 29.9.2021, částka  20076.18 CZK",spd
-2021-09-29,2e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-29,200000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-29,-20000,Karetní transakce,,"Nákup: FACEBK UNE5T9X9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK UNE5T9X9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",spd
 2021-09-28,-20000,Karetní transakce,,"Nákup: FACEBK BFXED8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK BFXED8PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 28.9.2021, částka  20000.00 CZK",spd
 2021-09-27,-20000,Karetní transakce,,"Nákup: FACEBK 7GGXT73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 7GGXT73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 27.9.2021, částka  20000.00 CZK",spd
@@ -191,7 +191,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-23,-7235.8,Platba převodem uvnitř banky,,"NBBA, s.r.o., destičky s polepem",308,20210446,100,"NBBA, s.r.o., destičky s polepem",spd
 2021-09-23,-9111.3,Platba převodem uvnitř banky,,"Martin Koutecký, roll-up, košile",308,2021967,100,"Martin Koutecký, roll-up, košile",spd
 2021-09-23,290000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
-2021-09-23,1e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-23,100000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-23,-20000,Karetní transakce,,"Nákup: FACEBK AZVS7AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK AZVS7AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  20000.00 CZK",spd
 2021-09-23,-11423.56,Karetní transakce,,"Nákup: FACEBK NUHB66FZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  11423.56 CZK",,3344,,"Nákup: FACEBK NUHB66FZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.9.2021, částka  11423.56 CZK",spd
 2021-09-22,-20000,Karetní transakce,,"Nákup: FACEBK RPP8P73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK RPP8P73AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 22.9.2021, částka  20000.00 CZK",spd
@@ -201,7 +201,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-22,-52635,Bezhotovostní platba,,"A-PROPOS, tašky s potiskem",,210100269,100,"A-PROPOS, tašky s potiskem",spd
 2021-09-22,-12100,Bezhotovostní platba,,"A-PROPOS, pronájem parkovací plochy",,210100268,100,"A-PROPOS, pronájem parkovací plochy",spd
 2021-09-22,-10890,Bezhotovostní platba,,"A-PROPOS, pronájem parkoviště Děčín",,210100267,100,"A-PROPOS, pronájem parkoviště Děčín",spd
-2021-09-22,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-22,500000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-21,-20000,Karetní transakce,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK QQLE5AFAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 21.9.2021, částka  20000.00 CZK",spd
 2021-09-20,-1422.34,Karetní transakce,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",,3344,,"Nákup: FACEBK 9GBEX87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.9.2021, částka  1422.34 CZK",spd
 2021-09-20,-1875,Platba převodem uvnitř banky,,"Tisk Sarpet Europe s.r.o., tisk",308,113314979,1400,"Tisk Sarpet Europe s.r.o., tisk",spd
@@ -245,8 +245,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-16,-32998,Bezhotovostní platba,,"Přemysl Horák, plakáty",308,20210073,800,"Přemysl Horák, plakáty",spd
 2021-09-16,-11889,Bezhotovostní platba,,"Přemysl Horák, vlaječky, mikiny",308,20210072,800,"Přemysl Horák, vlaječky, mikiny",spd
 2021-09-16,-25000,Bezhotovostní platba,,"Ondřej Březina, digitální marketing",308,20210009,800,"Ondřej Březina, digitální marketing",spd
-2021-09-16,7e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
-2021-09-16,4e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-16,700000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-16,400000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-16,-20000,Karetní transakce,,"Nákup: FACEBK NUN3R7KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK NUN3R7KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 15.9.2021, částka  20000.00 CZK",spd
 2021-09-15,-6000,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 14.9.2021, částka  6000.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 14.9.2021, částka  6000.00 CZK",spd
 2021-09-14,-20000,Karetní transakce,,"Nákup: FACEBK QBQ2Q7KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK QBQ2Q7KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 14.9.2021, částka  20000.00 CZK",spd
@@ -273,12 +273,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-13,-21780,Bezhotovostní platba,,"W & P EURONOVA s.r.o., billboardy",308,21210494,400,"W & P EURONOVA s.r.o., billboardy",spd
 2021-09-13,-40535,Bezhotovostní platba,,"W & P EURONOVA s.r.o, billboardy",308,21210518,400,"W & P EURONOVA s.r.o, billboardy",spd
 2021-09-13,-14000,Bezhotovostní platba,,"Filip Mruzek, propagace FB kampaň",308,20210026,100,"Filip Mruzek, propagace FB kampaň",spd
-2021-09-13,2e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-13,200000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-13,-20000,Karetní transakce,,"Nákup: FACEBK 9CFYV9FAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 9CFYV9FAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 12.9.2021, částka  20000.00 CZK",spd
 2021-09-13,-20000,Karetní transakce,,"Nákup: FACEBK LAY7E9TAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK LAY7E9TAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 11.9.2021, částka  20000.00 CZK",spd
 2021-09-11,-20000,Karetní transakce,,"Nákup: FACEBK 4CPSN87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 4CPSN87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  20000.00 CZK",spd
 2021-09-10,-413820,Bezhotovostní platba,,"Green Marketing s.r.o., produkční práce",,2021054,100,"Green Marketing s.r.o., produkční práce",spd
-2021-09-10,3e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-10,300000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-10,-26016.38,Karetní transakce,,"Nákup: FACEBK RAGKU7PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  26016.38 CZK",,3344,,"Nákup: FACEBK RAGKU7PAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 10.9.2021, částka  26016.38 CZK",spd
 2021-09-10,-1500,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.9.2021, částka  1500.00 CZK",,3344,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 9.9.2021, částka  1500.00 CZK",spd
 2021-09-09,-31557.2,Karetní transakce,,"Nákup: FACEBK A5VKM87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  31557.20 CZK",,3344,,"Nákup: FACEBK A5VKM87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 9.9.2021, částka  31557.20 CZK",spd
@@ -338,7 +338,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-08,-104786,Bezhotovostní platba,,"DP města H.K., a.s., reklama na MHD",308,10041321,500,"DP města H.K., a.s., reklama na MHD",spd
 2021-09-08,-22421.5,Bezhotovostní platba,,"PULARY, s.r.o., polepy, PPC kampaň",308,40821,700,"PULARY, s.r.o., polepy, PPC kampaň",spd
 2021-09-08,-1295022.1,Bezhotovostní platba,,"RAILREKLAM, s r.o., rekl. plochy",308,2100086,100,"RAILREKLAM, s r.o., rekl. plochy",spd
-2021-09-08,3e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-08,3000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z úvěrového účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-08,-20000,Karetní transakce,,"Nákup: FACEBK QMBM38T9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK QMBM38T9N2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 7.9.2021, částka  20000.00 CZK",spd
 2021-09-06,-20000,Karetní transakce,,"Nákup: FACEBK 6P53K87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK 6P53K87AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 6.9.2021, částka  20000.00 CZK",spd
 2021-09-06,-20000,Karetní transakce,,"Nákup: FACEBK XSTEG5XZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK XSTEG5XZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 5.9.2021, částka  20000.00 CZK",spd
@@ -434,7 +434,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-19,-4356,Bezhotovostní platba,,"Relative design s.r.o., plakáty",308,400210820,1300,"Relative design s.r.o., plakáty",spd
 2021-08-19,-1161.6,Bezhotovostní platba,,"TS města Pelhřimova, plakátování",308,2210278,1300,"TS města Pelhřimova, plakátování",spd
 2021-08-19,-7260,Bezhotovostní platba,,"JIPRINT, s.r.o., plakáty",308,2210700,1300,"JIPRINT, s.r.o., plakáty",spd
-2021-08-19,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-19,500000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-18,-20000,Karetní transakce,,"Nákup: FACEBK *D94D79FAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *D94D79FAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 18.8.2021, částka  20000.00 CZK",spd
 2021-08-17,-865.55,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.8.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.8.2021, částka  39.00 USD",spd
 2021-08-17,-20000,Karetní transakce,,"Nákup: FACEBK *N5R977PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 16.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *N5R977PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 16.8.2021, částka  20000.00 CZK",spd
@@ -453,7 +453,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-13,-12947,Bezhotovostní platba,,"MgA. Daniel Šenkeřík, polep auta",308,682021,1400,"MgA. Daniel Šenkeřík, polep auta",spd
 2021-08-13,-3000,Bezhotovostní platba,,"Jaroslav Šimek, tlampač",308,2,100,"Jaroslav Šimek, tlampač",spd
 2021-08-13,-34606,Bezhotovostní platba,,"Green Marketing s.r.o., tašky SPD",308,2021040,100,"Green Marketing s.r.o., tašky SPD",spd
-2021-08-13,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-13,500000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-09,-20000,Karetní transakce,,"Nákup: FACEBK *XZ7JQ77AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 7.8.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *XZ7JQ77AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 7.8.2021, částka  20000.00 CZK",spd
 2021-08-06,-417450,Bezhotovostní platba,,"MD Vision s.r.o., on-line kampaň",308,21217044,100,"MD Vision s.r.o., on-line kampaň",spd
 2021-08-06,-556600,Bezhotovostní platba,,"MD Vision s.r.o., on-line kampaň",308,21217042,100,"MD Vision s.r.o., on-line kampaň",spd
@@ -473,7 +473,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-06,-2517,Platba převodem uvnitř banky,,"Tisk Sarpet s.r.o., leták A5",308,113314621,1400,"Tisk Sarpet s.r.o., leták A5",spd
 2021-08-06,-2863,Platba převodem uvnitř banky,,"Tisk Sarpet s.r.o., plachty",308,113314613,1400,"Tisk Sarpet s.r.o., plachty",spd
 2021-08-06,-24500,Bezhotovostní platba,,"Filip Mruzek, práce na webu",308,20210019,100,"Filip Mruzek, práce na webu",spd
-2021-08-06,3e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-06,300000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-06,-21816.52,Karetní transakce,,"Nákup: FACEBK *VBCG77T9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 5.8.2021, částka  21816.52 CZK",,3344,,"Nákup: FACEBK *VBCG77T9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 5.8.2021, částka  21816.52 CZK",spd
 2021-08-05,1200000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-04,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.8.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 3.8.2021, částka  15000.00 CZK",spd
@@ -513,7 +513,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-15,-121000,Bezhotovostní platba,,"Green Marketing s.r.o., vystoupení",308,2021034,100,"Green Marketing s.r.o., vystoupení",spd
 2021-07-15,-118,Bezhotovostní platba,,"Alena Kadlčková, občerstvení kampaň",308,2107121062,100,"Alena Kadlčková, občerstvení kampaň",spd
 2021-07-15,-11616,Bezhotovostní platba,,"Lusija s.r.o., bannery",308,2107000106,500,"Lusija s.r.o., bannery",spd
-2021-07-15,2e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-07-15,200000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-07-12,46,Bezhotovostní příjem,STODULKOVA ANNA,,,43052,,STODULKOVA ANNA,spd
 2021-07-10,-20000,Karetní transakce,,"Nákup: FACEBK *97WU58FAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.7.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *97WU58FAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.7.2021, částka  20000.00 CZK",spd
 2021-07-09,-121,Bezhotovostní platba,,"Město Konice, vývěsní skříňka",308,1005000119,800,"Město Konice, vývěsní skříňka",spd
@@ -538,7 +538,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-01,-3146000,Bezhotovostní platba,,"Green Marketing s.r.o., jarmark SPD",308,2021024,100,"Green Marketing s.r.o., jarmark SPD",spd
 2021-07-01,-269225,Bezhotovostní platba,,"Green Marketing s.r.o., konference",308,2021025,100,"Green Marketing s.r.o., konference",spd
 2021-07-01,-785804.25,Bezhotovostní platba,,"Green Marketing s.r.o.,akce ""SPĎák""",308,2021026,100,"Green Marketing s.r.o.,akce ""SPĎák""",spd
-2021-07-01,4e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-07-01,4000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-07-01,-20000,Karetní transakce,,"Nákup: FACEBK *747PQ67AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.6.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *747PQ67AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.6.2021, částka  20000.00 CZK",spd
 2021-06-26,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 25.6.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 25.6.2021, částka  15000.00 CZK",spd
 2021-06-25,-20000,Karetní transakce,,"Nákup: FACEBK *PBN3C53AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.6.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *PBN3C53AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.6.2021, částka  20000.00 CZK",spd
@@ -559,7 +559,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-23,-1699,Bezhotovostní platba,,"Marie Pošarová, květiny",308,73,1000,"Marie Pošarová, květiny",spd
 2021-06-23,-12414,Bezhotovostní platba,,"MAFRA, a.s., inzerce",308,2321003993,1000,"MAFRA, a.s., inzerce",spd
 2021-06-23,-1049826.3,Bezhotovostní platba,,"BigMedia, spol.sr.o., rekl. plochy",308,120210283,100,"BigMedia, spol.sr.o., rekl. plochy",spd
-2021-06-23,8e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-06-23,8000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-06-23,-406.25,Karetní transakce,,"Nákup: FACEBK *FTW4C3TZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.6.2021, částka  406.25 CZK",,3344,,"Nákup: FACEBK *FTW4C3TZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.6.2021, částka  406.25 CZK",spd
 2021-06-23,-20000,Karetní transakce,,"Nákup: FACEBK *ESEAP5BZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.6.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *ESEAP5BZ62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.6.2021, částka  20000.00 CZK",spd
 2021-06-21,-3010.11,Karetní transakce,,"Nákup: FACEBK *QQ5726T9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.6.2021, částka  3010.11 CZK",,3344,,"Nákup: FACEBK *QQ5726T9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.6.2021, částka  3010.11 CZK",spd
@@ -569,7 +569,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-16,-132313.5,Bezhotovostní platba,,"BigMedia, spol. s r.o., plakáty",308,4212101159,100,"BigMedia, spol. s r.o., plakáty",spd
 2021-06-16,-6017,Platba převodem uvnitř banky,,"Tisk Sarpet s.r.o., plachta",308,113314289,1000,"Tisk Sarpet s.r.o., plachta",spd
 2021-06-16,-11646,Platba převodem uvnitř banky,,"Tisk Sarpet s.r.o., bannery",308,113314288,1400,"Tisk Sarpet s.r.o., bannery",spd
-2021-06-16,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-06-16,500000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-06-16,-840.6,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.6.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.6.2021, částka  39.00 USD",spd
 2021-06-12,-20000,Karetní transakce,,"Nákup: FACEBK *ZFNMA5KAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.6.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *ZFNMA5KAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 11.6.2021, částka  20000.00 CZK",spd
 2021-06-09,-3079,Bezhotovostní platba,,"olomoucký, výlep plakátů",308,21030,,"olomoucký, výlep plakátů",spd
@@ -602,7 +602,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-26,-3466.5,Bezhotovostní platba,,"královéhradecký, phm výlep plakátů",308,103,,"královéhradecký, phm výlep plakátů",spd
 2021-05-26,-1754.1,Bezhotovostní platba,,"královéhradecký, phm výlep plakátů",308,2021000341,,"královéhradecký, phm výlep plakátů",spd
 2021-05-26,-3228.4,Bezhotovostní platba,,"královéhradecký, phm výlep plakátů",308,227,,"královéhradecký, phm výlep plakátů",spd
-2021-05-26,1e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-05-26,1000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-05-25,-20000,Karetní transakce,,"Nákup: FACEBK *DJQRT4KAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *DJQRT4KAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 24.5.2021, částka  20000.00 CZK",spd
 2021-05-24,-17158.79,Karetní transakce,,"Nákup: FACEBK *U95FU23272,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.5.2021, částka  17158.79 CZK",,3344,,"Nákup: FACEBK *U95FU23272,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 22.5.2021, částka  17158.79 CZK",spd
 2021-05-20,-12624.6,Karetní transakce,,"Nákup: FACEBK *M8MQA6X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.5.2021, částka  12624.60 CZK",,3344,,"Nákup: FACEBK *M8MQA6X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.5.2021, částka  12624.60 CZK",spd
@@ -610,14 +610,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-17,2222,Bezhotovostní příjem,UHRICKOVA MONIKA,Platba zpet,,0,,UHRICKOVA MONIKA,spd
 2021-05-17,-839.64,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.5.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.5.2021, částka  39.00 USD",spd
 2021-05-15,-20000,Karetní transakce,,"Nákup: FACEBK *VZ99C6TAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.5.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *VZ99C6TAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 14.5.2021, částka  20000.00 CZK",spd
-2021-05-13,-3e+06,Bezhotovostní platba,,tisk a distribuce volebních novin,308,21001,,tisk a distribuce volebních novin,spd
+2021-05-13,-3000000,Bezhotovostní platba,,tisk a distribuce volebních novin,308,21001,,tisk a distribuce volebních novin,spd
 2021-05-13,-1162,Bezhotovostní platba,,"středočeský, výlep plakátů",308,5793285,,"středočeský, výlep plakátů",spd
 2021-05-13,-2222,Bezhotovostní platba,,"zlínský, kytice na pietní akci",308,5676685,,"zlínský, kytice na pietní akci",spd
 2021-05-13,-728.6,Bezhotovostní platba,,"zlínský, phm, lepidlo",308,4524,,"zlínský, phm, lepidlo",spd
 2021-05-13,-18150,Platba převodem uvnitř banky,,"ústecký, reklamní plochy, plakáty",308,202107,,"ústecký, reklamní plochy, plakáty",spd
 2021-05-13,-436,Bezhotovostní platba,,"zlínský, plakátování",308,82021,,"zlínský, plakátování",spd
 2021-05-13,-2692870,Bezhotovostní platba,,výroba audiovizuálního díla,308,202121006,,výroba audiovizuálního díla,spd
-2021-05-13,6e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-05-13,6000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-05-10,-20000,Karetní transakce,,"Nákup: FACEBK *RVDBB57AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.5.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *RVDBB57AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.5.2021, částka  20000.00 CZK",spd
 2021-05-05,-2222,Bezhotovostní platba,,"zlínský, kytice na pietní akci",308,133357,,"zlínský, kytice na pietní akci",spd
 2021-05-05,-6534,Platba převodem uvnitř banky,,"jihomoravský, distribuce novin",308,21100058,,"jihomoravský, distribuce novin",spd
@@ -634,7 +634,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-01,-20000,Karetní transakce,,"Nákup: FACEBK *WZBFY5TAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.4.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *WZBFY5TAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 30.4.2021, částka  20000.00 CZK",spd
 2021-04-24,-19997.74,Karetní transakce,,"Nákup: FACEBK *6FTYS5TAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.4.2021, částka  19997.74 CZK",,3344,,"Nákup: FACEBK *6FTYS5TAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.4.2021, částka  19997.74 CZK",spd
 2021-04-24,-18455.71,Karetní transakce,,"Nákup: FACEBK *ENFLVZ2Z62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.4.2021, částka  18455.71 CZK",,3344,,"Nákup: FACEBK *ENFLVZ2Z62,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 23.4.2021, částka  18455.71 CZK",spd
-2021-04-23,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-04-23,500000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-04-21,-22022,Bezhotovostní platba,,"ústecký, výlepní plocha",308,2021058,,"ústecký, výlepní plocha",spd
 2021-04-21,-3622,Bezhotovostní platba,,"olomoucký, výlep plakátů",308,21016,,"olomoucký, výlep plakátů",spd
 2021-04-21,-2590.5,Bezhotovostní platba,,"zlínský, phm výlep plakátů",308,158,,"zlínský, phm výlep plakátů",spd
@@ -643,7 +643,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-21,-1391500,Bezhotovostní platba,,mediální a on-line kampaň,308,21217016,,mediální a on-line kampaň,spd
 2021-04-21,-226270,Bezhotovostní platba,,návrh a realizace logomanuálu,308,21217011,,návrh a realizace logomanuálu,spd
 2021-04-21,-52066.3,Bezhotovostní platba,,plakáty A2,308,2021050,,plakáty A2,spd
-2021-04-21,1e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-04-21,1000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-04-20,-6068.36,Karetní transakce,,"Nákup: FACEBK *CL6JG5X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.4.2021, částka  6068.36 CZK",,3344,,"Nákup: FACEBK *CL6JG5X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 19.4.2021, částka  6068.36 CZK",spd
 2021-04-19,-20000,Karetní transakce,,"Nákup: FACEBK *2K67M33AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.4.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *2K67M33AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 17.4.2021, částka  20000.00 CZK",spd
 2021-04-16,-868.05,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.4.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.4.2021, částka  39.00 USD",spd
@@ -654,7 +654,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-08,-49065.5,Bezhotovostní platba,,plakáty A2,308,2021003,,plakáty A2,spd
 2021-04-08,-84700,Bezhotovostní platba,,"plakáty, instalace",308,4212100567,,"plakáty, instalace",spd
 2021-04-08,-605000,Bezhotovostní platba,,pronájem reklamních panelů,308,4202102217,,pronájem reklamních panelů,spd
-2021-04-07,1e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-04-07,1000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-04-07,-43560,Bezhotovostní platba,,plakáty,308,4212100565,,plakáty,spd
 2021-04-07,-19965,Bezhotovostní platba,,grafické práce,308,21217012,,grafické práce,spd
 2021-04-07,-133100,Bezhotovostní platba,,zpracování a návrhy billboardů,308,21217010,,zpracování a návrhy billboardů,spd
@@ -683,7 +683,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-03-11,-53240,Bezhotovostní platba,,plakáty,308,4212100401,,plakáty,spd
 2021-03-11,-83490,Bezhotovostní platba,,mediální analýza,308,2117011,,mediální analýza,spd
 2021-03-11,-411400,Bezhotovostní platba,,tisk a distribuce volebních novin,308,2117010,,tisk a distribuce volebních novin,spd
-2021-03-11,1e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-03-11,1000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-03-10,-20000,Karetní transakce,,"Nákup: FACEBK *7VCHC4X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.3.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *7VCHC4X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 9.3.2021, částka  20000.00 CZK",spd
 2021-03-06,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.3.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 5.3.2021, částka  15000.00 CZK",spd
 2021-03-05,-20000,Karetní transakce,,"Nákup: FACEBK *3K9BV2PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.3.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *3K9BV2PAN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 4.3.2021, částka  20000.00 CZK",spd
@@ -718,7 +718,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-17,-18000,Bezhotovostní platba,,fotoportréty na billboardy,308,2021002,,fotoportréty na billboardy,spd
 2021-02-17,-50003.25,Bezhotovostní platba,,plakáty,308,210095,,plakáty,spd
 2021-02-17,-49065.5,Bezhotovostní platba,,plakáty,308,210061,,plakáty,spd
-2021-02-17,3e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-02-17,3000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-02-17,-20000,Karetní transakce,,"Nákup: FACEBK *LPSB22P9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 16.2.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *LPSB22P9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 16.2.2021, částka  20000.00 CZK",spd
 2021-02-16,-847.95,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.2.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.2.2021, částka  39.00 USD",spd
 2021-02-15,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 13.2.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 13.2.2021, částka  15000.00 CZK",spd
@@ -729,7 +729,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-10,-127050,Bezhotovostní platba,,"olomoucký, výlepní plochy BB",308,22021,,"olomoucký, výlepní plochy BB",spd
 2021-02-10,-65920.8,Bezhotovostní platba,,"olomoucký, reklama MHD",308,42021,,"olomoucký, reklama MHD",spd
 2021-02-10,-14913,Bezhotovostní platba,,"jihomoravský, prezentace v médiích",308,2021004,,"jihomoravský, prezentace v médiích",spd
-2021-02-10,5e+05,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-02-10,500000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-02-08,-20000,Karetní transakce,,"Nákup: FACEBK *KKTXUZ2AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 7.2.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *KKTXUZ2AN2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 7.2.2021, částka  20000.00 CZK",spd
 2021-02-04,-178415,Bezhotovostní platba,,poradenské služby v marketingu,,2021003,,poradenské služby v marketingu,spd
 2021-02-04,-20000,Karetní transakce,,"Nákup: FACEBK *7R49H3X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 3.2.2021, částka  20000.00 CZK",,3344,,"Nákup: FACEBK *7R49H3X9N2,  Havover Reach, 5-7 Hanover Qua, fb.me/ads, DUBLIN 2, IRL, dne 3.2.2021, částka  20000.00 CZK",spd
@@ -742,4 +742,4 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-27,-15000,Karetní transakce,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 26.1.2021, částka  15000.00 CZK",,3344,,"Nákup: GOOGLE *ADS1004003547,  Gordon House, Barrow Street, cc@google.com, UNKNOWN, IRL, dne 26.1.2021, částka  15000.00 CZK",spd
 2021-01-20,-726,Bezhotovostní platba,,Olomoucký - pronájem rekl. plochy,308,1035000018,,Olomoucký - pronájem rekl. plochy,spd
 2021-01-20,-1486727,Bezhotovostní platba,,pronájem reklamních panelů,308,310210001,,pronájem reklamních panelů,spd
-2021-01-20,3e+06,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-01-20,3000000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd

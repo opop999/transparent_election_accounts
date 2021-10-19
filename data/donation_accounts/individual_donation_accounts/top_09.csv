@@ -13,78 +13,78 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-10-06,-1400000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-10-06,7027083,DOŠLÁ PLATBA,6418,180152021,,MF,1403/18015/2021-58  TOP 09,top_09
 2021-10-05,-160000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
-2021-10-04,3e+05,DOŠLÁ EXPRES.PLATBA,308,27207200,,Ungelt Services a.s.,"Ungelt Services a.s.DAR, Ungelt Services a.s., Praha, K",top_09
+2021-10-04,300000,DOŠLÁ EXPRES.PLATBA,308,27207200,,Ungelt Services a.s.,"Ungelt Services a.s.DAR, Ungelt Services a.s., Praha, K",top_09
 2021-09-30,250000,DOŠLÁ PLATBA,0,1716581,,INCEPTION S.R.O.,"DAR, INception s.r.o., Praha, V hurkach",top_09
-2021-09-30,-4.31,SRÁŽKOVÁ DAŇ,,,,-,,top_09
-2021-09-30,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-09-30,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
 2021-09-30,-6,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
 2021-09-30,22.66,KREDITNÍ ÚROK,,,,,,top_09
-2021-09-29,50000,DOŠLÁ PLATBA,0,25411721,,DC RELAX,"DAR, DC RELAX, s.r.o., Praha, Pod Hláskem",top_09
+2021-09-30,-4.31,SRÁŽKOVÁ DAŇ,,,,-,,top_09
+2021-09-30,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-09-29,-2395000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
+2021-09-29,50000,DOŠLÁ PLATBA,0,25411721,,DC RELAX,"DAR, DC RELAX, s.r.o., Praha, Pod Hláskem",top_09
 2021-09-27,40000,DOŠLÁ PLATBA,0,28011970,,Martin Dlouhý,"DAR, Martin Dlouhý, Praha",top_09
-2021-09-24,1e+05,DOŠLÁ PLATBA,0,6091966,,RICHTER PAVEL,"DAR, Pavel Richter, Praha",top_09
-2021-09-24,2e+05,DOŠLÁ PLATBA,0,,,TOMEK ONDŘEJ,TOMEK ONDŘEJ,top_09
-2021-09-22,3000,DOŠLÁ PLATBA,0,6061973,,Bohuslav Straka,dar Bob,top_09
-2021-09-22,2e+05,DOŠLÁ PLATBA,558,17048869,,PSN s.r.o.,DAROVACI SML. TOP 09,top_09
-2021-09-22,22500,DOŠLÁ PLATBA,0,,,Strana zelených,podíl ze státního rozpočtu přijatý za mandát J. Krumpholcové v STČ TOP 09 - 3. Q 2021,top_09
+2021-09-24,200000,DOŠLÁ PLATBA,0,,,TOMEK ONDŘEJ,TOMEK ONDŘEJ,top_09
+2021-09-24,100000,DOŠLÁ PLATBA,0,6091966,,RICHTER PAVEL,"DAR, Pavel Richter, Praha",top_09
+2021-09-22,200000,DOŠLÁ PLATBA,558,17048869,,PSN s.r.o.,DAROVACI SML. TOP 09,top_09
 2021-09-22,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 20.09.2021 c 5002*U*J IRIDAR RIJEN,top_09
+2021-09-22,3000,DOŠLÁ PLATBA,0,6061973,,Bohuslav Straka,dar Bob,top_09
+2021-09-22,22500,DOŠLÁ PLATBA,0,,,Strana zelených,podíl ze státního rozpočtu přijatý za mandát J. Krumpholcové v STČ TOP 09 - 3. Q 2021,top_09
 2021-09-21,50000,DOŠLÁ EXPRES.PLATBA,0,2651975,,GRULICH JAN,"DAR, Jan Grulich, Sedloňov",top_09
 2021-09-17,-1400000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
-2021-09-10,150000,DOŠLÁ PLATBA,0,26118963,,"PASSERINVEST GROUP,","PASSERINVEST GROUP, a.s.DAR, PASSERINVEST GROUP, A.S., PRAHŽELETAVSKÁ SML-01-2021-71",top_09
 2021-09-10,2500000,DOŠLÁ PLATBA,0,9509071,,Spolek pro podporu l,"Dar, Spolek po podporu liberální demokracie ČS",top_09
+2021-09-10,150000,DOŠLÁ PLATBA,0,26118963,,"PASSERINVEST GROUP,","PASSERINVEST GROUP, a.s.DAR, PASSERINVEST GROUP, A.S., PRAHŽELETAVSKÁ SML-01-2021-71",top_09
 2021-09-07,50000,DOŠLÁ PLATBA,0,26071985,,"Ing.Matula Romana,Di","DAR, Ing. Romana Matula, Kučerov",top_09
-2021-09-06,-8e+05,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-09-06,30000,DOŠLÁ PLATBA,0,2021,,BURDA AUCTION S.R.O.,DAR,top_09
-2021-09-03,1000,DOŠLÁ PLATBA,0,18051968,,TUŠL MARTIN,"DAR, Martin Tušl, Velké Popovice",top_09
+2021-09-06,-800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-09-03,10000,DOŠLÁ PLATBA,0,13121957,,Zlámal Tomáš,Zlámal TomášDar,top_09
+2021-09-03,1000,DOŠLÁ PLATBA,0,18051968,,TUŠL MARTIN,"DAR, Martin Tušl, Velké Popovice",top_09
+2021-09-02,100000,DOŠLÁ EXPRES.PLATBA,0,5011985,,Lukáš Otys,"DAR, Lukáš Otys, Karlovy Vary",top_09
 2021-09-02,10000,DOŠLÁ EXPRES.PLATBA,0,6051967,3251,Ing. Jan Vokál,"DAR, Jan Vokál, Praha",top_09
-2021-09-02,1e+05,DOŠLÁ EXPRES.PLATBA,0,5011985,,Lukáš Otys,"DAR, Lukáš Otys, Karlovy Vary",top_09
 2021-08-31,17.72,KREDITNÍ ÚROK,,,,,,top_09
-2021-08-31,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
-2021-08-31,-8,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
-2021-08-31,-16,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-08-31,-3.37,SRÁŽKOVÁ DAŇ,,,,-,,top_09
+2021-08-31,-16,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
+2021-08-31,-8,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
+2021-08-31,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
 2021-08-30,50000,DOŠLÁ EXPRES.PLATBA,0,6091982,,KALENSKÝ JAN,"DAR, Bc. Jan Kalenský, Dobruška",top_09
-2021-08-30,1e+05,DOŠLÁ EXPRES.PLATBA,0,31031972,,Mgr. Tomáš Třetina,"DAR, Tomáš Třetina, Moravský Krumlov",top_09
-2021-08-30,20000,DOŠLÁ PLATBA,0,15041963,,MOLENOVÁ IVA,DAR IVA MOLENOVÁ,top_09
+2021-08-30,100000,DOŠLÁ EXPRES.PLATBA,0,31031972,,Mgr. Tomáš Třetina,"DAR, Tomáš Třetina, Moravský Krumlov",top_09
 2021-08-30,50000,DOŠLÁ PLATBA,0,6031959,,Vlastislav Polášek,DAR,top_09
+2021-08-30,20000,DOŠLÁ PLATBA,0,15041963,,MOLENOVÁ IVA,DAR IVA MOLENOVÁ,top_09
 2021-08-27,50000,DOŠLÁ PLATBA,0,,,GRULICH JAN,Dar,top_09
 2021-08-25,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 23.08.2021 c 5011SIRIREISINAER* AR *R**I ZARI,top_09
-2021-08-24,150000,DOŠLÁ PLATBA,0,31071976,,Ing.Kocanda Vlastimi,DAR,top_09
-2021-08-24,1e+05,DOŠLÁ PLATBA,0,23111961,,Ing.Faměra František,"DAR,Frantisek Famera,Sobotka",top_09
-2021-08-24,3000,DOŠLÁ EXPRES.PLATBA,715,20101970,,LUDĚK PIVOŇKA,DAR Luděk Pivoňka - pro krajskou organizaci TOP 09 Olomouc,top_09
 2021-08-24,-5000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
+2021-08-24,100000,DOŠLÁ PLATBA,0,23111961,,Ing.Faměra František,"DAR,Frantisek Famera,Sobotka",top_09
+2021-08-24,150000,DOŠLÁ PLATBA,0,31071976,,Ing.Kocanda Vlastimi,DAR,top_09
 2021-08-24,50000,DOŠLÁ PLATBA,0,19081987,,Radek Polášek,"DAR,Radek Polášek,Bolatice",top_09
-2021-08-23,1e+05,DOŠLÁ PLATBA,0,4011958,,PAVERA HERBERT,"DAR, Herbert Pavera, Bolatice",top_09
-2021-08-19,1e+05,DOŠLÁ PLATBA,0,6090290,,UHLI PISKY CERT S.R.,TOP 09 dar TOP 09,top_09
-2021-08-19,1e+05,DOŠLÁ PLATBA,0,4031962,,CZERNIN TOMÁŠ,Dar,top_09
-2021-08-13,20000,DOŠLÁ PLATBA,0,14071972,,Lojík Viktor,"DAR, Viktor Lojík, Praha",top_09
+2021-08-24,3000,DOŠLÁ EXPRES.PLATBA,715,20101970,,LUDĚK PIVOŇKA,DAR Luděk Pivoňka - pro krajskou organizaci TOP 09 Olomouc,top_09
+2021-08-23,100000,DOŠLÁ PLATBA,0,4011958,,PAVERA HERBERT,"DAR, Herbert Pavera, Bolatice",top_09
+2021-08-19,100000,DOŠLÁ PLATBA,0,6090290,,UHLI PISKY CERT S.R.,TOP 09 dar TOP 09,top_09
+2021-08-19,100000,DOŠLÁ PLATBA,0,4031962,,CZERNIN TOMÁŠ,Dar,top_09
 2021-08-13,20000,DOŠLÁ PLATBA,0,27512380,,LabMediaServis s.r.o,"DAR, LabMediaServis s.r.o., Národní84, Jaroměř",top_09
 2021-08-13,40000,DOŠLÁ PLATBA,308,29448336,,SBERNA DRUHOTNYCH SU,"DAR,Sberna druhotnych surovin Lindovsky,s.r.o.,Jesenik,Otakara Breziny",top_09
+2021-08-13,20000,DOŠLÁ PLATBA,0,14071972,,Lojík Viktor,"DAR, Viktor Lojík, Praha",top_09
+2021-08-12,-800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-08-12,257292,DOŠLÁ PLATBA,378,2021062,,Občanská demokratick,Dar- vyrovnání KV a SV volby 2020 - 2.čtvrtletí 2021,top_09
-2021-08-12,-8e+05,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-08-03,125000,DOŠLÁ PLATBA,308,48168921,,OR-CZ S.R.O.,"DAR, OR-CZ spol. s r.o.,Moravská Třebová 571 01,Brněnská 19/20",top_09
 2021-08-02,-25000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
-2021-08-02,-8e+06,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
-2021-07-30,-15.17,SRÁŽKOVÁ DAŇ,,,,-,,top_09
-2021-07-30,79.86,KREDITNÍ ÚROK,,,,,,top_09
-2021-07-30,-2,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
-2021-07-30,-2,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
+2021-08-02,-8000000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-07-30,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
+2021-07-30,-2,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
 2021-07-30,-8,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
+2021-07-30,-2,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
+2021-07-30,79.86,KREDITNÍ ÚROK,,,,,,top_09
+2021-07-30,-15.17,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2021-07-28,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 26.07.2021 c 80003JIRIREISINRERDAR SRPEN,top_09
 2021-07-15,-1390000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-07-14,1390000,DOŠLÁ PLATBA,6418,144852021,,MF,1403/14485/2021/1403-3 TOP 09,top_09
 2021-07-13,4000,DOŠLÁ EXPRES.PLATBA,0,4121977,,"Kovaříková, Dominika","DAR, Dominika Kovaříková, Olomouc",top_09
-2021-07-09,50000,DOŠLÁ PLATBA,0,26111978,,"PhDr.Ženíšek Marek,P",DAR,top_09
-2021-07-09,1e+05,DOŠLÁ PLATBA,0,26111978,,"PhDr.Ženíšek Marek,P",DAR,top_09
+2021-07-09,100000,DOŠLÁ PLATBA,0,26111978,,"PhDr.Ženíšek Marek,P",DAR,top_09
 2021-07-09,10000,DOŠLÁ PLATBA,0,26111978,,"PhDr.Ženíšek Marek,P",DAR,top_09
+2021-07-09,50000,DOŠLÁ PLATBA,0,26111978,,"PhDr.Ženíšek Marek,P",DAR,top_09
 2021-07-08,133750,DOŠLÁ PLATBA,0,,,STAROSTOV? A NEZÁVIS,Dar STAN - podíl za mandáty dle příslušných smluv - 2. čtvrtletí 2021,top_09
-2021-07-07,-7e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2021-07-07,500,DOŠLÁ EXPRES.PLATBA,0,19111988,,Luboš Vopasek,"DAR, Luboš Vopasek, Praha",top_09
 2021-07-07,4556,DOŠLÁ EXPRES.PLATBA,0,3204723,,Hradecký demokratick,HRADECKY DEMOKRATICKY KLUB  DAR 2 Q2021,top_09
 2021-07-07,80000,DOŠLÁ EXPRES.PLATBA,0,3204723,,Hradecký demokratick,HRADECKY DEMOKRATICKY KLUB  DAR,top_09
-2021-07-07,500,DOŠLÁ EXPRES.PLATBA,0,19111988,,Luboš Vopasek,"DAR, Luboš Vopasek, Praha",top_09
+2021-07-07,-700000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2021-06-30,-13.54,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2021-06-30,71.26,KREDITNÍ ÚROK,,,,,,top_09
 2021-06-30,-6,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
@@ -130,7 +130,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-05-10,40000,DOŠLÁ PLATBA,0,4031962,,CZERNIN TOMÁŠ,"DAR, Ing. Tomáš Czernin, Dymokury",top_09
 2021-05-10,20000,DOŠLÁ EXPRES.PLATBA,0,4081992,,SOFKA JAKUB,"DAR - Mgr. Jakub Sofka, Hradec Kralové",top_09
 2021-05-10,5000,DOŠLÁ PLATBA,0,2011974,,Hraba Michal,"DAR, Michal Hraba, Praha",top_09
-2021-05-10,-5e+06,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
+2021-05-10,-5000000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-05-05,1,DOŠLÁ EXPRES.PLATBA,0,,,KRČ JAROSLAV,příspěvek na lobotomii pro MarkétuAdamovou Pekarovou,top_09
 2021-05-05,50000,DOŠLÁ EXPRES.PLATBA,308,27471110,,"LM ASISTENT, S.R.O.","DAR, LM Asistent, s.r.o., Hradec Králové, Dřevařská",top_09
 2021-05-05,1043,DOŠLÁ PLATBA,0,30041957,,Urválek Jiří,DAR Jiří Urválek Slatiňany 531-CR,top_09
@@ -157,7 +157,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-04-13,4556,DOŠLÁ EXPRES.PLATBA,0,3204723,,Hradecký demokratick,HRADECKY DEMOKRATICKY KLUB  DAR,top_09
 2021-04-13,500,DOŠLÁ PLATBA,0,8031961,,Petr Nikodým,"DAR, Petr Nikodým, Praha",top_09
 2021-04-08,22500,DOŠLÁ PLATBA,0,,,Strana zelených,podíl ze státního rozpočtu přijatýza mandát J. Krumpholcové v STČ TOP09 - 4. Q 2020,top_09
-2021-04-08,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2021-04-08,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2021-04-07,1200,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 01.04.2021 c 3004**-JIRIDAR,top_09
 2021-04-06,1000,DOŠLÁ PLATBA,0,,,SUCHY MIROSLAV,"DAR, Miroslav Suchy, Jicineves",top_09
 2021-03-31,-14.86,SRÁŽKOVÁ DAŇ,,,,-,,top_09
@@ -195,7 +195,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-01-29,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
 2021-01-29,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-01-29,-4,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
-2021-01-29,-5e+06,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2021-01-29,-5000000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-01-28,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 26.01.2021 c 2005JIRIREISINGERDAR UNOR 2021,top_09
 2021-01-26,50000,DOŠLÁ PLATBA,0,19041987,0,FREMROVÁ EVA MGR.,"DAR, Eva Fremrová, Praha",top_09
 2021-01-25,12000,DOŠLÁ PLATBA,0,17071981,,TOMAS JILECEK,"TOMAS JILECEKDAR, TOMÁŠ JILEČEK, PRAHA",top_09
@@ -212,7 +212,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-01-11,40000,DOŠLÁ PLATBA,0,71286,,Daniel Šopov,"DAR, daniel šopov,praha",top_09
 2021-01-07,28000,DOŠLÁ PLATBA,0,2121982,,Jakob Jan,"Jakob JanDAR, Jan Jakob, Roztoky",top_09
 2021-01-07,4000,DOŠLÁ PLATBA,0,15121972,,TOMAS VOSTREL,"TOMAS VOSTRELDAR, TOMÁŠ VOSTŘEL, PRAHA",top_09
-2021-01-07,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2021-01-07,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2021-01-06,2370,DOŠLÁ PLATBA,0,10041971,,VOŠOUST PETR,"DAR, Petr Vošoust, Hradec Králové",top_09
 2021-01-06,20000,DOŠLÁ PLATBA,0,10041971,,VOŠOUST PETR,"DAR, Petr Vošoust, Hradec Králové",top_09
 2021-01-05,25000,DOŠLÁ PLATBA,0,,,KUBÍČEK PETR,"DAR, Petr Kubíček, Praha",top_09
@@ -332,10 +332,10 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-10-27,-30000,PLATBA - B24,0,71339728,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
 2020-10-27,-185000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
 2020-10-22,20000,DOŠLÁ PLATBA,0,15063852,,ARGO SPOL. S R.O.,15063852 TOP 09,top_09
-2020-10-22,-5e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
+2020-10-22,-500000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
 2020-10-22,-105000,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
 2020-10-22,-9000,PLATBA - B24,0,71339728,,000000-8555329762/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Kolín Klinecký",top_09
-2020-10-21,-1e+05,PLATBA - B24,0,71339728,,000000-0008683352/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet Senát TOP 09",top_09
+2020-10-21,-100000,PLATBA - B24,0,71339728,,000000-0008683352/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet Senát TOP 09",top_09
 2020-10-21,-41000,PLATBA - B24,0,71339728,,000000-8555329412/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Rychnov nK Grulich",top_09
 2020-10-20,100,DOŠLÁ PLATBA,0,19111992,,Václav Bača,"DAR, Václav Bača , Jarcová",top_09
 2020-10-19,40000,DOŠLÁ PLATBA,0,26031974,,TRAMBOVA PETRA,"DAR, Petra Trambova, Pisek",top_09
@@ -345,22 +345,22 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-10-16,-150000,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
 2020-10-16,-110000,PLATBA - B24,0,71339728,,000000-8555329412/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Rychnov nK Grulich",top_09
 2020-10-16,2000,DOŠLÁ PLATBA,0,25101966,,ING.VOLEJNIK,"DAR, Martin Volejnik, RohozniceTOP09",top_09
-2020-10-15,1e+05,DOŠLÁ PLATBA,0,7121986,,ŠOPOV DANIEL,"DAR, Daniel Šopov, Praha",top_09
+2020-10-15,100000,DOŠLÁ PLATBA,0,7121986,,ŠOPOV DANIEL,"DAR, Daniel Šopov, Praha",top_09
 2020-10-15,80000,DOŠLÁ PLATBA,0,8021954,,SEKYRA LUDEK,"DAR,Ludek,Sekyra,Praha",top_09
 2020-10-15,-60000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 1 Němcová",top_09
-2020-10-15,-4e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Znojmo Třetina",top_09
-2020-10-14,3e+05,DOŠLÁ PLATBA,0,26118963,,"PASSERINVEST GROUP,","PASSERINVEST GROUP, a.s.DAR, PASSERINVEST GROUP, A.S.,PRAHA",top_09
+2020-10-15,-400000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Znojmo Třetina",top_09
+2020-10-14,300000,DOŠLÁ PLATBA,0,26118963,,"PASSERINVEST GROUP,","PASSERINVEST GROUP, a.s.DAR, PASSERINVEST GROUP, A.S.,PRAHA",top_09
 2020-10-14,-166136.23,PLATBA - B24,0,16111972,,000000-3097663153/0800,"TOP 09, vrácení platby ze dne 13.10.2020 JUDr. Jan Holásek, LL.M., vč.úrok.zhodnocení",top_09
 2020-10-13,166136,DOŠLÁ PLATBA,0,16111972,,"Holásek Jan,JUDr.","DAR, JUDr. Jan Holásek, LL.M., HK",top_09
 2020-10-13,-160000,PLATBA - B24,0,71339728,,000000-0008683432/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň kraj Vysočina",top_09
 2020-10-13,-5000,PLATBA - B24,0,71339728,,000000-8555329762/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Kolín Klinecký",top_09
 2020-10-12,3630,DOŠLÁ PLATBA,0,25792032,,"DATECO, S.R.O.","DAR,DATECO,s.r.o.,Praha, Koberkova",top_09
 2020-10-12,175000,DOŠLÁ PLATBA,0,24111975,,POSPISIL JIRI,"DAR JIRI POSPISIL, PRAHA",top_09
-2020-10-09,-1e+05,PLATBA - B24,0,71339728,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
+2020-10-09,-100000,PLATBA - B24,0,71339728,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
 2020-10-09,-31000,PLATBA - B24,0,71339728,,000000-8555329762/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Kolín Klinecký",top_09
 2020-10-08,80000,DOŠLÁ PLATBA,0,13021950,,EICHLER GABRIEL,"DAR, Gabriel Eichler, Praha / TOP09",top_09
-2020-10-08,-2e+05,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihočeský kraj",top_09
-2020-10-08,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2020-10-08,-200000,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihočeský kraj",top_09
+2020-10-08,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2020-10-07,6500000,DOŠLÁ PLATBA,6418,156042020,,MF,,top_09
 2020-10-07,-110000,PLATBA - B24,0,71339728,,000000-0008683432/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň kraj Vysočina",top_09
 2020-10-06,10000,DOŠLÁ PLATBA,0,100363,,"Němcová Ivana,JUDr.","DAR NEMCOVA od Ivana Nemcova, Praha6",top_09
@@ -371,16 +371,16 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-10-05,150000,DOŠLÁ PLATBA,0,30149,,Žantovský Michael,"DAR, Michael Žantovský, Praha",top_09
 2020-10-05,8000,DOŠLÁ PLATBA,0,17101970,,Dalimil Ospalý,"DAR, Dalimil Ospaly, BRNO",top_09
 2020-10-05,20000,DOŠLÁ EXPRES.PLATBA,0,19061973,,Tomáš Ságl,"DAR Nemcova, Tomáš Ságl,Praha",top_09
-2020-10-05,2e+05,DOŠLÁ PLATBA,0,6091966,,RICHTER PAVEL,"DAR, Pavel Richter, Praha",top_09
-2020-10-05,-1e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 1 Němcová",top_09
+2020-10-05,200000,DOŠLÁ PLATBA,0,6091966,,RICHTER PAVEL,"DAR, Pavel Richter, Praha",top_09
+2020-10-05,-100000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 1 Němcová",top_09
 2020-10-02,1200,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 30.09.2020 c 5014J IRIREISINFERDAR,top_09
 2020-10-02,2000,DOŠLÁ PLATBA,0,19051978,,Vácha Filip,"DAR, Filip Vácha, Praha, TOP09 Liberec",top_09
 2020-10-02,10000,DOŠLÁ PLATBA,0,3061977,,LADISLAV KOTIK,"LADISLAV KOTIKDAR, LADISLAV KOTÍK, BRNO",top_09
 2020-10-02,10000,DOŠLÁ EXPRES.PLATBA,0,22824294,,Sky Away Resort s.r.,Srdce Jesenického podhůří - darovací smlouva,top_09
 2020-10-02,4591,DOŠLÁ EXPRES.PLATBA,0,30011999,,Miloš Ulrich,"DAR, Miloš Ulrich, Úvaly",top_09
 2020-10-02,3500,DOŠLÁ EXPRES.PLATBA,0,14121984,,"Hošek, Karel",Hošek - dar pro KDU za propagaci vtisku,top_09
-2020-10-01,-7e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
-2020-10-01,-1e+05,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Liberecký kraj",top_09
+2020-10-01,-700000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
+2020-10-01,-100000,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Liberecký kraj",top_09
 2020-10-01,75000,DOŠLÁ PLATBA,308,70869553,,SNK EVROPŠTÍ DEMOKRA,SNK ED  Pardubice - dar,top_09
 2020-09-30,-15.76,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2020-09-30,82.96,KREDITNÍ ÚROK,,,,,,top_09
@@ -413,7 +413,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-09-17,50000,DOŠLÁ PLATBA,0,29071950,,WALD JIRI,dar Jiri Wald,top_09
 2020-09-16,3207,DOŠLÁ EXPRES.PLATBA,0,7027761,,Moravské zemské hnut,"Dar, Moravské zemské hnutí, Dačice,Na Vyhlídce",top_09
 2020-09-14,10000,DOŠLÁ PLATBA,0,42197171,,SKV s.r.o.,"SKV s.r.o.DAR, SKV s.r.o., Dvůr Královénad Labem, Legionářská",top_09
-2020-09-14,1e+05,DOŠLÁ EXPRES.PLATBA,0,18121986,,Viktor Čahoj,"DAR, Viktor Čahoj, Praha",top_09
+2020-09-14,100000,DOŠLÁ EXPRES.PLATBA,0,18121986,,Viktor Čahoj,"DAR, Viktor Čahoj, Praha",top_09
 2020-09-14,80000,DOŠLÁ PLATBA,0,27931161,,LASVIT S.R.O.,"KOMUNARDU 894/32170 00  PRAHA 7, HOLESOVICE, CZ",top_09
 2020-09-11,6300,DOŠLÁ PLATBA,0,25051974,,Janák Tomáš,"DAR, Tomáš Janák, Čelákovice",top_09
 2020-09-10,-3200000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
@@ -421,25 +421,25 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-09-09,-130000,PLATBA - B24,0,71339728,,000000-8555329762/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Kolín Klinecký",top_09
 2020-09-09,80000,DOŠLÁ PLATBA,0,650417,,SOURAL MARCEL,Dar: kandidat do Senatu 2020/21 - Praha 5: Michael Zantovsky,top_09
 2020-09-09,10000,DOŠLÁ PLATBA,0,10041971,,VOŠOUST PETR,"DAR, Petr Vošoust, Hradec Králové",top_09
-2020-09-08,-5e+05,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
+2020-09-08,-500000,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
 2020-09-08,-50000,PLATBA - B24,0,71339728,,000000-8555329682/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Česká Lípa Šmejda",top_09
-2020-09-08,-3e+05,PLATBA - B24,0,71339728,,000000-0008683432/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň kraj Vysočina",top_09
+2020-09-08,-300000,PLATBA - B24,0,71339728,,000000-0008683432/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň kraj Vysočina",top_09
 2020-09-08,10000,DOŠLÁ PLATBA,0,25256394,,KAMAT INVEST S.R.O.,"DAR, KAMAT INVEST s.r.o., Nove Mesto nad Metuji, Na Straznici",top_09
 2020-09-07,10000,DOŠLÁ PLATBA,0,18121972,,SCHALLEROVÁ LUCIE,"DAR, Petr Schaller, Plesná",top_09
 2020-09-07,5000,DOŠLÁ PLATBA,0,,,ONDREJ JONAS,ONDREJ JONASPODPORA KAMPAN,top_09
 2020-09-07,50000,DOŠLÁ PLATBA,0,,,SPURNY TOMAS,Drzime palce!,top_09
-2020-09-07,1e+05,DOŠLÁ PLATBA,0,,,KEJVAL JIŘÍ,,top_09
+2020-09-07,100000,DOŠLÁ PLATBA,0,,,KEJVAL JIŘÍ,,top_09
 2020-09-04,3000,DOŠLÁ PLATBA,0,3031978,,KOTRBACEK VIT,"dar, Vit Kotrbacek, Horice",top_09
 2020-09-04,40000,DOŠLÁ PLATBA,0,15101976,,"Ženíšek Ondřej,Mgr.","DAR, Ondřej Ženíšek, Plzeň",top_09
 2020-09-04,20000,DOŠLÁ EXPRES.PLATBA,558,17081976,,Václav Dejčmar,DAR ZANTOVSKY,top_09
 2020-09-03,20000,DOŠLÁ PLATBA,0,9041992,,Drechslerová Kathar.,"DAR, Katharina Schimmerová Drechslerová, Praha",top_09
-2020-09-03,-5e+05,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
+2020-09-03,-500000,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
 2020-09-03,20000,DOŠLÁ EXPRES.PLATBA,308,1971965,,Sittinger - PODNIK.,Jolana Sittinger,top_09
 2020-09-03,50000,DOŠLÁ PLATBA,0,5350816,,FREMROVÁ EVA MGR.,"DAR, JUDr. Eva Fremrová, advokátníkancelář, Praha",top_09
 2020-09-02,5000,DOŠLÁ PLATBA,0,23111961,,"DATECO, S.R.O.","DAR,Frantisek Famera, Sobotka",top_09
 2020-09-02,25000,DOŠLÁ PLATBA,308,50649,,HERMANN MICHAEL,DAR Michael Hermann Praha,top_09
 2020-09-01,3000,DOŠLÁ EXPRES.PLATBA,0,27560015,,ENVICONS s.r.o.,"DAR, ENVICONS e.r.o., Pardubice, Hradecká",top_09
-2020-09-01,-3e+05,PLATBA - B24,0,71339728,,000000-8555329412/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Rychnov nK Grulich",top_09
+2020-09-01,-300000,PLATBA - B24,0,71339728,,000000-8555329412/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Rychnov nK Grulich",top_09
 2020-09-01,20000,DOŠLÁ PLATBA,0,26111978,,"Ženíšek Marek,PhDr.","DAR, Marek Zeníšek, Plzeň, proPlzeňský kraj",top_09
 2020-09-01,3000,DOŠLÁ PLATBA,0,2041951,,STRANSKY JIRI,"Jiri Stransky, Zamosti-Blata",top_09
 2020-09-01,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 28.08.2020 c 5004JIRIREISINGERDAR ZARI,top_09
@@ -449,7 +449,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-08-31,-2,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
 2020-08-31,116.01,KREDITNÍ ÚROK,,,,,,top_09
 2020-08-31,-28,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
-2020-08-31,1e+05,DOŠLÁ PLATBA,0,8121980,,"Vozobule Michal,Mgr.","DAR, Michal Vozobule, Plzeň",top_09
+2020-08-31,100000,DOŠLÁ PLATBA,0,8121980,,"Vozobule Michal,Mgr.","DAR, Michal Vozobule, Plzeň",top_09
 2020-08-31,5000,DOŠLÁ PLATBA,308,22111965,,ŠVORC ZDENĚK,"DAR, Zdeněk Švorc, Staré Hrady",top_09
 2020-08-31,5000,DOŠLÁ PLATBA,0,10041965,,"Gregora Martin,MUDr.","DAR, Martin Gregora, Strakonice",top_09
 2020-08-31,80000,DOŠLÁ PLATBA,0,20061966,,CABICAR ALES,"Dar, Ales Cabicar, Nachod",top_09
@@ -465,19 +465,19 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-08-21,20000,DOŠLÁ PLATBA,0,2101976,,Ženíšková Mainzerová,"DAR pro Plzeňský kraj, Věra Ženíšková Mainzerová",top_09
 2020-08-21,150000,DOŠLÁ PLATBA,0,28081972,,ROUBAL JAN,"DAR, Jan Roubal, Plzen",top_09
 2020-08-21,10000,DOŠLÁ PLATBA,0,22021969,,"Krůček Petr,Ing.","DAR, Petr Krucek, Tabor",top_09
-2020-08-20,2e+05,DOŠLÁ PLATBA,0,24111975,,POSPISIL JIRI,"DAR, JIRI POSPISIL PRAHA",top_09
+2020-08-20,200000,DOŠLÁ PLATBA,0,24111975,,POSPISIL JIRI,"DAR, JIRI POSPISIL PRAHA",top_09
 2020-08-20,100,DOŠLÁ PLATBA,0,19111992,,Václav Bača,"DAR, Václav Bača , Jarcová",top_09
 2020-08-20,20000,DOŠLÁ PLATBA,308,240872,,KOČÍ ALEŠ,Aleš Kočí,top_09
 2020-08-19,150000,DOŠLÁ PLATBA,0,13071971,,Vít Martin,"DAR, Martin Vít, Plzeň",top_09
 2020-08-17,20000,DOŠLÁ PLATBA,0,28021954,,Padalíková Svatava,"DAR, Ing.Padalíková, M.Krumlov",top_09
-2020-08-17,1e+05,DOŠLÁ EXPRES.PLATBA,0,16041982,,TRNKA TOMAS,"DAR, Tomáš Trnka, Plzeň",top_09
+2020-08-17,100000,DOŠLÁ EXPRES.PLATBA,0,16041982,,TRNKA TOMAS,"DAR, Tomáš Trnka, Plzeň",top_09
 2020-08-17,10000,DOŠLÁ PLATBA,0,5041988,,MARTIN PROCHAZKA,"MARTIN PROCHAZKADAR, MARTIN PROCHÁZKA, CHYŠKY",top_09
 2020-08-14,5000,DOŠLÁ PLATBA,0,26071985,,"Putnová Romana,Ing.","DAR, Romana Matula, Kučerov",top_09
 2020-08-14,2000,DOŠLÁ PLATBA,0,30041974,,LOJAN PETR,"dar, Petr Lojan, Hradec Kralove",top_09
 2020-08-14,-20000.03,PLATBA - B24,0,150836,,000000-1917470033/0800,"TOP 09, vrácení platby ze dne 13.8.2020 Drechslerová Kathar., vč.úrok.zhodnocení",top_09
 2020-08-14,-80000.11,PLATBA - B24,0,0,,000000-2107968803/2700,"TOP 09, vrácení platby ze dne 13.8.2020 TOMEK ONDŘEJ, vč.úrok. zhodnocení",top_09
 2020-08-14,4000,DOŠLÁ EXPRES.PLATBA,0,8121976,,FILIPČÍKOVÁ RADKA,"DAR, Radka Filipčíková, Hnojice",top_09
-2020-08-13,2e+05,DOŠLÁ PLATBA,0,24111975,,POSPISIL JIRI,"DAR, JIRI POSPISIL PRAHA",top_09
+2020-08-13,200000,DOŠLÁ PLATBA,0,24111975,,POSPISIL JIRI,"DAR, JIRI POSPISIL PRAHA",top_09
 2020-08-13,25000,DOŠLÁ PLATBA,0,11061965,,ŠMEJDA LIBOR,"DAR, Libor Šmejda, Česká Lípa",top_09
 2020-08-13,20000,DOŠLÁ PLATBA,0,150836,,Drechslerová Kathar.,,top_09
 2020-08-13,40000,DOŠLÁ EXPRES.PLATBA,0,26051975,,GRULICH JAN,"DAR, Jan Grulich, Sedloňov",top_09
@@ -488,7 +488,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-08-12,10000,DOŠLÁ EXPRES.PLATBA,0,15061984,,Petra Dokládalová,DAR,top_09
 2020-08-11,40000,DOŠLÁ PLATBA,0,6061980,,Klinecký Tomáš,"Klinecký TomášDar, Tomáš Klinecký, Český Brod",top_09
 2020-08-11,-3800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
-2020-08-11,-3e+05,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
+2020-08-11,-300000,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
 2020-08-11,-30000,PLATBA - B24,0,71339728,,000000-8555329682/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Česká Lípa Šmejda",top_09
 2020-08-10,3000,DOŠLÁ PLATBA,0,20081968,,SROM ZBYNEK,,top_09
 2020-08-07,80000,DOŠLÁ PLATBA,0,6061980,,Klinecký Tomáš,"Klinecký TomášDar, Tomáš Klinecký, Český Brod",top_09
@@ -508,7 +508,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-07-30,8600,DOŠLÁ PLATBA,0,24051987,,Matek Štěpán,"DAR, Štěpán Matek, Jablonec n.N.",top_09
 2020-07-30,4000,DOŠLÁ PLATBA,0,1061971,,NETUSIL PAVEL,"DAR, Pavel Netusil, Pribor",top_09
 2020-07-29,10000,DOŠLÁ PLATBA,0,15041976,,Čábelková Alexandra,"DAR, Alexandra Čábelková, Drahlín",top_09
-2020-07-29,1e+05,DOŠLÁ EXPRES.PLATBA,0,30071978,,Radim Fiala,"DAR, Radim Fiala, Liberec",top_09
+2020-07-29,100000,DOŠLÁ EXPRES.PLATBA,0,30071978,,Radim Fiala,"DAR, Radim Fiala, Liberec",top_09
 2020-07-29,-1200000,PLATBA - B24,0,71339728,,000000-0008628062/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Středočeský kraj",top_09
 2020-07-29,20000,DOŠLÁ PLATBA,8,15101962,,GRÉZL JAN - HARYSERV,TOP 09,top_09
 2020-07-29,20000,DOŠLÁ EXPRES.PLATBA,0,31031971,,TULEJA PAVEL,"DAR, Pavel Tuleja, Havířov",top_09
@@ -535,7 +535,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-07-23,10000,DOŠLÁ PLATBA,0,20091985,,Šimo Michal,"DAR, Michal Šimo, Žďár nad Sázavou",top_09
 2020-07-22,10000,DOŠLÁ PLATBA,0,21091959,5909210846,"Šenovský Tomáš,Ing","DAR OD TOMÁŠ ŠENOVSKÝ , ČELADNÁ 746",top_09
 2020-07-22,2000,DOŠLÁ PLATBA,0,27101981,,Valentová Jana,"Dar Jana Valentová, U Borku 447Bradlec",top_09
-2020-07-22,-2e+05,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
+2020-07-22,-200000,PLATBA - B24,0,71339728,,000000-8555329252/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihomoravský kraj",top_09
 2020-07-22,2000,DOŠLÁ PLATBA,0,24051988,,SKOLOUD MAREK,"Dar, Marek Skoloud, Pribram",top_09
 2020-07-22,-75002.05,PLATBA - B24,0,24041952,,000086-2549900267/0100,"TOP 09, vrácení platby z 2.7.2020,DAR, Jiřina Kotučová, Kyjov, vč.úrok. zhodnocení",top_09
 2020-07-22,17500,DOŠLÁ PLATBA,0,24232831,,MARK-M-STEEL PROFI S,"DAR,Mark-M-Steel Profi s.r.o., Ostrava, Nadrazni",top_09
@@ -560,14 +560,14 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-07-10,50000,DOŠLÁ PLATBA,0,7811262074,,"Ženíšek Marek,PhDr.","DAR, Marek Ženíšek, Plzeň, DAR prokraj Praha",top_09
 2020-07-10,20000,DOŠLÁ EXPRES.PLATBA,0,20111974,,BALCAR JAN,"DAR, Jan Balcar, Libňatov",top_09
 2020-07-10,7000,DOŠLÁ PLATBA,0,13071974,,ŠVENDA VÁCLAV,"DAR, Václav Švenda, Příbram",top_09
-2020-07-08,-1e+05,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihočeský kraj",top_09
+2020-07-08,-100000,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihočeský kraj",top_09
 2020-07-07,25000,DOŠLÁ EXPRES.PLATBA,308,,29365911,AZ Tender s.r.o.,DAR  Vitula,top_09
 2020-07-03,5000,DOŠLÁ EXPRES.PLATBA,0,25041980,,TEPLY LUKAS,"dar, Lukáš Teplý, Vrchlabí",top_09
 2020-07-03,10000,DOŠLÁ EXPRES.PLATBA,0,12081976,,DUŠEK MAREK,"DAR, Marek Dušek, Janské Lázně",top_09
 2020-07-02,17000,DOŠLÁ PLATBA,0,4659830,,"KOPVER-Profi, s.r.o.","DAR, KOPVER-Profi, s.r.o., VelkáBíteš, Masarykovo náměstí",top_09
 2020-07-02,2000,DOŠLÁ PLATBA,308,2121972,,MACHART KAMIL,"DAR, Kamil Machart, Beroun(na stredoceskou volebni kampan)",top_09
 2020-07-02,14000,DOŠLÁ PLATBA,558,13111964,,VELÍŠKOVÁ MONIKA,"DAR, Zdeněk Velíšek, Kamenice nad Lipou",top_09
-2020-07-02,-1e+05,PLATBA - B24,0,71339728,,000000-0008683432/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň kraj Vysočina",top_09
+2020-07-02,-100000,PLATBA - B24,0,71339728,,000000-0008683432/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň kraj Vysočina",top_09
 2020-07-02,75000,DOŠLÁ PLATBA,0,24041952,,KOTUČOVÁ JIŘINA,"DAR, Jiřina Kotučová, Kyjov",top_09
 2020-07-01,2000,DOŠLÁ PLATBA,0,28081957,,FRANTISEK STANEK,"FRANTISEK STANEKDAR, FRANTIŠEK STANĚK, HRADEC KRÁLOVÉ",top_09
 2020-07-01,50000,DOŠLÁ PLATBA,0,6091966,,RICHTER PAVEL,DAR,top_09
@@ -588,7 +588,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-06-30,20000,DOŠLÁ EXPRES.PLATBA,0,26111978,,"Ženíšek, Marek","DAR, Marek Ženíšek, Plzeň",top_09
 2020-06-30,500,DOŠLÁ PLATBA,0,14071985,,Dolejší Lucie,Dolejší LucieDar Martin Dolejší,top_09
 2020-06-30,-12,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
-2020-06-30,-2e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 1 Němcová",top_09
+2020-06-30,-200000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 1 Němcová",top_09
 2020-06-29,30000,DOŠLÁ PLATBA,0,26968657,,REISTAV CZ S.R.O.,dar na volby JMK ( vitula ),top_09
 2020-06-29,10000,DOŠLÁ PLATBA,0,11031966,,KOŘENÁŘ PETR,DAR Petr Kořenář Humpolec,top_09
 2020-06-29,2000,DOŠLÁ EXPRES.PLATBA,0,20111974,,BALCAR JAN,"DAR, Jan Balcar, Libňatov",top_09
@@ -623,8 +623,8 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-06-24,10000,DOŠLÁ PLATBA,0,25516183,,REMAT LETOVICE S.R.O,DAR- Příspěvek na volby JMK (Vitula),top_09
 2020-06-24,15000,DOŠLÁ EXPRES.PLATBA,0,1061996,,"Neřád, Michal","DAR, Michal Neřád, Kroměříž",top_09
 2020-06-24,2000,DOŠLÁ EXPRES.PLATBA,0,19041978,,Mgr. Tomáš Búry,"dar, Tomáš Búry, Benátky",top_09
-2020-06-24,-3e+05,PLATBA - B24,0,71339728,,000000-0008683352/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet Senát TOP 09",top_09
-2020-06-24,-5e+05,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
+2020-06-24,-300000,PLATBA - B24,0,71339728,,000000-0008683352/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet Senát TOP 09",top_09
+2020-06-24,-500000,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
 2020-06-24,2000,DOŠLÁ PLATBA,0,10041971,,VOŠOUST PETR,"dar, Petr Vošoust, Hradec Králové",top_09
 2020-06-24,5000,DOŠLÁ EXPRES.PLATBA,0,26894556,,"LIMARA PLUS, S.R.O","DAR LIMARA Plus, s r. o.. Kunštát Újezd",top_09
 2020-06-24,10000,DOŠLÁ PLATBA,0,29031975,,"Novotný Petr,Mgr.",Dar na volby Jmk Novotný,top_09
@@ -637,7 +637,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-06-23,20000,DOŠLÁ PLATBA,0,24051958,,DVORAKOVA MARIE,"Dar,Marie Dvorakova, Mnich",top_09
 2020-06-23,1200,DOŠLÁ PLATBA,0,14121993,,KOVÁŘOVÁ ZUZANA,"SB: 23.06.20/13:26:40 0472774647Zuzana Kovářová, DAR",top_09
 2020-06-23,2000,DOŠLÁ EXPRES.PLATBA,0,49981552,,ING. JIŘÍ ROD,"DAR, Ing. Jiří Rod, Havlíčkův Brod,P. F. Ledvinky",top_09
-2020-06-23,-3e+05,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Liberecký kraj",top_09
+2020-06-23,-300000,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Liberecký kraj",top_09
 2020-06-22,10000,DOŠLÁ PLATBA,0,23041994,,"Matějka Jan,Bc.","DAR, Jan Matějka, Havlíčkův Brod",top_09
 2020-06-22,25000,DOŠLÁ PLATBA,0,7071974,,KUTINOVÁ BLANKA,"DAR, Blanka Kutinová, Třebíč",top_09
 2020-06-22,15000,DOŠLÁ PLATBA,0,8051956,,Řezníček Jiří,"Řezníček JiříDAR, Jiří Řezníček, Ústí nad Orlicí",top_09
@@ -665,18 +665,18 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-06-10,3000,DOŠLÁ PLATBA,0,28041982,,Brabec Michal,"DAR, Michal Brabec, Ostrava",top_09
 2020-06-10,20000,DOŠLÁ PLATBA,0,12021987,,Matěj Ondřej Havel,"dar, Matěj Ondřej Havel, Hradec Králové",top_09
 2020-06-08,2000,DOŠLÁ PLATBA,0,22021968,,SULC PETR,"dar, Petr Sulc, Bakov n. J.",top_09
-2020-06-08,-3e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
-2020-06-08,-3e+05,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Znojmo Třetina",top_09
+2020-06-08,-300000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Praha 5 Žantovský",top_09
+2020-06-08,-300000,PLATBA - B24,0,71339728,,000000-0008683192/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Senát Znojmo Třetina",top_09
 2020-06-08,40000,DOŠLÁ PLATBA,308,17051960,,Vlastimil Válek,"DAR, Vlastimil Válek, Brno",top_09
 2020-06-08,5000,DOŠLÁ PLATBA,0,30101972,,PERTHEN ERVIN,"dar, Ervin Perthen, HradecKralove",top_09
 2020-06-08,2000,DOŠLÁ PLATBA,0,17041966,,LAZAROVA DANIELA,"dar , Jiri Lazar, Dymokury,Revolucni 53",top_09
 2020-06-05,-3800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
-2020-06-05,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2020-06-05,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2020-06-04,50000,DOŠLÁ PLATBA,0,19031976,,Jakubec Aleš,"Jakubec AlešDAR, Aleš Jakubec, Olomouc",top_09
 2020-06-03,50000,DOŠLÁ EXPRES.PLATBA,308,5081964,,Mgr. Zdeňka Blišťano,"DAR, Zdeňka Blišťanová, Jeseník",top_09
-2020-06-02,-3e+05,PLATBA - B24,0,71339728,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
-2020-06-02,-5e+05,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
-2020-06-02,-2e+05,PLATBA - B24,0,71339728,,000000-0008683352/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet Senát TOP 09",top_09
+2020-06-02,-300000,PLATBA - B24,0,71339728,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
+2020-06-02,-500000,PLATBA - B24,0,71339728,,000000-0008683272/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro volební výdaje zastupitelstva krajů TOP 09",top_09
+2020-06-02,-200000,PLATBA - B24,0,71339728,,000000-0008683352/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet Senát TOP 09",top_09
 2020-06-02,5000,DOŠLÁ PLATBA,0,27061978,,WOLF PETR,DAR Petr Wolf Černošice,top_09
 2020-06-01,1000,DOŠLÁ PLATBA,0,5953111538,,SVOBODOVÁ DAGMAR,DAR PPP-PhDr.Dagmar Svobodová-TOP095-20,top_09
 2020-05-29,-21.05,SRÁŽKOVÁ DAŇ,,,,-,,top_09
@@ -686,7 +686,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-05-29,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2020-05-28,5000,DOŠLÁ PLATBA,0,25051957,,NĚMEC DAVID,"SB: 28.05.20/13:06:15 0468994321""dar"", MUDr. Milos Rejmont, Turnov",top_09
 2020-05-28,3000,DOŠLÁ PLATBA,0,25041966,,MACK TOMAS,DAR,top_09
-2020-05-27,2e+05,VKLAD BANKOVKY CZK/CZK,540,31031972,,,,top_09
+2020-05-27,200000,VKLAD BANKOVKY CZK/CZK,540,31031972,,,,top_09
 2020-05-27,15000,DOŠLÁ PLATBA,0,15041963,,MOLENOVÁ IVA,"DAR, Iva Molenová, Praha",top_09
 2020-05-27,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410493 25.05.2020 c 3015*/J IRIDAR CERVEN,top_09
 2020-05-26,5000,DOŠLÁ PLATBA,0,10031986,,Veronika Tomková,"dar, Veronika Tomková, Dvůr Královénad Labem",top_09
@@ -697,13 +697,13 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-05-20,10000,DOŠLÁ PLATBA,0,19,,LAUSCH IVO,DAR,top_09
 2020-05-20,100,DOŠLÁ PLATBA,0,19111992,,Václav Bača,"DAR, Václav Bača , Jarcová",top_09
 2020-05-12,112500,DOŠLÁ PLATBA,0,,,STAROSTOV? A NEZÁVIS,"Dar STAN - podíl za mandát senátora(Bek, Drahoš) za 1. čtvrtletí 2020",top_09
-2020-05-12,-1e+05,PLATBA - B24,0,71339728,,000000-0008628062/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Středočeský kraj",top_09
+2020-05-12,-100000,PLATBA - B24,0,71339728,,000000-0008628062/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Středočeský kraj",top_09
 2020-05-12,40000,DOŠLÁ PLATBA,0,580104,,PAVERA HERBERT,"Herbert Pavera, Bolatice",top_09
 2020-05-11,150000,DOŠLÁ PLATBA,0,,,Dynamic Products s.r,"dar krajská organizace TOP 09 Ústecký kraj, kampaň",top_09
-2020-05-11,-4e+05,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihočeský kraj",top_09
+2020-05-11,-400000,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Jihočeský kraj",top_09
 2020-05-11,40000,DOŠLÁ PLATBA,0,14101963,,Langšádlová Helena,Dar Helena Langšádlová Černošice,top_09
 2020-05-06,8700,DOŠLÁ PLATBA,0,13031979,,"Toman Jan,Ing.arch.","Dar, Jan Toman, Plzeň",top_09
-2020-05-05,-1e+05,PLATBA - B24,0,,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
+2020-05-05,-100000,PLATBA - B24,0,,,000000-0008627502/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Královéhradecký kraj",top_09
 2020-04-30,-2,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
 2020-04-30,-17.13,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2020-04-30,-4,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
@@ -716,13 +716,13 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-04-24,6500000,DOŠLÁ PLATBA,6418,7652020,,MF,,top_09
 2020-04-22,40000,DOŠLÁ PLATBA,0,4031962,,CZERNIN TOMÁŠ,"DAR, Tomáš Czernin, Dymokury",top_09
 2020-04-22,150000,DOŠLÁ PLATBA,0,16011969,,MIVALT PETR ING.,"DAR, Petr Mívalt, Brno",top_09
-2020-04-21,-1e+05,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Liberecký kraj",top_09
+2020-04-21,-100000,PLATBA - B24,0,71339728,,000000-0008623712/0800,"TOP 09, převod z účtu pro přijímánídarů na volební účet - vklad na společnou koaliční volební kampaň Liberecký kraj",top_09
 2020-04-21,-3100000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2020-04-20,100,DOŠLÁ PLATBA,0,19111992,,Václav Bača,"DAR, Václav Bača , Jarcová",top_09
 2020-04-15,30000,DOŠLÁ EXPRES.PLATBA,0,18051986,,"Wagner, Jiří","DAR, Jiří Wagner, Teplice",top_09
 2020-04-14,10000,DOŠLÁ PLATBA,308,30051962,,Roman Šťastný,"DAR, Roman Šťastný, Štětí",top_09
 2020-04-07,1000,DOŠLÁ PLATBA,0,,,Uchytil Jan,"DAR, Jan Uchytil, Přeckov",top_09
-2020-04-02,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2020-04-02,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2020-04-01,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410493 30.03.2020 c 2003JIRIREISINGERDAR DUBEN,top_09
 2020-03-31,-18.63,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2020-03-31,98.06,KREDITNÍ ÚROK,,,,,,top_09
@@ -742,7 +742,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-02-26,30000,DOŠLÁ PLATBA,558,21121967,,MATERNA JAN,"DAR, Jan Materna, Praha",top_09
 2020-02-25,8500,DOŠLÁ PLATBA,308,22111965,,ŠVORC ZDENĚK,"DAR, Zdeněk Švorc, Staré Hrady",top_09
 2020-02-24,50510,DOŠLÁ PLATBA,0,30071968,,KORBA KAREL,"DAR, Karel Korba, Praha",top_09
-2020-02-19,-3e+06,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2020-02-19,-3000000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2020-02-19,1000,DOŠLÁ PLATBA,0,9081953,,Jana Hrubcová,"DAR, Jana Hrubcová, Prachatice",top_09
 2020-02-12,50000,DOŠLÁ PLATBA,0,10051988,,Jan Chabr,"dar, jan chabr, praha",top_09
 2020-02-03,30000,DOŠLÁ EXPRES.PLATBA,0,23091986,,Martin Jedlička,"DAR, Martin Jedlička, Praha",top_09
@@ -755,7 +755,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-01-31,-8,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2020-01-31,-700,POPLATEK POTVRZ.AUDIT,,,,-,,top_09
 2020-01-31,-147,DPH,,,,-,,top_09
-2020-01-28,1e+05,DOŠLÁ PLATBA,0,17121960,,KALOUSEK MIROSLAV,DAR  MIROSLAV KALOUSEK,top_09
+2020-01-28,100000,DOŠLÁ PLATBA,0,17121960,,KALOUSEK MIROSLAV,DAR  MIROSLAV KALOUSEK,top_09
 2020-01-28,20000,DOŠLÁ PLATBA,0,10041987,,KUBÍČEK PETR,"DAR, Petr Kubíček, Praha",top_09
 2020-01-27,2000,DOŠLÁ PLATBA,0,20111974,,BALCAR JAN,"INT: 24.01.20/16:39:15 0451507428DAR, Jan Balcar, Libňatov",top_09
 2020-01-24,11000,DOŠLÁ PLATBA,0,17071981,,TOMAS JILECEK,"TOMAS JILECEKDAR, TOMÁŠ JILEČEK, PRAHA",top_09
@@ -768,8 +768,8 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2020-01-13,4736,DOŠLÁ PLATBA,0,442704,,KDU-ČSL,KDU-ČSL JHČ,top_09
 2020-01-08,16000,DOŠLÁ PLATBA,0,3061980,,LOJDA RADEK,"Dar, Radek Lojda, Praha",top_09
 2020-01-08,30000,DOŠLÁ PLATBA,0,19081977,,TOMAS TATRANSKY,"TOMAS TATRANSKYDAR, TOMÁŠ TATRANSKÝ, PRAHA",top_09
-2020-01-08,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
-2020-01-08,-3e+06,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2020-01-08,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2020-01-08,-3000000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2020-01-07,-350,POPLATEK,898,,,141057-0071700506/0800,obn. certifikátu-L.Tito,top_09
 2020-01-07,350,ŽÁDOST O INKASO,898,,,,obn. certifikátu-L.Tito,top_09
 2020-01-02,100,VKLAD 3.OSOBOU BANKOV CZK,540,,,,,top_09
@@ -794,7 +794,7 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2019-12-09,30000,DOŠLÁ PLATBA,0,8051963,,GRUNDLER MICHAEL,"INT: 03.12.19/15:55:02 0444393198DAR, Michael Grundler, Praha",top_09
 2019-12-09,32500,DOŠLÁ PLATBA,308,7011956,,"Janda Tomáš,Ing.","DAR,Hana Jandová, pro RO Praha 12",top_09
 2019-12-06,10000,DOŠLÁ PLATBA,0,19051978,,Vácha Filip,,top_09
-2019-12-04,-3e+06,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2019-12-04,-3000000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2019-12-03,18000,DOŠLÁ PLATBA,0,28011970,,Martin Dlouhý,"DAR, Martin Dlouhý, Praha",top_09
 2019-11-29,-21.94,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2019-11-29,115.45,KREDITNÍ ÚROK,,,,,,top_09
@@ -817,14 +817,14 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2019-10-31,106.68,KREDITNÍ ÚROK,,,,,,top_09
 2019-10-31,-20.27,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2019-10-31,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
-2019-10-31,1e+05,DOŠLÁ PLATBA,0,6051955,,"Vozobule Milan,MUDr.","DAR, Milan Vozobule, Plzeň",top_09
+2019-10-31,100000,DOŠLÁ PLATBA,0,6051955,,"Vozobule Milan,MUDr.","DAR, Milan Vozobule, Plzeň",top_09
 2019-10-31,-2,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
 2019-10-31,-4,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2019-10-29,12000,DOŠLÁ PLATBA,0,4011958,,PAVERA HERBERT,"Herbert Pavera, Bolatice",top_09
 2019-10-21,20000,DOŠLÁ PLATBA,0,,,Štíchová Daniela,Stichova Daniela na zaklade sml,top_09
 2019-10-21,30000,DOŠLÁ PLATBA,0,5051965,,Hergottová Iveta,"DAR, Iveta Hergottová, Praha",top_09
 2019-10-14,30000,DOŠLÁ PLATBA,0,5021978,,KOLMANOVÁ IRENA,"DAR, Kolmanová Irena, Praha",top_09
-2019-10-11,-3e+06,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2019-10-11,-3000000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2019-10-11,20000,DOŠLÁ PLATBA,0,5121978,,PETR SUCHY,"PETR SUCHYDAR PRAHA, PETR SUCHY, PLZEŇ",top_09
 2019-10-10,1500,DOŠLÁ PLATBA,0,25081977,,NOVOTNY PETR,"DAR, Petr Novotny, Ceske Budejovice",top_09
 2019-10-10,20000,DOŠLÁ PLATBA,0,17051988,,STANISLAV ZEMAN,"STANISLAV ZEMANDAR, STANISLAV ZEMAN, KOZOLUPY",top_09
@@ -846,15 +846,15 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2019-09-27,50000,DOŠLÁ PLATBA,0,4031976,,NOVÁKOVÁ MARCELA,,top_09
 2019-09-26,10000,DOŠLÁ PLATBA,0,3061980,,LOJDA RADEK,"DAR, Radek Lojda, Praha",top_09
 2019-09-26,50000,DOŠLÁ PLATBA,558,15051955,,NOVAKOVA MARIE,208249,top_09
-2019-09-25,1e+05,DOŠLÁ PLATBA,0,1031991,,Pecka Robert,"DAR, Robert Pecka, Praha",top_09
+2019-09-25,100000,DOŠLÁ PLATBA,0,1031991,,Pecka Robert,"DAR, Robert Pecka, Praha",top_09
 2019-09-25,10000,DOŠLÁ PLATBA,0,29061984,,Skalová Nikola,"DAR, Nikola Skalova, Obora",top_09
 2019-09-18,20000,DOŠLÁ PLATBA,0,28011970,,Martin Dlouhý,"DAR, Martin Dlouhý, Praha",top_09
 2019-09-16,50000,DOŠLÁ PLATBA,0,1031958,,"Vaculíková Dana,Ing.","DAR, Jaromír Vaculík, Praha",top_09
 2019-09-10,50000,DOŠLÁ PLATBA,0,3061980,,LOJDA RADEK,"DAR, Radek Lojda, Praha",top_09
 2019-09-05,8097,DOŠLÁ PLATBA,9944,15071953,,SLEZAK LIBOR,"DAR, Libor Slezak, Pardubice",top_09
-2019-09-05,-8e+05,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
+2019-09-05,-800000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2019-09-04,500,DOŠLÁ PLATBA,0,17061986,,"Sláma, Michal","DAR, Michal Sláma, Pardubice",top_09
-2019-09-03,-3e+06,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2019-09-03,-3000000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2019-08-30,92.14,KREDITNÍ ÚROK,,,,,,top_09
 2019-08-30,-4,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
 2019-08-30,-17.51,SRÁŽKOVÁ DAŇ,,,,-,,top_09
@@ -862,5 +862,5 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2019-08-30,-8,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2019-08-26,20000,DOŠLÁ PLATBA,0,15101976,,"Ženíšek Ondřej,Mgr.","DAR, Ondřej Ženíšek, Plzeň, volby do EP",top_09
 2019-08-26,30000,DOŠLÁ PLATBA,0,6061990,,Michal Štěpař,"DAR, Michal Štěpař, Praha",top_09
-2019-08-26,1e+05,DOŠLÁ PLATBA,0,28081972,,ROUBAL JAN,"DAR, Jan Roubal, Plzen",top_09
-2019-08-26,1e+05,DOŠLÁ PLATBA,0,6101960,,MUDr. Miroslava Chab,"DAR, Miroslava Chabrová,",top_09
+2019-08-26,100000,DOŠLÁ PLATBA,0,28081972,,ROUBAL JAN,"DAR, Jan Roubal, Plzen",top_09
+2019-08-26,100000,DOŠLÁ PLATBA,0,6101960,,MUDr. Miroslava Chab,"DAR, Miroslava Chabrová,",top_09

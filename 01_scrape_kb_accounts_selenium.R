@@ -17,18 +17,18 @@ options(scipen = 999)
 initiate_docker_container_and_connect <- function(address, host_port, container_port) {
 
   # Pull the necessary Docker image
- # system("docker pull selenium/standalone-firefox:3.141.59")
+ system("docker pull selenium/standalone-firefox:3.141.59")
 
-  # Start the Docker container
-  # system(paste0(
-  #   "docker run --rm -d --name selenium_headless -p ",
-  #   host_port,
-  #   ":",
-  #   container_port,
-  #   " -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59"
-  # ),
-  # wait = TRUE
-  # )
+ # Start the Docker container
+  system(paste0(
+    "docker run --rm -d --name selenium_headless -p ",
+    host_port,
+    ":",
+    container_port,
+    " -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59"
+  ),
+  wait = TRUE
+  )
 
   # Connect to a Docker instance of headless Firefox server
   remote_driver <- remoteDriver(
@@ -265,7 +265,7 @@ close_browser_and_docker_container <- function(remote_driver) {
   remote_driver$quit()
 
   # Stop the Docker container
- # system("docker stop selenium_headless")
+ system("docker stop selenium_headless")
 }
 
 ## 6. Inputs for the KB extraction function

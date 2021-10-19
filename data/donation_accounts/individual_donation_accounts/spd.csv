@@ -5,8 +5,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-10-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
 2021-10-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2021-10-13,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
-2021-10-13,-3e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-10-13,-4000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-13,-300000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-10-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
 2021-10-11,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
 2021-10-11,300,Bezhotovostní příjem,GOLCOVA SVETLANA,Platce 1532,,27201,,GOLCOVA SVETLANA,spd
@@ -14,8 +14,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-11,50000,Bezhotovostní příjem,POSAROVA MARIE,Posarova dar,,30100,,POSAROVA MARIE,spd
 2021-10-09,1,Platba převodem uvnitř banky,"Konečný, Erik","Dost zajímavé svědectví,bývalého vysokého člena SPD!!! (od 7.minuty) https://www.youtube.com/watch?v=eLhHhPAQeVw",,,,"Dost zajímavé svědectví,bývalého vysokého člena SPD!!! (od 7.minuty) https://www.youtube.com/watch?v=eLhHhPAQeVw",spd
 2021-10-07,3000,Platba převodem uvnitř banky,"Ing. Bouda, Miloš","příspěvek na volby 21 - ing. Miloš Bouda čl. pr. 3034 a Hana Boudová čl.pr. 3033, Plzeň-Radčice, V břízkách  121 E, Plzeň 325 00",,,,"příspěvek na volby 21 - ing. Miloš Bouda čl. pr. 3034 a Hana Boudová čl.pr. 3033, Plzeň-Radčice, V břízkách  121 E, Plzeň 325 00",spd
-2021-10-07,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
-2021-10-06,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-07,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-06,-4000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-10-06,-1000,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
 2021-10-06,-20004.08,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce + úrok,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
 2021-10-05,9637500,Bezhotovostní příjem,MF,,6418,180152021,0,MF,spd
@@ -31,11 +31,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-29,-111,Platba převodem uvnitř banky,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2021-09-29,-399,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
 2021-09-29,-130,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
-2021-09-29,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-29,-200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-28,0.01,Okamžitá příchozí platba,Petr Kolář,"Ne ne a ne Pitomio,ani na Vanoce zadnou koledu ve tve mešitě nezazpivam",,,,Petr Kolář,spd
 2021-09-28,1,Platba převodem uvnitř banky,"Konečný, Erik",Přidejte se k šíření povědomí o Registru postižených vakcínami - zmínil M.Obrtel: 17min https://www.youtube.com/watch?v=ivbtrsmCjJ8,,,,Přidejte se k šíření povědomí o Registru postižených vakcínami - zmínil M.Obrtel: 17min https://www.youtube.com/watch?v=ivbtrsmCjJ8,spd
 2021-09-27,10000,Okamžitá příchozí platba,PaedDr.Krumer Vladis,DAR KRUMERSPD VOLBY,0,30100,,PaedDr.Krumer Vladis,spd
-2021-09-23,-1e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-23,-100000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-23,-10000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-09-23,40000,Okamžitá příchozí platba,JUDr. JOSEF PŘIKRYL,,,77900,,JUDr. JOSEF PŘIKRYL,spd
 2021-09-23,1,Platba převodem uvnitř banky,"Konečný, Erik",Volný bloku: Zkuste získat Soňu Pekovou. Principy přímé demokracie...a asi byste koukali jak veliké kvantum nevoličů přitáhne!,,,,Volný bloku: Zkuste získat Soňu Pekovou. Principy přímé demokracie...a asi byste koukali jak veliké kvantum nevoličů přitáhne!,spd
@@ -46,14 +46,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-22,1,Platba převodem uvnitř banky,"Konečný, Erik","Podnět: S právě popsanými principy se pak lze spojovat bez stranické příslušnosti a tím univerzálně,Ostatně oblíbenost tzv. úřednických vlád",,,,"Podnět: S právě popsanými principy se pak lze spojovat bez stranické příslušnosti a tím univerzálně,Ostatně oblíbenost tzv. úřednických vlád",spd
 2021-09-22,1,Platba převodem uvnitř banky,"Konečný, Erik","Podnět: Nahrazení politiky,řízením odborníky.Vlastnictví garancemi jistot a optimalizacemi technologií - principy geniálního Jacque Fresco",,,,"Podnět: Nahrazení politiky,řízením odborníky.Vlastnictví garancemi jistot a optimalizacemi technologií - principy geniálního Jacque Fresco",spd
 2021-09-21,20000,Bezhotovostní příjem,Dana Černá,dar,0,1062021,,Dana Černá,spd
-2021-09-20,1e+05,Okamžitá příchozí platba,Petra Svedíková Vávr,Petra Svedikova Vavrova,0,60200,,Petra Svedíková Vávr,spd
+2021-09-20,100000,Okamžitá příchozí platba,Petra Svedíková Vávr,Petra Svedikova Vavrova,0,60200,,Petra Svedíková Vávr,spd
 2021-09-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,,spd
 2021-09-17,50000,Platba převodem uvnitř banky,"JUDr. Paul, Petr",DAR -  PETR PAUL,308,58601,,DAR -  PETR PAUL,spd
 2021-09-17,25000,Bezhotovostní příjem,BAŠTA JAROSLAV,DAR Jaroslav Bašta,0,53002,0,BAŠTA JAROSLAV,spd
 2021-09-17,0.01,Okamžitá příchozí platba,Petr Kolář,"Ne ne a ne Pitomio,uz ti nezazpivam.",,,,Petr Kolář,spd
 2021-09-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
-2021-09-17,1e+05,Bezhotovostní příjem,OKAMURA TOMIO,DAR,308,1,0,OKAMURA TOMIO,spd
-2021-09-16,-4e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-09-17,100000,Bezhotovostní příjem,OKAMURA TOMIO,DAR,308,1,0,OKAMURA TOMIO,spd
+2021-09-16,-400000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-16,50000,Bezhotovostní příjem,POSAROVA MARIE,Posarova dar,,30100,,POSAROVA MARIE,spd
 2021-09-16,40,Bezhotovostní příjem,Martin Trubka,dar na činnost,,,,Martin Trubka,spd
 2021-09-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,KREJCAROVA JITKA,spd
@@ -62,37 +62,37 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-09-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
 2021-09-15,25000,Bezhotovostní příjem,SABÁK TOMÁŠ,Dar Tomáš Sabák,0,11000,0,SABÁK TOMÁŠ,spd
 2021-09-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2021-09-15,1e+05,Bezhotovostní příjem,JOSEF NERUSIL,DAR - PŘÍSPĚVEK NA KAMPAŇ V PRAZE,,11000,,JOSEF NERUSIL,spd
+2021-09-15,100000,Bezhotovostní příjem,JOSEF NERUSIL,DAR - PŘÍSPĚVEK NA KAMPAŇ V PRAZE,,11000,,JOSEF NERUSIL,spd
 2021-09-14,999,Okamžitá příchozí platba,Jaroslav Krejčiřík,"Jaroslav Krejčiřík, 9. 10. 1991, Olomouc, Povel, Velkomoravská 325/8",,77900,,Jaroslav Krejčiřík,spd
-2021-09-14,1e+05,Bezhotovostní příjem,MAŘÍKOVÁ KARLA,Karla Maříková DAR,,,,MAŘÍKOVÁ KARLA,spd
+2021-09-14,100000,Bezhotovostní příjem,MAŘÍKOVÁ KARLA,Karla Maříková DAR,,,,MAŘÍKOVÁ KARLA,spd
 2021-09-14,50000,Bezhotovostní příjem,LESENSKÁ VLADIMÍRA,Lesenská - platba SPD,0,50002,0,LESENSKÁ VLADIMÍRA,spd
-2021-09-13,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-09-13,-200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-09-13,999,Platba převodem uvnitř banky,"Smejkal, Oldřich","Dar SPD Oldřich Smejkal, Moravany, Vnitřní 3",,,,"Dar SPD Oldřich Smejkal, Moravany, Vnitřní 3",spd
 2021-09-13,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
 2021-09-13,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
 2021-09-09,0.01,Bezhotovostní příjem,Petr Kolář,"Tomio,vracim ti honorar,co jsi mi dal za koncert.Uz te nechci videt.",,,,Petr Kolář,spd
 2021-09-09,83,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,spd
-2021-09-09,1e+05,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 702275 07.09.2021 c 5005JANS I LABAR,0,70200,,"CESKA POSTA, S.P.",spd
+2021-09-09,100000,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 702275 07.09.2021 c 5005JANS I LABAR,0,70200,,"CESKA POSTA, S.P.",spd
 2021-09-08,0.01,Okamžitá příchozí platba,Faja Vilém,Na letenku do Moskvy,0,,,Faja Vilém,spd
 2021-09-08,0.01,Bezhotovostní příjem,Patrik Polcar,"Nejvetsi bizar na politicke scene je SPD.. kde je ta hrouda migrantu apozabijenych lidi, jak strasili pred 4 lety?",,,,Patrik Polcar,spd
 2021-09-08,50000,Okamžitá příchozí platba,Španěl Lubomír,Lubomír Španěl,0,60200,,Španěl Lubomír,spd
 2021-09-08,500,Okamžitá příchozí platba,POHLOVÁ SIMONA,Na vítězství,,111,,POHLOVÁ SIMONA,spd
-2021-09-07,1e+05,Okamžitá příchozí platba,Ing.Harvánek Peter,DAR Peter Harvánek,0,70200,,Ing.Harvánek Peter,spd
+2021-09-07,100000,Okamžitá příchozí platba,Ing.Harvánek Peter,DAR Peter Harvánek,0,70200,,Ing.Harvánek Peter,spd
 2021-09-06,-70000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-06,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Martin Sůkup,spd
 2021-09-06,1000,Bezhotovostní příjem,Jan Skalák,DAR    Jan Skalák,,,,Jan Skalák,spd
 2021-09-06,300,Bezhotovostní příjem,GOLCOVA SVETLANA,Platce 1532,,27201,,GOLCOVA SVETLANA,spd
 2021-09-02,-250000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-09-01,133,Okamžitá příchozí platba,BEDNÁŘ MILOSLAV,,,,,BEDNÁŘ MILOSLAV,spd
-2021-09-01,1e+05,Platba převodem uvnitř banky,"Ing. Hrnčíř, Jan",Dar Jan Hrnčíř,,60200,,Dar Jan Hrnčíř,spd
+2021-09-01,100000,Platba převodem uvnitř banky,"Ing. Hrnčíř, Jan",Dar Jan Hrnčíř,,60200,,Dar Jan Hrnčíř,spd
 2021-08-30,1000,Bezhotovostní příjem,BAUDYŠ ILJA,,0,521123,0,BAUDYŠ ILJA,spd
 2021-08-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2021-08-27,-1300000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
-2021-08-25,1e+05,Bezhotovostní příjem,ROZVORAL RADEK,Rozvoral Radek dar,308,27201,0,ROZVORAL RADEK,spd
+2021-08-25,100000,Bezhotovostní příjem,ROZVORAL RADEK,Rozvoral Radek dar,308,27201,0,ROZVORAL RADEK,spd
 2021-08-25,0.01,Platba převodem uvnitř banky,"Noga, Daniel",Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,,,,Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,spd
-2021-08-25,1e+05,Bezhotovostní příjem,SAFRANKOVA LUCIE,Dar Lucie Safrankova,,60200,,SAFRANKOVA LUCIE,spd
+2021-08-25,100000,Bezhotovostní příjem,SAFRANKOVA LUCIE,Dar Lucie Safrankova,,60200,,SAFRANKOVA LUCIE,spd
 2021-08-19,700,Platba převodem uvnitř banky,"Ondráček, Martin","DAR - Martin Ondráček, 6.2.1975, Neumannova 42, Brno",,,,"DAR - Martin Ondráček, 6.2.1975, Neumannova 42, Brno",spd
-2021-08-19,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-19,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-19,1000,Bezhotovostní příjem,CÍSAŘ PETR,"Petr Císař, Nová Ves Nad Nisou 364, 27.1.1965, dar",308,1965,0,CÍSAŘ PETR,spd
 2021-08-19,30000,Bezhotovostní příjem,VYMAZAL LUBOŠ,,0,60200,0,VYMAZAL LUBOŠ,spd
 2021-08-18,0.01,Platba převodem uvnitř banky,"Noga, Daniel",Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,,,,Posílám příspěvek na volby Okatá můro. Ty odporný šmejde!!!,spd
@@ -105,10 +105,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-16,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-08-15,50000,Okamžitá příchozí platba,ZLÍNSKÝ VLADIMÍR,Doplatek daru lídra kandidátky,,76001,,ZLÍNSKÝ VLADIMÍR,spd
 2021-08-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2021-08-13,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-13,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-13,133,Okamžitá příchozí platba,BEDNÁŘ MILOSLAV,,,,,BEDNÁŘ MILOSLAV,spd
 2021-08-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
-2021-08-12,3e+05,Bezhotovostní příjem,PAVLÍČEK SLAVOMÍR,Dar SPD Vysocina,0,58601,0,PAVLÍČEK SLAVOMÍR,spd
+2021-08-12,300000,Bezhotovostní příjem,PAVLÍČEK SLAVOMÍR,Dar SPD Vysocina,0,58601,0,PAVLÍČEK SLAVOMÍR,spd
 2021-08-11,-20.11,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2021-08-11,-100,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2021-08-11,-275,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
@@ -124,20 +124,20 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-08-11,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
 2021-08-10,5000,Bezhotovostní příjem,PEMA - EKONOMICKE PO,dar,,0,,PEMA - EKONOMICKE PO,spd
 2021-08-09,1000,Platba převodem uvnitř banky,"Ing. Zaňát, Josef",Dar  ing.Josef Zaňát,,,,Dar  ing.Josef Zaňát,spd
-2021-08-09,1e+05,Bezhotovostní příjem,FIALA RADIM,,0,77900,0,FIALA RADIM,spd
+2021-08-09,100000,Bezhotovostní příjem,FIALA RADIM,,0,77900,0,FIALA RADIM,spd
 2021-08-08,50000,Platba převodem uvnitř banky,"Ing. Kettnerová, Iva",DAR Zdeněk Kettner,,40001,,DAR Zdeněk Kettner,spd
-2021-08-06,1e+05,Okamžitá příchozí platba,Vlasta Chromcová,Dar Dan Chromec,,77900,,Vlasta Chromcová,spd
-2021-08-06,-3e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-08-06,100000,Okamžitá příchozí platba,Vlasta Chromcová,Dar Dan Chromec,,77900,,Vlasta Chromcová,spd
+2021-08-06,-300000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-06,1000,Bezhotovostní příjem,ANTONIN FRYC,DAR-FRYC ANTONIN-TRPIK 6 -56301 LANSKROUN-NAR. 7.3.1988,1,2,3,ANTONIN FRYC,spd
 2021-08-06,100,Okamžitá příchozí platba,DAVID BÁRTA,dar volby 2021,,60200,,DAVID BÁRTA,spd
 2021-08-05,-1200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-08-05,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Martin Sůkup,spd
 2021-08-04,1,Platba převodem uvnitř banky,"Konečný, Erik","Je super,že máte pana Nerušila z rady ČRozhlasu,který podobně jako paní Lipovská z rady ČT,ve Volném bloku,svědčí o nepravostech veř.prostř",,,,"Je super,že máte pana Nerušila z rady ČRozhlasu,který podobně jako paní Lipovská z rady ČT,ve Volném bloku,svědčí o nepravostech veř.prostř",spd
 2021-08-04,300,Bezhotovostní příjem,GOLCOVA SVETLANA,,,27201,,GOLCOVA SVETLANA,spd
-2021-08-04,1e+05,Bezhotovostní příjem,Radek Koten,Radek Koten dar,8,58601,,Radek Koten,spd
+2021-08-04,100000,Bezhotovostní příjem,Radek Koten,Radek Koten dar,8,58601,,Radek Koten,spd
 2021-08-03,1,Platba převodem uvnitř banky,"Konečný, Erik","Pro ty,co se domnívají,že jsou vakcíny na Covid bezpečné: https://www.youtube.com/watch?v=V-7Y4qmvQuY",,,,"Pro ty,co se domnívají,že jsou vakcíny na Covid bezpečné: https://www.youtube.com/watch?v=V-7Y4qmvQuY",spd
 2021-08-03,1,Platba převodem uvnitř banky,"Konečný, Erik","Díky za navýšení důchodů Tomio. Jenom stále prosím tlačte na ty reparace - cca 17,8bilionů a při úrocích z úroků necelých 100bilionů-7mil/os",,,,"Díky za navýšení důchodů Tomio. Jenom stále prosím tlačte na ty reparace - cca 17,8bilionů a při úrocích z úroků necelých 100bilionů-7mil/os",spd
-2021-08-03,1e+05,Bezhotovostní příjem,FOLDYNA JAROSLAV,,0,40001,0,FOLDYNA JAROSLAV,spd
+2021-08-03,100000,Bezhotovostní příjem,FOLDYNA JAROSLAV,,0,40001,0,FOLDYNA JAROSLAV,spd
 2021-08-03,1,Platba převodem uvnitř banky,"Konečný, Erik","Senát by měl na podnět prezidenta a ekonomů,Škodovky...odvolat pana Vystrčila,skrze poškození vlasti a Škodovky.",,,,"Senát by měl na podnět prezidenta a ekonomů,Škodovky...odvolat pana Vystrčila,skrze poškození vlasti a Škodovky.",spd
 2021-08-02,50000,Okamžitá příchozí platba,Česká spořitelna,,0,,,dar Monika Jarošová,spd
 2021-08-02,1,Platba převodem uvnitř banky,"Konečný, Erik","Supr.Rakouský model uznání protilátek je normální,zatímco Vojtěchstán-model, nemocný.Měla by být povinná kontrola duševního zdraví.",,,,"Supr.Rakouský model uznání protilátek je normální,zatímco Vojtěchstán-model, nemocný.Měla by být povinná kontrola duševního zdraví.",spd
@@ -148,7 +148,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2021-07-28,111,Platba převodem uvnitř banky,"Konečný, Erik","Dárek. Bravo pane Okamuro,za ultimátum panu Vojtěchovi !!!",,,,"Dárek. Bravo pane Okamuro,za ultimátum panu Vojtěchovi !!!",spd
 2021-07-28,1,Platba převodem uvnitř banky,"Konečný, Erik",Politika by se měla nahradit řízením odborníky a vlastnictví garancemi jistot a optimalizacemi technologií -na yt Duch doby a Venus project,,,,Politika by se měla nahradit řízením odborníky a vlastnictví garancemi jistot a optimalizacemi technologií -na yt Duch doby a Venus project,spd
-2021-07-27,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-07-27,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-07-21,-150000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-07-21,133,Okamžitá příchozí platba,BEDNÁŘ MILOSLAV,,,,,BEDNÁŘ MILOSLAV,spd
 2021-07-20,50,Okamžitá příchozí platba,Martin Trubka,dar na činnost,,,,Martin Trubka,spd
@@ -158,24 +158,24 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-07-16,7000,Okamžitá příchozí platba,Milan Rakušan,dar - volby 2021 Milan Rakušan,,77900,,Milan Rakušan,spd
 2021-07-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,KREJCAROVA JITKA,spd
 2021-07-16,555,Bezhotovostní příjem,KUNCICKA ZDENKA,dar pro volby do PS 2021,,0,,KUNCICKA ZDENKA,spd
-2021-07-15,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-07-15,-200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-07-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-07-15,10000,Bezhotovostní příjem,KŘÍŽ KAREL,"Dar Bc. Karel Kříž, LL.M. 49132245",558,60200,0,KŘÍŽ KAREL,spd
 2021-07-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
 2021-07-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2021-07-14,1e+05,Okamžitá příchozí platba,Ing. Martin Jirotka,Finanční dar SPD Ing. Martin Jirotka pro Olomoucký kraj parlamentní volby 2021,,77900,,Ing. Martin Jirotka,spd
+2021-07-14,100000,Okamžitá příchozí platba,Ing. Martin Jirotka,Finanční dar SPD Ing. Martin Jirotka pro Olomoucký kraj parlamentní volby 2021,,77900,,Ing. Martin Jirotka,spd
 2021-07-14,890,Bezhotovostní příjem,SELOUCKÁ STANISLAVA,Stanislava Seloucká DAR,0,60200,0,SELOUCKÁ STANISLAVA,spd
 2021-07-12,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,FILA PAVEL,spd
 2021-07-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
 2021-07-12,500,Bezhotovostní příjem,PEKTOROVA ZDENKA,Dar pro pomoc Morave,,0,,PEKTOROVA ZDENKA,spd
-2021-07-09,-1e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
+2021-07-09,-100000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
 2021-07-09,-1200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-07-09,1000,Bezhotovostní příjem,PEKTOR MIROSLAV,Dar pro DPD a pro Jizni Moravu.,,0,,PEKTOR MIROSLAV,spd
-2021-07-09,1e+05,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar Radovan Vích,,46001,,VÍCH RADOVAN,spd
+2021-07-09,100000,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar Radovan Vích,,46001,,VÍCH RADOVAN,spd
 2021-07-08,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,GOLCOVA SVETLANA,spd
 2021-07-07,1,Platba převodem uvnitř banky,"Konečný, Erik",Podnět: Někdo by měl vytvořit platformu pro spojení darů s konkrétními lidmi TRANSPARENTNĚ  - třeba yt kanál a videa poptávek a přijetí,,,,Podnět: Někdo by měl vytvořit platformu pro spojení darů s konkrétními lidmi TRANSPARENTNĚ  - třeba yt kanál a videa poptávek a přijetí,spd
 2021-07-07,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Martin Sůkup,spd
-2021-07-01,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-07-01,-4000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-06-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2021-06-28,10000,Platba převodem uvnitř banky,"Ing. Hrnčíř, Jan",,,,,dar,spd
 2021-06-28,10000,Bezhotovostní příjem,Radek Koten,dar pro postižené tornádem,8,2506,,Radek Koten,spd
@@ -202,13 +202,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-25,10000,Bezhotovostní příjem,FIALA RADIM,Dar Fiala pro Moravu,0,0,0,FIALA RADIM,spd
 2021-06-25,100,Bezhotovostní příjem,KLUS SAMUEL,Achjo. Dvakrát jsem nevstal no.,0,0,0,KLUS SAMUEL,spd
 2021-06-25,30000,Okamžitá příchozí platba,Ing.Holík Jaroslav,dar SPD Zlín,308,76001,,Ing.Holík Jaroslav,spd
-2021-06-23,-8e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-06-23,-8000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-06-23,1000,Bezhotovostní příjem,BAUDYŠ ILJA,DAR DR.BAUDYŠ,0,521123,0,BAUDYŠ ILJA,spd
 2021-06-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,dar,spd
 2021-06-18,1000,Okamžitá příchozí platba,Csaba Tomanovics,"Csaba Tomanovics, Katerinice 372 756 21, 30.4.1966",,,,dar Csaba Tomanovics,spd
 2021-06-17,9637500,Bezhotovostní příjem,MF,,6418,109332021,0,MF,spd
 2021-06-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"dar Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
-2021-06-16,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-06-16,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-06-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,dar KREJCAROVA JITKA,spd
 2021-06-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2021-06-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,dar OVCACEK JIRI,spd
@@ -227,7 +227,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-06-04,335576.37,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního volebního účtu SPD pro volby do Senátu PČR 2020 na transparentní účet SPD,,,,Převod prostředků z transparentního volebního účtu SPD pro volby do Senátu PČR 2020 na transparentní účet SPD,spd
 2021-06-02,133,Okamžitá příchozí platba,BEDNÁŘ MILOSLAV,,,,,dar BEDNÁŘ MILOSLAV,spd
 2021-05-31,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
-2021-05-26,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-05-26,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-05-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
 2021-05-26,275,Bezhotovostní příjem,Rabinovich Ilia,Dar,,,,Rabinovich Ilia,spd
 2021-05-24,1,Bezhotovostní příjem,Lukáš Mizera,Příspěvek na psychologické vyšetření pro dementního dezinformátora Okamuru,,,,Lukáš Mizera,spd
@@ -242,7 +242,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-05-13,-80,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2021-05-13,-600,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše data narození a adresu bydliště, děkujeme",spd
 2021-05-13,-50,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce do státního rozpočtu,,4134940,,Vrácení daru od neidentifikovaného dárce do státního rozpočtu,spd
-2021-05-13,-6e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-05-13,-6000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-05-13,5000,Okamžitá příchozí platba,Jarošová Monika,dar,0,40001,,Jarošová Monika,spd
 2021-05-13,33333.33,Platba převodem uvnitř banky,"Dvořák, Jaroslav","MUDr. Jaroslav Dvořák SPD , U Nemocnice 864, 75701 Valašské Meziříčí",,76001,,"MUDr. Jaroslav Dvořák SPD , U Nemocnice 864, 75701 Valašské Meziříčí",spd
 2021-05-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,VACEK LEOS,spd
@@ -264,10 +264,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-26,10,Bezhotovostní příjem,PETR TYKVART,"WWW.SELT.CZ - E-SHOP SE ZDRAVOTNICKOU TECHNIKOU, LAVATHERMY, ORTOPEDICKÉ PODLAHY MUFFIK, INHALÁTORY - DAR",,,,dar PETR TYKVART,spd
 2021-04-26,10,Bezhotovostní příjem,PETR TYKVART,WWW.ZVYSKY.CZ - FOTO A VIDEO Z DRONU - DAR,,,,dar PETR TYKVART,spd
 2021-04-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
-2021-04-23,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-04-23,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-04-23,225,Okamžitá příchozí platba,PUKL MIROSLAV,pukl miroslav V rejich30 brno 64300,,,,dar PUKL MIROSLAV,spd
 2021-04-23,636,Okamžitá příchozí platba,PUKL MIROSLAV,pukl miroslav brno v rejich 30,,,,dar PUKL MIROSLAV,spd
-2021-04-21,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-04-21,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-04-20,999,Bezhotovostní příjem,VYCHODIL PAVEL,"Pavel Vychodil,Čechova 1445,Otrokovice,66,dar",0,200721,0,VYCHODIL PAVEL,spd
 2021-04-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,dar,spd
 2021-04-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"dar Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
@@ -289,14 +289,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-04-12,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,dar FILA PAVEL,spd
 2021-04-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD,,0,,dar VACEK LEOS,spd
 2021-04-09,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
-2021-04-07,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-04-07,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-04-06,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Dar Martin Sůkup,spd
 2021-03-31,300,Okamžitá příchozí platba,Iveta Hančlová,Iveta Hančlová,,2139,,Iveta Hančlová,spd
 2021-03-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar JAN FUCIK,spd
 2021-03-29,200,Okamžitá příchozí platba,Erik Slabý,členské,,5538,,Erik Slabý,spd
 2021-03-29,100,Okamžitá příchozí platba,Iveta Hančlová,Zuzana Hančlová  členský příspěvek,,1333,,Iveta Hančlová,spd
 2021-03-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,DAR KRETSCHMER ROBERT,spd
-2021-03-25,1e+05,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar Radovan Vích,,46001,,DAR VÍCH RADOVAN,spd
+2021-03-25,100000,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar Radovan Vích,,46001,,DAR VÍCH RADOVAN,spd
 2021-03-24,-2021,Okamžitá odchozí platba,,Vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše datum narození a adresu bydliště, děkujeme",spd
 2021-03-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Dar Blanka Sladká,spd
 2021-03-22,0.01,Bezhotovostní příjem,PETR VOBORIL,"TUMÁŠ, PITOMIO, KUP SI NĚCO NA SEBE. TEBE A TEN TVUJ MOZKOVEJ TRUS BYCH NEVOLIL, ANI KDYBYSTE BYLI POSLEDNÍ STRANA VE VESMÍRU.",,,,PETR VOBORIL,spd
@@ -313,9 +313,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-03-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
 2021-03-14,1000,Okamžitá příchozí platba,DAVID BÁRTA,DAR VOLBY 2021,,60200,,Dar DAVID BÁRTA,spd
 2021-03-13,33333.33,Platba převodem uvnitř banky,"Dvořák, Jaroslav","MUDr. Jaroslav Dvořák SPD , U Nemocnice 864, 75701 Valašské Meziříčí",,76001,,"Dar MUDr. Jaroslav Dvořák SPD , U Nemocnice 864, 75701 Valašské Meziříčí",spd
-2021-03-12,1e+05,Bezhotovostní příjem,JELINEK PAVEL,Dar na volebni kampan SPD Olomoucky kraj,,77900,1,Dar JELINEK PAVEL,spd
-2021-03-11,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
-2021-03-11,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-03-12,100000,Bezhotovostní příjem,JELINEK PAVEL,Dar na volebni kampan SPD Olomoucky kraj,,77900,1,Dar JELINEK PAVEL,spd
+2021-03-11,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-03-11,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-03-11,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,Dar FILA PAVEL,spd
 2021-03-09,500,Okamžitá příchozí platba,DAVID BÁRTA,Dar volby 2021,,60200,,Dar DAVID BÁRTA,spd
 2021-03-09,-150000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
@@ -332,7 +332,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-22,5000,Okamžitá příchozí platba,Jarošová Monika,dar,0,40001,,Dar Jarošová Monika,spd
 2021-02-18,20000,Okamžitá příchozí platba,"Holík Jaroslav,Ing.",dar SPD Zlín,308,76001,,"Dar  Holík Jaroslav,Ing.",spd
 2021-02-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,Dar,spd
-2021-02-17,-3e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-02-17,-3000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-02-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"dar Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
 2021-02-16,80,Okamžitá příchozí platba,Roman Urban,Netflix UwU,0,,,Dar Roman Urban,spd
 2021-02-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,Dar KREJCAROVA JITKA,spd
@@ -342,7 +342,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-02-11,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,Dar FILA PAVEL,spd
 2021-02-10,-100,Bezhotovostní platba,,"Vrácení platby členského příspěvku - dle zákona prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 2811, děkujeme!",,2811,,"Vrácení platby členského příspěvku - dle zákona prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 2811, děkujeme!",spd
 2021-02-10,-100,Bezhotovostní platba,,"Vrácení platby členského příspěvku - dle zákona prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 2810, děkujeme!",,2810,,"Vrácení platby členského příspěvku - dle zákona prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 2810, děkujeme!",spd
-2021-02-10,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-02-10,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-02-10,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
 2021-02-10,1000,Okamžitá příchozí platba,Ctirad Zámorský,"Ctirad Zámorský, 16.7.1957, Zlín, DAR příznivce SPD",308,570716,,dar pro Zlínský kraj Ctirad Zámorský,spd
 2021-02-05,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,dar Martin Sůkup,spd
@@ -356,7 +356,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,dar KRETSCHMER ROBERT,spd
 2021-01-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2021-01-20,500,Okamžitá příchozí platba,DAVID BÁRTA,Dar volby 2021,,60200,,Dar DAVID BÁRTA,spd
-2021-01-20,-3e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-01-20,-3000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-01-19,100,Bezhotovostní příjem,Antonín Pajdla,DAR - Antonín Pajdla 7.9.1955,,,,Dar Antonín Pajdla,spd
 2021-01-18,100,Okamžitá příchozí platba,Vtípil Tomáš,na svobodu a demokracii.,0,,,dar Vtípil Tomáš,spd
 2021-01-18,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,dar KREJCAROVA JITKA,spd
@@ -367,7 +367,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-01-13,100,Bezhotovostní příjem,KYZLÍK MICHAL,,0,1771,0,dar KYZLÍK MICHAL,spd
 2021-01-11,1000,Platba převodem uvnitř banky,"Gottwaldová, Julie",sponzorský dar  Gottwaldová Julie,298,10032017,,sponzorský dar  Gottwaldová Julie,spd
 2021-01-11,1000,Bezhotovostní příjem,BAUDYŠ ILJA,BAUDYS LTM DAR,0,521123,0,Dar BAUDYŠ ILJA,spd
-2021-01-11,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2021-01-11,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2021-01-11,100,Bezhotovostní příjem,FILA PAVEL,"Pavel Fila-dar pro SPDPadarov 48, 39131 Drazice26.12.1969",308,6912226,,Dar FILA PAVEL,spd
 2021-01-05,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,dar Martin Sůkup,spd
 2021-01-05,50,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 106008 31.12.2020 c 6010J 1 R***ITZA*YCLENSTVI* SPD,0,0,,"CESKA POSTA, S.P.",spd
@@ -389,7 +389,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-12-07,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,dar Martin Sůkup,spd
 2020-12-04,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,DAR GOLCOVA SVETLANA,spd
 2020-12-03,500,Platba převodem uvnitř banky,"Ondráček, Martin","Podpora pro SPD. Martin Ondráček, nar. 6.2.1975, Brno",,,,"Dar pro SPD. Martin Ondráček, nar. 6.2.1975, Brno",spd
-2020-12-02,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-12-02,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-11-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2020-11-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
 2020-11-23,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
@@ -404,8 +404,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-11-16,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,DAR Osmančíková Andrea,spd
 2020-11-16,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,0,76001,0,Sukup Josef,spd
 2020-11-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2020-11-11,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
-2020-11-11,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-11-11,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-11-11,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-11-10,21378,Bezhotovostní příjem,ŠALOMONOVÁ RŮŽENA,senát Znojmo dar,0,54,0,ŠALOMONOVÁ RŮŽENA,spd
 2020-11-06,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
 2020-11-05,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,dar Martin Sůkup,spd
@@ -421,16 +421,16 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-10-15,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,0,76001,0,Sukup Josef,spd
 2020-10-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Dar Osmančíková Andrea,spd
 2020-10-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2020-10-14,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-10-14,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-10-12,10000,Okamžitá příchozí platba,Jarošová Monika,,0,40001,,dar Jarošová Monika,spd
-2020-10-08,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
-2020-10-08,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,spd
+2020-10-08,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-10-08,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,spd
 2020-10-07,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,DAR GOLCOVA SVETLANA,spd
 2020-10-07,8637500,Bezhotovostní příjem,MF,,6418,156042020,0,MF,spd
 2020-10-05,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,Martin Sůkup dar,spd
-2020-10-02,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-10-02,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-10-02,7000,Platba převodem uvnitř banky,"Mitterwald, František",František Mitterwald -dar,,40001,,František Mitterwald -dar,spd
-2020-09-30,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-09-30,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-09-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK dar,spd
 2020-09-29,-1001,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce - Vladimír Cingel,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše data narození a adresu bydliště, děkujeme",spd
 2020-09-29,-300,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce - Ivanka Trávníčková,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše data narození a adresu bydliště, děkujeme",spd
@@ -449,17 +449,17 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-25,3000,Bezhotovostní příjem,JEZEK BOHUMIL,"Bohumil Jezek, dar",,40001,,dar JEZEK BOHUMIL,spd
 2020-09-25,1000,Bezhotovostní příjem,KONDERLA JAN,Moc se omlouvam za poskozeni plagatu.Konderla,,0,,KONDERLA JAN,spd
 2020-09-24,-500,Bezhotovostní platba,,Trávníčková Ivanka - vrácení daru od neidentifikovaného dárce,,,,"Abychom mohli přijmout Váš dar, prosím napište do zprávy pro příjemce nebo na dary@spd.cz Vaše data narození a adresu bydliště, děkujeme",spd
-2020-09-24,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu,spd
+2020-09-24,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu,spd
 2020-09-24,40000,Bezhotovostní příjem,Václav Bošek,Dar pro kandidáta do Senátu Václava Boška,,10030,,Václav Bošek,spd
-2020-09-23,-3e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-09-23,-3000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-09-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2020-09-21,12500,Okamžitá příchozí platba,TOMÁŠ DOLEŽAL,pro RK SPD Středočeský kraj,,,,TOMÁŠ DOLEŽAL dar,spd
 2020-09-18,12500,Platba převodem uvnitř banky,"Dušek, Antonín",Středočeský kraj,,27201,,Dušek Antonín dar pro Středočeský kraj,spd
 2020-09-18,10000,Bezhotovostní příjem,SAFRANKOVA LUCIE,,,60200,,dar SAFRANKOVA LUCIE,spd
 2020-09-18,200,Platba převodem uvnitř banky,"Benešová, Hana",,,,,Benešová Hana dar,spd
-2020-09-17,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-09-17,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-09-17,100,Platba převodem uvnitř banky,"Kunay, Viliam","Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",,,,"dar Viliam Kunay, nar. 20.9.1971, Damnice 8, okr. Znojmo",spd
-2020-09-16,-3e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-09-16,-3000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-09-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,dar KREJCAROVA JITKA,spd
 2020-09-15,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,0,76001,0,dar Sukup Josef,spd
 2020-09-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
@@ -482,7 +482,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-09-02,5000,Bezhotovostní příjem,PABJAN PAVEL,Pavel Pabjan 10.03.1951,,70200,,dar PABJAN PAVEL,spd
 2020-09-01,300,Bezhotovostní příjem,HAVLOVÁ IVANA,ať to vyjde,558,10015,5052,dar HAVLOVÁ IVANA,spd
 2020-09-01,10000,Bezhotovostní příjem,DUDZIKOVA RENATA,David Dudzik 3. 9. 1970,,70200,,dar 	 David Dudzik 3. 9. 1970,spd
-2020-08-31,-3e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-08-31,-3000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-08-31,10000,Bezhotovostní příjem,"ANYZ,SERVIS",DAR OD MILAN ANYZ,0,40001,,"ANYZ,SERVIS",spd
 2020-08-31,15000,Okamžitá příchozí platba,"Holík Jaroslav,Ing.",kampaň MUDr Zlínský,308,76001,,"dar Holík Jaroslav,Ing.",spd
 2020-08-31,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
@@ -493,11 +493,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-27,1000,Bezhotovostní příjem,Klára Smetanová,Dar,,40001,,Klára Smetanová,spd
 2020-08-26,5000,Okamžitá příchozí platba,"Harvánek Peter,Ing.","Peter Harvánek, 30.05.1974",0,70200,,"dar Harvánek Peter,Ing.",spd
 2020-08-26,5000,Bezhotovostní příjem,PANÁČEK JAN,Jan Panáček 27.10.1977,0,70200,0,dar PANÁČEK JAN,spd
-2020-08-26,5000,Platba převodem uvnitř banky,"Pajgerová, Andrea",Dar pro krajské volby HK,308,5e+05,,Dar pro krajské volby HK,spd
+2020-08-26,5000,Platba převodem uvnitř banky,"Pajgerová, Andrea",Dar pro krajské volby HK,308,500000,,Dar pro krajské volby HK,spd
 2020-08-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
-2020-08-25,1e+05,Bezhotovostní příjem,FIALA RADIM,Dar na krajské volby,0,77900,0,FIALA RADIM,spd
+2020-08-25,100000,Bezhotovostní příjem,FIALA RADIM,Dar na krajské volby,0,77900,0,FIALA RADIM,spd
 2020-08-25,20000,Okamžitá příchozí platba,FADRNÝ TOMÁŠ,Fadrny Tomas,,53002,,FADRNÝ TOMÁŠ dar pro krajské volby,spd
-2020-08-24,1e+05,Bezhotovostní příjem,ROZVORAL RADEK,"Radek Rozvoral, dar",308,20200824,0,ROZVORAL RADEK pro kraj,spd
+2020-08-24,100000,Bezhotovostní příjem,ROZVORAL RADEK,"Radek Rozvoral, dar",308,20200824,0,ROZVORAL RADEK pro kraj,spd
 2020-08-24,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2020-08-22,10000,Okamžitá příchozí platba,Hlaváč Jaroslav Maye,Dar pro kandidáta do Senátu - Lubomír Pána,,10015,,Hlaváč Jaroslav Maye,spd
 2020-08-22,20000,Okamžitá příchozí platba,VYSOCKÝ MAREK,Marek Vysocký 29. 11. 1961,,70200,,dar VYSOCKÝ MAREK,spd
@@ -515,13 +515,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-08-14,200,Okamžitá příchozí platba,"Severa Libor,Ing.",Dar pro kandidáta do Senátu - Lubom,0,10015,,"Severa Libor,Ing.",spd
 2020-08-13,50000,Bezhotovostní příjem,VYMAZAL LUBOŠ,Dar pro kandidáta do senátu LiboraBláhu,0,10057,0,VYMAZAL LUBOŠ,spd
 2020-08-12,2000,Bezhotovostní příjem,HRBACEK VLADISLAV,DAR,,40001,,HRBACEK VLADISLAV,spd
-2020-08-11,1e+05,Platba převodem uvnitř banky,SPOKETA s.r.o.,DAR PRO KANDIDÁTA DO SENÁTU  LIBORA BLÁHU,,10057,,DAR PRO KANDIDÁTA DO SENÁTU  LIBORA BLÁHU,spd
+2020-08-11,100000,Platba převodem uvnitř banky,SPOKETA s.r.o.,DAR PRO KANDIDÁTA DO SENÁTU  LIBORA BLÁHU,,10057,,DAR PRO KANDIDÁTA DO SENÁTU  LIBORA BLÁHU,spd
 2020-08-11,500,Bezhotovostní příjem,Josef Herzán,sponz.dar,,10015,,Josef Herzán,spd
 2020-08-10,100,Bezhotovostní příjem,Roman Dušek,Dar pro kandidáta do Senátu Lubomíra Pána,,10015,,Roman Dušek,spd
 2020-08-10,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
 2020-08-06,15000,Okamžitá příchozí platba,DVOŘÁK JAROSLAV,Dvořák Jaroslav Valašské Meziříčí,558,76001,,dar DVOŘÁK JAROSLAV,spd
-2020-08-05,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby Senátu,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby Senátu,spd
-2020-08-05,-1e+07,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-08-05,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby Senátu,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby Senátu,spd
+2020-08-05,-10000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-08-05,10000,Okamžitá příchozí platba,"Moravec Leoš,PhDr.",DAR PRO KANDIDÁTA DO SENÁTU LEOŠE M,558,10033,,"Moravec Leoš,PhDr.",spd
 2020-08-05,100,Bezhotovostní příjem,Martin Sůkup,"Martin Sůkup, datum narození 2.8.1986, trvalé bydliště : Práče 214, 671-61 , Prosiměřice",0,,,dar Martin Sůkup,spd
 2020-08-04,5000,Okamžitá příchozí platba,ZLÍNSKÝ VLADIMÍR,dar,308,76001,,ZLÍNSKÝ VLADIMÍR,spd
@@ -552,7 +552,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-17,150,Okamžitá příchozí platba,PRCHAL TOMÁŠ,Dar pro kandidáta do Senátu - Lubomír Pána,,,,PRCHAL TOMÁŠ,spd
 2020-07-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,dar KREJCAROVA JITKA,spd
 2020-07-16,300,Bezhotovostní příjem,LESTINA JIRI,dar pro kandidata do senatu LubomirPana,,10015,,LESTINA JIRI,spd
-2020-07-15,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-07-15,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-07-15,1000,Bezhotovostní příjem,BARTA DAVID,Dar,,60200,,BARTA DAVID,spd
 2020-07-15,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,0,76001,0,Sukup Josef,spd
 2020-07-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
@@ -562,9 +562,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-07-13,100,Bezhotovostní příjem,Roman Dušek,Dar pro kandidáta do Senátu Lubomíra Pána,,10015,,Roman Dušek,spd
 2020-07-10,500,Okamžitá příchozí platba,Žák Václav,DAR,0,,,Žák Václav DAR PRO SENÁT PÁNA OBVOD 15,spd
 2020-07-09,5000,Okamžitá příchozí platba,"Henner Radek,Ing.",Radek Henner,0,76001,,"dar Henner Radek,Ing.",spd
-2020-07-08,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
-2020-07-07,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,spd
-2020-07-07,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-07-08,-200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
+2020-07-07,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,spd
+2020-07-07,-4000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-07-07,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
 2020-07-04,5000,Okamžitá příchozí platba,"Holík Jaroslav,Ing.",dar SPD Zlín,308,76001,,"Holík Jaroslav,Ing.",spd
 2020-07-01,30000,Platba převodem uvnitř banky,"Dvořák, Jaroslav","Dvořák Jaroslav, na kraj. volby pro okres Vsetín",,76000,,"dar Dvořák Jaroslav, na kraj. volby pro okres Vsetín",spd
@@ -582,7 +582,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-19,500,Okamžitá příchozí platba,"Veselá Jitka,Mgr.",Dar pro kandidáta do Senátu - Lubom,0,10015,5458312035,"Veselá Jitka,Mgr.",spd
 2020-06-18,100,Okamžitá příchozí platba,WANG LI WANG s.r.o.,Cinska restaurance u zlateho draka,0,10015,,dar WANG LI WANG s.r.o.,spd
 2020-06-17,-3951,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na transparentní účet SPD pro doplňovací volby do Senátu - Teplice,,,,Převod prostředků z transparentního účtu na transparentní účet SPD pro doplňovací volby do Senátu - Teplice,spd
-2020-06-17,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-06-17,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-06-17,8637500,Bezhotovostní příjem,MF,,6418,39362020,0,MF,spd
 2020-06-16,2000,Platba převodem uvnitř banky,"Turoň, Pavel",Dar pro kandidáta do senátu - Lubomír Pána,,10015,,Dar Pána od Pavel Turoň,spd
 2020-06-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,dar KREJCAROVA JITKA,spd
@@ -602,12 +602,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-06-08,5000,Okamžitá příchozí platba,"Holátová Darja,Ing.",Dar pro kandidáta do Senátu - Lubom,0,10015,,"Holátová Darja,Ing.",spd
 2020-06-07,50000,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar,,,,VÍCH RADOVAN,spd
 2020-06-05,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
-2020-06-03,1e+05,Bezhotovostní příjem,JELINEK PAVEL,Dar SPD na krajske volby 2020,,77900,1,JELINEK PAVEL,spd
+2020-06-03,100000,Bezhotovostní příjem,JELINEK PAVEL,Dar SPD na krajske volby 2020,,77900,1,JELINEK PAVEL,spd
 2020-06-03,20000,Platba převodem uvnitř banky,"Křupka, Martin","Dar, Martin Krupka",,77900,308,"Dar, Martin Krupka",spd
 2020-06-02,2000,Vklad v hotovosti,Dar pro kandidáta do senátu - Lubomír Pána,,558,10015,,Dar pro kandidáta do senátu - Lubomír Pána,spd
 2020-06-01,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2020-05-31,200,Okamžitá příchozí platba,Adámek Jiří,Dar pro kandidáta do Senátu L. Pána,0,10015,,Adámek Jiří,spd
-2020-05-27,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-05-27,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-05-26,1000,Okamžitá příchozí platba,Krejčí Antonín,Dar pro kandidáta do Senátu Lubomír,0,10015,,Krejčí Antonín,spd
 2020-05-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
 2020-05-26,500,Bezhotovostní příjem,PILS STANISLAV,Dar pro kandidáta do senátu- Lubomír Pána - s. Pils,0,10015,0,PILS STANISLAV,spd
@@ -646,23 +646,23 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-05-14,200,Okamžitá příchozí platba,Marounková Hana,marounkova,0,10015,,dar Marounková Hana,spd
 2020-05-11,5000,Okamžitá příchozí platba,Jarošová Monika,,0,40001,,Monika Jarošová- dar,spd
 2020-05-11,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
-2020-05-06,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-05-06,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-05-05,12000,Bezhotovostní příjem,PAVEL SUBRT,DAR KE SMLOUVĚ ZE 4.5.2020,,,,PAVEL SUBRT,spd
-2020-05-04,-1e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,spd
+2020-05-04,-100000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do Senátu PČR,spd
 2020-04-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2020-04-27,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
 2020-04-25,300,Okamžitá příchozí platba,Šámalová Helena,KYSILKO,0,1024,,dar Šámalová Helena,spd
 2020-04-24,8637500,Bezhotovostní příjem,MF,,6418,7652020,0,MF,spd
-2020-04-22,-1e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
+2020-04-22,-100000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do zastupitelstev krajů,spd
 2020-04-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
-2020-04-16,-4e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-04-16,-4000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-04-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,dar KREJCAROVA JITKA,spd
 2020-04-16,100,Bezhotovostní příjem,Černý Karel,Dobrovolny prispevek,0,,,Černý Karel dar,spd
 2020-04-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
 2020-04-15,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,0,76001,0,Sukup Josef,spd
 2020-04-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
 2020-04-08,-10000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na transparentní účet SPD pro doplňovací volby do Senátu - Teplice,,,,Převod prostředků z transparentního účtu na transparentní účet SPD pro doplňovací volby do Senátu - Teplice,spd
-2020-04-08,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-04-08,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-04-08,2300,Bezhotovostní příjem,GOLCOVA SVETLANA,Prispevek na KORONAVIRUS platce1532,,27201,,dar GOLCOVA SVETLANA,spd
 2020-03-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2020-03-26,200,Bezhotovostní příjem,KRETSCHMER ROBERT,DAR - SPD,0,0,0,KRETSCHMER ROBERT,spd
@@ -683,14 +683,14 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-03-13,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
 2020-03-08,300,Okamžitá příchozí platba,Neuvirt Ladislav,,0,2591,,dar Neuvirt Ladislav,spd
 2020-03-06,300,Okamžitá příchozí platba,Górecki Richard,Členský příspěvek 2020 - Richard Gó,0,2577,,Górecki Richard,spd
-2020-03-06,-1e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
+2020-03-06,-100000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
 2020-03-04,-100,Bezhotovostní platba,,"Vrácení platby členského příspěvku - dle zákona prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 1730, děkujeme!",,1635,,"Vrácení platby členského příspěvku - dle zákona prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 1730, děkujeme!",spd
-2020-03-04,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-03-04,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-03-04,300,Bezhotovostní příjem,FÁBRYOVÁ DANA,PŘÍSPĚVEK ROK 2020,0,572,0,FÁBRYOVÁ DANA,spd
 2020-03-02,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2020-03-01,5000,Okamžitá příchozí platba,Jarošová Monika,Monika Jarošová- dar,0,40001,,Jarošová Monika,spd
 2020-02-27,-50000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na transparentní účet SPD pro doplňovací volby do Senátu  - Teplice,,,,Převod prostředků z transparentního účtu na transparentní účet SPD pro doplňovací volby do Senátu  - Teplice,spd
-2020-02-24,1e+05,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar Radovan Vích,,46001,,VÍCH RADOVAN,spd
+2020-02-24,100000,Okamžitá příchozí platba,VÍCH RADOVAN,Sponzorský dar Radovan Vích,,46001,,VÍCH RADOVAN,spd
 2020-02-24,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2020-02-21,300,Bezhotovostní příjem,DOLEŽAL TOMÁŠ,ČLENSKÝ PŘÍSPĚVĚK 2020 DOLEŽAL TOMÁŠ,0,903,0,DOLEŽAL TOMÁŠ,spd
 2020-02-17,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
@@ -699,11 +699,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-02-17,300,Bezhotovostní příjem,HRUSKA PAVEL,710435,308,1435,,dar HRUSKA PAVEL,spd
 2020-02-17,100,Bezhotovostní příjem,HOLANOVA JANA,Clensky prispevek.,,1635,,HOLANOVA JANA,spd
 2020-02-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
-2020-02-07,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-02-07,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-02-04,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,dar GOLCOVA SVETLANA,spd
 2020-01-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2020-01-23,100,Bezhotovostní příjem,KYZLÍK MICHAL,členský příspěvek 2020,0,1771,0,dar KYZLÍK MICHAL,spd
-2020-01-22,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-01-22,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-01-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2020-01-22,100,Bezhotovostní příjem,STONIŠOVÁ SVATAVA,příspěvek pro spd,,,,dar STONIŠOVÁ SVATAVA,spd
 2020-01-16,-100,Platba převodem uvnitř banky,,"Vrácení platby členského příspěvku - prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 1730, děkujeme!",,1730,,"Vrácení platby členského příspěvku - prosíme o zaslání na provozní účet hnutí č. 2100839101/2010, VS 1730, děkujeme!",spd
@@ -717,12 +717,12 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2020-01-13,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,SKŘÍČKOVÁ MARCELA,spd
 2020-01-11,5000,Okamžitá příchozí platba,"Holík Jaroslav,Ing.",dar SPD Zlín,308,76001,,"Holík Jaroslav,Ing.",spd
 2020-01-10,300,Okamžitá příchozí platba,"Račok Ladislav,Bc.",úhrada členský pčíspěvek za rok 202,308,1989,,"Račok Ladislav,Bc.",spd
-2020-01-10,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2020-01-10,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2020-01-08,100,Platba převodem uvnitř banky,"Petera, Josef",členský příspěvek,,,,členský příspěvek,spd
 2019-12-31,5000,Platba převodem uvnitř banky,"Ing. Heydušek, Marcel",Dar pro SPD na prosazení prvků přímé demokracie,,20181231,,Dar pro SPD na prosazení prvků přímé demokracie,spd
 2019-12-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,dar JAN FUCIK,spd
 2019-12-23,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
-2019-12-20,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-12-20,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-12-18,-80000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - Zastupitelstvo m.Strakonice,,,,Převod prostředků z transparentního účtu na volební účet SPD - Zastupitelstvo m.Strakonice,spd
 2019-12-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
 2019-12-16,300,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea dar Praha,spd
@@ -732,7 +732,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-12-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,SKŘÍČKOVÁ MARCELA,spd
 2019-12-09,20,Platba převodem uvnitř banky,"B.A. Pán, Mike Dr. h. c.","Trest za to, že jsem nesplnil některou ze svých povinností - přispět na SPD. Pozdravujte PITOMIA. - Dar od Mike Pán, nar. 1. 3. 1997",,,,"Trest za to, že jsem nesplnil některou ze svých povinností - přispět na SPD. Pozdravujte PITOMIA. - Dar od Mike Pán, nar. 1. 3. 1997",spd
 2019-12-09,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,GOLCOVA SVETLANA,spd
-2019-12-05,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-12-05,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-12-02,20,Platba převodem uvnitř banky,"B.A. Pán, Mike Dr. h. c.","Trest za to, že jsem nesplnil některou ze svých povinností - přispět na SPD. Pozdravujte PITOMIA. - Dar od Mike Pán, nar. 1. 3. 1997",,,,"Trest za to, že jsem nesplnil některou ze svých povinností - přispět na SPD. Pozdravujte PITOMIA. - Dar od Mike Pán, nar. 1. 3. 1997",spd
 2019-12-02,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar JAN FUCIK,spd
 2019-12-02,3000,Bezhotovostní příjem,Petr Krátký,Dar od Tereza Hyťhová - pro ústecký kraj,0,40001,,Dar Tereza Hyťhová,spd
@@ -740,7 +740,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-11-25,-100,Platba převodem uvnitř banky,,Převod platby členského příspěvku na provozní účet hnutí (VS 2335),,,,Převod platby členského příspěvku na provozní účet hnutí (VS 2335),spd
 2019-11-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2019-11-20,-20000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na volební účet SPD - Zastupitelstvo m.Strakonice,,,,Převod prostředků z transparentního účtu na volební účet SPD - Zastupitelstvo m.Strakonice,spd
-2019-11-20,-2e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-11-20,-2000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-11-20,8637500,Bezhotovostní příjem,MF,,6418,199072019,0,MF,spd
 2019-11-18,100,Bezhotovostní příjem,HOLŠTAJNOVÁ ALENA,,,2335,,HOLŠTAJNOVÁ ALENA,spd
 2019-11-18,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
@@ -764,7 +764,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-10-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,dar JAN FUCIK,spd
 2019-10-29,5000,Bezhotovostní příjem,"Abraham Roman,Ing.",DAR,0,50000,,"Abraham Roman,Ing.",spd
 2019-10-24,100,Bezhotovostní příjem,"Beerová Irena,Bc.",,0,1097,,"dar Beerová Irena,Bc.",spd
-2019-10-23,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-10-23,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-10-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,dar Blanka Sladká,spd
 2019-10-22,20,Platba převodem uvnitř banky,"B.A. Pán, Mike Dr. h. c.","Trest za to, že jsem nesplnil některou ze svých povinností - přispět na SPD. Pozdravujte PITOMIA. - Dar od Mike Pán, nar. 1. 3. 1997",,,,"Trest za to, že jsem nesplnil některou ze svých povinností - přispět na SPD. Pozdravujte PITOMIA. - Dar od Mike Pán, nar. 1. 3. 1997",spd
 2019-10-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
@@ -788,11 +788,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-09-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
 2019-09-12,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,Dar GOLCOVA SVETLANA,spd
 2019-09-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,Dar SKŘÍČKOVÁ MARCELA,spd
-2019-09-11,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-09-11,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-09-11,-2,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2019-09-08,1000,Platba převodem uvnitř banky,"Gottwaldová, Julie","Julie Gottwaldová, Tusarova 28, Praha 7, dat, nar. 15.4.1953, sponzorský dar",298,10032017,,"Julie Gottwaldová, Tusarova 28, Praha 7, dat, nar. 15.4.1953, sponzorský dar",spd
 2019-09-06,100,Platba převodem uvnitř banky,"Longinov, Vjačeslav","Tento prispevek je trest pro me za to, ze jsem nesplnil nekterou z mych pravidelnych povinnosti. Polepsim se!",,,,"Tento prispevek je trest pro me za to, ze jsem nesplnil nekterou z mych pravidelnych povinnosti. Polepsim se!",spd
-2019-09-04,-1e+06,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-09-04,-1000000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-09-04,-0.09,Bezhotovostní platba,,"Vrácení darů 9x 0,01 Kč od neidentifikovaného dárce",,,,"Vrácení darů 9x 0,01 Kč od neidentifikovaného dárce",spd
 2019-09-04,-1,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2019-09-04,-1000,Platba převodem uvnitř banky,,"Děkujeme za dar. Abychom jej mohli přijmout, potřebujeme znát Vaše jméno a příjmení+ datum narození. Napište je do poznámky nebo na dary@cz",,,,Vrácení daru od neidentifikovaného dárce,spd
@@ -800,7 +800,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-08-30,2,Bezhotovostní příjem,Vitesse PSP Limited,PRISPEVEK PRO IMIGRANTA PITOMIA NA,0,0,,Vitesse PSP Limited,spd
 2019-08-26,500,Bezhotovostní příjem,Ivana Chalupová,Ivana Chalupová,,,,Ivana Chalupová - dar,spd
 2019-08-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Dar Blanka Sladká,spd
-2019-08-21,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-08-21,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-08-19,-2000,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,,,Vrácení daru od neidentifikovaného dárce,spd
 2019-08-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
 2019-08-15,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,0,76001,0,Dar Sukup Josef,spd
@@ -814,7 +814,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-07-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,dar JAN FUCIK,spd
 2019-07-29,6501540,Bezhotovostní příjem,MF,,6418,133262019,0,MF,spd
 2019-07-24,1,Bezhotovostní příjem,BABČICKÝ LUKÁŠ,"Prodám zánovní gauč IKEA KLIPPAN, růžová koženka, TOP stav. Praha 14.2800 KčVíce na tel.: 704 269 307",,,,BABČICKÝ LUKÁŠ,spd
-2019-07-23,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-07-23,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-07-22,300,Bezhotovostní příjem,DOLEŽAL TOMÁŠ,ČLENSKÝ PŘÍSPĚVEK  Doležal Michalč.p. 943,0,943,0,DOLEŽAL TOMÁŠ,spd
 2019-07-22,3790,Vklad v hotovosti,Dar - za odznaky,,558,11000,,Dar - za odznaky,spd
 2019-07-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Blanka Sladká,spd
@@ -827,7 +827,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-07-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,SKŘÍČKOVÁ MARCELA dar,spd
 2019-07-11,5000,Bezhotovostní příjem,"Holík Jaroslav,Ing.",dotace SPD,308,76001,,"Dar od Holík Jaroslav,Ing.",spd
 2019-07-08,300,Bezhotovostní příjem,GOLCOVA SVETLANA,Platce 1532,,27201,,dar od GOLCOVA SVETLANA,spd
-2019-07-08,-2e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
+2019-07-08,-200000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,,,,Převod prostředků z transparentního účtu na účet SPD - Personální platby,spd
 2019-07-01,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar od JAN FUCIK,spd
 2019-06-28,300,Bezhotovostní příjem,Iveta Hančlová,,,2139,,Dar od Iveta Hančlová,spd
 2019-06-28,0.01,Bezhotovostní příjem,RADEK BRENDA,"OBJIMANI S KOMUNISTY, PODLEZANI BURESOVI - VIC UZ KADIT DO OBLICEJE SVÝCH VOLICU ANI NEMUZES, OKAMURO:-))",,,,RADEK BRENDA,spd
@@ -840,7 +840,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-06-24,0.01,Bezhotovostní příjem,RADEK BRENDA,JAK JSTE PYSNI NA VYMYTI MOZKU TERORISTY BALDY? AZ K FINGOVANI TERORUVEDE VASE SIRENI LZI A NENAVISTI,,,,RADEK BRENDA,spd
 2019-06-24,0.01,Bezhotovostní příjem,RADEK BRENDA,POSLANEC KOHOUTEK (SPD) TAKE BOJUJE PROTI LICHVE? TIM ZE LIDI DOSTAVAJI JEHO NEFER PUJCKY DO EXEKUCI?,,,,RADEK BRENDA,spd
 2019-06-21,0.01,Bezhotovostní příjem,RADEK BRENDA,"SPD JE BEZEDNA ZUMPA, VYDAVAT NACKOVSTVI ZA VLASTENECTVI, FUJ!",,,,RADEK BRENDA,spd
-2019-06-20,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-06-20,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
 2019-06-20,300,Bezhotovostní příjem,PATRIK MAGYARICS,Patrik Magyarics clensky poplatek,,0,,PATRIK MAGYARICS,spd
 2019-06-19,-2700000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-06-19,8637500,Bezhotovostní příjem,MF,,6418,74152019,0,MF,spd
@@ -853,13 +853,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-06-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,Dar od SKŘÍČKOVÁ MARCELA,spd
 2019-06-06,300,Bezhotovostní příjem,GOLCOVA SVETLANA,platce 1532,,27201,,Dar od GOLCOVA SVETLANA,spd
 2019-06-06,750,Bezhotovostní příjem,FRIML JAKUB,,,0,,Dar od FRIML JAKUB,spd
-2019-06-05,-5e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
-2019-06-05,-1e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
+2019-06-05,-500000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-06-05,-1000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-05-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar od JAN FUCIK,spd
 2019-05-27,10000,Bezhotovostní příjem,"Holík Jaroslav,Ing.",dotace - silový trojboj mistrovstvírepubliky,308,76001,,"Dar od Holík Jaroslav,Ing.",spd
-2019-05-24,-1e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
+2019-05-24,-1000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-05-24,2000,Bezhotovostní příjem,František Smutný,Volič SPD a příznivec Tomia Okamury František senior. Těším se na výprask eurohujerů a na vystoupení z EU pokud se sama nerzpadne.,,,,Dar od František Smutný,spd
-2019-05-22,-2e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
+2019-05-22,-2000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-05-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Dar od Blanka Sladká,spd
 2019-05-20,400,Bezhotovostní příjem,Hlaváč Jaroslav,"Hlaváč Jaroslav, Mayerova 5, ČeskéBudějovice 6, PSČ: 37001, nar. 9.6. 1976 v Českých Budějovicích",,,,Dar od Hlaváč Jaroslav,spd
 2019-05-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
@@ -870,19 +870,19 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-05-15,100,Bezhotovostní příjem,Sukup Josef,finanční dar od vašeho člena SPD -Josef Sukup  ZL kraj,,76001,,Dar od Sukup Josef,spd
 2019-05-15,100,Platba převodem uvnitř banky,"Měchura, Richard","DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",21,60200,,"DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",spd
 2019-05-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Příspěvek SPD,,14000,,Dar od Wisiorek Michal - Příspěvek SPD,spd
-2019-05-14,-3e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
+2019-05-14,-3000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-05-14,-0.01,Bezhotovostní platba,,Vrácení daru od neidentifikovaného dárce,,333,,Vrácení daru od neidentifikovaného dárce,spd
 2019-05-14,-200,Bezhotovostní platba,,"Děkujeme za dar, aby jsme jej mohli přijmout prosím napište na dary@spd.cz Vaše data narození a adresu bydliště.",,333,,Vrácení daru od neidentifikovaného dárce,spd
 2019-05-14,-100,Bezhotovostní platba,,"Děkujeme za dar, aby jsme jej mohli přijmout prosím napište na dary@spd.cz Vaše data narození a adresu bydliště.",,333,,Vrácení daru od neidentifikovaného dárce,spd
 2019-05-14,-368,Bezhotovostní platba,,"Děkujeme za dar, aby jsme jej mohli přijmout prosím napište na dary@spd.cz Vaše data narození a adresu bydliště. U darů nad 1000 kč",,333,,Vrácení daru od neidentifikovaného dárce,spd
 2019-05-14,-0.3,Bezhotovostní platba,,"Vrácení 30 darů ve výši 0,01 Kč  od neidentifikovaného dárce",,333,,"Vrácení 30 darů ve výši 0,01 Kč  od neidentifikovaného dárce",spd
-2019-05-13,-4e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
+2019-05-13,-4000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,Převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-05-13,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,Dar od SKŘÍČKOVÁ MARCELA,spd
-2019-05-10,-2e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-05-10,-2000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-05-09,300,Bezhotovostní příjem,GOLCOVA SVETLANA,SPD 1532,,272001,,Dar od GOLCOVA SVETLANA,spd
 2019-05-06,10000,Bezhotovostní příjem,PAVEL SUBRT,DAR,,,,Dar od PAVEL SUBRT,spd
 2019-05-03,8704861,Bezhotovostní příjem,MF,,6418,14232019,0,MF,spd
-2019-05-02,-3e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-05-02,-3000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-05-02,-2160,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet pro doplňovací volby do Senátu,,,,Převod prostředků na transparentní účet pro doplňovací volby do Senátu,spd
 2019-04-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar od JAN FUCIK,spd
 2019-04-30,20000,Bezhotovostní příjem,VÍCH RADOVAN,Radovan Vích - Sponzorský dar,,46001,,Dar od VÍCH RADOVAN,spd
@@ -890,10 +890,10 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-04-28,2500,Platba převodem uvnitř banky,"Mgr., Ph.D. Pána, Lubomír",dar pro volby do EP pro J. Pupavovou / Jihočeský kraj,,37001,,dar pro volby do EP pro J. Pupavovou / Jihočeský kraj,spd
 2019-04-26,200,Bezhotovostní příjem,Lazar Roman,,0,0,0,Dar od Lazar Roman,spd
 2019-04-26,999,Bezhotovostní příjem,Lukáš Kohout,"Dar na volby do EP. Od: Lukáš Kohout, Křižanov 31. 398 43 Bernartice.Datum narození. 4.10. 1984",,,,Dar od Lukáš Kohout,spd
-2019-04-24,-5e+05,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-04-24,-500000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-04-23,400,Bezhotovostní příjem,Hlaváč Jaroslav,"Hlaváč Jaroslav, Mayerova 5, ČeskéBudějovice 6, PSČ: 37001, nar. 9.6. 1976 v Českých Budějovicích",,,,Dar od Hlaváč Jaroslav,spd
 2019-04-23,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Dar od Blanka Sladká,spd
-2019-04-17,-1e+06,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-04-17,-1000000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-04-16,1000,Bezhotovostní příjem,RYŠKOVÁ KVĚTA,Dar na volební kampaň,0,77900,0,Dar od RYŠKOVÁ KVĚTA,spd
 2019-04-16,300,Bezhotovostní příjem,GOLCOVA SVETLANA,SPD 1532,,27201,,Dar od GOLCOVA SVETLANA,spd
 2019-04-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
@@ -903,17 +903,17 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-04-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Příspěvek SPD,,14000,,Dar od Wisiorek Michal - Příspěvek SPD,spd
 2019-04-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,Dar od SKŘÍČKOVÁ MARCELA,spd
 2019-04-11,-50,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu SPD na transparentní účet SPD pro doplňovací volby do Senátu P9,,,,Převod prostředků z transparentního účtu SPD na transparentní účet SPD pro doplňovací volby do Senátu P9,spd
-2019-04-10,-4e+05,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
-2019-04-10,-4e+05,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-04-10,-400000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd
+2019-04-10,-400000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-04-10,1000,Bezhotovostní příjem,PETRÍK DUŠAN,"Fin.dar Dušan Petrík,Chodská 1384,Rožnov p.R.nar.20.12.1961",,76001,,Dar od PETRÍK DUŠAN,spd
-2019-04-03,-4e+05,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-04-03,-400000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-04-01,300,Bezhotovostní příjem,STRNAD PETR,Petr Strnad Liberec 080,,9,,Dar od STRNAD PETR,spd
 2019-04-01,200,Bezhotovostní příjem,"Vidlička Pavel,Ing.",,558,731,,"Dar od Vidlička Pavel,Ing.",spd
 2019-04-01,500,Bezhotovostní příjem,"Oplt Karel,Ing.",Oplt VĚNEC,8,1212,2042019,"Dar od Oplt Karel,Ing.",spd
 2019-04-01,999,Bezhotovostní příjem,"HOTMAR ZDENĚK, ING","členský příspěvek Z.Hotmar, Rožnovp.R.",308,692,,"Dar od HOTMAR ZDENĚK, ING",spd
 2019-04-01,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar od JAN FUCIK,spd
 2019-03-29,1000,Bezhotovostní příjem,Judasová Daniela,Dar od Jaroslav Judas 15.5.1952 Slížany č.146 Morkovice-Slížany 76833,0,76001,0,Dar od Judasová Daniela,spd
-2019-03-27,-3e+05,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-03-27,-300000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-03-27,200,Bezhotovostní příjem,ANNA NOVAKOVA,"ANNA NOVÁKOVÁ, VĚNCE",,11000,,Dar od ANNA NOVAKOVA,spd
 2019-03-27,600,Bezhotovostní příjem,Eva Musilová,Věnce + poplatky Eva Kashakashvili,,,,Dar od Eva Musilová,spd
 2019-03-27,100,Bezhotovostní příjem,STĚHULE PETR,VENCE,0,11000,0,Dar od STĚHULE PETR,spd
@@ -946,11 +946,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-03-04,100,Bezhotovostní příjem,KOCMAN JIŘÍ,dar věnec 8.5.2019 Praha,0,11000,0,Dar od KOCMAN JIŘÍ,spd
 2019-03-02,300,Platba převodem uvnitř banky,"JUDr. Bondarenková, Vladimíra",VĚNCE,,11000,,dar na VĚNCE,spd
 2019-03-01,499486.73,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),převod prostředků z transparentního volebního účtu SPD pro volby do PS PČR 2017 na transparentní účet SPD,,,,převod prostředků z transparentního volebního účtu SPD pro volby do PS PČR 2017 na transparentní účet SPD,spd
-2019-02-28,-4e+05,Platba převodem uvnitř banky,,Převod prostředků na účet SPD,,,,Převod prostředků na účet SPD,spd
+2019-02-28,-400000,Platba převodem uvnitř banky,,Převod prostředků na účet SPD,,,,Převod prostředků na účet SPD,spd
 2019-02-28,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar od JAN FUCIK,spd
 2019-02-28,100,Bezhotovostní příjem,RAZDIK TOMAS,Dar Ruzena Razdikova,,70200,,Dar od RAZDIK TOMAS,spd
 2019-02-28,100,Bezhotovostní příjem,RAZDIK TOMAS,Dar Tomas Razdik,,70200,,Dar od RAZDIK TOMAS,spd
-2019-02-27,-3e+05,Platba převodem uvnitř banky,,převod prostředků mezi účty,,,,převod prostředků mezi účty,spd
+2019-02-27,-300000,Platba převodem uvnitř banky,,převod prostředků mezi účty,,,,převod prostředků mezi účty,spd
 2019-02-27,0.01,Bezhotovostní příjem,ŠVÁB MARTIN,Tomio jsi obchodník se strachem.,0,0,0,Dar od ŠVÁB MARTIN,spd
 2019-02-26,100,Platba převodem uvnitř banky,"Petera, Josef",členský příspěvek,,,,členský příspěvek,spd
 2019-02-26,300,Bezhotovostní příjem,MACKA VLADIMIR,601237,558,0,,Dar od MACKA VLADIMIR,spd
@@ -978,8 +978,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-02-14,50,Bezhotovostní příjem,Jiří Strnad,Jiří Strnad 434 MSK,0,70200,,Dar od Jiří Strnad,spd
 2019-02-14,0.01,Bezhotovostní příjem,Michal Kubíček,"SPD je pro hlupáky, když máš rozumvíš to taky. piTomio je obchodník se strachem",,,,Michal Kubíček,spd
 2019-02-14,300,Bezhotovostní příjem,BLASKOVIC MILAN,Milan Blaskovic clensky 2019,,1127,,Dar od BLASKOVIC MILAN,spd
-2019-02-13,-2e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
-2019-02-13,-3e+06,Platba převodem uvnitř banky,,převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
+2019-02-13,-200000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2019-02-13,-3000000,Platba převodem uvnitř banky,,převod prostředků na transparentní účet pro volby do Evropského parlamentu,,,,převod prostředků na transparentní účet pro volby do Evropského parlamentu,spd
 2019-02-13,-19999,Bezhotovostní platba,,děkujeme za dar. abychom mohli dar přijmout potřebujeme vaše data narození a darovací smlouvu Prosím ozvěte se na email dary@spd.cz,,,,vrácení daru,spd
 2019-02-13,1000,Bezhotovostní příjem,BOROVICKA BOHUMIL,"podpora hnuti SPD, Bohumil Borovicka; Jicinska99, Pribor; 27.11.1961",,0,,Dar od BOROVICKA BOHUMIL,spd
 2019-02-13,100,Bezhotovostní příjem,Owczarzy Roman,1108 Roman Owczarzy Sadová 652 Orlová-poruba Moravskoslezský kraj,,70200,,Dar od Owczarzy Roman,spd
@@ -1033,15 +1033,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-02-06,0.01,Bezhotovostní příjem,Michal Kubíček,Stop Populismu #piTomio,,,,Michal Kubíček,spd
 2019-02-06,50,Bezhotovostní příjem,SEVCIK DAVID,,,70200,,Dar od SEVCIK DAVID,spd
 2019-02-05,-1,Bezhotovostní platba,,děkujeme za dar. abychom mohli dar přijmout potřebujeme vaše data narození a darovací smlouvu Prosím ozvěte se na email dary@spd.cz,,,,vrácení daru,spd
-2019-02-05,-7e+05,Platba převodem uvnitř banky,,Převod prostředků mezi účty SPD,,,,Převod prostředků mezi účty SPD,spd
+2019-02-05,-700000,Platba převodem uvnitř banky,,Převod prostředků mezi účty SPD,,,,Převod prostředků mezi účty SPD,spd
 2019-02-05,100,Bezhotovostní příjem,Pustějovský René,Dar  na podporu SPD,,70200,,Dar od Pustějovský René,spd
 2019-02-04,300,Bezhotovostní příjem,VOLNÝ LUBOMÍR,,0,70200,0,Dar od VOLNÝ LUBOMÍR,spd
-2019-01-30,-2e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2019-01-30,-200000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
 2019-01-30,-11000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet volby do zastupitelstev obcí 2018,spd
 2019-01-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,Dar od JAN FUCIK,spd
 2019-01-29,-10000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD - volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet SPD - volby do zastupitelstev obcí 2018,spd
 2019-01-29,300,Bezhotovostní příjem,NEMETH KAREL,c. pruk. 777.  24.8.1959,,70200,,Dar od NEMETH KAREL,spd
-2019-01-28,-2e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2019-01-28,-200000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
 2019-01-28,100,Bezhotovostní příjem,RAZDIK TOMAS,Dar Ruzena Razdikova,,70200,,Dar od RAZDIK TOMAS,spd
 2019-01-28,100,Bezhotovostní příjem,RAZDIK TOMAS,Dar Tomas Razdik,,70200,,Dar od RAZDIK TOMAS,spd
 2019-01-25,100,Bezhotovostní příjem,PLEVKOVÁ JANA,Jarmila Plevkova,,,,Dar od PLEVKOVÁ JANA,spd
@@ -1050,7 +1050,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2019-01-21,100,Bezhotovostní příjem,Bojková Darja,Darja Bojkova Školská 461/62 Karviná MSK č.pr. 789,,70200,,Dar od Bojková Darja,spd
 2019-01-21,100,Bezhotovostní příjem,HAMMER LADISLAV,,0,70200,0,Dar od HAMMER LADISLAV,spd
 2019-01-17,400,Bezhotovostní příjem,KYZLÍK MICHAL,Za 2018--2019,0,1771,0,Dar od KYZLÍK MICHAL,spd
-2019-01-16,-2e+05,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
+2019-01-16,-200000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,,,,Převod prostředků na transparentní účet Volby do Evropského parlamentu 2019,spd
 2019-01-16,200,Bezhotovostní příjem,DUDZIK BRONISLAV,,0,70200,0,Dar od DUDZIK BRONISLAV,spd
 2019-01-16,100,Platba převodem uvnitř banky,"Ing. Cvrček, Vojtěch",,,,,,spd
 2019-01-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,"KREJCAROVA JITKA, DAR",spd
@@ -1111,7 +1111,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-12-13,100,Bezhotovostní příjem,Owczarzy Roman,1108 Roman Owczarzy Sadová 652 Orlová-poruba Moravskoslezský kraj,,70200,,Owczarzy Roman,spd
 2018-12-13,100,Bezhotovostní příjem,ČECHOVÁ VĚRA,,0,70200,0,ČECHOVÁ VĚRA,spd
 2018-12-13,100,Bezhotovostní příjem,KUBIN VACLAV,178 - Vaclav Kubin,,70200,,KUBIN VACLAV,spd
-2018-12-12,-2e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2018-12-12,-200000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
 2018-12-12,15000,Bezhotovostní příjem,MOUDRÝ BOHUMIL ING.,"Bohumil Moudrý Brodek u Prostěj.26, 29.8.1948",308,77900,0,MOUDRÝ BOHUMIL ING.,spd
 2018-12-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,SKŘÍČKOVÁ MARCELA,spd
 2018-12-12,200,Bezhotovostní příjem,SIROKY ROBERT,"Robert Siroky, Nova Ves 127, 4633130.8.1970GO SPD GOprispevek",,799,,SIROKY ROBERT,spd
@@ -1121,7 +1121,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-12-06,50,Bezhotovostní příjem,SEVCIK DAVID,,,70200,,SEVCIK DAVID,spd
 2018-12-05,100,Bezhotovostní příjem,Pustějovský René,Dar  na podporu SPD,,70200,,Pustějovský René,spd
 2018-12-04,-150000,Platba převodem uvnitř banky,,Převod  prostředků na účet SPD pro personální platby,,,,Převod  prostředků na účet SPD pro personální platby,spd
-2018-12-04,-2e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2018-12-04,-200000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
 2018-12-04,300,Bezhotovostní příjem,VOLNÝ LUBOMÍR,,0,70200,0,VOLNÝ LUBOMÍR,spd
 2018-12-04,20000,Bezhotovostní příjem,ZAPLETALOVA ZANETA,Zapletalovi,,0,,ZAPLETALOVA ZANETA,spd
 2018-11-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
@@ -1132,7 +1132,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-11-26,100,Bezhotovostní příjem,PLEVKOVÁ JANA,Jarmila Plevkova,,,,PLEVKOVÁ JANA,spd
 2018-11-25,-70000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet SPD volby do zastupitelstev obcí 2018,spd
 2018-11-23,300,Bezhotovostní příjem,HRABACKOVA LUDMILA,702015,558,1549,22051958,HRABACKOVA LUDMILA,spd
-2018-11-22,-1e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2018-11-22,-100000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
 2018-11-22,-115000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet SPD volby do zastupitelstev obcí 2018,spd
 2018-11-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Blanka Sladká,spd
 2018-11-21,100,Bezhotovostní příjem,HAMMER LADISLAV,,0,70200,0,HAMMER LADISLAV,spd
@@ -1150,7 +1150,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-11-15,150,Bezhotovostní příjem,HRONÍK DAN,Dan Hroník,,70200,,HRONÍK DAN,spd
 2018-11-15,100,Platba převodem uvnitř banky,"Měchura, Richard","DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",21,60200,,"DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",spd
 2018-11-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Příspěvek SPD,,14000,,Wisiorek Michal - Příspěvek SPD,spd
-2018-11-14,-1e+05,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
+2018-11-14,-100000,Platba převodem uvnitř banky,,Převod prostředků na běžný účet SPD,,,,Převod prostředků na běžný účet SPD,spd
 2018-11-14,-60000,Platba převodem uvnitř banky,,převod prostředků na transparentní účet SPD volby do zastupitelstev obcí 2018,,,,převod prostředků na transparentní účet SPD volby do zastupitelstev obcí 2018,spd
 2018-11-14,50,Bezhotovostní příjem,Jiří Strnad,Jiří Strnad 434 MSK,0,70200,,Jiří Strnad,spd
 2018-11-14,120,Bezhotovostní příjem,SULC JAROSLAV,Dar,,0,,SULC JAROSLAV,spd
@@ -1190,7 +1190,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-25,-50000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD - volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet SPD - volby do zastupitelstev obcí 2018,spd
 2018-10-25,100,Bezhotovostní příjem,PLEVKOVÁ JANA,Jarmila Plevkova,,,,PLEVKOVÁ JANA,spd
 2018-10-25,4,Bezhotovostní příjem,Martin Švec,"Když nevyšel ten senát, snad vyjdeEvropa :) Váš věrný zaměstnanec pmMartin Švec :)",0,,,Martin Švec,spd
-2018-10-24,-3e+05,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD -  volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet SPD -  volby do zastupitelstev obcí 2018,spd
+2018-10-24,-300000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD -  volby do zastupitelstev obcí 2018,,,,Převod prostředků na transparentní účet SPD -  volby do zastupitelstev obcí 2018,spd
 2018-10-24,-52000,Platba převodem uvnitř banky,,Převod prostředků na transparentní účet SPD volby do Senátu 2018,,,,Převod prostředků na transparentní účet SPD volby do Senátu 2018,spd
 2018-10-22,300,Platba převodem uvnitř banky,"Mgr. Kobza, Jiří",členský příspěvek Daniel Kobza Praha 10,,1747,,členský příspěvek Daniel Kobza Praha 10,spd
 2018-10-22,400,Bezhotovostní příjem,Hlaváč Jaroslav,"Jaroslav Hlaváč, 9.6. 1976, Mayerova 665/5, České Budějovice, PSČ: 37001",,,,Hlaváč Jaroslav,spd
@@ -1200,7 +1200,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-22,100,Bezhotovostní příjem,HAMMER LADISLAV,,0,70200,0,HAMMER LADISLAV,spd
 2018-10-18,-150000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
 2018-10-17,-2200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
-2018-10-17,-3e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní volební účet SPD - volby do zastupitelstev obcí 2018,spd
+2018-10-17,-300000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní volební účet SPD - volby do zastupitelstev obcí 2018,spd
 2018-10-17,-580000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
 2018-10-16,200,Bezhotovostní příjem,Ing. Libuše Volná,791 - příspěvek na volební kampaň,0,70200,,Ing. Libuše Volná,spd
 2018-10-16,200,Bezhotovostní příjem,DUDZIK BRONISLAV,,0,70200,0,DUDZIK BRONISLAV,spd
@@ -1220,19 +1220,19 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-15,100,Platba převodem uvnitř banky,"Měchura, Richard","DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",21,60200,,"DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",spd
 2018-10-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Příspěvek SPD,,14000,,Wisiorek Michal - Příspěvek SPD,spd
 2018-10-14,-150000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
-2018-10-14,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do ZASTUPITELSTEV OBCÍ 2018,spd
+2018-10-14,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do ZASTUPITELSTEV OBCÍ 2018,spd
 2018-10-12,300,Bezhotovostní příjem,SKŘÍČKOVÁ MARCELA,Dar SPD,514,514,514,SKŘÍČKOVÁ MARCELA,spd
 2018-10-12,200,Bezhotovostní příjem,SIROKY ROBERT,"Robert Siroky, Nova Ves 127, 4633130.8.1970GO SPD GOprispevek",,799,,SIROKY ROBERT,spd
-2018-10-11,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-10-11,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-10-09,-8200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-10-09,-2800000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-10-08,5000,Bezhotovostní příjem,Jarošová Monika,"M.Jarošová,Masarykova 333, Bohušovice n/O, 30.12.1970",0,40001,0,Jarošová Monika,spd
 2018-10-08,8000,Bezhotovostní příjem,DVOŘÁK JAROSLAV,,558,76001,,DVOŘÁK JAROSLAV,spd
 2018-10-08,50,Bezhotovostní příjem,SEVCIK DAVID,,,70200,,SEVCIK DAVID,spd
 2018-10-06,-350000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
-2018-10-06,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-10-06,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-10-05,5000,Bezhotovostní příjem,"Kamil Běrský, MUDr.",,308,10068,,"Kamil Běrský, MUDr.",spd
-2018-10-05,2e+05,Vklad v hotovosti,,,558,11000,,dar  pro SPD,spd
+2018-10-05,200000,Vklad v hotovosti,,,558,11000,,dar  pro SPD,spd
 2018-10-05,100,Bezhotovostní příjem,Pustějovský René,Dar  na podporu SPD,,70200,,Pustějovský René,spd
 2018-10-04,300,Bezhotovostní příjem,VOLNÝ LUBOMÍR,,0,70200,0,VOLNÝ LUBOMÍR,spd
 2018-10-04,84000,Bezhotovostní příjem,Valsamisová Pynelopi,Senát Ostrava-město,0,70200,0,Valsamisová Pynelopi,spd
@@ -1242,7 +1242,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-02,100,Bezhotovostní příjem,Kubíčková Ilona,Ilona Kubíčková,0,1022,0,Kubíčková Ilona,spd
 2018-10-02,1000,Bezhotovostní příjem,Dorna Marek,"Marek Dorna, Kravare, CP T995",0,70200,0,Dorna Marek,spd
 2018-10-02,84000,Bezhotovostní příjem,Valsamisová Pynelopi,Senát Ostrava-město,0,70200,0,Valsamisová Pynelopi,spd
-2018-10-01,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-10-01,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-10-01,30000,Bezhotovostní příjem,Španěl Lubomír,Příspěvek na volební kampaň LubomírŠpaněl,,60200,,Španěl Lubomír,spd
 2018-10-01,1000,Bezhotovostní příjem,Ing. Tomáš Polák,pro L. Jakla - dar,0,10026,,Ing. Tomáš Polák,spd
 2018-10-01,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
@@ -1252,7 +1252,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-10-01,200,Bezhotovostní příjem,KUNCICKA ZDENKA,Prispevek na komunalni volby 2018,,0,,KUNCICKA ZDENKA,spd
 2018-09-29,30000,Platba převodem uvnitř banky,"Ing. Hrnčíř, Jan",Příspěvek na volební kampaň Jan Hrnčíř,,60200,,Příspěvek na volební kampaň Jan Hrnčíř,spd
 2018-09-27,500,Platba převodem uvnitř banky,"Ing. Hubený, Jan","dar pro SPD, 22. 3. 1972",,1517151,,"dar pro SPD, 22. 3. 1972",spd
-2018-09-27,-4e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-09-27,-400000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-09-27,100,Bezhotovostní příjem,JAN MASEK,"DAR - JAN MASEK, VISNOVA 827/2, MORAVANY, 18.10.1984",,60200,,JAN MASEK,spd
 2018-09-27,5000,Bezhotovostní příjem,ŽLUVOVÁ ŠÁRKA,"Komunální volby 2018, T952",,70200,,ŽLUVOVÁ ŠÁRKA,spd
 2018-09-25,18000,Vklad v hotovosti,dar,,558,40001,,Mitterwald František,spd
@@ -1261,7 +1261,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-25,3000,Bezhotovostní příjem,KOČÍB SLAVOMÍR ML.,Slavomír Kočíb Otrokovice,0,76001,0,KOČÍB SLAVOMÍR ML.,spd
 2018-09-24,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Blanka Sladká,spd
 2018-09-24,5000,Bezhotovostní příjem,Vladimír Beránek,"Pajgerova Andrea,Senat Nachod 10047",308,10047,,Vladimír Beránek,spd
-2018-09-23,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-09-23,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-09-21,100,Bezhotovostní příjem,HAMMER LADISLAV,,0,70200,0,HAMMER LADISLAV,spd
 2018-09-21,4000,Bezhotovostní příjem,Martin Šatný,Satny Martin Spd opava,0,70200,,Martin Šatný,spd
 2018-09-21,800,Bezhotovostní příjem,"CESKA POSTA, S.P.",posta 707052 19.09.2018 c 6000M*/AMMI 1/RV,0,70200,,"CESKA POSTA, S.P.",spd
@@ -1270,9 +1270,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-20,1000,Bezhotovostní příjem,ROHÁČEK FRANTIŠEK,Sponzorský dar SPD,,470806038,,ROHÁČEK FRANTIŠEK,spd
 2018-09-20,100,Bezhotovostní příjem,Bojková Darja,Darja Bojkova Školská 461/62 Karviná MSK č.pr. 789,,70200,,Bojková Darja,spd
 2018-09-20,20000,Bezhotovostní příjem,"TRICROSS-INVEST, A.S",Karel Kříž - Tricross Invest,0,10026,0,"TRICROSS-INVEST, A.S",spd
-2018-09-20,1e+05,Bezhotovostní příjem,VÍCH RADOVAN,Dar pro RK SPD LBK,,46001,,VÍCH RADOVAN,spd
-2018-09-19,-4e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
-2018-09-19,-5e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-09-20,100000,Bezhotovostní příjem,VÍCH RADOVAN,Dar pro RK SPD LBK,,46001,,VÍCH RADOVAN,spd
+2018-09-19,-400000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-09-19,-500000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-09-19,5000,Bezhotovostní příjem,Mikšovský Petr,"Láďo, držím palce. Petr",,10026,,Mikšovský Petr,spd
 2018-09-19,2000,Bezhotovostní příjem,Klicperová Jana,Jana Klicperová SPD Pardubice,,53002,,Klicperová Jana,spd
 2018-09-19,30000,Bezhotovostní příjem,"Holík Jaroslav,Ing.",,308,4,0,"760 01 Holík Jaroslav,Ing.",spd
@@ -1290,9 +1290,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-17,1080,Bezhotovostní příjem,IVANA BENOVA,"DRŽTE SE, PROSÍM! :-)",,108,,IVANA BENOVA,spd
 2018-09-15,100,Platba převodem uvnitř banky,"Měchura, Richard","DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",21,60200,,"DAR SPD OD RICHARD MĚCHURA (0021), JMK (B0003) - PŘISPÍVEJME PRAVIDELNĚ",spd
 2018-09-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Příspěvek SPD,,14000,,Wisiorek Michal - Příspěvek SPD,spd
-2018-09-14,-1e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na běžný účet SPD,spd
-2018-09-14,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
-2018-09-14,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do zastupitelstev obcí 2018,spd
+2018-09-14,-100000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na běžný účet SPD,spd
+2018-09-14,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
+2018-09-14,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do zastupitelstev obcí 2018,spd
 2018-09-14,50,Bezhotovostní příjem,Jiří Strnad,Jiří Strnad 434 MSK,0,70200,,Jiří Strnad,spd
 2018-09-14,2000,Bezhotovostní příjem,Čmiel Filip,Ostrava Město,,70200,,Čmiel Filip,spd
 2018-09-14,120,Bezhotovostní příjem,SULC JAROSLAV,,,0,,SULC JAROSLAV,spd
@@ -1313,13 +1313,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-11,15000,Bezhotovostní příjem,Čermáková Miroslava,Ústecký kraj - Teplice,0,40001,0,Čermáková Miroslava,spd
 2018-09-10,1000,Bezhotovostní příjem,KLÁSEK PAVEL,"Pavel Klásek, Alejní 18, Kravaře,74721,T 1021",0,70200,0,KLÁSEK PAVEL,spd
 2018-09-10,8000,Bezhotovostní příjem,DVOŘÁK JAROSLAV,Dvořák Jaroslav,558,76001,,DVOŘÁK JAROSLAV,spd
-2018-09-09,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-09-09,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-09-07,300,Bezhotovostní příjem,Jiří Jakoubek,,,10026,,Jiří Jakoubek,spd
 2018-09-07,10000,Bezhotovostní příjem,DUBSKY TOMAS-AURIGA,Darovaci smlouva,,0,,DUBSKY TOMAS-AURIGA,spd
 2018-09-06,50,Bezhotovostní příjem,SEVCIK DAVID,,,70200,,SEVCIK DAVID,spd
 2018-09-05,100,Bezhotovostní příjem,Pustějovský René,Dar  na podporu SPD,,70200,,Pustějovský René,spd
 2018-09-05,78000,Platba převodem uvnitř banky,"Novák, Vítězslav",Dar pro RK SPD Praha,,11000,,Dar pro RK SPD Praha,spd
-2018-09-04,-5e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do zastupitelstev obcí 2018,spd
+2018-09-04,-500000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do zastupitelstev obcí 2018,spd
 2018-09-04,5000,Platba převodem uvnitř banky,"Bitomský, David","David Bitomský, Vyhlídalova 360/26, 747 21 Kravaře, číslo průkazu 1293, SPD Kravaře",,70200,,"David Bitomský, Vyhlídalova 360/26, 747 21 Kravaře, číslo průkazu 1293, SPD Kravaře",spd
 2018-09-04,300,Bezhotovostní příjem,VOLNÝ LUBOMÍR,,0,70200,0,VOLNÝ LUBOMÍR,spd
 2018-09-04,1000,Bezhotovostní příjem,"Kufa Bohdan,MUDr.",DAR PRO KANDIDÁTA DO SENÁTU BOHDANAKUFU,0,10074,0,"Kufa Bohdan,MUDr.",spd
@@ -1331,21 +1331,21 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-09-03,500,Bezhotovostní příjem,"Jaklová Dana,MgA.",podpora Dj,,10026,,"Jaklová Dana,MgA.",spd
 2018-09-03,350,Bezhotovostní příjem,MRKLAS PAVEL,Pavel Mrklas L257,,0,,MRKLAS PAVEL,spd
 2018-09-01,3000,Platba převodem uvnitř banky,"Cejpek, Pavel","Pavel Cejpek,12.3.1968, Staňkova 53002 Pardubice",,6803120071,,"Pavel Cejpek,12.3.1968, Staňkova 53002 Pardubice",spd
-2018-08-31,-1e+06,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-08-31,-1000000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-08-31,4000,Vklad v hotovosti,,,558,36001,,,spd
 2018-08-31,5000,Bezhotovostní příjem,BEZDĚK MIROSLAV,KOMUNÁLNÍ VOLBY HAVÍŘOV,,70200,603762953,BEZDĚK MIROSLAV,spd
 2018-08-31,20000,Bezhotovostní příjem,VKLAD HOTOVOSTI V KB,HAVELKOVÁ RENATAPRAŽSKÉHO POVSTÁN BENEŠOV U PRAHYdar na senátní kampan pro M. Křečka,0,10041,0,VKLAD HOTOVOSTI V KB,spd
 2018-08-31,20000,Bezhotovostní příjem,"Podalová Milada,Mgr.",dar Zdeněk Podal pro senátní volbyNáchod,0,10047,0,"Podalová Milada,Mgr.",spd
 2018-08-31,30000,Bezhotovostní příjem,"Podalová Milada,Mgr.",dar Zdeněk Podal ve prospěch volebHradec Králové,0,50002,0,"Podalová Milada,Mgr.",spd
-2018-08-30,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-08-30,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-08-30,-0.01,Platba převodem uvnitř banky,,Vrácení neidentifikovaného daru,,100,,Vrácení neidentifikovaného daru,spd
-2018-08-30,-5e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-08-30,-500000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-08-30,10000,Bezhotovostní příjem,BLÁHOVÁ IRENA,"70200 (pro Ostrava Jih 700 30)Janeček František, 6.1.1953, Lumírova 7, 700 30 Ostrava Jih",,70200,70030,BLÁHOVÁ IRENA,spd
 2018-08-30,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2018-08-30,50000,Bezhotovostní příjem,ROZVORAL RADEK,Dar pro Středočeský regionální klub,308,27201,0,ROZVORAL RADEK,spd
 2018-08-30,1000,Bezhotovostní příjem,ŠPUNAR ROBERT,,0,0,0,ŠPUNAR ROBERT,spd
 2018-08-30,0.01,Platba převodem uvnitř banky,VAŠE DROGERIE s.r.o.,"nazdar Pitomio, kdy odpluješ na gumovém člunu tvého guru, třeba na mars. tady tě opravdu nechceme!",,,,"nazdar Pitomio, kdy odpluješ na gumovém člunu tvého guru, třeba na mars. tady tě opravdu nechceme!",spd
-2018-08-29,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-08-29,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-08-29,500,Bezhotovostní příjem,Oldřich Silný,"Senat pak zrusit, díky",,10026,10026,Oldřich Silný,spd
 2018-08-29,300,Bezhotovostní příjem,NEMETH KAREL,c. pruk. 777.  24.8.1959,,70200,,NEMETH KAREL,spd
 2018-08-28,35000,Bezhotovostní příjem,"K2S FACILITY, SPOL.",Dar pro kandidata do Senatu LudkaKulu,,10023,,"K2S FACILITY, SPOL.",spd
@@ -1363,7 +1363,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-22,2959.43,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),převod prostředků z účtu 2700931681,,,,převod prostředků z účtu 2700931681,spd
 2018-08-22,22259,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),převod prostředků z účtu 2800931718,,,,převod prostředků z účtu 2800931718,spd
 2018-08-22,200,Bezhotovostní příjem,Blanka Sladká,Č. průkazu: BV104,308,,,Blanka Sladká,spd
-2018-08-21,-2e+05,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
+2018-08-21,-200000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod na transparentní  volební účet SPD - volby do Senátu PČR 2018,spd
 2018-08-21,1000,Bezhotovostní příjem,Owczarzy Roman,Roman Owczarzy Orlová-poruba MSK č.p.1108,0,70200,0,Owczarzy Roman,spd
 2018-08-21,100,Bezhotovostní příjem,HAMMER LADISLAV,,0,70200,0,HAMMER LADISLAV,spd
 2018-08-20,1000,Bezhotovostní příjem,Owczarzy Roman,Roman Owczarzy Orlová-poruba MSK č.p.1108,0,70200,0,Owczarzy Roman,spd
@@ -1399,7 +1399,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2018-08-14,10000,Bezhotovostní příjem,Neuer Roman,SPD Moravská Třebová,0,53002,0,Neuer Roman,spd
 2018-08-14,500,Bezhotovostní příjem,Zábranský Zdeněk,11000,0,0,0,Zábranský Zdeněk,spd
 2018-08-14,15000,Bezhotovostní příjem,MARTIN DLUHOS,OSTRAVA MMO,,70200,,MARTIN DLUHOS,spd
-2018-08-13,-4e+06,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
+2018-08-13,-4000000,Platba převodem uvnitř banky,,převod prostředků na mezi účty,,,,převod prostředků na mezi účty,spd
 2018-08-13,20000,Bezhotovostní příjem,"Kamil Běrský, MUDr.",,308,10068,,"Kamil Běrský, MUDr.",spd
 2018-08-13,100,Bezhotovostní příjem,Owczarzy Roman,1108 Roman Owczarzy Sadová 652 Orlová-poruba Moravskoslezský kraj,,70200,,Owczarzy Roman,spd
 2018-08-13,200,Bezhotovostní příjem,SIROKY ROBERT,"Robert Siroky, Nova Ves 127, 4633130.8.1970GO SPD GOprispevek",,799,,SIROKY ROBERT,spd
