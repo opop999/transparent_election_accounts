@@ -1,4 +1,4 @@
-get_csob_cookie <- function(host_port, container_port, adress) {
+get_csob_cookie <- function(host_port, container_port, address) {
   
 # Loading the required R libraries
   
@@ -14,23 +14,28 @@ get_csob_cookie <- function(host_port, container_port, adress) {
   # Packages loading
   invisible(lapply(packages, library, character.only = TRUE))
   
-# Pull the necessary Docker image
-system("docker pull selenium/standalone-firefox")
-
-Sys.sleep(5)
+# Pull the necessary Docker image (for compatibility reason, we select v3)
+system("docker pull selenium/standalone-firefox:3.141.59")
 
 # Start the Docker container
-system(paste0("docker run --rm -d --name selenium_headless -p ", host_port, ":", container_port," selenium/standalone-firefox"), wait = FALSE)
+system(paste0("docker run --rm -d --name selenium_headless -p ",
+              host_port,
+              ":",
+              container_port,
+              " -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59"),
+       wait = TRUE)
  
-Sys.sleep(5)
-
 # Connect to a Docker instance of headless Firefox server
 remDr <- remoteDriver(
-  remoteServerAddr = adress,
+  remoteServerAddr = address,
   port = host_port,
-  browserName = "firefox"
+  browserName = "firefox",
+  extraCapabilities = list("moz:firefoxOptions" = list(
+    args = list("--headless")
+  ))
 )
 
+# Wait several seconds
 Sys.sleep(5)
 
 # Request to the server to instantiate browser
@@ -51,7 +56,7 @@ cookies_df <-  rbindlist(cookies_list, fill = TRUE)
 # Subset the dataframe and set the cookie as an environmental variable
 cookie = cookies_df[name == "TSPD_101", value]
 
-# Delete the session & close open browsers.
+# Close the headless browser
 remDr$quit()
 
 # Stop the Docker container
@@ -61,12 +66,12 @@ return(cookie)
 
 }
 
-
 # Specify arguments of the function
-adress <- "localhost"
+address <- "localhost"
 host_port <- 4445L
 container_port <- 4444
 
 # Run the function
-get_csob_cookie(host_port = host_port, container_port = container_port, adress = adress)
-
+get_csob_cookie(host_port = host_port,
+                container_port = container_port,
+                address = address)
