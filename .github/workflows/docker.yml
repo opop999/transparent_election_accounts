@@ -15,40 +15,74 @@ jobs:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
     container: rocker/tidyverse:latest
+# 
+#     # Load repo and run the scraping script
+#     steps:
+#     - uses: actions/checkout@v2
+#     - name: Compile bank accounts list
+#       run: Rscript 00_save_bank_accounts.R
+#     # Older, API-based extraction workflow for KB. Now obsolete, since unique token is required for each call.
+#     #- name: Scrape KB bank accounts with API
+#     #  run: Rscript 01_scrape_kb_accounts.R
+#     - name: Scrape FIO bank accounts
+#       run: Rscript 01_scrape_fio_accounts.R
+#     - name: Scrape CSOB bank accounts
+#       env:
+#         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
+#       run: Rscript 01_scrape_csob_accounts.R
+#     - name: Scrape Ceska Sporitelna bank accounts
+#       env:
+#         CS_TOKEN: ${{secrets.CS_TOKEN}}
+#       run: Rscript 01_scrape_cs_accounts.R
+#     # - name: Scrape bank accounts using Hlidac statu APIs # We do not use the Hlidac Statu Api for the moment, this part serves as backup
+#     # This action needs a Hlidac Statu API token as an environment variable
+#     #  env:
+#     #      HS_TOKEN: ${{ secrets.HS_TOKEN }}
+#     #  run: Rscript 01_scrape_hlidac_accounts.R
+#     - name: Create summary tables
+#       run: Rscript 02_create_summary_tables.R
+#     - name: Install Flexdashboard package
+#       run: Rscript -e "install.packages('flexdashboard')"
+#     - name: Update Dashboard for GitHub Pages  
+#       run: Rscript -e "rmarkdown::render('index.Rmd')"
+#     - name: Print information about the session
+#       run: Rscript -e "sessionInfo()"
+#     
+#  # Add new files in specified folder, commit along with other modified files, push
+#     - name: Commit files
+#       run: |
+#         git config --local user.name actions-user
+#         git config --local user.email "actions@github.com"
+#         git add data/* index.html
+#         git commit -am "GH Action $(date)"
+#         git push origin master
+#       env:
+#         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+#         username: github-actions
+# 
+# 
+# 
 
-    # Load repo and run the scraping script
     steps:
     - uses: actions/checkout@v2
-    - name: Compile bank accounts list
-      run: Rscript 00_save_bank_accounts.R
-    # Older, API-based extraction workflow for KB. Now obsolete, since unique token is required for each call.
-    #- name: Scrape KB bank accounts with API
-    #  run: Rscript 01_scrape_kb_accounts.R
-    - name: Scrape FIO bank accounts
-      run: Rscript 01_scrape_fio_accounts.R
     - name: Scrape CSOB bank accounts
       env:
         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
       run: Rscript 01_scrape_csob_accounts.R
+    - name: Scrape FIO bank accounts
+      run: Rscript 01_scrape_fio_accounts.R
     - name: Scrape Ceska Sporitelna bank accounts
       env:
         CS_TOKEN: ${{secrets.CS_TOKEN}}
       run: Rscript 01_scrape_cs_accounts.R
-    # - name: Scrape bank accounts using Hlidac statu APIs # We do not use the Hlidac Statu Api for the moment, this part serves as backup
-    # This action needs a Hlidac Statu API token as an environment variable
-    #  env:
-    #      HS_TOKEN: ${{ secrets.HS_TOKEN }}
-    #  run: Rscript 01_scrape_hlidac_accounts.R
     - name: Create summary tables
       run: Rscript 02_create_summary_tables.R
     - name: Install Flexdashboard package
-      run: Rscript -e "install.packages('flexdashboard')"
+      run: Rscript -e "install.packages('flexdashboard', Ncpus = parallel::detectCores())"
     - name: Update Dashboard for GitHub Pages  
       run: Rscript -e "rmarkdown::render('index.Rmd')"
     - name: Print information about the session
       run: Rscript -e "sessionInfo()"
-    
- # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
       run: |
         git config --local user.name actions-user
