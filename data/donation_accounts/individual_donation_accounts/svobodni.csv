@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,100,Okamžitá příchozí platba,ZVONÍK KAREL,DAR PRIZNIVCE,,9415,,ZVONÍK KAREL,svobodni
 2021-10-18,100,Okamžitá příchozí platba,Konrád Juha,příspěvek příznivce Konrád Juha,,9413,,Konrád Juha,svobodni
 2021-10-18,700,Okamžitá příchozí platba,Baroch Robert,dar člena,0,9365,,Baroch Robert,svobodni
 2021-10-18,100,Bezhotovostní příjem,ANTON SECKAR,DAR PRIZNIVCE,1,9410,17102021,ANTON SECKAR,svobodni

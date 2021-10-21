@@ -9,6 +9,7 @@ on:
   push:
     branches: master
     
+# Specify what jobs are run within the action
 jobs: 
   autoscrape:
     # The type of runner that the job will run on
