@@ -8,12 +8,9 @@ on:
     branches: master
 # Specify job parameters    
 jobs: 
-  transparent_accounts_extraction:
+  selenium_extraction:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    env:
-      CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
-      CS_TOKEN: ${{secrets.CS_TOKEN}}
       
     # Load repo and run the scraping script
     steps:
@@ -34,8 +31,30 @@ jobs:
       run: sudo Rscript 00_save_bank_accounts.R
     - name: Scrape KB bank accounts with Selenium
       run: sudo Rscript 01_scrape_kb_accounts_selenium.R
+    - name: Get container info
+      run: |
+        docker ps
+        docker network ls
     - name: Stop Selenium/Firefox container
       run: sudo docker stop selenium_headless
+    - name: Commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/*
+        git commit -am "GH Action $(date)"
+        git push origin master
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
+        
+  api_extraction_and_dashboard:
+    needs: selenium_extraction
+    runs-on: ubuntu-latest
+    container: rocker/tidyverse:latest
+    
+    steps:
+    - uses: actions/checkout@v2
     - name: Scrape CSOB bank accounts
       env:
         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
@@ -54,12 +73,6 @@ jobs:
       run: sudo Rscript -e "rmarkdown::render('index.Rmd')"
     - name: Print information about the session
       run: sudo Rscript -e "sessionInfo()"
-    - name: Get container info
-      run: |
-        docker ps
-        docker network ls
-    
- # Add new files in specified folder, commit along with other modified files, push
     - name: Commit files
       run: |
         git config --local user.name actions-user
