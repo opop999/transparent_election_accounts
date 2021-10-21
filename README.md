@@ -25,7 +25,7 @@
 
 -Training and deployment of machine learning classification model to help identify transaction types. 
 
-### Target transparent bank accounts:
+### Selected transparent bank accounts:
 
 | **POLITICAL SUBJECT**                 | **URL**                                                   | **TYPE OF ACCOUNT**        |
 | :---                                  | :---                                                      | :---                       |
