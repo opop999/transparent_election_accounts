@@ -32,7 +32,6 @@ jobs:
       run: sudo apt install libcurl4-openssl-dev
     - name: Compile bank accounts list
       run: sudo Rscript 00_save_bank_accounts.R
-      run: sudo Rscript 01_scrape_csob_accounts.R
     - name: Scrape KB bank accounts with Selenium
       run: sudo Rscript 01_scrape_kb_accounts_selenium.R
     - name: Stop Selenium/Firefox container
@@ -40,6 +39,7 @@ jobs:
     - name: Scrape CSOB bank accounts
       env:
         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
+      run: sudo Rscript 01_scrape_csob_accounts.R
     - name: Scrape FIO bank accounts
       run: sudo Rscript 01_scrape_fio_accounts.R
     - name: Scrape Ceska Sporitelna bank accounts
