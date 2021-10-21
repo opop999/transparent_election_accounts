@@ -11,7 +11,10 @@ jobs:
   transparent_accounts_extraction:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
+    env:
+      CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
+      CS_TOKEN: ${{secrets.CS_TOKEN}}
+      
     # Load repo and run the scraping script
     steps:
     - uses: actions/checkout@v2
@@ -24,47 +27,46 @@ jobs:
     - name: Run Selenium/Firefox container
       run: sudo docker run --rm -d --network=r_to_selenium --name selenium_headless -p 4444:4444 -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59
     - name: Run Rstudio/Tidyverse container
-      run: sudo /usr/bin/docker run --network=r_to_selenium --user rstudio --name rstudio_tidyverse --label f88420 -e DISABLE_AUTH=true --workdir /github/workspace --rm -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/test_selenium/test_selenium":"/github/workspace" rocker/tidyverse:latest bash
+      run: sudo /usr/bin/docker run --network=r_to_selenium --user rstudio --name rstudio_tidyverse --label f88420 -e DISABLE_AUTH=true --workdir /github/workspace --rm -e HOME -e GITHUB_JOB -e GITHUB_REF -e GITHUB_SHA -e GITHUB_REPOSITORY -e GITHUB_REPOSITORY_OWNER -e GITHUB_RUN_ID -e GITHUB_RUN_NUMBER -e GITHUB_RETENTION_DAYS -e GITHUB_RUN_ATTEMPT -e GITHUB_ACTOR -e GITHUB_WORKFLOW -e GITHUB_HEAD_REF -e GITHUB_BASE_REF -e GITHUB_EVENT_NAME -e GITHUB_SERVER_URL -e GITHUB_API_URL -e GITHUB_GRAPHQL_URL -e GITHUB_WORKSPACE -e GITHUB_ACTION -e GITHUB_EVENT_PATH -e GITHUB_ACTION_REPOSITORY -e GITHUB_ACTION_REF -e GITHUB_PATH -e GITHUB_ENV -e RUNNER_OS -e RUNNER_NAME -e RUNNER_TOOL_CACHE -e RUNNER_TEMP -e RUNNER_WORKSPACE -e ACTIONS_RUNTIME_URL -e ACTIONS_RUNTIME_TOKEN -e ACTIONS_CACHE_URL -e GITHUB_ACTIONS=true -e CI=true -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/test_selenium/test_selenium":"/github/workspace" rocker/tidyverse:latest bash
     - name: Install dependencies
       run: sudo apt install libcurl4-openssl-dev
     - name: Compile bank accounts list
       run: sudo Rscript 00_save_bank_accounts.R
+      run: sudo Rscript 01_scrape_csob_accounts.R
+    - name: Scrape KB bank accounts with Selenium
+      run: sudo Rscript 01_scrape_kb_accounts_selenium.R
+    - name: Stop Selenium/Firefox container
+      run: sudo docker stop selenium_headless
     - name: Scrape CSOB bank accounts
       env:
         CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
-      run: echo ${{secrets.CSOB_COOKIE}}
- #      run: sudo Rscript 01_scrape_csob_accounts.R
- #    - name: Scrape KB bank accounts with Selenium
- #      run: sudo Rscript 01_scrape_kb_accounts_selenium.R
- #    - name: Stop Selenium/Firefox container
- #      run: sudo docker stop selenium_headless
- #    - name: Scrape FIO bank accounts
- #      run: sudo Rscript 01_scrape_fio_accounts.R
- #    - name: Scrape Ceska Sporitelna bank accounts
- #      env:
- #        CS_TOKEN: ${{secrets.CS_TOKEN}}
- #      run: sudo Rscript 01_scrape_cs_accounts.R
- #    - name: Create summary tables
- #      run: sudo Rscript 02_create_summary_tables.R
- #    - name: Install Flexdashboard package
- #      run: sudo Rscript -e "install.packages('flexdashboard', Ncpus = parallel::detectCores())"
- #    - name: Update Dashboard for GitHub Pages  
- #      run: sudo Rscript -e "rmarkdown::render('index.Rmd')"
- #    - name: Print information about the session
- #      run: sudo Rscript -e "sessionInfo()"
- #    - name: Get container info
- #      run: |
- #        docker ps
- #        docker network ls
- #    
- # # Add new files in specified folder, commit along with other modified files, push
- #    - name: Commit files
- #      run: |
- #        git config --local user.name actions-user
- #        git config --local user.email "actions@github.com"
- #        git add data/* index.html
- #        git commit -am "GH Action $(date)"
- #        git push origin master
- #      env:
- #        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
- #        username: github-actions
+    - name: Scrape FIO bank accounts
+      run: sudo Rscript 01_scrape_fio_accounts.R
+    - name: Scrape Ceska Sporitelna bank accounts
+      env:
+        CS_TOKEN: ${{secrets.CS_TOKEN}}
+      run: sudo Rscript 01_scrape_cs_accounts.R
+    - name: Create summary tables
+      run: sudo Rscript 02_create_summary_tables.R
+    - name: Install Flexdashboard package
+      run: sudo Rscript -e "install.packages('flexdashboard', Ncpus = parallel::detectCores())"
+    - name: Update Dashboard for GitHub Pages  
+      run: sudo Rscript -e "rmarkdown::render('index.Rmd')"
+    - name: Print information about the session
+      run: sudo Rscript -e "sessionInfo()"
+    - name: Get container info
+      run: |
+        docker ps
+        docker network ls
+    
+ # Add new files in specified folder, commit along with other modified files, push
+    - name: Commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/* index.html
+        git commit -am "GH Action $(date)"
+        git push origin master
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
