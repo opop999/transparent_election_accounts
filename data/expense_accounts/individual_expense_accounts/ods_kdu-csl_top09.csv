@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-20,-29613.23,Bezhotovostní platba,,,308,202100009,2800,"1114-MAJOR COMMUNICATIONS , reklama na FBC",ods_kdu-csl_top09
+2021-10-20,-1260,Bezhotovostní platba,,,308,3041,2800,"1114-Zámek Klášterec nad Ohří, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-825,Bezhotovostní platba,,,308,2120110,2800,"1114-Městský klub Nové Město, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-160,Bezhotovostní platba,,,308,12100139,2800,"1114-Město Rokytnice v Orlických horách, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-190,Bezhotovostní platba,,,308,272021,1114,"1114-Kulturní středisko Dvorana , výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-1742.4,Bezhotovostní platba,,,308,221375,2800,"1114-Společenské centrum Trutnov, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-1050,Bezhotovostní platba,,,308,210100038,2800,"1114-Sdružený klub Ranštejn, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-144,Bezhotovostní platba,,,308,12100164,1114,"1114-Město týniště nad Orlicí, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-761,Bezhotovostní platba,,,308,20210097,2800,"1114-Pitaš Stanislav , výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-370,Bezhotovostní platba,,,308,210100335,1114,"1114-Kulturní a informační středisko, výlep plakátů",ods_kdu-csl_top09
+2021-10-20,-1573,Bezhotovostní platba,,,308,12021211,1114,"1114-Čechymen a.s., bezpečnostní služby",ods_kdu-csl_top09
+2021-10-20,-11477,Bezhotovostní platba,,,308,20210002,3200,"1114-Brand me ! s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-10-20,-15757.04,Bezhotovostní platba,,,308,2021034,3200,"1114-David Trllo , reklama na FBC",ods_kdu-csl_top09
+2021-10-20,-2666,Platba převodem uvnitř banky,,,308,20210030,3200,"1114-Jan Winkler, reklama na FBC",ods_kdu-csl_top09
+2021-10-20,-10803,Platba převodem uvnitř banky,,,308,20210029,3200,"1114-Jan Winkler, reklama na FBC",ods_kdu-csl_top09
+2021-10-20,-10136.52,Bezhotovostní platba,,,308,218020,3200,"1114-Eduvino s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-10-20,-120,Bezhotovostní platba,,,308,2100,2100,"2100-Altner Boleslav, poplatek za zábor Pha",ods_kdu-csl_top09
+2021-10-20,-190,Bezhotovostní platba,,,308,2100,2100,"2100-Altner Boleslav, místní poplatek , správní poplatek Praha",ods_kdu-csl_top09
+2021-10-20,-10043,Platba převodem uvnitř banky,,,308,1721,2100,"2100-Jakub Galuška , propagační materiál",ods_kdu-csl_top09
+2021-10-20,-2372.29,Bezhotovostní platba,,,308,21385492,2100,"2100-KONZULTA Brno a.s., SMS zprávy",ods_kdu-csl_top09
 2021-10-19,-31823.96,Bezhotovostní platba,,,378,880925,3100,"3100-Smetana Karel , reklama FBC , ostatní náklady",ods_kdu-csl_top09
 2021-10-19,-4912.24,Bezhotovostní platba,,,308,20092021,3100,"3100-Ťulpík Josef, reklamana FBC",ods_kdu-csl_top09
 2021-10-19,-361.55,Platba převodem uvnitř banky,,,308,20092021,3100,"3100-Lydie Špániková, reklama na FBC",ods_kdu-csl_top09

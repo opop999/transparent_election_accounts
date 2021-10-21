@@ -1,4 +1,28 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-20,-18500,Platba převodem uvnitř banky,,"SP-Solutions, zabezpečení štábu",308,2021031,100,"SP-Solutions, zabezpečení štábu",spd
+2021-10-20,-21615,Bezhotovostní platba,,"Bohemia Properties a.s., salonek",308,1283339,100,"Bohemia Properties a.s., salonek",spd
+2021-10-20,-19320,Platba převodem uvnitř banky,,"Štěpán Žďárský, banner",308,1210079,300,"Štěpán Žďárský, banner",spd
+2021-10-20,-500,Bezhotovostní platba,,"Josef Kříž, umístění banneru",308,100379,1300,"Josef Kříž, umístění banneru",spd
+2021-10-20,-500,Bezhotovostní platba,,"Petr Bejda, umístění banneru",308,241270,1300,"Petr Bejda, umístění banneru",spd
+2021-10-20,-11809.6,Bezhotovostní platba,,"Zdeněk Koreček, pronájem plochy",308,15472021,1300,"Zdeněk Koreček, pronájem plochy",spd
+2021-10-20,-2394,Bezhotovostní platba,,"P. Sedlický, koberec jarmark",308,106081,1000,"P. Sedlický, koberec jarmark",spd
+2021-10-20,-1599,Bezhotovostní platba,,"P. Kůrka, pohonné hmoty",308,159110,1000,"P. Kůrka, pohonné hmoty",spd
+2021-10-20,-29766,Bezhotovostní platba,,"BigMedia, spol. s r.o., billboardy",308,4202108167,200,"BigMedia, spol. s r.o., billboardy",spd
+2021-10-20,-300,Platba převodem uvnitř banky,,"P. Bezucha, pronájem prostor",308,8792,1000,"P. Bezucha, pronájem prostor",spd
+2021-10-20,-319,Platba převodem uvnitř banky,,"P. Bezucha, parkovné stánek",308,56102021,1000,"P. Bezucha, parkovné stánek",spd
+2021-10-20,-1000,Bezhotovostní platba,,"Roman Vacík, pohonné hmoty",308,1271210926,1000,"Roman Vacík, pohonné hmoty",spd
+2021-10-20,-635,Platba převodem uvnitř banky,,"M. Cais, poštovné",308,307498,1000,"M. Cais, poštovné",spd
+2021-10-20,-2836,Platba převodem uvnitř banky,,"M. Cais, občerstvení",308,2982021,1000,"M. Cais, občerstvení",spd
+2021-10-20,-999,Bezhotovostní platba,,"P. Kůrka, pohonné hmoty",308,1291211009,1000,"P. Kůrka, pohonné hmoty",spd
+2021-10-20,-58500,Bezhotovostní platba,,"Ing. Jan Husák, distribuce letáky",308,2021605,1000,"Ing. Jan Husák, distribuce letáky",spd
+2021-10-20,-1560,Bezhotovostní platba,,"ÚMO Plzeň 3, veřejné prostranství",308,1310313962,1000,"ÚMO Plzeň 3, veřejné prostranství",spd
+2021-10-20,-999,Bezhotovostní platba,,"Marie Pošarová, pohonné hmoty",308,1009202100,1000,"Marie Pošarová, pohonné hmoty",spd
+2021-10-20,-1500,Bezhotovostní platba,,"Marie Pošarová, pohonné hmoty",308,1231211001,1000,"Marie Pošarová, pohonné hmoty",spd
+2021-10-20,-1575,Bezhotovostní platba,,"Marie Pošarová, občerstvení",308,3521100555,1000,"Marie Pošarová, občerstvení",spd
+2021-10-20,-487,Bezhotovostní platba,,"Marie Pošarová, občerstvení stánek",308,2021103155,1000,"Marie Pošarová, občerstvení stánek",spd
+2021-10-20,-1000,Bezhotovostní platba,,"Marie Pošarová, předvolební akce",308,1192021,1000,"Marie Pošarová, předvolební akce",spd
+2021-10-20,150000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
+2021-10-20,-6883.95,Karetní transakce,,"Nákup: FACEBK VFZSS97AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.10.2021, částka  6883.95 CZK",,3344,,"Nákup: FACEBK VFZSS97AN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 20.10.2021, částka  6883.95 CZK",spd
 2021-10-17,-877.17,Karetní transakce,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.10.2021, částka  39.00 USD",,3344,,"Nákup: SWITCHER ESSENTIALS,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.10.2021, částka  39.00 USD",spd
 2021-10-14,-287.98,Bezhotovostní platba,,"Město Kaplice, výlep plakátů",308,2210000198,200,"Město Kaplice, výlep plakátů",spd
 2021-10-14,-1800,Bezhotovostní platba,,"Spúráva města Sez. Ústí, výlep",308,210840,200,"Spúráva města Sez. Ústí, výlep",spd

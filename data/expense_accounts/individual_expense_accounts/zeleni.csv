@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-20,-18150,Okamžitá odchozí platba,,FA 20210037 - produkce 5 videospotů,,20210037,,SZ - Jakub Hrnčiřík,zeleni
+2021-10-20,18000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-20,-847,Bezhotovostní platba,,FA 4100366 - tisk plakátu,308,4100366,63,VYS - TISK HERMANN,zeleni
+2021-10-20,-1500,Bezhotovostní platba,,FA 2021-0001 - animátorské služby,,20210001,,SZ - Kateřina Kováříková,zeleni
+2021-10-20,-4505,Bezhotovostní platba,,DPP 2021/10,,,,SZ - Martin Lekeš,zeleni
+2021-10-20,-1815,Bezhotovostní platba,,FA 2101054 - výlep plakátů,,2101054,80,MSK - Eva Chytková - EPONA,zeleni
+2021-10-20,7000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-20,2647,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO Vysočina na volební účet SZ - volby do PS PČR 2021,,202103,63,Převod prostředků KO Vysočina na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-20,1815,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO MSK na volební účet SZ - volby do PS PČR 2021,,2101054,80,Převod prostředků KO MSK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-18,-55692,Bezhotovostní platba,,FA 2111 - produkce klipu,,2111,,SZ - Tomáš Hlaváček,zeleni
 2021-10-18,-6897,Bezhotovostní platba,,FA FV21/259 - výroba letáků,,21259,52,HKK - PEACOCK,zeleni
 2021-10-18,50000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni

@@ -1,6 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,26000,Vklad v hotovosti,Dar Petr Zeman,,558,2113210007,,Dar Petr Zeman,ods
+2021-10-21,3000,Okamžitá příchozí platba,Jiří Bujnoch,"DAR, Jiří Bujnoch",,3003210002,,Jiří Bujnoch,ods
+2021-10-21,2000,Bezhotovostní příjem,PISKOVA ALEXANDRA,"DAR, Alexandra Piskova",,2703210004,,PISKOVA ALEXANDRA,ods
+2021-10-21,800,Bezhotovostní příjem,Sikora Milan,"DAR,Milan Sikora",308,3003210006,,Sikora Milan,ods
+2021-10-21,30000,Bezhotovostní příjem,MGR. BC. VLADIMÍR,"DAR, Vladimír Richter",0,2700210029,,MGR. BC. VLADIMÍR,ods
+2021-10-21,999,Bezhotovostní příjem,Vitesse PSP B.V. - C,1100210090DAR TOM HETMERFROM TOMAS,0,0,,"Vitesse PSP B.V. - C, DAR",ods
+2021-10-20,5000,Okamžitá příchozí platba,Nikola Šafránek,"DAR, Nikola Safranek",,2104210002,,Nikola Šafránek,ods
+2021-10-20,25000,Okamžitá příchozí platba,Michková Lucie,"DAR,Lucie Michkova",0,2104210001,,Michková Lucie,ods
+2021-10-20,2000,Okamžitá příchozí platba,ŽIDEK PETR,"DAR, Petr Zidek",,2700210030,,ŽIDEK PETR,ods
+2021-10-20,10000,Okamžitá příchozí platba,ŽIDEK PETR,DAR na provoz regionální kanceláře Petr Zidek,,2703210009,,ŽIDEK PETR,ods
 2021-10-19,30000,Okamžitá příchozí platba,Mikuláš Pobuda,"DAR, Mikuláš Pobuda",0,2110210004,0,Mikuláš Pobuda,ods
-2021-10-19,36000,Bezhotovostní příjem,SINDELAROVA JANA,,,3201210044,,SINDELAROVA JANA,ods
+2021-10-19,36000,Bezhotovostní příjem,SINDELAROVA JANA,,,3201210044,,"SINDELAROVA JANA, DAR",ods
 2021-10-18,45000,Okamžitá příchozí platba,Mgr.Šašek Jan,"DAR, Jan Šašek",0,2400210011,,Mgr.Šašek Jan,ods
 2021-10-18,7000,Bezhotovostní příjem,CALETKA PETR,"DAR, Petr Caletka",,3104210005,,CALETKA PETR,ods
 2021-10-18,30000,Bezhotovostní příjem,ČERVINKA ZDENĚK,regionální podpora,308,3201210043,0,ČERVINKA ZDENĚK,ods
@@ -9,10 +19,13 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-15,11000,Bezhotovostní příjem,KOPŘIVA PETR,"DAR, Petr Kopřiva",0,3104210004,0,KOPŘIVA PETR,ods
 2021-10-15,3500,Bezhotovostní příjem,CIGÁNEK VLADIMÍR,DAR Vlasta Fajtlová,0,3001210030,0,CIGÁNEK VLADIMÍR,ods
 2021-10-15,24000,Okamžitá příchozí platba,BĚLOHRADSKÝ LUKÁŠ,"DAR, Lukáš Bělohradský",,2704210004,,BĚLOHRADSKÝ LUKÁŠ,ods
-2021-10-15,40000,Bezhotovostní příjem,ŠIK EVŽEN,ODS regionalni podpora,0,3201210041,0,ŠIK EVŽEN,ods
-2021-10-15,74000,Bezhotovostní příjem,ELIZ S.R.O.,regionalni podpora,0,3201210042,0,ELIZ S.R.O.,ods
+2021-10-15,40000,Bezhotovostní příjem,ŠIK EVŽEN,ODS regionalni podpora,0,3201210041,0,"ŠIK EVŽEN,DAR",ods
+2021-10-15,74000,Bezhotovostní příjem,ELIZ S.R.O.,regionalni podpora,0,3201210042,0,"ELIZ S.R.O.,DAR",ods
 2021-10-13,-340000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-10-13,-1000,Okamžitá odchozí platba,,"Houska Roman vratka není DS, prosím kontaktujte : barbora.valouskova@ods.cz",,,,"Houska Roman vratka není DS, prosím kontaktujte : barbora.valouskova@ods.cz",ods
+2021-10-19,36000,Bezhotovostní příjem,SINDELAROVA JANA,,,3201210044,,SINDELAROVA JANA,ods
+2021-10-15,40000,Bezhotovostní příjem,ŠIK EVŽEN,ODS regionalni podpora,0,3201210041,0,ŠIK EVŽEN,ods
+2021-10-15,74000,Bezhotovostní příjem,ELIZ S.R.O.,regionalni podpora,0,3201210042,0,ELIZ S.R.O.,ods
 2021-10-12,36000,Bezhotovostní příjem,TOMÁŠEK PETR,"DAR, Petr Tomášek",0,2902210007,0,TOMÁŠEK PETR,ods
 2021-10-12,20000,Okamžitá příchozí platba,Ing. Miroslav Svozil,"DAR, Miroslav Svozil",0,3001210041,,Ing. Miroslav Svozil,ods
 2021-10-12,70000,Okamžitá příchozí platba,Ing. Miroslav Svozil,"DAR,Miroslav Svozil",0,3001210042,,Ing. Miroslav Svozil,ods

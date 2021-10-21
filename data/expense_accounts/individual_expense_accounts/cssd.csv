@@ -1,4 +1,23 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Robin Povšík, na volby PS PČR, Kraj Praha",,,,"převod daru Robin Povšík, na volby PS PČR, Kraj Praha",cssd
+2021-10-21,-960,Bezhotovostní platba,,ČSSD,308,28,,"Vařečková Miloslava, výlep plakátů, Pardubický kraj",cssd
+2021-10-21,-12100,Bezhotovostní platba,,ČSSD,308,21093,,"Herzmann s.r.o., studie projektu, ústředí",cssd
+2021-10-21,-4990,Bezhotovostní platba,,ČSSD,308,9,,"Karolína Stařecká, drobný nákup, letáky, Středočeský kraj",cssd
+2021-10-21,15331.08,Bezhotovostní příjem,"CP, S.P. - JC1",,306,5190576771,1900005632,"CP, S.P. - JC1",cssd
+2021-10-21,31340.73,Bezhotovostní příjem,"CP, S.P. - JC1",,306,5190576773,1900005631,"CP, S.P. - JC1",cssd
+2021-10-20,-4478,Bezhotovostní platba,,ČSSD,308,9,,"Hana Andělová, drobný nákup, Kraj Vysočina",cssd
+2021-10-20,-10601,Bezhotovostní platba,,ČSSD,308,9,,"Lucie Strnadová, drobný nákup, Ústecký kraj",cssd
+2021-10-20,-2700,Bezhotovostní platba,,ČSSD,308,9,,"Pavel Šoltys, drobný nákup, Olomoucký kraj",cssd
+2021-10-20,-115,Bezhotovostní platba,,ČSSD,308,9,,"Lenka Rašková, drobný nákup, Olomoucký kraj",cssd
+2021-10-20,-881,Bezhotovostní platba,,ČSSD,308,21004,,"Jan Adamec, výlep plakátů, Plzeňský kraj",cssd
+2021-10-20,-960,Bezhotovostní platba,,ČSSD,308,27,,"Vařečková Miloslava, výlep plakátů, Pardubický kraj",cssd
+2021-10-20,-2574.03,Bezhotovostní platba,,ČSSD,308,5115236904,,"Česká pošta, s.p., roznáška, Středočeský kraj",cssd
+2021-10-20,-1529.68,Bezhotovostní platba,,ČSSD,308,5115236905,,"Česká pošta, s.p., roznáška, Středočeský kraj",cssd
+2021-10-20,-552.12,Bezhotovostní platba,,ČSSD,308,5115236902,,"Česká pošta, s.p., roznáška, Středočeský kraj",cssd
+2021-10-20,-4567.63,Bezhotovostní platba,,ČSSD,308,5115236903,,"Česká pošta, s.p., roznáška, Středočeský kraj",cssd
+2021-10-20,-144716,Platba převodem uvnitř banky,,ČSSD,308,21000639,,"Kristián, spol. s r.o., realizace reklamní kampaně, Kraj Praha",cssd
+2021-10-20,-3751,Platba převodem uvnitř banky,,ČSSD,308,21000640,,"Kristián, spol. s r.o., tisk visaček, Kraj Praha",cssd
+2021-10-20,150000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
 2021-10-19,-420,Bezhotovostní platba,,ČSSD,308,9,,"Monika Čapková, drobné výdaje, výlep plakátů, Středočeský kraj",cssd
 2021-10-19,-4002,Bezhotovostní platba,,ČSSD,308,9,,"Helena Urbanová, drobné výdaje, občerstvení, Středočeský kraj",cssd
 2021-10-19,-2660,Bezhotovostní platba,,ČSSD,308,9,,"Jiří Bezděk, drobné výdaje, výlep plakátů, Středočeský kraj",cssd

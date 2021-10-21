@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,2810,Bezhotovostní příjem,Mgr. Zdislava Zemánk,zvláštní členské příspěvky,0,3061968,701,Mgr. Zdislava Zemánk,kdu-csl
+2021-10-21,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
+2021-10-21,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl
+2021-10-20,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl
+2021-10-20,1000,Bezhotovostní příjem,KLIMEŠ PAVEL,Pavel Klimeš - DAR,,21041984,725,KLIMEŠ PAVEL,kdu-csl
+2021-10-20,575,Bezhotovostní příjem,Plešinger David,DPlesinger dar 2020 - měsíčně,709,7411293967,,Plešinger David,kdu-csl
+2021-10-20,1000,Bezhotovostní příjem,KOLIBA JIRI,Prispevek KDU-CSL,,2051958,721,KOLIBA JIRI,kdu-csl
+2021-10-20,3000,Bezhotovostní příjem,MUDr.Chalánková Jitk,chalánková příspěvek okres prostějov,558,763,,MUDr.Chalánková Jitk,kdu-csl
+2021-10-20,2000,Bezhotovostní příjem,Ing.Kunčar Patrik,,0,27021973,801,Ing.Kunčar Patrik,kdu-csl
+2021-10-20,300,Bezhotovostní příjem,ADAMEC JIŘÍ,DAR KDU,0,30121977,851,ADAMEC JIŘÍ,kdu-csl
 2021-10-19,30000,Bezhotovostní příjem,BERAN VIT,Darovaci smlouva KDU - CSL,,22051967,709,BERAN VIT,kdu-csl
 2021-10-18,50000,Okamžitá příchozí platba,Benešíková Jitka,Dar na KDU-ČSL,0,,,Benešíková Jitka,kdu-csl
 2021-10-18,41760,Okamžitá příchozí platba,"Ing.Šafařík Jan,MBA",Jan Šafařík Olomoucký kraj,0,,,"Ing.Šafařík Jan,MBA",kdu-csl

@@ -1,4 +1,28 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,500,Bezhotovostní příjem,Miroslav Němec,,0,44014246,1,Miroslav Němec,pirati
+2021-10-21,1000,Bezhotovostní příjem,MYSLIVCOVA KOPECKA L,,,44005367,,MYSLIVCOVA KOPECKA L,pirati
+2021-10-21,250,Bezhotovostní příjem,Jan Veselý,Veselý Jan - dar,0,84533,190000,Jan Veselý,pirati
+2021-10-21,2000,Platba převodem uvnitř banky,"Sázel, Vojtěch",DAR 44016360/1,,44016360,111204,DAR 44016360/1,pirati
+2021-10-21,500,Bezhotovostní příjem,Martin Kotmel,,1,44016357,,Martin Kotmel,pirati
+2021-10-21,200,Bezhotovostní příjem,Zuzana Čítková,podpora od Zuzky,,44002987,1,Zuzana Čítková,pirati
+2021-10-21,200,Okamžitá příchozí platba,Polívka Jan,,0,44011883,1,Polívka Jan,pirati
+2021-10-21,1000,Bezhotovostní příjem,Satke David,Příspěvek pro MS Praha 10,,11013,110110,Satke David,pirati
+2021-10-21,300,Bezhotovostní příjem,Jiří Hubáček,,,82496,,Jiří Hubáček,pirati
+2021-10-21,30955.96,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1720004948,20211020,Global Payments s.r.,pirati
+2021-10-21,300,Bezhotovostní příjem,Procházka Petr,,0,84483,1,Procházka Petr,pirati
+2021-10-21,3000,Bezhotovostní příjem,VALVODA ROSTISLAV,Prosim nerozhadejte se uvnitr strany ani koalice. Projit tim ted se cti vas do budoucna posili.,,44016342,1,VALVODA ROSTISLAV,pirati
+2021-10-20,500,Bezhotovostní příjem,Radiměřský Miroslav,dar Miroslav Radimersky,,83687,1,Radiměřský Miroslav,pirati
+2021-10-20,300,Bezhotovostní příjem,Jakub Prokeš,,0,83538,1,Jakub Prokeš,pirati
+2021-10-20,128,Bezhotovostní příjem,Ing. Petr Vyhnal,"Petr Vyhnal, Jana Švermy 1062, Smržovka, 18.1.1982",0,111100,,Ing. Petr Vyhnal,pirati
+2021-10-20,250,Bezhotovostní příjem,JAN DIVIŠ,PLATBA,,44013890,2,JAN DIVIŠ,pirati
+2021-10-20,1472.35,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1710087178,20211019,Global Payments s.r.,pirati
+2021-10-20,150,Bezhotovostní příjem,Mgr.Procházková Mart,,0,9001795,,Mgr.Procházková Mart,pirati
+2021-10-20,200,Bezhotovostní příjem,Roman Petrov,,,84526,190000,Roman Petrov,pirati
+2021-10-20,100,Bezhotovostní příjem,Žák Zdeněk,DAR MS OLOMOUC 110305 / Zdeněk Žák,0,9001673,110305,Žák Zdeněk,pirati
+2021-10-20,100,Bezhotovostní příjem,Žák Zdeněk,DAR KS OLOMOUCKÝ KRAJ 110300 / Zdeněk Žák,0,9001672,110300,Žák Zdeněk,pirati
+2021-10-20,666,Bezhotovostní příjem,"Konečný Petr,DiS.",DAR NA PROVOZ PŘEROVSKÉHO PICE,0,,110303,"Konečný Petr,DiS.",pirati
+2021-10-20,200,Bezhotovostní příjem,LETOCHA BORIS,HRR NA NE,0,44005401,1,LETOCHA BORIS,pirati
+2021-10-20,1000,Platba převodem uvnitř banky,"Duška, Martin",záměr Provozní výdaje MS Praha 11,,,110111,záměr Provozní výdaje MS Praha 11,pirati
 2021-10-19,81378,Bezhotovostní příjem,Hlavenka Jiří,,,,110600,Hlavenka Jiří,pirati
 2021-10-19,200,Bezhotovostní příjem,Hana Kunzfeldová,,0,44005213,,Hana Kunzfeldová,pirati
 2021-10-19,500,Bezhotovostní příjem,JIŘÍ BRŮŽEK,AŤ NÁS SÍLA PROVÁZÍ :-),,,110100,JIŘÍ BRŮŽEK,pirati

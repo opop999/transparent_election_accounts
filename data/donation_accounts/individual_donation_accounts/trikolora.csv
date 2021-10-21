@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,300,Bezhotovostní příjem,ŠTEKLOVÁ KATEŘINA,DAR příspěvek RP,0,3000343,0,ŠTEKLOVÁ KATEŘINA,trikolora
+2021-10-20,100,Platba převodem uvnitř banky,"Ing. Popovský, Libor",Libor Popovský,,,,Libor Popovský,trikolora
+2021-10-20,999,Bezhotovostní příjem,Bacíková Irena,DAR příspěvek RP,,11002049,,Bacíková Irena,trikolora
+2021-10-20,500,Bezhotovostní příjem,Mgr.Krása Václav,Václav Krása 24.11.1951,0,,,Mgr.Krása Václav,trikolora
+2021-10-20,100,Bezhotovostní příjem,KRIEGELOVÁ GABRIELA,DAR příspěvek RP,0,5000571,0,KRIEGELOVÁ GABRIELA,trikolora
+2021-10-19,100,Platba převodem uvnitř banky,"Toman, Václav",DAR příspěvek RP,,9000701,,DAR příspěvek RP,trikolora
 2021-10-18,50,Bezhotovostní příjem,HOLEČEK MIROSLAV,,,9000372,,HOLEČEK MIROSLAV,trikolora
 2021-10-18,100,Bezhotovostní příjem,ROMAN PICHA,,,11002048,,ROMAN PICHA,trikolora
 2021-10-18,500,Bezhotovostní příjem,KRIEGELOVÁ GABRIELA,dar Gabriela Kriegelová 6.3.1961,0,0,0,KRIEGELOVÁ GABRIELA,trikolora
