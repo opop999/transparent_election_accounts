@@ -35,6 +35,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-13,20000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
 2021-10-13,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2021-10-13,300,Bezhotovostní příjem,ŠENKYŘÍKOVÁ BARBOR,,,,,ŠENKYŘÍKOVÁ BARBOR,kdu-csl
+2021-10-21,-250000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-10-21,26000,Vklad v hotovosti,Dar Petr Zeman,,558,2113210007,,Dar Petr Zeman,ods
 2021-10-21,3000,Okamžitá příchozí platba,Jiří Bujnoch,"DAR, Jiří Bujnoch",,3003210002,,Jiří Bujnoch,ods
 2021-10-21,2000,Bezhotovostní příjem,PISKOVA ALEXANDRA,"DAR, Alexandra Piskova",,2703210004,,PISKOVA ALEXANDRA,ods
