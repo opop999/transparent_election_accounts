@@ -1,0 +1,69 @@
+name: Transparent Accounts Scrape with Docker Image
+
+# Controls when the action will run.
+on:
+  schedule:
+    - cron:  '30 4 * * *'
+  push:
+    branches: master
+# Specify job parameters    
+jobs: 
+  transparent_accounts_extraction:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Load repo and run the scraping script
+    steps:
+    - uses: actions/checkout@v2
+    - name: Create Docker network
+      run: sudo docker network create r_to_selenium
+    - name: Pull Selenium/Firefox image v3
+      run: sudo docker pull selenium/standalone-firefox:3.141.59
+    - name: Pull Rstudio/Tidyverse Docker image
+      run: sudo docker pull rocker/tidyverse:latest
+    - name: Run Selenium/Firefox container
+      run: sudo docker run --rm -d --network=r_to_selenium --name selenium_headless -p 4444:4444 -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59
+    - name: Run Rstudio/Tidyverse container
+      run: sudo /usr/bin/docker run --network=r_to_selenium --user rstudio --name rstudio_tidyverse --label f88420 -e DISABLE_AUTH=true --workdir /github/workspace --rm -v "/var/run/docker.sock":"/var/run/docker.sock" -v "/home/runner/work/_temp/_github_home":"/github/home" -v "/home/runner/work/_temp/_github_workflow":"/github/workflow" -v "/home/runner/work/_temp/_runner_file_commands":"/github/file_commands" -v "/home/runner/work/test_selenium/test_selenium":"/github/workspace" rocker/tidyverse:latest bash
+    - name: Install dependencies
+      run: sudo apt install libcurl4-openssl-dev
+    - name: Compile bank accounts list
+      run: Rscript 00_save_bank_accounts.R
+    - name: Scrape KB bank accounts with Selenium
+      run: Rscript 01_scrape_kb_accounts_selenium.R
+    - name: Stop Selenium/Firefox container
+      run: docker stop selenium_headless
+    - name: Scrape FIO bank accounts
+      run: Rscript 01_scrape_fio_accounts.R
+    - name: Scrape CSOB bank accounts
+      env:
+        CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
+      run: Rscript 01_scrape_csob_accounts.R
+    - name: Scrape Ceska Sporitelna bank accounts
+      env:
+        CS_TOKEN: ${{secrets.CS_TOKEN}}
+      run: Rscript 01_scrape_cs_accounts.R
+    - name: Create summary tables
+      run: Rscript 02_create_summary_tables.R
+    - name: Install Flexdashboard package
+      run: Rscript -e "install.packages('flexdashboard', Ncpus = parallel::detectCores())"
+    - name: Update Dashboard for GitHub Pages  
+      run: Rscript -e "rmarkdown::render('index.Rmd')"
+    - name: Print information about the session
+      run: Rscript -e "sessionInfo()"
+    - name: Get container info
+      run: |
+        docker ps
+        docker network ls
+    
+ # Add new files in specified folder, commit along with other modified files, push
+    - name: Commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/* index.html
+        git commit -am "GH Action $(date)"
+        git push origin master
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions

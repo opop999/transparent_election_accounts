@@ -16,19 +16,20 @@ options(scipen = 999)
 ## 2. Function to initiate the Selenium/Docker based workflow
 initiate_docker_container_and_connect <- function(address, host_port, container_port) {
 
+  #  This is useful only in the context of running docker locally, not when running in the cloud
   # Pull the necessary Docker image
- system("docker pull selenium/standalone-firefox:3.141.59")
-
- # Start the Docker container
-  system(paste0(
-    "docker run --rm -d --name selenium_headless -p ",
-    host_port,
-    ":",
-    container_port,
-    " -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59"
-  ),
-  wait = TRUE
-  )
+ # system("docker pull selenium/standalone-firefox:3.141.59")
+ # 
+ # # Start the Docker container
+ #  system(paste0(
+ #    "docker run --rm -d --name selenium_headless -p ",
+ #    host_port,
+ #    ":",
+ #    container_port,
+ #    " -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59"
+ #  ),
+ #  wait = TRUE
+ #  )
 
   # Connect to a Docker instance of headless Firefox server
   remote_driver <- remoteDriver(
@@ -263,15 +264,15 @@ close_browser_and_docker_container <- function(remote_driver) {
 
   # Close the browser
   remote_driver$quit()
-
-  # Stop the Docker container
- system("docker stop selenium_headless")
+#  This is useful only in the context of running Docker locally, not when running in the cloud using GitHub Actions workflow
+#   # Stop the Docker container
+#  system("docker stop selenium_headless") 
 }
 
 ## 6. Inputs for the KB extraction function
-address <- "localhost"
-host_port <- 4445L
-container_port <- 4444
+address <- "localhost" # Can also be the name of the container if used on a specific docker network
+host_port <- 4444 # When starting Selenium Docker container within Github Actions, we specify explicitly its port
+container_port <- 4444 # Not necessary, unless running this script locally with Docker installed on the machine
 max_results <- 250
 dir_name <- "data" # Specify the folder, where the tables will be saved
 
