@@ -54,7 +54,6 @@ jobs:
     needs: selenium_extraction
     runs-on: ubuntu-latest
     container: rocker/tidyverse:latest
-    
     steps:
     - uses: actions/checkout@v2
     - name: Scrape CSOB bank accounts
