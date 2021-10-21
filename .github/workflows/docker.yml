@@ -20,17 +20,6 @@ jobs:
     - uses: actions/checkout@v2
     - name: Compile bank accounts list
       run: Rscript 00_save_bank_accounts.R
-    # New, Selenium-based KB extraction workflow.
-    - name: Pull Selenium/Firefox image
-      run: docker pull selenium/standalone-firefox:3.141.59
-    - name: Build Selenium/Firefox container
-      run: docker run --rm -d --name selenium_headless -p 4445:4444 -e START_XVFB=false --shm-size='2g' selenium/standalone-firefox:3.141.59      
-    - name: Scrape KB bank accounts with Selenium
-      run: |
-        Rscript -e "install.packages('RSelenium')"
-        Rscript 01_scrape_kb_accounts_selenium.R
-    - name: Stop Selenium/Firefox container
-      run: docker stop selenium_headless
     # Older, API-based extraction workflow for KB. Now obsolete, since unique token is required for each call.
     #- name: Scrape KB bank accounts with API
     #  run: Rscript 01_scrape_kb_accounts.R
