@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-22,11656.35,Příchozí úhrada,OV KOMUNISTICKÉ STRA,838671,100,převod od OV KSČM HODONÍN,0,36205,,CZK,kscm
 2021-10-21,15000,Příchozí úhrada,OV KSČM PRAHA ZÁPAD,2938051,100,volby do PS - P-Z,0,,,CZK,kscm
 2021-10-21,76609.51,Příchozí úhrada,Komunistická strana,2107055043,2700,,,34202,,CZK,kscm
 2021-10-21,8094,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,331571,100,PŘEVOD OD OV KSČM RYCHNOV NAD KNĚŽNOU,558,35204,,CZK,kscm
@@ -68,24 +69,24 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-18,-5671,Odchozí úhrada,Redring s.r.o.,212503435,300,volby PČR - výlep,0,21078,,CZK,kscm
 2021-10-18,2563,Příchozí úhrada,KOMUNISTICKÁ STRANA,439291,100,Převod od OV KSČM Strakonice,0,33106,,CZK,kscm
 2021-10-14,6720,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,TÚ PŘEVOD OD OV KSČM RAKOVNÍK /horizonty,0,32112,,CZK,kscm
-2021-10-14,-15760.25,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - prop.předměty,0,210533,,CZK,kscm
-2021-10-14,-42350,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024286,,CZK,kscm
-2021-10-14,-50000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - zajištění cateringu,0,2021110304,,CZK,kscm
-2021-10-14,-67397,Odchozí úhrada,PLAKÁT s.r.o.,2100140675,2010,volby PČR . výlep,0,20212002,,CZK,kscm
-2021-10-14,-145000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110302,,CZK,kscm
-2021-10-14,-201400,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - volební logo,0,2021110303,,CZK,kscm
-2021-10-14,-663600,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110301,,CZK,kscm
-2021-10-14,-520,Odchozí úhrada,"Kultura Mimoň, příspěvková org",232970401,600,volby PČR - výlep,0,141,,CZK,kscm
-2021-10-14,-523,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123625,,CZK,kscm
-2021-10-14,-719,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123391,,CZK,kscm
-2021-10-14,-836,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120150,,CZK,kscm
-2021-10-14,-3500,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120175,,CZK,kscm
-2021-10-14,-3993,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - propag.předměty,0,2021110299,,CZK,kscm
-2021-10-14,-4400,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - banery,0,,,CZK,kscm
-2021-10-14,-6128.65,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - plakát,0,210535,,CZK,kscm
-2021-10-14,-6582,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123761,,CZK,kscm
-2021-10-14,-10000,Odchozí úhrada,SPAZ - Sdružení přátel pro a,244282518,300,volby PČR - pronájem provozovny,0,202110,,CZK,kscm
 2021-10-14,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,835681,100,převod od OV Jihlava,0,,,CZK,kscm
+2021-10-14,-10000,Odchozí úhrada,SPAZ - Sdružení přátel pro a,244282518,300,volby PČR - pronájem provozovny,0,202110,,CZK,kscm
+2021-10-14,-6582,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123761,,CZK,kscm
+2021-10-14,-6128.65,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - plakát,0,210535,,CZK,kscm
+2021-10-14,-4400,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - banery,0,,,CZK,kscm
+2021-10-14,-3993,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - propag.předměty,0,2021110299,,CZK,kscm
+2021-10-14,-3500,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120175,,CZK,kscm
+2021-10-14,-836,Odchozí úhrada,Kulturní a informační služby m,1882080309,800,volby PČR - výlep,0,120150,,CZK,kscm
+2021-10-14,-719,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123391,,CZK,kscm
+2021-10-14,-523,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123625,,CZK,kscm
+2021-10-14,-520,Odchozí úhrada,"Kultura Mimoň, příspěvková org",232970401,600,volby PČR - výlep,0,141,,CZK,kscm
+2021-10-14,-663600,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110301,,CZK,kscm
+2021-10-14,-201400,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - volební logo,0,2021110303,,CZK,kscm
+2021-10-14,-145000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,2021110302,,CZK,kscm
+2021-10-14,-67397,Odchozí úhrada,PLAKÁT s.r.o.,2100140675,2010,volby PČR . výlep,0,20212002,,CZK,kscm
+2021-10-14,-50000,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - zajištění cateringu,0,2021110304,,CZK,kscm
+2021-10-14,-42350,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024286,,CZK,kscm
+2021-10-14,-15760.25,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - prop.předměty,0,210533,,CZK,kscm
 2021-10-13,280,Okamžitá úhrada,OBVODNÍ VÝBOR KOMUNI,293872389,800,Zábor místa volby OV P 10,,,,CZK,kscm
 2021-10-13,6582,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,2237511,100,,558,35201,,CZK,kscm
 2021-10-12,36091.53,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm

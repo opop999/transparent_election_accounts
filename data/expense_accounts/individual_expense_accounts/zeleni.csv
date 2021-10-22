@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-21,8373,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,20210022,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-20,-18150,Okamžitá odchozí platba,,FA 20210037 - produkce 5 videospotů,,20210037,,SZ - Jakub Hrnčiřík,zeleni
 2021-10-20,18000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-20,-847,Bezhotovostní platba,,FA 4100366 - tisk plakátu,308,4100366,63,VYS - TISK HERMANN,zeleni

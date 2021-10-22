@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-22,5000,Bezhotovostní příjem,Kaplan Tomáš,Dar KDU-ČSL - Mgr. Tomáš Kaplan,,7209290209,101,Kaplan Tomáš,kdu-csl
 2021-10-21,2810,Bezhotovostní příjem,Mgr. Zdislava Zemánk,zvláštní členské příspěvky,0,3061968,701,Mgr. Zdislava Zemánk,kdu-csl
 2021-10-21,300,Bezhotovostní příjem,MEZULANIK PAVEL,Pavel Mezulanik,,9011968,725,MEZULANIK PAVEL,kdu-csl
 2021-10-21,200,Bezhotovostní příjem,VACEK DALIBOR,PODPORA KDU VACEK,0,19820310,999,VACEK DALIBOR,kdu-csl

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-22,500,Bezhotovostní příjem,Tereza Štysová,Dar 100ZOP7 200KOPha 200celostat,,,,Tereza Štysová,zeleni
+2021-10-22,200,Bezhotovostní příjem,Petra Kolínská,DAR na pražského socmeda,,1111145,,Petra Kolínská,zeleni
+2021-10-22,150,Bezhotovostní příjem,LUZNY IVO,DAR,,9002659,,LUZNY IVO,zeleni
+2021-10-22,300,Platba převodem uvnitř banky,"Vlach, Jan",Dar pro Stranu Zelených,,9003749,,Dar pro Stranu Zelených,zeleni
+2021-10-22,2000,Platba převodem uvnitř banky,"Šanda, Ondřej",dar - 50 % pro ZO Kaplice,,9001206,,dar - 50 % pro ZO Kaplice,zeleni
+2021-10-21,-70,Okamžitá odchozí platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003612,,MIKULÁŠKOVÁ MARTINA,zeleni
 2021-10-21,1000,Okamžitá příchozí platba,Balcarová Eva,Eva Balcarová - dar,0,9003748,,Balcarová Eva,zeleni
 2021-10-21,1000,Okamžitá příchozí platba,Jiří Pilip,DAR_DAR PRO ZO ZELENÍ PRAHA 14 - 100%,,9003747,,Jiří Pilip,zeleni
 2021-10-21,3330,Okamžitá příchozí platba,Vlach Jan,dar pro ZO Praha 6,0,1601115,,Vlach Jan,zeleni

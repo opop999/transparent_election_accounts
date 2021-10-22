@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-22,200,Bezhotovostní příjem,HOLČÍK PATRIK,DAR HNUTÍ,0,0,0,HOLČÍK PATRIK,prisaha
+2021-10-22,200,Platba převodem uvnitř banky,"Ing. Bublík, Miroslav",Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,,,,Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,prisaha
+2021-10-21,-110000,Platba převodem uvnitř banky,,Převod na volební účet hnutí PŘÍSAHA,,,,Převod na volební účet hnutí PŘÍSAHA,prisaha
 2021-10-21,189.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-10-18,200,Bezhotovostní příjem,RAUŠEROVÁ ILJANA,dar spolku,,80158,,RAUŠEROVÁ ILJANA,prisaha
 2021-10-17,300,Okamžitá příchozí platba,Alena Křížková,Dar hnutí PŘÍSAHA,,,,Alena Křížková,prisaha

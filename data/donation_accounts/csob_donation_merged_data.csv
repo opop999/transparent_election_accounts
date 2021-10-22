@@ -18,9 +18,9 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-15,500,Příchozí úhrada,Bartůňková Věra,779874173,800,"Věra Bartůňková, finanční dar",0,34102,0,CZK,kscm
 2021-10-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
 2021-10-14,1719,Příchozí úhrada,SEKERAKOVA YVETA,151653156,300,Yveta Sekeráková - finanční dar,,38106,,CZK,kscm
-2021-10-14,5000,Příchozí úhrada,KALOUSKOVÁ IVANA,1077690420257,100,finanční dar,0,9,,CZK,kscm
-2021-10-14,13000,Příchozí úhrada,CECH JAROSLAV,105122688,300,Finačni  dar.,,38105,,CZK,kscm
 2021-10-14,1875,Příchozí úhrada,LEICHTEROVA HELENA,198919855,300,Helena Leichterova - dar (9/2021),,,,CZK,kscm
+2021-10-14,13000,Příchozí úhrada,CECH JAROSLAV,105122688,300,Finačni  dar.,,38105,,CZK,kscm
+2021-10-14,5000,Příchozí úhrada,KALOUSKOVÁ IVANA,1077690420257,100,finanční dar,0,9,,CZK,kscm
 2021-10-13,2572,Příchozí úhrada,Tomáš Zíka,2070974002,5500,finanční dar,0,34200,,CZK,kscm
 2021-10-13,652,Příchozí úhrada,SEFCIK ZBYNEK,5409075,300,"Zbyněk Šefčík, Plzeň -finanční dar",,,33203,CZK,kscm
 2021-10-12,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
