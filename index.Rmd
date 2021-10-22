@@ -1,6 +1,6 @@
 ---
-title: "TRANSPARENT ACCOUNTS"
-date: "Updated `r format(Sys.time(),'%d. %m. %Y')`"
+title: "Transparent Bank Accounts"
+date: "Update `r format(Sys.time(),'%d. %m. %Y')`"
 author: "Ondrej Pekacek/TI CZ"
 output: 
   flexdashboard::flex_dashboard:
@@ -79,14 +79,13 @@ parties_names_title <- parties_names %>%
 
 ```
 
-Total spending
+Summaries
 =====================================
 
-
-Column
+Column {.tabset}
 -----------------------------------------------------------------------
 
-### Total spending
+### **TOTAL SPENDING**
 
 ```{r}
 plot_total_spending <- ggplotly(
@@ -112,14 +111,13 @@ htmlwidgets::saveWidget(plot_total_spending, file = paste0(directory, "/plot_tot
 
 ```
 
-Across time
+Trends
 =====================================
 
-
-Column
+Column {.tabset}
 -----------------------------------------------------------------------
 
-### Total spending across time
+### **SPENDING OVER TIME**
 
 ```{r}
 spend_over_time <- ggplotly(
@@ -154,6 +152,44 @@ spend_over_time
 htmlwidgets::saveWidget(spend_over_time, file = paste0(directory, "/plot_spend_over_time.html"))
 
 ```
+
+### **SPENDING WEEKLY**
+
+```{r}
+spend_weekly <- ggplotly(
+  time_dataset %>%
+    mutate(
+      week = as.Date(cut(date, breaks = "week", start.on.monday = TRUE)) + 4
+    ) %>%
+    group_by(entity_name, week) %>% 
+    summarise(by_week_million_spend = round(sum(spend_million), digits = 3)) %>% 
+    ungroup() %>% 
+    ggplot(aes(x = week, y = by_week_million_spend, fill = entity_name)) +
+    geom_col(width = 5.5) +
+    geom_vline(aes(xintercept = as.numeric(election_date)), color = "#db1d0b") +
+    geom_text(aes(x = election_date, y = 0.2, label = "elections"), color = "#03457f", size = 4) +
+    theme_minimal() +
+    scale_y_continuous(
+      breaks = seq(0, 50, 5),
+      labels = seq(0, 50, 5)
+    ) +
+    scale_x_date(date_breaks = "1 months", date_labels = "%d.%m.%y") +
+    coord_cartesian(xlim = c(start_date, end_date), expand = TRUE) +
+    theme(legend.title = element_blank(), axis.text.x = element_text(angle = 45, hjust = 1)) +
+    xlab(element_blank()) +
+    ylab("CZK million") +
+  	labs(fill = "") +
+    ggtitle(paste("Weekly spending (in CZK million) on transparent accounts since", format(start_date, "%d.%m.%Y")))
+)
+
+spend_weekly
+
+saveWidget(spend_weekly, file = paste0(directory, "/plot_spend_weekly.html"))
+
+```
+
+
+
 
 ```{r silent export, include=FALSE}
 # Specify the function parameters
