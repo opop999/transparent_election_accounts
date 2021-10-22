@@ -1,4 +1,4 @@
-[![Transparent bank accounts extraction with Docker and Selenium](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker_with_selenium.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker_with_selenium.yml)
+[![Transparent Accounts Scrape with Docker Image](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker_with_selenium.yml/badge.svg)](https://github.com/opop999/transparent_election_accounts/actions/workflows/docker_with_selenium.yml)
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
