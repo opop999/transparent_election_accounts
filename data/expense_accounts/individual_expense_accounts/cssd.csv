@@ -1,5 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-22,10601,Bezhotovostní příjem,STRNADOVÁ LUCIE,ČSSD,308,9,,STRNADOVÁ LUCIE,cssd
+2021-10-22,10601,Bezhotovostní příjem,STRNADOVÁ LUCIE,ČSSD,308,9,,"STRNADOVÁ LUCIE, vratka přeplatku Ústecký kraj",cssd
 2021-10-21,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Robin Povšík, na volby PS PČR, Kraj Praha",,,,"převod daru Robin Povšík, na volby PS PČR, Kraj Praha",cssd
 2021-10-21,-960,Bezhotovostní platba,,ČSSD,308,28,,"Vařečková Miloslava, výlep plakátů, Pardubický kraj",cssd
 2021-10-21,-12100,Bezhotovostní platba,,ČSSD,308,21093,,"Herzmann s.r.o., studie projektu, ústředí",cssd
@@ -51,6 +51,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-18,-320000,Platba převodem uvnitř banky,,ČSSD,308,9210079,,"NMS Market Research SR, výzkum, ústředí",cssd
 2021-10-18,2420000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
 2021-10-18,22845.04,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Jihomoravský kraj na volby PS PČR,,,,převod z KP Jihomoravský kraj na volby PS PČR,cssd
+2021-10-22,10601,Bezhotovostní příjem,STRNADOVÁ LUCIE,ČSSD,308,9,,STRNADOVÁ LUCIE,cssd
 2021-10-15,-4719,Bezhotovostní platba,,ČSSD,308,120100743,,"Výstaviště Flora Olomouc, a.s., zábor prostranství, Olomoucký kraj",cssd
 2021-10-15,-4114,Bezhotovostní platba,,ČSSD,308,202109156,,"L.Vitanovský, pověšení plachty, Jihomoravský kraj",cssd
 2021-10-15,-3025,Platba převodem uvnitř banky,,ČSSD,308,20210133,,"Jesenický týdeník s.r.o., plošná inzerce, Olomoucký kraj",cssd

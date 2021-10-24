@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-22,-668,Platba převodem uvnitř banky,,Příkaz k úhradě - daň DPH za FB,,409740,51,LBK - Finanční úřad,zeleni
+2021-10-22,-20,Platba převodem uvnitř banky,,vratka přeplatku za fakturu - provozní účet KO ÚLK,,3042,42,vratka přeplatku za fakturu - provozní účet KO ÚLK,zeleni
+2021-10-22,-630,Bezhotovostní platba,,FA 3042 - výlep plakátů,308,3042,42,ÚLK - Zámek Klášterec nad Ohří,zeleni
+2021-10-22,-8373,Okamžitá odchozí platba,,FA 20210022 - tajemnice KO JMK 2021/09,308,20210022,64,JMK - Lenka Zemanová,zeleni
+2021-10-22,668,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,,409740,51,Převod prostředků KO LBK na volební účet SZ- volby do PS PČR 2021,zeleni
+2021-10-22,650,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-21,8373,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,,20210022,64,Převod prostředků KO JMK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-20,-18150,Okamžitá odchozí platba,,FA 20210037 - produkce 5 videospotů,,20210037,,SZ - Jakub Hrnčiřík,zeleni
 2021-10-20,18000,Platba převodem uvnitř banky,Strana zelených,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,,,,převod prostředků z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni

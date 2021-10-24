@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-23,7360,Okamžitá úhrada,Bc. Rudolf Carvan,1031027809,5500,Dar IX/2021 Carvan,,551203,,CZK,kscm
+2021-10-22,8264,Okamžitá úhrada,Heřman Václav,1429807143,800,financni dar,,33203,,CZK,kscm
 2021-10-21,-25000,Odchozí úhrada,,299098208,300,dotace - OV Praha 1,0,581,,CZK,kscm
 2021-10-21,-20000,Odchozí úhrada,,3130601,100,OV Trutnov - chybná platba,0,35205,,CZK,kscm
 2021-10-20,600,Příchozí úhrada,JANDA ZDENEK,222567352,300,"Zdeněk Janda, Plzeň - finanční dar",,,33203,CZK,kscm

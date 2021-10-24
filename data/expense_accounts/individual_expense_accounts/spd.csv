@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-23,-7388.53,Karetní transakce,,"Nákup: FACEBK XUT7G6PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.10.2021, částka  7388.53 CZK",,3344,,"Nákup: FACEBK XUT7G6PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 23.10.2021, částka  7388.53 CZK",spd
 2021-10-20,-18500,Platba převodem uvnitř banky,,"SP-Solutions, zabezpečení štábu",308,2021031,100,"SP-Solutions, zabezpečení štábu",spd
 2021-10-20,-21615,Bezhotovostní platba,,"Bohemia Properties a.s., salonek",308,1283339,100,"Bohemia Properties a.s., salonek",spd
 2021-10-20,-19320,Platba převodem uvnitř banky,,"Štěpán Žďárský, banner",308,1210079,300,"Štěpán Žďárský, banner",spd

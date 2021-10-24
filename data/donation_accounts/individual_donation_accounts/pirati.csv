@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-24,200,Platba převodem uvnitř banky,"Svačina, Filip",,,82343,,,pirati
+2021-10-24,200,Platba převodem uvnitř banky,PRAKTIK SVITAVY s.r.o.,"PRAKTIK SVITAVY s.r.o., Jiří Šoupal",,44006371,,"PRAKTIK SVITAVY s.r.o., Jiří Šoupal",pirati
+2021-10-23,100,Platba převodem uvnitř banky,"Kratochvíl, Zdeněk",Zdeněk Kratochvíl,,44015211,1,Zdeněk Kratochvíl,pirati
+2021-10-22,500,Bezhotovostní příjem,LENKA BEROUSKOVA,PŘEVOD PROSTŘEDKŮ,,44016363,1,LENKA BEROUSKOVA,pirati
+2021-10-22,1000,Bezhotovostní příjem,JIŘÍ KOMRSKA,PŘEVOD PROSTŘEDKŮ,,,190110,JIŘÍ KOMRSKA,pirati
+2021-10-22,500,Bezhotovostní příjem,LUDĚK FIALKA,"PIRÁTI, DO TOHO!",,44003139,,LUDĚK FIALKA,pirati
+2021-10-22,100,Bezhotovostní příjem,PETR VILÍMEK,PŘEVOD PROSTŘEDKŮ,,44013939,1,PETR VILÍMEK,pirati
+2021-10-22,500,Bezhotovostní příjem,TOMÁŠ NEŠKUDLA,PŘEVOD PROSTŘEDKŮ,,9001494,,TOMÁŠ NEŠKUDLA,pirati
+2021-10-22,200,Bezhotovostní příjem,Stanislava Novotná,,,86932,1,Stanislava Novotná,pirati
 2021-10-22,5644.57,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1720024348,20211021,Global Payments s.r.,pirati
 2021-10-22,200,Bezhotovostní příjem,CHRAST MARTIN,,,44005919,,CHRAST MARTIN,pirati
 2021-10-22,500,Bezhotovostní příjem,BERKA KAREL,Podporuji: Centralu Ceske piratskestrany,,82198,1,BERKA KAREL,pirati

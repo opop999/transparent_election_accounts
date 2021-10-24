@@ -1,4 +1,50 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-22,-960,Bezhotovostní platba,,,308,30,2900,"1114-Miloslava Vavřečková, výlep plakátů Hiinsko",ods_kdu-csl_top09
+2021-10-22,-338.8,Bezhotovostní platba,,,308,202165,2900,"1114-Obec Libchavy, výlep plakátů",ods_kdu-csl_top09
+2021-10-22,-494.99,Bezhotovostní platba,,,308,210387,3300,"1114-Město Slavičín , výlep plakátů",ods_kdu-csl_top09
+2021-10-22,-25000,Bezhotovostní platba,,,378,2021101,2500,"1114-Tomáš Grosser, reklama na FBC",ods_kdu-csl_top09
+2021-10-22,-1800,Bezhotovostní platba,,,308,221425,1114,"1114-Město Brumov-Bytnice, výlep plakátů",ods_kdu-csl_top09
+2021-10-22,-980,Bezhotovostní platba,,,308,12100066,1114,1114-Dům kultury Uherský Brod,ods_kdu-csl_top09
+2021-10-22,-106001,Bezhotovostní platba,,,308,10123512,1114,"1114-RENGL s.r.o., výlep plakátů",ods_kdu-csl_top09
+2021-10-22,-27800,Bezhotovostní platba,,,308,30,1114,"1114-Matěj Štěpán , videa pro vol. kampaň",ods_kdu-csl_top09
+2021-10-22,-1230,Bezhotovostní platba,,,378,1343217,2109121,"2600-Město Kadaň, poplatek - užívání prostranství",ods_kdu-csl_top09
+2021-10-22,1000000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-10-22,-158,Bezhotovostní platba,,,378,121,2800,"2800-Věra Šenková , zábory Dvůr Králové, Česká Skalice",ods_kdu-csl_top09
+2021-10-22,-3200,Bezhotovostní platba,,,378,120173,2800,"2800-Věra Šenková , PHM do vol. auta",ods_kdu-csl_top09
+2021-10-22,-13915,Bezhotovostní platba,,,308,321244,2800,"2800-GARAMON s.r.o., inzerce Hradečák",ods_kdu-csl_top09
+2021-10-22,-18804.22,Bezhotovostní platba,,,378,20211006,2600,"2600-Růžička Jan , pohoštění",ods_kdu-csl_top09
+2021-10-22,-1600,Bezhotovostní platba,,,308,906604216,1343,"2600-Magistrát města Teplice, poplatek za užívání prostranství",ods_kdu-csl_top09
+2021-10-22,-1331,Bezhotovostní platba,,,308,2100014,2600,"2600-Dream PRO s.r.o., pronájem stanu",ods_kdu-csl_top09
+2021-10-22,-4000,Bezhotovostní platba,,,308,210116,2600,"2600-příspěvková organizace Městská zařízení Litoměřice , pronájem plochy",ods_kdu-csl_top09
+2021-10-22,-7000,Bezhotovostní platba,,,308,210115,2600,"2600-příspěvková organizace Městská zařízení Litoměřice, pronájem stanu",ods_kdu-csl_top09
+2021-10-22,-8000,Bezhotovostní platba,,,308,33,2600,"2600-ECGW s.r.o., pohoštění na volební  akci",ods_kdu-csl_top09
+2021-10-22,-10628.98,Bezhotovostní platba,,,308,242021,3100,3100-Regional Press s.r.o. FBC propagace - Sokol,ods_kdu-csl_top09
+2021-10-22,-10000,Bezhotovostní platba,,,308,202021,3100,"3100-Regional Press s.r.o., plakáty , inzerce -Sokol",ods_kdu-csl_top09
+2021-10-22,-2000,Platba převodem uvnitř banky,,,308,74,3100,"3100-Ozvučovací agentura, technické zajištění akce",ods_kdu-csl_top09
+2021-10-22,-1000,Bezhotovostní platba,,,378,18102021,3100,"3100-Weber Tomáš, FBC propagace",ods_kdu-csl_top09
+2021-10-22,-600,Bezhotovostní platba,,,378,18092021,3100,"3100-Zavadilová Ludmila, zábor Litovel",ods_kdu-csl_top09
+2021-10-22,-3506.39,Bezhotovostní platba,,,308,20092021,3100,"3100-Tereza Vodáková, FBC propagace",ods_kdu-csl_top09
+2021-10-22,-168,Bezhotovostní platba,,,308,2021074,3100,"3100-Městys Dub nad Moravou, pronájem plochy na stojany",ods_kdu-csl_top09
+2021-10-22,-9075,Bezhotovostní platba,,,378,4108001718,3100,"3100-CZECH NEWS CENTER a.s., tištěná inzerce",ods_kdu-csl_top09
+2021-10-22,-140,Bezhotovostní platba,,,378,14,3200,"3200-Zuzana Kupčíková, zábor prostranství",ods_kdu-csl_top09
+2021-10-22,-2159.7,Bezhotovostní platba,,,378,13,3200,"3200-Michal Pátek , PHM vol. auto",ods_kdu-csl_top09
+2021-10-22,-28556,Bezhotovostní platba,,,308,20210064,3200,"3200-PACEK s.r.o., zajištění ozvučení",ods_kdu-csl_top09
+2021-10-22,-5000,Platba převodem uvnitř banky,,,308,21113,3200,"3200-B&P Publishing , z.ú., pronájem stánek Česká ul.",ods_kdu-csl_top09
+2021-10-22,-350,Bezhotovostní platba,,,378,1521100265,3300,"3300-Město Kroměříž, poplatek za zábor prostranství",ods_kdu-csl_top09
+2021-10-22,-650,Bezhotovostní platba,,,378,1521100265,3300,"3300-Město Kroměříž, poplatek za zábor prostranství",ods_kdu-csl_top09
+2021-10-22,-2519,Bezhotovostní platba,,,308,2021092,3300,"3300-Město Fryštát , pronájem pozemku",ods_kdu-csl_top09
+2021-10-22,-30932.44,Bezhotovostní platba,,,308,2171486,3300,"3300-Dopravní společnost , reklama -MHD Zlín",ods_kdu-csl_top09
+2021-10-22,-15000,Bezhotovostní platba,,,308,72220276,3400,"3400-Horácké noviny, inzerce SPOLU+článek",ods_kdu-csl_top09
+2021-10-22,-3000,Bezhotovostní platba,,,308,2021035,3400,"3400-Vojtěch Vrtek, kejklířské vystoupení",ods_kdu-csl_top09
+2021-10-22,-1573,Bezhotovostní platba,,,308,20210359,3400,"3400-CzechProject s.r.o, grafické práce",ods_kdu-csl_top09
+2021-10-22,-4000,Bezhotovostní platba,,,308,82021,3400,"3400-Spolek přátel dělostřelby, dělostřelecké vystoupení",ods_kdu-csl_top09
+2021-10-22,-1679.48,Bezhotovostní platba,,,308,4211070172,3400,"3400-Služby města Jihlavy, el. energie -mítink",ods_kdu-csl_top09
+2021-10-22,-5111.04,Bezhotovostní platba,,,308,2117023313,3400,3400-VLTAVA LABE MEDIA a.s .inzerce -Jihlavský deník,ods_kdu-csl_top09
+2021-10-22,-10000,Bezhotovostní platba,,,308,20210005,3400,"3400-Orel jednota Moravské Budějovice, zajištění akce - zábavné odpoledne",ods_kdu-csl_top09
+2021-10-22,-21117.89,Bezhotovostní platba,,,308,2117023516,3400,"3400- VLTAVA LABE MEDIA a.s., inzerce HB + ZR",ods_kdu-csl_top09
+2021-10-22,-28556,Bezhotovostní platba,,,308,202110115,2200,"2200-Aenze s.r.o., reklama. Kladeňák",ods_kdu-csl_top09
+2021-10-22,-5747.5,Bezhotovostní platba,,,308,1100938,2200,"2200-LABEL s.r.o., tisk letáků",ods_kdu-csl_top09
+2021-10-22,-5000,Platba převodem uvnitř banky,,,308,21120012,2200,"2200-ART & AGRO s.r.o., grafické práce pro kandidáty",ods_kdu-csl_top09
 2021-10-20,-29613.23,Bezhotovostní platba,,,308,202100009,2800,"1114-MAJOR COMMUNICATIONS , reklama na FBC",ods_kdu-csl_top09
 2021-10-20,-1260,Bezhotovostní platba,,,308,3041,2800,"1114-Zámek Klášterec nad Ohří, výlep plakátů",ods_kdu-csl_top09
 2021-10-20,-825,Bezhotovostní platba,,,308,2120110,2800,"1114-Městský klub Nové Město, výlep plakátů",ods_kdu-csl_top09
