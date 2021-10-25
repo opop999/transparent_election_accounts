@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-24,15000,Okamžitá příchozí platba,MUDr.Trůka Pavel,"DAR, Eva Trůková",0,2401210027,,MUDr.Trůka Pavel,ods
+2021-10-24,7500,Okamžitá příchozí platba,"Kocourek Tomáš,MBA","DAR, Tomáš Kocourek",308,3104210007,,"Kocourek Tomáš,MBA",ods
 2021-10-22,2500,Okamžitá příchozí platba,PhDr.Kašík Marcel,"DAR, Marcel Kašík",0,3104210006,,PhDr.Kašík Marcel,ods
 2021-10-21,-250000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-10-21,26000,Vklad v hotovosti,Dar Petr Zeman,,558,2113210007,,Dar Petr Zeman,ods

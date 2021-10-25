@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-25,1183.13,Bezhotovostní příjem,WIP REKLAMA S.R.O.,,308,211301752,,WIP REKLAMA S.R.O.,ods_kdu-csl_top09
 2021-10-22,-960,Bezhotovostní platba,,,308,30,2900,"1114-Miloslava Vavřečková, výlep plakátů Hiinsko",ods_kdu-csl_top09
 2021-10-22,-338.8,Bezhotovostní platba,,,308,202165,2900,"1114-Obec Libchavy, výlep plakátů",ods_kdu-csl_top09
 2021-10-22,-494.99,Bezhotovostní platba,,,308,210387,3300,"1114-Město Slavičín , výlep plakátů",ods_kdu-csl_top09

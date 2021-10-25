@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-25,1000,Okamžitá příchozí platba,RYDRYCH BOHUMIL,Plzeňský kraj - Bohumil Rydrych,351,1,,RYDRYCH BOHUMIL,kdu-csl
+2021-10-25,200,Bezhotovostní příjem,OSTROVSKY VACLAV,pravidelny_prispevek,,23021988,713,OSTROVSKY VACLAV,kdu-csl
+2021-10-25,2000,Bezhotovostní příjem,BAZALA JOSEF,JOSEF BAZALA PŘÍSPĚVEK KDU-ČSL,0,0,0,BAZALA JOSEF,kdu-csl
+2021-10-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
+2021-10-24,18000,Okamžitá příchozí platba,Paulová Edita,Ing. Miroslav Paul,0,6081963,851,Paulová Edita,kdu-csl
 2021-10-22,62500,Platba převodem uvnitř banky,Občanská demokratická strana,DAR - 3.Q 2021 ( krajské volby ÚL 2020),378,2021101,,DAR - 3.Q 2021 ( krajské volby ÚL 2020),kdu-csl
 2021-10-22,17000,Okamžitá příchozí platba,ING. MARTIN KOUBEK,KDU-ČSL dar M.Koubek 2021 komunál Olomouc,,700608,,ING. MARTIN KOUBEK,kdu-csl
 2021-10-22,30000,Bezhotovostní příjem,JANATA PAVEL,pro okr. org. KDU Trebic,0,0,0,JANATA PAVEL,kdu-csl
