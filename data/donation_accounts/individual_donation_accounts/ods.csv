@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,10000,Bezhotovostní příjem,KITTNER JIŘÍ,DAR KITTNER JIRI,308,2703210001,0,KITTNER JIŘÍ,ods
+2021-10-26,2600,Bezhotovostní příjem,KITTNER JIŘÍ,DAR KITTNER JIRI,308,2700210013,0,KITTNER JIŘÍ,ods
+2021-10-25,3000,Bezhotovostní příjem,DBALÝ VÁCLAV,"DAR, Václav Dbalý",0,2113210027,0,DBALÝ VÁCLAV,ods
+2021-10-25,2200,Okamžitá příchozí platba,Kudrnová Martina,dar Kudrna Miroslav,0,2700210023,,Kudrnová Martina,ods
+2021-10-25,30000,Okamžitá příchozí platba,MUDr.Trůka Pavel,"DAR, Eva Trůková",0,2400210016,,MUDr.Trůka Pavel,ods
 2021-10-24,15000,Okamžitá příchozí platba,MUDr.Trůka Pavel,"DAR, Eva Trůková",0,2401210027,,MUDr.Trůka Pavel,ods
 2021-10-24,7500,Okamžitá příchozí platba,"Kocourek Tomáš,MBA","DAR, Tomáš Kocourek",308,3104210007,,"Kocourek Tomáš,MBA",ods
 2021-10-22,2500,Okamžitá příchozí platba,PhDr.Kašík Marcel,"DAR, Marcel Kašík",0,3104210006,,PhDr.Kašík Marcel,ods

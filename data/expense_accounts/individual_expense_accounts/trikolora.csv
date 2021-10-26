@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,-25000,Bezhotovostní platba,,organizační poradenství a projektové řízení - centrála,308,52021,,organizační poradenství a projektové řízení - centrála,trikolora
+2021-10-26,273,Bezhotovostní příjem,AUTOMATICKY VRÁCENO,NEEXISTUJÍCÍ ÚČET 19-1883093339,6,202100301,0,AUTOMATICKY VRÁCENO,trikolora
 2021-10-22,-384,Bezhotovostní platba,,poplatek za zábor veřejného prostranství Benešov - středočeský kraj,308,1344210019,405,poplatek za zábor veřejného prostranství Benešov - středočeský kraj,trikolora
 2021-10-22,-25944,Bezhotovostní platba,,doplatek za TSS tour - Brand - Centrála,308,21210035,,doplatek za TSS tour - Brand - Centrála,trikolora
 2021-10-22,-273,Bezhotovostní platba,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,308,202100301,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,trikolora

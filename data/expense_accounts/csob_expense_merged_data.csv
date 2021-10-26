@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-26,33500,Příchozí úhrada,ŠVEHLÁKOVÁ MILENA,193022740257,100,Vratka Smolik,0,,,CZK,kscm
+2021-10-26,1572,Příchozí úhrada,"RENGL, s.r.o.",3936597389,800,DV-44/2021 Komunistická strana Čech,0,103244,32105,CZK,kscm
+2021-10-25,3485,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od KSČM RAKOVNÍK,0,32112,,CZK,kscm
+2021-10-25,3659.04,Příchozí úhrada,KSČM BŘECLAV,298641694,300,převod od OV KSČM Břeclav,,36204,,CZK,kscm
+2021-10-25,200000,Okamžitá úhrada,OV KSČM Ml.Boleslav,298855326,300,převod od OV KSČM Mladá Boleslav,,32107,,CZK,kscm
+2021-10-25,5000,Příchozí úhrada,KOMUNISTICKÁ STRANA,1132611,100,převod od OV KSČM Ústí nad Orlicí,308,35304,,CZK,kscm
+2021-10-25,3500,Příchozí úhrada,OKRESNI VYBOR KSČM,338191,100,TÚ PS PČR,0,32108,,CZK,kscm
+2021-10-25,-894,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124119,,CZK,kscm
+2021-10-25,-1198,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124121,,CZK,kscm
+2021-10-25,-16650.81,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - polep vozidel,0,210488,,CZK,kscm
 2021-10-22,-16100,Odchozí úhrada,Václav Špíral,6701002200860390,6210,volby PČR - grafické práce,0,2021027,,CZK,kscm
 2021-10-22,11656.35,Příchozí úhrada,OV KOMUNISTICKÉ STRA,838671,100,převod od OV KSČM HODONÍN,0,36205,,CZK,kscm
 2021-10-22,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm

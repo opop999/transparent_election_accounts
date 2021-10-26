@@ -1,5 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-25,1183.13,Bezhotovostní příjem,WIP REKLAMA S.R.O.,,308,211301752,,WIP REKLAMA S.R.O.,ods_kdu-csl_top09
+2021-10-26,980,Bezhotovostní příjem,AUTOMATICKY VRÁCENO,NEEXISTUJÍCÍ ÚČET 35-3078120217,6,12100066,1114,AUTOMATICKY VRÁCENO,ods_kdu-csl_top09
+2021-10-25,-48000,Platba převodem uvnitř banky,,,308,272021,1114,"1114-Zuzana Bönisch, fotografické práce výjezdy",ods_kdu-csl_top09
+2021-10-25,-9062,Bezhotovostní platba,,,308,210100406,1114,"1114-Roggi s.r.o., propagační materiál",ods_kdu-csl_top09
+2021-10-25,-960,Bezhotovostní platba,,,308,332021,2800,"1114-Technické služby města Nový Bydžov, výlep plakátů",ods_kdu-csl_top09
+2021-10-25,-744,Bezhotovostní platba,,,308,2100200063,1114,"1114-Město Častolovice , výlep plakátů",ods_kdu-csl_top09
+2021-10-25,-336,Bezhotovostní platba,,,308,2208,3400,"1114-město Jemnice, výlep plakátů",ods_kdu-csl_top09
+2021-10-25,-1113.2,Bezhotovostní platba,,,308,19294321,3200,"3200-Riessner -Gase s.r.o., pronájem",ods_kdu-csl_top09
+2021-10-25,-35937,Bezhotovostní platba,,,308,299621,3200,"3200-Riessner -Gase s.r.o., Helium",ods_kdu-csl_top09
+2021-10-25,-45282,Platba převodem uvnitř banky,,,308,2021023,3200,"3200-Roman Pištelák,  výlep plakátů",ods_kdu-csl_top09
+2021-10-25,-9795,Bezhotovostní platba,,,308,2135000133,3200,3200-KYTLICA elektroteam s.r.o. -elektroinstalační práce,ods_kdu-csl_top09
+2021-10-25,-35000,Bezhotovostní platba,,,378,14,2500,"2500-Tomáš Grosser, reklama na FBC",ods_kdu-csl_top09
+2021-10-25,-6050,Bezhotovostní platba,,,308,692120076,2500,"2500-Ostrovská teplárenská a.s., pronájem plochy banner",ods_kdu-csl_top09
+2021-10-25,-1000,Bezhotovostní platba,,,308,2115002317,3400,"3400-Lesy Česká republiky s.p. , pronájem chaty",ods_kdu-csl_top09
+2021-10-25,-3000,Platba převodem uvnitř banky,,,308,20210031,3400,"3400-FAJRO z.s., představení pro děti",ods_kdu-csl_top09
+2021-10-25,-1161.6,Bezhotovostní platba,,,308,2021410121,3400,"3400-SPORTIS přísp. org. , umístění bannerů",ods_kdu-csl_top09
+2021-10-25,-44883.78,Platba převodem uvnitř banky,,,558,5606,3400,"3400-První pozice s.r.o., správa a zadávání reklamy na FBC",ods_kdu-csl_top09
+2021-10-25,-397441,Bezhotovostní platba,,,308,120210501,1114,"1114-TOP SERVICE MANAGEMENT s.r.o., reklama na FBC a správa",ods_kdu-csl_top09
+2021-10-25,-105,Okamžitá odchozí platba,,,558,492021,2600,"2600-Město Duchcov, místní poplatek",ods_kdu-csl_top09
+2021-10-25,-2000,Okamžitá odchozí platba,,,308,121021,2900,"2900-Hašková Kateřina , správní poplatky",ods_kdu-csl_top09
+2021-10-25,1183.13,Bezhotovostní příjem,WIP REKLAMA S.R.O.,,308,211301752,,"1114-WIP REKLAMA S.R.O., výlep přeplatek",ods_kdu-csl_top09
 2021-10-22,-960,Bezhotovostní platba,,,308,30,2900,"1114-Miloslava Vavřečková, výlep plakátů Hiinsko",ods_kdu-csl_top09
 2021-10-22,-338.8,Bezhotovostní platba,,,308,202165,2900,"1114-Obec Libchavy, výlep plakátů",ods_kdu-csl_top09
 2021-10-22,-494.99,Bezhotovostní platba,,,308,210387,3300,"1114-Město Slavičín , výlep plakátů",ods_kdu-csl_top09
@@ -114,6 +133,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-18,-30000,Platba převodem uvnitř banky,,1114-Hlavní město Praha - TCP jistina,378,2223,,1114-Hlavní město Praha - TCP jistina,ods_kdu-csl_top09
 2021-10-18,-8470,Okamžitá odchozí platba,,,308,221158,3300,"3300-Hamr marketing s.r.o., mobilní reklama",ods_kdu-csl_top09
 2021-10-18,30000,Bezhotovostní příjem,HLAVNÍ MĚSTO PRAHA,vrácení jistoty 0/19-02 - TCP - Hlavní město Praha,,2223,,1114-HLAVNÍ MĚSTO PRAHA,ods_kdu-csl_top09
+2021-10-25,1183.13,Bezhotovostní příjem,WIP REKLAMA S.R.O.,,308,211301752,,WIP REKLAMA S.R.O.,ods_kdu-csl_top09
 2021-10-17,-558,Bezhotovostní platba,,,558,1020211339,2400,"2400-Město Klatovy, poplatek - zábor",ods_kdu-csl_top09
 2021-10-17,-5700,Bezhotovostní platba,,,3558,202109,2400,"2400-Karina Eismanová , správní poplatky , PHM vol. auto",ods_kdu-csl_top09
 2021-10-15,-6200,Bezhotovostní platba,,,308,21091,3400,"3400-Filip Bláha , grafické práce",ods_kdu-csl_top09

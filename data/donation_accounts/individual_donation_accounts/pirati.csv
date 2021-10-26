@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,2000,Bezhotovostní příjem,Štěpánek Arnošt,Arnošt Štěpánek - dar pro KHK,,44015202,6,Štěpánek Arnošt,pirati
+2021-10-26,150,Bezhotovostní příjem,ŠTEFANOVÁ JITKA,,,44015414,1,ŠTEFANOVÁ JITKA,pirati
+2021-10-26,200,Bezhotovostní příjem,MICHAL RYBÁŘ,,,44004522,1,MICHAL RYBÁŘ,pirati
+2021-10-26,3929.65,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1730018613,20211025,Global Payments s.r.,pirati
+2021-10-26,300,Bezhotovostní příjem,BEDNÁŘOVÁ VENDULA,,0,44002788,0,BEDNÁŘOVÁ VENDULA,pirati
+2021-10-25,500,Okamžitá příchozí platba,Pavel Sztacho,,,44014231,14,Pavel Sztacho,pirati
+2021-10-25,4945.74,Okamžitá příchozí platba,Mgr.Müllerová Ilona,,0,,110300,Mgr.Müllerová Ilona,pirati
+2021-10-25,1000,Platba převodem uvnitř banky,"Žák, Jan",Příspěvek na provoz PiVyše - Jan Žák,,44012904,110111,Příspěvek na provoz PiVyše - Jan Žák,pirati
+2021-10-25,200,Bezhotovostní příjem,Luděk Sadílek,,0,44004536,,Luděk Sadílek,pirati
+2021-10-25,800,Bezhotovostní příjem,Ing. Hana Heidlerová,,0,44006499,1,Ing. Hana Heidlerová,pirati
+2021-10-25,128,Bezhotovostní příjem,FILIP  KRŠKA,"FILIP KRSKA, 2^7",4714,110700,,FILIP  KRŠKA,pirati
+2021-10-25,200,Bezhotovostní příjem,EVA LESNÍŘOVÁ,PŘEVOD PROSTŘEDKŮ,,44003888,,EVA LESNÍŘOVÁ,pirati
+2021-10-25,200,Bezhotovostní příjem,JAN SVOBODA,DAR,,44006234,,JAN SVOBODA,pirati
+2021-10-25,200,Bezhotovostní příjem,RADOMÍR TOMIS,PRISPEVEK ČESKÁ PIRÁTSKÁ STRANA,,82154,,RADOMÍR TOMIS,pirati
+2021-10-25,200,Bezhotovostní příjem,Pavel Sláma,,,44016366,1,Pavel Sláma,pirati
+2021-10-25,1000,Bezhotovostní příjem,NESVADBA ZDENĚK,Dar Pirátské straně Zdeněk Nesvadba,0,44011594,1,NESVADBA ZDENĚK,pirati
 2021-10-25,250,Bezhotovostní příjem,Svoboda Jan,Jan Svoboda,,44006234,1,Svoboda Jan,pirati
 2021-10-25,200,Bezhotovostní příjem,LIŠKOVÁ ZDEŇKA,MS Pelhřimovsko,,86490,110706,LIŠKOVÁ ZDEŇKA,pirati
 2021-10-25,5010.82,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1730001595,20211024,Global Payments s.r.,pirati

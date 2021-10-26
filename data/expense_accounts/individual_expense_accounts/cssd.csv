@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,-9491.21,Karetní transakce,,"Nákup: FACEBK LZ7CX5XP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  9491.21 CZK",,1861,,"Nákup: FACEBK LZ7CX5XP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  9491.21 CZK",cssd
+2021-10-26,-6135.46,Karetní transakce,,"Nákup: FACEBK A2GMV73LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  6135.46 CZK",,5794,,"Nákup: FACEBK A2GMV73LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  6135.46 CZK",cssd
+2021-10-25,-240,Bezhotovostní platba,,ČSSD,308,2100071,,"Město Slavonice, výlep plakátů, Jihočeský kraj",cssd
+2021-10-25,-504,Bezhotovostní platba,,ČSSD,308,210838,,"Správa města Sezimovo Ústí, výlep plakátů, Jihočeský kraj",cssd
+2021-10-25,-336,Bezhotovostní platba,,ČSSD,308,2021085,,"MKS Vodňany, výlep plakátů, Jihočeský kraj",cssd
+2021-10-25,-48400,Bezhotovostní platba,,ČSSD,308,2021136,,"Good Agency s.r.o., reklama v tisku, Jihočeský kraj",cssd
 2021-10-22,10601,Bezhotovostní příjem,STRNADOVÁ LUCIE,ČSSD,308,9,,"STRNADOVÁ LUCIE, vratka přeplatku Ústecký kraj",cssd
 2021-10-21,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Robin Povšík, na volby PS PČR, Kraj Praha",,,,"převod daru Robin Povšík, na volby PS PČR, Kraj Praha",cssd
 2021-10-21,-960,Bezhotovostní platba,,ČSSD,308,28,,"Vařečková Miloslava, výlep plakátů, Pardubický kraj",cssd

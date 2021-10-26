@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,200,Bezhotovostní příjem,Tereza Barthová,dar,,9003520,,Tereza Barthová,zeleni
+2021-10-26,200,Bezhotovostní příjem,Jan Veleba,Dar pro zelenou Prahu,,1111128,,Jan Veleba,zeleni
+2021-10-26,150,Bezhotovostní příjem,MEKYS PAVEL,Dar SZ,,0,,MEKYS PAVEL,zeleni
+2021-10-26,500,Bezhotovostní příjem,Vacková Hana,Dar na pozici mediálního poradce,0,9002830,,Vacková Hana,zeleni
+2021-10-26,350,Bezhotovostní příjem,Tamchyna Tomáš,Tomáš Tamchyna - PRAVIDELNÝ DAR,0,,,Tamchyna Tomáš,zeleni
+2021-10-26,100,Platba převodem uvnitř banky,"Zeman, Václav",Václav Zeman - Dar ZO Praha 6,,8801100122,,Václav Zeman - Dar ZO Praha 6,zeleni
+2021-10-25,-10624.89,Platba převodem uvnitř banky,,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,,31,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-25,-3312,Platba převodem uvnitř banky,,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,1210538,20,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-25,-10000,Platba převodem uvnitř banky,,převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
+2021-10-25,1472,Okamžitá příchozí platba,Mikešová Soňa,dar pro KO STCK,0,9003755,,Mikešová Soňa,zeleni
+2021-10-25,1000,Okamžitá příchozí platba,Pátek Jaroslav,DAR,0,9003751,,Pátek Jaroslav,zeleni
+2021-10-25,200,Bezhotovostní příjem,Josef Pova,DAR místní org. SZ Praha 9,0,9002446,,Josef Pova,zeleni
+2021-10-25,100,Bezhotovostní příjem,MAREK NAGY,DAR,,9003753,,MAREK NAGY,zeleni
 2021-10-25,500,Bezhotovostní příjem,RICHTA TOMAS,dar,,9002852,,RICHTA TOMAS,zeleni
 2021-10-25,100,Bezhotovostní příjem,RNDr.Fiala Tomáš,dar,0,9002171,0,RNDr.Fiala Tomáš,zeleni
 2021-10-25,500,Bezhotovostní příjem,John René,dar,0,9002959,,John René,zeleni

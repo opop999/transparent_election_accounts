@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-25,-10624.89,Okamžitá odchozí platba,,FB - reklama na sociálních sítích,,,31,JHČ - Vladislav Sloup,zeleni
+2021-10-25,10624.89,Platba převodem uvnitř banky,Strana zelených,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,,31,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-25,3312,Platba převodem uvnitř banky,Strana zelených,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,1210538,20,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-25,22000,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,202107,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-10-25,12696,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-22,-668,Platba převodem uvnitř banky,,Příkaz k úhradě - daň DPH za FB,,409740,51,LBK - Finanční úřad,zeleni
 2021-10-22,-20,Platba převodem uvnitř banky,,vratka přeplatku za fakturu - provozní účet KO ÚLK,,3042,42,vratka přeplatku za fakturu - provozní účet KO ÚLK,zeleni
 2021-10-22,-630,Bezhotovostní platba,,FA 3042 - výlep plakátů,308,3042,42,ÚLK - Zámek Klášterec nad Ohří,zeleni
