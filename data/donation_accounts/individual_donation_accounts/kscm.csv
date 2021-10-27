@@ -1,5 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
 2021-10-26,860,Příchozí úhrada,BRANÝ PETR,1170540231,100,DAR ÚV,308,510525328,33101,CZK,kscm
+2021-10-26,1300,Příchozí úhrada,LEICHTEROVA HELENA,198919855,300,Helena Leichterova - dar (10/2021)poslední,,,,CZK,kscm
 2021-10-25,9000,Příchozí úhrada,HOUHA JAROSLAV,107450255,300,finanční dar - Jaroslav Houha,,35104,,CZK,kscm
 2021-10-23,7360,Okamžitá úhrada,Bc. Rudolf Carvan,1031027809,5500,Dar IX/2021 Carvan,,551203,,CZK,kscm
 2021-10-22,8264,Okamžitá úhrada,Heřman Václav,1429807143,800,financni dar,,33203,,CZK,kscm

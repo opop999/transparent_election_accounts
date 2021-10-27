@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,-12100,Bezhotovostní platba,,ČSSD,308,20210009,,"Kedeira s.r.o., úpravy,tisky, grafické materiály, Pardubický kraj",cssd
+2021-10-26,-29999.53,Platba převodem uvnitř banky,,ČSSD,308,21000652,,"Kristián, spol. s r.o., příspěvky facebook, Středočeský kraj",cssd
+2021-10-26,-178063.6,Platba převodem uvnitř banky,,ČSSD,308,21000653,,"Kristián, spol. s r.o., bannerová kampaň, Středočeský kraj",cssd
+2021-10-26,-154012.43,Platba převodem uvnitř banky,,ČSSD,308,21000654,,"Kristián, spol. s r.o., inzerce v tisku, Středočeský kraj",cssd
+2021-10-26,245000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod ČSSD ÚS Praha na volby PS PČR 2021,308,9,,převod ČSSD ÚS Praha na volby PS PČR 2021,cssd
+2021-10-26,90000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Michal Hašek, volby PS PČR, Jihomoravský kraj",,,,"převod daru Michal Hašek, volby PS PČR, Jihomoravský kraj",cssd
+2021-10-26,-1150,Okamžitá odchozí platba,,"ČSSD, roznos letáků",308,9,,"Emil Vašíček, roznos letáků, Středočeský kraj",cssd
 2021-10-26,-9491.21,Karetní transakce,,"Nákup: FACEBK LZ7CX5XP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  9491.21 CZK",,1861,,"Nákup: FACEBK LZ7CX5XP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  9491.21 CZK",cssd
 2021-10-26,-6135.46,Karetní transakce,,"Nákup: FACEBK A2GMV73LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  6135.46 CZK",,5794,,"Nákup: FACEBK A2GMV73LW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 26.10.2021, částka  6135.46 CZK",cssd
 2021-10-25,-240,Bezhotovostní platba,,ČSSD,308,2100071,,"Město Slavonice, výlep plakátů, Jihočeský kraj",cssd

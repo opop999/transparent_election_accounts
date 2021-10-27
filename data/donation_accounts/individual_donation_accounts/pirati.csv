@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-27,500,Bezhotovostní příjem,Karel Tesař,,,84740,1,Karel Tesař,pirati
+2021-10-27,150,Bezhotovostní příjem,NOVACKOVA PAVLINA,Ucelovy dar: Kluby zast. Ostrava,,9001762,140401,NOVACKOVA PAVLINA,pirati
+2021-10-27,150,Bezhotovostní příjem,NOVACKOVA PAVLINA,Ucelovy dar: Cinnost MS Ostrava,,9001762,110401,NOVACKOVA PAVLINA,pirati
+2021-10-27,200,Bezhotovostní příjem,Buřil Jiří,,0,44006376,,Buřil Jiří,pirati
+2021-10-27,1000,Bezhotovostní příjem,PHAM TOAN THANG,PIRATY,0,44004871,0,PHAM TOAN THANG,pirati
+2021-10-27,555,Platba převodem uvnitř banky,"Čiháková, Miroslava",Čiháková Miroslava,558,735613,,Čiháková Miroslava,pirati
+2021-10-27,200,Platba převodem uvnitř banky,"Ing. Puttová, Karolína",,,84628,,,pirati
+2021-10-26,200,Bezhotovostní příjem,JAKUB FARNÝ,PŘEVOD PROSTŘEDKŮ,,82747,1,JAKUB FARNÝ,pirati
+2021-10-26,1000,Bezhotovostní příjem,Pavel Sztacho,,,44014231,1,Pavel Sztacho,pirati
 2021-10-26,2000,Bezhotovostní příjem,Štěpánek Arnošt,Arnošt Štěpánek - dar pro KHK,,44015202,6,Štěpánek Arnošt,pirati
 2021-10-26,150,Bezhotovostní příjem,ŠTEFANOVÁ JITKA,,,44015414,1,ŠTEFANOVÁ JITKA,pirati
 2021-10-26,200,Bezhotovostní příjem,MICHAL RYBÁŘ,,,44004522,1,MICHAL RYBÁŘ,pirati

@@ -1,6 +1,11 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
-2021-10-26,33500,Příchozí úhrada,ŠVEHLÁKOVÁ MILENA,193022740257,100,Vratka Smolik,0,,,CZK,kscm
+2021-10-26,42317.65,Příchozí úhrada,KOMUNISTICKÁ STRANA,1034851,100,úhrada na transparentní účet  volbyOV KSČM Vsetín,0,,,CZK,kscm
+2021-10-26,68860,Příchozí úhrada,KRALOVEHRADECKÝ KRAJ,437168210257,100,PŘEVOD OD KV KSČM HRADEC KRÁLOVÉ,558,,,CZK,kscm
 2021-10-26,1572,Příchozí úhrada,"RENGL, s.r.o.",3936597389,800,DV-44/2021 Komunistická strana Čech,0,103244,32105,CZK,kscm
+2021-10-26,33500,Příchozí úhrada,ŠVEHLÁKOVÁ MILENA,193022740257,100,Vratka Smolik,0,,,CZK,kscm
+2021-10-26,26978.3,Příchozí úhrada,OKRESNÍ VÝBOR KSČM K,832691,100,převod od OV KSČM Kroměříž,0,37201,,CZK,kscm
+2021-10-26,1400,Okamžitá úhrada,OV KS ČECH A MORAV,501901544,600,,,33102,,CZK,kscm
+2021-10-26,726,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm
 2021-10-25,3485,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od KSČM RAKOVNÍK,0,32112,,CZK,kscm
 2021-10-25,3659.04,Příchozí úhrada,KSČM BŘECLAV,298641694,300,převod od OV KSČM Břeclav,,36204,,CZK,kscm
 2021-10-25,200000,Okamžitá úhrada,OV KSČM Ml.Boleslav,298855326,300,převod od OV KSČM Mladá Boleslav,,32107,,CZK,kscm
@@ -37,23 +42,23 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-20,-10605,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - propagace kandidátů,0,20217030,,CZK,kscm
 2021-10-20,-15748.58,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190577100,,CZK,kscm
 2021-10-19,62000,Okamžitá úhrada,KOMUNISTIC.STR.CECH,298971749,300,,,33100,,CZK,kscm
-2021-10-19,1469,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,10123279,,CZK,kscm
-2021-10-19,-120,Odchozí úhrada,Město Týniště nad Orlicí,191240103329,800,volby PČR - plakátovné,0,12100174,,CZK,kscm
-2021-10-19,-240,Odchozí úhrada,Úřad městského obvodu Plzeň 3,190000929311,100,volby PČR - poplatek,0,1310315340,,CZK,kscm
-2021-10-19,-458.71,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1442192106,,CZK,kscm
-2021-10-19,-735.68,Odchozí úhrada,Obec Dnešice,4926361,100,volby PČR - pronájem areálu,0,9721,,CZK,kscm
-2021-10-19,-844.22,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1487352107,,CZK,kscm
-2021-10-19,-1296,Odchozí úhrada,Správa města Sezimovo Ústí,1078945050257,100,volby PČR - výlep,0,210841,,CZK,kscm
-2021-10-19,-1469,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123279,,CZK,kscm
-2021-10-19,-1954.88,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5114054009,,CZK,kscm
-2021-10-19,-3045.81,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5115236910,,CZK,kscm
-2021-10-19,-4343.9,Odchozí úhrada,Technické služby Tábor s.r.o.,700846349,800,volby PČR - pronájem rekl.plochy,0,212500133,,CZK,kscm
-2021-10-19,-5929,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR -  roznáška,0,5115232218,,CZK,kscm
-2021-10-19,-14359.95,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576409,,CZK,kscm
-2021-10-19,-46585,Odchozí úhrada,WIP Reklama spol. s r.o.,1100004396,5500,volby PČR - pronájem ploch,0,211301563,,CZK,kscm
-2021-10-19,-50820,Odchozí úhrada,Dopravní podnik města Hradce K,656020207,100,volby PČR - volby PČR - MHD reklama,0,10056021,,CZK,kscm
-2021-10-19,-52937.5,Odchozí úhrada,Dopravní společnost Zlín-Otrok,31338661,100,volby PČR - MHD reklama,0,2171490,,CZK,kscm
 2021-10-19,87,Příchozí úhrada,"RENGL, s.r.o.",3936597389,800,DV-34/2021 Komunistická strana Čech,0,103234,,CZK,kscm
+2021-10-19,-52937.5,Odchozí úhrada,Dopravní společnost Zlín-Otrok,31338661,100,volby PČR - MHD reklama,0,2171490,,CZK,kscm
+2021-10-19,-50820,Odchozí úhrada,Dopravní podnik města Hradce K,656020207,100,volby PČR - volby PČR - MHD reklama,0,10056021,,CZK,kscm
+2021-10-19,-46585,Odchozí úhrada,WIP Reklama spol. s r.o.,1100004396,5500,volby PČR - pronájem ploch,0,211301563,,CZK,kscm
+2021-10-19,-14359.95,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576409,,CZK,kscm
+2021-10-19,-5929,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR -  roznáška,0,5115232218,,CZK,kscm
+2021-10-19,-4343.9,Odchozí úhrada,Technické služby Tábor s.r.o.,700846349,800,volby PČR - pronájem rekl.plochy,0,212500133,,CZK,kscm
+2021-10-19,-3045.81,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5115236910,,CZK,kscm
+2021-10-19,-1954.88,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5114054009,,CZK,kscm
+2021-10-19,-1469,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123279,,CZK,kscm
+2021-10-19,-1296,Odchozí úhrada,Správa města Sezimovo Ústí,1078945050257,100,volby PČR - výlep,0,210841,,CZK,kscm
+2021-10-19,-844.22,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1487352107,,CZK,kscm
+2021-10-19,-735.68,Odchozí úhrada,Obec Dnešice,4926361,100,volby PČR - pronájem areálu,0,9721,,CZK,kscm
+2021-10-19,-458.71,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1442192106,,CZK,kscm
+2021-10-19,-240,Odchozí úhrada,Úřad městského obvodu Plzeň 3,190000929311,100,volby PČR - poplatek,0,1310315340,,CZK,kscm
+2021-10-19,-120,Odchozí úhrada,Město Týniště nad Orlicí,191240103329,800,volby PČR - plakátovné,0,12100174,,CZK,kscm
+2021-10-19,1469,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,10123279,,CZK,kscm
 2021-10-18,45000,Příchozí úhrada,KOMUNISTIC.STR.CECH,298336657,300,převod KV Pardubice volby 2021,,35300,,CZK,kscm
 2021-10-18,2563,Příchozí úhrada,KOMUNISTICKÁ STRANA,439291,100,Převod od OV KSČM Strakonice,0,33106,,CZK,kscm
 2021-10-18,-5671,Odchozí úhrada,Redring s.r.o.,212503435,300,volby PČR - výlep,0,21078,,CZK,kscm

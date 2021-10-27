@@ -1,5 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-10-26,980,Bezhotovostní příjem,AUTOMATICKY VRÁCENO,NEEXISTUJÍCÍ ÚČET 35-3078120217,6,12100066,1114,AUTOMATICKY VRÁCENO,ods_kdu-csl_top09
+2021-10-26,-500,Bezhotovostní platba,,,308,210100178,2100,"2100-Dream Pro s.r.o., vol. auto poplatek",ods_kdu-csl_top09
+2021-10-26,-500,Bezhotovostní platba,,,308,210100186,2100,"2100-Dream Pro s.r.o., vol. auto poplatek",ods_kdu-csl_top09
+2021-10-26,-5000,Bezhotovostní platba,,,308,202129,2100,2100-Michal Čížek . fotografické práce,ods_kdu-csl_top09
+2021-10-26,-2500,Okamžitá odchozí platba,,,378,2001,3000,"3000-Jiří Adamec , reklama na FBC Janda",ods_kdu-csl_top09
+2021-10-26,-4288.35,Bezhotovostní platba,,,308,21000389,2200,"2200-Bohemia Apple družstvo , jablka - snídaně",ods_kdu-csl_top09
+2021-10-26,-4131.38,Bezhotovostní platba,,,308,21000388,2200,"2200-Bohemia Apple družstvo , jablka - snídaně",ods_kdu-csl_top09
+2021-10-26,-150,Bezhotovostní platba,,,308,2100200130,2200,"2200-Město Dolní Bousov , výlep plakátů",ods_kdu-csl_top09
+2021-10-26,-2313,Bezhotovostní platba,,,308,220014,2200,"2200-Marta El Bournová , výlep plakátů , cestovné",ods_kdu-csl_top09
+2021-10-26,-2800,Platba převodem uvnitř banky,,,308,15121,2200,"2200-Naše Noviny nezávislý tisk, PR prezentace",ods_kdu-csl_top09
+2021-10-26,-3981,Bezhotovostní platba,,,308,117,2200,"2200-Jan Frumar, tisk plakáty, letáky , pozvánky",ods_kdu-csl_top09
+2021-10-26,-980,Okamžitá odchozí platba,,,308,12100066,1114,1114-Dům kultury Uherský Brod,ods_kdu-csl_top09
+2021-10-26,-29040,Okamžitá odchozí platba,,,308,3200210847,2300,2300-Dopravní podnik města České Budějovice,ods_kdu-csl_top09
+2021-10-26,-1150,Okamžitá odchozí platba,,,308,3020002921,2600,"2600-Město Roudnice nad Labem , poplatek místní",ods_kdu-csl_top09
+2021-10-26,980,Bezhotovostní příjem,AUTOMATICKY VRÁCENO,NEEXISTUJÍCÍ ÚČET 35-3078120217,6,12100066,1114,"1114-Dům kultury UH , AUTOMATICKY VRÁCENO",ods_kdu-csl_top09
 2021-10-25,-48000,Platba převodem uvnitř banky,,,308,272021,1114,"1114-Zuzana Bönisch, fotografické práce výjezdy",ods_kdu-csl_top09
 2021-10-25,-9062,Bezhotovostní platba,,,308,210100406,1114,"1114-Roggi s.r.o., propagační materiál",ods_kdu-csl_top09
 2021-10-25,-960,Bezhotovostní platba,,,308,332021,2800,"1114-Technické služby města Nový Bydžov, výlep plakátů",ods_kdu-csl_top09
@@ -125,6 +138,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-19,-10000,Bezhotovostní platba,,,308,202100005,2800,"2800-MAJOR COMMUNICATIONS, fotopráce ve vol. kampani",ods_kdu-csl_top09
 2021-10-19,-13000,Bezhotovostní platba,,,308,202100006,2800,"2800-MAJOR COMMUNICATIONS, výroba prop. brožury",ods_kdu-csl_top09
 2021-10-19,-12000,Bezhotovostní platba,,,308,2116,2400,"2400-Jakub Chodounský, natáčení videí SPOLU",ods_kdu-csl_top09
+2021-10-26,980,Bezhotovostní příjem,AUTOMATICKY VRÁCENO,NEEXISTUJÍCÍ ÚČET 35-3078120217,6,12100066,1114,AUTOMATICKY VRÁCENO,ods_kdu-csl_top09
 2021-10-18,-968,Platba převodem uvnitř banky,,,308,20217967,2100,"2100-1.Dejvická s.r.o., banner ZUNA",ods_kdu-csl_top09
 2021-10-18,-1053,Platba převodem uvnitř banky,,,308,176653,2100,"2100-1.Dejvická s.r.o., tisk letáky",ods_kdu-csl_top09
 2021-10-18,-9800,Bezhotovostní platba,,,308,20212503,1114,"1114-Middlemen Services Company, reklama na FBC",ods_kdu-csl_top09

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,3000,Okamžitá příchozí platba,Schmuch Rudolf,"DAR, Rudolf Schmuch",0,3001210026,,Schmuch Rudolf,ods
+2021-10-26,10000,Bezhotovostní příjem,BRYKNER LADISLAV,"Dar,  Ladislav Brykner",,2802210001,,BRYKNER LADISLAV,ods
 2021-10-26,10000,Bezhotovostní příjem,KITTNER JIŘÍ,DAR KITTNER JIRI,308,2703210001,0,KITTNER JIŘÍ,ods
 2021-10-26,2600,Bezhotovostní příjem,KITTNER JIŘÍ,DAR KITTNER JIRI,308,2700210013,0,KITTNER JIŘÍ,ods
 2021-10-25,3000,Bezhotovostní příjem,DBALÝ VÁCLAV,"DAR, Václav Dbalý",0,2113210027,0,DBALÝ VÁCLAV,ods

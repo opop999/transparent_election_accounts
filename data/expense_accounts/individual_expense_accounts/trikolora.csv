@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-26,-86515,Bezhotovostní platba,,tisk novin pro Prahu,308,1058000256,,tisk novin pro Prahu,trikolora
+2021-10-26,-305307,Bezhotovostní platba,,doplatek za pronájem hyperkostek - Centrála,308,211210157,,doplatek za pronájem hyperkostek - Centrála,trikolora
+2021-10-26,-12712,Platba převodem uvnitř banky,,tisk a výroba reklamních plachet Media Walk - Vysočina,308,21012268,,tisk a výroba reklamních plachet Media Walk - Vysočina,trikolora
+2021-10-26,-60500,Bezhotovostní platba,,platba za inzerci v denících metro a 5+2 Mafra - Praha,308,2121022693,,platba za inzerci v denících metro a 5+2 Mafra - Praha,trikolora
+2021-10-26,-218768,Bezhotovostní platba,,pronájem reklamních ploch na billboardy a bigboardy - Olomoucký kraj,308,2022126,,pronájem reklamních ploch na billboardy a bigboardy - Olomoucký kraj,trikolora
+2021-10-26,-20000,Bezhotovostní platba,,"platba za facebookovou kampaň, PPC a další sociální sítě - Praha",308,218100035,,"platba za facebookovou kampaň, PPC a další sociální sítě - Praha",trikolora
+2021-10-26,-6050,Bezhotovostní platba,,platba za hudební vystoupení - Musicexport - Středočeský kraj,308,2101028,,platba za hudební vystoupení - Musicexport - Středočeský kraj,trikolora
+2021-10-26,-42398.4,Bezhotovostní platba,,platba za Inzerci v Opavském regionu - Moravskoslezský kraj,308,2021130,,platba za Inzerci v Opavském regionu - Moravskoslezský kraj,trikolora
+2021-10-26,500000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet Volby 2021,,,,převod na volební účet Volby 2021,trikolora
 2021-10-26,-25000,Bezhotovostní platba,,organizační poradenství a projektové řízení - centrála,308,52021,,organizační poradenství a projektové řízení - centrála,trikolora
 2021-10-26,273,Bezhotovostní příjem,AUTOMATICKY VRÁCENO,NEEXISTUJÍCÍ ÚČET 19-1883093339,6,202100301,0,AUTOMATICKY VRÁCENO,trikolora
 2021-10-22,-384,Bezhotovostní platba,,poplatek za zábor veřejného prostranství Benešov - středočeský kraj,308,1344210019,405,poplatek za zábor veřejného prostranství Benešov - středočeský kraj,trikolora
