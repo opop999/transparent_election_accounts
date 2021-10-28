@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-27,5000,Okamžitá příchozí platba,František Horák,Dar pro okres Prostějov - František Horák,,13061973,,František Horák,kdu-csl
+2021-10-27,10000,Okamžitá příchozí platba,František Horák,Dar pro Olomoucký kraj - František Horák,,13061973,,František Horák,kdu-csl
+2021-10-27,500,Bezhotovostní příjem,Marie Kozáková,zvláštní členský příspěvek Marie Kozáková,0,,,Marie Kozáková,kdu-csl
+2021-10-27,100,Bezhotovostní příjem,DAN DRÁPAL,PŘEVOD PROSTŘEDKŮ,,19490323,999,DAN DRÁPAL,kdu-csl
 2021-10-26,3000,Bezhotovostní příjem,JANOUŠEK PAVEL,KDU Vysočina Pavel Janoušek,0,24011979,651,JANOUŠEK PAVEL,kdu-csl
 2021-10-26,12000,Bezhotovostní příjem,JANOUŠEK PAVEL,Pavel Janoušek KDU Zdar,0,24011979,651,JANOUŠEK PAVEL,kdu-csl
 2021-10-25,16500,Bezhotovostní příjem,VASTIK FRANTISEK,dar Vastik (DR),558,16071946,851,VASTIK FRANTISEK,kdu-csl

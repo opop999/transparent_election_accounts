@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-27,-617.1,Bezhotovostní platba,,,308,22100690,2400,"1114-Město Rokycany, výlep plakátů",ods_kdu-csl_top09
+2021-10-27,-1200,Bezhotovostní platba,,,308,2021098,2300,"1114-Městské kulturní středisko Vimperk, výlep plakátů",ods_kdu-csl_top09
+2021-10-27,-20056,Bezhotovostní platba,,,308,210100013,1114,"1114-CG Niké z. ú., pronájem lodi Cargo",ods_kdu-csl_top09
+2021-10-27,-1000,Okamžitá odchozí platba,,,308,2103177,3100,"3100-Lazně Slatinice a.s., pronájem prostor",ods_kdu-csl_top09
+2021-10-27,-15.73,Okamžitá odchozí platba,,,308,8503210292,3200,"3200-Dopravní podnik města Brna a.s., spotřeba el. energie",ods_kdu-csl_top09
+2021-10-27,-3000,Okamžitá odchozí platba,,,308,120210102,3000,"3000-MENTAL CAFÉ z.s., káva v kampani",ods_kdu-csl_top09
 2021-10-26,-500,Bezhotovostní platba,,,308,210100178,2100,"2100-Dream Pro s.r.o., vol. auto poplatek",ods_kdu-csl_top09
 2021-10-26,-500,Bezhotovostní platba,,,308,210100186,2100,"2100-Dream Pro s.r.o., vol. auto poplatek",ods_kdu-csl_top09
 2021-10-26,-5000,Bezhotovostní platba,,,308,202129,2100,2100-Michal Čížek . fotografické práce,ods_kdu-csl_top09

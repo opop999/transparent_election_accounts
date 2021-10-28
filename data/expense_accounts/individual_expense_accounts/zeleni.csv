@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-27,-29300,Platba převodem uvnitř banky,,"FA 202107 - poradenská činnost a technická výpomoc v kampani, výlep plakátů",,202107,42,ÚLK - Jiří Wagner,zeleni
+2021-10-27,-800,Platba převodem uvnitř banky,,PD 1102105390 - výlep plakátu A3 (Informační a dopravní centrum Podřipska),,1102105390,42,ÚLK - Jiří Wagner,zeleni
+2021-10-27,-1155,Platba převodem uvnitř banky,,PD 21066 - tisk (Aleš Ducháček),,21066,42,ÚLK - Jiří Wagner,zeleni
+2021-10-27,-1500,Platba převodem uvnitř banky,,PD 21062 - grafické práce volební banner (Aleš Ducháček),,21062,42,ÚLK - Jiří Wagner,zeleni
+2021-10-27,-3000,Platba převodem uvnitř banky,,PD 21060 - grafické práce volební bannery (Aleš Ducháček),,21060,42,ÚLK - Jiří Wagner,zeleni
+2021-10-27,1059,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-25,-10624.89,Okamžitá odchozí platba,,FB - reklama na sociálních sítích,,,31,JHČ - Vladislav Sloup,zeleni
 2021-10-25,10624.89,Platba převodem uvnitř banky,Strana zelených,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,,31,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-10-25,3312,Platba převodem uvnitř banky,Strana zelených,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,1210538,20,převod darů STČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
