@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-29,560,Příchozí úhrada,WIEWIÓRKA KAREL,193417350237,100,FIN. DAR KSČM KAREL WIEWIORKA,0,38103,,CZK,kscm
+2021-10-29,637,Příchozí úhrada,ORSZULIK RADEK,159145375,300,Financni dar KSMC Radek Orszulik,,38103,,CZK,kscm
 2021-10-27,-9000,Odchozí úhrada,,274141740,300,dotace - OV Semily,0,581,,CZK,kscm
 2021-10-26,860,Příchozí úhrada,BRANÝ PETR,1170540231,100,DAR ÚV,308,510525328,33101,CZK,kscm
 2021-10-26,1300,Příchozí úhrada,LEICHTEROVA HELENA,198919855,300,Helena Leichterova - dar (10/2021)poslední,,,,CZK,kscm

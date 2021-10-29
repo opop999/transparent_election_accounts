@@ -30,19 +30,19 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-22,-4700,Odchozí úhrada,Václav Špíral,6701002200860390,6210,volby PČR - grafické práce,0,2021028,,CZK,kscm
 2021-10-22,-9202.7,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576407,,CZK,kscm
 2021-10-21,15000,Příchozí úhrada,OV KSČM PRAHA ZÁPAD,2938051,100,volby do PS - P-Z,0,,,CZK,kscm
-2021-10-21,76609.51,Příchozí úhrada,Komunistická strana,2107055043,2700,,,34202,,CZK,kscm
-2021-10-21,8094,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,331571,100,PŘEVOD OD OV KSČM RYCHNOV NAD KNĚŽNOU,558,35204,,CZK,kscm
-2021-10-21,9275,Příchozí úhrada,KSCM,106077102,300,převod od OV KSČM Louny,,34204,,CZK,kscm
-2021-10-21,12000,Příchozí úhrada,KOMUNISTIC.STR.CECH,298884645,300,převod od OV KSČM Mělník,,32106,,CZK,kscm
-2021-10-21,-511,Odchozí úhrada,"Služby města Vrchlabí, příspěv",8724601,100,volby PČR - výlep,0,46,,CZK,kscm
-2021-10-21,-771,Odchozí úhrada,Eko Bi s.r.o.,212186601,300,volby PČR - výlep,0,211000043,,CZK,kscm
-2021-10-21,-813.12,Odchozí úhrada,Kulturní a informační středisk,789648090257,100,volby PČR - výlep,0,2021021,,CZK,kscm
-2021-10-21,-845,Odchozí úhrada,Nymburské kulturní centrum,2600578964,2010,volby PČR - výlep,0,210100043,,CZK,kscm
-2021-10-21,-1680,Odchozí úhrada,Dům kultury Uherský Brod - pří,1540107399,800,volby PČR - výlep,0,12100062,,CZK,kscm
-2021-10-21,-10575.4,Odchozí úhrada,BOFTISK s.r.o.,234723586,300,volby PČR - leták,0,210583,,CZK,kscm
-2021-10-21,-13382.6,Odchozí úhrada,INPRESS a.s.,252061168,300,volby PČR - letáky,0,10521507,,CZK,kscm
-2021-10-21,-33500,Odchozí úhrada,Miroslav Smolík,193022740257,100,volby PČR - pronájem,0,202101,,CZK,kscm
 2021-10-21,-537500,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,,,CZK,kscm
+2021-10-21,-33500,Odchozí úhrada,Miroslav Smolík,193022740257,100,volby PČR - pronájem,0,202101,,CZK,kscm
+2021-10-21,-13382.6,Odchozí úhrada,INPRESS a.s.,252061168,300,volby PČR - letáky,0,10521507,,CZK,kscm
+2021-10-21,-10575.4,Odchozí úhrada,BOFTISK s.r.o.,234723586,300,volby PČR - leták,0,210583,,CZK,kscm
+2021-10-21,-1680,Odchozí úhrada,Dům kultury Uherský Brod - pří,1540107399,800,volby PČR - výlep,0,12100062,,CZK,kscm
+2021-10-21,-845,Odchozí úhrada,Nymburské kulturní centrum,2600578964,2010,volby PČR - výlep,0,210100043,,CZK,kscm
+2021-10-21,-813.12,Odchozí úhrada,Kulturní a informační středisk,789648090257,100,volby PČR - výlep,0,2021021,,CZK,kscm
+2021-10-21,-771,Odchozí úhrada,Eko Bi s.r.o.,212186601,300,volby PČR - výlep,0,211000043,,CZK,kscm
+2021-10-21,-511,Odchozí úhrada,"Služby města Vrchlabí, příspěv",8724601,100,volby PČR - výlep,0,46,,CZK,kscm
+2021-10-21,12000,Příchozí úhrada,KOMUNISTIC.STR.CECH,298884645,300,převod od OV KSČM Mělník,,32106,,CZK,kscm
+2021-10-21,9275,Příchozí úhrada,KSCM,106077102,300,převod od OV KSČM Louny,,34204,,CZK,kscm
+2021-10-21,8094,Příchozí úhrada,OKRESNÍ VÝBOR KSČM,331571,100,PŘEVOD OD OV KSČM RYCHNOV NAD KNĚŽNOU,558,35204,,CZK,kscm
+2021-10-21,76609.51,Příchozí úhrada,Komunistická strana,2107055043,2700,,,34202,,CZK,kscm
 2021-10-20,7000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,635161,100,,308,32105,,CZK,kscm
 2021-10-20,-15748.58,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190577100,,CZK,kscm
 2021-10-20,-10605,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - propagace kandidátů,0,20217030,,CZK,kscm

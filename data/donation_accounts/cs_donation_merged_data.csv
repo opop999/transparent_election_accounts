@@ -19,59 +19,59 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-10-06,7027083,DOŠLÁ PLATBA,6418,180152021,,MF,1403/18015/2021-58  TOP 09,top_09
 2021-10-05,-160000,PLATBA - B24,0,71339728,,000000-0007230482/0800,"TOP 09, převod z účtu pro přijímánídarů na účet pro plnění z pracovněprávních vztahů",top_09
 2021-10-04,300000,DOŠLÁ EXPRES.PLATBA,308,27207200,,Ungelt Services a.s.,"Ungelt Services a.s.DAR, Ungelt Services a.s., Praha, K",top_09
-2021-09-30,-4.31,SRÁŽKOVÁ DAŇ,,,,-,,top_09
-2021-09-30,22.66,KREDITNÍ ÚROK,,,,,,top_09
-2021-09-30,-6,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
 2021-09-30,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
+2021-09-30,-6,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
+2021-09-30,22.66,KREDITNÍ ÚROK,,,,,,top_09
 2021-09-30,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-09-30,250000,DOŠLÁ PLATBA,0,1716581,,INCEPTION S.R.O.,"DAR, INception s.r.o., Praha, V hurkach",top_09
+2021-09-30,-4.31,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2021-09-29,-2395000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-09-29,50000,DOŠLÁ PLATBA,0,25411721,,DC RELAX,"DAR, DC RELAX, s.r.o., Praha, Pod Hláskem",top_09
 2021-09-27,40000,DOŠLÁ PLATBA,0,28011970,,Martin Dlouhý,"DAR, Martin Dlouhý, Praha",top_09
 2021-09-24,100000,DOŠLÁ PLATBA,0,6091966,,RICHTER PAVEL,"DAR, Pavel Richter, Praha",top_09
 2021-09-24,200000,DOŠLÁ PLATBA,0,,,TOMEK ONDŘEJ,TOMEK ONDŘEJ,top_09
-2021-09-22,200000,DOŠLÁ PLATBA,558,17048869,,PSN s.r.o.,DAROVACI SML. TOP 09,top_09
-2021-09-22,3000,DOŠLÁ PLATBA,0,6061973,,Bohuslav Straka,dar Bob,top_09
 2021-09-22,22500,DOŠLÁ PLATBA,0,,,Strana zelených,podíl ze státního rozpočtu přijatý za mandát J. Krumpholcové v STČ TOP 09 - 3. Q 2021,top_09
+2021-09-22,3000,DOŠLÁ PLATBA,0,6061973,,Bohuslav Straka,dar Bob,top_09
+2021-09-22,200000,DOŠLÁ PLATBA,558,17048869,,PSN s.r.o.,DAROVACI SML. TOP 09,top_09
 2021-09-22,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 20.09.2021 c 5002*U*J IRIDAR RIJEN,top_09
 2021-09-21,50000,DOŠLÁ EXPRES.PLATBA,0,2651975,,GRULICH JAN,"DAR, Jan Grulich, Sedloňov",top_09
 2021-09-17,-1400000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-09-10,150000,DOŠLÁ PLATBA,0,26118963,,"PASSERINVEST GROUP,","PASSERINVEST GROUP, a.s.DAR, PASSERINVEST GROUP, A.S., PRAHŽELETAVSKÁ SML-01-2021-71",top_09
 2021-09-10,2500000,DOŠLÁ PLATBA,0,9509071,,Spolek pro podporu l,"Dar, Spolek po podporu liberální demokracie ČS",top_09
 2021-09-07,50000,DOŠLÁ PLATBA,0,26071985,,"Ing.Matula Romana,Di","DAR, Ing. Romana Matula, Kučerov",top_09
-2021-09-06,-800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-09-06,30000,DOŠLÁ PLATBA,0,2021,,BURDA AUCTION S.R.O.,DAR,top_09
-2021-09-03,1000,DOŠLÁ PLATBA,0,18051968,,TUŠL MARTIN,"DAR, Martin Tušl, Velké Popovice",top_09
+2021-09-06,-800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-09-03,10000,DOŠLÁ PLATBA,0,13121957,,Zlámal Tomáš,Zlámal TomášDar,top_09
-2021-09-02,10000,DOŠLÁ EXPRES.PLATBA,0,6051967,3251,Ing. Jan Vokál,"DAR, Jan Vokál, Praha",top_09
+2021-09-03,1000,DOŠLÁ PLATBA,0,18051968,,TUŠL MARTIN,"DAR, Martin Tušl, Velké Popovice",top_09
 2021-09-02,100000,DOŠLÁ EXPRES.PLATBA,0,5011985,,Lukáš Otys,"DAR, Lukáš Otys, Karlovy Vary",top_09
+2021-09-02,10000,DOŠLÁ EXPRES.PLATBA,0,6051967,3251,Ing. Jan Vokál,"DAR, Jan Vokál, Praha",top_09
+2021-08-31,-8,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
+2021-08-31,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
 2021-08-31,17.72,KREDITNÍ ÚROK,,,,,,top_09
 2021-08-31,-3.37,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2021-08-31,-16,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
-2021-08-31,-8,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
-2021-08-31,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
-2021-08-30,100000,DOŠLÁ EXPRES.PLATBA,0,31031972,,Mgr. Tomáš Třetina,"DAR, Tomáš Třetina, Moravský Krumlov",top_09
+2021-08-30,50000,DOŠLÁ PLATBA,0,6031959,,Vlastislav Polášek,DAR,top_09
 2021-08-30,20000,DOŠLÁ PLATBA,0,15041963,,MOLENOVÁ IVA,DAR IVA MOLENOVÁ,top_09
 2021-08-30,50000,DOŠLÁ EXPRES.PLATBA,0,6091982,,KALENSKÝ JAN,"DAR, Bc. Jan Kalenský, Dobruška",top_09
-2021-08-30,50000,DOŠLÁ PLATBA,0,6031959,,Vlastislav Polášek,DAR,top_09
+2021-08-30,100000,DOŠLÁ EXPRES.PLATBA,0,31031972,,Mgr. Tomáš Třetina,"DAR, Tomáš Třetina, Moravský Krumlov",top_09
 2021-08-27,50000,DOŠLÁ PLATBA,0,,,GRULICH JAN,Dar,top_09
 2021-08-25,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 23.08.2021 c 5011SIRIREISINAER* AR *R**I ZARI,top_09
-2021-08-24,100000,DOŠLÁ PLATBA,0,23111961,,Ing.Faměra František,"DAR,Frantisek Famera,Sobotka",top_09
-2021-08-24,-5000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
-2021-08-24,50000,DOŠLÁ PLATBA,0,19081987,,Radek Polášek,"DAR,Radek Polášek,Bolatice",top_09
-2021-08-24,150000,DOŠLÁ PLATBA,0,31071976,,Ing.Kocanda Vlastimi,DAR,top_09
 2021-08-24,3000,DOŠLÁ EXPRES.PLATBA,715,20101970,,LUDĚK PIVOŇKA,DAR Luděk Pivoňka - pro krajskou organizaci TOP 09 Olomouc,top_09
+2021-08-24,50000,DOŠLÁ PLATBA,0,19081987,,Radek Polášek,"DAR,Radek Polášek,Bolatice",top_09
+2021-08-24,100000,DOŠLÁ PLATBA,0,23111961,,Ing.Faměra František,"DAR,Frantisek Famera,Sobotka",top_09
+2021-08-24,150000,DOŠLÁ PLATBA,0,31071976,,Ing.Kocanda Vlastimi,DAR,top_09
+2021-08-24,-5000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-08-23,100000,DOŠLÁ PLATBA,0,4011958,,PAVERA HERBERT,"DAR, Herbert Pavera, Bolatice",top_09
-2021-08-19,100000,DOŠLÁ PLATBA,0,4031962,,CZERNIN TOMÁŠ,Dar,top_09
 2021-08-19,100000,DOŠLÁ PLATBA,0,6090290,,UHLI PISKY CERT S.R.,TOP 09 dar TOP 09,top_09
-2021-08-13,20000,DOŠLÁ PLATBA,0,27512380,,LabMediaServis s.r.o,"DAR, LabMediaServis s.r.o., Národní84, Jaroměř",top_09
+2021-08-19,100000,DOŠLÁ PLATBA,0,4031962,,CZERNIN TOMÁŠ,Dar,top_09
 2021-08-13,20000,DOŠLÁ PLATBA,0,14071972,,Lojík Viktor,"DAR, Viktor Lojík, Praha",top_09
 2021-08-13,40000,DOŠLÁ PLATBA,308,29448336,,SBERNA DRUHOTNYCH SU,"DAR,Sberna druhotnych surovin Lindovsky,s.r.o.,Jesenik,Otakara Breziny",top_09
+2021-08-13,20000,DOŠLÁ PLATBA,0,27512380,,LabMediaServis s.r.o,"DAR, LabMediaServis s.r.o., Národní84, Jaroměř",top_09
 2021-08-12,257292,DOŠLÁ PLATBA,378,2021062,,Občanská demokratick,Dar- vyrovnání KV a SV volby 2020 - 2.čtvrtletí 2021,top_09
 2021-08-12,-800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
 2021-08-03,125000,DOŠLÁ PLATBA,308,48168921,,OR-CZ S.R.O.,"DAR, OR-CZ spol. s r.o.,Moravská Třebová 571 01,Brněnská 19/20",top_09
-2021-08-02,-8000000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-08-02,-25000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
+2021-08-02,-8000000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-07-30,-15.17,SRÁŽKOVÁ DAŇ,,,,-,,top_09
 2021-07-30,79.86,KREDITNÍ ÚROK,,,,,,top_09
 2021-07-30,-2,POPL. PLATBA VYŠLÁ INTRA,,,,-,,top_09
@@ -90,13 +90,13 @@ date,amount,type,ks,vs,ss,contra_account_name,message_for_recipient,entity_name
 2021-07-07,4556,DOŠLÁ EXPRES.PLATBA,0,3204723,,Hradecký demokratick,HRADECKY DEMOKRATICKY KLUB  DAR 2 Q2021,top_09
 2021-07-07,80000,DOŠLÁ EXPRES.PLATBA,0,3204723,,Hradecký demokratick,HRADECKY DEMOKRATICKY KLUB  DAR,top_09
 2021-07-07,500,DOŠLÁ EXPRES.PLATBA,0,19111988,,Luboš Vopasek,"DAR, Luboš Vopasek, Praha",top_09
+2021-06-30,-13.54,SRÁŽKOVÁ DAŇ,,,,-,,top_09
+2021-06-30,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-06-30,-100,POPLATEK EL.VÝPIS,,,,-,,top_09
 2021-06-30,-6,POPL. PLATBA VYŠLÁ INTER,,,,-,,top_09
-2021-06-30,-12,POPLATEK DEBET.TRANSAKCE,,,,-,,top_09
 2021-06-30,71.26,KREDITNÍ ÚROK,,,,,,top_09
-2021-06-30,-13.54,SRÁŽKOVÁ DAŇ,,,,-,,top_09
-2021-06-25,-460000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-06-25,-2800000,PLATBA - B24,0,71339728,,000000-0010909090/5500,"TOP 09, převod z účtu pro přijímánídarů na provozní účet Raiffeisen bank",top_09
+2021-06-25,-460000,PLATBA - B24,0,71339728,,000000-2701915288/2010,"TOP 09, Opletalova 57, 11000 Praha1, vklad na společnou koaliční volební kampaň PSP",top_09
 2021-06-23,100,DOŠLÁ PLATBA,0,1131956,,"CESKA POSTA, S.P.",posta 410117 21.06.2021 c 3001JIRIREISINGERDAR CERVENEC,top_09
 2021-06-22,15000,DOŠLÁ PLATBA,0,21091964,,KOZOJED PETR,DAR,top_09
 2021-06-21,45000,DOŠLÁ EXPRES.PLATBA,0,24071975,,JUDr.Tomáš Bouzek,"DAR, Tomáš Bouzek, České Budějovice",top_09

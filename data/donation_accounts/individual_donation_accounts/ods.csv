@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-29,7000,Bezhotovostní příjem,BEITL PETR,"DAR, Petr Beitl",,2700210031,,BEITL PETR,ods
+2021-10-29,10000,Bezhotovostní příjem,DEJSIBIO S.R.O.,"DAR, DEJSIBIO s.r.o.",,3400210013,,DEJSIBIO S.R.O.,ods
 2021-10-27,15000,Bezhotovostní příjem,JUDR. JIŘÍ ČERNÝ,"DAR, jiří Černý",,2209210004,,JUDR. JIŘÍ ČERNÝ,ods
 2021-10-26,3000,Okamžitá příchozí platba,Schmuch Rudolf,"DAR, Rudolf Schmuch",0,3001210026,,Schmuch Rudolf,ods
 2021-10-26,10000,Bezhotovostní příjem,BRYKNER LADISLAV,"Dar,  Ladislav Brykner",,2802210001,,BRYKNER LADISLAV,ods

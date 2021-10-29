@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-29,1000,Bezhotovostní příjem,Jan Skalák,DAR,,82049,,Jan Skalák,svobodni
 2021-10-27,1000,Okamžitá příchozí platba,Ing. Lubomír Fanta,DAR příznivce.,,3705,,Ing. Lubomír Fanta,svobodni
 2021-10-27,-250,Okamžitá odchozí platba,,"Diky, ale nesmime prijmout platbu bez uvedeni ucelu, napr. ""DAR"". Proto vracime. Svobodni",,81965,,"Diky, ale nesmime prijmout platbu bez uvedeni ucelu, napr. ""DAR"". Proto vracime. Svobodni",svobodni
 2021-10-26,100,Bezhotovostní příjem,HEJZLAROVA NIKOLA,dar priznivce,,9419,,HEJZLAROVA NIKOLA,svobodni
