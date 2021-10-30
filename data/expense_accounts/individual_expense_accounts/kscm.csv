@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-10-29,229,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,34103,,CZK,kscm
 2021-10-27,-2257,Odchozí úhrada,Vladimír Jalůvka,812248001,5500,volby PČR - výlep,0,4292,,CZK,kscm
 2021-10-27,-4065.6,Odchozí úhrada,PLAKÁT s.r.o.,4556587001,5500,volby PČR - výlep,0,2021155,,CZK,kscm
 2021-10-27,-20039.26,Odchozí úhrada,"Česká pošta, s.p.",133715683,300,volby PČR - roznáška,0,5190573224,,CZK,kscm
@@ -23,12 +24,12 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-10-25,-1198,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124121,,CZK,kscm
 2021-10-25,-16650.81,Odchozí úhrada,SOPKO s.r.o.,228758328,300,volby PČR - polep vozidel,0,210488,,CZK,kscm
 2021-10-22,-16100,Odchozí úhrada,Václav Špíral,6701002200860390,6210,volby PČR - grafické práce,0,2021027,,CZK,kscm
-2021-10-22,11656.35,Příchozí úhrada,OV KOMUNISTICKÉ STRA,838671,100,převod od OV KSČM HODONÍN,0,36205,,CZK,kscm
-2021-10-22,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
-2021-10-22,3284,Příchozí úhrada,KOMUNISTICKÁ STRANA,1831471,100,převod od OV KSČM Litoměřice,0,34203,,CZK,kscm
-2021-10-22,-800,Odchozí úhrada,"Společenský dům Jilm, příspěvk",1261424359,800,volby PČR - výlep,0,20210146,,CZK,kscm
-2021-10-22,-4700,Odchozí úhrada,Václav Špíral,6701002200860390,6210,volby PČR - grafické práce,0,2021028,,CZK,kscm
 2021-10-22,-9202.7,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576407,,CZK,kscm
+2021-10-22,-4700,Odchozí úhrada,Václav Špíral,6701002200860390,6210,volby PČR - grafické práce,0,2021028,,CZK,kscm
+2021-10-22,-800,Odchozí úhrada,"Společenský dům Jilm, příspěvk",1261424359,800,volby PČR - výlep,0,20210146,,CZK,kscm
+2021-10-22,3284,Příchozí úhrada,KOMUNISTICKÁ STRANA,1831471,100,převod od OV KSČM Litoměřice,0,34203,,CZK,kscm
+2021-10-22,30000,Příchozí úhrada,KOMUNISTICKÁ STRANA,271924180237,100,převod od KV KSČM Zlín,0,37200,,CZK,kscm
+2021-10-22,11656.35,Příchozí úhrada,OV KOMUNISTICKÉ STRA,838671,100,převod od OV KSČM HODONÍN,0,36205,,CZK,kscm
 2021-10-21,15000,Příchozí úhrada,OV KSČM PRAHA ZÁPAD,2938051,100,volby do PS - P-Z,0,,,CZK,kscm
 2021-10-21,-537500,Odchozí úhrada,"FUTURA, a.s.",1921614319,800,volby PČR - inzerce,0,,,CZK,kscm
 2021-10-21,-33500,Odchozí úhrada,Miroslav Smolík,193022740257,100,volby PČR - pronájem,0,202101,,CZK,kscm

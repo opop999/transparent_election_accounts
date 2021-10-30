@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-10-29,250,Bezhotovostní příjem,Tereza Vrublová,Dar,0,9001861,,Tereza Vrublová,zeleni
+2021-10-29,300,Bezhotovostní příjem,ADAM ZBIEJCZUK,DAR PRO STRANU ZELENÝCH,,9002593,,ADAM ZBIEJCZUK,zeleni
 2021-10-29,250,Bezhotovostní příjem,Ryant Filip,dar,0,9002569,,Ryant Filip,zeleni
 2021-10-29,100,Bezhotovostní příjem,Böhm Daniel,dar,0,9002579,,Böhm Daniel,zeleni
 2021-10-29,200,Platba převodem uvnitř banky,"Ing. Víšek, Jindřich",DAR PRO SZ MSK,,9001878,,DAR PRO SZ MSK,zeleni
