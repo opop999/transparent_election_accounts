@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,1637.2,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-10-29,500,Bezhotovostní příjem,Martin Krejčí,dar,0,,,Martin Krejčí,prisaha
 2021-10-29,500,Bezhotovostní příjem,VRBENSKA LYDIE,Dar hnuti,,0,,VRBENSKA LYDIE,prisaha
 2021-10-29,190.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha

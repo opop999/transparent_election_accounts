@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,200,Bezhotovostní příjem,KOUTSKÝ RADOVAN,dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,0,0,2021,KOUTSKÝ RADOVAN,svobodni
 2021-10-30,200,Okamžitá příchozí platba,BUREŠOVÁ MARKOVÁ IVA,dar ReS 2021 - Ivana Burešová Marková,,3793,2021,BUREŠOVÁ MARKOVÁ IVA,svobodni
 2021-10-29,200,Okamžitá příchozí platba,Tomáš Štampach,dar ReS 2021 - Tomas Stampach,,2380,2021,Tomáš Štampach,svobodni
 2021-10-29,200,Okamžitá příchozí platba,Libor Vondráček,dar ReS 2021 - Libor Vondráček,,3500,2021,Libor Vondráček,svobodni

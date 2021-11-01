@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,200,Bezhotovostní příjem,TITĚROVÁ PETRA,PIRÁTSKÁ STRANA,0,44004881,1,TITĚROVÁ PETRA,pirati
+2021-11-01,250,Bezhotovostní příjem,BÍSEK PETR,Petr Bísek - měsíční příspěvek MS Praha 8,0,44000703,110108,BÍSEK PETR,pirati
+2021-11-01,500,Bezhotovostní příjem,JANSA LUKÁŠ,DAR NA ČINNOST MS OSTRAVA,0,0,140401,JANSA LUKÁŠ,pirati
+2021-11-01,3000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",na pražskou pirátskou práci - letošní i budoucí!,,44013854,193010,na pražskou pirátskou práci - letošní i budoucí!,pirati
 2021-10-29,2585,Bezhotovostní příjem,BLANKA LEDNICKA,BLANKA LEDNICKÁ KEMP 2. ČÁST,,2108034,,BLANKA LEDNICKA,pirati
 2021-10-29,100,Bezhotovostní příjem,Ferdinand Betlach,,,83247,,Ferdinand Betlach,pirati
 2021-10-29,2500,Bezhotovostní příjem,HŘEBÍČEK JAN,Podporuji: Centrál,,44006726,1,HŘEBÍČEK JAN,pirati
