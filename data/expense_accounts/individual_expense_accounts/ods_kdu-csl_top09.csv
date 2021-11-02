@@ -1,4 +1,21 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Vojtěch Šolc, tisk letáky",ods_kdu-csl_top09
+2021-11-01,-4948.9,Bezhotovostní platba,,,308,221033,2100,"2100-ABSOLUTE COMPANY s.r.o., tisk letáky Decker, Philipp",ods_kdu-csl_top09
+2021-11-01,-8100,Platba převodem uvnitř banky,,,308,100012021,2100,"2100-Tomáš Havla, reklama na FBC",ods_kdu-csl_top09
+2021-11-01,-8961,Bezhotovostní platba,,,378,220015,2200,"2200-Petr Dvořák, pronájem divadla, spotřební materiál",ods_kdu-csl_top09
+2021-11-01,-3710,Bezhotovostní platba,,,558,9060111271,2200,"2200-Statutární město Kladno , užívání veř. prostranství",ods_kdu-csl_top09
+2021-11-01,-15000.37,Bezhotovostní platba,,,308,21148,2200,"2200-YDEAL s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-11-01,-10000,Bezhotovostní platba,,,308,120210500,2800,2800-TOP SERVICE MANAGEMENT reklama na FBC,ods_kdu-csl_top09
+2021-11-01,-53119,Bezhotovostní platba,,,308,10056121,2800,"2800-Dopravní podnik města Hradec Králové, reklama na autobusech",ods_kdu-csl_top09
+2021-11-01,-6050,Bezhotovostní platba,,,308,21056,2900,"2900-Novák David, volební akce caterink",ods_kdu-csl_top09
+2021-11-01,-23000,Bezhotovostní platba,,,308,21052,2900,"2900-Novák David , zajištění hud, produkce",ods_kdu-csl_top09
+2021-11-01,-3700,Bezhotovostní platba,,,378,1,3300,"3300-Martin Schön, zábor -Vsetín",ods_kdu-csl_top09
+2021-11-01,-1161.6,Bezhotovostní platba,,,308,2130268,3300,"3300-město Slušovice, pronájem pozemku BB",ods_kdu-csl_top09
+2021-11-01,-605,Bezhotovostní platba,,,308,1641000732,3300,"3300-HRATES a.s., služby elektrorozvodna",ods_kdu-csl_top09
+2021-11-01,-20328,Bezhotovostní platba,,,308,110306,3300,"3300-PROMT SERVIS s.r.o., inzerce Týdeník KM",ods_kdu-csl_top09
+2021-11-01,-20086,Bezhotovostní platba,,,308,232021,3300,"3300-Miroslav Hanus , reklama na FBC",ods_kdu-csl_top09
+2021-11-01,-2500.1,Platba převodem uvnitř banky,,,378,1,3300,"3300-Irena Seifertová, reklama Herold",ods_kdu-csl_top09
+2021-11-01,-3000,Bezhotovostní platba,,,308,3792021,3300,"3300-Martin Neřád, PHM vol. auto",ods_kdu-csl_top09
 2021-10-27,-617.1,Bezhotovostní platba,,,308,22100690,2400,"1114-Město Rokycany, výlep plakátů",ods_kdu-csl_top09
 2021-10-27,-1200,Bezhotovostní platba,,,308,2021098,2300,"1114-Městské kulturní středisko Vimperk, výlep plakátů",ods_kdu-csl_top09
 2021-10-27,-20056,Bezhotovostní platba,,,308,210100013,1114,"1114-CG Niké z. ú., pronájem lodi Cargo",ods_kdu-csl_top09

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,-20000,Okamžitá odchozí platba,,"PR, foto práce, mediální výstupy a monitoring článků v souvislosti s volební kampaní - centrála",308,172021,,"PR, foto práce, mediální výstupy a monitoring článků v souvislosti s volební kampaní - centrála",trikolora
+2021-11-01,6630.8,Bezhotovostní příjem,U N I P R E S S SPOL,duplicitni platba LBC kraj,0,3030013902,,U N I P R E S S SPOL,trikolora
 2021-10-29,-1395,Bezhotovostní platba,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,308,2221000104,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,trikolora
 2021-10-29,-12100,Platba převodem uvnitř banky,,platba za správu serveru praavozit.cz - centrála,308,20210050,,platba za správu serveru praavozit.cz - centrála,trikolora
 2021-10-26,-86515,Bezhotovostní platba,,tisk novin pro Prahu,308,1058000256,,tisk novin pro Prahu,trikolora

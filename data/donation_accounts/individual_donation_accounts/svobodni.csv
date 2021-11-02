@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-02,200,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",dar ReS 2021 - Jiří Strachota,,1728,2021,dar ReS 2021 - Jiří Strachota,svobodni
+2021-11-02,200,Bezhotovostní příjem,"VOKAL JOSEF, BC.",dar ReS 2021 - Josef Vokál,0,3811,2021,"VOKAL JOSEF, BC.",svobodni
+2021-11-01,200,Platba převodem uvnitř banky,"Macek, Tomáš",dar ReS 2021,,5159,2021,dar ReS 2021,svobodni
+2021-11-01,200,Platba převodem uvnitř banky,"Vochozka, Tomáš",dát sněm 2021,,9097,1,dát sněm 2021,svobodni
+2021-11-01,200,Bezhotovostní příjem,HALAMA MARTIN,dar ReS 2021 - Martin Halama,308,6666,2021,HALAMA MARTIN,svobodni
+2021-11-01,200,Okamžitá příchozí platba,Mgr.Kovář Vojtěch,dar ReS 2021 - Vojtěch Kovář,0,9215,2021,Mgr.Kovář Vojtěch,svobodni
+2021-11-01,200,Platba převodem uvnitř banky,"Zavadil, Petr",dar ReS 2021 - Petr Zavadil,,479,2021,dar ReS 2021 - Petr Zavadil,svobodni
+2021-11-01,200,Bezhotovostní příjem,HEJDUK MAREK,dar ReS 2021 - Marek Hejduk,,9009,2021,HEJDUK MAREK,svobodni
+2021-11-01,200,Bezhotovostní příjem,ALOIS SECKAR,ALOIS SEČKÁR - RES 2021,,4039,2021,ALOIS SECKAR,svobodni
+2021-11-01,200,Bezhotovostní příjem,FILIP VALTR,DAR RES 2021 - FILIP VALTR,,6302,2021,FILIP VALTR,svobodni
+2021-11-01,200,Bezhotovostní příjem,Pavel Strunz,dar ReS 2020,,437,2021,Pavel Strunz,svobodni
+2021-11-01,200,Bezhotovostní příjem,Jan Dočekal,dar ReS 2021 - 6393,,,2021,Jan Dočekal,svobodni
 2021-11-01,200,Bezhotovostní příjem,KOUTSKÝ RADOVAN,dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,0,0,2021,KOUTSKÝ RADOVAN,svobodni
 2021-10-30,200,Okamžitá příchozí platba,BUREŠOVÁ MARKOVÁ IVA,dar ReS 2021 - Ivana Burešová Marková,,3793,2021,BUREŠOVÁ MARKOVÁ IVA,svobodni
 2021-10-29,200,Okamžitá příchozí platba,Tomáš Štampach,dar ReS 2021 - Tomas Stampach,,2380,2021,Tomáš Štampach,svobodni

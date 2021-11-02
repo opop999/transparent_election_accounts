@@ -1,4 +1,27 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,-100,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9002455,,KLAUSER ONDŘEJ,zeleni
+2021-11-01,-300,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003735,,Kvapilová Hana,zeleni
+2021-11-01,-200,Bezhotovostní platba,,"vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Jan Dittrich,zeleni
+2021-11-01,300,Platba převodem uvnitř banky,"Křížová, Sylvie","150 Kč Dar na pražského socmeda, 150 Kč dar SZ",,9003727,,"150 Kč Dar na pražského socmeda, 150 Kč dar SZ",zeleni
+2021-11-01,2420,Okamžitá příchozí platba,Dočekalová Barbora,"Dar pro ZO Jihlava, webhostingZijeme Jihlavou",0,,,Dočekalová Barbora,zeleni
+2021-11-01,200,Bezhotovostní příjem,Radka Benešová,Dar,0,,,Radka Benešová,zeleni
+2021-11-01,300,Bezhotovostní příjem,Ondřej Černoš,dar,0,9002844,,Ondřej Černoš,zeleni
+2021-11-01,300,Bezhotovostní příjem,HOLEC MILOS,Dar,,9002912,,HOLEC MILOS,zeleni
+2021-11-01,300,Bezhotovostní příjem,ROZUMEK MARTIN,Dar,,9002950,,ROZUMEK MARTIN,zeleni
+2021-11-01,500,Bezhotovostní příjem,SEVCIK ONDREJ,Pravidelny dar Zelenym200HK-100KO-200ZO,,9002900,,SEVCIK ONDREJ,zeleni
+2021-11-01,250,Bezhotovostní příjem,FILIP HUNĚK,FILIP HUNĚK - DAR PRO ZO PRAHA 7,,5683,,FILIP HUNĚK,zeleni
+2021-11-01,200,Bezhotovostní příjem,Benedikt Straňák,dar,,9003670,,Benedikt Straňák,zeleni
+2021-11-01,600,Bezhotovostní příjem,Kateřina Novotná,Dar,,,,Kateřina Novotná,zeleni
+2021-11-01,250,Bezhotovostní příjem,Kateřina Eklová,Dar na Zelené,,9003428,,Kateřina Eklová,zeleni
+2021-11-01,170,Bezhotovostní příjem,MAIROVSKÝ ŠTĚPÁN,DAR pro pražského socmeda,,1111135,,MAIROVSKÝ ŠTĚPÁN,zeleni
+2021-11-01,300,Bezhotovostní příjem,Kvapilová Hana,,,9003735,,Kvapilová Hana,zeleni
+2021-11-01,350,Bezhotovostní příjem,ČERNÍK ROMAN,Dar SZ,,9002870,,ČERNÍK ROMAN,zeleni
+2021-11-01,100,Bezhotovostní příjem,KLAUSER ONDŘEJ,,,9002455,,KLAUSER ONDŘEJ,zeleni
+2021-11-01,1187,Bezhotovostní příjem,Ing.Čejka Jiří,"Čejka J., 294 46 Semčice 130-dar pro KO Stč. kraje",0,,,Ing.Čejka Jiří,zeleni
+2021-11-01,250,Bezhotovostní příjem,Vlach Jan,Dar pro stranu,0,9002598,,Vlach Jan,zeleni
+2021-11-01,200,Bezhotovostní příjem,Veselský Michal,Na zpáteční jízdenku,0,0,0,Veselský Michal,zeleni
+2021-11-01,200,Bezhotovostní příjem,Mgr.Jechová Kateřina,Dar na prazskeho socmeda,0,1111133,,Mgr.Jechová Kateřina,zeleni
+2021-11-01,300,Bezhotovostní příjem,Raschman Josef,Dar,0,9003752,,Raschman Josef,zeleni
 2021-11-01,200,Bezhotovostní příjem,BONUŠ VĚNEK,DAR,0,9002591,0,BONUŠ VĚNEK,zeleni
 2021-11-01,500,Platba převodem uvnitř banky,"Gubiš, Jindřich",dar pro krajskou organizaci Libereckého kraje,,,,dar pro krajskou organizaci Libereckého kraje,zeleni
 2021-10-30,200,Okamžitá příchozí platba,Jan Dittrich,Dar,,,,Jan Dittrich,zeleni

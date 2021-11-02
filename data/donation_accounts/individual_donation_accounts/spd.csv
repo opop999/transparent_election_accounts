@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,1000,Bezhotovostní příjem,BAUDYŠ ILJA,DR.BAUDYŠ,0,521123,0,BAUDYŠ ILJA,spd
+2021-11-01,1000,Bezhotovostní příjem,JAN FUCIK,"dar pro SPD od Jan Fucik r.c.: 7506214716, bydliste Visnova 2, Brno 62100",,0,,JAN FUCIK,spd
 2021-10-31,20000,Platba převodem uvnitř banky,"Vavrečka, Petr",Vavrečka dar,,77900,,Vavrečka dar,spd
 2021-10-28,133,Okamžitá příchozí platba,BEDNÁŘ MILOSLAV,,,,,BEDNÁŘ MILOSLAV,spd
 2021-10-26,-50000,Platba převodem uvnitř banky,,Převod prostředků z transparentního účtu na běžný účet SPD,,,,Převod prostředků z transparentního účtu na běžný účet SPD,spd

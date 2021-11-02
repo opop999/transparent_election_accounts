@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-01,216,Příchozí úhrada,OKRESNÍ VÝBOR KSČM J,536251,100,,0,33103,,CZK,kscm
+2021-11-01,5989.5,Příchozí úhrada,KSCM,298980856,300,,,,,CZK,kscm
+2021-11-01,30000,Příchozí úhrada,KSCM,247488204,300,Na volby 2021,,32103,,CZK,kscm
 2021-10-29,229,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,34103,,CZK,kscm
 2021-10-27,-2257,Odchozí úhrada,Vladimír Jalůvka,812248001,5500,volby PČR - výlep,0,4292,,CZK,kscm
 2021-10-27,-4065.6,Odchozí úhrada,PLAKÁT s.r.o.,4556587001,5500,volby PČR - výlep,0,2021155,,CZK,kscm

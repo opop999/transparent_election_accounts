@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-01,1200,Bezhotovostní příjem,PSOTKA KAMIL,Dar KDU-CSL Zlin Kamil Psotka,,0,801,PSOTKA KAMIL,kdu-csl
+2021-11-01,200,Bezhotovostní příjem,Slavíček Miroslav,Dar KDU-ČSL Vyškov,,5071972,725,Slavíček Miroslav,kdu-csl
+2021-11-01,300,Bezhotovostní příjem,Martínek Petr,dar  KDU P 5,101,0,0,Martínek Petr,kdu-csl
 2021-10-29,100,Bezhotovostní příjem,Pelikán Matouš,Matouš Pelikán (OL),,19820603,999,Pelikán Matouš,kdu-csl
 2021-10-27,5000,Okamžitá příchozí platba,František Horák,Dar pro okres Prostějov - František Horák,,13061973,,František Horák,kdu-csl
 2021-10-27,10000,Okamžitá příchozí platba,František Horák,Dar pro Olomoucký kraj - František Horák,,13061973,,František Horák,kdu-csl

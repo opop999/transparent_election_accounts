@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-02,1000,Bezhotovostní příjem,POHORELEC TOMÁŠ,,0,85002,0,POHORELEC TOMÁŠ,pirati
+2021-11-01,200,Bezhotovostní příjem,"ING. JAN JELINEK, CS",PŘEVOD PROSTŘEDKŮ,,44015684,,"ING. JAN JELINEK, CS",pirati
+2021-11-01,2000,Bezhotovostní příjem,VITEZSLAV VYDRA,MS PRAHA 8,,44016370,110108,VITEZSLAV VYDRA,pirati
+2021-11-01,100,Bezhotovostní příjem,ONDREJ BRUNNER,DAR,,44016319,1,ONDREJ BRUNNER,pirati
+2021-11-01,1000,Bezhotovostní příjem,LADISLAV KOUBEK,PŘÍSPĚVEK NA PROVOZ MS PRAHA 10 - LADISLAV KOUBEK,,11435,110110,LADISLAV KOUBEK,pirati
+2021-11-01,500,Bezhotovostní příjem,MICHAL VOKÁČ,DAR PIRÁTI,,44007828,2,MICHAL VOKÁČ,pirati
+2021-11-01,100,Bezhotovostní příjem,Jan Danda,Jan Danda - Dar,,44003000,,Jan Danda,pirati
+2021-11-01,200,Bezhotovostní příjem,Šimůnková Barbora,,0,85605,1,Šimůnková Barbora,pirati
+2021-11-01,200,Bezhotovostní příjem,Chytil Martin,,0,85148,,Chytil Martin,pirati
+2021-11-01,250,Bezhotovostní příjem,Reiter Pavel,,0,44011987,2,Reiter Pavel,pirati
+2021-11-01,200,Bezhotovostní příjem,Ptáček Jiří,Dar - příspěvek po volebním 2021-09kroužkování a propadu poslaneckýchmíst. Kapka pro udržení odborníků.Vážím si vaší veřejné práce.,0,44016317,1,Ptáček Jiří,pirati
+2021-11-01,200,Bezhotovostní příjem,Živný Tomáš,Nakládejte s tím dobře :-).,0,85434,1,Živný Tomáš,pirati
+2021-11-01,200,Bezhotovostní příjem,Polívka Jan,,0,44011883,1,Polívka Jan,pirati
+2021-11-01,500,Bezhotovostní příjem,Klípa Ondřej,bude líp,0,84234,190000,Klípa Ondřej,pirati
+2021-11-01,666,Bezhotovostní příjem,Miarka Filip,,0,85903,1,Miarka Filip,pirati
 2021-11-01,200,Bezhotovostní příjem,TITĚROVÁ PETRA,PIRÁTSKÁ STRANA,0,44004881,1,TITĚROVÁ PETRA,pirati
 2021-11-01,250,Bezhotovostní příjem,BÍSEK PETR,Petr Bísek - měsíční příspěvek MS Praha 8,0,44000703,110108,BÍSEK PETR,pirati
 2021-11-01,500,Bezhotovostní příjem,JANSA LUKÁŠ,DAR NA ČINNOST MS OSTRAVA,0,0,140401,JANSA LUKÁŠ,pirati
