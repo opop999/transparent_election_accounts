@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-02,1,Okamžitá úhrada,Filip Hošek,1259086055,3030,"DAR (Děkuji za to,že jste šli konečně do hajzlu !)",,,,CZK,kscm
 2021-11-01,5000,Příchozí úhrada,VRZAL MILOSLAV,235180309,300,finanční dar,,36102,,CZK,kscm
 2021-11-01,200,Příchozí úhrada,Šlechtická Hana,63433153,800,P. Šlechtický Jihlava-finanční dar,0,0,36102,CZK,kscm
 2021-10-31,-190,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm

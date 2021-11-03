@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-03,11500,Bezhotovostní příjem,Patrik Schramm,"DAR, Patrik Schramm",,3000210041,,Patrik Schramm,ods
+2021-11-02,1000,Okamžitá příchozí platba,MIROSLAV FALDÝN,Členství Miroslav Faldýn,,3303210004,,MIROSLAV FALDÝN,ods
+2021-11-02,11500,Okamžitá příchozí platba,Ing.Gajdacz Zbyněk,Dar - Zbyněk Gajdacz,0,3000210037,,Ing.Gajdacz Zbyněk,ods
+2021-11-02,5500,Bezhotovostní příjem,KLIMOVA IVONA,"DAR, Ivona Klimova",,3001210012,,KLIMOVA IVONA,ods
 2021-11-01,110000,Okamžitá příchozí platba,Ing.Tošenovský Evžen,DAR Evžen Tošenovský,0,,,Ing.Tošenovský Evžen,ods
 2021-11-01,-150000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-11-01,300,Bezhotovostní příjem,Dašek Rudolf,"DAR, Rudolf Dašek",,3001210007,,Dašek Rudolf,ods

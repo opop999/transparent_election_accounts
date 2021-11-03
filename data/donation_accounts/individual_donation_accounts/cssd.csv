@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-02,50000,Okamžitá příchozí platba,PaedDr.Gajdůšková Al,"Dar ve prospěch ČSSD, Alena Gajdůšková,15.4.1954",308,15041954,,PaedDr.Gajdůšková Al,cssd
 2021-10-27,-50000,Platba převodem uvnitř banky,,"převod daru Jan Chvojka, na volby PS PČR, Pardubický kraj",,,,"převod daru Jan Chvojka, na volby PS PČR, Pardubický kraj",cssd
 2021-10-26,-90000,Platba převodem uvnitř banky,,"převod daru Michal Hašek, volby PS PČR, Jihomoravský kraj",,,,"převod daru Michal Hašek, volby PS PČR, Jihomoravský kraj",cssd
 2021-10-26,90000,Bezhotovostní příjem,JUDr.Hašek Michal,"Dar volby PSPCR 2021 , Michal Hasek17.04.1976",0,7604173819,,JUDr.Hašek Michal,cssd

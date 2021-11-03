@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-02,-6771.88,Okamžitá odchozí platba,,,308,79158182,2300,,ods_kdu-csl_top09
+2021-11-02,-200,Bezhotovostní platba,,,308,9010001368,2200,,ods_kdu-csl_top09
+2021-11-02,-2230,Bezhotovostní platba,,,0,9100000796,2200,,ods_kdu-csl_top09
+2021-11-02,-2220,Bezhotovostní platba,,,0,9007001083,2200,,ods_kdu-csl_top09
+2021-11-02,-8273,Bezhotovostní platba,,,308,10123494,2200,,ods_kdu-csl_top09
 2021-11-01,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Vojtěch Šolc, tisk letáky",ods_kdu-csl_top09
 2021-11-01,-4948.9,Bezhotovostní platba,,,308,221033,2100,"2100-ABSOLUTE COMPANY s.r.o., tisk letáky Decker, Philipp",ods_kdu-csl_top09
 2021-11-01,-8100,Platba převodem uvnitř banky,,,308,100012021,2100,"2100-Tomáš Havla, reklama na FBC",ods_kdu-csl_top09

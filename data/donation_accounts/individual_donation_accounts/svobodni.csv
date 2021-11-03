@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-02,-500,Okamžitá odchozí platba,,"Diky, ale nesmime prijmout platbu bez uvedeni ucelu, napr. ""DAR"". Proto vracime. Svobodni",,5647,,"Diky, ale nesmime prijmout platbu bez uvedeni ucelu, napr. ""DAR"". Proto vracime. Svobodni",svobodni
+2021-11-02,-10634,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-02,-2499,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-02,500,Bezhotovostní příjem,KARYCHOVÁ YVONA,,308,5647,0,KARYCHOVÁ YVONA,svobodni
 2021-11-02,200,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",dar ReS 2021 - Jiří Strachota,,1728,2021,dar ReS 2021 - Jiří Strachota,svobodni
 2021-11-02,200,Bezhotovostní příjem,"VOKAL JOSEF, BC.",dar ReS 2021 - Josef Vokál,0,3811,2021,"VOKAL JOSEF, BC.",svobodni
 2021-11-01,200,Platba převodem uvnitř banky,"Macek, Tomáš",dar ReS 2021,,5159,2021,dar ReS 2021,svobodni

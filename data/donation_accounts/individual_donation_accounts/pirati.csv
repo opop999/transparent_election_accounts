@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-03,3534.08,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1750026926,20211102,Global Payments s.r.,pirati
+2021-11-03,250,Platba převodem uvnitř banky,"Jandák, Jakub",,,83851,1,,pirati
+2021-11-02,-490000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
+2021-11-02,-142133,Platba převodem uvnitř banky,,Dary na sněmovní volby Piráti 10 2021 zbytek,,,,Dary na sněmovní volby Piráti 10 2021 zbytek,pirati
+2021-11-02,-5000,Okamžitá odchozí platba,,Vrácený dar Jiří Kynčl,,46449,,Vrácený dar Jiří Kynčl,pirati
+2021-11-02,1000,Okamžitá příchozí platba,Ing. Václav Parchaňs,DAR 44016371/110401,,44016371,110401,Ing. Václav Parchaňs,pirati
+2021-11-02,200,Bezhotovostní příjem,Jan Vratislav,Dar Česká pirátská strana,,82762,,Jan Vratislav,pirati
+2021-11-02,200,Bezhotovostní příjem,MORÁVKOVÁ ZUZANA,Z. Moravkova,,44006676,,MORÁVKOVÁ ZUZANA,pirati
+2021-11-02,982.57,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1750003113,20211101,Global Payments s.r.,pirati
 2021-11-02,1000,Bezhotovostní příjem,POHORELEC TOMÁŠ,,0,85002,0,POHORELEC TOMÁŠ,pirati
 2021-11-01,200,Bezhotovostní příjem,"ING. JAN JELINEK, CS",PŘEVOD PROSTŘEDKŮ,,44015684,,"ING. JAN JELINEK, CS",pirati
 2021-11-01,2000,Bezhotovostní příjem,VITEZSLAV VYDRA,MS PRAHA 8,,44016370,110108,VITEZSLAV VYDRA,pirati

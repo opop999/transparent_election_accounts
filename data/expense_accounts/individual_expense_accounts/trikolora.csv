@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-02,-889,Bezhotovostní platba,,výroba reklamních desek - centrála,308,2029266,,výroba reklamních desek - centrála,trikolora
+2021-11-02,-10817.9,Bezhotovostní platba,,doplatek za roznos novin a letáků - Praha,308,12216418,,doplatek za roznos novin a letáků - Praha,trikolora
+2021-11-02,-273,Bezhotovostní platba,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,308,2212101058,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,trikolora
 2021-11-01,-20000,Okamžitá odchozí platba,,"PR, foto práce, mediální výstupy a monitoring článků v souvislosti s volební kampaní - centrála",308,172021,,"PR, foto práce, mediální výstupy a monitoring článků v souvislosti s volební kampaní - centrála",trikolora
 2021-11-01,6630.8,Bezhotovostní příjem,U N I P R E S S SPOL,duplicitni platba LBC kraj,0,3030013902,,U N I P R E S S SPOL,trikolora
 2021-10-29,-1395,Bezhotovostní platba,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,308,2221000104,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,trikolora

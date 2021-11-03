@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-03,100000,Bezhotovostní příjem,GLACIS FORTE A.S.,"DAR, GLACIS FORTE a.s., IČO 26471221, Antala Staška 2027/79, 140 00 Praha 4",0,26471221,199151921,GLACIS FORTE A.S.,stan
+2021-11-03,150000,Bezhotovostní příjem,"CENTRIX PROPERTY,a.s",STAROSTOVÉ A NEZÁVISLÍ,308,26267390,193151321,"CENTRIX PROPERTY,a.s",stan
+2021-11-03,180000,Bezhotovostní příjem,REALITY MANAGEMENT,STAROSTOVÉ A NEZÁVISLÍ,308,26688301,192151221,REALITY MANAGEMENT,stan
 2021-11-01,100000,Bezhotovostní příjem,"HUMBLE, A.S.","DAR, HUMBLE, a.s., ICO 25746839,Taborska 65/29, Praha 4",558,25746839,205152521,"HUMBLE, A.S.",stan
 2021-10-27,33750,Platba převodem uvnitř banky,Občanská demokratická strana,DAR- podíl STAN 3.Q.2021,378,2021103,,DAR- podíl STAN 3.Q.2021,stan
 2021-10-27,110000,Bezhotovostní příjem,"East Building, s.r.o","DAR, East Building, IČ:27432912, Antala Staška 510/38",0,27432912,198151821,"DAR - East Building, s.r.o",stan
