@@ -1,9 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-11-02,-6771.88,Okamžitá odchozí platba,,,308,79158182,2300,,ods_kdu-csl_top09
-2021-11-02,-200,Bezhotovostní platba,,,308,9010001368,2200,,ods_kdu-csl_top09
-2021-11-02,-2230,Bezhotovostní platba,,,0,9100000796,2200,,ods_kdu-csl_top09
-2021-11-02,-2220,Bezhotovostní platba,,,0,9007001083,2200,,ods_kdu-csl_top09
-2021-11-02,-8273,Bezhotovostní platba,,,308,10123494,2200,,ods_kdu-csl_top09
+2021-11-03,-1740,Bezhotovostní platba,,,308,2021127,2400,"1114-Městské kulturní středisko Klatovy, výlep plakátů",ods_kdu-csl_top09
+2021-11-03,-840,Bezhotovostní platba,,,308,20210087,3100,"1114-Městská kulturní zařízení Hranice, výlep plakátů",ods_kdu-csl_top09
+2021-11-03,-10700,Bezhotovostní platba,,,308,101639220,1114,"1114-Facebook  , reklama na FBC Blaha",ods_kdu-csl_top09
+2021-11-03,-9289.16,Bezhotovostní platba,,,308,101623983,1114,"1114-Facebook  , reklama na FBC Blaha",ods_kdu-csl_top09
+2021-11-03,-1102.51,Bezhotovostní platba,,,308,218022,3200,"1114-Eduvino s.r.o., reklama na FBC",ods_kdu-csl_top09
+2021-11-03,-5000,Bezhotovostní platba,,,0,52021,3400,"3400-Václav Kříž , hudební vystoupení",ods_kdu-csl_top09
+2021-11-03,-6352.2,Bezhotovostní platba,,,0,2100100926,3400,"3400-Petr Vaněk , pronájem a instalace lešení",ods_kdu-csl_top09
+2021-11-03,-3163,Bezhotovostní platba,,,308,2117024588,3400,"3400-VLTAVA LABE MEDIA a.s., povolební inzerce",ods_kdu-csl_top09
+2021-11-03,-16200,Bezhotovostní platba,,,308,21103,3400,"3400-Filip Bláha, fotografické práce, videa",ods_kdu-csl_top09
+2021-11-03,-400,Okamžitá odchozí platba,,,0,15,3200,"3200- Zuzana Kupčíková , poplatek za zábor",ods_kdu-csl_top09
+2021-11-02,-6771.88,Okamžitá odchozí platba,,,308,79158182,2300,"2300-Václav Král , inzerce FBC, Král",ods_kdu-csl_top09
+2021-11-02,-200,Bezhotovostní platba,,,308,9010001368,2200,"2200-Město Kutná Hora , poplatek za zábor",ods_kdu-csl_top09
+2021-11-02,-2230,Bezhotovostní platba,,,0,9100000796,2200,"2200-Město Rakovník , poplatek za užívání veř. prostranství",ods_kdu-csl_top09
+2021-11-02,-2220,Bezhotovostní platba,,,0,9007001083,2200,"2200-Město Beroun , zábor veř. prostranství",ods_kdu-csl_top09
+2021-11-02,-8273,Bezhotovostní platba,,,308,10123494,2200,"2200-RENGL s.r.o., výlep plakátů",ods_kdu-csl_top09
 2021-11-01,-5000,Bezhotovostní platba,,,308,2100,2100,"2100-Vojtěch Šolc, tisk letáky",ods_kdu-csl_top09
 2021-11-01,-4948.9,Bezhotovostní platba,,,308,221033,2100,"2100-ABSOLUTE COMPANY s.r.o., tisk letáky Decker, Philipp",ods_kdu-csl_top09
 2021-11-01,-8100,Platba převodem uvnitř banky,,,308,100012021,2100,"2100-Tomáš Havla, reklama na FBC",ods_kdu-csl_top09
@@ -27,6 +37,11 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-10-27,-1000,Okamžitá odchozí platba,,,308,2103177,3100,"3100-Lazně Slatinice a.s., pronájem prostor",ods_kdu-csl_top09
 2021-10-27,-15.73,Okamžitá odchozí platba,,,308,8503210292,3200,"3200-Dopravní podnik města Brna a.s., spotřeba el. energie",ods_kdu-csl_top09
 2021-10-27,-3000,Okamžitá odchozí platba,,,308,120210102,3000,"3000-MENTAL CAFÉ z.s., káva v kampani",ods_kdu-csl_top09
+2021-11-02,-6771.88,Okamžitá odchozí platba,,,308,79158182,2300,,ods_kdu-csl_top09
+2021-11-02,-200,Bezhotovostní platba,,,308,9010001368,2200,,ods_kdu-csl_top09
+2021-11-02,-2230,Bezhotovostní platba,,,0,9100000796,2200,,ods_kdu-csl_top09
+2021-11-02,-2220,Bezhotovostní platba,,,0,9007001083,2200,,ods_kdu-csl_top09
+2021-11-02,-8273,Bezhotovostní platba,,,308,10123494,2200,,ods_kdu-csl_top09
 2021-10-26,-500,Bezhotovostní platba,,,308,210100178,2100,"2100-Dream Pro s.r.o., vol. auto poplatek",ods_kdu-csl_top09
 2021-10-26,-500,Bezhotovostní platba,,,308,210100186,2100,"2100-Dream Pro s.r.o., vol. auto poplatek",ods_kdu-csl_top09
 2021-10-26,-5000,Bezhotovostní platba,,,308,202129,2100,2100-Michal Čížek . fotografické práce,ods_kdu-csl_top09

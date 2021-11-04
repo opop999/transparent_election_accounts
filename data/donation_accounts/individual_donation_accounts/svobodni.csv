@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-04,200,Bezhotovostní příjem,PÁTEK ROMAN,dar ReS 2021 - Roman Pátek,,6667,2021,PÁTEK ROMAN,svobodni
+2021-11-03,200,Platba převodem uvnitř banky,"Ing. Pelán, Jaroslav",dar ReS 2021 - Eva Pelánova,,8750,2021,dar ReS 2021 - Eva Pelánova,svobodni
+2021-11-03,200,Platba převodem uvnitř banky,"Ing. Pelán, Jaroslav",dar ReS 2021 - Jaroslav Pelán,,2170,2021,dar ReS 2021 - Jaroslav Pelán,svobodni
+2021-11-03,200,Okamžitá příchozí platba,David Štafl,dar ReS 2021 - David Štafl,,,2021,David Štafl,svobodni
+2021-11-03,200,Okamžitá příchozí platba,Šárka Opatová,dar ReS 2021 - Sarka Opatova,,9424,2021,Šárka Opatová,svobodni
+2021-11-03,200,Okamžitá příchozí platba,PURGERT ANGELO,dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,,9197,2021,PURGERT ANGELO,svobodni
+2021-11-03,1000,Bezhotovostní příjem,MIKOVCOVA MALISOVA K,prispevek priznivce Katerina   Mikovcova Malisova,,9421,,MIKOVCOVA MALISOVA K,svobodni
+2021-11-03,200,Bezhotovostní příjem,OLDRICH KAUCKY,DAR RES 2021 - VLOŽTE VARIABILNÍ SYMBOL,,3588,2021,OLDRICH KAUCKY,svobodni
+2021-11-03,200,Okamžitá příchozí platba,Jirků Milan,dar ReS 2021 - Milan Jirků,0,4453,2021,Jirků Milan,svobodni
+2021-11-03,200,Platba převodem uvnitř banky,"Janigová, Lucie",dar ReS 2021 - Lucie Janigova,,9010,2021,dar ReS 2021 - Lucie Janigova,svobodni
+2021-11-03,100,Bezhotovostní příjem,TRIBULA ZBYNEK,DAR PRIZNIVCE,,9425,,TRIBULA ZBYNEK,svobodni
 2021-11-02,-500,Okamžitá odchozí platba,,"Diky, ale nesmime prijmout platbu bez uvedeni ucelu, napr. ""DAR"". Proto vracime. Svobodni",,5647,,"Diky, ale nesmime prijmout platbu bez uvedeni ucelu, napr. ""DAR"". Proto vracime. Svobodni",svobodni
 2021-11-02,-10634,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-11-02,-2499,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni

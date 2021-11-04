@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-04,128,Platba převodem uvnitř banky,"Bc. Pikal, Vojtěch","Dar Vojtěch Pikal, 870219, Denisova 15, Olomouc, 77200",558,110300,,"Dar Vojtěch Pikal, 870219, Denisova 15, Olomouc, 77200",pirati
+2021-11-04,200,Platba převodem uvnitř banky,"Dostál, Marek",MAREK DOSTAL,,82504,1,MAREK DOSTAL,pirati
+2021-11-04,9476,Bezhotovostní příjem,"RENGL, s.r.o.",vrácení přeplatku Česká pirátská st,308,1022709,,"RENGL, s.r.o.",pirati
 2021-11-03,3534.08,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1750026926,20211102,Global Payments s.r.,pirati
 2021-11-03,250,Platba převodem uvnitř banky,"Jandák, Jakub",,,83851,1,,pirati
 2021-11-02,-490000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati

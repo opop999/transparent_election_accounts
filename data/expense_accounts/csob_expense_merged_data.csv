@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-03,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,3130601,100,,558,35205,,CZK,kscm
 2021-11-03,4000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV KSČM Rakovník,0,32112,,CZK,kscm
 2021-11-02,-30000,Odchozí úhrada,Miloš Skácel,194576218,300,volby PČR - vytvoření videí,0,20210128,,CZK,kscm
 2021-11-02,-216,Odchozí úhrada,Město Nová Bystřice,603137399,800,volby PČR - výlep,0,410298,,CZK,kscm
@@ -12,13 +13,13 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-11-01,30000,Příchozí úhrada,KSCM,247488204,300,Na volby 2021,,32103,,CZK,kscm
 2021-10-29,229,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,34103,,CZK,kscm
 2021-10-27,-2257,Odchozí úhrada,Vladimír Jalůvka,812248001,5500,volby PČR - výlep,0,4292,,CZK,kscm
-2021-10-27,-4065.6,Odchozí úhrada,PLAKÁT s.r.o.,4556587001,5500,volby PČR - výlep,0,2021155,,CZK,kscm
-2021-10-27,-20039.26,Odchozí úhrada,"Česká pošta, s.p.",133715683,300,volby PČR - roznáška,0,5190573224,,CZK,kscm
-2021-10-27,4065.6,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko.,0,,,CZK,kscm
-2021-10-27,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,636121,100,převod od OV KSČM Benešov,308,32101,1032101,CZK,kscm
-2021-10-27,-726,Odchozí úhrada,Jan Chasák,3792509369,800,volby PČR - samolepky,0,202100042,,CZK,kscm
-2021-10-27,-229,Odchozí úhrada,Technické služby města Kraslic,6026391,100,volby PČR - výlep,0,12100465,,CZK,kscm
 2021-10-27,-2069.08,Odchozí úhrada,Městské kulturní centrum Fulne,281607721,300,volby PČR - inzerce,0,21085,,CZK,kscm
+2021-10-27,-229,Odchozí úhrada,Technické služby města Kraslic,6026391,100,volby PČR - výlep,0,12100465,,CZK,kscm
+2021-10-27,-726,Odchozí úhrada,Jan Chasák,3792509369,800,volby PČR - samolepky,0,202100042,,CZK,kscm
+2021-10-27,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,636121,100,převod od OV KSČM Benešov,308,32101,1032101,CZK,kscm
+2021-10-27,4065.6,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko.,0,,,CZK,kscm
+2021-10-27,-20039.26,Odchozí úhrada,"Česká pošta, s.p.",133715683,300,volby PČR - roznáška,0,5190573224,,CZK,kscm
+2021-10-27,-4065.6,Odchozí úhrada,PLAKÁT s.r.o.,4556587001,5500,volby PČR - výlep,0,2021155,,CZK,kscm
 2021-10-26,42317.65,Příchozí úhrada,KOMUNISTICKÁ STRANA,1034851,100,úhrada na transparentní účet  volbyOV KSČM Vsetín,0,,,CZK,kscm
 2021-10-26,726,Okamžitá úhrada,KOMUNISTICKÁ STRANA,2052017399,800,převod od OV KSČM Brno-venkov,308,36203,,CZK,kscm
 2021-10-26,1400,Okamžitá úhrada,OV KS ČECH A MORAV,501901544,600,,,33102,,CZK,kscm

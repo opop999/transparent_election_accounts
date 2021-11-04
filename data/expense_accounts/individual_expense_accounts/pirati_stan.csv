@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-03,-20000,Bezhotovostní platba,,"pp#20956 FO 5842/2021, cen:vs, koordinace-dobrovolniku-rijen-2021, dominika-krizova",,20210011,42021,"pp#20956 FO 5842/2021, cen:vs, koordinace-dobrovolniku-rijen-2021, dominika-krizova",pirati_stan
+2021-11-03,-26600,Bezhotovostní platba,,"pp#20942 FO 5828/2021, cen:mo, sprava-ppc-kampani-rijen, andrea-zelingrova",,20210077,,"pp#20942 FO 5828/2021, cen:mo, sprava-ppc-kampani-rijen, andrea-zelingrova",pirati_stan
 2021-11-03,2962.08,Bezhotovostní příjem,MESSER TECHNOGAS S.R,DOC. 1620F1100000062021.0000625447,308,6962088830,0,MESSER TECHNOGAS S.R,pirati_stan
 2021-11-03,2962.08,Bezhotovostní příjem,MESSER TECHNOGAS S.R,DOC. 1620F1100000072021.0000625447,308,6962088831,0,MESSER TECHNOGAS S.R,pirati_stan
 2021-11-02,142133,Platba převodem uvnitř banky,Česká pirátská strana,Dary na sněmovní volby Piráti 10 2021 zbytek,,,,Dary na sněmovní volby Piráti 10 2021 zbytek,pirati_stan

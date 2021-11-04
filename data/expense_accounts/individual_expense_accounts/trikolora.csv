@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-04,889,Bezhotovostní příjem,CLEARING SUSPENSE,Neexistující účet - číslo účtu 2700464139,6,2029266,,CLEARING SUSPENSE,trikolora
 2021-11-02,-889,Bezhotovostní platba,,výroba reklamních desek - centrála,308,2029266,,výroba reklamních desek - centrála,trikolora
 2021-11-02,-10817.9,Bezhotovostní platba,,doplatek za roznos novin a letáků - Praha,308,12216418,,doplatek za roznos novin a letáků - Praha,trikolora
 2021-11-02,-273,Bezhotovostní platba,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,308,2212101058,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,trikolora
