@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-04,20000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha
+2021-11-04,120000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha
+2021-11-04,-500,Platba převodem uvnitř banky,,Špatně zaslaný dar z 01.11.2021 pan Milan Žigo.Převod z volebního účtu na zvláštní účet.,,,,Špatně zaslaný dar z 01.11.2021 pan Milan Žigo.Převod z volebního účtu na zvláštní účet.,prisaha
 2021-11-01,500,Bezhotovostní příjem,Žigo Milan,,0,2021,,Žigo Milan,prisaha
 2021-10-27,-907.5,Karetní transakce,,"Nákup: ThePay *RAYNET s.r.o.,  Francouzska 6167/5, Ostrava, 70800, CZE, dne 26.10.2021, částka  907.50 CZK",,8013,,"Nákup: ThePay *RAYNET s.r.o.,  Francouzska 6167/5, Ostrava, 70800, CZE, dne 26.10.2021, částka  907.50 CZK",prisaha
 2021-10-21,-22990,Okamžitá odchozí platba,,Fakturujeme Vám pronájem reklamní plochy10 - 2021 Zlínský kraj. Příjemce REKO media sro,308,2100500,,Fakturujeme Vám pronájem reklamní plochy10 - 2021 Zlínský kraj. Příjemce REKO media sro,prisaha

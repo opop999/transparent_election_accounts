@@ -1,4 +1,18 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-05,-4057889,Odchozí úhrada,KSČM,117831393,300,volby PČR - mzdové náklady,0,261,,CZK,kscm
+2021-11-05,605,Příchozí úhrada,KOMUNISTICKÁ STRANA,2238231,100,Prevod od OV KSCM Ceske Budejovice,0,33101,,CZK,kscm
+2021-11-05,-1114.17,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1656052106,,CZK,kscm
+2021-11-05,-2686,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122396,,CZK,kscm
+2021-11-05,-4000,Odchozí úhrada,Jiří Loskot,1154725730287,100,volby PČR - pronájem,0,202115,,CZK,kscm
+2021-11-05,-8799.12,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117022912,,CZK,kscm
+2021-11-05,-13975.5,Odchozí úhrada,"PROMPT SERVIS, spol. s r.o.",23807691,100,volby PČR - inzerce,0,110353,,CZK,kscm
+2021-11-05,-17216,Odchozí úhrada,Viktorie Kulhanová,2401355450,2010,volby PČR - roznos,0,2021095,,CZK,kscm
+2021-11-05,-20000,Odchozí úhrada,Jaroslava Jenerálová,782252880277,100,volby PČR - korekce textů inzerce,0,62021,,CZK,kscm
+2021-11-05,-117481.32,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,,,CZK,kscm
+2021-11-05,-195103,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - phm,0,261,,CZK,kscm
+2021-11-05,-375188,Odchozí úhrada,KSČM - ÚV,684844,300,volby PČR - telefony,0,261,,CZK,kscm
+2021-11-04,4200000,Příchozí úhrada,KSČM,3918378,300,převod mezi účty ÚV KSČM,0,261,,CZK,kscm
+2021-11-04,7260,Příchozí úhrada,OV KSČM KOMUNISTICKÉ,839631,100,Převod od OV KSČM Blansko.,0,,,CZK,kscm
 2021-11-03,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,3130601,100,,558,35205,,CZK,kscm
 2021-11-03,4000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV KSČM Rakovník,0,32112,,CZK,kscm
 2021-11-02,-30000,Odchozí úhrada,Miloš Skácel,194576218,300,volby PČR - vytvoření videí,0,20210128,,CZK,kscm
@@ -9,8 +23,8 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-11-02,-5989.5,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5103819197,,CZK,kscm
 2021-11-02,-7260,Odchozí úhrada,BBN s.r.o.,211939317,300,volby PČR - inzerce,0,2100035,,CZK,kscm
 2021-11-01,216,Příchozí úhrada,OKRESNÍ VÝBOR KSČM J,536251,100,,0,33103,,CZK,kscm
-2021-11-01,5989.5,Příchozí úhrada,KSCM,298980856,300,,,,,CZK,kscm
 2021-11-01,30000,Příchozí úhrada,KSCM,247488204,300,Na volby 2021,,32103,,CZK,kscm
+2021-11-01,5989.5,Příchozí úhrada,KSCM,298980856,300,,,,,CZK,kscm
 2021-10-29,229,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,34103,,CZK,kscm
 2021-10-27,-2257,Odchozí úhrada,Vladimír Jalůvka,812248001,5500,volby PČR - výlep,0,4292,,CZK,kscm
 2021-10-27,-2069.08,Odchozí úhrada,Městské kulturní centrum Fulne,281607721,300,volby PČR - inzerce,0,21085,,CZK,kscm

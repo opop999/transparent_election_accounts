@@ -1,4 +1,46 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-08,-35000,Platba převodem uvnitř banky,,"pp#21065 FO 5946/2021, lbk:p, volebni-manager-zari-2021, petr-jenik",,20217,42021,"pp#21065 FO 5946/2021, lbk:p, volebni-manager-zari-2021, petr-jenik",pirati_stan
+2021-11-08,613,Bezhotovostní příjem,KRUPA ALEŠ,Převod zůstatku pokladny,0,8112021,0,KRUPA ALEŠ,pirati_stan
+2021-11-08,-16429.38,Okamžitá odchozí platba,,"pp#19959 FO 4919/2021, cen:vs, kampan-pro-mlade-rollupy-klicova-dirka, graf-print-sro",,136821,42021,"pp#19959 FO 4919/2021, cen:vs, kampan-pro-mlade-rollupy-klicova-dirka, graf-print-sro",pirati_stan
+2021-11-08,-1800,Platba převodem uvnitř banky,,"Mzdové náklady FO 5926/2021 Callcentrum DPP - Štěpka, Körösi 2021/9",,,,"Mzdové náklady FO 5926/2021 Callcentrum DPP - Štěpka, Körösi 2021/9",pirati_stan
+2021-11-08,-4000,Platba převodem uvnitř banky,,Mzdové náklady FO 5924/2021 Kateřina Mihoučová - DPP úklid VŠ - 2021_9,,,,Mzdové náklady FO 5924/2021 Kateřina Mihoučová - DPP úklid VŠ - 2021_9,pirati_stan
+2021-11-08,-1845,Bezhotovostní platba,,"pp#21048 FO 5931/2021, cen:vs, divadelni-fraska-dilci-rekvizity, ruzni-dodavatele",,111,42021,"pp#21048 FO 5931/2021, cen:vs, divadelni-fraska-dilci-rekvizity, ruzni-dodavatele",pirati_stan
+2021-11-08,-2568,Bezhotovostní platba,,"pp#21047 FO 5930/2021, cen:vs, cestovne-srpen-az-rijen, dopravci-cr",,111,42021,"pp#21047 FO 5930/2021, cen:vs, cestovne-srpen-az-rijen, dopravci-cr",pirati_stan
+2021-11-08,-8790,Bezhotovostní platba,,"pp#21046 FO 5929/2021, cen:vs, dilci-uctenky-na-eventy, hromadne-uctenky-na-zajisteni-akci",,111,42021,"pp#21046 FO 5929/2021, cen:vs, dilci-uctenky-na-eventy, hromadne-uctenky-na-zajisteni-akci",pirati_stan
+2021-11-08,-10000,Platba převodem uvnitř banky,,"pp#21027 FO 5910/2021, zlk:p, l-svehlikova-volby-do-psp2021-odmena, lucie-svehlikova",,20211101,42021,"pp#21027 FO 5910/2021, zlk:p, l-svehlikova-volby-do-psp2021-odmena, lucie-svehlikova",pirati_stan
+2021-11-08,-4000,Bezhotovostní platba,,"pp#20971 FO 5857/2021, stc:p, podcast, jakub-suva",,20211003,42021,"pp#20971 FO 5857/2021, stc:p, podcast, jakub-suva",pirati_stan
+2021-11-08,-200,Bezhotovostní platba,,"pp#20968 FO 5854/2021, stc:p, lavicky-kutna-hora, mesto-kutna-hora",,9010001366,42021,"pp#20968 FO 5854/2021, stc:p, lavicky-kutna-hora, mesto-kutna-hora",pirati_stan
+2021-11-08,-1574,Bezhotovostní platba,,"pp#20966 FO 5852/2021, stc:p, pronajem-ventilku-k-heliu, messer",,6962098244,42021,"pp#20966 FO 5852/2021, stc:p, pronajem-ventilku-k-heliu, messer",pirati_stan
+2021-11-08,-850,Bezhotovostní platba,,"pp#20933 FO 5822/2021, stc:p, zabor-lavicky-rakovnik, mestsky-urad-rakovnik",,9100001170,42021,"pp#20933 FO 5822/2021, stc:p, zabor-lavicky-rakovnik, mestsky-urad-rakovnik",pirati_stan
+2021-11-08,-6149.4,Bezhotovostní platba,,"pp#20868 FO 5757/2021, pak:p, festunk-obcerstveni-technicke-zabezpeceni, jana-rosenbergerova",,1,42021,"pp#20868 FO 5757/2021, pak:p, festunk-obcerstveni-technicke-zabezpeceni, jana-rosenbergerova",pirati_stan
+2021-11-05,-1779,Bezhotovostní platba,,"pp#21019 FO 5902/2021, kvk:p, vylep-rengl-vratme-zemi-budoucnost, rengl-sro",308,10123168,42021,"pp#21019 FO 5902/2021, kvk:p, vylep-rengl-vratme-zemi-budoucnost, rengl-sro",pirati_stan
+2021-11-05,-60500,Bezhotovostní platba,,"pp#20978 FO 5864/2021, ulk:p, bus-reklama, z-group-bus-as",308,5202180087,42021,"pp#20978 FO 5864/2021, ulk:p, bus-reklama, z-group-bus-as",pirati_stan
+2021-11-05,-1027.1,Bezhotovostní platba,,"pp#20930 FO 5819/2021, kvk:p, sankce-lampostery, statutarni-mesto-karlovy-vary",,9339092105,42021,"pp#20930 FO 5819/2021, kvk:p, sankce-lampostery, statutarni-mesto-karlovy-vary",pirati_stan
+2021-11-05,-1669.9,Bezhotovostní platba,,"pp#20870 FO 5759/2021, pak:p, material-na-akce, jana-rosenbergerova",,2,42021,"pp#20870 FO 5759/2021, pak:p, material-na-akce, jana-rosenbergerova",pirati_stan
+2021-11-05,-22837.2,Platba převodem uvnitř banky,,"pp#20794 FO 5686/2021, cen:vs, tistena-reklama-liberec-rijen, mediatrix-sro",308,2021079,42021,"pp#20794 FO 5686/2021, cen:vs, tistena-reklama-liberec-rijen, mediatrix-sro",pirati_stan
+2021-11-05,-10000,Bezhotovostní platba,,"pp#20787 FO 5679/2021, pak:p, volebni-koordinator-pak-stan, jana-rosenbergerova",,20210076,42021,"pp#20787 FO 5679/2021, pak:p, volebni-koordinator-pak-stan, jana-rosenbergerova",pirati_stan
+2021-11-04,-64494,Platba převodem uvnitř banky,,"FO 5884/2021 Mzdové náklady Analytička, psavkyně - 2021 září",,,,"FO 5884/2021 Mzdové náklady Analytička, psavkyně - 2021 září",pirati_stan
+2021-11-04,-65575,Platba převodem uvnitř banky,,"FO 5881/2021 Mzdové náklady Analytik, psavec - 2021 září",,,,"FO 5881/2021 Mzdové náklady Analytik, psavec - 2021 září",pirati_stan
+2021-11-04,-90044,Platba převodem uvnitř banky,,FO 5886/2021 Mzdové náklady Social media manager - 2021 září,,,,FO 5886/2021 Mzdové náklady Social media manager - 2021 září,pirati_stan
+2021-11-04,-59165,Platba převodem uvnitř banky,,FO 5885/2021 Mzdové náklady Junior MO Aleš Vopat - 2021 9,,,,FO 5885/2021 Mzdové náklady Junior MO Aleš Vopat - 2021 9,pirati_stan
+2021-11-04,-52030,Okamžitá odchozí platba,,"pp#20943 FO 5829/2021, plk:p, instalace-a-demontaz-reklamnich-ploch, ob-climb-sro",,20210048,42021,"pp#20943 FO 5829/2021, plk:p, instalace-a-demontaz-reklamnich-ploch, ob-climb-sro",pirati_stan
+2021-11-04,-50000,Bezhotovostní platba,,"pp#20962 FO 5848/2021, pha:p, proplaceni-rizeni-volebni-kampane-ks-praha-202110, evavysanska",,2021022,42021,"pp#20962 FO 5848/2021, pha:p, proplaceni-rizeni-volebni-kampane-ks-praha-202110, evavysanska",pirati_stan
+2021-11-04,-11329.29,Bezhotovostní platba,,"pp#20959 FO 5845/2021, cen:vs, ccs-karta-rijen, ccs-ceska-spolecnost-pro-platebni-karty-sro",,3298167561,42021,"pp#20959 FO 5845/2021, cen:vs, ccs-karta-rijen, ccs-ceska-spolecnost-pro-platebni-karty-sro",pirati_stan
+2021-11-04,-45738,Bezhotovostní platba,,"pp#20945 FO 5831/2021, jhm:p, bigboard-rijen, europlakat-spol-sro",,21502476,42021,"pp#20945 FO 5831/2021, jhm:p, bigboard-rijen, europlakat-spol-sro",pirati_stan
+2021-11-04,-600,Bezhotovostní platba,,"pp#20914 FO 5803/2021, pha:p, jizdne-hola-behem-ostre-faze-kampane, bohdana-hola",,2111,42021,"pp#20914 FO 5803/2021, pha:p, jizdne-hola-behem-ostre-faze-kampane, bohdana-hola",pirati_stan
+2021-11-04,-200,Bezhotovostní platba,,"pp#20912 FO 5801/2021, ulk:p, postovne-za-balicky-dobrovolniku, ceska-posta",,5801,42021,"pp#20912 FO 5801/2021, ulk:p, postovne-za-balicky-dobrovolniku, ceska-posta",pirati_stan
+2021-11-04,-72,Bezhotovostní platba,,"pp#20911 FO 5800/2021, ulk:p, obalky-pro-balicky-dobrovolniku, koh-i-noor-hardtmuth-trade-as",,5800,42021,"pp#20911 FO 5800/2021, ulk:p, obalky-pro-balicky-dobrovolniku, koh-i-noor-hardtmuth-trade-as",pirati_stan
+2021-11-04,-3529.7,Bezhotovostní platba,,"pp#20872 FO 5761/2021, pak:p, bannery-a-plakaty-pak, libusevevodova",,1,42021,"pp#20872 FO 5761/2021, pak:p, bannery-a-plakaty-pak, libusevevodova",pirati_stan
+2021-11-04,-1930,Bezhotovostní platba,,"pp#20871 FO 5760/2021, pak:p, bannery-pak, jana-rosenbergerova",,3,42021,"pp#20871 FO 5760/2021, pak:p, bannery-pak, jana-rosenbergerova",pirati_stan
+2021-11-04,-1000,Platba převodem uvnitř banky,,"pp#20869 FO 5758/2021, pak:p, bannery-pak, pavel-kracik",,1,42021,"pp#20869 FO 5758/2021, pak:p, bannery-pak, pavel-kracik",pirati_stan
+2021-11-04,-14000,Bezhotovostní platba,,"pp#20867 FO 5756/2021, pak:p, david-zaruba-pr-a-socky-921, david-zaruba",,202106,42021,"pp#20867 FO 5756/2021, pak:p, david-zaruba-pr-a-socky-921, david-zaruba",pirati_stan
+2021-11-04,-740,Bezhotovostní platba,,"pp#20830 FO 5720/2021, cen:vs, zaverecna-akce-stribrny-sip, nela-melicharova",,69309523,42021,"pp#20830 FO 5720/2021, cen:vs, zaverecna-akce-stribrny-sip, nela-melicharova",pirati_stan
+2021-11-04,-14000,Bezhotovostní platba,,"pp#20829 FO 5719/2021, cen:vs, produkce-stribrny-sip-neubergova, linda-neubergova",,521,42021,"pp#20829 FO 5719/2021, cen:vs, produkce-stribrny-sip-neubergova, linda-neubergova",pirati_stan
+2021-11-04,-244,Bezhotovostní platba,,"pp#20790 FO 5682/2021, ulk:p, mistni-poplatek-trojnozka-kadan, mesto-kadan",,1343217,42021,"pp#20790 FO 5682/2021, ulk:p, mistni-poplatek-trojnozka-kadan, mesto-kadan",pirati_stan
+2021-11-04,-80261.72,Platba převodem uvnitř banky,,"pp#20734 FO 5636/2021, cen:vs, tistena-reklama-call-centrum-zari-rijen, mediatrix-sro",308,2021077,42021,"pp#20734 FO 5636/2021, cen:vs, tistena-reklama-call-centrum-zari-rijen, mediatrix-sro",pirati_stan
+2021-11-04,-23218.16,Bezhotovostní platba,,"pp#20692 FO 5595/2021, pak:p, roznos-pirlistu-pak, ceska-posta-sp",,5190577092,42021,"pp#20692 FO 5595/2021, pak:p, roznos-pirlistu-pak, ceska-posta-sp",pirati_stan
+2021-11-04,-3000,Bezhotovostní platba,,"pp#20139 FO 5077/2021, pak:p, volebni-koordinator-pirstan-pak, alice-paurova",,2021010,42021,"pp#20139 FO 5077/2021, pak:p, volebni-koordinator-pirstan-pak, alice-paurova",pirati_stan
+2021-11-04,-20000,Bezhotovostní platba,,"pp#20138 FO 5076/2021, pak:p, volebni-manazer-pirstan-pak, jana-rosenbergerova",,20210071,42021,"pp#20138 FO 5076/2021, pak:p, volebni-manazer-pirstan-pak, jana-rosenbergerova",pirati_stan
 2021-11-03,-20000,Bezhotovostní platba,,"pp#20956 FO 5842/2021, cen:vs, koordinace-dobrovolniku-rijen-2021, dominika-krizova",,20210011,42021,"pp#20956 FO 5842/2021, cen:vs, koordinace-dobrovolniku-rijen-2021, dominika-krizova",pirati_stan
 2021-11-03,-26600,Bezhotovostní platba,,"pp#20942 FO 5828/2021, cen:mo, sprava-ppc-kampani-rijen, andrea-zelingrova",,20210077,,"pp#20942 FO 5828/2021, cen:mo, sprava-ppc-kampani-rijen, andrea-zelingrova",pirati_stan
 2021-11-03,2962.08,Bezhotovostní příjem,MESSER TECHNOGAS S.R,DOC. 1620F1100000062021.0000625447,308,6962088830,0,MESSER TECHNOGAS S.R,pirati_stan
@@ -47,18 +89,44 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-01,-4180,Bezhotovostní platba,,"pp#20786 FO 5678/2021, stc:p, online-strategie-3-cast, communication-lab-sro",,20210166,42021,"pp#20786 FO 5678/2021, stc:p, online-strategie-3-cast, communication-lab-sro",pirati_stan
 2021-11-01,-59656,Bezhotovostní platba,,"pp#20785 FO 5677/2021, stc:p, komunikace-na-socialnich-sitich-zari-rijen, communication-lab-sro",,20210165,42021,"pp#20785 FO 5677/2021, stc:p, komunikace-na-socialnich-sitich-zari-rijen, communication-lab-sro",pirati_stan
 2021-11-01,-21780,Bezhotovostní platba,,"pp#19897 FO 4857/2021, pha:p, marketingove-poradenstvi-pro-pirstan-praha-zari, martin-charvat",308,20210037,42021,"pp#19897 FO 4857/2021, pha:p, marketingove-poradenstvi-pro-pirstan-praha-zari, martin-charvat",pirati_stan
-2021-10-27,97870,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - převod prostředků na volební účet,,,,STAN - převod prostředků na volební účet,pirati_stan
-2021-10-27,-5929,Bezhotovostní platba,,"pp#20832 FO 5721/2021, cen:vs, deinstalace-celopolepu-skoda-octavia-vit-rakusan, studio-66-partners-sro",308,220100518,42021,"pp#20832 FO 5721/2021, cen:vs, deinstalace-celopolepu-skoda-octavia-vit-rakusan, studio-66-partners-sro",pirati_stan
-2021-10-27,-46482.15,Bezhotovostní platba,,"pp#20797 FO 5689/2021, cen:vs, letaky-a4-bannery-samolepky, graf-print-sro",,143821,42021,"pp#20797 FO 5689/2021, cen:vs, letaky-a4-bannery-samolepky, graf-print-sro",pirati_stan
-2021-10-27,-21960,Bezhotovostní platba,,"pp#20758 FO 5656/2021, cen:vs, obsluha-callcentra-od-srpna-do-rijna, matej-belohoubek",,202110,42021,"pp#20758 FO 5656/2021, cen:vs, obsluha-callcentra-od-srpna-do-rijna, matej-belohoubek",pirati_stan
-2021-10-27,-7960.59,Platba převodem uvnitř banky,,"pp#20731 FO 5633/2021, cen:vs, expedice-a-dopravne-baliky-pro-kraje, 1-piratska-sro",308,20210039,42021,"pp#20731 FO 5633/2021, cen:vs, expedice-a-dopravne-baliky-pro-kraje, 1-piratska-sro",pirati_stan
-2021-10-27,-45660.56,Platba převodem uvnitř banky,,"pp#20724 FO 5626/2021, cen:vs, dopravne-za-odmeny-z-fundrisingu, 1-piratska-sro",,20210040,42021,"pp#20724 FO 5626/2021, cen:vs, dopravne-za-odmeny-z-fundrisingu, 1-piratska-sro",pirati_stan
-2021-10-27,-3000,Bezhotovostní platba,,"pp#20669 FO 5572/2021, cen:vs, ochrana-na-zahajeni, marek-stoklaska",,2,42021,"pp#20669 FO 5572/2021, cen:vs, ochrana-na-zahajeni, marek-stoklaska",pirati_stan
-2021-10-27,-5000,Bezhotovostní platba,,"pp#20575 FO 5485/2021, cen:vs, nataceni-strih-slovo-hejtmana-olomouckeho-kraje, jakub-suva",,20211004,42021,"pp#20575 FO 5485/2021, cen:vs, nataceni-strih-slovo-hejtmana-olomouckeho-kraje, jakub-suva",pirati_stan
-2021-10-27,-51291.9,Bezhotovostní platba,,"pp#20520 FO 5439/2021, cen:vs, letaky-a4, graf-print-sro",,156621,42021,"pp#20520 FO 5439/2021, cen:vs, letaky-a4, graf-print-sro",pirati_stan
-2021-10-27,-5929,Bezhotovostní platba,,"pp#20438 FO 5365/2021, cen:vs, deinstalace-celopolepu-skoda-octavia, studio-66-partners-sro",308,220100438,42021,"pp#20438 FO 5365/2021, cen:vs, deinstalace-celopolepu-skoda-octavia, studio-66-partners-sro",pirati_stan
-2021-10-27,-480,Bezhotovostní platba,,"pp#20792 FO 5684/2021, jhm:p, slepovani-folii-doprava, vendula-svobodova",,77,42021,"pp#20792 FO 5684/2021, jhm:p, slepovani-folii-doprava, vendula-svobodova",pirati_stan
-2021-10-27,-2420,Bezhotovostní platba,,"pp#20712 FO 5615/2021, jhm:p, roznos-volebnich-novin, jakub-krainer",,20210017,42021,"pp#20712 FO 5615/2021, jhm:p, roznos-volebnich-novin, jakub-krainer",pirati_stan
+2021-11-08,-208.45,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., webhosting domény",308,5210822575,,"1114-Internet CZ a.s., webhosting domény",ods_kdu-csl_top09
+2021-11-08,-60.26,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210728371,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830003,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830000,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830005,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-5850,Bezhotovostní platba,,,378,5112021,3100,,ods_kdu-csl_top09
+2021-11-08,-33862,Okamžitá odchozí platba,,,308,2176,2900,,ods_kdu-csl_top09
+2021-11-08,-1923.93,Okamžitá odchozí platba,,,0,4958722132,2200,,ods_kdu-csl_top09
+2021-11-05,-1997.72,Bezhotovostní platba,,,378,101674875,,"1114-JAna Žáková, reklama na FBC",ods_kdu-csl_top09
+2021-11-05,-35033.67,Bezhotovostní platba,,,378,2021110,,"1114-Petr Beitl, reklama na FBC",ods_kdu-csl_top09
+2021-11-05,-600,Okamžitá odchozí platba,,,308,10101958,2900,"1114-Technické služby Moravská Třebová , výlep plakátů",ods_kdu-csl_top09
+2021-11-05,2200,Okamžitá příchozí platba,Šenková Věra,vrácení mylné platby,0,520,,"1114-Šenková Věra, vrácení mylné platby",ods_kdu-csl_top09
+2021-11-05,-32670,Platba převodem uvnitř banky,,,308,210103,1114,"1114-Magnas Media s.r.o., správa a nastavení FBC",ods_kdu-csl_top09
+2021-11-05,-10600,Bezhotovostní platba,,,308,2021020,3100,"3100-Moravské služby s.r.o., propagace Auer",ods_kdu-csl_top09
+2021-11-05,-15432,Bezhotovostní platba,,,308,20210715,2800,"2800-JUTTY GROUP s.r.o., A4DL -visačky na dveře",ods_kdu-csl_top09
+2021-11-05,-5385,Bezhotovostní platba,,,308,210086,3400,"3400-Pelmark s.r.o., inzerce Týdeník Pelhřimovska",ods_kdu-csl_top09
+2021-11-05,-9693,Platba převodem uvnitř banky,,,308,2021100122,3400,"3400-tiskárna PRETIKO s.r.o., tisk plachty , letáky , trička",ods_kdu-csl_top09
+2021-11-05,-2200,Bezhotovostní platba,,,378,520,2800,"2800-Věra Šenková , PHM , vrácení auta",ods_kdu-csl_top09
+2021-11-05,-1000,Bezhotovostní platba,,,378,520,2800,"2800-Věra Šenková, PHM volební auto",ods_kdu-csl_top09
+2021-11-05,-440,Bezhotovostní platba,,,308,59,2800,"2800-Město Vamberk , výlep plakátů",ods_kdu-csl_top09
+2021-11-05,-8151,Bezhotovostní platba,,,308,410077,2400,"2400-MERKUR MARKT s.r.o., pronájem stánku",ods_kdu-csl_top09
+2021-11-05,-292.82,Bezhotovostní platba,,,308,20210387,2400,"2400-EURO NOVA & PARTNER S s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-11-05,-620,Bezhotovostní platba,,,308,311165,2400,"2400-Město Kaznějov, poplatek za zábor",ods_kdu-csl_top09
+2021-11-05,-5800,Bezhotovostní platba,,,308,31518,2400,"2400-Město Stříbro , poplatek za zábor",ods_kdu-csl_top09
+2021-11-05,-35816,Bezhotovostní platba,,,308,2117024100,2400,"2400-VLTAVA LABE MEDIA a.s., inzerce Plzeňský deník",ods_kdu-csl_top09
+2021-11-05,-10000,Bezhotovostní platba,,,308,120210498,2400,"2400-TOP SWERVICE MANAGEMENT , reklama na FBC",ods_kdu-csl_top09
+2021-11-05,-1520,Bezhotovostní platba,,,378,1343001284,2200,"2200-Město Říčany , poplatek za zábor",ods_kdu-csl_top09
+2021-11-05,-3499.6,Bezhotovostní platba,,,379,220018,2200,"2200-Lukáš Toman Paclt, PHM vol. auto",ods_kdu-csl_top09
+2021-11-05,-14614,Bezhotovostní platba,,,308,220016,2200,"2200-Jitka Valínová, cestovné , užívání veř. prostranství",ods_kdu-csl_top09
+2021-11-05,-2800,Platba převodem uvnitř banky,,,308,16821,2200,2200-NAŠE NOVINY - tištěná inzerce,ods_kdu-csl_top09
+2021-11-05,-10000,Platba převodem uvnitř banky,,,308,20210009,2200,"2200-SNConsulting s.r.o., tisk brožury",ods_kdu-csl_top09
+2021-11-05,-50,Bezhotovostní platba,,,308,2100,2100,"2100-Boleslav Altner, místní poplatek Pha",ods_kdu-csl_top09
+2021-11-05,-600,Bezhotovostní platba,,,308,210100191,2100,"2100-Dream Pro s.r.o., poplatek -parkování vol. auta",ods_kdu-csl_top09
+2021-11-05,-3993,Bezhotovostní platba,,,308,20210143,2100,"2100-Brothers s.r.o., distribuce materiálů",ods_kdu-csl_top09
+2021-11-05,-200000,Bezhotovostní platba,,,308,20210144,2100,"2100-Brothers s.r.o., distribuce materiálů",ods_kdu-csl_top09
+2021-11-05,285000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-11-04,-1540,Bezhotovostní platba,,,308,3421,2600,"2600-Stanislav Novák, pronájem plošiny Lovosice",ods_kdu-csl_top09
+2021-11-04,-24200,Bezhotovostní platba,,,308,20210874,2600,"2600-Jiří Bartoš - SLON s.r.o., grafické práce",ods_kdu-csl_top09
 2021-11-03,-1740,Bezhotovostní platba,,,308,2021127,2400,"1114-Městské kulturní středisko Klatovy, výlep plakátů",ods_kdu-csl_top09
 2021-11-03,-840,Bezhotovostní platba,,,308,20210087,3100,"1114-Městská kulturní zařízení Hranice, výlep plakátů",ods_kdu-csl_top09
 2021-11-03,-10700,Bezhotovostní platba,,,308,101639220,1114,"1114-Facebook  , reklama na FBC Blaha",ods_kdu-csl_top09
@@ -91,13 +159,8 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-01,-20086,Bezhotovostní platba,,,308,232021,3300,"3300-Miroslav Hanus , reklama na FBC",ods_kdu-csl_top09
 2021-11-01,-2500.1,Platba převodem uvnitř banky,,,378,1,3300,"3300-Irena Seifertová, reklama Herold",ods_kdu-csl_top09
 2021-11-01,-3000,Bezhotovostní platba,,,308,3792021,3300,"3300-Martin Neřád, PHM vol. auto",ods_kdu-csl_top09
-2021-10-27,-617.1,Bezhotovostní platba,,,308,22100690,2400,"1114-Město Rokycany, výlep plakátů",ods_kdu-csl_top09
-2021-10-27,-1200,Bezhotovostní platba,,,308,2021098,2300,"1114-Městské kulturní středisko Vimperk, výlep plakátů",ods_kdu-csl_top09
-2021-10-27,-20056,Bezhotovostní platba,,,308,210100013,1114,"1114-CG Niké z. ú., pronájem lodi Cargo",ods_kdu-csl_top09
-2021-10-27,-1000,Okamžitá odchozí platba,,,308,2103177,3100,"3100-Lazně Slatinice a.s., pronájem prostor",ods_kdu-csl_top09
-2021-10-27,-15.73,Okamžitá odchozí platba,,,308,8503210292,3200,"3200-Dopravní podnik města Brna a.s., spotřeba el. energie",ods_kdu-csl_top09
-2021-10-27,-3000,Okamžitá odchozí platba,,,308,120210102,3000,"3000-MENTAL CAFÉ z.s., káva v kampani",ods_kdu-csl_top09
-2021-10-29,3581.6,Bezhotovostní příjem,MOBILBOARD S.R.O.,vratka,308,212900014,0,MOBILBOARD S.R.O.,spd
+2021-11-04,-2065,Bezhotovostní platba,,"MOSKVA s.r.o., pronájem salonku volební štáb ÚK",,2021091,1200,"MOSKVA s.r.o., pronájem salonku volební štáb ÚK",spd
+2021-11-04,-2000,Bezhotovostní platba,,"Iva Nováčková, pronájem salonku volební štáb ÚK",,172021,1200,"Iva Nováčková, pronájem salonku volební štáb ÚK",spd
 2021-11-02,-504,Bezhotovostní platba,,ČSSD,308,9121002080,,"Město Jindřichův Hradec, výlep plakátů, Jihočeský kraj",cssd
 2021-11-02,-510,Bezhotovostní platba,,ČSSD,308,2100200475,,"Město Valtice, zábor veřejného prostranství, Jihomoravský kraj",cssd
 2021-11-02,-17500,Bezhotovostní platba,,ČSSD,308,52021,,"Pavel Dolejší, fotografování kandidátů, Jihočeský kraj",cssd
@@ -105,16 +168,15 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-02,-2099,Platba převodem uvnitř banky,,"ČSSD, cestovné",308,9,,"Molková Zdenka, cestovné, Pardubický kraj",cssd
 2021-11-02,1448.98,Okamžitá příchozí platba,Radmila Stavárková,Stavárková - Jihočeský kraj - vrácení nečerpané částky,308,9,,Radmila Stavárková,cssd
 2021-11-02,120000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
-2021-10-30,-16862.94,Karetní transakce,,"Nákup: FACEBK NLZDS7BQX2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.10.2021, částka  16862.94 CZK",,9268,,"Nákup: FACEBK NLZDS7BQX2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.10.2021, částka  16862.94 CZK",cssd
-2021-10-27,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jan Chvojka, na volby PS PČR, Pardubický kraj",,,,"převod daru Jan Chvojka, na volby PS PČR, Pardubický kraj",cssd
+2021-11-04,-889,Platba převodem uvnitř banky,,výroba reklamních desek - centrála,308,2029266,,výroba reklamních desek - centrála,trikolora
+2021-11-04,-5844.3,Bezhotovostní platba,,oboustranný tisk letáků A5 3000 ks - Pardubický kraj,308,21212142,,oboustranný tisk letáků A5 3000 ks - Pardubický kraj,trikolora
 2021-11-04,889,Bezhotovostní příjem,CLEARING SUSPENSE,Neexistující účet - číslo účtu 2700464139,6,2029266,,CLEARING SUSPENSE,trikolora
 2021-11-02,-889,Bezhotovostní platba,,výroba reklamních desek - centrála,308,2029266,,výroba reklamních desek - centrála,trikolora
 2021-11-02,-10817.9,Bezhotovostní platba,,doplatek za roznos novin a letáků - Praha,308,12216418,,doplatek za roznos novin a letáků - Praha,trikolora
 2021-11-02,-273,Bezhotovostní platba,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,308,2212101058,,doplatek DPH u pronájmu za hyperkostku - Olomoucký kraj,trikolora
 2021-11-01,-20000,Okamžitá odchozí platba,,"PR, foto práce, mediální výstupy a monitoring článků v souvislosti s volební kampaní - centrála",308,172021,,"PR, foto práce, mediální výstupy a monitoring článků v souvislosti s volební kampaní - centrála",trikolora
 2021-11-01,6630.8,Bezhotovostní příjem,U N I P R E S S SPOL,duplicitni platba LBC kraj,0,3030013902,,U N I P R E S S SPOL,trikolora
-2021-10-29,-1395,Bezhotovostní platba,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,308,2221000104,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,trikolora
-2021-10-29,-12100,Platba převodem uvnitř banky,,platba za správu serveru praavozit.cz - centrála,308,20210050,,platba za správu serveru praavozit.cz - centrála,trikolora
+2021-11-08,-1800,Okamžitá odchozí platba,,FA 2021-03 - malování na obličej - akce pro děti,,202103,63,VYS - Marie Smolíková,zeleni
 2021-11-03,-2247.99,Okamžitá odchozí platba,,FB - reklama na sociálních sítích,,,500178,ZO P6 - Pavel Weber,zeleni
 2021-11-03,-21700,Bezhotovostní platba,,FA 2021-0047 - social media marketing a PR,,20210047,42,ÚLK - Lukáš Pokorný,zeleni
 2021-11-03,-1000,Bezhotovostní platba,,FA 2021-4 grafické práce,,20214,42,ÚLK - Barbora Tomečková,zeleni
@@ -124,13 +186,39 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-03,3083.98,Platba převodem uvnitř banky,Strana zelených,převod darů MSK z darového účtu na volební účet SZ - volby do PS PČR 2021,,,80,převod darů MSK z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-11-03,2247.99,Platba převodem uvnitř banky,Strana zelených,Převod prostředků ZO Praha 6 na volební účet SZ - volby do PS PČR 2021,,,500178,Převod prostředků ZO Praha 6 na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-11-03,24700,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-11-04,20000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha
+2021-11-04,120000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha
+2021-11-04,-500,Platba převodem uvnitř banky,,Špatně zaslaný dar z 01.11.2021 pan Milan Žigo.Převod z volebního účtu na zvláštní účet.,,,,Špatně zaslaný dar z 01.11.2021 pan Milan Žigo.Převod z volebního účtu na zvláštní účet.,prisaha
+2021-11-01,500,Bezhotovostní příjem,Žigo Milan,,0,2021,,Žigo Milan,prisaha
+2021-10-27,97870,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - převod prostředků na volební účet,,,,STAN - převod prostředků na volební účet,pirati_stan
+2021-10-27,-5929,Bezhotovostní platba,,"pp#20832 FO 5721/2021, cen:vs, deinstalace-celopolepu-skoda-octavia-vit-rakusan, studio-66-partners-sro",308,220100518,42021,"pp#20832 FO 5721/2021, cen:vs, deinstalace-celopolepu-skoda-octavia-vit-rakusan, studio-66-partners-sro",pirati_stan
+2021-10-27,-46482.15,Bezhotovostní platba,,"pp#20797 FO 5689/2021, cen:vs, letaky-a4-bannery-samolepky, graf-print-sro",,143821,42021,"pp#20797 FO 5689/2021, cen:vs, letaky-a4-bannery-samolepky, graf-print-sro",pirati_stan
+2021-10-27,-21960,Bezhotovostní platba,,"pp#20758 FO 5656/2021, cen:vs, obsluha-callcentra-od-srpna-do-rijna, matej-belohoubek",,202110,42021,"pp#20758 FO 5656/2021, cen:vs, obsluha-callcentra-od-srpna-do-rijna, matej-belohoubek",pirati_stan
+2021-10-27,-7960.59,Platba převodem uvnitř banky,,"pp#20731 FO 5633/2021, cen:vs, expedice-a-dopravne-baliky-pro-kraje, 1-piratska-sro",308,20210039,42021,"pp#20731 FO 5633/2021, cen:vs, expedice-a-dopravne-baliky-pro-kraje, 1-piratska-sro",pirati_stan
+2021-10-27,-45660.56,Platba převodem uvnitř banky,,"pp#20724 FO 5626/2021, cen:vs, dopravne-za-odmeny-z-fundrisingu, 1-piratska-sro",,20210040,42021,"pp#20724 FO 5626/2021, cen:vs, dopravne-za-odmeny-z-fundrisingu, 1-piratska-sro",pirati_stan
+2021-10-27,-3000,Bezhotovostní platba,,"pp#20669 FO 5572/2021, cen:vs, ochrana-na-zahajeni, marek-stoklaska",,2,42021,"pp#20669 FO 5572/2021, cen:vs, ochrana-na-zahajeni, marek-stoklaska",pirati_stan
+2021-10-27,-5000,Bezhotovostní platba,,"pp#20575 FO 5485/2021, cen:vs, nataceni-strih-slovo-hejtmana-olomouckeho-kraje, jakub-suva",,20211004,42021,"pp#20575 FO 5485/2021, cen:vs, nataceni-strih-slovo-hejtmana-olomouckeho-kraje, jakub-suva",pirati_stan
+2021-10-27,-51291.9,Bezhotovostní platba,,"pp#20520 FO 5439/2021, cen:vs, letaky-a4, graf-print-sro",,156621,42021,"pp#20520 FO 5439/2021, cen:vs, letaky-a4, graf-print-sro",pirati_stan
+2021-10-27,-5929,Bezhotovostní platba,,"pp#20438 FO 5365/2021, cen:vs, deinstalace-celopolepu-skoda-octavia, studio-66-partners-sro",308,220100438,42021,"pp#20438 FO 5365/2021, cen:vs, deinstalace-celopolepu-skoda-octavia, studio-66-partners-sro",pirati_stan
+2021-10-27,-480,Bezhotovostní platba,,"pp#20792 FO 5684/2021, jhm:p, slepovani-folii-doprava, vendula-svobodova",,77,42021,"pp#20792 FO 5684/2021, jhm:p, slepovani-folii-doprava, vendula-svobodova",pirati_stan
+2021-10-27,-2420,Bezhotovostní platba,,"pp#20712 FO 5615/2021, jhm:p, roznos-volebnich-novin, jakub-krainer",,20210017,42021,"pp#20712 FO 5615/2021, jhm:p, roznos-volebnich-novin, jakub-krainer",pirati_stan
+2021-10-27,-617.1,Bezhotovostní platba,,,308,22100690,2400,"1114-Město Rokycany, výlep plakátů",ods_kdu-csl_top09
+2021-10-27,-1200,Bezhotovostní platba,,,308,2021098,2300,"1114-Městské kulturní středisko Vimperk, výlep plakátů",ods_kdu-csl_top09
+2021-10-27,-20056,Bezhotovostní platba,,,308,210100013,1114,"1114-CG Niké z. ú., pronájem lodi Cargo",ods_kdu-csl_top09
+2021-10-27,-1000,Okamžitá odchozí platba,,,308,2103177,3100,"3100-Lazně Slatinice a.s., pronájem prostor",ods_kdu-csl_top09
+2021-10-27,-15.73,Okamžitá odchozí platba,,,308,8503210292,3200,"3200-Dopravní podnik města Brna a.s., spotřeba el. energie",ods_kdu-csl_top09
+2021-10-27,-3000,Okamžitá odchozí platba,,,308,120210102,3000,"3000-MENTAL CAFÉ z.s., káva v kampani",ods_kdu-csl_top09
+2021-10-29,3581.6,Bezhotovostní příjem,MOBILBOARD S.R.O.,vratka,308,212900014,0,MOBILBOARD S.R.O.,spd
+2021-10-30,-16862.94,Karetní transakce,,"Nákup: FACEBK NLZDS7BQX2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.10.2021, částka  16862.94 CZK",,9268,,"Nákup: FACEBK NLZDS7BQX2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 30.10.2021, částka  16862.94 CZK",cssd
+2021-10-27,50000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"převod daru Jan Chvojka, na volby PS PČR, Pardubický kraj",,,,"převod daru Jan Chvojka, na volby PS PČR, Pardubický kraj",cssd
+2021-10-29,-1395,Bezhotovostní platba,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,308,2221000104,,platba poplatku za zábor místního prostranství Břeclav - Jihomoravský kraj,trikolora
+2021-10-29,-12100,Platba převodem uvnitř banky,,platba za správu serveru praavozit.cz - centrála,308,20210050,,platba za správu serveru praavozit.cz - centrála,trikolora
 2021-10-27,-29300,Platba převodem uvnitř banky,,"FA 202107 - poradenská činnost a technická výpomoc v kampani, výlep plakátů",,202107,42,ÚLK - Jiří Wagner,zeleni
 2021-10-27,-800,Platba převodem uvnitř banky,,PD 1102105390 - výlep plakátu A3 (Informační a dopravní centrum Podřipska),,1102105390,42,ÚLK - Jiří Wagner,zeleni
 2021-10-27,-1155,Platba převodem uvnitř banky,,PD 21066 - tisk (Aleš Ducháček),,21066,42,ÚLK - Jiří Wagner,zeleni
 2021-10-27,-1500,Platba převodem uvnitř banky,,PD 21062 - grafické práce volební banner (Aleš Ducháček),,21062,42,ÚLK - Jiří Wagner,zeleni
 2021-10-27,-3000,Platba převodem uvnitř banky,,PD 21060 - grafické práce volební bannery (Aleš Ducháček),,21060,42,ÚLK - Jiří Wagner,zeleni
 2021-10-27,1059,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
-2021-11-01,500,Bezhotovostní příjem,Žigo Milan,,0,2021,,Žigo Milan,prisaha
 2021-10-27,-907.5,Karetní transakce,,"Nákup: ThePay *RAYNET s.r.o.,  Francouzska 6167/5, Ostrava, 70800, CZE, dne 26.10.2021, částka  907.50 CZK",,8013,,"Nákup: ThePay *RAYNET s.r.o.,  Francouzska 6167/5, Ostrava, 70800, CZE, dne 26.10.2021, částka  907.50 CZK",prisaha
 2021-10-26,-5120,Platba převodem uvnitř banky,,"pp#20813 FO 5704/2021, pha:p, marketingove-sluzby, lukas-funk",,12021,42021,"pp#20813 FO 5704/2021, pha:p, marketingove-sluzby, lukas-funk",pirati_stan
 2021-10-26,-80000,Bezhotovostní platba,,"pp#20809 FO 5700/2021, cen:vs, priprava-hlavnich-lidru-koalice-pirati-a-starostove-na-debaty, filip-vich",,12021,42021,"pp#20809 FO 5700/2021, cen:vs, priprava-hlavnich-lidru-koalice-pirati-a-starostove-na-debaty, filip-vich",pirati_stan

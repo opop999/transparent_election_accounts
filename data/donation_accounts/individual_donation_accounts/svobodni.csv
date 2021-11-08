@@ -1,4 +1,33 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-08,200,Bezhotovostní příjem,JIRI SVEHLA,DAR RES 2021 - JIŘÍ ŠVEHLA,,6070,2021,JIRI SVEHLA,svobodni
+2021-11-08,200,Bezhotovostní příjem,RICHARD VEJS,DAR RES2021 - RICHARD VEJS,,9018,2021,RICHARD VEJS,svobodni
+2021-11-08,200,Bezhotovostní příjem,BARTAS BERT,dar ReS 2021 - Bert Bartas,0,8474,2021,BARTAS BERT,svobodni
+2021-11-08,200,Bezhotovostní příjem,HAVRDOVA HELENA,dar ReS 2021 - Miroslav Havrda,308,5292,2021,HAVRDOVA HELENA,svobodni
+2021-11-08,200,Bezhotovostní příjem,RANDULA JIŘÍ,dar ReS 2021 - Jiří Randula,,9225,2021,RANDULA JIŘÍ,svobodni
+2021-11-07,100,Okamžitá příchozí platba,Peterková Šárka,DAR PRIZNIVCE,0,9427,,Peterková Šárka,svobodni
+2021-11-06,200,Okamžitá příchozí platba,KADLEC JAN,dar ReS 2021 - Jan Kadlec,,8249,2021,KADLEC JAN,svobodni
+2021-11-06,100,Platba převodem uvnitř banky,"Šálek, Ondřej",dar,,,,dar,svobodni
+2021-11-06,200,Platba převodem uvnitř banky,"Bc. Laube, Bedřich",dar ReS 2021 - Bedřich Laube,,4165,2021,dar ReS 2021 - Bedřich Laube,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Skotáková Šárka,Dar ReS 2021-Ondřej Skoták,0,7387,2021,Skotáková Šárka,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Jiří Vršínský,dar ReS 2021 - Jiří Vršínský,,7967,2021,Jiří Vršínský,svobodni
+2021-11-05,200,Platba převodem uvnitř banky,"Kropš, Karel",dar ReS 2021 - Karel Kropš,,4098,2021,dar ReS 2021 - Karel Kropš,svobodni
+2021-11-05,200,Bezhotovostní příjem,KAREŠOVÁ MARKÉTA,Sněm - Karešová,0,9285,2021,KAREŠOVÁ MARKÉTA,svobodni
+2021-11-05,200,Bezhotovostní příjem,JINDRICH PILC,DAR RES 2021 - JINDŘICH PILC,,1069,2021,JINDRICH PILC,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Václav Láznička,dar ReS 2021 - Václav Láznička,,9222,,Václav Láznička,svobodni
+2021-11-05,200,Platba převodem uvnitř banky,"Procházka, Aleš",dar ReS 2021 - Aleš Procházka,,3397,2021,dar ReS 2021 - Aleš Procházka,svobodni
+2021-11-05,200,Platba převodem uvnitř banky,"Jeřábek, Vojtěch",dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,,7982,2021,dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,svobodni
+2021-11-05,200,Bezhotovostní příjem,LEJSEK TOMAS,dar ReS 2021 - Tomas Lejsek,,6870,2021,LEJSEK TOMAS,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Dvořák Antonín,Res AntoninDvorak,0,9338,2021,Dvořák Antonín,svobodni
+2021-11-05,200,Platba převodem uvnitř banky,"Leština, Jan",dar ReS 2021 - Jan Leština,,9383,2021,dar ReS 2021 - Jan Leština,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Karolína Čajková,dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,,9279,2021,Karolína Čajková,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Karolína Čajková,dar ReS 2021 - VLOŽTE VARIABILNÍ SYMBOL,,9278,2021,Karolína Čajková,svobodni
+2021-11-05,200,Okamžitá příchozí platba,Hynek Pangrác,,,1235,,Hynek Pangrác,svobodni
+2021-11-05,200,Bezhotovostní příjem,TROJANEK JOSEF,dar ReS 2021 - 8556,,8556,2021,TROJANEK JOSEF,svobodni
+2021-11-05,200,Bezhotovostní příjem,STANOVSKÝ VÍTĚZSLAV,dar ReS 2021 - Vítězslav Stanovský,0,2589,2021,STANOVSKÝ VÍTĚZSLAV,svobodni
+2021-11-04,200,Okamžitá příchozí platba,Petr Blažek,dar ReS 2021 - Kateřina Blažková,,9423,2021,Petr Blažek,svobodni
+2021-11-04,-13500,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-04,-6776,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-04,500,Bezhotovostní příjem,KARYCHOVÁ YVONA,dar,308,5647,0,KARYCHOVÁ YVONA,svobodni
 2021-11-04,200,Bezhotovostní příjem,PÁTEK ROMAN,dar ReS 2021 - Roman Pátek,,6667,2021,PÁTEK ROMAN,svobodni
 2021-11-03,200,Platba převodem uvnitř banky,"Ing. Pelán, Jaroslav",dar ReS 2021 - Eva Pelánova,,8750,2021,dar ReS 2021 - Eva Pelánova,svobodni
 2021-11-03,200,Platba převodem uvnitř banky,"Ing. Pelán, Jaroslav",dar ReS 2021 - Jaroslav Pelán,,2170,2021,dar ReS 2021 - Jaroslav Pelán,svobodni

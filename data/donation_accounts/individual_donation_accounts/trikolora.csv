@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-05,100,Bezhotovostní příjem,NEMETHOVÁ MARKÉTA,Markéta Nemethová,0,11002052,0,NEMETHOVÁ MARKÉTA,trikolora
+2021-11-05,100,Bezhotovostní příjem,Ing.Němec Miloš,"DAR, Miloš Němec",0,,,Ing.Němec Miloš,trikolora
+2021-11-05,100,Bezhotovostní příjem,Ing.Pozler Petr,Dar příspěvek RP,0,5000382,,Ing.Pozler Petr,trikolora
 2021-11-03,100,Bezhotovostní příjem,BALA MARTIN,DAR prispevek RP,,12001929,,BALA MARTIN,trikolora
 2021-11-03,100,Bezhotovostní příjem,BALA MARTIN,DAR prispevek RP,,12001928,,BALA MARTIN,trikolora
 2021-11-02,-100000,Platba převodem uvnitř banky,,převod na provozní účet,,,,převod na provozní účet,trikolora

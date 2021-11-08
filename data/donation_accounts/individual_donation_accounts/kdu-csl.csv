@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-08,20000,Okamžitá příchozí platba,Jitka Ivičičová,dar pro KDU-ČSL Brno-město,,24111980,709,Jitka Ivičičová,kdu-csl
+2021-11-08,1000,Bezhotovostní příjem,TUČKOVÁ HELENA,,308,29121972,651,TUČKOVÁ HELENA,kdu-csl
+2021-11-08,200,Bezhotovostní příjem,HLAVINKA JIŘÍ,dar pro STC,,4041954,201,HLAVINKA JIŘÍ,kdu-csl
+2021-11-08,1800,Bezhotovostní příjem,HLADIK PETR,Dar Petr Hladik,,21051974,301,HLADIK PETR,kdu-csl
+2021-11-08,100,Bezhotovostní příjem,HRUBANOVÁ MICHAELA,,0,19750722,999,HRUBANOVÁ MICHAELA,kdu-csl
+2021-11-08,5000,Bezhotovostní příjem,HALOUN TOMAS,DAR KDU,301,2109210112,,HALOUN TOMAS,kdu-csl
+2021-11-05,30000,Bezhotovostní příjem,Línek Roman,dar Roman Línek 2021,,,,Línek Roman,kdu-csl
+2021-11-04,6000,Okamžitá příchozí platba,HUNEŠ ROBERT,R.Huneš-dar KDU,,9111968,301,HUNEŠ ROBERT,kdu-csl
 2021-11-04,22000,Bezhotovostní příjem,ŠOTOLA PAVEL,,0,0,601,ŠOTOLA PAVEL,kdu-csl
 2021-11-03,40000,Okamžitá příchozí platba,FARMA STRÁNÍ s.r.o.,,0,7560508,,FARMA STRÁNÍ s.r.o.,kdu-csl
 2021-11-02,20000,Okamžitá příchozí platba,Ing.Čermáková Pavlín,Ing. Zbyněk Čermák,0,,601,Ing.Čermáková Pavlín,kdu-csl

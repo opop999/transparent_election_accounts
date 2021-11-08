@@ -1,14 +1,17 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-04,-6687500,Odchozí úhrada,KSČM,3918378,300,MF - dotace za 3.Q/21,0,9,,CZK,kscm
+2021-11-04,845,Příchozí úhrada,JAN PIKOUS,6701002203639940,6210,JAN PIKOUS - FINANCNI DAR,,,33101,CZK,kscm
+2021-11-04,-1,Odchozí úhrada,,1259086055,3030,Hošek Filip - vratka,0,246,,CZK,kscm
 2021-11-02,1,Okamžitá úhrada,Filip Hošek,1259086055,3030,"DAR (Děkuji za to,že jste šli konečně do hajzlu !)",,,,CZK,kscm
 2021-11-01,5000,Příchozí úhrada,VRZAL MILOSLAV,235180309,300,finanční dar,,36102,,CZK,kscm
 2021-11-01,200,Příchozí úhrada,Šlechtická Hana,63433153,800,P. Šlechtický Jihlava-finanční dar,0,0,36102,CZK,kscm
 2021-10-31,-190,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
-2021-10-31,-85,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
-2021-10-31,-200,Poplatek za vedení účtu,,,,,,,,CZK,kscm
-2021-10-31,-50,Poplatek za výpis z účtu,,,,,,,,CZK,kscm
-2021-10-31,-15,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
-2021-10-31,-95,Poštovné v ČR,,,,,,,,CZK,kscm
 2021-10-31,-40,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
+2021-10-31,-95,Poštovné v ČR,,,,,,,,CZK,kscm
+2021-10-31,-15,Poplatek za odchozí úhradu,,,,,,,,CZK,kscm
+2021-10-31,-50,Poplatek za výpis z účtu,,,,,,,,CZK,kscm
+2021-10-31,-200,Poplatek za vedení účtu,,,,,,,,CZK,kscm
+2021-10-31,-85,Poplatek za příchozí úhradu,,,,,,,,CZK,kscm
 2021-10-29,560,Příchozí úhrada,WIEWIÓRKA KAREL,193417350237,100,FIN. DAR KSČM KAREL WIEWIORKA,0,38103,,CZK,kscm
 2021-10-29,637,Příchozí úhrada,ORSZULIK RADEK,159145375,300,Financni dar KSMC Radek Orszulik,,38103,,CZK,kscm
 2021-10-27,-9000,Odchozí úhrada,,274141740,300,dotace - OV Semily,0,581,,CZK,kscm

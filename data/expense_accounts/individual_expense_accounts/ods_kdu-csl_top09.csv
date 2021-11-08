@@ -1,4 +1,42 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-08,-208.45,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., webhosting domény",308,5210822575,,"1114-Internet CZ a.s., webhosting domény",ods_kdu-csl_top09
+2021-11-08,-60.26,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210728371,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830003,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830000,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830005,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
+2021-11-08,-5850,Bezhotovostní platba,,,378,5112021,3100,,ods_kdu-csl_top09
+2021-11-08,-33862,Okamžitá odchozí platba,,,308,2176,2900,,ods_kdu-csl_top09
+2021-11-08,-1923.93,Okamžitá odchozí platba,,,0,4958722132,2200,,ods_kdu-csl_top09
+2021-11-05,-1997.72,Bezhotovostní platba,,,378,101674875,,"1114-JAna Žáková, reklama na FBC",ods_kdu-csl_top09
+2021-11-05,-35033.67,Bezhotovostní platba,,,378,2021110,,"1114-Petr Beitl, reklama na FBC",ods_kdu-csl_top09
+2021-11-05,-600,Okamžitá odchozí platba,,,308,10101958,2900,"1114-Technické služby Moravská Třebová , výlep plakátů",ods_kdu-csl_top09
+2021-11-05,2200,Okamžitá příchozí platba,Šenková Věra,vrácení mylné platby,0,520,,"1114-Šenková Věra, vrácení mylné platby",ods_kdu-csl_top09
+2021-11-05,-32670,Platba převodem uvnitř banky,,,308,210103,1114,"1114-Magnas Media s.r.o., správa a nastavení FBC",ods_kdu-csl_top09
+2021-11-05,-10600,Bezhotovostní platba,,,308,2021020,3100,"3100-Moravské služby s.r.o., propagace Auer",ods_kdu-csl_top09
+2021-11-05,-15432,Bezhotovostní platba,,,308,20210715,2800,"2800-JUTTY GROUP s.r.o., A4DL -visačky na dveře",ods_kdu-csl_top09
+2021-11-05,-5385,Bezhotovostní platba,,,308,210086,3400,"3400-Pelmark s.r.o., inzerce Týdeník Pelhřimovska",ods_kdu-csl_top09
+2021-11-05,-9693,Platba převodem uvnitř banky,,,308,2021100122,3400,"3400-tiskárna PRETIKO s.r.o., tisk plachty , letáky , trička",ods_kdu-csl_top09
+2021-11-05,-2200,Bezhotovostní platba,,,378,520,2800,"2800-Věra Šenková , PHM , vrácení auta",ods_kdu-csl_top09
+2021-11-05,-1000,Bezhotovostní platba,,,378,520,2800,"2800-Věra Šenková, PHM volební auto",ods_kdu-csl_top09
+2021-11-05,-440,Bezhotovostní platba,,,308,59,2800,"2800-Město Vamberk , výlep plakátů",ods_kdu-csl_top09
+2021-11-05,-8151,Bezhotovostní platba,,,308,410077,2400,"2400-MERKUR MARKT s.r.o., pronájem stánku",ods_kdu-csl_top09
+2021-11-05,-292.82,Bezhotovostní platba,,,308,20210387,2400,"2400-EURO NOVA & PARTNER S s.r.o., tisk letáky",ods_kdu-csl_top09
+2021-11-05,-620,Bezhotovostní platba,,,308,311165,2400,"2400-Město Kaznějov, poplatek za zábor",ods_kdu-csl_top09
+2021-11-05,-5800,Bezhotovostní platba,,,308,31518,2400,"2400-Město Stříbro , poplatek za zábor",ods_kdu-csl_top09
+2021-11-05,-35816,Bezhotovostní platba,,,308,2117024100,2400,"2400-VLTAVA LABE MEDIA a.s., inzerce Plzeňský deník",ods_kdu-csl_top09
+2021-11-05,-10000,Bezhotovostní platba,,,308,120210498,2400,"2400-TOP SWERVICE MANAGEMENT , reklama na FBC",ods_kdu-csl_top09
+2021-11-05,-1520,Bezhotovostní platba,,,378,1343001284,2200,"2200-Město Říčany , poplatek za zábor",ods_kdu-csl_top09
+2021-11-05,-3499.6,Bezhotovostní platba,,,379,220018,2200,"2200-Lukáš Toman Paclt, PHM vol. auto",ods_kdu-csl_top09
+2021-11-05,-14614,Bezhotovostní platba,,,308,220016,2200,"2200-Jitka Valínová, cestovné , užívání veř. prostranství",ods_kdu-csl_top09
+2021-11-05,-2800,Platba převodem uvnitř banky,,,308,16821,2200,2200-NAŠE NOVINY - tištěná inzerce,ods_kdu-csl_top09
+2021-11-05,-10000,Platba převodem uvnitř banky,,,308,20210009,2200,"2200-SNConsulting s.r.o., tisk brožury",ods_kdu-csl_top09
+2021-11-05,-50,Bezhotovostní platba,,,308,2100,2100,"2100-Boleslav Altner, místní poplatek Pha",ods_kdu-csl_top09
+2021-11-05,-600,Bezhotovostní platba,,,308,210100191,2100,"2100-Dream Pro s.r.o., poplatek -parkování vol. auta",ods_kdu-csl_top09
+2021-11-05,-3993,Bezhotovostní platba,,,308,20210143,2100,"2100-Brothers s.r.o., distribuce materiálů",ods_kdu-csl_top09
+2021-11-05,-200000,Bezhotovostní platba,,,308,20210144,2100,"2100-Brothers s.r.o., distribuce materiálů",ods_kdu-csl_top09
+2021-11-05,285000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-11-04,-1540,Bezhotovostní platba,,,308,3421,2600,"2600-Stanislav Novák, pronájem plošiny Lovosice",ods_kdu-csl_top09
+2021-11-04,-24200,Bezhotovostní platba,,,308,20210874,2600,"2600-Jiří Bartoš - SLON s.r.o., grafické práce",ods_kdu-csl_top09
 2021-11-03,-1740,Bezhotovostní platba,,,308,2021127,2400,"1114-Městské kulturní středisko Klatovy, výlep plakátů",ods_kdu-csl_top09
 2021-11-03,-840,Bezhotovostní platba,,,308,20210087,3100,"1114-Městská kulturní zařízení Hranice, výlep plakátů",ods_kdu-csl_top09
 2021-11-03,-10700,Bezhotovostní platba,,,308,101639220,1114,"1114-Facebook  , reklama na FBC Blaha",ods_kdu-csl_top09

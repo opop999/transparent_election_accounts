@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-08,35000,Okamžitá příchozí platba,Petr Kouba,"DAR, Petr Kouba",308,3104210002,,Petr Kouba,ods
+2021-11-08,25000,Bezhotovostní příjem,CIZEK PAVEL,DAR  Pavel Cizek,,2903210001,,CIZEK PAVEL,ods
+2021-11-07,20000,Okamžitá příchozí platba,Lucie Prinzová,"DAR, Lucie Prinzova",0,2115210001,,Lucie Prinzová,ods
+2021-11-05,2000,Okamžitá příchozí platba,Vilém Novotný,"DAR, Vilem Novotny",,3103210007,,Vilém Novotný,ods
+2021-11-05,50000,Bezhotovostní příjem,VODA CZ S.R.O.,,308,2800210008,,VODA CZ S.R.O.,ods
+2021-11-05,-285000,Platba převodem uvnitř banky,,1114-převod financí,,,,1114-převod financí,ods
+2021-11-05,5000,Bezhotovostní příjem,EPO GEARMOT S.R.O.,"DAR, EPO GEARMOT s.r.o.",0,3004210008,0,EPO GEARMOT S.R.O.,ods
+2021-11-05,18000,Bezhotovostní příjem,CHLUPÁČ LADISLAV,"DAR ,Ladislav Chlupáč",0,2600210024,0,CHLUPÁČ LADISLAV,ods
+2021-11-04,50000,Okamžitá příchozí platba,FOLWARCZNY STANISL,Dar Stanislav Folwarczny,,3000210033,,FOLWARCZNY STANISL,ods
+2021-11-04,20000,Okamžitá příchozí platba,Prádelna na Starém M,"DAR, Prádelna na Starém Městě, s.r.o.",0,3004210011,,Prádelna na Starém M,ods
+2021-11-04,20000,Okamžitá příchozí platba,DISTRIBUCE DETERGENT,"DAR, Distribuce detergentů, s.r.o.",0,3004210010,,DISTRIBUCE DETERGENT,ods
+2021-11-04,10000,Bezhotovostní příjem,KULHÁNEK JIŘÍ,"DAR, Jiří Kulhánek",0,2600210028,0,KULHÁNEK JIŘÍ,ods
+2021-11-04,10000,Bezhotovostní příjem,Rieger Tomáš,"DAR, Tomáš Rieger",,2600210031,,Rieger Tomáš,ods
 2021-11-03,1000,Okamžitá příchozí platba,Slanař Matěj,"DAR, Matěj Slanař",0,2902210009,,Slanař Matěj,ods
 2021-11-03,10000,Okamžitá příchozí platba,Mgr.Vachková Zdenka,"DAR, ZDENKA VACHKOVÁ",0,2600210032,,Mgr.Vachková Zdenka,ods
 2021-11-03,1000,Okamžitá příchozí platba,MUDr. Vlastimil ZOUB,"DAR, Vlastimil Zoubek",,3000210031,,MUDr. Vlastimil ZOUB,ods
