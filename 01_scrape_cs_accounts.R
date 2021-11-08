@@ -17,6 +17,9 @@ invisible(lapply(packages, library, character.only = TRUE))
 # Turn off scientific notation of numbers
 options(scipen = 999)
 
+# Temporally disable ssl verification due to certificate issues on the side of the bank
+httr::set_config(config(ssl_verifypeer = 0L)) 
+
 ## 2. Function for extraction of the expense transparent bank accounts based in CS bank
 scrape_cs_expense_accounts <- function(expense_accounts_cs, dir_name, page_rows, sort, sort_direction, api_key) {
   
@@ -134,8 +137,7 @@ scrape_cs_donation_accounts <- function(donation_accounts_cs, dir_name, page_row
     
     # Loop to deal with more than one accounts
     for (i in seq_len(length(donation_accounts_cs[[1]]))) {
-    
-    
+      
 full_list[[donation_accounts_cs[[1]][i]]] <- fromJSON(content(httr::VERB(
   verb = "GET",
   url = paste0("https://api.csas.cz/webapi/api/v3/transparentAccounts/", donation_accounts_cs[[2]][i], "/transactions"),
@@ -222,3 +224,7 @@ scrape_cs_donation_accounts(donation_accounts_cs = donation_accounts_cs,
                               sort = sort,
                               sort_direction = sort_direction,
                               api_key = api_key)
+
+## 6. Reset global httr configuration 
+httr::reset_config()
+
