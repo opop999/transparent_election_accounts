@@ -1,4 +1,9 @@
 date,amount,vs,ks,ss,note,entity_name,id
+2021-11-05,5000,33112021,558,0,"RVS CHODOV, S.R.O. - Příchozí platba",soukromnici,
+2021-11-03,-20000,670513,0,0,Odchozí platba,soukromnici,
+2021-10-31,-30,0,0,0,Poplatek,soukromnici,
+2021-10-31,-60,0,0,0,Poplatek,soukromnici,
+2021-10-25,25000,2021100,0,1111,Občanská demokratick - Příchozí platba - ODS - vyrovnání 3.Q.2021,soukromnici,
 2021-10-18,62500,0,0,0,STAROSTOVÉ A NEZÁVIS - Příchozí platba - STAN - vyrovnání za mandáty - Ústecký kraj - 3Q 2021,soukromnici,
 2021-10-15,-50000,670513,0,0,Odchozí platba,soukromnici,
 2021-10-12,700000,3081956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici,
