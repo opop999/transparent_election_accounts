@@ -1,4 +1,5 @@
 date,amount,vs,ks,ss,note,entity_name,id
+2021-11-09,6000,23111967,308,6761230003,HANTSCHOVA IVANA - Příchozí platba - Dar - Hantschova,ano_2011,
 2021-11-08,0.01,0,0,0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu.",ano_2011,
 2021-11-08,0.01,25085,0,0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta,ano_2011,
 2021-11-08,0.01,0,0,0,ALOIS STRATIL - Příchozí platba - PRYČ S BUREŠEM A JEHO SEBRANKOU,ano_2011,
@@ -225,7 +226,7 @@ date,amount,vs,ks,ss,note,entity_name,id
 2021-10-11,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Profesionální udavač jsi ty sám STBaku,ano_2011,
 2021-10-11,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - Na puding pro hradní obludu, až zase pojedeš trénovat rektální alpinismus",ano_2011,
 2021-10-11,0.01,0,0,0,"PETRA PELIKANOVA - Příchozí platba - POSLEDNÍ HALÍŘ NA CESTU OD VÁLU!!! ANO, KONEČNĚ BUDE LÍP!",ano_2011,
-2021-10-11,0.01,0,0,0,"FOREJT PAVEL - Příchozí platba - Všechno nejlepší k dnešnímu svátku agente StB. Nic mi neudělalo větší radost, než výsledek voleb. Tak snad už konečně půjdete do kriminálu.",ano_2011,
+2021-11-09,100,8112021,0,0,Jitka Linková - Příchozí platba - S. Pandeyan,soukromnici,
 2021-11-05,5000,33112021,558,0,"RVS CHODOV, S.R.O. - Příchozí platba",soukromnici,
 2021-11-03,-20000,670513,0,0,Odchozí platba,soukromnici,
 2021-10-31,-30,0,0,0,Poplatek,soukromnici,
@@ -235,6 +236,7 @@ date,amount,vs,ks,ss,note,entity_name,id
 2021-10-15,-50000,670513,0,0,Odchozí platba,soukromnici,
 2021-10-12,700000,3081956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici,
 2021-10-12,125000,180152021,6418,0,MF - Příchozí platba - 1403/18015/2021-53 Strana soukromníků České republiky,soukromnici,
+2021-10-11,0.01,0,0,0,"FOREJT PAVEL - Příchozí platba - Všechno nejlepší k dnešnímu svátku agente StB. Nic mi neudělalo větší radost, než výsledek voleb. Tak snad už konečně půjdete do kriminálu.",ano_2011,
 2021-10-11,0.01,0,0,0,Ondřej Pytela - Příchozí platba - líp bylo a líp bude. jen vy už tu nebudete..,ano_2011,
 2021-10-11,0.03,0,0,0,"Martin Turek - Příchozí platba - JEŽIBABIŠU, SBAL SI MOTYLE, A TÁHNI UŽ KONEČNĚ DO HAJZLU NEBO NA SLOVENSKO !!",ano_2011,
 2021-10-08,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Burešovi na eutanazii,ano_2011,
