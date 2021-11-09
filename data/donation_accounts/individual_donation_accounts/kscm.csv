@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-08,1400,Příchozí úhrada,JUHOVA JAROSLAVA,176167891,300,"""Miloslav Švantner,Plzeň - finančnídar""",,,33203,CZK,kscm
 2021-11-04,-6687500,Odchozí úhrada,KSČM,3918378,300,MF - dotace za 3.Q/21,0,9,,CZK,kscm
 2021-11-04,845,Příchozí úhrada,JAN PIKOUS,6701002203639940,6210,JAN PIKOUS - FINANCNI DAR,,,33101,CZK,kscm
 2021-11-04,-1,Odchozí úhrada,,1259086055,3030,Hošek Filip - vratka,0,246,,CZK,kscm

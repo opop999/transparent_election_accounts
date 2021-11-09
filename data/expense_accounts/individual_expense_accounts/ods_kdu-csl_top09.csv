@@ -4,9 +4,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830003,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830000,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830005,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
-2021-11-08,-5850,Bezhotovostní platba,,,378,5112021,3100,,ods_kdu-csl_top09
-2021-11-08,-33862,Okamžitá odchozí platba,,,308,2176,2900,,ods_kdu-csl_top09
-2021-11-08,-1923.93,Okamžitá odchozí platba,,,0,4958722132,2200,,ods_kdu-csl_top09
+2021-11-08,-5850,Bezhotovostní platba,,,378,5112021,3100,"3100-Eva Fraisová , správní poplatky - zábor",ods_kdu-csl_top09
+2021-11-08,-33862,Okamžitá odchozí platba,,,308,2176,2900,"2900-Pavel Jaroš , propagační materiál - perníčky",ods_kdu-csl_top09
+2021-11-08,-1923.93,Okamžitá odchozí platba,,,0,4958722132,2200,"2200-Novák Tomáš, reklama na FBC",ods_kdu-csl_top09
 2021-11-05,-1997.72,Bezhotovostní platba,,,378,101674875,,"1114-JAna Žáková, reklama na FBC",ods_kdu-csl_top09
 2021-11-05,-35033.67,Bezhotovostní platba,,,378,2021110,,"1114-Petr Beitl, reklama na FBC",ods_kdu-csl_top09
 2021-11-05,-600,Okamžitá odchozí platba,,,308,10101958,2900,"1114-Technické služby Moravská Třebová , výlep plakátů",ods_kdu-csl_top09
@@ -69,6 +69,9 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-01,-20086,Bezhotovostní platba,,,308,232021,3300,"3300-Miroslav Hanus , reklama na FBC",ods_kdu-csl_top09
 2021-11-01,-2500.1,Platba převodem uvnitř banky,,,378,1,3300,"3300-Irena Seifertová, reklama Herold",ods_kdu-csl_top09
 2021-11-01,-3000,Bezhotovostní platba,,,308,3792021,3300,"3300-Martin Neřád, PHM vol. auto",ods_kdu-csl_top09
+2021-11-08,-5850,Bezhotovostní platba,,,378,5112021,3100,,ods_kdu-csl_top09
+2021-11-08,-33862,Okamžitá odchozí platba,,,308,2176,2900,,ods_kdu-csl_top09
+2021-11-08,-1923.93,Okamžitá odchozí platba,,,0,4958722132,2200,,ods_kdu-csl_top09
 2021-10-27,-617.1,Bezhotovostní platba,,,308,22100690,2400,"1114-Město Rokycany, výlep plakátů",ods_kdu-csl_top09
 2021-10-27,-1200,Bezhotovostní platba,,,308,2021098,2300,"1114-Městské kulturní středisko Vimperk, výlep plakátů",ods_kdu-csl_top09
 2021-10-27,-20056,Bezhotovostní platba,,,308,210100013,1114,"1114-CG Niké z. ú., pronájem lodi Cargo",ods_kdu-csl_top09

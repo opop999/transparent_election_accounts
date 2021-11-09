@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-08,-154292.65,Bezhotovostní platba,,"Česká pošta, s.p., roznáška",308,5190573225,1300,"Česká pošta, s.p., roznáška",spd
+2021-11-08,-21247.6,Bezhotovostní platba,,"Amor Company s.r.o., distribuce",308,21089,1500,"Amor Company s.r.o., distribuce",spd
+2021-11-08,165500,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-11-04,-2065,Bezhotovostní platba,,"MOSKVA s.r.o., pronájem salonku volební štáb ÚK",,2021091,1200,"MOSKVA s.r.o., pronájem salonku volební štáb ÚK",spd
 2021-11-04,-2000,Bezhotovostní platba,,"Iva Nováčková, pronájem salonku volební štáb ÚK",,172021,1200,"Iva Nováčková, pronájem salonku volební štáb ÚK",spd
 2021-10-29,3581.6,Bezhotovostní příjem,MOBILBOARD S.R.O.,vratka,308,212900014,0,MOBILBOARD S.R.O.,spd

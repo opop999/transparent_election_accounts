@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-09,200,Bezhotovostní příjem,Marsa Jaroslav,dar ReS 2021 - Marsa,,5796,2021,Marsa Jaroslav,svobodni
+2021-11-09,200,Bezhotovostní příjem,PETR VLCEK,DAR RES 2021 - PETR VLČEK,,3516,2021,PETR VLCEK,svobodni
+2021-11-08,200,Okamžitá příchozí platba,Kubát Tomáš,dar ReS 2021 - Jana Kubátová,0,9252,2021,Kubát Tomáš,svobodni
+2021-11-08,200,Okamžitá příchozí platba,Kubát Tomáš,dar ReS 2021-Tomáš Kubát,0,9289,2021,Kubát Tomáš,svobodni
+2021-11-08,200,Okamžitá příchozí platba,Ing.Tišer Přemysl,Dar ReS - Přemysl Tišer,558,9151,2021,Ing.Tišer Přemysl,svobodni
+2021-11-08,200,Platba převodem uvnitř banky,"Ptáček, Jan Jakub",dar ReS 2021 - Jan Jakub Ptáček,,4590,2021,dar ReS 2021 - Jan Jakub Ptáček,svobodni
+2021-11-08,300,Platba převodem uvnitř banky,"Ing. Lebduška, Josef",dar ReS 2021 - Josef Lebduška,,1530,2021,dar ReS 2021 - Josef Lebduška,svobodni
 2021-11-08,200,Bezhotovostní příjem,JIRI SVEHLA,DAR RES 2021 - JIŘÍ ŠVEHLA,,6070,2021,JIRI SVEHLA,svobodni
 2021-11-08,200,Bezhotovostní příjem,RICHARD VEJS,DAR RES2021 - RICHARD VEJS,,9018,2021,RICHARD VEJS,svobodni
 2021-11-08,200,Bezhotovostní příjem,BARTAS BERT,dar ReS 2021 - Bert Bartas,0,8474,2021,BARTAS BERT,svobodni

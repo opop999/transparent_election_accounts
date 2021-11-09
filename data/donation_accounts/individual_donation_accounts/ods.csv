@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-09,150,Bezhotovostní příjem,GRYGOVA ERNA,703647,225,3003210008,,GRYGOVA ERNA,ods
+2021-11-08,11500,Platba převodem uvnitř banky,"Dobrozemský, Václav","DAR, Václav Dobrozemský",,3000210036,,"DAR, Václav Dobrozemský",ods
+2021-11-08,12000,Okamžitá příchozí platba,MUDr.Heráková Hana,"DAR, Hana Herakova",0,3001210028,,MUDr.Heráková Hana,ods
+2021-11-08,-130000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
 2021-11-08,35000,Okamžitá příchozí platba,Petr Kouba,"DAR, Petr Kouba",308,3104210002,,Petr Kouba,ods
 2021-11-08,25000,Bezhotovostní příjem,CIZEK PAVEL,DAR  Pavel Cizek,,2903210001,,CIZEK PAVEL,ods
 2021-11-07,20000,Okamžitá příchozí platba,Lucie Prinzová,"DAR, Lucie Prinzova",0,2115210001,,Lucie Prinzová,ods

@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-09,100,Bezhotovostní příjem,SCHOVÁNKOVÁ KLÁRA,DAR,0,9003358,0,SCHOVÁNKOVÁ KLÁRA,zeleni
+2021-11-09,200,Bezhotovostní příjem,TRUSINA JAN,dar,,9003404,,TRUSINA JAN,zeleni
+2021-11-09,111,Platba převodem uvnitř banky,"Petrlíková Mašková, Lenka",dar - Zelení,,9003396,,dar - Zelení,zeleni
+2021-11-09,300,Bezhotovostní příjem,JANA JEBAVA,DAR SOCMED PRAHA,,9003763,,JANA JEBAVA,zeleni
 2021-11-08,1000,Bezhotovostní příjem,HUŇKA JAN,Dar pro ZOPraha3 100/KO0/SZ0,0,9002390,0,HUŇKA JAN,zeleni
 2021-11-08,-400,Okamžitá odchozí platba,,vrácení platby - nejasný účel platby (Strana zelených),,9003762,,Daniel Přikryl,zeleni
 2021-11-08,700,Bezhotovostní příjem,Kupková Marika,pro ZO Brno-střed,0,6021129,,Kupková Marika,zeleni
