@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-09,-7387.56,Karetní transakce,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 8.11.2021, částka  7387.56 CZK",,6981,,"Nákup: GOOGLE *SERVICES,  GORDON HOUSE., INTERNET, 0000000, IRL, dne 8.11.2021, částka  7387.56 CZK",trikolora
 2021-11-04,-889,Platba převodem uvnitř banky,,výroba reklamních desek - centrála,308,2029266,,výroba reklamních desek - centrála,trikolora
 2021-11-04,-5844.3,Bezhotovostní platba,,oboustranný tisk letáků A5 3000 ks - Pardubický kraj,308,21212142,,oboustranný tisk letáků A5 3000 ks - Pardubický kraj,trikolora
 2021-11-04,889,Bezhotovostní příjem,CLEARING SUSPENSE,Neexistující účet - číslo účtu 2700464139,6,2029266,,CLEARING SUSPENSE,trikolora

@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-10,3000,Příchozí úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,308,,0,CZK,kscm
+2021-11-10,1060,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar ZPK,,,33200,CZK,kscm
+2021-11-09,2550,Okamžitá úhrada,Ing.Šmíd Václav,41900013,800,"Šmíd Václav, Prostějov - finanční dar",,,37103,CZK,kscm
+2021-11-09,414,Příchozí úhrada,Ivan Maštálka,1047171012,3030,"Ivan Maštálka, Plzeň  - finanční dar",,3231904,33203,CZK,kscm
 2021-11-08,1400,Příchozí úhrada,JUHOVA JAROSLAVA,176167891,300,"""Miloslav Švantner,Plzeň - finančnídar""",,,33203,CZK,kscm
 2021-11-04,-6687500,Odchozí úhrada,KSČM,3918378,300,MF - dotace za 3.Q/21,0,9,,CZK,kscm
 2021-11-04,845,Příchozí úhrada,JAN PIKOUS,6701002203639940,6210,JAN PIKOUS - FINANCNI DAR,,,33101,CZK,kscm

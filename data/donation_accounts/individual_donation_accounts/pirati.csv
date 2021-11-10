@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-09,100,Bezhotovostní příjem,SZERYNSKÁ JANA,,,44013826,1,SZERYNSKÁ JANA,pirati
+2021-11-09,293.45,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1760057287,20211108,Global Payments s.r.,pirati
 2021-11-09,200,Platba převodem uvnitř banky,"Polesný, Ctibor",,,44004383,,,pirati
 2021-11-08,3000,Bezhotovostní příjem,Petr Beneš,Dar Pirátům - Praha 10,0,12422,110110,Petr Beneš,pirati
 2021-11-08,1000,Bezhotovostní příjem,Vojtěchovský Jarosla,,,44016375,1,Vojtěchovský Jarosla,pirati

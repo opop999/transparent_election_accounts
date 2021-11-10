@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-10,200,Bezhotovostní příjem,KÁBRT JAN,dar priznivce,0,5267,2022,KÁBRT JAN,svobodni
+2021-11-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
+2021-11-09,200,Okamžitá příchozí platba,Hubka Pavel,dar ReS 2021 - Pavel Hubka,0,9399,2021,Hubka Pavel,svobodni
+2021-11-09,200,Okamžitá příchozí platba,Tomáš Vršínský,dar ReS 2021 - Tomáš Vršínský,,9305,2021,Tomáš Vršínský,svobodni
+2021-11-09,-2500,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-09,200,Platba převodem uvnitř banky,"Ing. Tatýrková, Jana",dar ReS 2021 - Jana Tatýrková,,9418,2021,dar ReS 2021 - Jana Tatýrková,svobodni
+2021-11-09,200,Bezhotovostní příjem,ČIHÁK VRATISLAV,dar ReS  2021- Vratislav Čihák,0,7937,2021,ČIHÁK VRATISLAV,svobodni
 2021-11-09,200,Bezhotovostní příjem,Marsa Jaroslav,dar ReS 2021 - Marsa,,5796,2021,Marsa Jaroslav,svobodni
 2021-11-09,200,Bezhotovostní příjem,PETR VLCEK,DAR RES 2021 - PETR VLČEK,,3516,2021,PETR VLCEK,svobodni
 2021-11-08,200,Okamžitá příchozí platba,Kubát Tomáš,dar ReS 2021 - Jana Kubátová,0,9252,2021,Kubát Tomáš,svobodni

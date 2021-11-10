@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-09,-53518.48,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024210,,CZK,kscm
+2021-11-09,302.5,Příchozí úhrada,KOMUNISTIC.STR.CECH,277904192,300,OV KSČM TEPLICE,308,2100370,,CZK,kscm
+2021-11-09,-120,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - expedice Krajánek,0,20217033,,CZK,kscm
+2021-11-09,-302.5,Odchozí úhrada,"Služby města Oseka, s.r.o.",1063802339,800,volby PČR - výlep,0,2100370,,CZK,kscm
+2021-11-09,-557.08,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1603692106,,CZK,kscm
+2021-11-09,-607,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122397,,CZK,kscm
+2021-11-09,-770,Odchozí úhrada,"Dům kultury Šumperk, s.r.o.",5869900227,100,volby PČR - výlep,0,21007076,,CZK,kscm
+2021-11-09,-878.46,Odchozí úhrada,"Kroměřížské technické služby,",183748205,300,volby PČR - poskytnutí el.přípojky,0,20210176,,CZK,kscm
+2021-11-09,-1573,Odchozí úhrada,EURO NOVA & PARTNER`S spol. s,78854006,2700,volby PČR - reklama lavičky,0,211040,,CZK,kscm
+2021-11-09,-51909,Odchozí úhrada,Romana Šmachová,2601452001,2010,volby PČR - tisk letáku,0,20210078,,CZK,kscm
 2021-11-05,-4057889,Odchozí úhrada,KSČM,117831393,300,volby PČR - mzdové náklady,0,261,,CZK,kscm
 2021-11-05,605,Příchozí úhrada,KOMUNISTICKÁ STRANA,2238231,100,Prevod od OV KSCM Ceske Budejovice,0,33101,,CZK,kscm
 2021-11-05,-1114.17,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1656052106,,CZK,kscm
@@ -16,12 +26,12 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-11-03,20000,Příchozí úhrada,KOMUNISTICKÁ STRANA,3130601,100,,558,35205,,CZK,kscm
 2021-11-03,4000,Příchozí úhrada,OKRESNÍ VÝBOR KOMUNI,737221,100,převod od OV KSČM Rakovník,0,32112,,CZK,kscm
 2021-11-02,-30000,Odchozí úhrada,Miloš Skácel,194576218,300,volby PČR - vytvoření videí,0,20210128,,CZK,kscm
-2021-11-02,-216,Odchozí úhrada,Město Nová Bystřice,603137399,800,volby PČR - výlep,0,410298,,CZK,kscm
-2021-11-02,-575,Odchozí úhrada,Technické služby města Dvora K,108401594,600,volby PČR - výlep,0,20210538,,CZK,kscm
-2021-11-02,-2777.61,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576405,,CZK,kscm
-2021-11-02,-2795.1,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576404,,CZK,kscm
-2021-11-02,-5989.5,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5103819197,,CZK,kscm
 2021-11-02,-7260,Odchozí úhrada,BBN s.r.o.,211939317,300,volby PČR - inzerce,0,2100035,,CZK,kscm
+2021-11-02,-5989.5,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5103819197,,CZK,kscm
+2021-11-02,-2795.1,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576404,,CZK,kscm
+2021-11-02,-2777.61,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznáška,0,5190576405,,CZK,kscm
+2021-11-02,-575,Odchozí úhrada,Technické služby města Dvora K,108401594,600,volby PČR - výlep,0,20210538,,CZK,kscm
+2021-11-02,-216,Odchozí úhrada,Město Nová Bystřice,603137399,800,volby PČR - výlep,0,410298,,CZK,kscm
 2021-11-01,216,Příchozí úhrada,OKRESNÍ VÝBOR KSČM J,536251,100,,0,33103,,CZK,kscm
 2021-11-01,30000,Příchozí úhrada,KSCM,247488204,300,Na volby 2021,,32103,,CZK,kscm
 2021-11-01,5989.5,Příchozí úhrada,KSCM,298980856,300,,,,,CZK,kscm

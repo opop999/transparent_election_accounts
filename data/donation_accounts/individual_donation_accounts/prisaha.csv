@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-10,484,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-11-09,285.68,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-11-08,398.55,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
 2021-11-05,200,Bezhotovostní příjem,Roman Kasal,Dar hnuti ROMAN KASAL USTI NAD ORLICI,308,9,,Roman Kasal,prisaha
 2021-11-04,-20000,Platba převodem uvnitř banky,,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha

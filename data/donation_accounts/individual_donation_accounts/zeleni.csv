@@ -1,4 +1,22 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-10,600,Bezhotovostní příjem,Mgr.Heringová Hana,DAR 200 KČ ZO PRAHA 5 / 200 KČ KO PRAHA / 200 KČ SZ,0,9002577,,Mgr.Heringová Hana,zeleni
+2021-11-10,300,Bezhotovostní příjem,Mgr.Ducháčková Chotk,"DAR - 100,- ZO P6; 100,- kraj Praha; 100,- Z ČR",0,9002609,,Mgr.Ducháčková Chotk,zeleni
+2021-11-10,300,Bezhotovostní příjem,Mgr.Panaš Petr,dar ZO Litoměřice,0,9002698,,Mgr.Panaš Petr,zeleni
+2021-11-10,300,Bezhotovostní příjem,PhDr.Fialková Lenka,dar,0,9001714,0,PhDr.Fialková Lenka,zeleni
+2021-11-10,100,Bezhotovostní příjem,Pýcha Patrik,dar,0,9003512,,Pýcha Patrik,zeleni
+2021-11-10,300,Bezhotovostní příjem,Chválová Anna,DAR na pražského socmeda,0,1111146,,Chválová Anna,zeleni
+2021-11-10,500,Bezhotovostní příjem,Ing.Nesrstová Jitka,dar,0,9002596,,Ing.Nesrstová Jitka,zeleni
+2021-11-10,150,Bezhotovostní příjem,Pokorná Zuzana,Dar pro ZO Brno-stred,0,6021118,0,Pokorná Zuzana,zeleni
+2021-11-10,400,Bezhotovostní příjem,Kubesa Ondřej,DAR ZO OPAVA,0,,,Kubesa Ondřej,zeleni
+2021-11-10,300,Bezhotovostní příjem,Chovancová Karolína,Dar,0,9003489,,Chovancová Karolína,zeleni
+2021-11-10,100,Platba převodem uvnitř banky,"Vosecká Veselá, Blanka",dar,,1001025,,dar,zeleni
+2021-11-10,250,Platba převodem uvnitř banky,"Mgr. Chalupská, Anika","Dar. Ač zelená, poslala jsem do sněmovny Piráty a Pirátky. Držte se.",,,,"Dar. Ač zelená, poslala jsem do sněmovny Piráty a Pirátky. Držte se.",zeleni
+2021-11-09,6000,Okamžitá příchozí platba,CHMELOVÁ MARTINA,Dar pro Zelené Praha 3,308,9002955,,CHMELOVÁ MARTINA,zeleni
+2021-11-09,300,Okamžitá příchozí platba,Mgr.Brodnicki Hana,Dar 100 Kč ZO P7 + 100 Kč Praha + 100 Kč SZ,0,,,Mgr.Brodnicki Hana,zeleni
+2021-11-09,-65000,Platba převodem uvnitř banky,,převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
+2021-11-09,15625,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, 3Q2021 JHM darovací sml ouva Strana zelených",308,71339728,,TOP 09,zeleni
+2021-11-09,200,Bezhotovostní příjem,REBEKA VADASOVA,DAR PRO ZO PRAHA 3,,9002540,,REBEKA VADASOVA,zeleni
+2021-11-09,250,Bezhotovostní příjem,Michal Kabát,Dar,,9003427,,Michal Kabát,zeleni
 2021-11-09,100,Bezhotovostní příjem,SCHOVÁNKOVÁ KLÁRA,DAR,0,9003358,0,SCHOVÁNKOVÁ KLÁRA,zeleni
 2021-11-09,200,Bezhotovostní příjem,TRUSINA JAN,dar,,9003404,,TRUSINA JAN,zeleni
 2021-11-09,111,Platba převodem uvnitř banky,"Petrlíková Mašková, Lenka",dar - Zelení,,9003396,,dar - Zelení,zeleni

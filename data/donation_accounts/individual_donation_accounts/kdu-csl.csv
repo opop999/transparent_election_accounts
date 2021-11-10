@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-10,3000,Bezhotovostní příjem,Mgr.Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Mgr.Benešík Ondřej,kdu-csl
+2021-11-09,1000,Platba převodem uvnitř banky,"Ing. Protiva, Václav",dar Jihocesky KDU,,26091965,301,dar Jihocesky KDU,kdu-csl
+2021-11-09,69600,Bezhotovostní příjem,TALÍŘ FRANTIŠEK,,0,0,0,TALÍŘ FRANTIŠEK,kdu-csl
+2021-11-09,84558,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, 3Q2021 darovací smlouvaKDU-ČSL (zhmp)",308,71339728,,TOP 09,kdu-csl
 2021-11-09,600,Platba převodem uvnitř banky,"Brož, Marcel",Zvláštní členský příspěvek Marcel Brož,,9111976,851,Zvláštní členský příspěvek Marcel Brož,kdu-csl
 2021-11-08,20000,Okamžitá příchozí platba,Jitka Ivičičová,dar pro KDU-ČSL Brno-město,,24111980,709,Jitka Ivičičová,kdu-csl
 2021-11-08,1000,Bezhotovostní příjem,TUČKOVÁ HELENA,,308,29121972,651,TUČKOVÁ HELENA,kdu-csl
