@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-10,-12872.03,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznos,0,5115236911,,CZK,kscm
+2021-11-10,-842,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123824,,CZK,kscm
+2021-11-10,-1115,Odchozí úhrada,Kino Vesmír,414007843,300,volby PČR - výlep,0,21107,,CZK,kscm
+2021-11-10,-1207,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123825,,CZK,kscm
 2021-11-09,-53518.48,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024210,,CZK,kscm
 2021-11-09,302.5,Příchozí úhrada,KOMUNISTIC.STR.CECH,277904192,300,OV KSČM TEPLICE,308,2100370,,CZK,kscm
 2021-11-09,-120,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - expedice Krajánek,0,20217033,,CZK,kscm

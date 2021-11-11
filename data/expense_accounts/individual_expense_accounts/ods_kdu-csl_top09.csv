@@ -1,5 +1,25 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-11-10,3163,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2117024588,,VLTAVA LABE MEDIA,ods_kdu-csl_top09
+2021-11-10,-118,Bezhotovostní platba,,,378,220017,2200,"2200-Dana Kostínková , správní poplatky",ods_kdu-csl_top09
+2021-11-10,-1206.61,Bezhotovostní platba,,,308,242100416,2200,"2200-Město Kutní Hora, el. energie na akci",ods_kdu-csl_top09
+2021-11-10,-1211.48,Bezhotovostní platba,,,308,242100415,2200,"2200-Město Kutní Hora, el. energie na akci",ods_kdu-csl_top09
+2021-11-10,-15000,Bezhotovostní platba,,,308,20210032,2200,"2200-Filip Nekola , správa soc . sítě , videa, grafika",ods_kdu-csl_top09
+2021-11-10,-15000.37,Bezhotovostní platba,,,308,21151,2200,"2200-Ydeal s.r.o., on line kampaň Munzar",ods_kdu-csl_top09
+2021-11-10,-6000,Bezhotovostní platba,,,308,20214,2200,"2200-Tereza Tomanová, personální zajištění vol. akcí",ods_kdu-csl_top09
+2021-11-10,-5031.18,Bezhotovostní platba,,,308,121080,2200,"2200-KoPe PRODUKCE s.r.o., výroba bannerů",ods_kdu-csl_top09
+2021-11-10,-9075,Bezhotovostní platba,,,308,2121022752,2600,"2600-MAFRA a.s., inzerát v plus2",ods_kdu-csl_top09
+2021-11-10,-32670,Bezhotovostní platba,,,308,2121021601,2600,"2600-MAFRA a.s., bannery na webech iDnes",ods_kdu-csl_top09
+2021-11-10,-1952,Bezhotovostní platba,,,308,2100577,3100,"3100-Arcibiskupské zámecké víno, ochutnávky",ods_kdu-csl_top09
+2021-11-10,-9075,Bezhotovostní platba,,,378,4108001857,3100,"3100-CZECH NEWS CENTER a.s., tištěná inzerce",ods_kdu-csl_top09
+2021-11-10,-1835.45,Bezhotovostní platba,,,378,2021114,1114,"1114-Radim Jirout , reklama na FBC",ods_kdu-csl_top09
+2021-11-10,-6050.04,Bezhotovostní platba,,,378,2021113,1114,"1114-Zukalová Věra , reklama na FBC",ods_kdu-csl_top09
+2021-11-10,-4537.5,Bezhotovostní platba,,,308,2101050,3000,"1114-Eva Chytková , výlep plakátů",ods_kdu-csl_top09
+2021-11-10,-1612,Bezhotovostní platba,,,308,2100200028,1114,"1114-Kulturní centrum Duchcov, výlep plakátů",ods_kdu-csl_top09
+2021-11-10,-2520,Bezhotovostní platba,,,308,112021,1114,"1114-Kulturní a informační centrum , výlep plakátů",ods_kdu-csl_top09
+2021-11-10,-60.47,Platba převodem uvnitř banky,,"1114-Webglobe s.r.o., doména",308,21575025,,"1114-Webglobe s.r.o., doména",ods_kdu-csl_top09
+2021-11-10,-18556,Okamžitá odchozí platba,,,308,2121022042,2300,"2300-MAFRA a.s , inzerce v plus 2",ods_kdu-csl_top09
+2021-11-10,-1000,Okamžitá odchozí platba,,,308,292021,3000,"3100-Radka Švejnohová, správa FBC",ods_kdu-csl_top09
+2021-11-10,200000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
+2021-11-10,3163,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2117024588,,3400-VLTAVA LABE MEDIA,ods_kdu-csl_top09
 2021-11-08,-208.45,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., webhosting domény",308,5210822575,,"1114-Internet CZ a.s., webhosting domény",ods_kdu-csl_top09
 2021-11-08,-60.26,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210728371,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
 2021-11-08,-58.96,Platba převodem uvnitř banky,,"1114-Internet CZ a.s., registrace domény",308,5210830003,,"1114-Internet CZ a.s., registrace domény",ods_kdu-csl_top09
@@ -48,6 +68,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-03,-3163,Bezhotovostní platba,,,308,2117024588,3400,"3400-VLTAVA LABE MEDIA a.s., povolební inzerce",ods_kdu-csl_top09
 2021-11-03,-16200,Bezhotovostní platba,,,308,21103,3400,"3400-Filip Bláha, fotografické práce, videa",ods_kdu-csl_top09
 2021-11-03,-400,Okamžitá odchozí platba,,,0,15,3200,"3200- Zuzana Kupčíková , poplatek za zábor",ods_kdu-csl_top09
+2021-11-10,3163,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2117024588,,VLTAVA LABE MEDIA,ods_kdu-csl_top09
 2021-11-02,-6771.88,Okamžitá odchozí platba,,,308,79158182,2300,"2300-Václav Král , inzerce FBC, Král",ods_kdu-csl_top09
 2021-11-02,-200,Bezhotovostní platba,,,308,9010001368,2200,"2200-Město Kutná Hora , poplatek za zábor",ods_kdu-csl_top09
 2021-11-02,-2230,Bezhotovostní platba,,,0,9100000796,2200,"2200-Město Rakovník , poplatek za užívání veř. prostranství",ods_kdu-csl_top09

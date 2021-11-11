@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-10,64000,Okamžitá příchozí platba,Ing.Sobotka Jan,"DAR, Jan Sobotka,25.7. 1961, Vrchlabí",0,25071961,225070221,Ing.Sobotka Jan,stan
 2021-11-10,200000,Bezhotovostní příjem,LUTESTI s.r.o.,LUTESTI s.r.o.,308,2681536,,LUTESTI s.r.o.,stan
 2021-11-10,200000,Bezhotovostní příjem,"Accordion, a.s.",STAROSTOVÉ A NEZÁVISLÍ,308,26179776,210153021,"Accordion, a.s.",stan
 2021-11-08,80000,Bezhotovostní příjem,"MAT CORPORATION, A.S","DAR, MAT Corporation, a.s., Budejovicka 1667, Praha 4, IC 26209284",,26209284,207152721,"DAR - MAT CORPORATION, A.S",stan

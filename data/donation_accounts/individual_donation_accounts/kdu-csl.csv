@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-11,4000,Bezhotovostní příjem,SEITLOVÁ JITKA,DAR KDU - MANDÁT KRAJ,308,0,0,SEITLOVÁ JITKA,kdu-csl
+2021-11-10,15000,Okamžitá příchozí platba,Jan Novák,Dar KDU - Plzeňský kraj,,1,351,Jan Novák,kdu-csl
+2021-11-10,18000,Okamžitá příchozí platba,Marie Kselíková,,,835914,709,Marie Kselíková,kdu-csl
+2021-11-10,17000,Okamžitá příchozí platba,Plawny Marek,Marek Plawny-Havířov,138,28061969,851,Plawny Marek,kdu-csl
+2021-11-10,300,Bezhotovostní příjem,DROBÍLEK VLASTISLA,V.Drobílek-dar,,4071964,725,DROBÍLEK VLASTISLA,kdu-csl
 2021-11-10,3000,Bezhotovostní příjem,Mgr.Benešík Ondřej,Dar na organizaci KDU-ČSL ve Zlíně,0,801,0,Mgr.Benešík Ondřej,kdu-csl
 2021-11-09,1000,Platba převodem uvnitř banky,"Ing. Protiva, Václav",dar Jihocesky KDU,,26091965,301,dar Jihocesky KDU,kdu-csl
 2021-11-09,69600,Bezhotovostní příjem,TALÍŘ FRANTIŠEK,,0,0,0,TALÍŘ FRANTIŠEK,kdu-csl

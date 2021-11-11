@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-10,200,Okamžitá příchozí platba,VAVŘIČKA JAKUB,Jakub Vavřička,,9429,,VAVŘIČKA JAKUB,svobodni
+2021-11-10,-20130,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-10,200,Platba převodem uvnitř banky,"Ing. Kubíček, Jiří",dar ReS 2021 - Jiří Kubíček,,342,2021,dar ReS 2021 - Jiří Kubíček,svobodni
+2021-11-10,200,Okamžitá příchozí platba,ŠTOLOVÁ MARCELA,dar ReS 2021 - Marcela Štolová,,8451,2021,ŠTOLOVÁ MARCELA,svobodni
+2021-11-10,200,Bezhotovostní příjem,FORBELSKY DAVID,dar ReS 2021 - David Forbelsky,,2900,2021,FORBELSKY DAVID,svobodni
+2021-11-10,300,Platba převodem uvnitř banky,"Vacková, Pavla",dar ReS 2021 - Pavla Vacková,,9139,2021,dar ReS 2021 - Pavla Vacková,svobodni
 2021-11-10,200,Bezhotovostní příjem,KÁBRT JAN,dar priznivce,0,5267,2022,KÁBRT JAN,svobodni
 2021-11-10,500,Platba převodem uvnitř banky,"Mgr. Strachota, Jiří CSc.",Dar Svobodným Vysočina,,1728,,Dar Svobodným Vysočina,svobodni
 2021-11-09,200,Okamžitá příchozí platba,Hubka Pavel,dar ReS 2021 - Pavel Hubka,0,9399,2021,Hubka Pavel,svobodni
