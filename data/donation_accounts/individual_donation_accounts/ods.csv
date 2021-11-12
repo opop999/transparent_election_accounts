@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,5000,Bezhotovostní příjem,VOLTR MICHAL,"DAR, Michal Voltr",0,2602210002,0,VOLTR MICHAL,ods
+2021-11-11,10000,Bezhotovostní příjem,KARASOVÁ DRAHOMÍRA,"DAR, Drahomíra Karasová",0,2600210027,0,KARASOVÁ DRAHOMÍRA,ods
+2021-11-11,5000,Bezhotovostní příjem,Oswald Radek,"DAR, Radek Oswald",,2602210001,,Oswald Radek,ods
+2021-11-11,5000,Okamžitá příchozí platba,RADIM IVAN,"DAR, Radim Ivan",,3000210032,,RADIM IVAN,ods
 2021-11-09,56250,Bezhotovostní příjem,TOP 09,"TOP 09, Opletalova 1603/57, 110  00 Praha 1, 3Q2021 darovací smlouvaODS (man.Pavera)",308,71339728,,TOP 09,ods
 2021-11-09,19590,Okamžitá příchozí platba,Vašíček Richard,DAR Vašíček Richard,0,3201210046,,Vašíček Richard,ods
 2021-11-09,150,Bezhotovostní příjem,GRYGOVA ERNA,703647,225,3003210008,,GRYGOVA ERNA,ods

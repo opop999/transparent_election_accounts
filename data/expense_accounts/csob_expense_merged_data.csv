@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-11,-7139,Odchozí úhrada,Josef Lopata,640156329,800,volby PČR - inzerce,0,36821,,CZK,kscm
+2021-11-11,-1393,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124117,,CZK,kscm
+2021-11-11,-1688.43,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,,,CZK,kscm
+2021-11-11,-2396,Odchozí úhrada,"TRIMEN, spol. s r.o.",73849101,100,volby PČR - grafika,0,21158,,CZK,kscm
+2021-11-11,-4402,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122315,,CZK,kscm
 2021-11-10,-12872.03,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznos,0,5115236911,,CZK,kscm
 2021-11-10,-842,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123824,,CZK,kscm
 2021-11-10,-1115,Odchozí úhrada,Kino Vesmír,414007843,300,volby PČR - výlep,0,21107,,CZK,kscm

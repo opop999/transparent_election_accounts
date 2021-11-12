@@ -1,4 +1,29 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,100,Bezhotovostní příjem,MATEJKA ALES,Dar,,9003655,,MATEJKA ALES,zeleni
+2021-11-12,150,Bezhotovostní příjem,STREJCOVA ANNA,dar,,9003668,,STREJCOVA ANNA,zeleni
+2021-11-12,300,Bezhotovostní příjem,ZAHALKOVA LENKA,Dar - Lenka Zahalkova,,9003653,,ZAHALKOVA LENKA,zeleni
+2021-11-12,300,Bezhotovostní příjem,Krásný Ondřej,DAR na pražského socmeda,0,1111141,,Krásný Ondřej,zeleni
+2021-11-12,250,Bezhotovostní příjem,Mgr.Špácová Kateřina,dar,0,9003606,,Mgr.Špácová Kateřina,zeleni
+2021-11-12,600,Bezhotovostní příjem,MgA.Babjárová Anna,Dar,0,9003632,,MgA.Babjárová Anna,zeleni
+2021-11-12,200,Platba převodem uvnitř banky,"Hlavatá, Martina",dar,,9003495,,dar,zeleni
+2021-11-12,200,Platba převodem uvnitř banky,"Mgr. Harmáčková, Veronika Zuzana Ph.D.",dar,,9003616,,dar,zeleni
+2021-11-12,300,Platba převodem uvnitř banky,"Křížová, Sylvie",,,9003727,,,zeleni
+2021-11-12,100,Platba převodem uvnitř banky,"Bednařík, Pavel",dar SZ - Pavel Bednařík,,9002562,,dar SZ - Pavel Bednařík,zeleni
+2021-11-12,500,Platba převodem uvnitř banky,"Lukeš, Vladimír",dar,,9003577,,dar,zeleni
+2021-11-11,2000,Okamžitá příchozí platba,Hynek Horák,dar,,9003764,,Hynek Horák,zeleni
+2021-11-11,250,Bezhotovostní příjem,Kuk Michal,dar,,9003492,,Kuk Michal,zeleni
+2021-11-11,200,Bezhotovostní příjem,Šandová Růžena,dar SZ,,9002620,,Šandová Růžena,zeleni
+2021-11-11,1000,Bezhotovostní příjem,Pavla Lukešová,dar pro ZO SZ Brno-střed,0,9002379,,Pavla Lukešová,zeleni
+2021-11-11,250,Bezhotovostní příjem,Mgr. Anna Junková,DAR na pražského socmeda,0,,,Mgr. Anna Junková,zeleni
+2021-11-11,1000,Bezhotovostní příjem,JINDRICH FELCMAN,DAR - STRANA ZELENÝCH,,9001932,,JINDRICH FELCMAN,zeleni
+2021-11-11,100,Bezhotovostní příjem,PETRA CECHOVA,DAR,,9003504,,PETRA CECHOVA,zeleni
+2021-11-11,200,Bezhotovostní příjem,VLADIMIR KUSBACH,DAR NA PRAŽSKÉHO SOCMEDA,,1111142,,VLADIMIR KUSBACH,zeleni
+2021-11-11,250,Bezhotovostní příjem,Michal Zima,dar,,9003438,,Michal Zima,zeleni
+2021-11-11,500,Bezhotovostní příjem,Kristýna Vávrová,dar,,9003569,,Kristýna Vávrová,zeleni
+2021-11-11,50,Bezhotovostní příjem,Magdalena Schafferov,Dar,,9003551,,Magdalena Schafferov,zeleni
+2021-11-11,200,Bezhotovostní příjem,Dana Janatová,DAR,,8071055,,Dana Janatová,zeleni
+2021-11-11,200,Bezhotovostní příjem,Lucie Hradecká,DAR na pražského socmeda,,1111137,,Lucie Hradecká,zeleni
+2021-11-11,100,Bezhotovostní příjem,Matouš Jech,DAR pro pražského socmeda,,1111129,,Matouš Jech,zeleni
 2021-11-11,100,Bezhotovostní příjem,Helena Škrdlíková,"Dar. Jste skvělí, držte se",,9003442,,Helena Škrdlíková,zeleni
 2021-11-11,100,Bezhotovostní příjem,TŘEŠŇÁK MILAN,dar,,9003371,,TŘEŠŇÁK MILAN,zeleni
 2021-11-11,250,Bezhotovostní příjem,HORAK JAN,dar,,9003585,,HORAK JAN,zeleni

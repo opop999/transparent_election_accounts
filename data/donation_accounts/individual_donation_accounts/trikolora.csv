@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-11,-50000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-11-11,2000,Platba převodem uvnitř banky,"Ing. Lameš, Jiří",Dar pro Prahu,308,111111,,Dar pro Prahu,trikolora
+2021-11-11,2000,Bezhotovostní příjem,Rajchl Jindřich,Dar pro Prahu,,111111,,Rajchl Jindřich,trikolora
+2021-11-11,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
 2021-11-10,200,Bezhotovostní příjem,Urbanec Ladislav,DAR Ladislav Urbanec,0,,,Urbanec Ladislav,trikolora
 2021-11-09,-1,Okamžitá odchozí platba,,platební brána test,,,,platební brána test,trikolora
 2021-11-09,100,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,trikolora

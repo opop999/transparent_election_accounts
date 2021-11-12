@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-11,-1749.66,Bezhotovostní platba,,,308,12100145,1114,"1114-Centrum kultury Písek , výlep plakátů",ods_kdu-csl_top09
+2021-11-11,-400,Bezhotovostní platba,,,308,10045,1114,"1114-Obec Stará Paka, výlep plakátů",ods_kdu-csl_top09
+2021-11-11,-325,Bezhotovostní platba,,,308,121092,2800,"1114-Police nad Metují , výlep plakátů",ods_kdu-csl_top09
+2021-11-11,-1728,Bezhotovostní platba,,,308,9800000111,1114,"1114-Město Dačice, výlep plakátů",ods_kdu-csl_top09
 2021-11-10,-118,Bezhotovostní platba,,,378,220017,2200,"2200-Dana Kostínková , správní poplatky",ods_kdu-csl_top09
 2021-11-10,-1206.61,Bezhotovostní platba,,,308,242100416,2200,"2200-Město Kutní Hora, el. energie na akci",ods_kdu-csl_top09
 2021-11-10,-1211.48,Bezhotovostní platba,,,308,242100415,2200,"2200-Město Kutní Hora, el. energie na akci",ods_kdu-csl_top09
