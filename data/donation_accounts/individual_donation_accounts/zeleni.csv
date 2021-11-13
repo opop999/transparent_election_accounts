@@ -1,4 +1,24 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-13,200,Platba převodem uvnitř banky,"Stowasserová, Alena",dar,,9003636,,dar,zeleni
+2021-11-13,200,Platba převodem uvnitř banky,"Háková, Marie",dar,,9003666,,dar,zeleni
+2021-11-12,-300,Platba převodem uvnitř banky,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003727,,"Křížová, Sylvie",zeleni
+2021-11-12,-100,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,,,KRISTYNA CIPROVA,zeleni
+2021-11-12,-2000,Bezhotovostní platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003570,,Skorkovská Klára,zeleni
+2021-11-12,500,Bezhotovostní příjem,Jan Janoušek,DAR na pražského socmeda,0,1111138,,Jan Janoušek,zeleni
+2021-11-12,250,Bezhotovostní příjem,IRENA BURESOVA,DAR IRENA BUREŠOVÁ,,9002881,,IRENA BURESOVA,zeleni
+2021-11-12,600,Bezhotovostní příjem,JAKUB HELLER,DAR,,9003657,,JAKUB HELLER,zeleni
+2021-11-12,100,Bezhotovostní příjem,KRISTYNA CIPROVA,PŘEVOD PROSTŘEDKŮ,,,,KRISTYNA CIPROVA,zeleni
+2021-11-12,150,Bezhotovostní příjem,RADEK OCELÁK,DAR PRO SZ (CENTRÁLA),,9002621,,RADEK OCELÁK,zeleni
+2021-11-12,250,Bezhotovostní příjem,KARLA FEJFAROVA,DAR,,9003447,,KARLA FEJFAROVA,zeleni
+2021-11-12,200,Bezhotovostní příjem,HANA CIMBALAKOVA,DAR,,9003627,,HANA CIMBALAKOVA,zeleni
+2021-11-12,50,Bezhotovostní příjem,Marek Zeman,DAR_MAREK ZEMAN,,9003645,,Marek Zeman,zeleni
+2021-11-12,1000,Bezhotovostní příjem,Jan Dobrý,dar,,9003515,,Jan Dobrý,zeleni
+2021-11-12,250,Bezhotovostní příjem,CHMELA LUKÁŠ,dar,,9003508,,CHMELA LUKÁŠ,zeleni
+2021-11-12,100,Bezhotovostní příjem,Kateřina Lišková,dar,,9003497,,Kateřina Lišková,zeleni
+2021-11-12,500,Bezhotovostní příjem,Sabina Rosenbergová,dar,,9003514,,Sabina Rosenbergová,zeleni
+2021-11-12,200,Bezhotovostní příjem,Štěpán Vizi,Dar na pražského socmeda,,1111134,,Štěpán Vizi,zeleni
+2021-11-12,300,Bezhotovostní příjem,MACEK MICHAL,dar,,0,,MACEK MICHAL,zeleni
+2021-11-12,100,Bezhotovostní příjem,DRAHORAD VOJTECH,Vojta Drahorad pro P10 - dar,,1001002,,DRAHORAD VOJTECH,zeleni
 2021-11-12,100,Bezhotovostní příjem,MATEJKA ALES,Dar,,9003655,,MATEJKA ALES,zeleni
 2021-11-12,150,Bezhotovostní příjem,STREJCOVA ANNA,dar,,9003668,,STREJCOVA ANNA,zeleni
 2021-11-12,300,Bezhotovostní příjem,ZAHALKOVA LENKA,Dar - Lenka Zahalkova,,9003653,,ZAHALKOVA LENKA,zeleni

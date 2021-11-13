@@ -1,5 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-11-12,150000,Bezhotovostní příjem,Budějovická Alej s.r,"DAR, BUDEJOVICKA ALEJ S.R.O., 27440150, BUDEJOVICKA 1667/64 140 00",,27440150,196151621,Budějovická Alej s.r,stan
+2021-11-12,1000,Bezhotovostní příjem,Konečný Jan,"DAR, Jan Konečný, 24.6.1970, Písečná",,24061970,224095021,DAR - Konečný Jan,stan
+2021-11-12,150000,Bezhotovostní příjem,Budějovická Alej s.r,"DAR, BUDEJOVICKA ALEJ S.R.O., 27440150, BUDEJOVICKA 1667/64 140 00",,27440150,196151621,DAR - Budějovická Alej s.r,stan
 2021-11-10,64000,Okamžitá příchozí platba,Ing.Sobotka Jan,"DAR, Jan Sobotka,25.7. 1961, Vrchlabí",0,25071961,225070221,DAR - Ing.Sobotka Jan,stan
 2021-11-10,200000,Bezhotovostní příjem,LUTESTI s.r.o.,LUTESTI s.r.o.,308,2681536,,DAR - LUTESTI s.r.o.,stan
 2021-11-10,200000,Bezhotovostní příjem,"Accordion, a.s.",STAROSTOVÉ A NEZÁVISLÍ,308,26179776,210153021,"DAR - Accordion, a.s.",stan
@@ -7,6 +8,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-05,100000,Bezhotovostní příjem,Galerie Moritz a.s.,321210436 STAROSTOVE A NEZAVISLI,308,61246174,200152021,DAR - Galerie Moritz a.s.,stan
 2021-11-05,120000,Bezhotovostní příjem,"ZLATA BRANA, S.R.O.",421210330 STAROSTOVE A NEZAVISLI,308,29289076,203152321,"DAR - ZLATA BRANA, S.R.O.",stan
 2021-11-05,150000,Bezhotovostní příjem,"SPECTRUM STORES, A.S",121210556 STAROSTOVE A NEZAVISLI,308,26688271,195151521,"DAR - SPECTRUM STORES, A.S",stan
+2021-11-12,150000,Bezhotovostní příjem,Budějovická Alej s.r,"DAR, BUDEJOVICKA ALEJ S.R.O., 27440150, BUDEJOVICKA 1667/64 140 00",,27440150,196151621,Budějovická Alej s.r,stan
 2021-11-04,180000,Bezhotovostní příjem,DBK management a.s.,"DAR, DBK MANAGEMENT, 09783733, BUDEJOVICKA 1667/64 140 00 PRAHA 4",308,9783733,194151421,DAR - DBK management a.s.,stan
 2021-11-10,64000,Okamžitá příchozí platba,Ing.Sobotka Jan,"DAR, Jan Sobotka,25.7. 1961, Vrchlabí",0,25071961,225070221,Ing.Sobotka Jan,stan
 2021-11-10,200000,Bezhotovostní příjem,LUTESTI s.r.o.,LUTESTI s.r.o.,308,2681536,,LUTESTI s.r.o.,stan

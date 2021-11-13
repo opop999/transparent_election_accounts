@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,6680,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,"Převod částky za platbu nájmu kanceláře, která měla být placena z provozního účtu.",,,,"Převod částky za platbu nájmu kanceláře, která měla být placena z provozního účtu.",prisaha
+2021-11-12,-18,Okamžitá odchozí platba,,"Doplatek k platbě z 01.07.2021, VS 202179. Špatně zadaná částky při platbě",308,202179,,"Doplatek k platbě z 01.07.2021, VS 202179. Špatně zadaná částky při platbě",prisaha
 2021-11-04,20000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha
 2021-11-04,120000,Platba převodem uvnitř banky,PŘÍSAHA - občanské hnutí Roberta Šlachty,Převod na volební účet Hnutí,,,,Převod na volební účet Hnutí,prisaha
 2021-11-04,-500,Platba převodem uvnitř banky,,Špatně zaslaný dar z 01.11.2021 pan Milan Žigo.Převod z volebního účtu na zvláštní účet.,,,,Špatně zaslaný dar z 01.11.2021 pan Milan Žigo.Převod z volebního účtu na zvláštní účet.,prisaha

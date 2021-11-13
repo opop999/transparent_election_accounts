@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-13,666,Platba převodem uvnitř banky,"Karlík, Petr",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-11-13,2000,Platba převodem uvnitř banky,"Švadlenka, Martin",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
+2021-11-12,500,Okamžitá příchozí platba,Ing. Václav Okapa,DAR 44011659/1,,44011659,1,Ing. Václav Okapa,pirati
+2021-11-12,-260000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
+2021-11-12,-9476,Okamžitá odchozí platba,,"Vrácená platba Rengl - chybný účet, nejde o dar",,12112021,1211,"Vrácená platba Rengl - chybný účet, nejde o dar",pirati
+2021-11-12,200,Bezhotovostní příjem,Vladimír Zábranský,Pirátská strana,0,86909,1,Vladimír Zábranský,pirati
+2021-11-12,200,Bezhotovostní příjem,MARTIN KRYL,PIRÁTI - DAR,,44011156,1,MARTIN KRYL,pirati
+2021-11-12,30,Bezhotovostní příjem,JIRI DOUBRAVSKY,PODPORUJI: CENTRÁLU ČESKÉ PIRÁTSKÉSTRANY,,44013849,1,JIRI DOUBRAVSKY,pirati
+2021-11-12,200,Bezhotovostní příjem,Miloslava Hechtová,,,85333,,Miloslava Hechtová,pirati
+2021-11-12,1500,Bezhotovostní příjem,Jan Adamec,Dar na provoz MS Praha 12,,,110112,Jan Adamec,pirati
+2021-11-12,3000,Bezhotovostní příjem,Jana Komrsková,,1101,11396,,Jana Komrsková,pirati
+2021-11-12,500,Bezhotovostní příjem,FOJTOVÁ ELIŠKA,DAR 44016382/200024,0,44016382,200024,FOJTOVÁ ELIŠKA,pirati
+2021-11-12,2307.17,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1770047245,20211111,Global Payments s.r.,pirati
+2021-11-12,100,Bezhotovostní příjem,Tomáš Hort,,,82268,1,Tomáš Hort,pirati
+2021-11-12,50,Bezhotovostní příjem,MARSIK STEPAN,,,86502,,MARSIK STEPAN,pirati
 2021-11-12,250,Bezhotovostní příjem,MARIK MILOSLAV,,,44011413,2,MARIK MILOSLAV,pirati
 2021-11-12,200,Bezhotovostní příjem,Ptáček Jiří,Dar - příspěvek po volebním 2021-09kroužkování a propadu poslaneckýchmíst. Kapka pro udržení odborníků.Vážím si vaší veřejné práce.,0,44016317,1,Ptáček Jiří,pirati
 2021-11-12,750,Bezhotovostní příjem,BOUDA TOMÁŠ,PLATBA MS,0,86199,110708,BOUDA TOMÁŠ,pirati

@@ -1,4 +1,19 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,40,Bezhotovostní příjem,ARES CZ S.R.O.,přeplatek,308,21110505,0,ARES CZ S.R.O.,pirati_stan
+2021-11-12,9476,Bezhotovostní příjem,KRUPA ALEŠ,Rengl vrácená platba FO 3008/2021,0,12112021,1211,KRUPA ALEŠ,pirati_stan
+2021-11-12,-156816.81,Bezhotovostní platba,,"pp#20682 FO 5585/2021, khk:p, facebook-khk, ccn-plus-sro",,210227,42021,"pp#20682 FO 5585/2021, khk:p, facebook-khk, ccn-plus-sro",pirati_stan
+2021-11-12,-20875,Platba převodem uvnitř banky,,Mzdové náklady FO 4029/2021 Mihoučová,,,,Mzdové náklady FO 4029/2021 Mihoučová,pirati_stan
+2021-11-12,-600,Platba převodem uvnitř banky,,Mzdové náklady FO 4031/2021 CVŠ callcentrum Elefantová,,,,Mzdové náklady FO 4031/2021 CVŠ callcentrum Elefantová,pirati_stan
+2021-11-12,-10000,Platba převodem uvnitř banky,,Mzdové náklady FO 5920/2021 Pha Anna Čamská - koordinátorka dobrovolníků pro pražskou kontaktní kampaň - DPP 2021/9,,,,Mzdové náklady FO 5920/2021 Pha Anna Čamská - koordinátorka dobrovolníků pro pražskou kontaktní kampaň - DPP 2021/9,pirati_stan
+2021-11-12,-6000,Platba převodem uvnitř banky,,"Mzdové náklady FO 5922/2021 ZlK Vojtěch Vaník, Michal Štěpaník, Jiří Linka",,,,"Mzdové náklady FO 5922/2021 ZlK Vojtěch Vaník, Michal Štěpaník, Jiří Linka",pirati_stan
+2021-11-12,-11360,Platba převodem uvnitř banky,,Mzdové náklady FO 6003/2021 Pha správci kontaktního kontejneru Jaroš Karas Kolařík,,,,Mzdové náklady FO 6003/2021 Pha správci kontaktního kontejneru Jaroš Karas Kolařík,pirati_stan
+2021-11-12,-4960,Platba převodem uvnitř banky,,Mzdové náklady FO 6004/2021 Pha Logistika pražské kampaně Tomáš Pižl,,,,Mzdové náklady FO 6004/2021 Pha Logistika pražské kampaně Tomáš Pižl,pirati_stan
+2021-11-12,-20070,Platba převodem uvnitř banky,,Mzdové náklady FO 6005/2021 Pha Odborný konzultant v oblasti PR a mediální strategie Martina Vacková,,,,Mzdové náklady FO 6005/2021 Pha Odborný konzultant v oblasti PR a mediální strategie Martina Vacková,pirati_stan
+2021-11-12,-3500,Platba převodem uvnitř banky,,Mzdové náklady FO 6007/2021 krajský event MsK Beyer Kolena Kovařík Parchaňský Piechowicz Simkanič Syptáková,,,,Mzdové náklady FO 6007/2021 krajský event MsK Beyer Kolena Kovařík Parchaňský Piechowicz Simkanič Syptáková,pirati_stan
+2021-11-12,-50844,Platba převodem uvnitř banky,,Mzdové náklady FO 6011/2021 Vilém Egermaier řidič Švindlbusu,,,,Mzdové náklady FO 6011/2021 Vilém Egermaier řidič Švindlbusu,pirati_stan
+2021-11-12,-45000,Bezhotovostní platba,,"pp#21155 FO 6029/2021, kvk:p, mimoradna-odmena-koks, robinbeitl",,202110025,,"pp#21155 FO 6029/2021, kvk:p, mimoradna-odmena-koks, robinbeitl",pirati_stan
+2021-11-12,-12100,Bezhotovostní platba,,"pp#21152 FO 6026/2021, plk:p, medialni-spojka-prace-na-kampani-1021, libor-janicek",,472021,42021,"pp#21152 FO 6026/2021, plk:p, medialni-spojka-prace-na-kampani-1021, libor-janicek",pirati_stan
+2021-11-12,-4356,Bezhotovostní platba,,"pp#21150 FO 6024/2021, pha:p, zabor-kacerov, dopravni-podnik-hl-m-prahy-as",308,2121011238,42021,"pp#21150 FO 6024/2021, pha:p, zabor-kacerov, dopravni-podnik-hl-m-prahy-as",pirati_stan
 2021-11-11,-16111,Bezhotovostní platba,,"pp#21146 FO 6021/2021, ulk:p, proplaceni-volebni-koordinator-usk-202110, adamsenk",,20210008,42021,"pp#21146 FO 6021/2021, ulk:p, proplaceni-volebni-koordinator-usk-202110, adamsenk",pirati_stan
 2021-11-11,-400,Bezhotovostní platba,,"pp#21142 FO 6017/2021, ulk:p, mistni-poplatek-trojnozka-unl-alejka, statutarni-mesto-usti-nad-labem",558,2063000554,42021,"pp#21142 FO 6017/2021, ulk:p, mistni-poplatek-trojnozka-unl-alejka, statutarni-mesto-usti-nad-labem",pirati_stan
 2021-11-11,-3100,Bezhotovostní platba,,"pp#21140 FO 6015/2021, ulk:p, mistni-poplatek-trojnozka-unl-hlnadrazi, statutarni-mesto-usti-nad-labem",558,2063000554,42021,"pp#21140 FO 6015/2021, ulk:p, mistni-poplatek-trojnozka-unl-hlnadrazi, statutarni-mesto-usti-nad-labem",pirati_stan

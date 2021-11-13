@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,3570,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO STŘK na volební účet SZ - volby do PS PČR 2021,,36921,,Převod prostředků KO STŘK na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-11-08,-1800,Okamžitá odchozí platba,,FA 2021-03 - malování na obličej - akce pro děti,,202103,63,VYS - Marie Smolíková,zeleni
 2021-11-03,-2247.99,Okamžitá odchozí platba,,FB - reklama na sociálních sítích,,,500178,ZO P6 - Pavel Weber,zeleni
 2021-11-03,-21700,Bezhotovostní platba,,FA 2021-0047 - social media marketing a PR,,20210047,42,ÚLK - Lukáš Pokorný,zeleni

@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,-4200,Platba převodem uvnitř banky,,,68,20210068,2200,"2200-Jiří Vyskočil, grafická příprava tiskovin",ods_kdu-csl_top09
+2021-11-12,-32153.81,Bezhotovostní platba,,,378,4108001903,2200,"2200-CZECH NEWS CENTER a.s., inzerce",ods_kdu-csl_top09
+2021-11-12,-23595,Okamžitá odchozí platba,,,308,221507474,1114,"1114-Media Master s.r.o., reklama Instinkt",ods_kdu-csl_top09
 2021-11-11,-1749.66,Bezhotovostní platba,,,308,12100145,1114,"1114-Centrum kultury Písek , výlep plakátů",ods_kdu-csl_top09
 2021-11-11,-400,Bezhotovostní platba,,,308,10045,1114,"1114-Obec Stará Paka, výlep plakátů",ods_kdu-csl_top09
 2021-11-11,-325,Bezhotovostní platba,,,308,121092,2800,"1114-Police nad Metují , výlep plakátů",ods_kdu-csl_top09

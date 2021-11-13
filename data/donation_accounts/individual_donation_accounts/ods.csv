@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,15000,Bezhotovostní příjem,MÁDR ZDENĚK ING.,"DAR, Zdeněk Mádr",558,2401210002,,MÁDR ZDENĚK ING.,ods
+2021-11-12,4000,Okamžitá příchozí platba,Pimpara Jiří,"DAR, Jiří Pimpara",0,2600210030,,Pimpara Jiří,ods
 2021-11-12,5000,Bezhotovostní příjem,VOLTR MICHAL,"DAR, Michal Voltr",0,2602210002,0,VOLTR MICHAL,ods
 2021-11-11,10000,Bezhotovostní příjem,KARASOVÁ DRAHOMÍRA,"DAR, Drahomíra Karasová",0,2600210027,0,KARASOVÁ DRAHOMÍRA,ods
 2021-11-11,5000,Bezhotovostní příjem,Oswald Radek,"DAR, Radek Oswald",,2602210001,,Oswald Radek,ods

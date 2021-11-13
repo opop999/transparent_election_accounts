@@ -1,5 +1,6 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
 2021-11-12,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
+2021-11-12,2400,Příchozí úhrada,ČERNÝ RADEK,163139699,600,finanční dar,558,42021,,CZK,kscm
 2021-11-12,415,Příchozí úhrada,Borka Jaroslav,346060123,800,"Jaroslav Borka, Karlovy Vary - finanční dar",0,0,34102,CZK,kscm
 2021-11-11,30000,Okamžitá úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,9,,,CZK,kscm
 2021-11-10,5000,Okamžitá úhrada,VÁCLAV ŠTEKL,6701002201996750,6210,"VÁCLAV ŠTEKL, PLZEŇ - FINANČNÍ DAR",,760621,33203,CZK,kscm

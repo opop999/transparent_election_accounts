@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-12,2000,Vklad v hotovosti,Dar pro Prahu,,558,111111,,Dar pro Prahu,trikolora
+2021-11-12,2000,Platba převodem uvnitř banky,"Fencl, Petr",DAR PRO PRAHU,,111111,,DAR PRO PRAHU,trikolora
 2021-11-11,-50000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
 2021-11-11,2000,Platba převodem uvnitř banky,"Ing. Lameš, Jiří",Dar pro Prahu,308,111111,,Dar pro Prahu,trikolora
 2021-11-11,2000,Bezhotovostní příjem,Rajchl Jindřich,Dar pro Prahu,,111111,,Rajchl Jindřich,trikolora
