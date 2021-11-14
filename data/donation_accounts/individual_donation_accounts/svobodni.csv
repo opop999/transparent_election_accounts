@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-13,100,Okamžitá příchozí platba,Jakub Jizba,DAR PRIZNIVCE,,4782,,Jakub Jizba,svobodni
+2021-11-13,200,Okamžitá příchozí platba,Dominik Hrubý,dar ReS 2021,,9050,2021,Dominik Hrubý,svobodni
 2021-11-12,200,Platba převodem uvnitř banky,"RNDr. Payne, Jiří",dar ReS 2021 - Jiří Payne,,44,2021,dar ReS 2021 - Jiří Payne,svobodni
 2021-11-12,-3798,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-11-12,200,Bezhotovostní příjem,PAVEL PRUDIL ING.,dar ReS 2021 - Pavel Prudil,,7932,2021,PAVEL PRUDIL ING.,svobodni

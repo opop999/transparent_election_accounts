@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-14,100,Platba převodem uvnitř banky,"Švadlenka, Martin",Martin Švadlenka,4714,1025,110303,Martin Švadlenka,pirati
+2021-11-13,100,Okamžitá příchozí platba,Ing. Václav Okapa,Účelový dar MS Praha 9,,44011659,1,Ing. Václav Okapa,pirati
+2021-11-13,56250,Platba převodem uvnitř banky,Hnutí pro Prahu 11,Podíl na příspěvku na mandát 3.Q 2021,,13112021,,Podíl na příspěvku na mandát 3.Q 2021,pirati
 2021-11-13,666,Platba převodem uvnitř banky,"Karlík, Petr",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
 2021-11-13,2000,Platba převodem uvnitř banky,"Švadlenka, Martin",DAR NA PROVOZ PŘEROVSKÉHO PICE,,,110303,DAR NA PROVOZ PŘEROVSKÉHO PICE,pirati
 2021-11-12,500,Okamžitá příchozí platba,Ing. Václav Okapa,DAR 44011659/1,,44011659,1,Ing. Václav Okapa,pirati
