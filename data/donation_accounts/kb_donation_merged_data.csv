@@ -1,4 +1,5 @@
 date,amount,vs,ks,ss,note,entity_name,id
+2021-11-15,2400,13101972,0,0,PhDr.Rubešová Štěpán - Příchozí platba - Štěpánka Rubešová,ano_2011,
 2021-11-12,9500,20031943,0,0,Doc.Ing.Garlík Bohum - Příchozí platba - DAR za rok 2021,ano_2011,
 2021-11-12,0.01,25085,0,0,Vehovský Roman - Příchozí platba - Stydim se za premiera a prezidenta,ano_2011,
 2021-11-12,0.01,0,0,0,"Rybička, Aleš - Příchozí platba - Hovadu umanutému na cestu k čertu.",ano_2011,
@@ -228,7 +229,6 @@ date,amount,vs,ks,ss,note,entity_name,id
 2021-10-11,0.01,25085,0,0,"Jan Libosvár - Příchozí platba - Už je líp, nebo to budete ještě nějak vylepšovat?",ano_2011,
 2021-10-11,0.01,666,666,666,Michal Kubíček - Příchozí platba - Babiš krade a lže ! Andrej před soud !,ano_2011,
 2021-10-11,0.01,0,0,0,"Martin Váczy - Příchozí platba - Trvaly prikaz, TES SE NA VOLBY!! POTÁHNEŠ!!",ano_2011,
-2021-10-11,0.01,25085,0,0,Jan Libosvár - Příchozí platba - NE 2021,ano_2011,
 2021-11-10,-50000,670513,0,0,Odchozí platba,soukromnici,
 2021-11-09,100,8112021,0,0,Jitka Linková - Příchozí platba - S. Pandeyan,soukromnici,
 2021-11-05,5000,33112021,558,0,"RVS CHODOV, S.R.O. - Příchozí platba",soukromnici,
@@ -240,6 +240,7 @@ date,amount,vs,ks,ss,note,entity_name,id
 2021-10-15,-50000,670513,0,0,Odchozí platba,soukromnici,
 2021-10-12,700000,3081956,308,0,"VALENTA IVO - Příchozí platba - DAR, Ivo Valenta",soukromnici,
 2021-10-12,125000,180152021,6418,0,MF - Příchozí platba - 1403/18015/2021-53 Strana soukromníků České republiky,soukromnici,
+2021-10-11,0.01,25085,0,0,Jan Libosvár - Příchozí platba - NE 2021,ano_2011,
 2021-10-11,0.01,25085,0,0,Jan Libosvár - Příchozí platba - Největší strace co kdy byla ve Strakově akademii,ano_2011,
 2021-10-11,0.01,0,0,0,"Rybička, Aleš - Příchozí platba - Na cestu k čertu.",ano_2011,
 2021-10-11,150000,8041970,0,0,MUDr. Boris Šťastný - Příchozí platba - MUDr. Boris Šťastný - dar volby PS PČR 2021,ano_2011,
