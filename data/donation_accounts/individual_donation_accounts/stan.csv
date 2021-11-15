@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,200000,Bezhotovostní příjem,"REMA Systém, a.s.",,0,64510263,206152621,"REMA Systém, a.s.",stan
 2021-11-12,1000,Bezhotovostní příjem,Konečný Jan,"DAR, Jan Konečný, 24.6.1970, Písečná",,24061970,224095021,DAR - Konečný Jan,stan
 2021-11-12,150000,Bezhotovostní příjem,Budějovická Alej s.r,"DAR, BUDEJOVICKA ALEJ S.R.O., 27440150, BUDEJOVICKA 1667/64 140 00",,27440150,196151621,DAR - Budějovická Alej s.r,stan
 2021-11-10,64000,Okamžitá příchozí platba,Ing.Sobotka Jan,"DAR, Jan Sobotka,25.7. 1961, Vrchlabí",0,25071961,225070221,DAR - Ing.Sobotka Jan,stan

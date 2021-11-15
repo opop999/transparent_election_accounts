@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
+2021-11-15,850,Příchozí úhrada,NEVORAL MAREK,153867035,600,finanční dar,2018,760308,36100,CZK,kscm
+2021-11-15,286,Příchozí úhrada,ŠVESTKA JAN,160988337,600,Jan Švestka - dar,,34202,34202,CZK,kscm
+2021-11-14,1719,Příchozí úhrada,SEKERAKOVA YVETA,151653156,300,Yveta Sekeráková - finanční dar,,38106,,CZK,kscm
 2021-11-12,845,Příchozí úhrada,Schötz Richard,2705553093,800,Richard Schötz - finanční dar,0,,33101,CZK,kscm
 2021-11-12,2400,Příchozí úhrada,ČERNÝ RADEK,163139699,600,finanční dar,558,42021,,CZK,kscm
 2021-11-12,415,Příchozí úhrada,Borka Jaroslav,346060123,800,"Jaroslav Borka, Karlovy Vary - finanční dar",0,0,34102,CZK,kscm

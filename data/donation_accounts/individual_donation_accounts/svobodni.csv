@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,200,Bezhotovostní příjem,Blažková Veronika Mg,dar ReS 2021 - Veronika Blažková,,9131,2021,Blažková Veronika Mg,svobodni
 2021-11-13,100,Okamžitá příchozí platba,Jakub Jizba,DAR PRIZNIVCE,,4782,,Jakub Jizba,svobodni
 2021-11-13,200,Okamžitá příchozí platba,Dominik Hrubý,dar ReS 2021,,9050,2021,Dominik Hrubý,svobodni
 2021-11-12,200,Platba převodem uvnitř banky,"RNDr. Payne, Jiří",dar ReS 2021 - Jiří Payne,,44,2021,dar ReS 2021 - Jiří Payne,svobodni

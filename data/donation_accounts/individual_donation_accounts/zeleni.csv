@@ -1,4 +1,23 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,600,Bezhotovostní příjem,ŠVEC MARTIN,dar,,9002634,,ŠVEC MARTIN,zeleni
+2021-11-15,150,Bezhotovostní příjem,Veronika Michálková,dar,,9003711,,Veronika Michálková,zeleni
+2021-11-15,250,Bezhotovostní příjem,Petr Novák,dar,,9003593,,Petr Novák,zeleni
+2021-11-15,321,Platba převodem uvnitř banky,"Mgr. Kniha, Michal","Dar, pokud se na levici spojíte budu posílat víc",,,,"Dar, pokud se na levici spojíte budu posílat víc",zeleni
+2021-11-15,350,Platba převodem uvnitř banky,"Plassová, Hana",dar,,9003433,,dar,zeleni
+2021-11-15,200,Platba převodem uvnitř banky,"Vlach, Jan",DAR na pražského socmeda,,1111130,,DAR na pražského socmeda,zeleni
+2021-11-15,200,Platba převodem uvnitř banky,"Vlach, Jan",Dar pro Stranu Zelených - krajskou organizaci Praha,,9001910,,Dar pro Stranu Zelených - krajskou organizaci Praha,zeleni
+2021-11-15,250,Platba převodem uvnitř banky,"Zachariášová, Lucia",DAR,,7701190010,103314534,DAR,zeleni
+2021-11-15,25,Platba převodem uvnitř banky,"Vohralíková, Šárka",Pravidelný dar ve studentské výši. Díky za vaši práci!,,9003587,,Pravidelný dar ve studentské výši. Díky za vaši práci!,zeleni
+2021-11-15,150,Platba převodem uvnitř banky,"Šmída, Josef",dar,,9002641,,dar,zeleni
+2021-11-15,300,Bezhotovostní příjem,CHALOUPECKÝ ONDŘEJ,DAR,0,9003634,0,CHALOUPECKÝ ONDŘEJ,zeleni
+2021-11-15,200,Bezhotovostní příjem,VÁCLAVÍKOVÁ ALENA,DAR,0,9003665,0,VÁCLAVÍKOVÁ ALENA,zeleni
+2021-11-15,250,Bezhotovostní příjem,BLÁHOVEC BOHDAN,JEDNÁ SE O DAR,0,9003552,0,BLÁHOVEC BOHDAN,zeleni
+2021-11-15,100,Bezhotovostní příjem,KOČNAR TOMÁŠ,DAR PRO: ZELENÍ,0,9003647,0,KOČNAR TOMÁŠ,zeleni
+2021-11-15,250,Bezhotovostní příjem,PODHORSKÁ VERONIKA,DAR,0,9003531,0,PODHORSKÁ VERONIKA,zeleni
+2021-11-15,300,Bezhotovostní příjem,HRUŠKA MARTIN,DAR; 50 % P10; 50 % HK,0,9002646,0,HRUŠKA MARTIN,zeleni
+2021-11-15,150,Bezhotovostní příjem,TRUKSOVÁ BARBORA,DAR PRAVIDELNY TRUKSOVA,0,9002594,0,TRUKSOVÁ BARBORA,zeleni
+2021-11-15,100,Bezhotovostní příjem,ŠIMKOVÁ VENDULA,VENDULA PAVLICOVA_ MESICNI DAR,0,7701390018,100014580,ŠIMKOVÁ VENDULA,zeleni
+2021-11-15,1000,Bezhotovostní příjem,DAVIS MAGDALÉNA,DAR - ZELENI,0,0,0,DAVIS MAGDALÉNA,zeleni
 2021-11-13,400,Okamžitá příchozí platba,Natalia Vokrouhlecká,dar,,9003765,,Natalia Vokrouhlecká,zeleni
 2021-11-13,200,Platba převodem uvnitř banky,"Stowasserová, Alena",dar,,9003636,,dar,zeleni
 2021-11-13,200,Platba převodem uvnitř banky,"Háková, Marie",dar,,9003666,,dar,zeleni
