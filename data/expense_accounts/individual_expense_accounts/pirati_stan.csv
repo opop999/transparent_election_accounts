@@ -1,6 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,-19399.07,Platba převodem uvnitř banky,,"FO 6037/2021 Mzdové náklady Analytička, psavkyně - 2021 říjen 1/4",,,,"FO 6037/2021 Mzdové náklady Analytička, psavkyně - 2021 říjen 1/4",pirati_stan
+2021-11-15,-19672.86,Platba převodem uvnitř banky,,"FO 6036/2021 Mzdové náklady Analytik, psavec - 2021 říjen 1/4",,,,"FO 6036/2021 Mzdové náklady Analytik, psavec - 2021 říjen 1/4",pirati_stan
+2021-11-15,-27431.7,Platba převodem uvnitř banky,,FO 6039/2021 Mzdové náklady Social media manager - 2021 říjen 1/4,,,,FO 6039/2021 Mzdové náklady Social media manager - 2021 říjen 1/4,pirati_stan
+2021-11-15,-18062.25,Platba převodem uvnitř banky,,FO 6040/2021 Mzdové náklady Junior MO Aleš Vopat - 2021 10 1/4,,,,FO 6040/2021 Mzdové náklady Junior MO Aleš Vopat - 2021 10 1/4,pirati_stan
+2021-11-15,-200,Bezhotovostní platba,,"Vratka daru - Ladislav Hořák, nedostatečná identifikace dárce",,,,"Vratka daru - Ladislav Hořák, nedostatečná identifikace dárce",pirati_stan
 2021-11-12,40,Bezhotovostní příjem,ARES CZ S.R.O.,přeplatek,308,21110505,0,ARES CZ S.R.O.,pirati_stan
-2021-11-12,9476,Bezhotovostní příjem,KRUPA ALEŠ,Rengl vrácená platba FO 3008/2021,0,12112021,1211,KRUPA ALEŠ,pirati_stan
+2021-11-12,9476,Bezhotovostní příjem,KRUPA ALEŠ,Rengl vrácená platba FO 3008/2021,0,12112021,1211,Rengl vrácená platba FO 3008/2021,pirati_stan
 2021-11-12,-156816.81,Bezhotovostní platba,,"pp#20682 FO 5585/2021, khk:p, facebook-khk, ccn-plus-sro",,210227,42021,"pp#20682 FO 5585/2021, khk:p, facebook-khk, ccn-plus-sro",pirati_stan
 2021-11-12,-20875,Platba převodem uvnitř banky,,Mzdové náklady FO 4029/2021 Mihoučová,,,,Mzdové náklady FO 4029/2021 Mihoučová,pirati_stan
 2021-11-12,-600,Platba převodem uvnitř banky,,Mzdové náklady FO 4031/2021 CVŠ callcentrum Elefantová,,,,Mzdové náklady FO 4031/2021 CVŠ callcentrum Elefantová,pirati_stan
@@ -87,6 +92,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-08,-1574,Bezhotovostní platba,,"pp#20966 FO 5852/2021, stc:p, pronajem-ventilku-k-heliu, messer",,6962098244,42021,"pp#20966 FO 5852/2021, stc:p, pronajem-ventilku-k-heliu, messer",pirati_stan
 2021-11-08,-850,Bezhotovostní platba,,"pp#20933 FO 5822/2021, stc:p, zabor-lavicky-rakovnik, mestsky-urad-rakovnik",,9100001170,42021,"pp#20933 FO 5822/2021, stc:p, zabor-lavicky-rakovnik, mestsky-urad-rakovnik",pirati_stan
 2021-11-08,-6149.4,Bezhotovostní platba,,"pp#20868 FO 5757/2021, pak:p, festunk-obcerstveni-technicke-zabezpeceni, jana-rosenbergerova",,1,42021,"pp#20868 FO 5757/2021, pak:p, festunk-obcerstveni-technicke-zabezpeceni, jana-rosenbergerova",pirati_stan
+2021-11-12,9476,Bezhotovostní příjem,KRUPA ALEŠ,Rengl vrácená platba FO 3008/2021,0,12112021,1211,KRUPA ALEŠ,pirati_stan
 2021-11-05,-1779,Bezhotovostní platba,,"pp#21019 FO 5902/2021, kvk:p, vylep-rengl-vratme-zemi-budoucnost, rengl-sro",308,10123168,42021,"pp#21019 FO 5902/2021, kvk:p, vylep-rengl-vratme-zemi-budoucnost, rengl-sro",pirati_stan
 2021-11-05,-60500,Bezhotovostní platba,,"pp#20978 FO 5864/2021, ulk:p, bus-reklama, z-group-bus-as",308,5202180087,42021,"pp#20978 FO 5961/2021, ulk:p, bus-reklama, z-group-bus-as",pirati_stan
 2021-11-05,-1027.1,Bezhotovostní platba,,"pp#20930 FO 5819/2021, kvk:p, sankce-lampostery, statutarni-mesto-karlovy-vary",,9339092105,42021,"pp#20930 FO 5819/2021, kvk:p, sankce-lampostery, statutarni-mesto-karlovy-vary",pirati_stan

@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,-128260,Bezhotovostní platba,,marketingové služby za říjen 2021,308,21210038,,marketingové služby za říjen 2021,trikolora
+2021-11-15,-1000,Bezhotovostní platba,,Kladno - pronájem veřejného prostranství,,9060111252,,Kladno - pronájem veřejného prostranství,trikolora
+2021-11-15,100000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora
 2021-11-11,-2541,Bezhotovostní platba,,,30,20210142,,pronájem KD Aldis HK,trikolora
 2021-11-11,-12938.41,Bezhotovostní platba,,,308,210898,,tisk letáků HK,trikolora
 2021-11-11,-230,Bezhotovostní platba,,doplatek 230 Kč,308,21210025,,doplatek 230 Kč,trikolora

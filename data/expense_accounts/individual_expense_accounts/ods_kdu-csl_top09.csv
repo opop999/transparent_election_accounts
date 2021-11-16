@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,-11323.79,Bezhotovostní platba,,,378,2021115,,"1114-Martin Major , reklama na FBC",ods_kdu-csl_top09
+2021-11-15,-250,Bezhotovostní platba,,,308,2100200053,2300,"1114-Volyňská kultura , výlep plakátů",ods_kdu-csl_top09
 2021-11-12,-4200,Platba převodem uvnitř banky,,,68,20210068,2200,"2200-Jiří Vyskočil, grafická příprava tiskovin",ods_kdu-csl_top09
 2021-11-12,-32153.81,Bezhotovostní platba,,,378,4108001903,2200,"2200-CZECH NEWS CENTER a.s., inzerce",ods_kdu-csl_top09
 2021-11-12,-23595,Okamžitá odchozí platba,,,308,221507474,1114,"1114-Media Master s.r.o., reklama Instinkt",ods_kdu-csl_top09

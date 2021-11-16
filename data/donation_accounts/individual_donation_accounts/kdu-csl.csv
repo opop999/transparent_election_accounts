@@ -1,4 +1,17 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl
+2021-11-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
+2021-11-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,,0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl
+2021-11-15,20000,Bezhotovostní příjem,LEDER FILIP,,,16021974,709,LEDER FILIP,kdu-csl
+2021-11-15,100,Bezhotovostní příjem,Daniel Tavlaridis,,0,19910811,999,Daniel Tavlaridis,kdu-csl
+2021-11-15,2000,Bezhotovostní příjem,Filip Chvátal,Filip Chvátal pravidelný příspěvekKDU Brno,,27051986,709,Filip Chvátal,kdu-csl
+2021-11-15,150,Bezhotovostní příjem,Weber Tomáš,Zdraví Prostějov - Jana Weberová,999,19860304,,Weber Tomáš,kdu-csl
+2021-11-15,150,Bezhotovostní příjem,Weber Tomáš,Zdraví Prostějov - Tomáš Weber,999,19831015,,Weber Tomáš,kdu-csl
+2021-11-15,20000,Bezhotovostní příjem,Andree - advokátní a,dar,308,1940309,7109215311,Andree - advokátní a,kdu-csl
+2021-11-15,20000,Bezhotovostní příjem,JELINKOVA SARKA,Dar,308,24011968,801,JELINKOVA SARKA,kdu-csl
+2021-11-15,750,Bezhotovostní příjem,RUZICKA JAN,Jan Ruzicka,,1101984,725,RUZICKA JAN,kdu-csl
+2021-11-15,100,Bezhotovostní příjem,STUKAVCOVA DANUSE,Jiri Stukavec- dar,,9091981,725,STUKAVCOVA DANUSE,kdu-csl
+2021-11-15,100000,Bezhotovostní příjem,BARTOSEK JAN,Dar J.Bartosek,,0,,BARTOSEK JAN,kdu-csl
 2021-11-15,300,Bezhotovostní příjem,ŠENKYŘÍKOVÁ BARBOR,,,,,ŠENKYŘÍKOVÁ BARBOR,kdu-csl
 2021-11-15,500,Bezhotovostní příjem,CELÝ ROMAN,Roman Celý - dar,,11081974,725,CELÝ ROMAN,kdu-csl
 2021-11-11,100,Bezhotovostní příjem,IVO SLAVOTINEK,DAR,,19760131,999,IVO SLAVOTINEK,kdu-csl

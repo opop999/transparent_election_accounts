@@ -1,4 +1,67 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,300,Bezhotovostní příjem,MELOUN JAROSLAV,DAR,0,9003694,0,MELOUN JAROSLAV,zeleni
+2021-11-16,220,Bezhotovostní příjem,JEDLIČKOVÁ ZUZANA,DAR,0,9003697,0,JEDLIČKOVÁ ZUZANA,zeleni
+2021-11-16,250,Bezhotovostní příjem,DUDÁČKOVÁ TAŤÁNA,DAR PRO STRANU ZELENYCH,0,0,0,DUDÁČKOVÁ TAŤÁNA,zeleni
+2021-11-16,200,Bezhotovostní příjem,MÜLLEROVÁ TEREZA,ZELENÍ PRO ZO ČESKÉ BUDĚJOVICE,0,9002495,0,MÜLLEROVÁ TEREZA,zeleni
+2021-11-16,200,Bezhotovostní příjem,ŠTĚPÁNKOVÁ VĚRA,DAR - STRANA ZELENYCH,0,9003656,0,ŠTĚPÁNKOVÁ VĚRA,zeleni
+2021-11-16,250,Bezhotovostní příjem,JEDLICKA JINDRICH,"Dar, mesicne 100 hl.kanc. 150 JmKO",,9002975,,JEDLICKA JINDRICH,zeleni
+2021-11-16,250,Bezhotovostní příjem,Šimáčková Laurenčíko,,0,,,Šimáčková Laurenčíko,zeleni
+2021-11-16,150,Platba převodem uvnitř banky,"Mgr. Hándl, Jiří",dar,,9002761,,dar,zeleni
+2021-11-15,4000,Okamžitá příchozí platba,Michal Závodský,Dar pro ZO Brno-střed,,9003756,,Michal Závodský,zeleni
+2021-11-15,-321,Platba převodem uvnitř banky,,"vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,"Mgr. Kniha, Michal",zeleni
+2021-11-15,300,Bezhotovostní příjem,Ondřej Černoš,Dar ZO Praha 1,0,8801100198,106700000,Ondřej Černoš,zeleni
+2021-11-15,250,Bezhotovostní příjem,Ing. Tomáš Kraina,dar,0,9003510,,Ing. Tomáš Kraina,zeleni
+2021-11-15,400,Bezhotovostní příjem,Jiří Růžička,"Dar pro ZO Praha 12 (200,-) a KO Praha (200,-). JG Ruzicka",0,,,Jiří Růžička,zeleni
+2021-11-15,100,Bezhotovostní příjem,Mgr. Luboš Kožíšek,dar na zelenou politiku,0,9002605,,Mgr. Luboš Kožíšek,zeleni
+2021-11-15,50,Bezhotovostní příjem,Lucie Vančo,Dar,,9003529,,Lucie Vančo,zeleni
+2021-11-15,600,Bezhotovostní příjem,Jiří Suchý,dar,,9003717,,Jiří Suchý,zeleni
+2021-11-15,200,Bezhotovostní příjem,Radek Hradil,dar,,9003716,,Radek Hradil,zeleni
+2021-11-15,500,Bezhotovostní příjem,Petr Olekšák,Dar nazdar!,,9003534,,Petr Olekšák,zeleni
+2021-11-15,250,Bezhotovostní příjem,Veronika Kartáková,Dar,,9003540,,Veronika Kartáková,zeleni
+2021-11-15,2300,Bezhotovostní příjem,Adam Šenk,"Dar - 1500 ZO Praha 3, 500 Zeleni centrala, 300 KO Praha",,9002672,,Adam Šenk,zeleni
+2021-11-15,250,Bezhotovostní příjem,Jiří Hubáček,dar,,9003466,,Jiří Hubáček,zeleni
+2021-11-15,150,Bezhotovostní příjem,HANA MATOUSOVA,DAR,,,,HANA MATOUSOVA,zeleni
+2021-11-15,150,Bezhotovostní příjem,PAVEL ZALESKY,DAR,,9003591,,PAVEL ZALESKY,zeleni
+2021-11-15,500,Bezhotovostní příjem,JAN CHROMÝ,DAR PRO SZ (J. CHROMÝ),308,9002606,9002606,JAN CHROMÝ,zeleni
+2021-11-15,500,Bezhotovostní příjem,JAN CHROMÝ,DAR PRO ZO PRAHA 1 (JAN CHROMÝ),308,1101002,1101002,JAN CHROMÝ,zeleni
+2021-11-15,8000,Bezhotovostní příjem,KAROLINA ZAKOVSKA,DAR PRO KO SZ ÚSTECKÉHO KRAJE.,,,,KAROLINA ZAKOVSKA,zeleni
+2021-11-15,200,Bezhotovostní příjem,JIŘÍ ŠKODA,DAR ZO USTI NAD LABEM,,,,JIŘÍ ŠKODA,zeleni
+2021-11-15,200,Bezhotovostní příjem,JIŘÍ ŠKODA,PRAVIDELNÝ DAR PRO STRANU - JIŘÍ ŠKODA,,800604,,JIŘÍ ŠKODA,zeleni
+2021-11-15,200,Bezhotovostní příjem,JIŘÍ ŠKODA,DAR KO USTECKY KRAJ,,,,JIŘÍ ŠKODA,zeleni
+2021-11-15,100,Bezhotovostní příjem,Packa Martin,Dar pro Stranu zelených,0,9002925,,Packa Martin,zeleni
+2021-11-15,500,Bezhotovostní příjem,Ing.Nesrstová Jitka,dar - medialni poradce,0,9002892,,Ing.Nesrstová Jitka,zeleni
+2021-11-15,300,Bezhotovostní příjem,Jungwirth Matěj,dar,0,9003692,,Jungwirth Matěj,zeleni
+2021-11-15,1000,Bezhotovostní příjem,Mgr.Flamiková Jasna,Dar ZO SZ Brno-střed,0,0,0,Mgr.Flamiková Jasna,zeleni
+2021-11-15,300,Bezhotovostní příjem,Pelcl Petr,dar,0,9003725,,Pelcl Petr,zeleni
+2021-11-15,800,Bezhotovostní příjem,MUDr.Moudrá Wünschov,"Dar Pro ZO strany Zelenych Ústeko,400 kc anna wünschová a 400 kc irena moudrá wünschová",0,8801200015,100019350,MUDr.Moudrá Wünschov,zeleni
+2021-11-15,1000,Bezhotovostní příjem,Oplatek David,Dar ZO SZ Brno-střed,0,0,0,Oplatek David,zeleni
+2021-11-15,150,Bezhotovostní příjem,Ing.Sirotná Kamila,dar,0,9002637,,Ing.Sirotná Kamila,zeleni
+2021-11-15,200,Bezhotovostní příjem,Kocurek Josef,Dar,0,9002630,,Kocurek Josef,zeleni
+2021-11-15,400,Bezhotovostní příjem,Černý Daniel,DAR na pražského socmeda,0,1111143,,Černý Daniel,zeleni
+2021-11-15,300,Bezhotovostní příjem,Šorm Martin,dar,0,9003673,,Šorm Martin,zeleni
+2021-11-15,150,Bezhotovostní příjem,Černý Daniel,pravidelný dar,0,9002638,,Černý Daniel,zeleni
+2021-11-15,400,Bezhotovostní příjem,Opočenský Matěj,Dar,0,9003563,,Opočenský Matěj,zeleni
+2021-11-15,250,Bezhotovostní příjem,Novák Ondřej,Dar,0,9002639,,Novák Ondřej,zeleni
+2021-11-15,150,Bezhotovostní příjem,Stříteský Matěj,Dar,0,9003413,,Stříteský Matěj,zeleni
+2021-11-15,150,Bezhotovostní příjem,"Mgr.Ander Martin,Ph.",dar,0,9002580,,"Mgr.Ander Martin,Ph.",zeleni
+2021-11-15,120,Bezhotovostní příjem,Podhradská Narcisa,dar Podhradská,0,9002607,,Podhradská Narcisa,zeleni
+2021-11-15,300,Bezhotovostní příjem,Hauserová Eva,dar,0,9003650,,Hauserová Eva,zeleni
+2021-11-15,300,Bezhotovostní příjem,HRONOVA MARIE,pravidelny dar - Zeleni,,8891101416,,HRONOVA MARIE,zeleni
+2021-11-15,250,Bezhotovostní příjem,CENEK RADIM,dary 100 ZO Brno-stred/75 MO Brno/75 KO JMK,558,8801100119,,CENEK RADIM,zeleni
+2021-11-15,150,Bezhotovostní příjem,CERNY MATOUS,dar,,9001010,,CERNY MATOUS,zeleni
+2021-11-15,100,Bezhotovostní příjem,KROS MILAN,Dar,,9003556,,KROS MILAN,zeleni
+2021-11-15,1250,Bezhotovostní příjem,HNYK TOMAS,Dar 300 ZO Praha 8300 KO Praha100 Celostat500 Na prazskeho medialniho poradce,,8801101370,,HNYK TOMAS,zeleni
+2021-11-15,500,Bezhotovostní příjem,MAZURKIEWICZ MICHAL,Dar,,9002433,,MAZURKIEWICZ MICHAL,zeleni
+2021-11-15,500,Bezhotovostní příjem,RICHTA TOMAS,DAR na prazskeho socmeda,,1111144,,RICHTA TOMAS,zeleni
+2021-11-15,100,Bezhotovostní příjem,VECEREK BOHUMIR,dar pro ZO Novy Jicin,,0,,VECEREK BOHUMIR,zeleni
+2021-11-15,100,Bezhotovostní příjem,IVANA KONIGSMARKOVA,Zeleni - dar,308,0,,IVANA KONIGSMARKOVA,zeleni
+2021-11-15,100,Bezhotovostní příjem,PECEN FRANTISEK,Zeleni - DAR - Pecnovi  :-),,9002941,,PECEN FRANTISEK,zeleni
+2021-11-15,500,Bezhotovostní příjem,HANUS BITTNER MICHAL,DAR,,9002983,,HANUS BITTNER MICHAL,zeleni
+2021-11-15,1500,Bezhotovostní příjem,Mgr.Syrovátka Ondřej,"Dar Straně zelených (500 Kč ZO NovýJičín, 500 Kč KO MSK, 500 Kč SZ)",0,0,0,Mgr.Syrovátka Ondřej,zeleni
+2021-11-15,100,Bezhotovostní příjem,"Mgr.Ocelík Petr,Ph.D",dar Straně zelených,0,0,0,"Mgr.Ocelík Petr,Ph.D",zeleni
+2021-11-15,250,Bezhotovostní příjem,MgA.Honzírek Jiří,dar,0,,,MgA.Honzírek Jiří,zeleni
+2021-11-15,500,Bezhotovostní příjem,Ing.Setničková Novák,Dar,0,9003617,,Ing.Setničková Novák,zeleni
+2021-11-15,250,Bezhotovostní příjem,Mgr.Konrádová Tereza,Dar,0,9003579,,Mgr.Konrádová Tereza,zeleni
 2021-11-15,600,Bezhotovostní příjem,ŠVEC MARTIN,dar,,9002634,,ŠVEC MARTIN,zeleni
 2021-11-15,150,Bezhotovostní příjem,Veronika Michálková,dar,,9003711,,Veronika Michálková,zeleni
 2021-11-15,250,Bezhotovostní příjem,Petr Novák,dar,,9003593,,Petr Novák,zeleni

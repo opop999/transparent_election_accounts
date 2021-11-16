@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,2000,Okamžitá příchozí platba,MUDr.Zeman Marek,Dar pro Prahu,0,111111,,MUDr.Zeman Marek,trikolora
+2021-11-15,2000,Okamžitá příchozí platba,Jiří Vyhnalík,DAR PRO PRAHU,,111111,,Jiří Vyhnalík,trikolora
+2021-11-15,-100000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-11-15,62500,Bezhotovostní příjem,MF,1403/18015/2021-156  Trikolora Svobodní Soukromníci,6418,180152021,0,MF,trikolora
+2021-11-15,1000,Bezhotovostní příjem,VRÁNA PAVEL,"DAR, PAVEL VRÁNA",0,,,VRÁNA PAVEL,trikolora
+2021-11-15,100,Bezhotovostní příjem,Bladesová Hana,Dar Hana Bladesová,0,6000825,,Bladesová Hana,trikolora
+2021-11-15,100,Okamžitá příchozí platba,Hrubá Jitka,DAR příspěvek RP,0,2001382,,Hrubá Jitka,trikolora
+2021-11-15,2000,Platba převodem uvnitř banky,"Izák, Robert",DAR PRO PRAHU,,111111,,DAR PRO PRAHU,trikolora
 2021-11-15,100,Platba převodem uvnitř banky,"Škrabálek, Petr","DAR, Jitka Krátká",,,,"DAR, Jitka Krátká",trikolora
 2021-11-15,300,Bezhotovostní příjem,BĚLOHLÁVEK TOMÁŠ,"DAR, TOMÁŠ BĚLOHLÁVEK",0,0,0,BĚLOHLÁVEK TOMÁŠ,trikolora
 2021-11-13,2000,Okamžitá příchozí platba,Prof. RNDr.Ivo Budil,DAR PRO PRAHU - Budil,,111111,,Prof. RNDr.Ivo Budil,trikolora

@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-15,300,Bezhotovostní příjem,JAROMIR DANIEL,DAR HNUTÍ,,5607251595,,JAROMIR DANIEL,prisaha
+2021-11-15,400,Bezhotovostní příjem,Misař Radek,Dar Misařová Petra,0,705529,,Misař Radek,prisaha
+2021-11-15,500,Bezhotovostní příjem,GONDASOVA ALENA,DAR HNUTI,,0,,GONDASOVA ALENA,prisaha
+2021-11-15,500,Bezhotovostní příjem,"Haindl Miroslav,DiS.",Dar hnutí KV kraj,0,,,"Haindl Miroslav,DiS.",prisaha
 2021-11-15,750,Bezhotovostní příjem,ČEKANOVÁ LIBUŠE,"Dar 250,člen 500Kč",8,5456130823,,ČEKANOVÁ LIBUŠE,prisaha
 2021-11-12,-15000,Platba převodem uvnitř banky,,Převod na provozní účet hnutí PŘÍSAHA,,,,Převod na provozní účet hnutí PŘÍSAHA,prisaha
 2021-11-12,300,Bezhotovostní příjem,Rostislav Vícha,Dar spolku,,,,Rostislav Vícha,prisaha

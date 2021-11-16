@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,100,Bezhotovostní příjem,KREJCAROVA JITKA,,,947,,KREJCAROVA JITKA,spd
+2021-11-15,100,Bezhotovostní příjem,Osmančíková Andrea,"Andrea Osmančíková, Praha, dar",0,1487,0,Osmančíková Andrea,spd
+2021-11-15,200,Bezhotovostní příjem,OVCACEK JIRI,,,0,,OVCACEK JIRI,spd
 2021-11-15,300,Platba převodem uvnitř banky,"Wisiorek, Michal",Wisiorek Michal - Dar pro SPD,,14000,,Wisiorek Michal - Dar pro SPD,spd
 2021-11-14,300,Okamžitá příchozí platba,Němcová Irena,Členský příspěvek,0,1365,,Němcová Irena,spd
 2021-11-12,500,Bezhotovostní příjem,VACEK LEOS,Dar SPD pro Mladou Boleslav,,2545,,VACEK LEOS,spd

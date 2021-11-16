@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-15,-1271,Odchozí úhrada,"Agentura D-PRODUCTION, s.r.o",7107736001,5500,volby PČR - pronájem ploch,0,20210309,,CZK,kscm
+2021-11-15,1207,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,34103,,CZK,kscm
+2021-11-15,3900,Příchozí úhrada,Okresní výb.KSČM PCE,298682816,300,podíl za volby OV KSČM Pardubice,,35302,,CZK,kscm
+2021-11-15,-120,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - expedice Krajánek,0,20217032,,CZK,kscm
+2021-11-15,-120,Odchozí úhrada,PhDr. Miroslava Vohralíková,2319256023,800,volby PČR - expedice Krajánek,0,20217031,,CZK,kscm
+2021-11-15,-658,Odchozí úhrada,"Kultura Nový Bor, s.r.o.",785343230257,100,volby PČR - výlep,0,210035,,CZK,kscm
 2021-11-11,-7139,Odchozí úhrada,Josef Lopata,640156329,800,volby PČR - inzerce,0,36821,,CZK,kscm
 2021-11-11,-1393,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124117,,CZK,kscm
 2021-11-11,-1688.43,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,,,CZK,kscm
