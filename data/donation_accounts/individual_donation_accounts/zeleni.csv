@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,2300,Okamžitá příchozí platba,Šandová Růžena,dar,,9003766,,Šandová Růžena,zeleni
+2021-11-16,-250,Okamžitá odchozí platba,,"vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Šimáčková Laurenčíko,zeleni
+2021-11-16,200,Bezhotovostní příjem,ADAM HORKÝ,DAR ZELENÝM,,9002699,,ADAM HORKÝ,zeleni
+2021-11-16,300,Bezhotovostní příjem,MARTIN KLECKA,DAR,,,,MARTIN KLECKA,zeleni
+2021-11-16,500,Bezhotovostní příjem,DUŠAN OSLEJ,"DAR SZ - 200,- ZO ÚSTÍ NAD LABEM +300,- HK SZ",,,,DUŠAN OSLEJ,zeleni
+2021-11-16,1000,Bezhotovostní příjem,KAROLINA ŽÁKOVSKÁ,"DAR SZ - 500 KČ PRO ZO ÚSTÍ NAD LABEM, 500 KČ PRO CELOU STRANU",,,,KAROLINA ŽÁKOVSKÁ,zeleni
+2021-11-16,300,Bezhotovostní příjem,František Vodsloň,dar,,9003663,,František Vodsloň,zeleni
+2021-11-16,200,Bezhotovostní příjem,Petra Zikmundová,Pravidelný dar,,9003691,,Petra Zikmundová,zeleni
+2021-11-16,300,Bezhotovostní příjem,Zuzana Josková,Dar,,,,Zuzana Josková,zeleni
+2021-11-16,500,Bezhotovostní příjem,Milan Vachovec,"Dar - Milan Vachovec,Smetanova 372,252 25 Jinočany",,9002648,,Milan Vachovec,zeleni
 2021-11-16,300,Bezhotovostní příjem,MELOUN JAROSLAV,DAR,0,9003694,0,MELOUN JAROSLAV,zeleni
 2021-11-16,220,Bezhotovostní příjem,JEDLIČKOVÁ ZUZANA,DAR,0,9003697,0,JEDLIČKOVÁ ZUZANA,zeleni
 2021-11-16,250,Bezhotovostní příjem,DUDÁČKOVÁ TAŤÁNA,DAR PRO STRANU ZELENYCH,0,0,0,DUDÁČKOVÁ TAŤÁNA,zeleni

@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-16,2527,Příchozí úhrada,KUBEŠ PETR,435069260217,100,Petr Kubeš finanční dar,0,,,CZK,kscm
 2021-11-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
 2021-11-15,850,Příchozí úhrada,NEVORAL MAREK,153867035,600,finanční dar,2018,760308,36100,CZK,kscm
 2021-11-15,286,Příchozí úhrada,ŠVESTKA JAN,160988337,600,Jan Švestka - dar,,34202,34202,CZK,kscm

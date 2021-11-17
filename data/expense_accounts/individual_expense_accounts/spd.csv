@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,-1024.96,Karetní transakce,,"Nákup: SWITCHER STUDIO,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.11.2021, částka  45.00 USD",,3344,,"Nákup: SWITCHER STUDIO,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.11.2021, částka  45.00 USD",spd
+2021-11-16,1215.27,Karetní transakce,,"Kredit: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1215.27 CZK",,3344,,"Kredit: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1215.27 CZK",spd
+2021-11-16,1206.5,Karetní transakce,,"Kredit: FACEBK VBXG26PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1206.50 CZK",,3344,,"Kredit: FACEBK VBXG26PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1206.50 CZK",spd
 2021-11-08,-154292.65,Bezhotovostní platba,,"Česká pošta, s.p., roznáška",308,5190573225,1300,"Česká pošta, s.p., roznáška",spd
 2021-11-08,-21247.6,Bezhotovostní platba,,"Amor Company s.r.o., distribuce",308,21089,1500,"Amor Company s.r.o., distribuce",spd
 2021-11-08,165500,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd

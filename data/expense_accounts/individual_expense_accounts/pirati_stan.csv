@@ -1,10 +1,18 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,1768.69,Karetní transakce,,"Kredit: FACEBK 9NEUY9TWE2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1768.69 CZK",,6835,,"Kredit: FACEBK 9NEUY9TWE2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1768.69 CZK",pirati_stan
+2021-11-16,1880.94,Karetní transakce,,"Kredit: FACEBK ZQLRE93SG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1880.94 CZK",,6835,,"Kredit: FACEBK ZQLRE93SG2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1880.94 CZK",pirati_stan
+2021-11-16,-20000,Bezhotovostní platba,,"pp#21209 FO 6075/2021, jhc:p, vypomoc-volebnimu-manazerovi, michal-novak-stan",,2021011,42021,"pp#21209 FO 6075/2021, jhc:p, vypomoc-volebnimu-manazerovi, michal-novak-stan",pirati_stan
+2021-11-16,-133626,Bezhotovostní platba,,"pp#21190 FO 6063/2021, zlk:p, zajisteni-reklamnich-panelu-102021, reko-media-sro",308,2100447,42021,"pp#21190 FO 6063/2021, zlk:p, zajisteni-reklamnich-panelu-102021, reko-media-sro",pirati_stan
+2021-11-16,-477.95,Bezhotovostní platba,,"pp#21059 FO 5940/2021, jhm:p, doprava-odmeny, toptrans-eu-as",,9911031582,42021,"pp#21059 FO 5940/2021, jhm:p, doprava-odmeny, toptrans-eu-as",pirati_stan
+2021-11-16,-18150,Bezhotovostní platba,,"pp#20823 FO 5713/2021, cen:vv, ondrej-klimes-tvorba-webu-sprava-facebooku-snp, ondrej-klimes",,20210020,,"pp#20823 FO 5713/2021, cen:vv, ondrej-klimes-tvorba-webu-sprava-facebooku-snp, ondrej-klimes",pirati_stan
+2021-11-16,1275.96,Karetní transakce,,"Kredit: FACEBK 9U8FB8PVF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1275.96 CZK",,8267,,"Kredit: FACEBK 9U8FB8PVF2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1275.96 CZK",pirati_stan
+2021-11-16,1173.7,Karetní transakce,,"Kredit: FACEBK F3S2B8XXQ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1173.70 CZK",,9967,,"Kredit: FACEBK F3S2B8XXQ2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1173.70 CZK",pirati_stan
 2021-11-15,-19399.07,Platba převodem uvnitř banky,,"FO 6037/2021 Mzdové náklady Analytička, psavkyně - 2021 říjen 1/4",,,,"FO 6037/2021 Mzdové náklady Analytička, psavkyně - 2021 říjen 1/4",pirati_stan
 2021-11-15,-19672.86,Platba převodem uvnitř banky,,"FO 6036/2021 Mzdové náklady Analytik, psavec - 2021 říjen 1/4",,,,"FO 6036/2021 Mzdové náklady Analytik, psavec - 2021 říjen 1/4",pirati_stan
 2021-11-15,-27431.7,Platba převodem uvnitř banky,,FO 6039/2021 Mzdové náklady Social media manager - 2021 říjen 1/4,,,,FO 6039/2021 Mzdové náklady Social media manager - 2021 říjen 1/4,pirati_stan
 2021-11-15,-18062.25,Platba převodem uvnitř banky,,FO 6040/2021 Mzdové náklady Junior MO Aleš Vopat - 2021 10 1/4,,,,FO 6040/2021 Mzdové náklady Junior MO Aleš Vopat - 2021 10 1/4,pirati_stan
 2021-11-15,-200,Bezhotovostní platba,,"Vratka daru - Ladislav Hořák, nedostatečná identifikace dárce",,,,"Vratka daru - Ladislav Hořák, nedostatečná identifikace dárce",pirati_stan
-2021-11-12,40,Bezhotovostní příjem,ARES CZ S.R.O.,přeplatek,308,21110505,0,ARES CZ S.R.O.,pirati_stan
+2021-11-12,40,Bezhotovostní příjem,ARES CZ S.R.O.,přeplatek,308,21110505,0,ARES CZ S.R.O. přeplatek k FO 4932/2021,pirati_stan
 2021-11-12,9476,Bezhotovostní příjem,KRUPA ALEŠ,Rengl vrácená platba FO 3008/2021,0,12112021,1211,Rengl vrácená platba FO 3008/2021,pirati_stan
 2021-11-12,-156816.81,Bezhotovostní platba,,"pp#20682 FO 5585/2021, khk:p, facebook-khk, ccn-plus-sro",,210227,42021,"pp#20682 FO 5585/2021, khk:p, facebook-khk, ccn-plus-sro",pirati_stan
 2021-11-12,-20875,Platba převodem uvnitř banky,,Mzdové náklady FO 4029/2021 Mihoučová,,,,Mzdové náklady FO 4029/2021 Mihoučová,pirati_stan
@@ -76,6 +84,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-09,-33000,Bezhotovostní platba,,"pp#21069 FO 5950/2021, khk:p, produkce-kontaktni-kampane-hrad-a-tour, mgr-svitlana-sazeckova",,34112021,42021,"pp#21069 FO 5950/2021, khk:p, produkce-kontaktni-kampane-hrad-a-tour, mgr-svitlana-sazeckova",pirati_stan
 2021-11-09,-35000,Platba převodem uvnitř banky,,"pp#21066 FO 5947/2021, lbk:p, volebni-manager-rijen-2021, petr-jenik",,20218,42021,"pp#21066 FO 5947/2021, lbk:p, volebni-manager-rijen-2021, petr-jenik",pirati_stan
 2021-11-09,-280,Bezhotovostní platba,,"pp#21009 FO 5892/2021, khk:p, pronajem-znacek-jaromer, technicke-sluzby-mesta-jaromere",,2021165,42021,"pp#21009 FO 5892/2021, khk:p, pronajem-znacek-jaromer, technicke-sluzby-mesta-jaromere",pirati_stan
+2021-11-12,40,Bezhotovostní příjem,ARES CZ S.R.O.,přeplatek,308,21110505,0,ARES CZ S.R.O.,pirati_stan
 2021-11-08,117384,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - převod prostředků na volební účet,,,,STAN - převod prostředků na volební účet,pirati_stan
 2021-11-08,2776750,Platba převodem uvnitř banky,Česká pirátská strana,Převod na účet 2601909155 PIRÁTI doplnění dle rozhodného poměru,,,,Převod na účet 2601909155 PIRÁTI doplnění dle rozhodného poměru,pirati_stan
 2021-11-08,-35000,Platba převodem uvnitř banky,,"pp#21065 FO 5946/2021, lbk:p, volebni-manager-zari-2021, petr-jenik",,20217,42021,"pp#21065 FO 5946/2021, lbk:p, volebni-manager-zari-2021, petr-jenik",pirati_stan

@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-17,3000,Okamžitá příchozí platba,Ing.Kudláčková Micha,Michaela Kudláčková - sponzorský dar,0,250358,301,Ing.Kudláčková Micha,kdu-csl
+2021-11-16,21000,Bezhotovostní příjem,"SVĚTNIČKA MAREK, DIS",Pro Havířov,0,17121969,851,"SVĚTNIČKA MAREK, DIS",kdu-csl
 2021-11-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl
 2021-11-16,100,Bezhotovostní příjem,ŘEZNÍČEK JAROSLAV,JAROSLAV ŘEZNÍČEK - DAR,0,11051982,725,ŘEZNÍČEK JAROSLAV,kdu-csl
 2021-11-16,3200,Bezhotovostní příjem,MUDr.Kaňkovský Vít,,0,5021970,651,MUDr.Kaňkovský Vít,kdu-csl

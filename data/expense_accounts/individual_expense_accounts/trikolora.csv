@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,-1572.88,Bezhotovostní platba,,spotřeba el. energie při předvolební akci,308,2021201540,,spotřeba el. energie při předvolební akci JM,trikolora
+2021-11-16,2286.3,Karetní transakce,,"Kredit: FACEBK UHY2N732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2286.30 CZK",,6981,,"Kredit: FACEBK UHY2N732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2286.30 CZK",trikolora
 2021-11-15,-128260,Bezhotovostní platba,,marketingové služby za říjen 2021,308,21210038,,marketingové služby za říjen 2021,trikolora
 2021-11-15,-1000,Bezhotovostní platba,,Kladno - pronájem veřejného prostranství,,9060111252,,Kladno - pronájem veřejného prostranství,trikolora
 2021-11-15,100000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora

@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,100,Okamžitá příchozí platba,Vašková Šárka,dar priznivce,,9188,,Vašková Šárka,svobodni
 2021-11-16,200,Okamžitá příchozí platba,Plzák Martin,dar priznivce,0,9433,,Plzák Martin,svobodni
 2021-11-15,200,Bezhotovostní příjem,NĚMEČEK FRANTIŠEK,dar ReS 2021 - František Němeček,0,2358,2021,NĚMEČEK FRANTIŠEK,svobodni
 2021-11-15,200,Bezhotovostní příjem,Blažková Veronika Mg,dar ReS 2021 - Veronika Blažková,,9131,2021,Blažková Veronika Mg,svobodni

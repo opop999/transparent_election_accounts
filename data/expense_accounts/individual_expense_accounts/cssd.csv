@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,1127.03,Karetní transakce,,"Kredit: FACEBK MECWL8XKW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1127.03 CZK",,5794,,"Kredit: FACEBK MECWL8XKW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1127.03 CZK",cssd
+2021-11-16,5465.12,Karetní transakce,,"Kredit: FACEBK 2CGZM7KLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  5465.12 CZK",,5794,,"Kredit: FACEBK 2CGZM7KLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  5465.12 CZK",cssd
+2021-11-16,2513.26,Karetní transakce,,"Kredit: FACEBK GPGKM7KLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2513.26 CZK",,5794,,"Kredit: FACEBK GPGKM7KLW2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2513.26 CZK",cssd
+2021-11-16,1449.91,Karetní transakce,,"Kredit: FACEBK CDGRS5FP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1449.91 CZK",,1861,,"Kredit: FACEBK CDGRS5FP92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1449.91 CZK",cssd
+2021-11-16,2607.67,Karetní transakce,,"Kredit: FACEBK AQRHD57Q92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2607.67 CZK",,1861,,"Kredit: FACEBK AQRHD57Q92,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2607.67 CZK",cssd
 2021-11-12,-26738,Okamžitá odchozí platba,,ČSSD,308,5000424,,"Florea Holland s.r.o., růže, Středočeský kraj",cssd
 2021-11-12,30000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,převod z KP Středočeský kraj na volby PS PČR,,,,převod z KP Středočeský kraj na volby PS PČR,cssd
 2021-11-02,-504,Bezhotovostní platba,,ČSSD,308,9121002080,,"Město Jindřichův Hradec, výlep plakátů, Jihočeský kraj",cssd

@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-17,300,Platba převodem uvnitř banky,"Petroš, Jakub",,,82717,110404,,pirati
+2021-11-16,3000,Okamžitá příchozí platba,RNDr.Karousová Olga,,0,44015589,1,RNDr.Karousová Olga,pirati
+2021-11-16,100,Bezhotovostní příjem,IRENA MARKOVÁ,POMOC PIRÁTSKÉ STRANĚ,,44005404,1,IRENA MARKOVÁ,pirati
+2021-11-16,500,Bezhotovostní příjem,PETR KOPEČNÝ,ÚČELOVÝ DAR PRO ZASTUPITELSKÉ KLUBY V OSTRAVĚ,,9001808,140401,PETR KOPEČNÝ,pirati
+2021-11-16,333,Bezhotovostní příjem,BLANKA LEDNICKA,DAR PIRÁTI VYSOČINA,,,110700,BLANKA LEDNICKA,pirati
+2021-11-16,300,Bezhotovostní příjem,FILIP VANKO,PŘEVOD PROSTŘEDKŮ,,9001768,,FILIP VANKO,pirati
+2021-11-16,120,Bezhotovostní příjem,JAROSLAV LAINZ,"PŘÍSPĚVEK MS ČESKOTŘEBOVSKO, JAROSLAV LAINZ,",4714,13325,110804,JAROSLAV LAINZ,pirati
+2021-11-16,200,Bezhotovostní příjem,MARTIN LAŽNOVSKÝ,"DAR, MARTIN LAZNOVSKY, UVOZ 25, BRNO, 6.3.1980",,83418,4,MARTIN LAŽNOVSKÝ,pirati
+2021-11-16,500,Bezhotovostní příjem,Martin Vlach,,,44014198,1,Martin Vlach,pirati
+2021-11-16,200,Bezhotovostní příjem,Markéta Lánská,Podpora - M. Lánská,,44016338,1,Markéta Lánská,pirati
+2021-11-16,250,Bezhotovostní příjem,Lauritzenová Klára,Lauritzenová Klára,,44007593,2,Lauritzenová Klára,pirati
 2021-11-16,250,Bezhotovostní příjem,TROJANOVÁ MARCELA,podpora,,44012543,2,TROJANOVÁ MARCELA,pirati
 2021-11-16,20710.48,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1780038944,20211115,Global Payments s.r.,pirati
 2021-11-16,2500,Bezhotovostní příjem,HORKÝ JAROMÍR,DAR NA PROVOZ PŘEROVSKÉHO PICE,0,0,110303,HORKÝ JAROMÍR,pirati

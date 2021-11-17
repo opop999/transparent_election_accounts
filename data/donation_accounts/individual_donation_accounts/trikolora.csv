@@ -1,4 +1,14 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,300,Okamžitá příchozí platba,Jiří Jelínek,krajský sněm,,2201153006,,Jiří Jelínek,trikolora
+2021-11-16,-150000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-11-16,-50000,Platba převodem uvnitř banky,,převod na provozní účet,,,,převod na provozní účet,trikolora
+2021-11-16,300,Bezhotovostní příjem,Steiger Jiří,Jiří Steiger,,2201153004,,Steiger Jiří,trikolora
+2021-11-16,2000,Platba převodem uvnitř banky,"Klímková, Lenka",DAR PRO PRAHU Lenka Klimkova,,111111,,DAR PRO PRAHU Lenka Klimkova,trikolora
+2021-11-16,300,Okamžitá příchozí platba,Mišáková Jarmila,,0,2201153002,,Mišáková Jarmila,trikolora
+2021-11-16,2000,Okamžitá příchozí platba,Tomáš Balvín,DAR PRO PRAHU (Tomáš Balvín),,111111,,Tomáš Balvín,trikolora
+2021-11-16,2000,Okamžitá příchozí platba,Vítek Jiří,Jiri Vítek 3.6.1973 DAR PRO PRAHU,0,,,Vítek Jiří,trikolora
+2021-11-16,1000,Bezhotovostní příjem,MUDr. Ladislav Jon,DAR  MUDr Ladislav Jon IČO 47731168,558,47731168,,MUDr. Ladislav Jon,trikolora
+2021-11-16,50,Bezhotovostní příjem,HOLEČEK MIROSLAV,,,9000372,,HOLEČEK MIROSLAV,trikolora
 2021-11-15,2000,Okamžitá příchozí platba,MUDr.Zeman Marek,Dar pro Prahu,0,111111,,MUDr.Zeman Marek,trikolora
 2021-11-15,2000,Okamžitá příchozí platba,Jiří Vyhnalík,DAR PRO PRAHU,,111111,,Jiří Vyhnalík,trikolora
 2021-11-15,-100000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora

@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-16,200000,Příchozí úhrada,KSČM,684844,300,převod mezi účty ÚV,0,261,,CZK,kscm
+2021-11-16,5989.5,Příchozí úhrada,"ČP, S.P. - JČ2",134204869,300,,306,5103819197,1000070420,CZK,kscm
+2021-11-16,1115,Příchozí úhrada,OV KSČM ČESKÁ LÍPA,1333421,100,Převod od OV KSČM Česká Lípa,0,,,CZK,kscm
 2021-11-15,-1271,Odchozí úhrada,"Agentura D-PRODUCTION, s.r.o",7107736001,5500,volby PČR - pronájem ploch,0,20210309,,CZK,kscm
 2021-11-15,1207,Příchozí úhrada,KOMUNISTICKÁ STRANA,433391,100,OV Sokolov,0,34103,,CZK,kscm
 2021-11-15,3900,Příchozí úhrada,Okresní výb.KSČM PCE,298682816,300,podíl za volby OV KSČM Pardubice,,35302,,CZK,kscm

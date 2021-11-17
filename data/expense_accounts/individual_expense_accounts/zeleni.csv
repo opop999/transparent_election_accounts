@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-16,6959.33,Platba převodem uvnitř banky,Strana zelených,Na uhrazení opravené faktury pro Českobudějovický Deník,,,31,Na uhrazení opravené faktury pro Českobudějovický Deník,zeleni
 2021-11-15,-3570,Okamžitá odchozí platba,,FA 36921 - inzerce v novinách,,36921,20,STČ - Josef Lopata - Příbramský servis,zeleni
 2021-11-12,3570,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO STŘK na volební účet SZ - volby do PS PČR 2021,,36921,,Specifický symbol: 020,zeleni
 2021-11-08,-1800,Okamžitá odchozí platba,,FA 2021-03 - malování na obličej - akce pro děti,,202103,63,VYS - Marie Smolíková,zeleni
