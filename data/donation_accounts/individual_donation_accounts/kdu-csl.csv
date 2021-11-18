@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-18,2200,Bezhotovostní příjem,SUCHY JAROSLAV,Dar KDU Jaroslav Suchy ml.-2-12/21,,3021971,709,SUCHY JAROSLAV,kdu-csl
+2021-11-18,2500,Bezhotovostní příjem,HYNK VLADISLAV,dar okresu JI,,6031973,651,HYNK VLADISLAV,kdu-csl
+2021-11-18,500,Bezhotovostní příjem,HORÁK JIŘÍ,DAR; JIŘÍ HORÁK,0,24071984,725,HORÁK JIŘÍ,kdu-csl
 2021-11-17,3000,Okamžitá příchozí platba,Ing.Kudláčková Micha,Michaela Kudláčková - sponzorský dar,0,250358,301,Ing.Kudláčková Micha,kdu-csl
 2021-11-16,21000,Bezhotovostní příjem,"SVĚTNIČKA MAREK, DIS",Pro Havířov,0,17121969,851,"SVĚTNIČKA MAREK, DIS",kdu-csl
 2021-11-16,3000,Bezhotovostní příjem,KLEMENT JOSEF,DAR KDU-ČSL VYSOČINA - KLEMENT,0,0,651,KLEMENT JOSEF,kdu-csl

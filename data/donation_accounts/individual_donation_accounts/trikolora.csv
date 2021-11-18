@@ -1,6 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-18,100,Bezhotovostní příjem,ROMAN PICHA,listopad 2021 Roman Picha,,11002048,,ROMAN PICHA,trikolora
+2021-11-17,2000,Platba převodem uvnitř banky,"Bydžovský, Milan",DAR PRO PRAHU,,,,DAR PRO PRAHU,trikolora
+2021-11-17,2000,Okamžitá příchozí platba,Ing.Kubata Václav,DAR Praha,0,12,,Ing.Kubata Václav,trikolora
 2021-11-16,300,Okamžitá příchozí platba,Jiří Jelínek,krajský sněm,,2201153006,,Jiří Jelínek,trikolora
-2021-11-16,-150000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-11-16,-150000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na provozní účet,trikolora
 2021-11-16,-50000,Platba převodem uvnitř banky,,převod na provozní účet,,,,převod na provozní účet,trikolora
 2021-11-16,300,Bezhotovostní příjem,Steiger Jiří,Jiří Steiger,,2201153004,,Steiger Jiří,trikolora
 2021-11-16,2000,Platba převodem uvnitř banky,"Klímková, Lenka",DAR PRO PRAHU Lenka Klimkova,,111111,,DAR PRO PRAHU Lenka Klimkova,trikolora
@@ -27,6 +30,7 @@ date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_
 2021-11-11,2000,Bezhotovostní příjem,Rajchl Jindřich,Dar pro Prahu,,111111,,Rajchl Jindřich,trikolora
 2021-11-11,500,Bezhotovostní příjem,Petr Kaláb,"DAR dle smlouvy, Petr Kaláb",,,,Petr Kaláb,trikolora
 2021-11-10,200,Bezhotovostní příjem,Urbanec Ladislav,DAR Ladislav Urbanec,0,,,Urbanec Ladislav,trikolora
+2021-11-16,-150000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
 2021-11-09,-1,Okamžitá odchozí platba,,platební brána test,,,,platební brána test,trikolora
 2021-11-09,100,Bezhotovostní příjem,Kubela Karel,příspěvek,0,,,Kubela Karel,trikolora
 2021-11-09,100,Okamžitá příchozí platba,Luděk Ulman,DAR příspěvek RP,,12001927,,Luděk Ulman,trikolora

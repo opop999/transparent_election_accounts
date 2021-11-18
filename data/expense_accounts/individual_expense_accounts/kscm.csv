@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-18,-117105.84,Odchozí úhrada,KV KSČM Praha,39308504,600,volby PČR - reklama facebook,0,2021005,,CZK,kscm
+2021-11-18,-557.08,Odchozí úhrada,OSA - Ochranný svaz autorský p,190000235061,100,volby PČR - odměna,0,1658142106,,CZK,kscm
+2021-11-18,-1207,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10124126,,CZK,kscm
 2021-11-16,200000,Příchozí úhrada,KSČM,684844,300,převod mezi účty ÚV,0,261,,CZK,kscm
 2021-11-16,5989.5,Příchozí úhrada,"ČP, S.P. - JČ2",134204869,300,,306,5103819197,1000070420,CZK,kscm
 2021-11-16,1115,Příchozí úhrada,OV KSČM ČESKÁ LÍPA,1333421,100,Převod od OV KSČM Česká Lípa,0,,,CZK,kscm
@@ -14,9 +17,9 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-11-11,-2396,Odchozí úhrada,"TRIMEN, spol. s r.o.",73849101,100,volby PČR - grafika,0,21158,,CZK,kscm
 2021-11-11,-4402,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10122315,,CZK,kscm
 2021-11-10,-12872.03,Odchozí úhrada,"Česká pošta, s.p.",134204869,300,volby PČR - roznos,0,5115236911,,CZK,kscm
-2021-11-10,-842,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123824,,CZK,kscm
-2021-11-10,-1115,Odchozí úhrada,Kino Vesmír,414007843,300,volby PČR - výlep,0,21107,,CZK,kscm
 2021-11-10,-1207,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123825,,CZK,kscm
+2021-11-10,-1115,Odchozí úhrada,Kino Vesmír,414007843,300,volby PČR - výlep,0,21107,,CZK,kscm
+2021-11-10,-842,Odchozí úhrada,"RENGL, s.r.o.",3936597389,800,volby PČR - výlep,0,10123824,,CZK,kscm
 2021-11-09,-53518.48,Odchozí úhrada,VLTAVA LABE MEDIA a.s.,1033041444,5500,volby PČR - inzerce,0,2117024210,,CZK,kscm
 2021-11-09,-51909,Odchozí úhrada,Romana Šmachová,2601452001,2010,volby PČR - tisk letáku,0,20210078,,CZK,kscm
 2021-11-09,-1573,Odchozí úhrada,EURO NOVA & PARTNER`S spol. s,78854006,2700,volby PČR - reklama lavičky,0,211040,,CZK,kscm

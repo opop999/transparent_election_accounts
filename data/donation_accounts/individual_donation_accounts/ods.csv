@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-17,50000,Okamžitá příchozí platba,"Ing.Unucka Jakub,MBA","DAR, Jakub Unucka",0,3000210034,,"Ing.Unucka Jakub,MBA",ods
 2021-11-16,25000,Bezhotovostní příjem,VONDRA ALEXANDR,"DAR, Alexandr Vondra",0,2600210025,0,VONDRA ALEXANDR,ods
 2021-11-16,5000,Okamžitá příchozí platba,Stanislav Žalud-ACOR,"DAR, Stanislav Žalud",0,3104210010,,Stanislav Žalud-ACOR,ods
 2021-11-14,-180000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods

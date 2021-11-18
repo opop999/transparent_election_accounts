@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,contra_account_number,contra_account_bankCode,message_for_recipient,ks,vs,ss,currency,entity_name
+2021-11-18,340,Příchozí úhrada,Havlíčková Monika,4071772073,800,finanční dar,0,38103,,CZK,kscm
 2021-11-16,2527,Příchozí úhrada,KUBEŠ PETR,435069260217,100,Petr Kubeš finanční dar,0,,,CZK,kscm
 2021-11-15,520,Příchozí úhrada,ADAMCOVÁ VENDULA,431602660297,100,VENDULA ADAMCOVÁ -FINANČNÍ DAR,308,34202,,CZK,kscm
 2021-11-15,850,Příchozí úhrada,NEVORAL MAREK,153867035,600,finanční dar,2018,760308,36100,CZK,kscm
@@ -14,11 +15,11 @@ date,amount,type,contra_account_name,contra_account_number,contra_account_bankCo
 2021-11-12,415,Příchozí úhrada,Borka Jaroslav,346060123,800,"Jaroslav Borka, Karlovy Vary - finanční dar",0,0,34102,CZK,kscm
 2021-11-11,30000,Okamžitá úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,9,,,CZK,kscm
 2021-11-10,5000,Okamžitá úhrada,VÁCLAV ŠTEKL,6701002201996750,6210,"VÁCLAV ŠTEKL, PLZEŇ - FINANČNÍ DAR",,760621,33203,CZK,kscm
-2021-11-10,652,Okamžitá úhrada,SEFCIK ZBYNEK,5409075,300,"Zbyněk Šefčík, Plzeň -finanční dar",,,33203,CZK,kscm
-2021-11-10,1060,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar ZPK,,,33200,CZK,kscm
-2021-11-10,300,Příchozí úhrada,Mandát Stanislav,2110143722,2700,Mandát Stanislav -finanční dar,4202,,,CZK,kscm
-2021-11-10,10000,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar,,,33200,CZK,kscm
 2021-11-10,3000,Příchozí úhrada,JUDr.Filip Vojtěch,537249033,800,finanční dar,308,,0,CZK,kscm
+2021-11-10,10000,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar,,,33200,CZK,kscm
+2021-11-10,300,Příchozí úhrada,Mandát Stanislav,2110143722,2700,Mandát Stanislav -finanční dar,4202,,,CZK,kscm
+2021-11-10,1060,Příchozí úhrada,VALENTA JIRI,125612502,300,Jiří Valenta - finanční dar ZPK,,,33200,CZK,kscm
+2021-11-10,652,Okamžitá úhrada,SEFCIK ZBYNEK,5409075,300,"Zbyněk Šefčík, Plzeň -finanční dar",,,33203,CZK,kscm
 2021-11-09,2550,Okamžitá úhrada,Ing.Šmíd Václav,41900013,800,"Šmíd Václav, Prostějov - finanční dar",,,37103,CZK,kscm
 2021-11-09,414,Příchozí úhrada,Ivan Maštálka,1047171012,3030,"Ivan Maštálka, Plzeň  - finanční dar",,3231904,33203,CZK,kscm
 2021-11-08,1400,Příchozí úhrada,JUHOVA JAROSLAVA,176167891,300,"""Miloslav Švantner,Plzeň - finančnídar""",,,33203,CZK,kscm

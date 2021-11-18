@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-18,800,Bezhotovostní příjem,MASARE VIT,300 centru/200 Martin Ander do Senatu/300 KO Praha,,9002355,,MASARE VIT,zeleni
+2021-11-18,400,Bezhotovostní příjem,Ujfaluši Robin,Dar,0,9003734,,Ujfaluši Robin,zeleni
+2021-11-18,700,Bezhotovostní příjem,Vacková Hana,"Dar - 500 ZO Olomouc,200,. celostát.SZ",0,0,104,Vacková Hana,zeleni
+2021-11-18,250,Bezhotovostní příjem,Mgr.Preclíková Andre,dar,0,9003482,,Mgr.Preclíková Andre,zeleni
+2021-11-18,500,Bezhotovostní příjem,Povová Eliška,,0,,,Povová Eliška,zeleni
+2021-11-18,1000,Bezhotovostní příjem,Žitný Zbyněk,Dar,0,9002038,0,Žitný Zbyněk,zeleni
+2021-11-18,100,Bezhotovostní příjem,MACEKOVÁ MAGDALENA,DAR,0,9003674,0,MACEKOVÁ MAGDALENA,zeleni
+2021-11-18,300,Bezhotovostní příjem,GLOBOČNÍK PETR,DAR GLOBOČNÍK,0,0,0,GLOBOČNÍK PETR,zeleni
+2021-11-18,100,Platba převodem uvnitř banky,"Ing. Kropáček, Ivo",dar,,9003365,,dar,zeleni
 2021-11-16,2300,Okamžitá příchozí platba,Šandová Růžena,dar,,9003766,,Šandová Růžena,zeleni
 2021-11-16,-250,Okamžitá odchozí platba,,"vratka daru - chybějící údaje o dárci, vyplňte prosím formulář dary.zeleni.cz",,,,Šimáčková Laurenčíko,zeleni
 2021-11-16,200,Bezhotovostní příjem,ADAM HORKÝ,DAR ZELENÝM,,9002699,,ADAM HORKÝ,zeleni
