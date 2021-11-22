@@ -56,10 +56,10 @@ jobs:
     container: rocker/tidyverse:latest
     steps:
     - uses: actions/checkout@v2
-    - name: Scrape CSOB bank accounts
-      env:
-        CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
-      run: Rscript 01_scrape_csob_accounts.R
+    # - name: Scrape CSOB bank accounts
+    #   env:
+    #     CSOB_COOKIE: ${{secrets.CSOB_COOKIE}}
+    #   run: Rscript 01_scrape_csob_accounts.R
     - name: Scrape FIO bank accounts
       run: Rscript 01_scrape_fio_accounts.R
     - name: Scrape Ceska Sporitelna bank accounts
