@@ -1,6 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
-2021-11-16,6959.33,Platba převodem uvnitř banky,Strana zelených,Na uhrazení opravené faktury pro Českobudějovický Deník,,,31,Na uhrazení opravené faktury pro Českobudějovický Deník,zeleni
+2021-11-22,-708.55,Bezhotovostní platba,,Příkaz k úhradě - daň DPH za FB,,409740,42,ÚLK - Finanční úřad,zeleni
+2021-11-22,708.55,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,,,42,Převod prostředků KO ÚLK na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-11-19,-67.86,Bezhotovostní platba,,Příkaz k úhradě - daň DPH za FB,,,71,OLK - Finanční úřad,zeleni
+2021-11-19,67.86,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,,1,71,Převod prostředků KO OL na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-11-18,-9757.44,Okamžitá odchozí platba,,FA 2117024106 - inzerce v novinách,,2117024106,31,"JHČ - Vltava Labe media, a. s.",zeleni
+2021-11-18,2798.11,Platba převodem uvnitř banky,Strana zelených,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,,31,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-11-16,6959.33,Platba převodem uvnitř banky,Strana zelených,Na uhrazení opravené faktury pro Českobudějovický Deník,,,31,Převod prostředků KO JHČ na volební účet SZ - volby do PS PČR 2021,zeleni
 2021-11-15,-3570,Okamžitá odchozí platba,,FA 36921 - inzerce v novinách,,36921,20,STČ - Josef Lopata - Příbramský servis,zeleni
+2021-11-16,6959.33,Platba převodem uvnitř banky,Strana zelených,Na uhrazení opravené faktury pro Českobudějovický Deník,,,31,Na uhrazení opravené faktury pro Českobudějovický Deník,zeleni
 2021-11-12,3570,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO STŘK na volební účet SZ - volby do PS PČR 2021,,36921,,Specifický symbol: 020,zeleni
 2021-11-08,-1800,Okamžitá odchozí platba,,FA 2021-03 - malování na obličej - akce pro děti,,202103,63,VYS - Marie Smolíková,zeleni
 2021-11-12,3570,Platba převodem uvnitř banky,Strana zelených,Převod prostředků KO STŘK na volební účet SZ - volby do PS PČR 2021,,36921,,Převod prostředků KO STŘK na volební účet SZ - volby do PS PČR 2021,zeleni

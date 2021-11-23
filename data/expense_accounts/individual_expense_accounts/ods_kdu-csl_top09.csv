@@ -1,4 +1,16 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-19,-455,Okamžitá odchozí platba,,,308,12100347,1114,"1114-Město Nepomuk , výlep plakátů",ods_kdu-csl_top09
+2021-11-19,2000,Platba převodem uvnitř banky,Občanská demokratická strana,Eva Šulová -chybná platba,378,708172021,,3100-Eva Šulová -chybná platba,ods_kdu-csl_top09
+2021-11-19,-20000,Okamžitá odchozí platba,,,308,20210003,2200,"2200-COFFEEMAKERS s.r.o., kávový catering",ods_kdu-csl_top09
+2021-11-19,-1000,Bezhotovostní platba,,,378,20211008,3400,"3400-Eva Decroix , pronájem pozemku propagační panel",ods_kdu-csl_top09
+2021-11-19,-11592.2,Bezhotovostní platba,,,308,20211022,3400,"3400-Zbyněk Stejskal, zajištění akce  Drakiáda",ods_kdu-csl_top09
+2021-11-19,-363,Bezhotovostní platba,,,308,100210022,3400,"3400-Škrobárny Pelhřimov a.s., nájem reklamní plochy",ods_kdu-csl_top09
+2021-11-19,-2000,Platba převodem uvnitř banky,,,308,202113,3400,"3400-Mateřské centrum Domeček , kulturní program na akci 19.9.",ods_kdu-csl_top09
+2021-11-19,-17000,Bezhotovostní platba,,,308,2021001,3400,"3400-Ivana Kazdová , koordinace volební kampaně",ods_kdu-csl_top09
+2021-11-19,-15000,Bezhotovostní platba,,,308,210100012,3400,"3400-Delices de papa s.r.o., pronájem , občerstvení",ods_kdu-csl_top09
+2021-11-19,-6050,Bezhotovostní platba,,,308,21502519,2800,"2800-EUROPLAKÁT s.r.o., pronájem BB",ods_kdu-csl_top09
+2021-11-19,-194,Bezhotovostní platba,,,308,3111063,2800,2800-Město Jánské Lázně,ods_kdu-csl_top09
+2021-11-19,300000,Platba převodem uvnitř banky,Občanská demokratická strana,1114-převod financí,,,,1114-převod financí,ods_kdu-csl_top09
 2021-11-16,-18556,Okamžitá odchozí platba,,,308,2121022666,2300,"2300-MAFRA a.s., inzerce v 5+2",ods_kdu-csl_top09
 2021-11-16,-601,Bezhotovostní platba,,,308,2100,2100,"2100-Altner Boleslav, PHM vol. auto",ods_kdu-csl_top09
 2021-11-16,-8000,Bezhotovostní platba,,,308,20210018,2100,"2100-Jan Vacíř, distribuce vol. materiálů",ods_kdu-csl_top09

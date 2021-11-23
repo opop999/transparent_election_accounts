@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,500,Bezhotovostní příjem,HNEVSA TOMAS,"STAN - DAR, Tomas Hnevsa, Stenovice",,0,,HNEVSA TOMAS,stan
+2021-11-18,180000,Bezhotovostní příjem,"PRIOR, OBCHODNI DOMY",STAROSTOVE A NEZAVISLI,308,446962344,203152321,"DAR - PRIOR, OBCHODNI DOMY",stan
 2021-11-16,-2700000,Platba převodem uvnitř banky,,Převod prostředků mezi účty STAN,,,,Převod prostředků mezi účty STAN,stan
 2021-11-15,4000,Bezhotovostní příjem,Ing.Suchánek Josef,,0,,,DAR - Ing.Suchánek Josef,stan
 2021-11-15,200000,Bezhotovostní příjem,"REMA Systém, a.s.",,0,64510263,206152621,"DAR - REMA Systém, a.s.",stan

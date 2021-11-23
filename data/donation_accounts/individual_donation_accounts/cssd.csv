@@ -1,4 +1,7 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-22,-6387500,Platba převodem uvnitř banky,,"Převod na kontokorentní účet ČSSD, příspěvek na činnost 4.Q 2021, MF ČR",308,9,,"Převod na kontokorentní účet ČSSD, příspěvek na činnost 4.Q 2021, MF ČR",cssd
+2021-11-19,300,Bezhotovostní příjem,MUDR. JIŘÍ BĚHOUNE,"MUDr.Jiří Běhounek 13.5.1952,Dar-43.sjezd ČSSD",,,,MUDR. JIŘÍ BĚHOUNE,cssd
+2021-11-18,6387500,Bezhotovostní příjem,MF,1403/121654/2021-96 Česká strana sociálně demokratická,6418,216542021,0,"MF ČR, státní příspěvek  za 4.Q/2021",cssd
 2021-11-16,300,Vklad v hotovosti,"Jan Birke, 1.6. 1969, dar - 43. sjezd ČSSD",,558,,,"Jan Birke, 1.6. 1969, dar - 43. sjezd ČSSD",cssd
 2021-11-16,300,Okamžitá příchozí platba,Roman Onderka,"Roman Onderka, 11.11.1965, dar - 43.sjezd ČSSD",,,,Roman Onderka,cssd
 2021-11-15,-50000,Platba převodem uvnitř banky,,"převod daru Alena Gajdůšková, činnost strany,  OP Zlín",,,,"převod daru Alena Gajdůšková, činnost strany,  OP Zlín",cssd

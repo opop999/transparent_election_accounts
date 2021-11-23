@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-19,-944,Platba převodem uvnitř banky,,odstranění polepu z vozu,308,11210839,,odstranění polepu z vozu,trikolora
+2021-11-19,-11906,Bezhotovostní platba,,dotisk letáků,308,2100211,,dotisk letáků JČ,trikolora
+2021-11-19,-43560,Platba převodem uvnitř banky,,polep oken,308,22121029,,polep oken,trikolora
+2021-11-19,-90750,Bezhotovostní platba,,služby dle smlouvy za říjen 2021,308,210100273,,služby dle smlouvy za říjen 2021,trikolora
+2021-11-18,150000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora
 2021-11-16,-1572.88,Bezhotovostní platba,,spotřeba el. energie při předvolební akci,308,2021201540,,spotřeba el. energie při předvolební akci JM,trikolora
 2021-11-16,2286.3,Karetní transakce,,"Kredit: FACEBK UHY2N732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2286.30 CZK",,6981,,"Kredit: FACEBK UHY2N732W2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  2286.30 CZK",trikolora
 2021-11-15,-128260,Bezhotovostní platba,,marketingové služby za říjen 2021,308,21210038,,marketingové služby za říjen 2021,trikolora

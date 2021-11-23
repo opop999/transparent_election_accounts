@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-22,200,Okamžitá příchozí platba,JUDr.Dundáčková Eva,SNĚM - Eva Dundáčková,0,1212,,JUDr.Dundáčková Eva,trikolora
+2021-11-22,2000,Platba převodem uvnitř banky,"Němec, Jakub",Jakub Němec,,,,Jakub Němec,trikolora
+2021-11-22,200,Bezhotovostní příjem,"ČECH MILAN KRYŠTOF,",SNĚM - Milan Kryštof Čech,,1212,,"ČECH MILAN KRYŠTOF,",trikolora
+2021-11-22,12907,Platba převodem uvnitř banky,"Zavadil, Petr",úhrada 1/3 fa. č. 2121022293 Mafra,,1212,,úhrada 1/3 fa. č. 2121022293 Mafra,trikolora
+2021-11-22,25000,Okamžitá příchozí platba,Premium Success s.r.,Dr. Marcel Kučera,,1333333,,Premium Success s.r.,trikolora
+2021-11-22,500,Bezhotovostní příjem,Mgr.Krása Václav,Václav Krása 24.11.1951,0,,,Mgr.Krása Václav,trikolora
+2021-11-22,2000,Bezhotovostní příjem,MORAVCOVA HANA,DAR PRO PRAHU,,111111,,MORAVCOVA HANA,trikolora
+2021-11-18,2000,Okamžitá příchozí platba,VINICKÁ KATEŘINA,Dar pro Prahu,,111111,,VINICKÁ KATEŘINA,trikolora
+2021-11-18,-150000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-11-18,2000,Platba převodem uvnitř banky,"Ing. Mikuláš, Mojmír",DAR PRO PRAHU,,111111,,DAR PRO PRAHU,trikolora
+2021-11-18,300,Okamžitá příchozí platba,Bc.Římský Jaroslav,,0,2201153005,,Bc.Římský Jaroslav,trikolora
 2021-11-18,100,Bezhotovostní příjem,ROMAN PICHA,listopad 2021 Roman Picha,,11002048,,ROMAN PICHA,trikolora
 2021-11-17,2000,Platba převodem uvnitř banky,"Bydžovský, Milan",DAR PRO PRAHU,,,,DAR PRO PRAHU,trikolora
 2021-11-17,2000,Okamžitá příchozí platba,Ing.Kubata Václav,DAR Praha,0,12,,Ing.Kubata Václav,trikolora

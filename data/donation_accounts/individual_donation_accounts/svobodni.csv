@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-22,200,Bezhotovostní příjem,JEŽEK MILAN,dar priznivce,0,8162,0,JEŽEK MILAN,svobodni
+2021-11-20,500,Platba převodem uvnitř banky,"Ing. Orálek, Luboš",dar příznivce - Orálek,,3115,,dar příznivce - Orálek,svobodni
+2021-11-19,-2609,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
+2021-11-18,-4477,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-11-16,100,Okamžitá příchozí platba,Vašková Šárka,dar priznivce,,9188,,Vašková Šárka,svobodni
 2021-11-16,200,Okamžitá příchozí platba,Plzák Martin,dar priznivce,0,9433,,Plzák Martin,svobodni
 2021-11-15,200,Bezhotovostní příjem,NĚMEČEK FRANTIŠEK,dar ReS 2021 - František Němeček,0,2358,2021,NĚMEČEK FRANTIŠEK,svobodni

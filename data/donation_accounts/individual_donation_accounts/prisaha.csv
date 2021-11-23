@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,189.7,Bezhotovostní příjem,STRIPE TECHNOLOGY EU,DAR HNUTI PRISAHA ROBERTA SLACHTY,0,0,0,STRIPE TECHNOLOGY EU,prisaha
+2021-11-23,1000,Platba převodem uvnitř banky,"RNDr. Koksa, Vít Ph.D.",Dar hnutí,,,,Dar hnutí,prisaha
+2021-11-22,200,Platba převodem uvnitř banky,"Ing. Bublík, Miroslav",Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,,,,Dar hnutí PŘÍSAHA ROBERTA ŠLACHTY,prisaha
+2021-11-19,-1500000,Platba převodem uvnitř banky,,Převod na provozní účet,,,,Převod na provozní účet,prisaha
+2021-11-19,-500000,Platba převodem uvnitř banky,,Převod na mzdový účet,,,,Převod na mzdový účet,prisaha
+2021-11-19,2350000,Bezhotovostní příjem,MF,1403/21654/2021-95 PŘÍSAHA - občanské hnutí Roberta Šlachty,6418,216542021,0,MF,prisaha
+2021-11-18,200,Bezhotovostní příjem,RAUŠEROVÁ ILJANA,dar spolku,,80158,,RAUŠEROVÁ ILJANA,prisaha
 2021-11-15,300,Bezhotovostní příjem,JAROMIR DANIEL,DAR HNUTÍ,,5607251595,,JAROMIR DANIEL,prisaha
 2021-11-15,400,Bezhotovostní příjem,Misař Radek,Dar Misařová Petra,0,705529,,Misař Radek,prisaha
 2021-11-15,500,Bezhotovostní příjem,GONDASOVA ALENA,DAR HNUTI,,0,,GONDASOVA ALENA,prisaha

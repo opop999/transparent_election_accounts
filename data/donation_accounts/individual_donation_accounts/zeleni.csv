@@ -1,4 +1,56 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,100,Bezhotovostní příjem,Zara Gonzalez,Dar od Zara Gonzalez,,9003743,,Zara Gonzalez,zeleni
+2021-11-23,200,Bezhotovostní příjem,Petra Kolínská,DAR na pražského socmeda,,1111145,,Petra Kolínská,zeleni
+2021-11-23,500,Bezhotovostní příjem,Tereza Štysová,Dar 100ZOP7 200KOPha 200celostat,,,,Tereza Štysová,zeleni
+2021-11-23,108,Bezhotovostní příjem,Jonáš Veselka,Dar,,9001090,,Jonáš Veselka,zeleni
+2021-11-23,400,Platba převodem uvnitř banky,"Dufka, Jiří","dar, 1/2: ZO Brno-střed, 1/2: republiková SZ",,9001138,,"dar, 1/2: ZO Brno-střed, 1/2: republiková SZ",zeleni
+2021-11-22,-100000,Platba převodem uvnitř banky,,převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
+2021-11-22,-70,Okamžitá odchozí platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,9003612,,MIKULÁŠKOVÁ MARTINA,zeleni
+2021-11-22,125000,Platba převodem uvnitř banky,Česká strana sociálně demokratická,"ČSSD, Dodatek č. 2 ke Koaliční smlouvě pro krajské volby 2020",308,409171,,podíl z krajského mandátu za 3. a 4. Q/2021 v HKK,zeleni
+2021-11-22,500,Okamžitá příchozí platba,Povová Eliška,Dar Pro ZO Praha 9,0,9003624,,Povová Eliška,zeleni
+2021-11-22,250,Bezhotovostní příjem,KŘEPELA JIŘÍ,dar,,9002805,,KŘEPELA JIŘÍ,zeleni
+2021-11-22,100,Bezhotovostní příjem,Mgr. Karel Nepraš,"Nepraš Karel, Strana zelených, pravidelný dar",0,8801100129,123300000,Mgr. Karel Nepraš,zeleni
+2021-11-22,200,Bezhotovostní příjem,Lucie Zímová,Dar Zeleným,,9002655,,Lucie Zímová,zeleni
+2021-11-22,150,Bezhotovostní příjem,Andrea Beláňová,Držím palce,,9002148,,Andrea Beláňová,zeleni
+2021-11-22,144,Bezhotovostní příjem,Milan Prikner,dar,,9001007,,Milan Prikner,zeleni
+2021-11-22,300,Bezhotovostní příjem,BÍBOVÁ EVA,Dar,0,9003767,0,BÍBOVÁ EVA,zeleni
+2021-11-22,150,Bezhotovostní příjem,LUZNY IVO,DAR,,9002659,,LUZNY IVO,zeleni
+2021-11-22,200,Bezhotovostní příjem,CVECEK JIRI,Dar ZO P10,,1001001,,CVECEK JIRI,zeleni
+2021-11-22,1000,Bezhotovostní příjem,RUT ONDREJ,dar 80% ZO Praha 3/10% KO/10% SZ,,8801100080,104014540,RUT ONDREJ,zeleni
+2021-11-22,100,Bezhotovostní příjem,HOUSKA JAKUB,"Jakub HouskaArbesova 9, Brno, 63800pravidelny dar",0,8891101403,,HOUSKA JAKUB,zeleni
+2021-11-22,250,Bezhotovostní příjem,PhDr.Váchová Věra,Dar,0,9003578,,PhDr.Váchová Věra,zeleni
+2021-11-22,400,Bezhotovostní příjem,Mgr.Kokošková Masaří,dar,558,8801100142,999,Mgr.Kokošková Masaří,zeleni
+2021-11-22,500,Bezhotovostní příjem,Ryant Filip,dar pro ZO Praha 13,0,9002861,,Ryant Filip,zeleni
+2021-11-22,300,Platba převodem uvnitř banky,"Vlach, Jan",Dar pro Stranu Zelených,,9003749,,Dar pro Stranu Zelených,zeleni
+2021-11-22,3000,Platba převodem uvnitř banky,"Šanda, Ondřej",dar - 50 % pro ZO Kaplice,,9001206,,dar - 50 % pro ZO Kaplice,zeleni
+2021-11-22,2000,Bezhotovostní příjem,OREL PETR,DAR - MĚSÍČNÍ,0,9002608,0,OREL PETR,zeleni
+2021-11-22,100,Bezhotovostní příjem,ŠETERLE DAVID,ZELENÍ - DAR,0,8801102242,0,ŠETERLE DAVID,zeleni
+2021-11-22,70,Bezhotovostní příjem,MIKULÁŠKOVÁ MARTINA,STRANA ZELENÝCH,0,9003612,0,MIKULÁŠKOVÁ MARTINA,zeleni
+2021-11-22,600,Bezhotovostní příjem,PRZYWARA JAN,DAR,0,9003732,0,PRZYWARA JAN,zeleni
+2021-11-22,100,Bezhotovostní příjem,ŠŤASTNÁ PETRA,DAR STRANA ZELENÝCH,0,9003724,0,ŠŤASTNÁ PETRA,zeleni
+2021-11-21,200,Platba převodem uvnitř banky,"Vítů, Viktorie",dar,,9003744,,dar,zeleni
+2021-11-21,100,Platba převodem uvnitř banky,"Kokoška, Tomáš",dar,,673796,,dar,zeleni
+2021-11-19,-450000,Platba převodem uvnitř banky,,převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
+2021-11-19,500,Okamžitá příchozí platba,Pešta Miroslav,DAR - PRO ZO PRAHA 9,0,9003624,,Pešta Miroslav,zeleni
+2021-11-19,100,Bezhotovostní příjem,JANA JEBAVA,DAR ZO PRAHA 7,,195983,,JANA JEBAVA,zeleni
+2021-11-19,250,Bezhotovostní příjem,MARIE SEHNALOVA,DAR,,,,MARIE SEHNALOVA,zeleni
+2021-11-19,250,Bezhotovostní příjem,Ondřej Šmída,dar,,9003511,,Ondřej Šmída,zeleni
+2021-11-19,300,Bezhotovostní příjem,Adéla Kremplová,dar,,9003759,,Adéla Kremplová,zeleni
+2021-11-19,300,Bezhotovostní příjem,Vojtěch Sigmund,dar,,9003646,,Vojtěch Sigmund,zeleni
+2021-11-19,200,Bezhotovostní příjem,Milan Válek,"dar - 100,- celostátní, 100,- ZO Praha 10",,9002563,,Milan Válek,zeleni
+2021-11-19,200,Bezhotovostní příjem,Petra Kolínská,DAR,,9002603,,Petra Kolínská,zeleni
+2021-11-19,500,Bezhotovostní příjem,MUDr.Hudec Dalibor,Dalibor Hudec pro SZ Opava,0,7461035,,MUDr.Hudec Dalibor,zeleni
+2021-11-19,200,Bezhotovostní příjem,TOMANOVÁ ASKARIOVÁ I,DAR STRANE ZELENYCH,558,9991100122,999,TOMANOVÁ ASKARIOVÁ I,zeleni
+2021-11-19,250,Bezhotovostní příjem,PEK OLGA,DAR,0,9003490,0,PEK OLGA,zeleni
+2021-11-18,-2798.11,Platba převodem uvnitř banky,,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,,,31,převod darů JHČ z darového účtu na volební účet SZ - volby do PS PČR 2021,zeleni
+2021-11-18,-500,Okamžitá odchozí platba,,"vrácení platby - nejasný účel platby, do Zprávy pro příjemce uveďte ""dar"" (Strana zelených)",,,,Povová Eliška,zeleni
+2021-11-18,250,Bezhotovostní příjem,DANIELA STOLAROVA,DAR,,9003408,,DANIELA STOLAROVA,zeleni
+2021-11-18,300,Bezhotovostní příjem,BARBORA KOUDELOVÁ,DAR,,9002604,,BARBORA KOUDELOVÁ,zeleni
+2021-11-18,200,Bezhotovostní příjem,ANNA KŠÍROVÁ,DAR,,9002649,,ANNA KŠÍROVÁ,zeleni
+2021-11-18,150,Bezhotovostní příjem,PETR KLAPSTE,DAR PETR KLÁPŠTĚ,,9003325,,PETR KLAPSTE,zeleni
+2021-11-18,100,Bezhotovostní příjem,VÍTĚZSLAV ŠIDLO,DAR,,9001012,,VÍTĚZSLAV ŠIDLO,zeleni
+2021-11-18,1000,Bezhotovostní příjem,Ivo Burger,"dar: 750 Brno-sever, 250 centrála",,9002893,,Ivo Burger,zeleni
+2021-11-18,200,Bezhotovostní příjem,ŠKODA JAKUB,dar,,9003260,,ŠKODA JAKUB,zeleni
 2021-11-18,800,Bezhotovostní příjem,MASARE VIT,300 centru/200 Martin Ander do Senatu/300 KO Praha,,9002355,,MASARE VIT,zeleni
 2021-11-18,400,Bezhotovostní příjem,Ujfaluši Robin,Dar,0,9003734,,Ujfaluši Robin,zeleni
 2021-11-18,700,Bezhotovostní příjem,Vacková Hana,"Dar - 500 ZO Olomouc,200,. celostát.SZ",0,0,104,Vacková Hana,zeleni

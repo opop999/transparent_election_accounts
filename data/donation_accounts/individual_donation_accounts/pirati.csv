@@ -1,4 +1,65 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,3333,Bezhotovostní příjem,Eva Tichá,Dar pro MS Praha 6 na kampaň do komunálek 2022,,44013379,110106,Eva Tichá,pirati
+2021-11-23,4150.2,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1800015801,20211122,Global Payments s.r.,pirati
+2021-11-23,400,Bezhotovostní příjem,MAJEROVÁ JITKA,DAR NA PROVOZ PŘEROV. CENTRA,0,0,110303,MAJEROVÁ JITKA,pirati
+2021-11-23,100,Platba převodem uvnitř banky,"Kratochvíl, Zdeněk",Zdeněk Kratochvíl,,44015211,1,Zdeněk Kratochvíl,pirati
+2021-11-22,500,Bezhotovostní příjem,KATERINA HAVLOVA,NEVZDÁVEJTE TO! JSTE HRDINOVÉ!,,44004861,1,KATERINA HAVLOVA,pirati
+2021-11-22,689,Bezhotovostní příjem,MARTIN MARTIN,"NEPODPORUJI CENTRÁLU, PODPORUJI PIRÁTI",,83569,1,MARTIN MARTIN,pirati
+2021-11-22,100,Bezhotovostní příjem,PETR VILÍMEK,PŘEVOD PROSTŘEDKŮ,,44013939,1,PETR VILÍMEK,pirati
+2021-11-22,500,Bezhotovostní příjem,Radiměřský Miroslav,dar Miroslav Radimersky,,83687,1,Radiměřský Miroslav,pirati
+2021-11-22,128,Bezhotovostní příjem,Ing. Petr Vyhnal,"Petr Vyhnal, Jana Švermy 1062, Smržovka, 18.1.1982",0,111100,,Ing. Petr Vyhnal,pirati
+2021-11-22,300,Bezhotovostní příjem,Jakub Prokeš,,0,83538,1,Jakub Prokeš,pirati
+2021-11-22,250,Bezhotovostní příjem,Jan Veselý,Veselý Jan - dar,0,84533,190000,Jan Veselý,pirati
+2021-11-22,-260000,Platba převodem uvnitř banky,,Převod na účet 2600053340,,,,Převod na účet 2600053340,pirati
+2021-11-22,250,Bezhotovostní příjem,Zdeněk Šmerda,"Piráti - kroužky nekroužky, dokažte, že naše volba byla správná :-)",461,44016385,1,Zdeněk Šmerda,pirati
+2021-11-22,500,Bezhotovostní příjem,Martin Kotmel,,1,44016357,,Martin Kotmel,pirati
+2021-11-22,200,Bezhotovostní příjem,Zuzana Čítková,podpora od Zuzky,,44002987,1,Zuzana Čítková,pirati
+2021-11-22,200,Bezhotovostní příjem,Stanislava Novotná,,,86932,1,Stanislava Novotná,pirati
+2021-11-22,550,Bezhotovostní příjem,Jaroslav Toman,Jaroslav Toman,0,44006473,1,Jaroslav Toman,pirati
+2021-11-22,1000,Bezhotovostní příjem,Satke David,Příspěvek pro MS Praha 10,,11013,110110,Satke David,pirati
+2021-11-22,3385.3,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1800001187,20211121,Global Payments s.r.,pirati
+2021-11-22,500,Bezhotovostní příjem,BERKA KAREL,Podporuji: Centralu Ceske piratskestrany,,82198,1,BERKA KAREL,pirati
+2021-11-22,300,Bezhotovostní příjem,Procházka Petr,,0,84483,1,Procházka Petr,pirati
+2021-11-22,150,Bezhotovostní příjem,Mgr.Procházková Mart,,0,9001795,,Mgr.Procházková Mart,pirati
+2021-11-22,100,Bezhotovostní příjem,Žák Zdeněk,DAR MS OLOMOUC 110305 / Zdeněk Žák,0,9001673,110305,Žák Zdeněk,pirati
+2021-11-22,100,Bezhotovostní příjem,Žák Zdeněk,DAR KS OLOMOUCKÝ KRAJ 110300 / Zdeněk Žák,0,9001672,110300,Žák Zdeněk,pirati
+2021-11-22,1460.61,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1790065842,20211120,Global Payments s.r.,pirati
+2021-11-22,666,Bezhotovostní příjem,"Konečný Petr,DiS.",DAR NA PROVOZ PŘEROVSKÉHO PICE,0,,110303,"Konečný Petr,DiS.",pirati
+2021-11-22,1472.35,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1790040231,20211119,Global Payments s.r.,pirati
+2021-11-22,500,Platba převodem uvnitř banky,"Kazhamiaka, Alena",No pasaran!,,44014172,193000,No pasaran!,pirati
+2021-11-22,500,Platba převodem uvnitř banky,"Kazhamiaka, Alena",No Pasaran!,,44014172,193120,No Pasaran!,pirati
+2021-11-22,300,Platba převodem uvnitř banky,"Mgr. Himlová, Veronika",,,9001235,,,pirati
+2021-11-22,500,Platba převodem uvnitř banky,"RNDr. Pikal, Petr","Petr Pikal, 30.07.1959, Selské nám 57, 77900, Olomouc",,,140305,"Petr Pikal, 30.07.1959, Selské nám 57, 77900, Olomouc",pirati
+2021-11-22,200,Bezhotovostní příjem,LETOCHA BORIS,HRR NA NE,0,44005401,1,LETOCHA BORIS,pirati
+2021-11-22,1000,Bezhotovostní příjem,MACAL JAN,DAR 84166/1,0,84166,1,MACAL JAN,pirati
+2021-11-20,22000,Okamžitá příchozí platba,David Bodeček,"Dar pro MS Piráti Praha 1, vůči 11 členům MSka k 1. 1. 2021 (v rámci požadavku na fin. podporu od PKS)",,44016389,110101,David Bodeček,pirati
+2021-11-20,500,Platba převodem uvnitř banky,"Šemík, Roman",pro Prahu 9,,44004587,,pro Prahu 9,pirati
+2021-11-20,1000,Platba převodem uvnitř banky,"Duška, Martin",záměr Provozní výdaje MS Praha 11,,,110111,záměr Provozní výdaje MS Praha 11,pirati
+2021-11-19,2000,Bezhotovostní příjem,GOTTMANNOVÁ KORNÉLIA,,0,0,0,GOTTMANNOVÁ KORNÉLIA,pirati
+2021-11-19,3208,Bezhotovostní příjem,MEJSNAR JAN,záměr Provozní výdaje MS Praha 11,0,0,110111,MEJSNAR JAN,pirati
+2021-11-19,200,Bezhotovostní příjem,Hana Kunzfeldová,,0,44005213,,Hana Kunzfeldová,pirati
+2021-11-19,500,Bezhotovostní příjem,JIŘÍ BRŮŽEK,AŤ NÁS SÍLA PROVÁZÍ :-),,,110100,JIŘÍ BRŮŽEK,pirati
+2021-11-19,300,Bezhotovostní příjem,Libor Vilímek,"Pan Palačinku přivezou do nemocnice s utrženým uchem. ""Co jste dělal?"" ptají se doktoři. ""Chodil jsem moc dlouho se džbánem pro vodu"". :D :D",,44014202,1,Libor Vilímek,pirati
+2021-11-19,250,Bezhotovostní příjem,Adam Sládek,,,9001810,,Adam Sládek,pirati
+2021-11-19,200,Bezhotovostní příjem,Ondřej Hlaváček,Do toho,1,44006655,,Ondřej Hlaváček,pirati
+2021-11-19,5602.19,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1790018619,20211118,Global Payments s.r.,pirati
+2021-11-19,250,Bezhotovostní příjem,CENEK DAVID,Piratska strana,,44010165,2,CENEK DAVID,pirati
+2021-11-19,3000,Platba převodem uvnitř banky,"PhDr. Richterová, Olga",Olga Richterová,,9001650,,Olga Richterová,pirati
+2021-11-19,400,Platba převodem uvnitř banky,"Hudec, Marek",,1,44003408,,,pirati
+2021-11-19,256,Bezhotovostní příjem,NYKLES KAREL,DAR PRO KS KVK,0,44004208,5,NYKLES KAREL,pirati
+2021-11-19,81378,Bezhotovostní příjem,Hlavenka Jiří,,,,110600,Hlavenka Jiří,pirati
+2021-11-19,2500,Platba převodem uvnitř banky,"Svoboda, Jiří",Podporuji: MS Havlíčkův brod,,44015000,110703,Podporuji: MS Havlíčkův brod,pirati
+2021-11-18,500,Bezhotovostní příjem,Ondřej Volejník,,0,44005897,,Ondřej Volejník,pirati
+2021-11-18,50,Bezhotovostní příjem,Vojtěch Mrázek,,0,44006400,,Vojtěch Mrázek,pirati
+2021-11-18,100,Bezhotovostní příjem,"CASTKOVA ZLATA, MGR.",Prispevek,0,82629,1,"CASTKOVA ZLATA, MGR.",pirati
+2021-11-18,1000,Bezhotovostní příjem,JIRI BRUZEK,AŤ NÁS SÍLA PROVÁZÍ:-) - ÚČELOVÝ DAR NA AKCE MS P12,,,110112,JIRI BRUZEK,pirati
+2021-11-18,250,Bezhotovostní příjem,Miroslav Hanák,"M.Hanák, příspěvek na Piráty , Pha, od 2.2021",,44010494,2,Miroslav Hanák,pirati
+2021-11-18,1000,Bezhotovostní příjem,Michal Breškovec,Účelový dar pro zastupitelské kluby v Ostravě.,,9001682,140401,Michal Breškovec,pirati
+2021-11-18,200,Bezhotovostní příjem,Martin Čech,,,44013881,1,Martin Čech,pirati
+2021-11-18,50,Bezhotovostní příjem,Martin Vobořil,Drobný příspěvek pirátům.,,84708,,Martin Vobořil,pirati
+2021-11-18,50,Bezhotovostní příjem,Eva Aljanabi,,,44006037,,Eva Aljanabi,pirati
+2021-11-18,491.4,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1790002830,20211117,Global Payments s.r.,pirati
+2021-11-18,1500,Bezhotovostní příjem,BARTKO JAN,pro nase mile MS,,12024,110103,BARTKO JAN,pirati
 2021-11-18,200,Bezhotovostní příjem,Beneš Ladislav,,0,44006575,1,Beneš Ladislav,pirati
 2021-11-18,200,Bezhotovostní příjem,Ptáček Jiří,Dar - příspěvek po volebním 2021-09kroužkování a propadu poslaneckýchmíst. Kapka pro udržení odborníků.Vážím si vaší veřejné práce.,0,44016317,1,Ptáček Jiří,pirati
 2021-11-18,5100.66,Bezhotovostní příjem,Global Payments s.r.,AKCEPTACE PLATEBNICH KARET,1178,1780062630,20211116,Global Payments s.r.,pirati
