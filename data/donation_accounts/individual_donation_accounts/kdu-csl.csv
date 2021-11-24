@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,1900,Bezhotovostní příjem,Marek Štoss,Marek Štoss - dar pro KDU-ČSL,,,,Marek Štoss,kdu-csl
+2021-11-24,2000,Bezhotovostní příjem,BAZALA JOSEF,JOSEF BAZALA PŘÍSPĚVEK KDU-ČSL,0,0,0,BAZALA JOSEF,kdu-csl
+2021-11-23,1000,Okamžitá příchozí platba,Pavel Dolanský,Plzeňský kraj,,1,351,Pavel Dolanský,kdu-csl
+2021-11-23,12351388.89,Bezhotovostní příjem,MF,,6418,216542021,0,MF,kdu-csl
+2021-11-23,300,Okamžitá příchozí platba,Mgr.Černý Martin,Plzeňský kraj,0,1,351,Mgr.Černý Martin,kdu-csl
 2021-11-22,2000,Okamžitá příchozí platba,Ing.Rajtmajer Josef,Plzeňský kraj,0,1,351,Ing.Rajtmajer Josef,kdu-csl
 2021-11-22,20000,Bezhotovostní příjem,"V.S.B.P., S.R.O.",,0,442704,0,"V.S.B.P., S.R.O.",kdu-csl
 2021-11-22,100,Bezhotovostní příjem,KARLA CURINOVA,DAR KARLA ČUŘÍNOVÁ,,865811,,KARLA CURINOVA,kdu-csl

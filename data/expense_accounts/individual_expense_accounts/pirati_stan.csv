@@ -1,4 +1,15 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,-566.28,Bezhotovostní platba,,"pp#21269 FO 6133/2021, pak:p, sablony-na-lavicku, bred-core-eu-sro",,20210053,42021,"pp#21269 FO 6133/2021, pak:p, sablony-na-lavicku, bred-core-eu-sro",pirati_stan
+2021-11-23,-350.9,Bezhotovostní platba,,"pp#21267 FO 6131/2021, pak:p, tricko-ferjencik, bred-core-eu-sro",,20210054,42021,"pp#21267 FO 6131/2021, pak:p, tricko-ferjencik, bred-core-eu-sro",pirati_stan
+2021-11-23,-36300,Bezhotovostní platba,,"pp#21256 FO 6121/2021, stc:p, grafika, communication-lab-sro",,20210199,42021,"pp#21256 FO 6121/2021, stc:p, grafika, communication-lab-sro",pirati_stan
+2021-11-23,-5000,Bezhotovostní platba,,"pp#21218 FO 6083/2021, stc:p, vystoupeni-hutka, antonin-schejbal",,20211116,42021,"pp#21218 FO 6083/2021, stc:p, vystoupeni-hutka, antonin-schejbal",pirati_stan
+2021-11-23,-1164,Bezhotovostní platba,,"pp#21216 FO 6082/2021, stc:p, doprava-canisterapie, pessos",,20210028,42021,"pp#21216 FO 6082/2021, stc:p, doprava-canisterapie, pessos",pirati_stan
+2021-11-23,-700,Bezhotovostní platba,,"pp#21215 FO 6081/2021, stc:p, odvoz-lahvi-helium, litera-jiri",,4421,42021,"pp#21215 FO 6081/2021, stc:p, odvoz-lahvi-helium, litera-jiri",pirati_stan
+2021-11-23,-8833,Bezhotovostní platba,,"pp#21193 FO 6066/2021, pak:p, vylep-plakatu-myto, coning-sro",308,211205,42021,"pp#21193 FO 6066/2021, pak:p, vylep-plakatu-myto, coning-sro",pirati_stan
+2021-11-23,-1808.95,Bezhotovostní platba,,"pp#21120 FO 6000/2021, pak:p, 5-banneru-pak, rainbow-display-systems-sro",,122962021,42021,"pp#21120 FO 6000/2021, pak:p, 5-banneru-pak, rainbow-display-systems-sro",pirati_stan
+2021-11-23,-1887.6,Bezhotovostní platba,,"pp#21119 FO 5999/2021, pak:p, vylep-plakatu-pak, sluzby-mesta-pardubic-as",,714210136,42021,"pp#21119 FO 5999/2021, pak:p, vylep-plakatu-pak, sluzby-mesta-pardubic-as",pirati_stan
+2021-11-23,-678,Bezhotovostní platba,,"pp#21067 FO 5948/2021, stc:p, plocha-na-plachtu-obec-tuchlovice, obec-tuchlovice",,2100105,42021,"pp#21067 FO 5948/2021, stc:p, plocha-na-plachtu-obec-tuchlovice, obec-tuchlovice",pirati_stan
+2021-11-23,-30000,Bezhotovostní platba,,"pp#20992 FO 5875/2021, stc:p, socialni-site-hodiny-nad-ramec, communication-lab-sro",,20210193,42021,"pp#20992 FO 5875/2021, stc:p, socialni-site-hodiny-nad-ramec, communication-lab-sro",pirati_stan
 2021-11-22,-5000,Bezhotovostní platba,,"pp#21276 FO 6139/2021, lbk:p, povolebni-stab, helena-vondrakova",,2021004,42021,"pp#21276 FO 6139/2021, lbk:p, povolebni-stab, helena-vondrakova",pirati_stan
 2021-11-22,-15558,Bezhotovostní platba,,"pp#21275 FO 6138/2021, lbk:p, inzerce-turnovsko-v-akci, pavel-charousek",,20210337,42021,"pp#21275 FO 6138/2021, lbk:p, inzerce-turnovsko-v-akci, pavel-charousek",pirati_stan
 2021-11-19,-102,Bezhotovostní platba,,"pp#21236 FO 6101/2021, ulk:p, postovne-za-balicky-dobrovolniku, ceska-posta",,6101,42021,"pp#21236 FO 6101/2021, ulk:p, postovne-za-balicky-dobrovolniku, ceska-posta",pirati_stan

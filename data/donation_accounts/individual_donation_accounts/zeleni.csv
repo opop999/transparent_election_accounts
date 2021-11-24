@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,3000,Okamžitá příchozí platba,Titlbachová Jana,DAR,0,,,Titlbachová Jana,zeleni
+2021-11-23,100,Bezhotovostní příjem,JIRI SEBESTA,DAR,,9003307,,JIRI SEBESTA,zeleni
 2021-11-23,100,Bezhotovostní příjem,Zara Gonzalez,Dar od Zara Gonzalez,,9003743,,Zara Gonzalez,zeleni
 2021-11-23,200,Bezhotovostní příjem,Petra Kolínská,DAR na pražského socmeda,,1111145,,Petra Kolínská,zeleni
 2021-11-23,500,Bezhotovostní příjem,Tereza Štysová,Dar 100ZOP7 200KOPha 200celostat,,,,Tereza Štysová,zeleni

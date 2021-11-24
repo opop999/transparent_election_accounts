@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,300,Okamžitá příchozí platba,Ing. Vojtěch Kaprál,,,2201153007,,Ing. Vojtěch Kaprál,trikolora
 2021-11-22,200,Okamžitá příchozí platba,JUDr.Dundáčková Eva,SNĚM - Eva Dundáčková,0,1212,,JUDr.Dundáčková Eva,trikolora
 2021-11-22,2000,Platba převodem uvnitř banky,"Němec, Jakub",Jakub Němec,,,,Jakub Němec,trikolora
 2021-11-22,200,Bezhotovostní příjem,"ČECH MILAN KRYŠTOF,",SNĚM - Milan Kryštof Čech,,1212,,"ČECH MILAN KRYŠTOF,",trikolora

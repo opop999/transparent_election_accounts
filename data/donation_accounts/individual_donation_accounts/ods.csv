@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,3000,Okamžitá příchozí platba,Kejval Petr,Dar Petr Kejval,0,2703210010,,Kejval Petr,ods
+2021-11-23,-1000,Okamžitá odchozí platba,,vratka Faldýn Miroslav -členství,308,3303210004,,vratka Faldýn Miroslav -členství,ods
+2021-11-23,-16000000,Platba převodem uvnitř banky,,1111-převod financí,,,,1111-převod financí,ods
+2021-11-23,-4207500,Platba převodem uvnitř banky,,"Splátka úvěru Fio banka, a.s.",,,,"Splátka úvěru Fio banka, a.s.",ods
+2021-11-23,20151388.89,Bezhotovostní příjem,MF,,6418,216542021,0,MF,ods
+2021-11-23,9000,Bezhotovostní příjem,SLUSTIKOVA JANA,"DAR, Miroslav Slustik",,3002210002,,SLUSTIKOVA JANA,ods
 2021-11-23,12705,Bezhotovostní příjem,W&P EURONOVA SRO,Dps 21190298,0,21170076,,W&P EURONOVA SRO,ods
 2021-11-23,10000,Bezhotovostní příjem,KULHÁNEK JIŘÍ,Kulhánek,0,2602210006,0,KULHÁNEK JIŘÍ,ods
 2021-11-23,18000,Bezhotovostní příjem,HANZA HYNEK,"DAR, Hynek Hanza",,2600210023,,HANZA HYNEK,ods

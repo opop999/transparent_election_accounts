@@ -1,4 +1,11 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,-9680,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2117022645,1200,"VLTAVA LABE MEDIA a.s., inzerce",spd
+2021-11-23,-18120.96,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2117022613,1200,"VLTAVA LABE MEDIA a.s., inzerce",spd
+2021-11-23,-1425,Bezhotovostní platba,,"MKS Frantškovy lázně, výlep plakátů",308,302021,400,"MKS Frantškovy lázně, výlep plakátů",spd
+2021-11-23,-19.06,Bezhotovostní platba,,"Město U. H., pronájem el. sloupku",308,9350404798,1400,"Město U. H., pronájem el. sloupku",spd
+2021-11-23,-2500,Bezhotovostní platba,,"Vladimír Hána, pronájem atrakce",308,2021014,1400,"Vladimír Hána, pronájem atrakce",spd
+2021-11-23,-40535,Bezhotovostní platba,,"VENDI s.r.o., pronájem rekl. ploch",308,2100579,800,"VENDI s.r.o., pronájem rekl. ploch",spd
+2021-11-23,75000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-11-16,-1024.96,Karetní transakce,,"Nákup: SWITCHER STUDIO,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.11.2021, částka  45.00 USD",,3344,,"Nákup: SWITCHER STUDIO,  1205 E Washington StSuite 117, LOUISVILLE, 40206, USA, dne 16.11.2021, částka  45.00 USD",spd
 2021-11-16,1215.27,Karetní transakce,,"Kredit: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1215.27 CZK",,3344,,"Kredit: FACEBK YHW6D8KAN2,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1215.27 CZK",spd
 2021-11-16,1206.5,Karetní transakce,,"Kredit: FACEBK VBXG26PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1206.50 CZK",,3344,,"Kredit: FACEBK VBXG26PZ62,  4 Grand Canal Square, fb.me/ads, 2, IRL, dne 16.11.2021, částka  1206.50 CZK",spd

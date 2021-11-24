@@ -1,4 +1,5 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,30855,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2121000539,,VLTAVA LABE MEDIA,trikolora
 2021-11-19,-944,Platba převodem uvnitř banky,,odstranění polepu z vozu,308,11210839,,odstranění polepu z vozu,trikolora
 2021-11-19,-11906,Bezhotovostní platba,,dotisk letáků,308,2100211,,dotisk letáků JČ,trikolora
 2021-11-19,-43560,Platba převodem uvnitř banky,,polep oken,308,22121029,,polep oken,trikolora

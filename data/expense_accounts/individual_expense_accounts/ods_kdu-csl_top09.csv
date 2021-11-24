@@ -1,4 +1,13 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-23,1000000,Platba převodem uvnitř banky,Občanská demokratická strana,1111-převod financí,,,,1111-převod financí,ods_kdu-csl_top09
+2021-11-23,-760,Bezhotovostní platba,,,558,1343,2200,"2200-Město Mělník , poplatek za užívání věř.prostranství",ods_kdu-csl_top09
+2021-11-23,-500,Bezhotovostní platba,,,378,22022,2200,"2200-Veronika Sasková , správní poplatek",ods_kdu-csl_top09
+2021-11-23,-300,Bezhotovostní platba,,,308,9010001368,2200,"2200-Město Kutná Hora, poplatek za zábor",ods_kdu-csl_top09
+2021-11-23,-760,Bezhotovostní platba,,,378,1343002779,2200,"2200-Město Poděbrady , poplatek za užití veř. prostranství",ods_kdu-csl_top09
+2021-11-23,-7291.46,Bezhotovostní platba,,,308,121082,2200,"2200-KoPe produkce s.r.o., propagační předměty",ods_kdu-csl_top09
+2021-11-23,-18019,Bezhotovostní platba,,,308,120210554,2100,"2100-TOP SERVICE MANAGEMENT, PHm vol. auto",ods_kdu-csl_top09
+2021-11-23,-1800,Bezhotovostní platba,,,308,2100011,2100,"2100-Jan Kapička , reklamní předměty",ods_kdu-csl_top09
+2021-11-23,-1906,Okamžitá odchozí platba,,,0,210100002,,"2600-v kláštěře s.r.o., pohoštění",ods_kdu-csl_top09
 2021-11-19,-455,Okamžitá odchozí platba,,,308,12100347,1114,"1114-Město Nepomuk , výlep plakátů",ods_kdu-csl_top09
 2021-11-19,2000,Platba převodem uvnitř banky,Občanská demokratická strana,Eva Šulová -chybná platba,378,708172021,,3100-Eva Šulová -chybná platba,ods_kdu-csl_top09
 2021-11-19,-20000,Okamžitá odchozí platba,,,308,20210003,2200,"2200-COFFEEMAKERS s.r.o., kávový catering",ods_kdu-csl_top09
