@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,-525410,Bezhotovostní platba,,,308,120210550,1114,TOP SERVICE MANAGEMENT s.r.oc.reklama na FBC,ods_kdu-csl_top09
+2021-11-24,-375100,Bezhotovostní platba,,,308,2121022282,2100,"MAFRA a.s., inzerce Metro",ods_kdu-csl_top09
+2021-11-24,-26317.5,Bezhotovostní platba,,,308,22150776,1114,"Media Master s.r.o.,  Inzerce  Interview 9/2021",ods_kdu-csl_top09
+2021-11-24,-23413.5,Bezhotovostní platba,,,308,22150760,1114,"Media Master s.r.o., inzerce Sedmička",ods_kdu-csl_top09
 2021-11-23,1000000,Platba převodem uvnitř banky,Občanská demokratická strana,1111-převod financí,,,,1111-převod financí,ods_kdu-csl_top09
 2021-11-23,-760,Bezhotovostní platba,,,558,1343,2200,"2200-Město Mělník , poplatek za užívání věř.prostranství",ods_kdu-csl_top09
 2021-11-23,-500,Bezhotovostní platba,,,378,22022,2200,"2200-Veronika Sasková , správní poplatek",ods_kdu-csl_top09

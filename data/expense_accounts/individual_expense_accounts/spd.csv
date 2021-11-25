@@ -1,4 +1,20 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,-6050,Platba převodem uvnitř banky,,"EKODO Šumperk, s.r.o., bannery",308,210600282,800,"EKODO Šumperk, s.r.o., bannery",spd
+2021-11-24,-900,Bezhotovostní platba,,"Město Jemnice, výlep plakátů",308,2209,1300,"Město Jemnice, výlep plakátů",spd
+2021-11-24,-1280,Bezhotovostní platba,,"Valašskokloboucké služby, výlep",308,211557,1400,"Valašskokloboucké služby, výlep",spd
+2021-11-24,-770,Bezhotovostní platba,,"Dům kultury Šumperk, výlep",308,21007065,800,"Dům kultury Šumperk, výlep",spd
+2021-11-24,-26983,Bezhotovostní platba,,"A-PROPOS, Truck road show Ostrava",308,210100276,100,"A-PROPOS, Truck road show Ostrava",spd
+2021-11-24,-32307,Bezhotovostní platba,,"A-PROPOS, vícenákl. akce Ostrava",308,210100277,100,"A-PROPOS, vícenákl. akce Ostrava",spd
+2021-11-24,-1100,Bezhotovostní platba,,"MKS Kojetín, p.o., výlep plakátů",308,2021035,800,"MKS Kojetín, p.o., výlep plakátů",spd
+2021-11-24,-2420,Bezhotovostní platba,,"HCJ Mělníik, z.s., umístění banneru",308,21063,1100,"HCJ Mělníik, z.s., umístění banneru",spd
+2021-11-24,-8712,Platba převodem uvnitř banky,,"PRINT-SHOP.cz, s.r.o., plakáty",308,210975,900,"PRINT-SHOP.cz, s.r.o., plakáty",spd
+2021-11-24,-6655,Bezhotovostní platba,,"W & P EURONOVA s.r.o., rekl. plocha",308,21190215,400,"W & P EURONOVA s.r.o., rekl. plocha",spd
+2021-11-24,-60500,Bezhotovostní platba,,"Haná Press, s.r.o., inzerce v tisku",308,211801410,800,"Haná Press, s.r.o., inzerce v tisku",spd
+2021-11-24,-2940,Bezhotovostní platba,,"Stat. město Brno, veř. prostranství",308,1062802784,300,"Stat. město Brno, veř. prostranství",spd
+2021-11-24,-10066,Bezhotovostní platba,,"Přemysl Horák, bannery",308,20210074,800,"Přemysl Horák, bannery",spd
+2021-11-24,-3202,Bezhotovostní platba,,"RENGL, s.r.o., výlep plakátů",308,37552021,1100,"RENGL, s.r.o., výlep plakátů",spd
+2021-11-24,-540,Bezhotovostní platba,,"MOSKVA s.r.o., pronájem (doplatek)",308,2021091,1200,"MOSKVA s.r.o., pronájem (doplatek)",spd
+2021-11-24,165000,Platba převodem uvnitř banky,Svoboda a přímá demokracie (SPD),Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,,,,Převod prostředků z transparentního účtu na volební účet SPD - volby do PS 2021,spd
 2021-11-23,-9680,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2117022645,1200,"VLTAVA LABE MEDIA a.s., inzerce",spd
 2021-11-23,-18120.96,Bezhotovostní platba,,"VLTAVA LABE MEDIA a.s., inzerce",308,2117022613,1200,"VLTAVA LABE MEDIA a.s., inzerce",spd
 2021-11-23,-1425,Bezhotovostní platba,,"MKS Frantškovy lázně, výlep plakátů",308,302021,400,"MKS Frantškovy lázně, výlep plakátů",spd

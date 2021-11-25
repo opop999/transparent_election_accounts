@@ -1,4 +1,6 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,18092,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - převod prostředků na volební účet,,,,STAN - převod prostředků na volební účet,pirati_stan
+2021-11-24,1300000,Platba převodem uvnitř banky,STAROSTOVÉ A NEZÁVISLÍ,STAN - převod prostředků na volební účet,,,,STAN - převod prostředků na volební účet,pirati_stan
 2021-11-23,-566.28,Bezhotovostní platba,,"pp#21269 FO 6133/2021, pak:p, sablony-na-lavicku, bred-core-eu-sro",,20210053,42021,"pp#21269 FO 6133/2021, pak:p, sablony-na-lavicku, bred-core-eu-sro",pirati_stan
 2021-11-23,-350.9,Bezhotovostní platba,,"pp#21267 FO 6131/2021, pak:p, tricko-ferjencik, bred-core-eu-sro",,20210054,42021,"pp#21267 FO 6131/2021, pak:p, tricko-ferjencik, bred-core-eu-sro",pirati_stan
 2021-11-23,-36300,Bezhotovostní platba,,"pp#21256 FO 6121/2021, stc:p, grafika, communication-lab-sro",,20210199,42021,"pp#21256 FO 6121/2021, stc:p, grafika, communication-lab-sro",pirati_stan

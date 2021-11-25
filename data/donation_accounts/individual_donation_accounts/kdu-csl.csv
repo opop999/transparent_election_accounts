@@ -1,4 +1,9 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-25,200,Platba převodem uvnitř banky,"Olejníček, David",David Olejníček - dar,,11031974,725,David Olejníček - dar,kdu-csl
+2021-11-24,20000,Okamžitá příchozí platba,"Zubní lékařství, MUD",,0,28111954,717,"Zubní lékařství, MUD",kdu-csl
+2021-11-24,-14000000,Platba převodem uvnitř banky,,převod na provoz,,,,převod na provoz,kdu-csl
+2021-11-24,2500,Bezhotovostní příjem,DUSAN JANIK,PLZEŇSKÝ KRAJ,,1,351,DUSAN JANIK,kdu-csl
+2021-11-24,900,Okamžitá příchozí platba,HOVJACKÝ ONDŘEJ,dar - Na provoz - 351,351,2111240128,,HOVJACKÝ ONDŘEJ,kdu-csl
 2021-11-24,1900,Bezhotovostní příjem,Marek Štoss,Marek Štoss - dar pro KDU-ČSL,,,,Marek Štoss,kdu-csl
 2021-11-24,2000,Bezhotovostní příjem,BAZALA JOSEF,JOSEF BAZALA PŘÍSPĚVEK KDU-ČSL,0,0,0,BAZALA JOSEF,kdu-csl
 2021-11-23,1000,Okamžitá příchozí platba,Pavel Dolanský,Plzeňský kraj,,1,351,Pavel Dolanský,kdu-csl

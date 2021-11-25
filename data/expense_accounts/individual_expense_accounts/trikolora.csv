@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,-8270.35,Bezhotovostní platba,,balonkový plyn,308,4226445903,,balonkový plyn HK,trikolora
+2021-11-24,-38720,Bezhotovostní platba,,,308,2121022293,,inzerce Mafra Str. c.,trikolora
+2021-11-24,-21429,Bezhotovostní platba,,2021142 LOGPACK  S.R.O.,308,2021142,,reklamní kostky KV,trikolora
+2021-11-24,-580.8,Bezhotovostní platba,,Plakátování,308,2210322,,Plakátování Vys,trikolora
+2021-11-24,-24901,Bezhotovostní platba,,přeprava tramvají,308,2121010748,,přeprava tramvají PHA,trikolora
+2021-11-24,-919.6,Bezhotovostní platba,,stahovací pásky,308,21106329,,stahovací pásky PHA,trikolora
+2021-11-24,-21780,Bezhotovostní platba,,rekl. nosiče A 1 - plakáty politické k volbám OL,308,2100679,,rekl. nosiče A 1 - plakáty politické k volbám OL,trikolora
+2021-11-24,80000,Platba převodem uvnitř banky,Trikolóra hnutí občanů,převod na volební účet,,,,převod na volební účet,trikolora
 2021-11-24,30855,Bezhotovostní příjem,VLTAVA LABE MEDIA,VRATKA VLM,0,2121000539,,VLTAVA LABE MEDIA,trikolora
 2021-11-19,-944,Platba převodem uvnitř banky,,odstranění polepu z vozu,308,11210839,,odstranění polepu z vozu,trikolora
 2021-11-19,-11906,Bezhotovostní platba,,dotisk letáků,308,2100211,,dotisk letáků JČ,trikolora

@@ -1,4 +1,10 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-25,100,Bezhotovostní příjem,RNDr.Fiala Tomáš,dar,0,9002171,0,RNDr.Fiala Tomáš,zeleni
+2021-11-25,100,Bezhotovostní příjem,Titlbachová Jana,DAR,0,9003770,,Titlbachová Jana,zeleni
+2021-11-25,500,Bezhotovostní příjem,John René,dar,0,9002959,,John René,zeleni
+2021-11-24,-1000000,Platba převodem uvnitř banky,,převod z darového účtu na provozní účet,,,,převod z darového účtu na provozní účet,zeleni
+2021-11-24,662500,Bezhotovostní příjem,MF,,6418,216542021,0,MF,zeleni
+2021-11-24,100,Bezhotovostní příjem,MAREK NAGY,DAR,,9003753,,MAREK NAGY,zeleni
 2021-11-23,3000,Okamžitá příchozí platba,Titlbachová Jana,DAR,0,,,Titlbachová Jana,zeleni
 2021-11-23,100,Bezhotovostní příjem,JIRI SEBESTA,DAR,,9003307,,JIRI SEBESTA,zeleni
 2021-11-23,100,Bezhotovostní příjem,Zara Gonzalez,Dar od Zara Gonzalez,,9003743,,Zara Gonzalez,zeleni

@@ -1,4 +1,12 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-25,1,Bezhotovostní příjem,Global Payments s.r.,8A57419CBD824343AA58209E0FC33EE8,308,525,,Global Payments s.r.,trikolora
+2021-11-24,200,Okamžitá příchozí platba,Ing.Beranová Jana,,0,121212,,Ing.Beranová Jana,trikolora
+2021-11-24,-80000,Platba převodem uvnitř banky,,převod na volební účet,,,,převod na volební účet,trikolora
+2021-11-24,300,Bezhotovostní příjem,DAVID BOLCEK,PŘEVOD PROSTŘEDKŮ,,2201153003,,DAVID BOLCEK,trikolora
+2021-11-24,200,Bezhotovostní příjem,JANA VACKOVA,SNĚM-JANA VACKOVÁ,,121212,,JANA VACKOVA,trikolora
+2021-11-24,200,Okamžitá příchozí platba,Ing.Čada Roman,SNĚM - Roman Čada,0,1212,,Ing.Čada Roman,trikolora
+2021-11-24,62500,Bezhotovostní příjem,MF,,6418,216542021,0,MF,trikolora
+2021-11-24,200,Okamžitá příchozí platba,Jehlička Pavel,"SNĚM, Pavel Jehlička",0,121212,,Jehlička Pavel,trikolora
 2021-11-23,300,Okamžitá příchozí platba,Ing. Vojtěch Kaprál,,,2201153007,,Ing. Vojtěch Kaprál,trikolora
 2021-11-22,200,Okamžitá příchozí platba,JUDr.Dundáčková Eva,SNĚM - Eva Dundáčková,0,1212,,JUDr.Dundáčková Eva,trikolora
 2021-11-22,2000,Platba převodem uvnitř banky,"Němec, Jakub",Jakub Němec,,,,Jakub Němec,trikolora

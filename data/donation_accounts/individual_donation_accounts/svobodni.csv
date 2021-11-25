@@ -1,4 +1,8 @@
 date,amount,type,contra_account_name,message_for_recipient,ks,vs,ss,note,entity_name
+2021-11-24,200,Okamžitá příchozí platba,Benáčková Blanka,,0,9441,,Benáčková Blanka,svobodni
+2021-11-24,500,Okamžitá příchozí platba,Bedřich Hovorka,DAR příspěvek příznivce Bedřich Hovorka,0,9440,0,Bedřich Hovorka,svobodni
+2021-11-24,2000,Bezhotovostní příjem,SLACIK PETR,DAR PRIZNIVCE,,9439,,SLACIK PETR,svobodni
+2021-11-24,225000,Bezhotovostní příjem,MF,,6418,216542021,0,MF,svobodni
 2021-11-23,-1500,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-11-23,-9600,Platba převodem uvnitř banky,,převod prostředků na výdajový účet volební kampaně do PSP ČR,,,,převod prostředků na výdajový účet volební kampaně do PSP ČR,svobodni
 2021-11-22,200,Bezhotovostní příjem,JEŽEK MILAN,dar priznivce,0,8162,0,JEŽEK MILAN,svobodni
